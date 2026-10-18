@@ -87,6 +87,18 @@ comandos de botão de `$MARIOMON_REMOTE_DIR/cmd.txt` (padrão
 `SAVESTATE`/`LOADSTATE`, `DUMPWRAM`. Salva a tela após cada lote de comandos.
 `tools/mapa_atual.py` diz em que mapa o jogo está a partir do `DUMPWRAM`.
 
+## Licença
+
+As ferramentas (`tools/`) e o trabalho de tradução estão sob a
+[licença MIT](LICENSE). O Super Mariomon pertence aos seus autores, e Pokémon
+e Mario às suas respectivas donas; os trechos em inglês guardados nos campos
+`en` são do jogo original e estão aqui só como referência para a tradução.
+Este é um projeto de fã, sem fins lucrativos e sem relação com a Nintendo,
+a Game Freak ou a The Pokémon Company.
+
+*The tools and translation work are MIT-licensed; the game, its original
+text and all characters belong to their respective owners.*
+
 ---
 
 ## For translators (other languages)
