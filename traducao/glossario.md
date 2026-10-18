@@ -114,6 +114,6 @@ Nomes de itens, golpes e habilidades seguem `traducao/nomes/*.json`.
 | WILD BATTLE | BATALHA SELVAGEM |
 | nomes de personagem com patente (PRIVATE GOOMP, SERGEANT GUY) | ficam em inglês |
 
-Palavras do sistema de frases (Easy Chat, 0x82ED78–0x832578) ficam em inglês:
+Palavras do sistema de frases (Easy Chat, 0x82D90F–0x832578) ficam em inglês:
 o hack usa frases secretas em inglês nos questionários, e traduzir as palavras
 impediria o jogador de digitá-las.

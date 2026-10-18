@@ -83,3 +83,19 @@ def apply(source, patch):
     if zlib.crc32(target) != int.from_bytes(patch[-8:-4], "little"):
         raise ValueError("resultado do patch não confere")
     return bytes(target)
+
+
+if __name__ == "__main__":
+    import sys
+
+    if len(sys.argv) != 5 or sys.argv[1] not in ("apply", "create"):
+        sys.exit("usage: bps.py apply ROM PATCH OUT | bps.py create ROM TARGET OUT")
+    mode, a, b, out = sys.argv[1:]
+    with open(a, "rb") as f:
+        first = f.read()
+    with open(b, "rb") as f:
+        second = f.read()
+    result = apply(first, second) if mode == "apply" else create(first, second)
+    with open(out, "wb") as f:
+        f.write(result)
+    print("%s: %d bytes" % (out, len(result)))

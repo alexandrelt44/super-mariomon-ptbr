@@ -46,7 +46,6 @@ tom, abreviações forçadas por largura e textos para conferir no emulador.
 - Pendente: POKéNAV / MATCH CALL mantidos — decidir
 ## lote 009b (vanilla: bases, clubes, concursos)
 - Termos já colocados no glossário (concursos, clubes, berry blender...). BAG→MOCHILA aqui (padronizar BOLSA). AXE→MACHADO; POWER GLOVE→LUVA DE PODER (003 usou LUVAS DE PODER); DIVING SUIT→ROUPA DE MERGULHO
-- AVISO: agentes sobrescreviam temporários no scratchpad → a partir do lote 018 cada agente usa scratchpad/lote_NNN/
 ## lote 012 (vanilla Slateport/Mauville)
 - Termos: TEAM AQUA/MAGMA→EQUIPE AQUA/MAGMA; BOSS→CHEFE; CAPT. STERN→CAPITÃO STERN; MR. BRINEY→SR. BRINEY; Battle Swap→Batalha de Troca; GAME CORNER→CASSINO; SLOTS→CAÇA-NÍQUEL; ROULETTE→ROLETA; BIKE→BICICLETA; RUNNING SHOES→TÊNIS DE CORRIDA; TICKET→BILHETE; DEVON GOODS→MERCADORIAS DA DEVON; SHIPYARD→ESTALEIRO; HIDEOUT→ESCONDERIJO; FAN CLUB→FÃ-CLUBE; WEATHER INSTITUTE→INSTITUTO DO CLIMA
 ## lote 009a
