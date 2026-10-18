@@ -1,0 +1,2234 @@
+[
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369AED",
+  "en": "The door appears to be locked. The\\nkeyhole is kind of shaped like a BULLET\\lBILL…",
+  "pt": "A porta parece estar trancada. O buraco da fechadura tem meio que o formato de um BULLET BILL…"
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369B3E",
+  "en": "Use the BULLET KEY?",
+  "pt": "Usar a CHAVE BULLET?"
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369B52",
+  "en": "The key fit perfectly!",
+  "pt": "A chave encaixou perfeitamente!"
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369B99",
+  "en": "I think I got an ouchie.",
+  "pt": "Acho que fiz um dodói."
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369BB2",
+  "en": "Kekekekekek.",
+  "pt": "Kekekekekek."
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369BCC",
+  "en": "post battle",
+  "pt": "pós-batalha"
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369BD8",
+  "en": "You came out of your way to talk to me?\\nMARIO, that means the whole world.\\pPlease, have this. You deserve it.",
+  "pt": "Você saiu do seu caminho só pra falar comigo? MARIO, isso significa o mundo pra mim.\\pPor favor, fique com isto. Você merece."
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369C46",
+  "en": "Give BOWSER hell.",
+  "pt": "Acaba com o BOWSER."
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369C58",
+  "en": "CURRENT ROOM: 1F - 2\\nDOOR TO: 1F - 1",
+  "pt": "SALA ATUAL: 1A - 2\\nPORTA PARA: 1A - 1"
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369C7D",
+  "en": "CURRENT ROOM: 1F - 2\\nDOOR TO: 1F - 3",
+  "pt": "SALA ATUAL: 1A - 2\\nPORTA PARA: 1A - 3"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "0369ED0",
+  "en": "Launch a BULLET BILL?",
+  "pt": "Lançar um BULLET BILL?"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "0369EE6",
+  "en": "There's no need to turn this switch\\nback ON.",
+  "pt": "Não precisa LIGAR este interruptor de novo."
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "0369F13",
+  "en": "LORD BOWSER has instructed me to spin\\nin place!",
+  "pt": "O LORDE BOWSER me mandou ficar girando no lugar!"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "0369F43",
+  "en": "You have stopped me for a moment. Back\\nto spinning.",
+  "pt": "Você me fez parar por um momento. De volta a girar."
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "0369F77",
+  "en": "I will keep spinning until I'm told to\\nstop.",
+  "pt": "Vou continuar girando até mandarem parar."
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "0369FA4",
+  "en": "I, uh, lost my stack.",
+  "pt": "Eu, hã, perdi minha torre."
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "0369FBA",
+  "en": "All this lava is really scary, but my\\ntrusty SHELL protects me!\\pYours can too, if you find the KOOPA\\nTROOP anti-lava SHELL somewhere in the\\lcastle.",
+  "pt": "Toda essa lava é assustadora, mas meu fiel CASCO me protege!\\pO seu também pode, se você achar o CASCO antilava da TROPA KOOPA em algum lugar do castelo."
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A04E",
+  "en": "Not all is as it seems in LORD BOWSER's\\ncastle! Little areas like this that you\\lcan poke out of are actually tunnels!",
+  "pt": "Nem tudo é o que parece no castelo do LORDE BOWSER! Esses cantinhos por onde dá pra espiar são, na verdade, túneis!"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A0C4",
+  "en": "Found the KOOPA TROOP's LAVA SHELL\\nupgrade!",
+  "pt": "Você achou o aprimoramento de CASCO DE LAVA da TROPA KOOPA!"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A0F0",
+  "en": "Attached the upgrade to your KOOPA\\nSHELL.\\pYou can now SURF over LAVA!\\pYou also found lava resistant bait, you\\ncan now FISH IN LAVA!",
+  "pt": "Você instalou o aprimoramento no seu CASCO KOOPA.\\pAgora você pode SURFAR sobre a LAVA!\\pVocê também achou uma isca resistente à lava, agora você pode PESCAR NA LAVA!"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A174",
+  "en": "You've already unlocked this door.",
+  "pt": "Você já destrancou esta porta."
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A197",
+  "en": "The door appears to be locked. The\\nkeyhole is kind of shaped like a BULLET\\lBILL…",
+  "pt": "A porta parece estar trancada. O buraco da fechadura tem meio que o formato de um BULLET BILL…"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A1E8",
+  "en": "Use the BULLET KEY?",
+  "pt": "Usar a CHAVE BULLET?"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A1FC",
+  "en": "The key fit perfectly!",
+  "pt": "A chave encaixou perfeitamente!"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A213",
+  "en": "CURRENT ROOM: 1F - 3\\nDOOR TO: 1F - 2",
+  "pt": "SALA ATUAL: 1A - 3\\nPORTA PARA: 1A - 2"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A238",
+  "en": "CURRENT ROOM: 1F - 3\\nPIPE TO: 1F - 4",
+  "pt": "SALA ATUAL: 1A - 3\\nCANO PARA: 1A - 4"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A25D",
+  "en": "CURRENT ROOM: 1F - 3\\nDOOR TO: 1F - 6",
+  "pt": "SALA ATUAL: 1A - 3\\nPORTA PARA: 1A - 6"
+ },
+ {
+  "map": "13.3 B. CASTLE 1F",
+  "offset": "036A282",
+  "en": "CURRENT ROOM: 1F - 3\\nDOOR TO: 1F - 4",
+  "pt": "SALA ATUAL: 1A - 3\\nPORTA PARA: 1A - 4"
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A4F8",
+  "en": "I know we're not the strongest, but\\nwe're definitely the proudest.",
+  "pt": "Sei que não somos os mais fortes, mas com certeza somos os mais orgulhosos."
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A55B",
+  "en": "This is what I say after a battle!",
+  "pt": "É isso que eu digo depois de uma batalha!"
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A5C3",
+  "en": "I wish I could use my spear in battle.",
+  "pt": "Queria poder usar minha lança na batalha."
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A5EA",
+  "en": "I'm here doing a safety audit on the\\ncastle, and I can say with utmost\\lcertainty that it's TOO HOT and TOO\\lSCARY!",
+  "pt": "Estou aqui fazendo uma inspeção de segurança no castelo, e posso afirmar com toda a certeza que ele é QUENTE DEMAIS e ASSUSTADOR DEMAIS!"
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A6F7",
+  "en": "All that's left is SERGEANT GUY\\nprotecting BOWSER's KEY.\\pI don't think he's as strong as me, but\\nhe's all that's left, so go easy on him.",
+  "pt": "Só sobrou o SERGEANT GUY protegendo a CHAVE DO BOWSER.\\pNão acho que ele seja tão forte quanto eu, mas ele é o último que restou, então pega leve com ele."
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A781",
+  "en": "This brick seems breakable, but not by\\nyour HAMMER.",
+  "pt": "Este tijolo parece quebrável, mas não com o seu MARTELO."
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A7B5",
+  "en": "CURRENT ROOM: 1F - 4\\nPIPE TO: 1F - 1",
+  "pt": "SALA ATUAL: 1A - 4\\nCANO PARA: 1A - 1"
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A7DA",
+  "en": "CURRENT ROOM: 1F - 4\\nDOOR TO: 1F - 3",
+  "pt": "SALA ATUAL: 1A - 4\\nPORTA PARA: 1A - 3"
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A7FF",
+  "en": "CURRENT ROOM: 1F - 4\\nPIPE TO: 1F - 3",
+  "pt": "SALA ATUAL: 1A - 4\\nCANO PARA: 1A - 3"
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A824",
+  "en": "CURRENT ROOM: 1F - 4\\nDOOR TO: 1F - 5",
+  "pt": "SALA ATUAL: 1A - 4\\nPORTA PARA: 1A - 5"
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036A9EA",
+  "en": "There are many more surprises to come.",
+  "pt": "Ainda tem muitas surpresas pela frente."
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036AA71",
+  "en": "Do the POWER STARS actually give you\\nmore power?",
+  "pt": "Será que as ESTRELAS DE PODER dão mesmo mais poder?"
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036AAA2",
+  "en": "All these doors don't make moving\\naround the castle any easier.\\pWhoever designed this must really hate\\nfun and want to see everyone suffer.",
+  "pt": "Todas essas portas não facilitam nada pra andar pelo castelo.\\pQuem projetou isto deve odiar diversão e querer ver todo mundo sofrer."
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036AB2E",
+  "en": "Oh boy! I can't wait to start my journey\\nin the C.A.P. CHALLENGE!\\pI hope I can get all 8 POWER STARS\\nbefore anyone else does?\\pHey MARIO? How many do you have?\\pYou have 7 and are about to get your\\n8th!\\pWow! That's fantastic! Thanks for\\ntelling me!\\pI'm going to quit before I get too\\ninvested!",
+  "pt": "Que demais! Mal posso esperar pra começar minha jornada no DESAFIO C.A.P.!\\pSerá que eu consigo pegar as 8 ESTRELAS DE PODER antes de todo mundo?\\pEi, MARIO? Quantas você tem?\\pVocê tem 7 e está prestes a pegar a 8ª!\\pUau! Que fantástico! Valeu por me contar!\\pVou desistir antes de me envolver demais!"
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036AC52",
+  "en": "You beat PARAPLONK and GOOMP?\\pLook, I'm one day away from vacation\\nand one step away from lava, so let's\\lnot drag this out.",
+  "pt": "Você venceu o PARAPLONK e o GOOMP?\\pOlha, eu estou a um dia das férias e a um passo da lava, então não vamos prolongar isso."
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036ACCE",
+  "en": "That was completely expected.",
+  "pt": "Isso já era totalmente esperado."
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036ACEC",
+  "en": "There's nothing we can do to stop you\\nnow.\\pI just hope we weakened you enough.",
+  "pt": "Não há mais nada que possamos fazer pra te deter.\\pSó espero que a gente tenha te enfraquecido o bastante."
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036AD3B",
+  "en": "There's no need to turn this switch\\nback ON.",
+  "pt": "Não precisa LIGAR este interruptor de novo."
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036AD68",
+  "en": "CURRENT ROOM: 1F - 5\\nDOOR TO: 1F - 1",
+  "pt": "SALA ATUAL: 1A - 5\\nPORTA PARA: 1A - 1"
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036AD8D",
+  "en": "CURRENT ROOM: 1F - 5\\nDOOR TO: 1F - 4",
+  "pt": "SALA ATUAL: 1A - 5\\nPORTA PARA: 1A - 4"
+ },
+ {
+  "map": "13.5 B. CASTLE 1F",
+  "offset": "036ADB2",
+  "en": "CURRENT ROOM: 1F - 5\\nDOOR TO: 1F - 6",
+  "pt": "SALA ATUAL: 1A - 5\\nPORTA PARA: 1A - 6"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B03A",
+  "en": "Having trouble fishing up that LAVA\\nDROP? Make sure you're using a GOOD ROD\\lif you can't find it!",
+  "pt": "Não está conseguindo pescar aquele LAVA DROP? Se não estiver achando, confira se está usando uma VARA BOA!"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B09C",
+  "en": "Thanks again for showing me that LAVA\\nDROP, now I'm on a mission to find my\\lown!",
+  "pt": "Valeu de novo por me mostrar aquele LAVA DROP, agora estou numa missão pra achar o meu!"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B0ED",
+  "en": "Wait a minute! That's a LAVA DROP! So\\nyou CAN fish in lava, huh! I'll just have\\lto keep trying, I guess.\\pThanks for showing me the way of lava\\nfishing! Go on, take this.",
+  "pt": "Espera aí! Isso é um LAVA DROP! Então DÁ pra pescar na lava, hein! Acho que vou ter que continuar tentando.\\pValeu por me mostrar os segredos da pesca na lava! Toma, fica com isto."
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B197",
+  "en": "Obtained 10 MAX LURES!",
+  "pt": "Você obteve 10 ISCAS MÁXIMAS!"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B1AE",
+  "en": "LURES are handy items that will\\nincrease the odds of getting into a\\lfight!\\pOh! And they'll also increase the odds\\nyou'll get a rare find, like something\\lwith a different color!",
+  "pt": "As ISCAS são itens úteis que aumentam as chances de entrar numa luta!\\pAh! E também aumentam as chances de você achar algo raro, tipo uma CAPTURA de cor diferente!"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B25F",
+  "en": "HAHAHAHAHAHA!",
+  "pt": "HAHAHAHAHAHA!",
+  "max_width": 82
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B26D",
+  "en": "Hut, two, three, four! Hut, two, three,\\nfour!",
+  "pt": "Um, dois, três, quatro! Um, dois, três, quatro!"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B29B",
+  "en": "Oh boy, I'm out of breath.",
+  "pt": "Nossa, tô sem fôlego."
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B2B6",
+  "en": "The heat and all the pacing are making\\nme really sweaty.",
+  "pt": "O calor e toda essa marcha estão me deixando muito suado."
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B322",
+  "en": "I've been 'it' for 2 hours now!",
+  "pt": "Faz 2 horas que eu sou o pegador!"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B3B7",
+  "en": "On second thought, you defeating me\\nmeans you get to beat up PRIVATE GOOMP\\lnow!\\pKick his butt!",
+  "pt": "Pensando bem, já que você me derrotou, agora você pode dar uma surra no PRIVATE GOOMP!\\pChuta o traseiro dele!"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B416",
+  "en": "CURRENT ROOM: 1F - 6\\nDOOR TO: 1F - 3",
+  "pt": "SALA ATUAL: 1A - 6\\nPORTA PARA: 1A - 3"
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036B43B",
+  "en": "CURRENT ROOM: 1F - 6\\nDOOR TO: 1F - 5",
+  "pt": "SALA ATUAL: 1A - 6\\nPORTA PARA: 1A - 5"
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B581",
+  "en": "Hey, hey, hey! Are you looking to buy,\\nbuy, buy?",
+  "pt": "Ei, ei, ei! Tá a fim de comprar, comprar, comprar?"
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B5B2",
+  "en": "MARIO! You made it! Some of us have set\\nup a rest stop in this room. You should\\ltake advantage of this and use the\\lchance to rest up.",
+  "pt": "MARIO! Você conseguiu! Alguns de nós montaram um ponto de descanso nesta sala. Aproveite a chance pra recuperar as forças."
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B638",
+  "en": "The power of science is amazing! Now\\nyou can connect to someone else's PC\\land battle against them!\\pWhat? You were expecting to hear\\nsomething like this around 20 hours\\lago? Sorry! I couldn't find the time to\\lmake it to TOAD TOWN.",
+  "pt": "O poder da ciência é incrível! Agora você pode se conectar ao PC de outra pessoa e batalhar contra ela!\\pO quê? Esperava ouvir algo assim umas 20 horas atrás? Desculpe! Não consegui arranjar tempo pra ir até a CIDADE TOAD."
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B71E",
+  "en": "Hey, have you seen my bro? We were\\nmaking a stack so we could impress a\\llady GOOMBA, but it looks like he fell\\loff somewhere along the way.",
+  "pt": "Ei, você viu meu mano? A gente tava montando uma torre pra impressionar uma moça GOOMBA, mas parece que ele caiu em algum ponto do caminho."
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B7AA",
+  "en": "You been picking up any KEYS? You're\\ngonna need at least THREE if you wanna\\lget through the entire castle, but you\\ldidn't hear that from me.",
+  "pt": "Andou pegando alguma CHAVE? Você vai precisar de pelo menos TRÊS se quiser atravessar o castelo inteiro, mas não fui eu que te contei."
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B837",
+  "en": "I'm used to warm conditions, but this\\nplace is ridiculous! How does anyone\\lget anything done like this?",
+  "pt": "Estou acostumado com calor, mas este lugar é ridículo! Como alguém consegue fazer alguma coisa assim?"
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B89F",
+  "en": "You thinking of proceeding to the\\nsecond floor? A word of advice: don't\\lbe afraid to fall down.\\pOh, and you can also always ESCAPE back\\nto this rest area, if you know what I\\lmean.",
+  "pt": "Pensando em seguir pro segundo andar? Um conselho: não tenha medo de cair.\\pAh, e você sempre pode FUGIR de volta pra esta área de descanso, se é que me entende."
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B953",
+  "en": "OF COURSE\\nMY FRANK",
+  "pt": "MAS É CLARO\\nMEU FRANK"
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BA5C",
+  "en": "That's…not good…",
+  "pt": "Isso… não é bom…"
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BA6D",
+  "en": "I'm staying right here until further\\norders!",
+  "pt": "Vou ficar bem aqui até receber novas ordens!"
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BB01",
+  "en": "I only follow orders. I don't know much\\nabout their family dynamic.",
+  "pt": "Eu só sigo ordens. Não sei muito sobre a dinâmica da família deles."
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BB9E",
+  "en": "Wait, if PRINCESS PEACH isn't here, then\\nwhat's the point of any of this?",
+  "pt": "Peraí, se a PRINCESA PEACH não está aqui, qual é o sentido de tudo isso?"
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BBE8",
+  "en": "Lava is flowing through a hole in the\\nfloor.\\pFollow it and drop to the level below?",
+  "pt": "A lava está escorrendo por um buraco no chão.\\pSeguir a lava e cair para o andar de baixo?"
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BC3C",
+  "en": "CURRENT ROOM: 2F - 1\\nPIPE TO: 2F - 3",
+  "pt": "SALA ATUAL: 2A - 1\\nCANO PARA: 2A - 3"
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BC61",
+  "en": "CURRENT ROOM: 2F - 1\\nDOOR TO: 2F - 2",
+  "pt": "SALA ATUAL: 2A - 1\\nPORTA PARA: 2A - 2"
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BC86",
+  "en": "CURRENT ROOM: 2F - 1\\nDOOR TO: 2F - 4",
+  "pt": "SALA ATUAL: 2A - 1\\nPORTA PARA: 2A - 4"
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BD9E",
+  "en": "I need to tell LORD BOWSER that MARIO\\nis among us!",
+  "pt": "Preciso avisar o LORDE BOWSER que o MARIO está entre nós!"
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BDD1",
+  "en": "Gahahaha! Can you win against this?",
+  "pt": "Gahahaha! Consegue vencer isto?"
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BDF5",
+  "en": "But, how…",
+  "pt": "Mas, como…"
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BDFF",
+  "en": "DRY BONES is supposed to be\\nundefeatable! What gives?!",
+  "pt": "O DRY BONES deveria ser invencível! Qual é?!"
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BE36",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BE3C",
+  "en": "Where am I? How'd I get here?",
+  "pt": "Onde estou? Como vim parar aqui?"
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BE5A",
+  "en": "Lava is flowing through a hole in the\\nfloor.\\pFollow it and drop to the level below?",
+  "pt": "A lava está escorrendo por um buraco no chão.\\pSeguir a lava e cair para o andar de baixo?"
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BEAE",
+  "en": "Evri1 arownd me is a posr. I havnt sen\\nane1 but LORD BEWSR and MORTN that\\lisnt a reel goff.",
+  "pt": "Tdo mundo aki é poser. Num vi ningem alem do LORDE BAUZER e do MORTN q seje gotiku di verdadi."
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BF0A",
+  "en": "CURRENT ROOM: 2F - 2\\nDOOR TO: 2F - 1",
+  "pt": "SALA ATUAL: 2A - 2\\nPORTA PARA: 2A - 1"
+ },
+ {
+  "map": "13.9 B. CASTLE 2F",
+  "offset": "036BF2F",
+  "en": "CURRENT ROOM: 2F - 2\\nDOOR TO: 2F - 4",
+  "pt": "SALA ATUAL: 2A - 2\\nPORTA PARA: 2A - 4"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C06A",
+  "en": "The door appears to be locked. The\\nkeyhole is kind of shaped like BUBBLES…",
+  "pt": "A porta parece estar trancada. O buraco da fechadura tem meio que o formato de BOLHAS…"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C0B5",
+  "en": "Use the BUBBLE KEY?",
+  "pt": "Usar a CHAVE BOLHA?"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C0C9",
+  "en": "The key fit perfectly!",
+  "pt": "A chave encaixou perfeitamente!"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C0E0",
+  "en": "Get blasted, NERD!",
+  "pt": "Vai pelos ares, NERD!"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C0F3",
+  "en": "I've been blasted!",
+  "pt": "Fui pelos ares!"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C106",
+  "en": "No, I don't think 4 BLASTERS is\\nexcessive.",
+  "pt": "Não, eu não acho que 4 CANHÕES seja exagero."
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C131",
+  "en": "Don't worry, MARIO! I'll block the\\nBULLET BILLS for you! It won't hurt!\\lMuch…",
+  "pt": "Não se preocupe, MARIO! Eu bloqueio os BULLET BILLS pra você! Não vai doer! Muito…"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C17F",
+  "en": "CURRENT ROOM: 2F - 3\\nDOOR TO: 2F - 4",
+  "pt": "SALA ATUAL: 2A - 3\\nPORTA PARA: 2A - 4"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C1A4",
+  "en": "CURRENT ROOM: 2F - 3\\nDOOR TO: 2F - 5",
+  "pt": "SALA ATUAL: 2A - 3\\nPORTA PARA: 2A - 5"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C1C9",
+  "en": "CURRENT ROOM: 2F - 3\\nPIPE TO: 2F - 1",
+  "pt": "SALA ATUAL: 2A - 3\\nCANO PARA: 2A - 1"
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C29C",
+  "en": "I love the smell of LAVA at an\\nnondescript time of day.",
+  "pt": "Adoro o cheiro de LAVA num horário qualquer do dia."
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C2D4",
+  "en": "Mmm… fumes…",
+  "pt": "Hmm… vapores…"
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C2E0",
+  "en": "I once tried drinking some of the LAVA.\\nWhat happened? The cup melted.",
+  "pt": "Uma vez eu tentei beber um pouco da LAVA. O que aconteceu? O copo derreteu."
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C389",
+  "en": "Womp womp.",
+  "pt": "Fom, fom, fom."
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C394",
+  "en": "Lava is flowing through a hole in the\\nfloor.\\pFollow it and drop to the level below?",
+  "pt": "A lava está escorrendo por um buraco no chão.\\pSeguir a lava e cair para o andar de baixo?"
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C3E8",
+  "en": "Nah, I'm not gonna fight you. Not as\\nlong as LORD BOWSER keeps stationing\\lus directly in front of BULLET BILL\\lblasters.",
+  "pt": "Não, não vou lutar com você. Não enquanto o LORDE BOWSER continuar posicionando a gente bem na frente dos canhões de BULLET BILL."
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C460",
+  "en": "CURRENT ROOM: 2F - 4\\nDOOR TO: 2F - 2",
+  "pt": "SALA ATUAL: 2A - 4\\nPORTA PARA: 2A - 2"
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C485",
+  "en": "CURRENT ROOM: 2F - 4\\nDOOR TO: 2F - 1",
+  "pt": "SALA ATUAL: 2A - 4\\nPORTA PARA: 2A - 1"
+ },
+ {
+  "map": "13.11 B. CASTLE 2F",
+  "offset": "036C4AA",
+  "en": "CURRENT ROOM: 2F - 4\\nDOOR TO: 2F - 3",
+  "pt": "SALA ATUAL: 2A - 4\\nPORTA PARA: 2A - 3"
+ },
+ {
+  "map": "13.12 B. CASTLE 2F",
+  "offset": "036C514",
+  "en": "Lava is flowing through a hole in the\\nfloor.\\pFollow it and drop to the level below?",
+  "pt": "A lava está escorrendo por um buraco no chão.\\pSeguir a lava e cair para o andar de baixo?"
+ },
+ {
+  "map": "13.13 B. CASTLE 2F",
+  "offset": "036E9D4",
+  "en": "I love SUPER MARIO BROS. 3!",
+  "pt": "Eu amo SUPER MARIO BROS. 3!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371370",
+  "en": "MAAAAAAAAAAARIOOOOOOOOOOO!",
+  "pt": "MAAAAAAAAAAARIOOOOOOOOOOO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037138B",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371391",
+  "en": "Quit your yelling! Your brother isn't\\ngoing to save you this time.",
+  "pt": "Pare de gritar! Seu irmão não vai te salvar desta vez."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03713D4",
+  "en": "BOWSER JR.",
+  "pt": "BOWSER JR.",
+  "max_width": 60
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03713DF",
+  "en": "Yeah, quit your yelling! You're going to\\nstay locked up till PAPA and pizza gets\\lhere.",
+  "pt": "É, pare de gritar! Você vai ficar trancado até o PAPAI e a pizza chegarem."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371436",
+  "en": "You actually ordered the pizza?\\pWait, you still kidnapped me! I didn't\\neven get a chance to command my\\lCAPTURES!\\pThis isn't fair!",
+  "pt": "Vocês pediram pizza mesmo?\\pPeraí, vocês me sequestraram mesmo assim! Eu nem tive a chance de comandar minhas CAPTURAS!\\pIsso não é justo!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03714BC",
+  "en": "Fair? Who said anything about fair?",
+  "pt": "Justo? Quem falou em justo?"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03714E0",
+  "en": "PAPA! I trapped him and took his POWER\\nSTARS and CAPs, just like you asked!",
+  "pt": "PAPAI! Eu prendi ele e peguei as ESTRELAS DE PODER e os CAPs dele, do jeitinho que você pediu!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037152C",
+  "en": "BOWSER, this was your plan?",
+  "pt": "BOWSER, esse era o seu plano?"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371548",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037154F",
+  "en": "Of course I planned this!\\nThat's my kind of thing!\\pI helped you get the POWER STARS so I\\ncould take them for myself in the end!",
+  "pt": "Claro que eu planejei isso!\\nÉ a minha cara!\\pEu te ajudei a pegar as ESTRELAS DE PODER só pra ficar com elas no final!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03715CF",
+  "en": "I thought what we had was special!\\pWere none of our memories together\\nreal?",
+  "pt": "Eu achei que o que a gente tinha era especial!\\pNenhuma das nossas lembranças juntos foi real?"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037161B",
+  "en": "BAHAHA! You can't be serious!",
+  "pt": "BAHAHA! Você não pode estar falando sério!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371639",
+  "en": "Get a load of this guy!",
+  "pt": "Olha só esse cara!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371651",
+  "en": "Yeah! What a chump!",
+  "pt": "É! Que otário!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371665",
+  "en": "LORD BOWSER really played you!",
+  "pt": "O LORDE BOWSER te enganou direitinho!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371684",
+  "en": "I'm always the bad guy!\\pYou shouldn't trust me!",
+  "pt": "Eu sou sempre o vilão!\\pVocê não devia confiar em mim!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03716B4",
+  "en": "Is that really what you want?",
+  "pt": "É isso mesmo que você quer?"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03716D2",
+  "en": "I got what I wanted.",
+  "pt": "Consegui o que eu queria."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03716E7",
+  "en": "MARIO!\\nYou're here!\\pBOWSER trapped me and took all my\\nstuff!\\pAlso, do you have your EMERGENCY PIZZA\\nSTASH?",
+  "pt": "MARIO!\\nVocê veio!\\pO BOWSER me prendeu e pegou todas as minhas coisas!\\pAh, e você trouxe seu ESTOQUE DE PIZZA DE EMERGÊNCIA?"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371752",
+  "en": "PAPA didn't trap you!\\nI did!",
+  "pt": "Não foi o PAPAI que te prendeu!\\nFui eu!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037176F",
+  "en": "GRRRR!\\nPAPA!\\pI wanna fight MARIO!\\nLet me show you how strong I am!",
+  "pt": "GRRRR!\\nPAPAI!\\pEu quero lutar com o MARIO!\\nDeixa eu mostrar como eu sou forte!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03717B2",
+  "en": "JUNIOR, you have the very important job\\nof making sure LUIGI doesn't escape\\land keeping KAMEK entertained.",
+  "pt": "JUNIOR, você tem a importantíssima tarefa de garantir que o LUIGI não fuja e de manter o KAMEK entretido."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037181D",
+  "en": "{FONT 00}Yes and I have been here the whole time,\\nyour rashness.",
+  "pt": "{FONT 00}Sim, e eu estive aqui o tempo todo, Vossa Impetuosidade."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371858",
+  "en": "{FONT 01}MARIO is MY RIVAL! And I will not let\\nthis MUSHROOM MUNCHING-",
+  "pt": "{FONT 01}O MARIO é o MEU RIVAL! E eu não vou deixar esse COMEDOR DE COGUMELOS-"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371899",
+  "en": "CAPTURE CRUSHING-",
+  "pt": "ESMAGADOR DE CAPTURAS-"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03718AB",
+  "en": "BRICK BREAKING-",
+  "pt": "QUEBRA-TIJOLO-",
+  "max_width": 93
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03718BB",
+  "en": "SOULMATE STEALING-",
+  "pt": "LADRÃO DE ALMA GÊMEA-"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03718CE",
+  "en": "BARGAIN BIN HERO RUIN MY PLANS AGAIN!",
+  "pt": "HERÓI DE LIQUIDAÇÃO ESTRAGAR MEUS PLANOS DE NOVO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03718F4",
+  "en": "KAMEK, have you assembled…the TEAM?",
+  "pt": "KAMEK, você reuniu… a EQUIPE?"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371918",
+  "en": "Yes, my C.A.P. CHAMPION!",
+  "pt": "Sim, meu CAMPEÃO C.A.P.!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371931",
+  "en": "BWAHAHAHAHAHA!\\pKAMEK has crafted the strongest party\\never!\\pTHIS BATTLE WILL MARK YOUR END, MARIO!\\nAND I WILL FINALLY HAVE MY WISH!",
+  "pt": "BWAHAHAHAHAHA!\\pO KAMEK montou a equipe mais forte de todos os tempos!\\pESTA BATALHA VAI MARCAR O SEU FIM, MARIO! E EU FINALMENTE VOU TER O MEU DESEJO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03719E6",
+  "en": "NOOOOOOOOOOO!",
+  "pt": "NÃOOOOOOOOOO!",
+  "max_width": 82
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03719F4",
+  "en": "PAPA…?",
+  "pt": "PAPAI…?",
+  "max_width": 42
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03719FB",
+  "en": "Give PAPA some space.",
+  "pt": "Dê um espaço pro PAPAI."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371A11",
+  "en": "Huff…puff…\\pIt's clear that I can't beat you, not\\neven with the strongest team KAMEK\\lcould make.\\pWhy is that?\\pAm I really that weak?\\pAm I not a great COMMANDER and LEADER?",
+  "pt": "Uff… puff…\\pEstá claro que eu não consigo te vencer, nem com a equipe mais forte que o KAMEK pôde montar.\\pPor que será?\\pEu sou mesmo tão fraco assim?\\pEu não sou um grande COMANDANTE e LÍDER?"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371ABC",
+  "en": "BOWSER…you are stronger than you\\nthink.",
+  "pt": "BOWSER… você é mais forte do que pensa."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371AE4",
+  "en": "I think I speak for all of us when I say\\nwe are terrified of your power.\\pYou may not be great at this game, but\\nthat doesn't mean you're weak.\\pI've supported you through your\\njourney since the JUNGLE KINGDOM, and\\lI hope I helped you become stronger.",
+  "pt": "Acho que falo por todos nós quando digo que morremos de medo do seu poder.\\pVocê pode não ser muito bom neste jogo, mas isso não quer dizer que você é fraco.\\pEu te apoiei na sua jornada desde o JUNGLE KINGDOM, e espero ter ajudado você a ficar mais forte."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371BDE",
+  "en": "LUIGI…",
+  "pt": "LUIGI…",
+  "max_width": 42
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371BE5",
+  "en": "Erm-I MEAN GREEN 'STACHE!\\nAhem.\\pThat might be the smartest thing you\\nhave ever said!\\pHow could I be so stupid!",
+  "pt": "Hã… QUER DIZER, BIGODE VERDE!\\nAham.\\pEssa pode ter sido a coisa mais inteligente que você já disse!\\pComo eu pude ser tão burro!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371C54",
+  "en": "I was so blinded by competition that I\\ndidn't realize I could have my own wish.\\pThank you for reminding me that I HAVE\\nEIGHT POWER STARS AND YOU DON'T!",
+  "pt": "Eu estava tão cego pela competição que não percebi que podia ter o meu próprio desejo.\\pObrigado por me lembrar que EU TENHO OITO ESTRELAS DE PODER E VOCÊ NÃO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371CEC",
+  "en": "WHO CARES ABOUT A WISH FROM PEACHES!\\pMY WISH RIGHT NOW IS TO DESTROY YOU!\\pRIGHT HERE!\\pRIGHT NOW!",
+  "pt": "QUEM LIGA PRA UM DESEJO DA PEACHINHA!\\pO MEU DESEJO AGORA É DESTRUIR VOCÊ!\\pBEM AQUI!\\pAGORA MESMO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371D4D",
+  "en": "GIGA BOWSER",
+  "pt": "GIGA BOWSER",
+  "max_width": 69
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371D59",
+  "en": "I AM GOING TO TURN YOU INTO A FINE RED\\nMIST!",
+  "pt": "EU VOU TRANSFORMAR VOCÊ NUMA FINA NÉVOA VERMELHA!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371D86",
+  "en": "Not unless you can turn me into a fine\\ngreen mist!",
+  "pt": "Só se conseguir me transformar numa fina névoa verde também!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371DB9",
+  "en": "I'm not letting you fight BOWSER by\\nyourself! This is my fight too!",
+  "pt": "Não vou deixar você lutar sozinho contra o BOWSER! Esta luta também é minha!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371DFD",
+  "en": "BWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!",
+  "pt": "BWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371E22",
+  "en": "I WILL END THE MARIO BROTHERS!",
+  "pt": "EU VOU ACABAR COM OS IRMÃOS MARIO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371E41",
+  "en": "LET'S-A GO, BRO!",
+  "pt": "LET'S-A GO, MANO!",
+  "max_width": 88
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371E52",
+  "en": "I know BOWSER is scary, bro, but we\\ncan't run from this one! We have to\\lfight!",
+  "pt": "Eu sei que o BOWSER dá medo, mano, mas desta não dá pra fugir! A gente tem que lutar!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371EA1",
+  "en": "No…",
+  "pt": "Não…"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371EA5",
+  "en": "BWAHAHAHA! THE MARIO BROS ARE NO MATCH\\nFOR ME!",
+  "pt": "BWAHAHAHA! OS IRMÃOS MARIO NÃO SÃO PÁREO PRA MIM!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371ED4",
+  "en": "Come on bro, we're not giving up!",
+  "pt": "Vamos, mano, a gente não vai desistir!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371EF6",
+  "en": "NO! THIS! ISN'T! HAPPENING!",
+  "pt": "NÃO! ISSO! NÃO! ESTÁ! ACONTECENDO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371F12",
+  "en": "You know what is happening?\\pME kicking your BUTT!",
+  "pt": "Sabe o que está acontecendo?\\pEU chutando o seu TRASEIRO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371F44",
+  "en": "This is for stealing my POWER STARs!",
+  "pt": "Essa é por roubar minhas ESTRELAS DE PODER!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371F69",
+  "en": "This is for bullying my brother!",
+  "pt": "Essa é por implicar com o meu irmão!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371F8A",
+  "en": "And this is for breaking my heart!",
+  "pt": "E essa é por partir o meu coração!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371FAD",
+  "en": "PAPA!",
+  "pt": "PAPAI!",
+  "max_width": 34
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0371FB3",
+  "en": "Heeeeeey LUIGI!\\nMy friend!\\nPartner!\\pLet's say we forget about all this and\\ngo back to playing in the C.A.P.\\lCHALLENGE!\\pTogether!\\pCome on, just me and you!",
+  "pt": "Ooooooi, LUIGI!\\nMeu amigo!\\nParceiro!\\pQue tal a gente esquecer tudo isso e voltar a jogar o DESAFIO C.A.P.?\\pJuntos!\\pVamos lá, só eu e você!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037204E",
+  "en": "I think I'm ready to break up our\\npartnership.",
+  "pt": "Acho que estou pronto pra desfazer a nossa parceria."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037207D",
+  "en": "You with me, bro?",
+  "pt": "Tá comigo, mano?"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037208F",
+  "en": "THIS ISN'T THE END!!!!!!!",
+  "pt": "ISTO NÃO É O FIM!!!!!!!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03720A9",
+  "en": "Whew, we did it, bro…",
+  "pt": "Ufa, conseguimos, mano…"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03720BF",
+  "en": "I got my POWER STARs back, and BOWSER\\nJR. dropped the ones for the MOLTEN\\lKINGDOM!\\pHere, this one is yours.",
+  "pt": "Recuperei minhas ESTRELAS DE PODER, e o BOWSER JR. deixou cair as do MOLTEN KINGDOM!\\pToma, esta aqui é sua."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037212B",
+  "en": "MARIO received the MOLTEN KINGDOM\\nPOWER STAR!",
+  "pt": "MARIO recebeu a ESTRELA DE PODER do MOLTEN KINGDOM!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372159",
+  "en": "Look, bro. There's something I need to\\nget off my chest…\\pI'm…",
+  "pt": "Olha, mano. Tem uma coisa que eu preciso desabafar…\\pEu estou…"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372197",
+  "en": "…happy I spent time with BOWSER.\\pEven though he said he wanted me for my\\nPOWER STARs, I don't think that's all\\ltrue.\\pI really believe we were having fun\\ntogether with the C.A.P. CHALLENGE, and\\lthat we were becoming friends.",
+  "pt": "…feliz por ter passado um tempo com o BOWSER.\\pMesmo ele dizendo que só me queria pelas minhas ESTRELAS DE PODER, não acho que isso seja totalmente verdade.\\pEu acredito de verdade que a gente estava se divertindo junto no DESAFIO C.A.P., e que estávamos virando amigos."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372277",
+  "en": "But I am sorry that I was ignorant to\\neverything and that I caused you so\\lmuch trouble.\\pI really believe I became stronger as a\\nperson through this game, and I'm ready\\lto prove that to you.",
+  "pt": "Mas me desculpe por não ter percebido nada e por ter te causado tantos problemas.\\pEu acredito de verdade que me tornei uma pessoa mais forte com este jogo, e estou pronto pra provar isso pra você."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372335",
+  "en": "What's that sound? The POWER STARs,\\nthey're-",
+  "pt": "Que som é esse? As ESTRELAS DE PODER, elas estão-"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372362",
+  "en": "A voice rings out from nowhere…\\pBearer of all eight POWER STARs…\\pReturn to TOAD TOWN at once, and board\\nthe ship in the west of town.\\pFrom there, go to MUSHROOM HILL, where\\nyour final challenge awaits…",
+  "pt": "Uma voz ecoa do nada…\\pPortador das oito ESTRELAS DE PODER…\\pVolte à CIDADE TOAD imediatamente e embarque no navio no oeste da cidade.\\pDe lá, siga para a COLINA COGUMELO, onde o seu desafio final o aguarda…"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037242C",
+  "en": "Our final challenge! We have to head to\\nTOAD TOWN quickly!\\pNow don't keep me waiting, bro! Let's\\nsee who can get their wish first!",
+  "pt": "Nosso desafio final! A gente tem que correr pra CIDADE TOAD!\\pE não me deixe esperando, mano! Vamos ver quem consegue o seu desejo primeiro!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03724C8",
+  "en": "Now go back to the TOAD TOWN docks to\\ntake the ship to the ELITE FOUR. Do it.",
+  "pt": "Agora volte às docas da CIDADE TOAD e pegue o navio para a ELITE DOS QUATRO. Vai logo."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372516",
+  "en": "NO NO NO NO NO!",
+  "pt": "NÃO NÃO NÃO!",
+  "max_width": 82
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372526",
+  "en": "It's not FAIR!",
+  "pt": "Não é JUSTO!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372535",
+  "en": "How come you and PAPA get to have all\\nthe fun?!",
+  "pt": "Por que você e o PAPAI ficam com toda a diversão?!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372565",
+  "en": "Now, now. Your father simply wants\\nwhat's best for you-",
+  "pt": "Calma, calma. Seu pai só quer o melhor pra você-"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037259D",
+  "en": "I don't CARE what PAPA wants! I WANT to\\nfight! I want to prove myself! I wanna I\\lwanna I wanna!",
+  "pt": "Eu não LIGO pro que o PAPAI quer! Eu QUERO lutar! Eu quero provar o meu valor! Eu quero eu quero eu quero!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03725FD",
+  "en": "I know what you want, young LORD, but\\nyou really must understand. We've lost!\\lThere's nobody left to fight!",
+  "pt": "Eu sei o que o senhor quer, jovem LORDE, mas precisa entender. Nós perdemos! Não sobrou ninguém pra lutar!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "0372669",
+  "en": "Nobody to fight?! Come on KAMEK, let's\\njump MARIO!",
+  "pt": "Ninguém pra lutar?! Qual é, KAMEK, vamos pegar o MARIO de surpresa!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037269C",
+  "en": "KAMEK?",
+  "pt": "KAMEK?",
+  "max_width": 42
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03726A3",
+  "en": "KAMEK! Don't you dare-",
+  "pt": "KAMEK! Não se atreva-"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "03726BA",
+  "en": "Whatever! I don't need him to pulverize\\nyou, MARIO!\\pFor PAPA!",
+  "pt": "Tanto faz! Não preciso dele pra te pulverizar, MARIO!\\pPelo PAPAI!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037270B",
+  "en": "WAAAAAH! YOU'RE ALWAYS SO MEAN, MARIO!\\nPAPAAAAAAA!",
+  "pt": "BUAAAAAH! VOCÊ É SEMPRE TÃO MALVADO, MARIO! PAPAAAAAAAI!"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037273E",
+  "en": "BOWSER JR. dropped something on his way\\nout…",
+  "pt": "O BOWSER JR. deixou cair alguma coisa enquanto saía…"
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037276B",
+  "en": "MARIO?! Why do you keep invading our\\nthrone room?!\\pOh well, this time I'll prove myself to\\nPAPA by defeating you!",
+  "pt": "MARIO?! Por que você vive invadindo a nossa sala do trono?!\\pAh, tanto faz, desta vez eu vou provar o meu valor pro PAPAI derrotando você!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CB5D",
+  "en": "Thanks for accompanying us, MARIO.\\pWe really must be going, as we have\\nbusiness to attend at MUSHROOM HILL.\\pHere though, take this as thanks.",
+  "pt": "Agradecemos por nos acompanhar, MARIO.\\pPrecisamos mesmo ir, temos assuntos a tratar na COLINA COGUMELO.\\pMas aqui, aceite isto como agradecimento."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CBEB",
+  "en": "I hope that will help you on your\\nchallenge.\\pGood luck, MARIO. You'll need it.",
+  "pt": "Espero que isso ajude no seu desafio.\\pBoa sorte, MARIO. Você vai precisar."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CC3A",
+  "en": "MARIO! Wanna head back to TOAD TOWN?",
+  "pt": "MARIO! Quer voltar pra CIDADE TOAD?"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CC5F",
+  "en": "Right! Anchors aweigh!",
+  "pt": "Certo! Levantar âncora!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CC76",
+  "en": "No problem, just let me know if you\\nwanna ship off!",
+  "pt": "Sem problemas, é só me avisar quando quiser zarpar!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CCAA",
+  "en": "Welcome to the battle shop!",
+  "pt": "Bem-vindo à loja de batalha!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CCC6",
+  "en": "Welcome to the TM shop!",
+  "pt": "Bem-vindo à loja de TMs!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CCDE",
+  "en": "Yoshi! (Welcome to the tasty snack\\nshop!)",
+  "pt": "Yoshi! (Bem-vindo à loja de lanchinhos gostosos!)"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CD08",
+  "en": "Yoshi! (Please come again!)",
+  "pt": "Yoshi! (Volte sempre!)"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CD24",
+  "en": "Excuse me! Please come over here for a\\nmoment.",
+  "pt": "Com licença! Venha aqui um instante, por favor."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CD53",
+  "en": "Only those with all eight POWER STARS\\nmay pass this point.\\pAllow me to check how many you've\\nobtained.",
+  "pt": "Só quem tem as oito ESTRELAS DE PODER pode passar deste ponto.\\pDeixe-me verificar quantas você já obteve."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CDBA",
+  "en": "Good luck in RAINBOW ROAD!",
+  "pt": "Boa sorte na RAINBOW ROAD!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CDD5",
+  "en": "I've verified you have all eight POWER\\nSTARS! Good luck in RAINBOW ROAD!",
+  "pt": "Verifiquei que você tem as oito ESTRELAS DE PODER! Boa sorte na RAINBOW ROAD!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CE1E",
+  "en": "I'm sorry, but you don't have all eight\\nPOWER STARS. Please return once you do.",
+  "pt": "Sinto muito, mas você não tem as oito ESTRELAS DE PODER. Volte quando tiver."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CE6E",
+  "en": "MUSHROOM HILL -\\nWhere the strong gather.",
+  "pt": "COLINA COGUMELO -\\nOnde os fortes se reúnem."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CE97",
+  "en": "FORTUNE TELLER -\\nAwaken your inner strength.\\pA note is scribbled on at the bottom…\\nBring BOTTLE CAPs!",
+  "pt": "VIDENTE -\\nDesperte sua força interior.\\pTem um recado rabiscado lá embaixo…\\nTraga TAMPINHAS!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CEFD",
+  "en": "Finally…I've made it… MUSHROOM HILL,\\npinnacle of strength for all C.A.P.\\ltrainers.",
+  "pt": "Finalmente… consegui… COLINA COGUMELO, o auge da força para todos os treinadores C.A.P."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CF50",
+  "en": "Oh man, I can't wait to see the final\\nbattles of the C.A.P. CHALLENGE!\\lPROFESSOR E. GADD has set up a way for\\lus to watch the event live, it's gonna\\lbe awesome!",
+  "pt": "Nossa, mal posso esperar pra ver as batalhas finais do DESAFIO C.A.P.! O PROFESSOR E. GADD preparou um jeito da gente assistir ao evento ao vivo, vai ser demais!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CFF1",
+  "en": "I wonder who's gonna be the victor of\\nthe C.A.P. CHALLENGE? You? Your\\lbrother? Maybe someone else entirely?!",
+  "pt": "Quem será que vai ser o vencedor do DESAFIO C.A.P.? Você? Seu irmão? Ou talvez alguém completamente diferente?!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036D05E",
+  "en": "Welcome, MARIO. You stand on MUSHROOM\\nHILL, where the strong gather.",
+  "pt": "Bem-vindo, MARIO. Você está na COLINA COGUMELO, onde os fortes se reúnem."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036D0A3",
+  "en": "Hey! MARIO! Remember me? I'm the first\\nTOAD from 1-2! I've managed to get all\\leight POWER STARs, just like you! Think\\lwe'll have to fight?",
+  "pt": "Ei! MARIO! Lembra de mim? Sou o primeiro TOAD do 1-2! Consegui pegar as oito ESTRELAS DE PODER, igualzinho a você! Será que a gente vai ter que lutar?"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036D12E",
+  "en": "MARIO! Over here! Come on, give us a\\ncomment before your big battle!",
+  "pt": "MARIO! Aqui! Vamos, dê uma palavrinha pra gente antes da sua grande batalha!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036D173",
+  "en": "All these stores are top notch! I knew I\\ncould count on MUSHROOM HILL for\\lnothing but the greatest!",
+  "pt": "Todas essas lojas são de primeira! Eu sabia que podia contar com a COLINA COGUMELO pra ter só o melhor do melhor!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036D1D7",
+  "en": "I wonder if he's here… LUIGI… Please\\ndon't hold it against us. Win this\\lchallenge for us!",
+  "pt": "Será que ele está aqui… LUIGI… Por favor, não guarde rancor da gente. Vença esse desafio por nós!"
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036D231",
+  "en": "Whew! So much to do in order to prepare,\\nam I right? Wonder what these BOTTLE\\lCAPs I got are for…",
+  "pt": "Ufa! Tanta coisa pra fazer pra se preparar, né? Pra que será que servem essas TAMPINHAS que eu ganhei…"
+ },
+ {
+  "map": "14.1 MUSHROOM HILL",
+  "offset": "036D36C",
+  "en": "Your skills are as superb as ever,\\nMASTER MARIO. You are assuredly worthy\\lof the PRINCESS's wish. Now then,\\lproceed through this door and continue\\lyour challenge.",
+  "pt": "Suas habilidades estão esplêndidas como sempre, MESTRE MARIO. Você é, sem dúvida, digno do desejo da PRINCESA. Pois bem, atravesse esta porta e continue o seu desafio."
+ },
+ {
+  "map": "14.1 MUSHROOM HILL",
+  "offset": "036D40F",
+  "en": "MASTER MARIO, you've returned. The\\nPRINCESS told me that our duties here\\lat MUSHROOM HILL were not over, and\\lthat we must fight once more.\\pHonestly, this outcome pleases me. I am\\never ready to serve the PRINCESS, and\\lequally as ready to prove myself!",
+  "pt": "MESTRE MARIO, você voltou. A PRINCESA me disse que nossas tarefas aqui na COLINA COGUMELO não tinham terminado e que precisamos lutar mais uma vez.\\pSinceramente, esse desfecho me agrada. Estou sempre pronto para servir a PRINCESA, e igualmente pronto para provar o meu valor!"
+ },
+ {
+  "map": "14.1 MUSHROOM HILL",
+  "offset": "036D50A",
+  "en": "Splendid. Simply splendid, MASTER MARIO.",
+  "pt": "Esplêndido. Simplesmente esplêndido, MESTRE MARIO."
+ },
+ {
+  "map": "14.1 MUSHROOM HILL",
+  "offset": "036D533",
+  "en": "MASTER MARIO. You and your brother are\\ntruly superb. Please, keep advancing\\ltowards your bout with MASTER LUIGI.",
+  "pt": "MESTRE MARIO. Você e seu irmão são realmente esplêndidos. Por favor, continue avançando rumo ao seu duelo com o MESTRE LUIGI."
+ },
+ {
+  "map": "14.1 MUSHROOM HILL",
+  "offset": "036D5A4",
+  "en": "MASTER MARIO, you've done well to make\\nit this far. The PRINCESS has given me\\lthe great honor of being in charge of\\lthis arena.\\pWhat type will I use? Well, I'll have you\\nknow I used to work a lot with DRAGONS\\lback in my day.\\pNow then, let us do battle!",
+  "pt": "MESTRE MARIO, você fez bem em chegar tão longe. A PRINCESA me concedeu a grande honra de comandar esta arena.\\pQue tipo eu vou usar? Pois saiba que, nos meus tempos, eu trabalhava muito com DRAGÕES.\\pPois bem, vamos à batalha!"
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D80C",
+  "en": "Ì{MN}\\nWARIO",
+  "pt": ""
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D815",
+  "en": "Your skills are as superb as ever,\\nMASTER MARIO. You are assuredly worthy\\lof the PRINCESS's wish. Now then,\\lproceed through this door and continue\\lyour challenge.",
+  "pt": "Suas habilidades estão esplêndidas como sempre, MESTRE MARIO. Você é, sem dúvida, digno do desejo da PRINCESA. Pois bem, atravesse esta porta e continue o seu desafio."
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D8B8",
+  "en": "WAHAHAHA! So you've come back to lose\\nto us, MARIO?",
+  "pt": "WAHAHAHA! Então você voltou pra perder pra gente, MARIO?"
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D8EC",
+  "en": "WALUIGI",
+  "pt": "WALUIGI",
+  "max_width": 48
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D8F4",
+  "en": "And to finally admit that I'm the\\nultimate gamer?",
+  "pt": "E pra finalmente admitir que eu sou o gamer supremo?"
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D926",
+  "en": "This time, we'll take you down and take\\nyou for everything you've got!",
+  "pt": "Desta vez, a gente vai te derrubar e te deixar sem nada!"
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D987",
+  "en": "Pah! We don't have to put up with this\\nstupid game anymore, do we, WALUIGI?",
+  "pt": "Pfff! A gente não precisa mais aguentar esse jogo idiota, né, WALUIGI?"
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D9D3",
+  "en": "Absolutely not! I quit!",
+  "pt": "De jeito nenhum! Eu desisto!"
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D9EB",
+  "en": "WAHAHAHAHA! Bet you weren't expecting\\nus, MARIO!",
+  "pt": "WAHAHAHAHA! Aposto que você não esperava a gente, MARIO!"
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036DA1C",
+  "en": "That's right! We're back for revenge!\\pI'll finally prove that I am the ultimate\\ngamer!",
+  "pt": "Isso mesmo! Voltamos pra nos vingar!\\pVou finalmente provar que eu sou o gamer supremo!"
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036DA73",
+  "en": "And I'll make you cover the costs of the\\ngame I developed!\\pWAHAHAHA!",
+  "pt": "E eu vou fazer você pagar os custos do jogo que eu desenvolvi!\\pWAHAHAHA!"
+ },
+ {
+  "map": "14.3 MUSHROOM HILL",
+  "offset": "036DBCE",
+  "en": "MARIO?! You even followed me here after\\nI ditched-I mean made a tactical\\lretreat from the young LORD?\\pKehehe, no matter, I'm more prepared for\\nyou now than I ever was before!",
+  "pt": "MARIO?! Você me seguiu até aqui depois que eu abandonei- quer dizer, depois que eu fiz uma retirada tática do jovem LORDE?\\pKehehe, não importa, estou mais preparado pra você agora do que nunca!"
+ },
+ {
+  "map": "14.3 MUSHROOM HILL",
+  "offset": "036DC7D",
+  "en": "No! Not again! Why?!",
+  "pt": "Não! De novo, não! Por quê?!"
+ },
+ {
+  "map": "14.3 MUSHROOM HILL",
+  "offset": "036DC92",
+  "en": "Bah! My defeat here is of little\\nconsequence. I'll keep getting stronger\\land stronger, and then I'll defeat you\\lin the name of LORD BOWSER!",
+  "pt": "Bah! Minha derrota aqui é de pouca importância. Vou ficar cada vez mais forte e então vou te derrotar em nome do LORDE BOWSER!"
+ },
+ {
+  "map": "14.3 MUSHROOM HILL",
+  "offset": "036DD1E",
+  "en": "GAH! MARIO?! Wait, I'm supposed to be\\nhere, calm down…\\pAhem! I, the honorable KAMEK, am here in\\nLORD BOWSER'S place. He was officially\\linvited by the PRINCESS to be a part of\\lthis so-called 'ELITE FOUR', but he's\\lbeing somewhat of a sore loser-I MEAN\\lHE'S NOT FEELING WELL!\\pAnd so! That is why I am here! Me and my\\nmasterful stratagems shall finally\\ldefeat you, MARIO!",
+  "pt": "GAH! MARIO?! Espera, eu tenho permissão pra estar aqui, calma…\\pAham! Eu, o honrado KAMEK, estou aqui no lugar do LORDE BOWSER. Ele foi convidado oficialmente pela PRINCESA para fazer parte dessa tal de 'ELITE DOS QUATRO', mas ele está meio que sendo um mau perdedor- QUER DIZER, ELE NÃO ESTÁ SE SENTINDO BEM!\\pE assim! É por isso que estou aqui! Eu e minhas estratégias magistrais finalmente vamos derrotar você, MARIO!"
+ },
+ {
+  "map": "14.3 MUSHROOM HILL",
+  "offset": "036DEA8",
+  "en": "…What, are you expecting me to yell out\\nto LORD BOWSER for forgiveness?\\pI'll have you know, I actually rather\\nenjoyed this game the PRINCESS put on!\\pThis was my one chance to show off my\\nstrategies to their full potential, so\\lI'm just a little depressed.\\pLet me wallow in peace already…",
+  "pt": "…O quê, está esperando que eu grite pedindo perdão ao LORDE BOWSER?\\pPois saiba que eu até gostei bastante desse jogo que a PRINCESA organizou!\\pEra a minha única chance de mostrar todo o potencial das minhas estratégias, então estou só um pouquinho deprimido.\\pMe deixe sofrer em paz de uma vez…"
+ },
+ {
+  "map": "14.4 MUSHROOM HILL",
+  "offset": "036E0AA",
+  "en": "You've done wonderfully, MARIO. Between\\nstopping BOWSER's schemes and\\lcollecting the POWER STARS, I'm not\\lsurprised to see you at the top.\\pGo on, you've got more challenges\\nawaiting you!",
+  "pt": "Você foi maravilhoso, MARIO. Entre impedir os planos do BOWSER e reunir as ESTRELAS DE PODER, não me surpreende ver você no topo.\\pVá em frente, mais desafios esperam por você!"
+ },
+ {
+  "map": "14.4 MUSHROOM HILL",
+  "offset": "036E165",
+  "en": "MARIO, you've returned! Everyone\\nrushed back to MUSHROOM HILL when your\\lbrother told us about wanting a\\lrematch.\\pIt seems my game has made us all rather\\ncompetitive, and that includes me!",
+  "pt": "MARIO, você voltou! Todo mundo voltou correndo pra COLINA COGUMELO quando seu irmão contou que queria uma revanche.\\pParece que meu jogo deixou todos nós bem competitivos, inclusive eu!"
+ },
+ {
+  "map": "14.4 MUSHROOM HILL",
+  "offset": "036E231",
+  "en": "I expected no less from our CHAMPION.\\nGo on, MARIO. Best not to keep LUIGI\\lwaiting.",
+  "pt": "Eu não esperava menos do nosso CAMPEÃO. Vá em frente, MARIO. Melhor não deixar o LUIGI esperando."
+ },
+ {
+  "map": "14.4 MUSHROOM HILL",
+  "offset": "036E285",
+  "en": "MARIO! Great job on collecting all eight\\nPOWER STARS!\\pNow you only have one more challenge in\\nfront of you: defeating me and the rest\\lof the ELITE FOUR!",
+  "pt": "MARIO! Parabéns por reunir as oito ESTRELAS DE PODER!\\pAgora só falta mais um desafio pela frente: derrotar a mim e ao resto da ELITE DOS QUATRO!"
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E5F9",
+  "en": "Oh? That glitter… You have a GOLD\\nBOTTLE CAP? Would you like to use that\\lto raise all of your CAPTURE's\\lpotential?",
+  "pt": "Oh? Esse brilho… Você tem uma TAMPINHA DE OURO? Gostaria de usá-la para elevar todo o potencial da sua CAPTURA?"
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E66C",
+  "en": "Very well. Please, select who you wish to\\nmake stronger.",
+  "pt": "Muito bem. Por favor, escolha quem você deseja fortalecer."
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E6A5",
+  "en": "Changed your mind? Very well. Return\\nwhen you are certain.",
+  "pt": "Mudou de ideia? Muito bem. Volte quando tiver certeza."
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E6E0",
+  "en": "It is done. Please, come back if you\\ndesire to become even stronger.",
+  "pt": "Está feito. Por favor, volte se desejar ficar ainda mais forte."
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E725",
+  "en": "It seems something has gone amiss. Your\\nchosen ally is already as strong as\\lpossible. Please, try a different\\lattribute.",
+  "pt": "Parece que algo deu errado. O aliado escolhido já está o mais forte possível. Por favor, tente um atributo diferente."
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E79E",
+  "en": "You do not have any BOTTLE CAPs.\\nReturn here once you have obtained\\lsome.",
+  "pt": "Você não tem nenhuma TAMPINHA. Volte aqui quando tiver conseguido algumas."
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E7E8",
+  "en": "Very well, a normal BOTTLE CAP it is.\\nPlease, select who you wish to make\\lstronger.",
+  "pt": "Muito bem, uma TAMPINHA normal, então. Por favor, escolha quem você deseja fortalecer."
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E83C",
+  "en": "Now decide which of its attributes I\\nshall enhance.",
+  "pt": "Agora decida qual dos atributos dele eu devo aprimorar."
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E870",
+  "en": "Did you know each of your troops has\\nsomething we call INDIVIDUAL VALUES,\\lor IVs for short? Apparently, you can\\lview them by pressing the 'A button'\\lwhen viewing their stats!",
+  "pt": "Sabia que cada uma das suas tropas tem algo que chamamos de VALORES INDIVIDUAIS, ou IVs, pra encurtar? Parece que dá pra ver apertando o 'botão A' quando estiver olhando os atributos delas!"
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E91F",
+  "en": "The fortune teller here is really\\npopular as of late. Who knows what he's\\ldoing with those BOTTLE CAPs everyone\\lseems to be giving him though.",
+  "pt": "O vidente daqui anda muito popular ultimamente. Mas vai saber o que ele faz com essas TAMPINHAS que todo mundo parece estar dando pra ele."
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036ECAB",
+  "en": "Four halls await. Proceed in any order,\\nbut do so with caution.",
+  "pt": "Quatro salões aguardam. Siga em qualquer ordem, mas faça isso com cautela."
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036ECEB",
+  "en": "The control panel is turned off.",
+  "pt": "O painel de controle está desligado."
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036ED0C",
+  "en": "The control panel hums with energy. On\\nit, the following text is displayed:\\pMUSHROOM HILL - GROUND ARENA\\pWould you like to put your hand on the\\ndisplay?",
+  "pt": "O painel de controle vibra de energia. Nele, está escrito o seguinte texto:\\pCOLINA COGUMELO - ARENA TERRA\\pDeseja colocar a mão na tela?"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036EDA5",
+  "en": "The control panel hums with energy. On\\nit, the following text is displayed:\\pMUSHROOM HILL - CASTLE ARENA\\pWould you like to put your hand on the\\ndisplay?",
+  "pt": "O painel de controle vibra de energia. Nele, está escrito o seguinte texto:\\pCOLINA COGUMELO - ARENA CASTELO\\pDeseja colocar a mão na tela?"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036EE3E",
+  "en": "The control panel hums with energy. On\\nit, the following text is displayed:\\pMUSHROOM HILL - CITY ARENA\\pWould you like to put your hand on the\\ndisplay?",
+  "pt": "O painel de controle vibra de energia. Nele, está escrito o seguinte texto:\\pCOLINA COGUMELO - ARENA CIDADE\\pDeseja colocar a mão na tela?"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036EED5",
+  "en": "The control panel hums with energy. On\\nit, the following text is displayed:\\pMUSHROOM HILL - LAVA ARENA\\pWould you like to put your hand on the\\ndisplay?",
+  "pt": "O painel de controle vibra de energia. Nele, está escrito o seguinte texto:\\pCOLINA COGUMELO - ARENA LAVA\\pDeseja colocar a mão na tela?"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036EF6C",
+  "en": "The control panel hums with energy. On\\nit, the following text is displayed:\\pMUSHROOM HILL - CHAMPION ARENA\\pWould you like to put your hand on the\\ndisplay?",
+  "pt": "O painel de controle vibra de energia. Nele, está escrito o seguinte texto:\\pCOLINA COGUMELO - ARENA DO CAMPEÃO\\pDeseja colocar a mão na tela?"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036F007",
+  "en": "You have not yet defeated each ARENA.\\nPlease return once you have.",
+  "pt": "Você ainda não derrotou todas as ARENAS. Volte quando tiver feito isso."
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036F04A",
+  "en": "← MUSHROOM HILL - GROUND ARENA",
+  "pt": "← COLINA COGUMELO - ARENA TERRA"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036F069",
+  "en": "MUSHROOM HILL - CASTLE ARENA →",
+  "pt": "COLINA COGUMELO - ARENA CASTELO →"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036F088",
+  "en": "MUSHROOM HILL - CITY ARENA →",
+  "pt": "COLINA COGUMELO - ARENA CIDADE →"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036F0A5",
+  "en": "← MUSHROOM HILL - LAVA ARENA",
+  "pt": "← COLINA COGUMELO - ARENA LAVA"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036F0C2",
+  "en": "MUSHROOM HILL - CHAMPION'S ROOM →",
+  "pt": "COLINA COGUMELO - SALA DO CAMPEÃO →"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036F0E4",
+  "en": "← MUSHROOM HILL- CHAMPION'S ROOM",
+  "pt": "← COLINA COGUMELO - SALA DO CAMPEÃO"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036F75C",
+  "en": "MR. L",
+  "pt": "MR. L",
+  "max_width": 30
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036F762",
+  "en": "I…beat MARIO here? I can't believe it!",
+  "pt": "Eu… venci o MARIO aqui? Não acredito!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036F789",
+  "en": "No, it's not over.\\pI need to wait here for the PRINCESS\\nand the PROFESSOR to come so they know\\lit's me, LUIGI, in this disguise.\\pUntil then, I need to hold this position.\\nWhich means…",
+  "pt": "Não, ainda não acabou.\\pPreciso esperar aqui até a PRINCESA e o PROFESSOR chegarem, pra eles saberem que sou eu, o LUIGI, nesse disfarce.\\pAté lá, preciso manter esta posição. O que significa…"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036F841",
+  "en": "HARK!\\nI hear a challenger approaches.\\pHow will they fare against…the GREEN\\nLIGHTNING-\\pTHE C.A.P. CHAMPION-\\pTHE MYSTERIOUS MR. L!",
+  "pt": "ATENÇÃO!\\nOuço a chegada de um desafiante.\\pComo será que vai se sair contra… o RELÂMPAGO VERDE-\\pO CAMPEÃO C.A.P.-\\pO MISTERIOSO MR. L!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036F8C2",
+  "en": "MARIO! I-I mean…",
+  "pt": "MARIO! Q-quer dizer…"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036F8D3",
+  "en": "Ah yes, MARIO! The hero of the MUSHROOM\\nKINGDOM!\\pIt's too bad your brother, and the\\nother hero of the MUSHROOM KINGDOM,\\lLUIGI, is nowhere to be seen to\\lspectate our bout.\\pI, MR. L, have been here the whole time\\nto serve as the CHAMPION of the C.A.P.\\lCHALLENGE, and will gladly accept your\\lchallenge!\\pHave at you!",
+  "pt": "Ah, sim, MARIO! O herói do REINO DOS COGUMELOS!\\pQue pena que seu irmão, o outro herói do REINO DOS COGUMELOS, LUIGI, não está em lugar nenhum pra assistir ao nosso duelo.\\pEu, MR. L, estive aqui o tempo todo como o CAMPEÃO do DESAFIO C.A.P., e aceito o seu desafio com prazer!\\pEm guarda!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FA0C",
+  "en": "I, the mysterious MR. L, defeated?",
+  "pt": "Eu, o misterioso MR. L, derrotado?"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FA2F",
+  "en": "I guess I should drop the disguise now.",
+  "pt": "Acho que já posso tirar o disfarce."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FA57",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FA5D",
+  "en": "Couldn't tell I was your own bro, right!\\nThe costume makes me feel powerful, and\\lmade sure that none of the ELITE FOUR\\lwould give me an easy fight.",
+  "pt": "Nem deu pra perceber que era o seu próprio mano, né! A fantasia me faz me sentir poderoso e garantiu que ninguém da ELITE DOS QUATRO pegasse leve comigo."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FAF1",
+  "en": "Even though I lost to you, I'm still\\nsmiling.",
+  "pt": "Mesmo tendo perdido pra você, continuo sorrindo."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FB1F",
+  "en": "I have had so much fun with you, the\\nPRINCESS, the PROFESSOR, BOWSER,\\leveryone, that I can't be sad about any\\lof this.\\pI am so glad that we were given this\\nopportunity to play in the C.A.P.\\lCHALLENGE, and I wouldn't change it for\\lanything in the world.",
+  "pt": "Eu me diverti tanto com você, a PRINCESA, o PROFESSOR, o BOWSER, todo mundo, que não consigo ficar triste com nada disso.\\pEstou muito feliz por termos tido essa oportunidade de jogar o DESAFIO C.A.P., e eu não mudaria isso por nada neste mundo."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FC20",
+  "en": "Very well said, LUIGI.",
+  "pt": "Muito bem dito, LUIGI."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FC37",
+  "en": "PEACH",
+  "pt": "PEACH",
+  "max_width": 36
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FC3D",
+  "en": "We heard the last part of your speech,\\nand it almost brought me to tears.",
+  "pt": "Ouvimos a última parte do seu discurso, e ele quase me levou às lágrimas."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FC87",
+  "en": "Oh PRINCESS, I'm sorry! I never want to\\nmake you cry!",
+  "pt": "Ah, PRINCESA, me desculpe! Eu nunca quero fazer você chorar!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FCBD",
+  "en": "E. GADD",
+  "pt": "E. GADD",
+  "max_width": 42
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FCC5",
+  "en": "Now, I'm a little confused. I see two\\nbrothers, but who's the CHAMPION?",
+  "pt": "Agora estou um pouco confuso. Estou vendo dois irmãos, mas quem é o CAMPEÃO?"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FD0D",
+  "en": "It's MARIO, PROFESSOR E. GADD! He beat\\nme fair and square!",
+  "pt": "É o MARIO, PROFESSOR E. GADD! Ele me venceu de forma justa!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FD48",
+  "en": "I suppose that would make MARIO the\\nwinner of the C.A.P. CHALLENGE then!\\lWell done, MARIO.\\pAnd you too, LUIGI, for making it just\\nas far.",
+  "pt": "Então suponho que isso faz do MARIO o vencedor do DESAFIO C.A.P.! Muito bem, MARIO.\\pE você também, LUIGI, por ter chegado tão longe."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FDD2",
+  "en": "Come, we must record you in the HALL of\\nFAME!",
+  "pt": "Venham, precisamos registrar vocês no HALL DA FAMA!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FE00",
+  "en": "You go on ahead, bro! I'll wait for you\\nhere for when you're done getting your\\lwish!",
+  "pt": "Pode ir na frente, mano! Eu te espero aqui até você terminar de pegar o seu desejo!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FE55",
+  "en": "LUIGI, please, join us! You also\\ncompleted the C.A.P. CHALLENGE, you'll\\lbe recorded after MARIO!",
+  "pt": "LUIGI, por favor, venha com a gente! Você também completou o DESAFIO C.A.P., vai ser registrado depois do MARIO!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FEB6",
+  "en": "But what about the wish?",
+  "pt": "Mas e o desejo?"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FECF",
+  "en": "The wish can come afterwards. Please,\\nfollow us.",
+  "pt": "O desejo pode ficar pra depois. Por favor, sigam a gente."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FF00",
+  "en": "Ok! Let's do this together, bro!",
+  "pt": "Beleza! Vamos fazer isso juntos, mano!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FF21",
+  "en": "MARIO BROS.",
+  "pt": "MARIO BROS.",
+  "max_width": 66
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FF2D",
+  "en": "WAHOO!",
+  "pt": "WAHOO!",
+  "max_width": 40
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FF43",
+  "en": "MARIO? Have you returned to challenge\\nme once more?",
+  "pt": "MARIO? Você voltou pra me desafiar mais uma vez?"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FF77",
+  "en": "Aha! I was correct in my judgement.",
+  "pt": "Aha! Eu estava certo no meu julgamento."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FF9B",
+  "en": "This time, I shall prevail as the victor!\\nYou don't stand a chance, MARIO!",
+  "pt": "Desta vez, eu é que vou sair vitorioso! Você não tem a menor chance, MARIO!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "036FFE6",
+  "en": "I guess there's no need for this\\nanymore.",
+  "pt": "Acho que não preciso mais disto."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "0370010",
+  "en": "I guess it's not much of a disguise if\\nyou already know who's behind it. Oh\\lwell, it still helps me fight better.",
+  "pt": "Acho que não é bem um disfarce se você já sabe quem está por trás. Ah, tudo bem, ainda me ajuda a lutar melhor."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "0370082",
+  "en": "Wonderful fight, MARIO BROS.!",
+  "pt": "Que luta maravilhosa, MARIO BROS.!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "03700A0",
+  "en": "You two were as splendid as ever. The\\nPROFESSOR and I feel lucky to see your\\lbattles unfold.",
+  "pt": "Vocês dois foram esplêndidos como sempre. O PROFESSOR e eu nos sentimos sortudos por ver as suas batalhas."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "03700FD",
+  "en": "That's right! You've been of great help\\nto me and my research on the creatures\\lof the MUSHROOM KINGDOM.",
+  "pt": "Isso mesmo! Vocês me ajudaram muito na minha pesquisa sobre as criaturas do REINO DOS COGUMELOS."
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "0370165",
+  "en": "Do you hear that bro? We've been\\nhelping the PROFESSOR with his\\lresearch through our battles!",
+  "pt": "Ouviu isso, mano? A gente tem ajudado o PROFESSOR com a pesquisa dele com as nossas batalhas!"
+ },
+ {
+  "map": "14.7 MUSHROOM HILL",
+  "offset": "03701C3",
+  "en": "Let's not dilly dally, eh lads? Onwards\\nto the HALL of FAME!",
+  "pt": "Nada de enrolação, hein, rapazes? Avante, rumo ao HALL DA FAMA!"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CAAC",
+  "en": "MARIO, what's wrong?",
+  "pt": "MARIO, o que foi?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CAC1",
+  "en": "E. GADD",
+  "pt": "E. GADD",
+  "max_width": 42
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CAC9",
+  "en": "I don't know if I heard that right, but\\ndid MARIO just say LUIGI is the true\\lwinner of the C.A.P. CHALLENGE?",
+  "pt": "Não sei se ouvi direito, mas o MARIO acabou de dizer que o LUIGI é o verdadeiro vencedor do DESAFIO C.A.P.?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CB36",
+  "en": "MARIO, what are you doing?",
+  "pt": "MARIO, o que você está fazendo?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CB51",
+  "en": "PEACH",
+  "pt": "PEACH",
+  "max_width": 36
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CB57",
+  "en": "Is what MARIO says true, LUIGI?",
+  "pt": "É verdade o que o MARIO está dizendo, LUIGI?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CB77",
+  "en": "Well, MARIO beat me in our last fight.",
+  "pt": "Bom, o MARIO me venceu na nossa última luta."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CB9E",
+  "en": "But who got here first?",
+  "pt": "Mas quem chegou aqui primeiro?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CBB6",
+  "en": "I-it was me! I beat the C.A.P. CHALLENGE\\nbefore MARIO!",
+  "pt": "F-fui eu! Eu venci o DESAFIO C.A.P. antes do MARIO!"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CBED",
+  "en": "LUIGI, you should have spoken up! I was\\nabout to put MARIO in the system first!\\lGive me a moment to change it!",
+  "pt": "LUIGI, você devia ter falado! Eu estava prestes a colocar o MARIO no sistema primeiro! Me dê um momento pra mudar isso!"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CC5C",
+  "en": "Wait, but that means!",
+  "pt": "Espera, mas isso significa que…!"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CC72",
+  "en": "What is your WISH, LUIGI?",
+  "pt": "Qual é o seu DESEJO, LUIGI?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CC8C",
+  "en": "I love you, bro.",
+  "pt": "Eu te amo, mano."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CCA3",
+  "en": "I love you too, bro.",
+  "pt": "Eu também te amo, mano."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CCB8",
+  "en": "I never thought I would get this far.\\nSo, I'm not going to overthink this and\\linstead wish from the heart.\\pMy wish…",
+  "pt": "Nunca pensei que eu chegaria tão longe. Então não vou pensar demais nisso e, em vez disso, vou desejar de coração.\\pMeu desejo…"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CD2C",
+  "en": "…is to go home with my brother.",
+  "pt": "…é ir pra casa com o meu irmão."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CD4C",
+  "en": "I think I can do that.",
+  "pt": "Acho que posso fazer isso."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CD63",
+  "en": "WAIT, PRINCESS! Can I add one more\\nthing?",
+  "pt": "ESPERA, PRINCESA! Posso acrescentar mais uma coisa?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CD8D",
+  "en": "What would you like, LUIGI?",
+  "pt": "O que você gostaria, LUIGI?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CDA9",
+  "en": "I want…",
+  "pt": "Eu quero…"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CDB1",
+  "en": "…a copy of SUPER MARIO BROS. 3 for the\\nNES!",
+  "pt": "…uma cópia de SUPER MARIO BROS. 3 para o NES!"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CDDD",
+  "en": "Don't you already own a copy?",
+  "pt": "Você já não tem uma cópia?"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CDFB",
+  "en": "Yes, but it's my favorite game and I\\nwant another copy in case we lose ours.",
+  "pt": "Tenho, mas é o meu jogo favorito e eu quero outra cópia pro caso de a gente perder a nossa."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CE48",
+  "en": "Anything for your WISH, CHAMPION\\nLUIGI.",
+  "pt": "Qualquer coisa pelo seu DESEJO, CAMPEÃO LUIGI."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CE70",
+  "en": "Now, please put your CAPs on the\\ncomputer to be forever immortalized in\\lthe C.A.P. CHALLENGE HALL OF FAME.",
+  "pt": "Agora, por favor, coloque seus CAPs no computador para ficarem imortalizados para sempre no HALL DA FAMA do DESAFIO C.A.P."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CEDB",
+  "en": "Now it's your turn, bro!",
+  "pt": "Agora é a sua vez, mano!"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CEF4",
+  "en": "Now then, MARIO. Go ahead and put your\\nteam on the console so we can record\\lyour achievement!",
+  "pt": "Muito bem, MARIO. Pode colocar a sua equipe no console pra gente registrar a sua conquista!"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CF52",
+  "en": "Go for it bro! No need to stand on\\nceremony this time around.",
+  "pt": "Vai lá, mano! Desta vez não precisa de cerimônia."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CF90",
+  "en": "Your brother is quite right. We all want\\nto get back to playing SUPER MARIO\\lBROS. 3, after all.",
+  "pt": "Seu irmão tem toda a razão. Afinal, todos nós queremos voltar a jogar SUPER MARIO BROS. 3."
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037D004",
+  "en": "I heard that the famous KOOPA,\\nKOOPLEY, came down here in search of a\\ldragon. I don't see how he could have\\lpossibly made it past this darkness,\\lthough…",
+  "pt": "Ouvi dizer que o famoso KOOPA, KOOPLEY, desceu até aqui em busca de um dragão. Mas não sei como ele poderia ter passado por essa escuridão…"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F686",
+  "en": "Whew, somehow made it through RAINBOW\\nROAD. My KART is definitely gonna need\\lrepairs after this…",
+  "pt": "Ufa, de algum jeito consegui atravessar a RAINBOW ROAD. Meu KART com certeza vai precisar de conserto depois dessa…"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F6E7",
+  "en": "Greetings, traveller. I can teach your\\nCAPTURE a special move, for a price.\\lEverything here is 7,500 coins, take it\\lor leave it.",
+  "pt": "Saudações, viajante. Posso ensinar um golpe especial à sua CAPTURA, por um preço. Tudo aqui custa 7.500 moedas, é pegar ou largar."
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F8A7",
+  "en": "You'd like to stop? Come back later if\\nyou change your mind, then.",
+  "pt": "Quer parar? Então volte mais tarde, se mudar de ideia."
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F8EA",
+  "en": "You'd like me to teach the move\\n{STR_VAR_1}?",
+  "pt": "Gostaria que eu ensinasse o golpe {STR_VAR_1}?"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F90E",
+  "en": "I'm sorry, but you don't have enough\\nCOINS.",
+  "pt": "Sinto muito, mas você não tem MOEDAS suficientes."
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F93A",
+  "en": "There we go. Make sure to use it wisely.",
+  "pt": "Pronto. Use-o com sabedoria."
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F963",
+  "en": "Oh, you've changed your mind?\\pOr would you like to select a different\\nmove?",
+  "pt": "Ah, mudou de ideia?\\pOu gostaria de escolher outro golpe?"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F9B5",
+  "en": "Hey, MARIO! It's me, FOTTO!\\pWow, you've really become a strong\\nCOMMANDER.\\pWould you have guessed to see me here?\\nI didn't think it would happen either,\\lbut I eventually got all 8 POWER STARS!\\pI know this may be asking a lot, but can\\nI take your photo after we battle?",
+  "pt": "Ei, MARIO! Sou eu, o FOTTO!\\pUau, você virou mesmo um COMANDANTE forte.\\pVocê imaginaria me ver aqui? Eu também não achei que fosse acontecer, mas acabei conseguindo as 8 ESTRELAS DE PODER!\\pSei que é pedir muito, mas posso tirar uma foto sua depois da nossa batalha?"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037FAC1",
+  "en": "Alright! Let's make this\\na FOTTO finish!",
+  "pt": "Beleza! Vamos ter um final FOTTOgênico!"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037FB06",
+  "en": "That was a fantastic battle! Maybe I\\nshould have recorded it!\\nAlright, why don't you stand over there.",
+  "pt": "Que batalha fantástica! Talvez eu devesse ter gravado! Bom, que tal você ficar ali?"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037FB6D",
+  "en": "Perfect, now how about a SUPER-HIGH\\nSUPER MARIO SUPER JUMP for the camera!",
+  "pt": "Perfeito, agora que tal um SUPER PULO SUPER ALTO DO SUPER MARIO pra câmera!"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037FBB8",
+  "en": "Thank you so much for letting me take\\nyour picture through this photo\\ljourney.\\pYou know, I think I really 'CAPTURED'\\nyour essence! Get it!\\pUh, CRANKY KONG may have rubbed off on\\nme after I recorded his comedy show.\\pWell, your picture is uploading to\\nfottocap.bsky.social as we speak!\\pAnd you best know that I'm going to\\nkeep taking pictures of you and\\leveryone else playing in the C.A.P.\\lCHALLENGE!\\pThere's so many wonderful people online\\nthat have made me want to keep taking\\lmore!",
+  "pt": "Muito obrigado por me deixar tirar suas fotos durante essa jornada fotográfica.\\pSabe, acho que eu realmente 'CAPTUREI' a sua essência! Sacou?\\pÉ, acho que o CRANKY KONG me influenciou depois que eu gravei o show de comédia dele.\\pBom, sua foto está sendo enviada pro fottocap.bsky.social neste exato momento!\\pE pode ter certeza de que vou continuar tirando fotos de você e de todo mundo que joga o DESAFIO C.A.P.!\\pTem tanta gente maravilhosa on-line que me deu vontade de continuar tirando mais!"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037FD9B",
+  "en": "That's alright, I'll keep taking pictures\\nof outer space!",
+  "pt": "Tudo bem, vou continuar tirando fotos do espaço sideral!"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037FDD5",
+  "en": "Your photo on RAINBOW ROAD should be\\nposted now!\\pJust go to my account\\nfottocap.bsky.social!",
+  "pt": "Sua foto na RAINBOW ROAD já deve estar no ar!\\pÉ só entrar na minha conta\\nfottocap.bsky.social!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "03804AA",
+  "en": "Hey, do these boost panels look a little\\nthird party to you? I know I'm supposed\\lto drive onto them all fearless and\\lstuff, but I can't help but be scared…",
+  "pt": "Ei, esses painéis de aceleração não parecem meio pirata pra você? Eu sei que devia passar por cima deles sem medo e tal, mas não consigo evitar ficar com medo…"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380546",
+  "en": "Don't be afraid to switch to the water\\nportions of RAINBOW ROAD! It'll be right\\lback to your KART once you're done!",
+  "pt": "Não tenha medo de passar pros trechos de água da RAINBOW ROAD! Você volta pro seu KART assim que terminar!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "03805BA",
+  "en": "Us LAKITU are on the safety team for\\nRAINBOW ROAD. We pick you up if you\\lhappen to fall off the track.\\pThough a few of us are bored and may\\nwant a piece of the action for\\lthemselves!",
+  "pt": "Nós, os LAKITU, somos da equipe de segurança da RAINBOW ROAD. A gente te busca se você cair da pista.\\pMas alguns de nós estão entediados e talvez queiram um pouco de ação também!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "03806A7",
+  "en": "Gotta be careful while karting around\\nRAINBOW ROAD, never know what maniac\\lwill try and throw a RED SHELL at you\\lnext.",
+  "pt": "Tem que tomar cuidado andando de kart pela RAINBOW ROAD, nunca se sabe qual maluco vai tentar jogar um CASCO VERMELHO em você."
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "038071E",
+  "en": "Woah! Cut your speed, man!",
+  "pt": "Opa! Vai mais devagar, cara!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380739",
+  "en": "You almost hit me!",
+  "pt": "Você quase me atropelou!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "038074C",
+  "en": "You gotta be careful after taking\\nthose boost panels! You nearly hit me!",
+  "pt": "Tem que tomar cuidado depois de passar por esses painéis de aceleração! Você quase me atropelou!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "03807D5",
+  "en": "I'm supposed to be making my way to the\\nELITE FOUR, but I got lost in this little\\lloop…",
+  "pt": "Eu devia estar indo pra ELITE DOS QUATRO, mas me perdi neste looping…"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380851",
+  "en": "Did you know you can drive behind the\\nwaterfalls here in RAINBOW ROAD?",
+  "pt": "Sabia que dá pra dirigir por trás das cachoeiras aqui na RAINBOW ROAD?"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "03808EE",
+  "en": "Chill out! I'm just a LAKITU who works\\nhere!",
+  "pt": "Calma aí! Eu sou só um LAKITU que trabalha aqui!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "038091F",
+  "en": "Hey, MARIO!",
+  "pt": "Ei, MARIO!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "038092B",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380931",
+  "en": "I finally caught up with you, bro!\\pI've been meaning to ask this ever\\nsince we defeated BOWSER together, but\\ldo you think we could have one final\\lbattle before the ELITE FOUR?\\pI wanna give you all I got with the\\nfriends I made along the way!",
+  "pt": "Finalmente te alcancei, mano!\\pQueria te perguntar isso desde que derrotamos o BOWSER juntos, mas será que a gente podia ter uma última batalha antes da ELITE DOS QUATRO?\\pQuero dar tudo de mim com os amigos que fiz pelo caminho!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380A23",
+  "en": "Mamma mia…",
+  "pt": "Mamma mia…"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380A2E",
+  "en": "Wow, bro! You've really mastered this\\ngame, haven't you?\\pDon't worry though, I'll catch up in no\\ntime, just you see!\\pBy the way, are you prepared for the\\nrest of RAINBOW ROAD? Here, let me heal\\lyou up before I leave.",
+  "pt": "Uau, mano! Você dominou mesmo este jogo, hein?\\pMas não se preocupe, eu te alcanço rapidinho, você vai ver!\\pAliás, está preparado pro resto da RAINBOW ROAD? Toma, deixa eu te curar antes de ir."
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380B07",
+  "en": "Well, I'm going on ahead. Good luck, bro!",
+  "pt": "Bom, vou indo na frente. Boa sorte, mano!"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380B31",
+  "en": "WARNING! DANGEROUS, BUT QUICKER,\\nSHORTCUT AHEAD!\\pFIND DIFFERENT PATH FOR SAFER AND\\nSLOWER DRIVING!",
+  "pt": "ATENÇÃO! ATALHO PERIGOSO, PORÉM MAIS RÁPIDO, À FRENTE!\\pPROCURE OUTRO CAMINHO PARA UMA DIREÇÃO MAIS SEGURA E LENTA!"
+ }
+]

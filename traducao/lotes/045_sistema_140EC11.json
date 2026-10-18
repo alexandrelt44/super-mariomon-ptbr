@@ -1,0 +1,4296 @@
+[
+ {
+  "offset": "140EC11",
+  "en": "Clear Storage Boxes",
+  "pt": "",
+  "max_width": 128
+ },
+ {
+  "offset": "140EC25",
+  "en": "CHEAT Start",
+  "pt": "",
+  "max_width": 86
+ },
+ {
+  "offset": "140EC31",
+  "en": "Hatch an Egg",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "140EC3E",
+  "en": "Set Flag XYZ…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 101
+ },
+ {
+  "offset": "140EC50",
+  "en": "Flag: {STR_VAR_1}{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}\\n{STR_VAR_3}",
+  "pt": "",
+  "max_lines": 3,
+  "max_width": 80
+ },
+ {
+  "offset": "140EC73",
+  "en": "Set Var XYZ…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "140EC92",
+  "en": "Var: {STR_VAR_1}{CLEAR_TO 5A}\\nVal: {STR_VAR_3}{CLEAR_TO 5A}\\n{STR_VAR_2}",
+  "pt": "",
+  "max_lines": 3,
+  "max_width": 75
+ },
+ {
+  "offset": "140ECAB",
+  "en": "Var: {STR_VAR_1}{CLEAR_TO 5A}\\nVal: {STR_VAR_3}{CLEAR_TO 5A}\\n{STR_VAR_2}",
+  "pt": "",
+  "max_lines": 3,
+  "max_width": 75
+ },
+ {
+  "offset": "140ECC4",
+  "en": "Pokédex Flags All",
+  "pt": "",
+  "max_width": 114
+ },
+ {
+  "offset": "140ECD6",
+  "en": "Pokédex Flags Reset",
+  "pt": "",
+  "max_width": 130
+ },
+ {
+  "offset": "140ECEA",
+  "en": "Toggle {STR_VAR_1}Pokédex",
+  "pt": "",
+  "max_width": 145
+ },
+ {
+  "offset": "140ECFB",
+  "en": "Toggle {STR_VAR_1}NatDex",
+  "pt": "",
+  "max_width": 139
+ },
+ {
+  "offset": "140ED0B",
+  "en": "Toggle {STR_VAR_1}PokéNav",
+  "pt": "",
+  "max_width": 145
+ },
+ {
+  "offset": "140ED1C",
+  "en": "Toggle {STR_VAR_1}Running Shoes",
+  "pt": ""
+ },
+ {
+  "offset": "140ED33",
+  "en": "Toggle {STR_VAR_1}Fly Flags",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "140ED46",
+  "en": "Toggle {STR_VAR_1}All badges",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "140ED5A",
+  "en": "Toggle {STR_VAR_1}Frontier Pass",
+  "pt": ""
+ },
+ {
+  "offset": "140ED71",
+  "en": "Toggle {STR_VAR_1}Collision OFF",
+  "pt": "",
+  "max_width": 170
+ },
+ {
+  "offset": "140ED88",
+  "en": "Toggle {STR_VAR_1}Encounter OFF",
+  "pt": ""
+ },
+ {
+  "offset": "140ED9F",
+  "en": "Toggle {STR_VAR_1}TrainerSee OFF",
+  "pt": ""
+ },
+ {
+  "offset": "140EDB7",
+  "en": "Toggle {STR_VAR_1}BagUse OFF",
+  "pt": "",
+  "max_width": 160
+ },
+ {
+  "offset": "140EDCB",
+  "en": "Toggle {STR_VAR_1}Catching OFF",
+  "pt": "",
+  "max_width": 170
+ },
+ {
+  "offset": "140EDE1",
+  "en": "Toggle {STR_VAR_1}Jumping OFF",
+  "pt": "",
+  "max_width": 164
+ },
+ {
+  "offset": "140EDF6",
+  "en": "Toggle {STR_VAR_1}Level Scaling OFF",
+  "pt": ""
+ },
+ {
+  "offset": "140EE11",
+  "en": "Wild…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "140EE1B",
+  "en": "Wild Double…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 94
+ },
+ {
+  "offset": "140EE2C",
+  "en": "Single…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "140EE38",
+  "en": "Double…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 71
+ },
+ {
+  "offset": "140EE44",
+  "en": "Multi…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "140EE4F",
+  "en": "{STR_VAR_1}Check bad move",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "140EE60",
+  "en": "{STR_VAR_1}Try to faint",
+  "pt": "",
+  "max_width": 129
+ },
+ {
+  "offset": "140EE6F",
+  "en": "{STR_VAR_1}Check viability",
+  "pt": "",
+  "max_width": 145
+ },
+ {
+  "offset": "140EE81",
+  "en": "{STR_VAR_1}Setup first turn",
+  "pt": "",
+  "max_width": 152
+ },
+ {
+  "offset": "140EE94",
+  "en": "{STR_VAR_1}Risky",
+  "pt": "",
+  "max_width": 94
+ },
+ {
+  "offset": "140EE9C",
+  "en": "{STR_VAR_1}Prefer strongest move",
+  "pt": ""
+ },
+ {
+  "offset": "140EEB4",
+  "en": "{STR_VAR_1}Prefer baton pass",
+  "pt": "",
+  "max_width": 160
+ },
+ {
+  "offset": "140EEC8",
+  "en": "{STR_VAR_1}Double battle",
+  "pt": "",
+  "max_width": 137
+ },
+ {
+  "offset": "140EED8",
+  "en": "{STR_VAR_1}Hp aware",
+  "pt": "",
+  "max_width": 110
+ },
+ {
+  "offset": "140EEE3",
+  "en": "{STR_VAR_1}Negate unaware",
+  "pt": "",
+  "max_width": 146
+ },
+ {
+  "offset": "140EEF4",
+  "en": "{STR_VAR_1}Will suicide",
+  "pt": "",
+  "max_width": 125
+ },
+ {
+  "offset": "140EF03",
+  "en": "{STR_VAR_1}Help partner",
+  "pt": "",
+  "max_width": 131
+ },
+ {
+  "offset": "140EF12",
+  "en": "{STR_VAR_1}Prefer status moves",
+  "pt": "",
+  "max_width": 172
+ },
+ {
+  "offset": "140EF28",
+  "en": "{STR_VAR_1}Stall",
+  "pt": "",
+  "max_width": 92
+ },
+ {
+  "offset": "140EF30",
+  "en": "{STR_VAR_1}Screener",
+  "pt": "",
+  "max_width": 112
+ },
+ {
+  "offset": "140EF3B",
+  "en": "{STR_VAR_1}Smart switching",
+  "pt": "",
+  "max_width": 148
+ },
+ {
+  "offset": "140EF4D",
+  "en": "{STR_VAR_1}Ace pokemon",
+  "pt": "",
+  "max_width": 129
+ },
+ {
+  "offset": "140EF5B",
+  "en": "{STR_VAR_1}Omniscient",
+  "pt": "",
+  "max_width": 122
+ },
+ {
+  "offset": "140EF68",
+  "en": "Grass…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "140EF73",
+  "en": "Long grass…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "140EF83",
+  "en": "Sand…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 61
+ },
+ {
+  "offset": "140EF8D",
+  "en": "Underwater…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 95
+ },
+ {
+  "offset": "140EF9D",
+  "en": "Water…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "140EFA8",
+  "en": "Pond…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 61
+ },
+ {
+  "offset": "140EFB2",
+  "en": "Mountain…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 83
+ },
+ {
+  "offset": "140EFC0",
+  "en": "Cave…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 61
+ },
+ {
+  "offset": "140EFCA",
+  "en": "Building…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 79
+ },
+ {
+  "offset": "140EFD8",
+  "en": "Plain…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "140EFE3",
+  "en": "Give item XYZ…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 105
+ },
+ {
+  "offset": "140EFF6",
+  "en": "Quantity:{CLEAR_TO 5A}\\n{STR_VAR_1}{CLEAR_TO 5A}\\n\\n{STR_VAR_2}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 59
+ },
+ {
+  "offset": "140F00D",
+  "en": "Item Id: {STR_VAR_3}\\n{STR_VAR_1}{CLEAR_TO 5A}\\n\\n{STR_VAR_2}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 97
+ },
+ {
+  "offset": "140F023",
+  "en": "Give all TMs",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "140F030",
+  "en": "Pkm (lvl)…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 80
+ },
+ {
+  "offset": "140F059",
+  "en": "Species: {STR_VAR_3}\\n{STR_VAR_1}{CLEAR_TO 5A}\\n\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 98
+ },
+ {
+  "offset": "140F072",
+  "en": "Level:{CLEAR_TO 5A}\\n{STR_VAR_1}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 52
+ },
+ {
+  "offset": "140F0A7",
+  "en": "NatureId: {STR_VAR_3}{CLEAR_TO 5A}\\n{STR_VAR_1}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 105
+ },
+ {
+  "offset": "140F0C7",
+  "en": "AbilityNum: {STR_VAR_3}{CLEAR_TO 5A}\\n{STR_VAR_1}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 112
+ },
+ {
+  "offset": "140F127",
+  "en": "IV Attack:{CLEAR_TO 5A}\\n    {STR_VAR_3}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 64
+ },
+ {
+  "offset": "140F149",
+  "en": "IV Defense:{CLEAR_TO 5A}\\n    {STR_VAR_3}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 70
+ },
+ {
+  "offset": "140F16C",
+  "en": "IV Speed:{CLEAR_TO 5A}\\n    {STR_VAR_3}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 64
+ },
+ {
+  "offset": "140F18D",
+  "en": "IV Sp. Attack:{CLEAR_TO 5A}\\n    {STR_VAR_3}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 82
+ },
+ {
+  "offset": "140F1B3",
+  "en": "IV Sp. Defense:{CLEAR_TO 5A}\\n    {STR_VAR_3}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}",
+  "pt": "",
+  "max_lines": 4,
+  "max_width": 88
+ },
+ {
+  "offset": "140F252",
+  "en": "Max Money",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "140F25C",
+  "en": "Max Coins",
+  "pt": "",
+  "max_width": 73
+ },
+ {
+  "offset": "140F266",
+  "en": "Max Battle Points",
+  "pt": "",
+  "max_width": 116
+ },
+ {
+  "offset": "140F278",
+  "en": "Daycare Egg",
+  "pt": "",
+  "max_width": 86
+ },
+ {
+  "offset": "140F284",
+  "en": "Fill PCBoxes Fast",
+  "pt": "",
+  "max_width": 114
+ },
+ {
+  "offset": "140F296",
+  "en": "Fill PCBoxes Slow (LAG!)",
+  "pt": "",
+  "max_width": 145
+ },
+ {
+  "offset": "140F2AF",
+  "en": "Fill PCItems",
+  "pt": "",
+  "max_width": 87
+ },
+ {
+  "offset": "140F2BC",
+  "en": "Fill Pocket Items",
+  "pt": "",
+  "max_width": 114
+ },
+ {
+  "offset": "140F2CE",
+  "en": "Fill Pocket PokeBalls",
+  "pt": "",
+  "max_width": 134
+ },
+ {
+  "offset": "140F2E4",
+  "en": "Fill Pocket TMHM",
+  "pt": "",
+  "max_width": 108
+ },
+ {
+  "offset": "140F2F5",
+  "en": "Fill Pocket Berries",
+  "pt": "",
+  "max_width": 122
+ },
+ {
+  "offset": "140F309",
+  "en": "Fill Pocket KeyItems",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "140F31E",
+  "en": "Effects…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 79
+ },
+ {
+  "offset": "140F32B",
+  "en": "Sound Id: {STR_VAR_3}\\n{STR_VAR_1}    \\n{STR_VAR_2}",
+  "pt": "",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "140F342",
+  "en": "Music…{CLEAR_TO 6E}→",
+  "pt": "",
+  "max_width": 65
+ },
+ {
+  "offset": "140F34D",
+  "en": "Music Id: {STR_VAR_3}\\n{STR_VAR_1}    \\n{STR_VAR_2}",
+  "pt": "",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "140F994",
+  "en": "NONE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "140FBA4",
+  "en": "NOT DEFINED!!!",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "140FBD9",
+  "en": "MUS-LITTLEROOT-TEST",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FBED",
+  "en": "MUS-GSC-ROUTE38",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "140FBFD",
+  "en": "MUS-CAUGHT",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "140FC08",
+  "en": "MUS-VICTORY-WILD",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "140FC19",
+  "en": "MUS-VICTORY-GYM-LEADER",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "140FC30",
+  "en": "MUS-VICTORY-LEAGUE",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "140FC43",
+  "en": "MUS-C-COMM-CENTER",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "140FC55",
+  "en": "MUS-GSC-PEWTER",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "140FC64",
+  "en": "MUS-C-VS-LEGEND-BEAST",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "140FC7A",
+  "en": "MUS-ROUTE101",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FC87",
+  "en": "MUS-ROUTE110",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FC94",
+  "en": "MUS-ROUTE120",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FCA1",
+  "en": "MUS-PETALBURG",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "140FCAF",
+  "en": "MUS-OLDALE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "140FCBA",
+  "en": "MUS-GYM",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "140FCC2",
+  "en": "MUS-SURF",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "140FCCB",
+  "en": "MUS-PETALBURG-WOODS",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FCDF",
+  "en": "MUS-LEVEL-UP",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FCEC",
+  "en": "MUS-HEAL",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "140FCF5",
+  "en": "MUS-OBTAIN-BADGE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "140FD06",
+  "en": "MUS-OBTAIN-ITEM",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "140FD16",
+  "en": "MUS-EVOLVED",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "140FD22",
+  "en": "MUS-OBTAIN-TMHM",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "140FD32",
+  "en": "MUS-LILYCOVE-MUSEUM",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FD46",
+  "en": "MUS-ROUTE122",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FD53",
+  "en": "MUS-OCEANIC-MUSEUM",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "140FD66",
+  "en": "MUS-EVOLUTION-INTRO",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FD7A",
+  "en": "MUS-EVOLUTION",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "140FD88",
+  "en": "MUS-MOVE-DELETED",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "140FD99",
+  "en": "MUS-ENCOUNTER-GIRL",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "140FDAC",
+  "en": "MUS-ENCOUNTER-MALE",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "140FDBF",
+  "en": "MUS-ABANDONED-SHIP",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "140FDD2",
+  "en": "MUS-FORTREE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "140FDDE",
+  "en": "MUS-BIRCH-LAB",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "140FDEC",
+  "en": "MUS-B-TOWER-RS",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "140FDFB",
+  "en": "MUS-ENCOUNTER-SWIMMER",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "140FE11",
+  "en": "MUS-CAVE-OF-ORIGIN",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "140FE24",
+  "en": "MUS-OBTAIN-BERRY",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "140FE35",
+  "en": "MUS-AWAKEN-LEGEND",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "140FE47",
+  "en": "MUS-SLOTS-JACKPOT",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "140FE59",
+  "en": "MUS-SLOTS-WIN",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "140FE67",
+  "en": "MUS-TOO-BAD",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "140FE73",
+  "en": "MUS-ROULETTE",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FE80",
+  "en": "MUS-LINK-CONTEST-P1",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FE94",
+  "en": "MUS-LINK-CONTEST-P2",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FEA8",
+  "en": "MUS-LINK-CONTEST-P3",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FEBC",
+  "en": "MUS-LINK-CONTEST-P4",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FED0",
+  "en": "MUS-ENCOUNTER-RICH",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "140FEE3",
+  "en": "MUS-VERDANTURF",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "140FEF2",
+  "en": "MUS-RUSTBORO",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FEFF",
+  "en": "MUS-POKE-CENTER",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "140FF0F",
+  "en": "MUS-ROUTE104",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FF1C",
+  "en": "MUS-ROUTE119",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FF29",
+  "en": "MUS-CYCLING",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "140FF35",
+  "en": "MUS-POKE-MART",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "140FF43",
+  "en": "MUS-LITTLEROOT",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "140FF52",
+  "en": "MUS-MT-CHIMNEY",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "140FF61",
+  "en": "MUS-ENCOUNTER-FEMALE",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "140FF76",
+  "en": "MUS-LILYCOVE",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FF83",
+  "en": "MUS-ROUTE111",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "140FF90",
+  "en": "MUS-HELP",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "140FF99",
+  "en": "MUS-UNDERWATER",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "140FFA8",
+  "en": "MUS-VICTORY-TRAINER",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "140FFBC",
+  "en": "MUS-TITLE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "140FFC6",
+  "en": "MUS-INTRO",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "140FFD0",
+  "en": "MUS-ENCOUNTER-MAY",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "140FFE2",
+  "en": "MUS-ENCOUNTER-INTENSE",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "140FFF8",
+  "en": "MUS-ENCOUNTER-COOL",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "141000B",
+  "en": "MUS-ROUTE113",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410018",
+  "en": "MUS-ENCOUNTER-AQUA",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "141002B",
+  "en": "MUS-FOLLOW-ME",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410039",
+  "en": "MUS-ENCOUNTER-BRENDAN",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "141004F",
+  "en": "MUS-EVER-GRANDE",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "141005F",
+  "en": "MUS-ENCOUNTER-SUSPICIOUS",
+  "pt": "",
+  "max_width": 168
+ },
+ {
+  "offset": "1410078",
+  "en": "MUS-VICTORY-AQUA-MAGMA",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "141008F",
+  "en": "MUS-CABLE-CAR",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "141009D",
+  "en": "MUS-GAME-CORNER",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "14100AD",
+  "en": "MUS-DEWFORD",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14100B9",
+  "en": "MUS-SAFARI-ZONE",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "14100C9",
+  "en": "MUS-VICTORY-ROAD",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14100DA",
+  "en": "MUS-AQUA-MAGMA-HIDEOUT",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "14100F1",
+  "en": "MUS-SAILING",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14100FD",
+  "en": "MUS-MT-PYRE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410109",
+  "en": "MUS-SLATEPORT",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410117",
+  "en": "MUS-MT-PYRE-EXTERIOR",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "141012C",
+  "en": "MUS-SCHOOL",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1410137",
+  "en": "MUS-HALL-OF-FAME",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410148",
+  "en": "MUS-FALLARBOR",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410156",
+  "en": "MUS-SEALED-CHAMBER",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1410169",
+  "en": "MUS-CONTEST-WINNER",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "141017C",
+  "en": "MUS-CONTEST",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410188",
+  "en": "MUS-ENCOUNTER-MAGMA",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "141019C",
+  "en": "MUS-INTRO-BATTLE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14101AD",
+  "en": "MUS-WEATHER-KYOGRE",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "14101C0",
+  "en": "MUS-WEATHER-GROUDON",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "14101D4",
+  "en": "MUS-SOOTOPOLIS",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14101E3",
+  "en": "MUS-CONTEST-RESULTS",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "14101F7",
+  "en": "MUS-HALL-OF-FAME-ROOM",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "141020D",
+  "en": "MUS-TRICK-HOUSE",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "141021D",
+  "en": "MUS-ENCOUNTER-TWINS",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410231",
+  "en": "MUS-ENCOUNTER-ELITE-FOUR",
+  "pt": "",
+  "max_width": 168
+ },
+ {
+  "offset": "141024A",
+  "en": "MUS-ENCOUNTER-HIKER",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "141025E",
+  "en": "MUS-CONTEST-LOBBY",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410270",
+  "en": "MUS-ENCOUNTER-INTERVIEWER",
+  "pt": ""
+ },
+ {
+  "offset": "141028A",
+  "en": "MUS-ENCOUNTER-CHAMPION",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "14102A1",
+  "en": "MUS-CREDITS",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14102AD",
+  "en": "MUS-END",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "14102B5",
+  "en": "MUS-B-FRONTIER",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14102C4",
+  "en": "MUS-B-ARENA",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14102D0",
+  "en": "MUS-OBTAIN-B-POINTS",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "14102E4",
+  "en": "MUS-REGISTER-MATCH-CALL",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "14102FC",
+  "en": "MUS-B-PYRAMID",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "141030A",
+  "en": "MUS-B-PYRAMID-TOP",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "141031C",
+  "en": "MUS-B-PALACE",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410329",
+  "en": "MUS-RAYQUAZA-APPEARS",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "141033E",
+  "en": "MUS-B-TOWER",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "141034A",
+  "en": "MUS-OBTAIN-SYMBOL",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "141035C",
+  "en": "MUS-B-DOME",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1410367",
+  "en": "MUS-B-PIKE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1410372",
+  "en": "MUS-B-FACTORY",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410380",
+  "en": "MUS-VS-RAYQUAZA",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410390",
+  "en": "MUS-VS-FRONTIER-BRAIN",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "14103A6",
+  "en": "MUS-VS-MEW",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "14103B1",
+  "en": "MUS-B-DOME-LOBBY",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14103C2",
+  "en": "MUS-VS-WILD",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14103CE",
+  "en": "MUS-VS-AQUA-MAGMA",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "14103E0",
+  "en": "MUS-VS-TRAINER",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14103EF",
+  "en": "MUS-VS-GYM-LEADER",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410401",
+  "en": "MUS-VS-CHAMPION",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410411",
+  "en": "MUS-VS-REGI",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "141041D",
+  "en": "MUS-VS-KYOGRE-GROUDON",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "1410433",
+  "en": "MUS-VS-RIVAL",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410440",
+  "en": "MUS-VS-ELITE-FOUR-OLD",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "1410456",
+  "en": "MUS-VS-AQUA-MAGMA-LEADER",
+  "pt": "",
+  "max_width": 168
+ },
+ {
+  "offset": "141046F",
+  "en": "MUS-RG-FOLLOW-ME",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410480",
+  "en": "MUS-RG-GAME-CORNER",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1410493",
+  "en": "MUS-RG-ROCKET-HIDEOUT",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "14104A9",
+  "en": "MUS-RG-GYM",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "14104B4",
+  "en": "MUS-RG-JIGGLYPUFF",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "14104C6",
+  "en": "MUS-RG-INTRO-FIGHT",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "14104D9",
+  "en": "MUS-RG-TITLE",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14104E6",
+  "en": "MUS-RG-CINNABAR",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "14104F6",
+  "en": "MUS-RG-LAVENDER",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410506",
+  "en": "MUS-RG-HEAL",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410512",
+  "en": "MUS-RG-CYCLING",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410521",
+  "en": "MUS-RG-ENCOUNTER-ROCKET",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "1410539",
+  "en": "MUS-RG-ENCOUNTER-GIRL",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "141054F",
+  "en": "MUS-RG-ENCOUNTER-BOY",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1410564",
+  "en": "MUS-RG-HALL-OF-FAME",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410578",
+  "en": "MUS-RG-VIRIDIAN-FOREST",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "141058F",
+  "en": "MUS-RG-MT-MOON",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "141059E",
+  "en": "MUS-RG-POKE-MANSION",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "14105B2",
+  "en": "MUS-RG-CREDITS",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14105C1",
+  "en": "MUS-RG-ROUTE1",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14105CF",
+  "en": "MUS-RG-ROUTE24",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14105DE",
+  "en": "MUS-RG-ROUTE3",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14105EC",
+  "en": "MUS-RG-ROUTE11",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14105FB",
+  "en": "MUS-RG-VICTORY-ROAD",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "141060F",
+  "en": "MUS-RG-VS-GYM-LEADER",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1410624",
+  "en": "MUS-RG-VS-TRAINER",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410636",
+  "en": "MUS-RG-VS-WILD",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410645",
+  "en": "MUS-RG-VS-CHAMPION",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1410658",
+  "en": "MUS-RG-PALLET",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410666",
+  "en": "MUS-RG-OAK-LAB",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410675",
+  "en": "MUS-RG-OAK",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1410680",
+  "en": "MUS-RG-POKE-CENTER",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1410693",
+  "en": "MUS-RG-SS-ANNE",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14106A2",
+  "en": "MUS-RG-SURF",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14106AE",
+  "en": "MUS-RG-POKE-TOWER",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "14106C0",
+  "en": "MUS-RG-SILPH",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14106CD",
+  "en": "MUS-RG-FUCHSIA",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14106DC",
+  "en": "MUS-RG-CELADON",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14106EB",
+  "en": "MUS-RG-VICTORY-TRAINER",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "1410702",
+  "en": "MUS-RG-VICTORY-WILD",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410716",
+  "en": "MUS-RG-VICTORY-GYM-LEADER",
+  "pt": ""
+ },
+ {
+  "offset": "1410730",
+  "en": "MUS-RG-VERMILLION",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410742",
+  "en": "MUS-RG-PEWTER",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410750",
+  "en": "MUS-RG-ENCOUNTER-RIVAL",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "1410767",
+  "en": "MUS-RG-RIVAL-EXIT",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410779",
+  "en": "MUS-RG-DEX-RATING",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "141078B",
+  "en": "MUS-RG-OBTAIN-KEY-ITEM",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "14107A2",
+  "en": "MUS-RG-CAUGHT-INTRO",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "14107B6",
+  "en": "MUS-RG-PHOTO",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14107C3",
+  "en": "MUS-RG-GAME-FREAK",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "14107D5",
+  "en": "MUS-RG-CAUGHT",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14107E3",
+  "en": "MUS-RG-NEW-GAME-INSTRUCT",
+  "pt": "",
+  "max_width": 168
+ },
+ {
+  "offset": "14107FC",
+  "en": "MUS-RG-NEW-GAME-INTRO",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "1410812",
+  "en": "MUS-RG-NEW-GAME-EXIT",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1410827",
+  "en": "MUS-RG-POKE-JUMP",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410838",
+  "en": "MUS-RG-UNION-ROOM",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "141084A",
+  "en": "MUS-RG-NET-CENTER",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "141085C",
+  "en": "MUS-RG-MYSTERY-GIFT",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410870",
+  "en": "MUS-RG-BERRY-PICK",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410882",
+  "en": "MUS-RG-SEVII-CAVE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410894",
+  "en": "MUS-RG-TEACHY-TV-SHOW",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "14108AA",
+  "en": "MUS-RG-SEVII-ROUTE",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "14108BD",
+  "en": "MUS-RG-SEVII-DUNGEON",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "14108D2",
+  "en": "MUS-RG-SEVII-123",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14108E3",
+  "en": "MUS-RG-SEVII-45",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "14108F3",
+  "en": "MUS-RG-SEVII-67",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410903",
+  "en": "MUS-RG-POKE-FLUTE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410915",
+  "en": "MUS-RG-VS-DEOXYS",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410926",
+  "en": "MUS-RG-VS-MEWTWO",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410937",
+  "en": "MUS-RG-VS-LEGEND",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410948",
+  "en": "MUS-RG-ENCOUNTER-GYM-LEADER",
+  "pt": ""
+ },
+ {
+  "offset": "1410964",
+  "en": "MUS-RG-ENCOUNTER-DEOXYS",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "141097C",
+  "en": "MUS-RG-TRAINER-TOWER",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1410991",
+  "en": "MUS-RG-SLOW-PALLET",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "14109A4",
+  "en": "MUS-RG-TEACHY-TV-MENU",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "14109BA",
+  "en": "PH-TRAP-BLEND",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14109C8",
+  "en": "PH-TRAP-HELD",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14109D5",
+  "en": "PH-TRAP-SOLO",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14109E2",
+  "en": "PH-FACE-BLEND",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14109F0",
+  "en": "PH-FACE-HELD",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14109FD",
+  "en": "PH-FACE-SOLO",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410A0A",
+  "en": "PH-CLOTH-BLEND",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410A19",
+  "en": "PH-CLOTH-HELD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410A27",
+  "en": "PH-CLOTH-SOLO",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410A35",
+  "en": "PH-DRESS-BLEND",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410A44",
+  "en": "PH-DRESS-HELD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410A52",
+  "en": "PH-DRESS-SOLO",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410A60",
+  "en": "PH-FLEECE-BLEND",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410A70",
+  "en": "PH-FLEECE-HELD",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410A7F",
+  "en": "PH-FLEECE-SOLO",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410A8E",
+  "en": "PH-KIT-BLEND",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410A9B",
+  "en": "PH-KIT-HELD",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410AA7",
+  "en": "PH-KIT-SOLO",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410AB3",
+  "en": "PH-PRICE-BLEND",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410AC2",
+  "en": "PH-PRICE-HELD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410AD0",
+  "en": "PH-PRICE-SOLO",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410ADE",
+  "en": "PH-LOT-BLEND",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410AEB",
+  "en": "PH-LOT-HELD",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410AF7",
+  "en": "PH-LOT-SOLO",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410B03",
+  "en": "PH-GOAT-BLEND",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410B11",
+  "en": "PH-GOAT-HELD",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410B1E",
+  "en": "PH-GOAT-SOLO",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410B2B",
+  "en": "PH-THOUGHT-BLEND",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410B3C",
+  "en": "PH-THOUGHT-HELD",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410B4C",
+  "en": "PH-THOUGHT-SOLO",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410B5C",
+  "en": "PH-CHOICE-BLEND",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410B6C",
+  "en": "PH-CHOICE-HELD",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410B7B",
+  "en": "PH-CHOICE-SOLO",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410B8A",
+  "en": "PH-MOUTH-BLEND",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410B99",
+  "en": "PH-MOUTH-HELD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410BA7",
+  "en": "PH-MOUTH-SOLO",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410BB5",
+  "en": "PH-FOOT-BLEND",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410BC3",
+  "en": "PH-FOOT-HELD",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410BD0",
+  "en": "PH-FOOT-SOLO",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410BDD",
+  "en": "PH-GOOSE-BLEND",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410BEC",
+  "en": "PH-GOOSE-HELD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410BFA",
+  "en": "PH-GOOSE-SOLO",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410C08",
+  "en": "PH-STRUT-BLEND",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410C17",
+  "en": "PH-STRUT-HELD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410C25",
+  "en": "PH-STRUT-SOLO",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410C33",
+  "en": "PH-CURE-BLEND",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410C41",
+  "en": "PH-CURE-HELD",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410C4E",
+  "en": "PH-CURE-SOLO",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410C5B",
+  "en": "PH-NURSE-BLEND",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410C6A",
+  "en": "PH-NURSE-HELD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410C78",
+  "en": "DUMMY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "1410C7E",
+  "en": "MUS-OPEN-YOUR-HEART",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410C92",
+  "en": "MUS-LIVE-AND-LEARN",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1410CA5",
+  "en": "MUS-THE-GRAND-FINALE",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1410CBA",
+  "en": "MUS-BOWSER-BATTLE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410CCC",
+  "en": "MUS-GOOD-EGG",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410CD9",
+  "en": "MUS-SHOWTIME-TEST",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410CEB",
+  "en": "MUS-PEACH-CASTLE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410CFC",
+  "en": "MUS-COMET-OBSERVATORY",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "1410D12",
+  "en": "MUS-SHOWTIME-MIMI",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410D24",
+  "en": "MUS-BRAMBLE-BLAST",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410D36",
+  "en": "MUS-WALUIGI-PINBALL",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410D4A",
+  "en": "MUS-TOUGH-GUY-ALERT",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410D5E",
+  "en": "MUS-ML3-BATTLE",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410D6D",
+  "en": "MUS-VS-GIGA-BOWSER",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1410D80",
+  "en": "MUS-ALL-STAR-REST",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410D92",
+  "en": "MUS-VS-LUIGI",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410D9F",
+  "en": "MUS-VS-ELITE-FOUR",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410DB1",
+  "en": "MUS-EGADD",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1410DBB",
+  "en": "MUS-VS-MARIO-GYM",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410DCC",
+  "en": "MUS-NEW-DONK",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410DD9",
+  "en": "MUS-CLOUD-CAP",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410DE7",
+  "en": "MUS-TOAD-TOWN",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410DF5",
+  "en": "MUS-SAND-KINGDOM",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410E06",
+  "en": "MUS-BOWSER-CASTLE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410E18",
+  "en": "MUS-VS-KOBE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410E24",
+  "en": "MUS-PEACHES",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410E30",
+  "en": "MUS-ROUTE-3-1-UNUSED",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1410E45",
+  "en": "MUS-CPT-TOAD",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410E52",
+  "en": "MUS-MARIO-PAD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1410E60",
+  "en": "MUS-VS-ANTASMA",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410E6F",
+  "en": "MUS-SPACE-JUNK-GALAXY",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "1410E85",
+  "en": "MUS-NSMB-WORLD-1",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410E96",
+  "en": "MUS-NSMB-ATHLETIC",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410EA8",
+  "en": "MUS-WARIO-WARE",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1410EB7",
+  "en": "MUS-WARIOLAND-RUINS",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410ECB",
+  "en": "MUS-WALUIGIS-ISLAND",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1410EDF",
+  "en": "MUS-WINDBREAK-BAY",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410EF1",
+  "en": "MUS-JIMMY-T",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410EFD",
+  "en": "MUS-ASHLEY",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1410F08",
+  "en": "MUS-PENNY-ROCK-THE-MIC",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "1410F1F",
+  "en": "MUS-MARIO-TUTORIAL",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1410F32",
+  "en": "MUS-FINAL-BOWSER-UNUSED",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "1410F4A",
+  "en": "MUS-NSMBW-WORLD-5",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410F5C",
+  "en": "MUS-WORLD-5",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1410F68",
+  "en": "MUS-DK-ADV-UNUSED",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410F7A",
+  "en": "MUS-RAINBOW-ROAD",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1410F8B",
+  "en": "MUS-UNDERGROUND",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1410F9B",
+  "en": "MUS-GHOST",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1410FA5",
+  "en": "MUS-GRITZY-DESERT",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410FB7",
+  "en": "MUS-YOSHI-VILLAGE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410FC9",
+  "en": "MUS-YOSHI-MOUNTAIN",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1410FDC",
+  "en": "MUS-MARIO-VICTORY",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1410FEE",
+  "en": "MUS-HOOKTAIL",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1410FFB",
+  "en": "MUS-MARIO-CREDITS",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "141100D",
+  "en": "MUS-THWOMP-VOLCANO",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1411020",
+  "en": "MUS-XENOBLADE",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "141102E",
+  "en": "MUS-GREEN-HILL-ZONE",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "1411042",
+  "en": "MUS-VS-CANNONS",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411051",
+  "en": "MUS-VS-MARIO-FRONTIER",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "1411067",
+  "en": "MUS-GLITZ-PIT",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411075",
+  "en": "MUS-VS-TTYD",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411081",
+  "en": "MUS-VS-RAWK-HAWK",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411092",
+  "en": "LIST-END",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "14115A8",
+  "en": "SE-USE-ITEM",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14115B4",
+  "en": "SE-PC-LOGIN",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14115C0",
+  "en": "SE-PC-OFF",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "14115CA",
+  "en": "SE-PC-ON",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "14115D3",
+  "en": "SE-SELECT",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "14115DD",
+  "en": "SE-WIN-OPEN",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14115E9",
+  "en": "SE-WALL-HIT",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14115F5",
+  "en": "SE-DOOR",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "14115FD",
+  "en": "SE-EXIT",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "1411605",
+  "en": "SE-LEDGE",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "141160E",
+  "en": "SE-BIKE-BELL",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "141161B",
+  "en": "SE-NOT-EFFECTIVE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "141162C",
+  "en": "SE-EFFECTIVE",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411639",
+  "en": "SE-SUPER-EFFECTIVE",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "141164C",
+  "en": "SE-BALL-OPEN",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411659",
+  "en": "SE-FAINT",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "1411662",
+  "en": "SE-FLEE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "141166A",
+  "en": "SE-SLIDING-DOOR",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "141167A",
+  "en": "SE-SHIP",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "1411682",
+  "en": "SE-BANG",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "141168A",
+  "en": "SE-PIN",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "1411691",
+  "en": "SE-BOO",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "1411698",
+  "en": "SE-BALL",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "14116A0",
+  "en": "SE-CONTEST-PLACE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14116B1",
+  "en": "SE-A",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "14116B6",
+  "en": "SE-I",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "14116BB",
+  "en": "SE-U",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "14116C0",
+  "en": "SE-E",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "14116C5",
+  "en": "SE-O",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "14116CA",
+  "en": "SE-N",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "14116CF",
+  "en": "SE-SUCCESS",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "14116DA",
+  "en": "SE-FAILURE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "14116E5",
+  "en": "SE-EXP",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "14116EC",
+  "en": "SE-BIKE-HOP",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14116F8",
+  "en": "SE-SWITCH",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411702",
+  "en": "SE-CLICK",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "141170B",
+  "en": "SE-FU-ZAKU",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1411716",
+  "en": "SE-CONTEST-CONDITION-LOSE",
+  "pt": ""
+ },
+ {
+  "offset": "1411730",
+  "en": "SE-LAVARIDGE-FALL-WARP",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "1411747",
+  "en": "SE-ICE-STAIRS",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411755",
+  "en": "SE-ICE-BREAK",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411762",
+  "en": "SE-ICE-CRACK",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "141176F",
+  "en": "SE-FALL",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "1411777",
+  "en": "SE-UNLOCK",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411781",
+  "en": "SE-WARP-IN",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "141178C",
+  "en": "SE-WARP-OUT",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411798",
+  "en": "SE-REPEL",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "14117A1",
+  "en": "SE-ROTATING-GATE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14117B2",
+  "en": "SE-TRUCK-MOVE",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14117C0",
+  "en": "SE-TRUCK-STOP",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14117CE",
+  "en": "SE-TRUCK-UNLOAD",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "14117DE",
+  "en": "SE-TRUCK-DOOR",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14117EC",
+  "en": "SE-BERRY-BLENDER",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14117FD",
+  "en": "SE-CARD",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "1411805",
+  "en": "SE-SAVE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "141180D",
+  "en": "SE-BALL-BOUNCE-1",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "141181E",
+  "en": "SE-BALL-BOUNCE-2",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "141182F",
+  "en": "SE-BALL-BOUNCE-3",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411840",
+  "en": "SE-BALL-BOUNCE-4",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411851",
+  "en": "SE-BALL-TRADE",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "141185F",
+  "en": "SE-BALL-THROW",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "141186D",
+  "en": "SE-NOTE-C",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411877",
+  "en": "SE-NOTE-D",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411881",
+  "en": "SE-NOTE-E",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "141188B",
+  "en": "SE-NOTE-F",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411895",
+  "en": "SE-NOTE-G",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "141189F",
+  "en": "SE-NOTE-A",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "14118A9",
+  "en": "SE-NOTE-B",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "14118B3",
+  "en": "SE-NOTE-C-HIGH",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14118C2",
+  "en": "SE-PUDDLE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "14118CC",
+  "en": "SE-BRIDGE-WALK",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14118DB",
+  "en": "SE-ITEMFINDER",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14118E9",
+  "en": "SE-DING-DONG",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14118F6",
+  "en": "SE-BALLOON-RED",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411905",
+  "en": "SE-BALLOON-BLUE",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411915",
+  "en": "SE-BALLOON-YELLOW",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411927",
+  "en": "SE-BREAKABLE-DOOR",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411939",
+  "en": "SE-MUD-BALL",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411945",
+  "en": "SE-FIELD-POISON",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411955",
+  "en": "SE-ESCALATOR",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411962",
+  "en": "SE-THUNDERSTORM",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411972",
+  "en": "SE-THUNDERSTORM-STOP",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1411987",
+  "en": "SE-DOWNPOUR",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411993",
+  "en": "SE-DOWNPOUR-STOP",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14119A4",
+  "en": "SE-RAIN",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "14119AC",
+  "en": "SE-RAIN-STOP",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14119B9",
+  "en": "SE-THUNDER",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "14119C4",
+  "en": "SE-THUNDER2",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14119D0",
+  "en": "SE-ELEVATOR",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14119DC",
+  "en": "SE-LOW-HEALTH",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14119EA",
+  "en": "SE-EXP-MAX",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "14119F5",
+  "en": "SE-ROULETTE-BALL",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411A06",
+  "en": "SE-ROULETTE-BALL2",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411A18",
+  "en": "SE-TAILLOW-WING-FLAP",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1411A2D",
+  "en": "SE-SHOP",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "1411A35",
+  "en": "SE-CONTEST-HEART",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411A46",
+  "en": "SE-CONTEST-CURTAIN-RISE",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "1411A5E",
+  "en": "SE-CONTEST-CURTAIN-FALL",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "1411A76",
+  "en": "SE-CONTEST-ICON-CHANGE",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "1411A8D",
+  "en": "SE-CONTEST-ICON-CLEAR",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "1411AA3",
+  "en": "SE-CONTEST-MONS-TURN",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "1411AB8",
+  "en": "SE-SHINY",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "1411AC1",
+  "en": "SE-INTRO-BLAST",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411AD0",
+  "en": "SE-MUGSHOT",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1411ADB",
+  "en": "SE-APPLAUSE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411AE7",
+  "en": "SE-VEND",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "1411AEF",
+  "en": "SE-ORB",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "1411AF6",
+  "en": "SE-DEX-SCROLL",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411B04",
+  "en": "SE-DEX-PAGE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411B10",
+  "en": "SE-POKENAV-ON",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411B1E",
+  "en": "SE-POKENAV-OFF",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411B2D",
+  "en": "SE-DEX-SEARCH",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411B3B",
+  "en": "SE-EGG-HATCH",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411B48",
+  "en": "SE-BALL-TRAY-ENTER",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1411B5B",
+  "en": "SE-BALL-TRAY-BALL",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411B6D",
+  "en": "SE-BALL-TRAY-EXIT",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411B7F",
+  "en": "SE-GLASS-FLUTE",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411B8E",
+  "en": "SE-M-THUNDERBOLT",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411B9F",
+  "en": "SE-M-THUNDERBOLT2",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411BB1",
+  "en": "SE-M-HARDEN",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411BBD",
+  "en": "SE-M-NIGHTMARE",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411BCC",
+  "en": "SE-M-VITAL-THROW",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411BDD",
+  "en": "SE-M-VITAL-THROW2",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411BEF",
+  "en": "SE-M-BUBBLE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411BFB",
+  "en": "SE-M-BUBBLE2",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411C08",
+  "en": "SE-M-BUBBLE3",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411C15",
+  "en": "SE-M-RAIN-DANCE",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411C25",
+  "en": "SE-M-CUT",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "1411C2E",
+  "en": "SE-M-STRING-SHOT",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411C3F",
+  "en": "SE-M-STRING-SHOT2",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411C51",
+  "en": "SE-M-ROCK-THROW",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411C61",
+  "en": "SE-M-GUST",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411C6B",
+  "en": "SE-M-GUST2",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1411C76",
+  "en": "SE-M-DOUBLE-SLAP",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411C87",
+  "en": "SE-M-DOUBLE-TEAM",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411C98",
+  "en": "SE-M-RAZOR-WIND",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411CA8",
+  "en": "SE-M-ICY-WIND",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411CB6",
+  "en": "SE-M-THUNDER-WAVE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411CC8",
+  "en": "SE-M-COMET-PUNCH",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411CD9",
+  "en": "SE-M-MEGA-KICK",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411CE8",
+  "en": "SE-M-MEGA-KICK2",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411CF8",
+  "en": "SE-M-CRABHAMMER",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411D08",
+  "en": "SE-M-JUMP-KICK",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411D17",
+  "en": "SE-M-FLAME-WHEEL",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411D28",
+  "en": "SE-M-FLAME-WHEEL2",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411D3A",
+  "en": "SE-M-FLAMETHROWER",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411D4C",
+  "en": "SE-M-FIRE-PUNCH",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411D5C",
+  "en": "SE-M-TOXIC",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1411D67",
+  "en": "SE-M-SACRED-FIRE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411D78",
+  "en": "SE-M-SACRED-FIRE2",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411D8A",
+  "en": "SE-M-EMBER",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1411D95",
+  "en": "SE-M-TAKE-DOWN",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411DA4",
+  "en": "SE-M-BLIZZARD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411DB2",
+  "en": "SE-M-BLIZZARD2",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411DC1",
+  "en": "SE-M-SCRATCH",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411DCE",
+  "en": "SE-M-VICEGRIP",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411DDC",
+  "en": "SE-M-WING-ATTACK",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411DED",
+  "en": "SE-M-FLY",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "1411DF6",
+  "en": "SE-M-SAND-ATTACK",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411E07",
+  "en": "SE-M-RAZOR-WIND2",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411E18",
+  "en": "SE-M-BITE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411E22",
+  "en": "SE-M-HEADBUTT",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411E30",
+  "en": "SE-M-SURF",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411E3A",
+  "en": "SE-M-HYDRO-PUMP",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411E4A",
+  "en": "SE-M-WHIRLPOOL",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411E59",
+  "en": "SE-M-HORN-ATTACK",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411E6A",
+  "en": "SE-M-TAIL-WHIP",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411E79",
+  "en": "SE-M-MIST",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411E83",
+  "en": "SE-M-POISON-POWDER",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1411E96",
+  "en": "SE-M-BIND",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411EA0",
+  "en": "SE-M-DRAGON-RAGE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411EB1",
+  "en": "SE-M-SING",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411EBB",
+  "en": "SE-M-PERISH-SONG",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411ECC",
+  "en": "SE-M-PAY-DAY",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411ED9",
+  "en": "SE-M-DIG",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "1411EE2",
+  "en": "SE-M-DIZZY-PUNCH",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411EF3",
+  "en": "SE-M-SELF-DESTRUCT",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1411F06",
+  "en": "SE-M-EXPLOSION",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411F15",
+  "en": "SE-M-ABSORB-2",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411F23",
+  "en": "SE-M-ABSORB",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1411F2F",
+  "en": "SE-M-SCREECH",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411F3C",
+  "en": "SE-M-BUBBLE-BEAM",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1411F4D",
+  "en": "SE-M-BUBBLE-BEAM2",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411F5F",
+  "en": "SE-M-SUPERSONIC",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411F6F",
+  "en": "SE-M-BELLY-DRUM",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411F7F",
+  "en": "SE-M-METRONOME",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1411F8E",
+  "en": "SE-M-BONEMERANG",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1411F9E",
+  "en": "SE-M-LICK",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411FA8",
+  "en": "SE-M-PSYBEAM",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411FB5",
+  "en": "SE-M-FAINT-ATTACK",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411FC7",
+  "en": "SE-M-SWORDS-DANCE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1411FD9",
+  "en": "SE-M-LEER",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1411FE3",
+  "en": "SE-M-SWAGGER",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1411FF0",
+  "en": "SE-M-SWAGGER2",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1411FFE",
+  "en": "SE-M-HEAL-BELL",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "141200D",
+  "en": "SE-M-CONFUSE-RAY",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "141201E",
+  "en": "SE-M-SNORE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1412029",
+  "en": "SE-M-BRICK-BREAK",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "141203A",
+  "en": "SE-M-GIGA-DRAIN",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "141204A",
+  "en": "SE-M-PSYBEAM2",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1412058",
+  "en": "SE-M-SOLAR-BEAM",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1412068",
+  "en": "SE-M-PETAL-DANCE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1412079",
+  "en": "SE-M-TELEPORT",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1412087",
+  "en": "SE-M-MINIMIZE",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1412095",
+  "en": "SE-M-SKETCH",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14120A1",
+  "en": "SE-M-SWIFT",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "14120AC",
+  "en": "SE-M-REFLECT",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14120B9",
+  "en": "SE-M-BARRIER",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14120C6",
+  "en": "SE-M-DETECT",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14120D2",
+  "en": "SE-M-LOCK-ON",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14120DF",
+  "en": "SE-M-MOONLIGHT",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "14120EE",
+  "en": "SE-M-CHARM",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "14120F9",
+  "en": "SE-M-CHARGE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "1412105",
+  "en": "SE-M-STRENGTH",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1412113",
+  "en": "SE-M-HYPER-BEAM",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1412123",
+  "en": "SE-M-WATERFALL",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1412132",
+  "en": "SE-M-REVERSAL",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1412140",
+  "en": "SE-M-ACID-ARMOR",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1412150",
+  "en": "SE-M-SANDSTORM",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "141215F",
+  "en": "SE-M-TRI-ATTACK",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "141216F",
+  "en": "SE-M-TRI-ATTACK2",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1412180",
+  "en": "SE-M-ENCORE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "141218C",
+  "en": "SE-M-ENCORE2",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1412199",
+  "en": "SE-M-BATON-PASS",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "14121A9",
+  "en": "SE-M-MILK-DRINK",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "14121B9",
+  "en": "SE-M-ATTRACT",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14121C6",
+  "en": "SE-M-ATTRACT2",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "14121D4",
+  "en": "SE-M-MORNING-SUN",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14121E5",
+  "en": "SE-M-FLATTER",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "14121F2",
+  "en": "SE-M-SAND-TOMB",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1412201",
+  "en": "SE-M-GRASSWHISTLE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1412213",
+  "en": "SE-M-SPIT-UP",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1412220",
+  "en": "SE-M-DIVE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "141222A",
+  "en": "SE-M-EARTHQUAKE",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "141223A",
+  "en": "SE-M-TWISTER",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "1412247",
+  "en": "SE-M-SWEET-SCENT",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1412258",
+  "en": "SE-M-YAWN",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "1412262",
+  "en": "SE-M-SKY-UPPERCUT",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1412274",
+  "en": "SE-M-STAT-INCREASE",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1412287",
+  "en": "SE-M-HEAT-WAVE",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "1412296",
+  "en": "SE-M-UPROAR",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "14122A2",
+  "en": "SE-M-HAIL",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "14122AC",
+  "en": "SE-M-COSMIC-POWER",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "14122BE",
+  "en": "SE-M-TEETER-DANCE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "14122D0",
+  "en": "SE-M-STAT-DECREASE",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "14122E3",
+  "en": "SE-M-HAZE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "14122ED",
+  "en": "SE-M-HYPER-BEAM2",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14122FE",
+  "en": "SE-RG-DOOR",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "1412309",
+  "en": "SE-RG-CARD-FLIP",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "1412319",
+  "en": "SE-RG-CARD-FLIPPING",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "141232D",
+  "en": "SE-RG-CARD-OPEN",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "141233D",
+  "en": "SE-RG-BAG-CURSOR",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "141234E",
+  "en": "SE-RG-BAG-POCKET",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "141235F",
+  "en": "SE-RG-BALL-CLICK",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1412370",
+  "en": "SE-RG-SHOP",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "141237B",
+  "en": "SE-RG-SS-ANNE-HORN",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "141238E",
+  "en": "SE-RG-HELP-OPEN",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "141239E",
+  "en": "SE-RG-HELP-CLOSE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14123AF",
+  "en": "SE-RG-HELP-ERROR",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "14123C0",
+  "en": "SE-RG-DEOXYS-MOVE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "14123D2",
+  "en": "SE-RG-POKE-JUMP-SUCCESS",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "14123EA",
+  "en": "SE-RG-POKE-JUMP-FAILURE",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "1412402",
+  "en": "SE-PHONE-CALL",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "1412410",
+  "en": "SE-PHONE-CLICK",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "141241F",
+  "en": "SE-ARENA-TIMEUP1",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1412430",
+  "en": "SE-ARENA-TIMEUP2",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "1412441",
+  "en": "SE-PIKE-CURTAIN-CLOSE",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "1412457",
+  "en": "SE-PIKE-CURTAIN-OPEN",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "141246C",
+  "en": "SE-SUDOWOODO-SHAKE",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "1413D40",
+  "en": "BATTLE SPEED",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "1413D61",
+  "en": "NEXT PAGE",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "1413D6B",
+  "en": "PREVIOUS PAGE",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "1413DBD",
+  "en": "Save your settings.",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "1413DD1",
+  "en": "Choose one of the four text-display\\nspeeds.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 200
+ },
+ {
+  "offset": "1413DFD",
+  "en": "Show the CAPTURE battle animations.",
+  "pt": ""
+ },
+ {
+  "offset": "1413E21",
+  "en": "Skip the CAPTURE battle animations.",
+  "pt": ""
+ },
+ {
+  "offset": "1413E45",
+  "en": "Get the option to switch your\\nCAPTURE after the enemies faints.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 188
+ },
+ {
+  "offset": "1413E85",
+  "en": "No free switch after fainting the\\nenemies CAPTURE.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 185
+ },
+ {
+  "offset": "1413EB8",
+  "en": "Sound is the same in all speakers.\\nRecommended for original hardware.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 192
+ },
+ {
+  "offset": "1413EFE",
+  "en": "Play the left and right audio channel\\nseperatly. Great with headphones.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 203
+ },
+ {
+  "offset": "1413F46",
+  "en": "All buttons work as normal.",
+  "pt": "",
+  "max_width": 163
+ },
+ {
+  "offset": "1413F62",
+  "en": "On some screens the L and R buttons\\nact as left and right.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 198
+ },
+ {
+  "offset": "1413F9D",
+  "en": "The L button acts as another A\\nbutton for one-handed play.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 171
+ },
+ {
+  "offset": "141405B",
+  "en": "Choose the frame surrounding the\\nwindows.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 185
+ },
+ {
+  "offset": "1414085",
+  "en": "Choose whether holding {F8 00}/{F8 01} & {F8 07} DOWN\\nwill fast-forward through text boxes.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "14140D2",
+  "en": "Automatically save the game after\\nimportant events.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 189
+ },
+ {
+  "offset": "1414106",
+  "en": "Never automatically save the game\\nunless required.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 189
+ },
+ {
+  "offset": "1414139",
+  "en": "View the next page of options.",
+  "pt": ""
+ },
+ {
+  "offset": "14141D0",
+  "en": "Choose the speed of battles. Hold {F8 02}\\nto reduce speed to normal mid-battle.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 206
+ },
+ {
+  "offset": "14142FD",
+  "en": "Choose the font design.",
+  "pt": "",
+  "max_width": 148
+ },
+ {
+  "offset": "1414392",
+  "en": "Choose if the TATTLEDEX will show\\nwhat CAPTURES evolve into.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 185
+ },
+ {
+  "offset": "14143CF",
+  "en": "Choose not to be prompted to teach\\nCAPTURES new moves on level up.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 195
+ },
+ {
+  "offset": "1414412",
+  "en": "View the previous page of options.",
+  "pt": ""
+ },
+ {
+  "offset": "1414468",
+  "en": "Only active if xyz.",
+  "pt": "",
+  "max_width": 120
+ },
+ {
+  "offset": "14144A4",
+  "en": "Only active if xyz.",
+  "pt": "",
+  "max_width": 120
+ },
+ {
+  "offset": "14144D0",
+  "en": "GENERAL",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "14144D8",
+  "en": "{F8 03}NEXT PAGE",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "14144E4",
+  "en": "CUSTOM",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "14144EB",
+  "en": "{F8 02}PREVIOUS PAGE",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "1414550",
+  "en": "SPEED",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "141456E",
+  "en": "MAX",
+  "pt": "",
+  "max_width": 24
+ }
+]

@@ -1,0 +1,1377 @@
+[
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "02834B3",
+  "en": "Excuse me!\\pYou didn't save before you quit your\\nchallenge last time.\\pBecause of that, your challenge so far\\nhas been disqualified. Sorry!",
+  "pt": "Com licença!\\pVocê não salvou antes de abandonar o seu desafio da última vez.\\pPor causa disso, o seu desafio até aqui foi desclassificado. Desculpe!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "028353D",
+  "en": "Congratulations!\\nYou've beaten all seven TRAINERS!\\p",
+  "pt": "Parabéns! Você venceu todos os sete TREINADORES!\\p"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0283627",
+  "en": "Thank you for playing!\\p",
+  "pt": "Obrigado por jogar!\\p"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0283667",
+  "en": "We've been waiting for you!\\p",
+  "pt": "Estávamos esperando por você!\\p"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0283684",
+  "en": "Before entering the arena, your\\nprogress will be saved. Please wait.",
+  "pt": "Antes de entrar na arena, o seu progresso será salvo. Aguarde, por favor."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "02836C9",
+  "en": "You're finally about to face the\\n50th TRAINER.\\pFrom here on, every time you beat seven\\nTRAINERS in a row, your CAPTURES will\\lreceive a commemorative RIBBON.\\pGood luck!",
+  "pt": "Você finalmente vai enfrentar o TREINADOR número 50.\\pDaqui em diante, toda vez que você vencer sete TREINADORES seguidos, as suas CAPTURAS vão ganhar uma FITA comemorativa.\\pBoa sorte!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0283771",
+  "en": "Here are some RIBBONS for beating\\nseven tough TRAINERS in a row.\\p{PLAYER} received some RIBBONS!",
+  "pt": "Aqui estão algumas FITAS por vencer sete TREINADORES durões seguidos.\\p{PLAYER} recebeu algumas FITAS!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "02837CC",
+  "en": "{PLAYER} put the RIBBONS on\\nthe challenger CAPTURES.",
+  "pt": "{PLAYER} colocou as FITAS nas CAPTURAS desafiantes."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0283C35",
+  "en": "We look forward to seeing you on\\nanother challenge!",
+  "pt": "Esperamos ver você em outro desafio!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "02846D2",
+  "en": "Now please select the three CAPTURES\\nthat are to be entered.",
+  "pt": "Agora, escolha as três CAPTURAS que vão participar."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "028497E",
+  "en": "Now please select the four CAPTURES\\nthat are to be entered.",
+  "pt": "Agora, escolha as quatro CAPTURAS que vão participar."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0384EA4",
+  "en": "Congrats on defeating RAWK HAWK!\\nHere's the CHAMPION's boon!",
+  "pt": "Parabéns por derrotar o RAWK HAWK! Aqui está a recompensa do CAMPEÃO!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0384EE1",
+  "en": "Obtained the Expert Belt with a Comet\\nShard affixed to it and 50000 coins!",
+  "pt": "Você obteve o Cinto Perito com uma Lasca Cometa presa nele e 50000 moedas!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0384F2C",
+  "en": "Here's your fight money, GONZALES.",
+  "pt": "Aqui está o seu prêmio da luta, GONZALES."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0384F4F",
+  "en": "And here, a fan told me to give you this\\nafter the fight.",
+  "pt": "E aqui, um fã me pediu pra te entregar isto depois da luta."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0384F89",
+  "en": "Sorry, GONZALES. Can't let you through.\\nThe locker rooms are undergoing\\lrenovations, so we're only letting\\lfighters in who have already registered\\lfor a match.",
+  "pt": "Desculpe, GONZALES. Não posso deixar você passar. Os vestiários estão em reforma, então só estamos deixando entrar lutadores que já se inscreveram para uma luta."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385029",
+  "en": "Hey! No cutting in line, pal! I gotta get\\nin there and see RAWK HAWK tear it up!",
+  "pt": "Ei! Nada de furar a fila, amigão! Eu tenho que entrar lá e ver o RAWK HAWK botar pra quebrar!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "038507A",
+  "en": "Is that… The GREAT GONZALES?!? Are you\\nfinally back to make reclaim your title?\\pHey, how about I get a photo for the\\nGLITZVILLE news!",
+  "pt": "Será que é… O GREAT GONZALES?!? Você finalmente voltou pra recuperar o seu título?\\pEi, que tal eu tirar uma foto pro jornal de GLITZVILLE!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385100",
+  "en": "Man, I don't care what anyone says!\\nTo me, RAWK HAWK is still the number one\\lfighter in the GLITZ PIT!",
+  "pt": "Cara, não ligo pro que os outros dizem! Pra mim, o RAWK HAWK continua sendo o lutador número um do GLITZ PIT!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385167",
+  "en": "Weck-come to da GWITZ PIT!\\nOw! I bit my thtupid tongue…\\lNo one muth know!",
+  "pt": "Thejam bem-vindoth ao GWITZ PIT! Ai! Mordi a minha língua etthúpida… Ninguém pode thaber!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "03851B1",
+  "en": "Welcome to the GLITZ PIT!\\nOh, no way! You're the GREAT GONZALES!\\lAre you finally making your comeback?",
+  "pt": "Bem-vindo ao GLITZ PIT! Não acredito! Você é o GREAT GONZALES! Finalmente vai voltar aos ringues?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385218",
+  "en": "'Welcome to the GLITZ PIT!' There's a\\nguy over there who gets paid to say\\lthat, right?\\lI'll have you know, I finally asked him\\lout! And he said yes! Oh, I'm so happy!",
+  "pt": "'Bem-vindo ao GLITZ PIT!' Tem um cara ali que é pago só pra dizer isso, né? Pois saiba que eu finalmente chamei ele pra sair! E ele disse sim! Ai, que felicidade!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "03852BF",
+  "en": "What are you lookin' at, chum?\\nYa need something from me, or are ya\\ljust oogling for no reason?",
+  "pt": "Tá olhando o quê, chapa? Precisa de alguma coisa, ou só tá me encarando à toa?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "038531F",
+  "en": "No way, the GREAT GONZALES! I used to\\nlove your fights when I was younger!\\lAre you staging a comeback?",
+  "pt": "Não acredito, o GREAT GONZALES! Eu adorava as suas lutas quando era criança! Vai fazer um retorno?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385386",
+  "en": "Gee… capitalism waits for nobody, huh?\\nThese shopkeepers have no shame,\\lsetting up here!",
+  "pt": "Puxa… o capitalismo não espera ninguém, né? Esses lojistas não têm vergonha nenhuma de montar barraca aqui!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "03853DF",
+  "en": "Hmmm… The pop-up shops here have a lot\\nof good items, but not everything…\\lLike, wasn't I able to buy items like\\lMYSTIC WATER and the like somewhere on\\lmy journey?",
+  "pt": "Hmmm… As lojinhas temporárias daqui têm muitos itens bons, mas não tudo… Tipo, eu não conseguia comprar itens como ÁGUA MÍSTICA e afins em algum lugar da minha jornada?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385482",
+  "en": "Ohohoho! I've got the perfect\\nmoney-making scheme! All I've gotta do\\lis bet on fighters like RAWK HAWK with\\lall of the money I made in SPACE!",
+  "pt": "Ohohoho! Tenho o esquema perfeito pra ganhar dinheiro! É só apostar em lutadores como o RAWK HAWK com todo o dinheiro que eu ganhei no ESPAÇO!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385510",
+  "en": "GONZALES! I got some great held items\\nfor ya!",
+  "pt": "GONZALES! Tenho uns itens segurados ótimos pra você!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "038553E",
+  "en": "Yoshi! (Welcome to the tasty snack\\nshop!)",
+  "pt": "Yoshi! (Bem-vindo à loja de lanchinhos gostosos!)"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385568",
+  "en": "Yoshi! (Please come again!)",
+  "pt": "Yoshi! (Volte sempre!)"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385584",
+  "en": "Hey hey hey! I've got some great goods\\nfrom TOSTARENA! Harvested from fresh\\lcacti and the like!",
+  "pt": "Ei, ei, ei! Tenho umas mercadorias ótimas de TOSTARENA! Colhidas de cactos fresquinhos e afins!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "03855E4",
+  "en": "Welcome to the GLITZ PIT! First time,\\neh-? MARIO! I mean, the GREAT\\lGONZALES! You've returned! You simply\\lMUST compete in the GLITZ PIT again, I\\linsist!\\pHere, take this Vs. Recorder!",
+  "pt": "Bem-vindo ao GLITZ PIT! Primeira vez, é-? MARIO! Quer dizer, o GREAT GONZALES! Você voltou! Você simplesmente PRECISA competir no GLITZ PIT de novo, eu insisto!\\pTome, leve este Gravador Vs.!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "038569B",
+  "en": "This item allows you to record matches\\nyou fight in the GLITZ PIT so you can\\lview them back later. Though, it can\\lonly hold one recorded match at a time.\\pTalk to me again if you wanna compete,\\nGONZALES!",
+  "pt": "Este item permite gravar as lutas que você disputar no GLITZ PIT para assistir depois. Mas ele só guarda uma luta gravada por vez.\\pFale comigo de novo se quiser competir, GONZALES!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385766",
+  "en": "Welcome back to the GLITZ PIT, MARIO-I\\nmean the GREAT GONZALES.",
+  "pt": "Bem-vindo de volta ao GLITZ PIT, MARIO-quer dizer, GREAT GONZALES."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "03857A6",
+  "en": "Would you like to register for the\\nBattle Challenge?",
+  "pt": "Gostaria de se inscrever no Desafio de Batalha?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "03857DB",
+  "en": "Single",
+  "pt": "Individual"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "03857E2",
+  "en": "Double",
+  "pt": "Dupla"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "03857E9",
+  "en": "The GLITZ PIT's Battle Challenge\\nis a facility for conducting CAPTURE\\lBATTLES with three CAPTURES.\\lCAPTURES above level 50 will have their\\llevel lowered to 50.\\lThere are many different challengers\\lin the GLITZ PIT, each wanting to climb\\ltheir way through the ranks and attain\\la high win streak.\\lSeven fighters await your challenge per\\lround, and if you manage to defeat all\\lseven of them, you will earn rewards.\\lIf you want to interrupt your\\lchallenge, please save the game.\\lIf you don't save before interrupting,\\lyou will be disqualified.",
+  "pt": "O Desafio de Batalha do GLITZ PIT é uma instalação para disputar BATALHAS DE CAPTURAS com três CAPTURAS. CAPTURAS acima do nível 50 terão o nível reduzido para 50. Há muitos desafiantes diferentes no GLITZ PIT, e todos querem subir no ranking e conseguir uma longa sequência de vitórias. Sete lutadores aguardam o seu desafio a cada rodada e, se você conseguir derrotar todos os sete, vai ganhar recompensas. Se quiser interromper o seu desafio, salve o jogo. Se não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385A05",
+  "en": "Would you like to take the\\n{STR_VAR_1} Battle challenge?",
+  "pt": "Gostaria de encarar o desafio de Batalha {STR_VAR_1}?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385A35",
+  "en": "Before entering the arena, your\\nprogress must be saved. is that okay?",
+  "pt": "Antes de entrar na arena, o seu progresso precisa ser salvo. Tudo bem?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385A7B",
+  "en": "I will now show you to the ring,\\nGONZALES.",
+  "pt": "Agora vou levar você até o ringue, GONZALES."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385AA6",
+  "en": "In we go, GONZALES. Good luck.",
+  "pt": "Vamos entrar, GONZALES. Boa sorte."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385AC5",
+  "en": "The results for the GLITZ PIT and\\ninformation are listed here.",
+  "pt": "Os resultados e as informações do GLITZ PIT estão listados aqui."
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385B04",
+  "en": "Obtained 3 Ability Capsules and\\nPatches!",
+  "pt": "Você obteve 3 Cápsulas de Habilidade e Adesivos de Habilidade!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385B2D",
+  "en": "Obtained 5 1-Up DX and Max Beans!",
+  "pt": "Você obteve 5 1-Up DX e Feijões Máximos!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385B4F",
+  "en": "Obtained a set of 5 of each Bean!",
+  "pt": "Você obteve um conjunto com 5 de cada Feijão!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385B71",
+  "en": "Obtained 99 Yoshi Cookies!\\p…That fan must really like them, huh?",
+  "pt": "Você obteve 99 Biscoitos Yoshi!\\p…Esse fã deve gostar muito deles, né?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385BB2",
+  "en": "Obtained 5,000 PURPLE COINS!\\p…Is this really a reward?",
+  "pt": "Você obteve 5.000 MOEDAS ROXAS!\\p…Isso é mesmo uma recompensa?"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385BE9",
+  "en": "Obtained a Sturdy Shell and Goomba\\nBoots!",
+  "pt": "Você obteve um Casco Robusto e Botas Goomba!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385C13",
+  "en": "Obtained a set of Attack Mints!",
+  "pt": "Você obteve um conjunto de Mentas de Ataque!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385C33",
+  "en": "Obtained a set of Defense Mints!",
+  "pt": "Você obteve um conjunto de Mentas de Defesa!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385C54",
+  "en": "Obtained a set of Special Attack Mints!",
+  "pt": "Você obteve um conjunto de Mentas de Ataque Especial!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385C7C",
+  "en": "Obtained a set of Special Defense\\nMints!",
+  "pt": "Você obteve um conjunto de Mentas de Defesa Especial!"
+ },
+ {
+  "map": "16.0 GLITZ PIT",
+  "offset": "0385CA5",
+  "en": "Obtained a set of Speed Mints!",
+  "pt": "Você obteve um conjunto de Mentas de Velocidade!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "02862E2",
+  "en": "Record your battle on your\\nVs. Recorder?",
+  "pt": "Gravar a sua batalha no Gravador Vs.?"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "028633C",
+  "en": "Would you like to save and\\nquit the game?",
+  "pt": "Gostaria de salvar e sair do jogo?"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0286366",
+  "en": "Saving your battle data.\\nPlease wait.",
+  "pt": "Salvando os dados da batalha. Aguarde, por favor."
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "028638C",
+  "en": "Would you like to cancel your GLITZ\\nPIT challenge?",
+  "pt": "Gostaria de cancelar o seu desafio do GLITZ PIT?"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "02EB1BD",
+  "en": "MARIO defeated RAWK HAWK and the first\\nchallenge of the GLITZ PIT!",
+  "pt": "MARIO derrotou o RAWK HAWK e venceu o primeiro desafio do GLITZ PIT!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "02EB200",
+  "en": "MARIO defeated RAWK HAWK and became\\nthe undisputed champ of the GLITZ PIT!",
+  "pt": "MARIO derrotou o RAWK HAWK e se tornou o campeão indiscutível do GLITZ PIT!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "03866D7",
+  "en": "And the winner is… THE GREAT\\nGONZALES!!!",
+  "pt": "E o vencedor é… O GREAT GONZALES!!!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386700",
+  "en": "Oh? What's going on? The mood\\nin the arena seems to have shifted!\\lCould it be?! It could! It seems like\\lthe GREAT GONZALES's next opponent is…\\lRAAAAAAWWWWK HAAAAAWWWWK!\\lI hope he's ready for this!",
+  "pt": "Ué? O que está acontecendo? O clima na arena parece ter mudado! Será?! É sim! Parece que o próximo adversário do GREAT GONZALES é… RAAAAAAWWWWK HAAAAAWWWWK! Espero que ele esteja pronto pra isso!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "03867C5",
+  "en": "Lets get the GREAT GONZALES and his\\nteam healed up before his next round,\\lshall we?",
+  "pt": "Vamos curar o GREAT GONZALES e a equipe dele antes da próxima rodada, que tal?"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386819",
+  "en": "Are you ready to face the CHAMPION,\\nRAWK HAWK?",
+  "pt": "Está pronto para enfrentar o CAMPEÃO, RAWK HAWK?"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386848",
+  "en": "The GREAT GONZALES is ready for his\\nnext opponent! Let's get them in here!",
+  "pt": "O GREAT GONZALES está pronto para o próximo adversário! Tragam ele pra cá!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386893",
+  "en": "Finally making his entrance, we\\nhave the Golden Grandstander…\\lRAWK HAWK!",
+  "pt": "Fazendo finalmente a sua entrada, temos o Fanfarrão Dourado… RAWK HAWK!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "03868DC",
+  "en": "RAWK HAWK",
+  "pt": "RAWK HAWK",
+  "max_width": 57
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "03868E6",
+  "en": "Harharharharharharharharharharharhar!\\nGONZALES! You should've stayed away\\lfrom the arena, safe and sound!\\lYou're gonna learn what it means to\\lmess with me again, baby! You meet\\lthe pain train!",
+  "pt": "Harharharharharharharharharharharhar! GONZALES! Você devia ter ficado longe da arena, são e salvo! Vai aprender o que acontece quando mexe comigo de novo, baby! Lá vem o trem da dor!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "03869A7",
+  "en": "Prepare to be RAAAAAAAAAAAAAAAAWKED!",
+  "pt": "Prepare-se para ser RAAAAAAAAAAAAAAAAWKADO!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "03869CC",
+  "en": "No way! The GREAT GONZALES has still\\ngot it folks! Let's all congratulate\\lthem on their first win back in the ring\\lagainst the Champion!",
+  "pt": "Não acredito! O GREAT GONZALES ainda leva jeito, pessoal! Vamos todos parabenizar ele pela primeira vitória desde a volta ao ringue, contra o Campeão!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386A55",
+  "en": "NOOOOOOOOOOO!\\nI… RAWK HAWK… The champ…\\lI've lost to this… loser AGAIN?!",
+  "pt": "NÃOOOOOOOOOOOO! Eu… RAWK HAWK… O campeão… Perdi pra esse… perdedor DE NOVO?!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386A9D",
+  "en": "Our previous fights are ancient\\nhistory, GONZALES!\\lThere's only one true champ, and that's\\lme, RAWK HAWK!",
+  "pt": "As nossas lutas anteriores são história antiga, GONZALES! Só existe um campeão de verdade, e sou eu, RAWK HAWK!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386B07",
+  "en": "Harharharharharharhar! Time for you to\\nmeet the new, improved RAWK HAWK!\\lFeel the horror of a world-class\\lRAAAAAAWWWKING!",
+  "pt": "Harharharharharharhar! Hora de você conhecer o novo e melhorado RAWK HAWK! Sinta o horror de uma RAAAAAAWWWKADA de nível mundial!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386B81",
+  "en": "The GREAT GONZALES does it again! They\\nare now the undisputed champion of the\\lGLITZ PIT!!!",
+  "pt": "O GREAT GONZALES conseguiu de novo! Agora é o campeão indiscutível do GLITZ PIT!!!"
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386BDC",
+  "en": "No! I don't believe this! I… Am I\\nactually gonna get Rawked AGAIN?",
+  "pt": "Não! Não acredito nisso! Eu… Será que eu vou mesmo ser Rawkado DE NOVO?"
+ },
+ {
+  "map": "17.0 TOAD TOWN",
+  "offset": "023B8A5",
+  "en": "{PLAYER}.\\pGo set the clock in your room, honey.",
+  "pt": "{PLAYER}.\\pVá acertar o relógio do seu quarto, querido."
+ },
+ {
+  "map": "17.0 TOAD TOWN",
+  "offset": "023CE02",
+  "en": "Hey!\\nYou…\\pWho are you?\\pOh, you're {PLAYER}, aren't you?\\nMoved in next door, right?\\pI didn't know that you're a girl.\\pDad, PROF. BIRCH, said that our new\\nnext-door neighbor is a GYM LEADER's\\lkid, so I assumed you'd be a guy.\\pMy name's BRENDAN.\\nSo, hi, neighbor!\\pHuh? Hey, {PLAYER}, don't you have\\na POKéMON?\\pDo you want me to go catch you one?\\pAw, darn, I forgot…\\pI'm supposed to go help my dad catch\\nsome wild POKéMON.\\pSome other time, okay?",
+  "pt": "Ei!\\nVocê…\\pQuem é você?\\pAh, você é {PLAYER}, não é? Acabou de se mudar aqui pro lado, né?\\pEu não sabia que você era uma garota.\\pO meu pai, o PROF. BIRCH, disse que o nosso novo vizinho era filho de um LÍDER DE GINÁSIO, então achei que seria um garoto.\\pMeu nome é BRENDAN.\\nEntão, oi, vizinha!\\pHã? Ei, {PLAYER}, você não tem uma CAPTURA?\\pQuer que eu vá pegar uma pra você?\\pAh, droga, esqueci…\\pEu tenho que ir ajudar o meu pai a pegar umas CAPTURAS selvagens.\\pFica pra outra vez, tá?"
+ },
+ {
+  "map": "17.1 TOAD TOWN",
+  "offset": "023C4C6",
+  "en": "{PLAYER} flipped open the notebook.\\pADVENTURE RULE NO. 1\\nOpen the MENU with START.\\pADVENTURE RULE NO. 2\\nRecord your progress with SAVE.\\pThe remaining pages are blank…",
+  "pt": "{PLAYER} abriu o caderno.\\pREGRA DE AVENTURA 1\\nAbra o MENU com START.\\pREGRA DE AVENTURA 2\\nRegistre o seu progresso com SALVAR.\\pAs outras páginas estão em branco…"
+ },
+ {
+  "map": "17.1 TOAD TOWN",
+  "offset": "023C59D",
+  "en": "It's a Nintendo GameCube.\\pA Game Boy Advance is connected to\\nserve as the Controller.",
+  "pt": "É um Nintendo GameCube.\\pUm Game Boy Advance está conectado para servir de controle."
+ },
+ {
+  "map": "17.1 TOAD TOWN",
+  "offset": "023D502",
+  "en": "Hey!\\nYou…\\pWho are you?\\pOh, you're {PLAYER}, aren't you?\\nMoved in next door, right?\\pI didn't know that you're a girl.\\pDad, PROF. BIRCH, said that our new\\nnext-door neighbor is a GYM LEADER's\\lkid, so I assumed you'd be a guy.\\pMy name's BRENDAN.\\nSo, hi, neighbor!\\pHuh? Hey, {PLAYER}, don't you have\\na POKéMON?\\pDo you want me to go catch you one?\\pAw, darn, I forgot…\\pI'm supposed to go help my dad catch\\nsome wild POKéMON.\\pSome other time, okay?",
+  "pt": "Ei!\\nVocê…\\pQuem é você?\\pAh, você é {PLAYER}, não é? Acabou de se mudar aqui pro lado, né?\\pEu não sabia que você era uma garota.\\pO meu pai, o PROF. BIRCH, disse que o nosso novo vizinho era filho de um LÍDER DE GINÁSIO, então achei que seria um garoto.\\pMeu nome é BRENDAN.\\nEntão, oi, vizinha!\\pHã? Ei, {PLAYER}, você não tem uma CAPTURA?\\pQuer que eu vá pegar uma pra você?\\pAh, droga, esqueci…\\pEu tenho que ir ajudar o meu pai a pegar umas CAPTURAS selvagens.\\pFica pra outra vez, tá?"
+ },
+ {
+  "map": "17.1 TOAD TOWN",
+  "offset": "023D6DF",
+  "en": "It's {RIVAL}'s POKé BALL!\\pBetter leave it right where it is.",
+  "pt": "É o CAP de {RIVAL}!\\pMelhor deixar onde está."
+ },
+ {
+  "map": "17.1 TOAD TOWN",
+  "offset": "02EC8A6",
+  "en": "There's an e-mail from POKéMON TRAINER\\nSCHOOL.\\p… … … … … …\\pA POKéMON may learn up to four moves.\\pA TRAINER's expertise is tested on the\\nmove sets chosen for POKéMON.\\p… … … … … …",
+  "pt": "Tem um e-mail da ESCOLA DE TREINADORES.\\p… … … … … …\\pUma CAPTURA pode aprender até quatro golpes.\\pA competência de um TREINADOR é testada pelos conjuntos de golpes escolhidos para as CAPTURAS.\\p… … … … … …"
+ },
+ {
+  "map": "17.2 TOAD TOWN",
+  "offset": "023C9F3",
+  "en": "Like child, like father.\\pMy husband is as wild about POKéMON\\nas our child.\\pIf he's not at his LAB, he's likely\\nscrabbling about in grassy places.",
+  "pt": "Tal cria, tal pai.\\pO meu marido é tão louco por CAPTURAS quanto a nossa cria.\\pQuando não está no LABORATÓRIO, ele deve estar fuçando no meio do mato por aí."
+ },
+ {
+  "map": "17.2 TOAD TOWN",
+  "offset": "023CA85",
+  "en": "That {RIVAL}!\\pI guess our child is too busy with\\nPOKéMON to notice that you came\\lto visit, {PLAYER}{KUN}.",
+  "pt": "Francamente, {RIVAL}!\\pAcho que a nossa cria está ocupada demais com CAPTURAS pra perceber que você veio visitar, {PLAYER}{KUN}."
+ },
+ {
+  "map": "17.2 TOAD TOWN",
+  "offset": "023CAE1",
+  "en": "Oh, {RIVAL} went out to ROUTE 103\\njust a little while ago.\\pLike father, like child.\\n{RIVAL} can't stay quietly at home.",
+  "pt": "Ah, {RIVAL} saiu pra ROTA 103 agorinha mesmo.\\pTal pai, tal cria. {RIVAL} não para em casa."
+ },
+ {
+  "map": "17.2 TOAD TOWN",
+  "offset": "023CB4F",
+  "en": "I think it's wonderful for people to\\ntravel with POKéMON.\\pBut you should go home every so often\\nto let your mother know you're okay.\\pShe might not say it, but I'm sure she\\nworries about you, {PLAYER}{KUN}.",
+  "pt": "Acho maravilhoso as pessoas viajarem com CAPTURAS.\\pMas você deveria voltar pra casa de vez em quando pra sua mãe saber que você está bem.\\pEla pode não dizer, mas tenho certeza de que ela se preocupa com você, {PLAYER}{KUN}."
+ },
+ {
+  "map": "17.2 TOAD TOWN",
+  "offset": "023CC14",
+  "en": "Huh?\\nWho… Who are you?\\p… … … … … … … …\\n… … … … … … … …\\pOh, you're {PLAYER}{KUN}.\\nSo your move was today.\\pUm… I'm MAY.\\nGlad to meet you!\\pI…\\nI have this dream of becoming friends\\lwith POKéMON all over the world.\\pI… I heard about you, {PLAYER}{KUN}, from\\nmy dad, PROF. BIRCH.\\pI was hoping that you would be nice,\\n{PLAYER}{KUN}, and that we could be friends.\\pOh, this is silly, isn't it?\\nI… I've just met you, {PLAYER}{KUN}.\\pEheheh…\\pOh, no! I forgot!\\pI was supposed to go help Dad catch\\nsome wild POKéMON!\\p{PLAYER}{KUN}, I'll catch you later!",
+  "pt": "Hã?\\nQuem… Quem é você?\\p… … … … … … … …\\n… … … … … … … …\\pAh, você é {PLAYER}{KUN}. Então a sua mudança foi hoje.\\pHum… Eu sou a MAY. Prazer em te conhecer!\\pEu… Eu tenho o sonho de fazer amizade com CAPTURAS do mundo todo.\\pEu… Eu ouvi falar de você, {PLAYER}{KUN}, pelo meu pai, o PROF. BIRCH.\\pEu esperava que você fosse legal, {PLAYER}{KUN}, e que a gente pudesse ser amigos.\\pAi, que bobagem, né? Eu… Eu acabei de te conhecer, {PLAYER}{KUN}.\\pEhehe…\\pAi, não! Esqueci!\\pEu tinha que ir ajudar o papai a pegar umas CAPTURAS selvagens!\\p{PLAYER}{KUN}, a gente se vê!"
+ },
+ {
+  "map": "17.2 TOAD TOWN",
+  "offset": "023CFB0",
+  "en": "Hi, neighbor!\\pDo you already have your\\nown POKéMON?",
+  "pt": "Oi, vizinho!\\pVocê já tem a sua própria CAPTURA?"
+ },
+ {
+  "map": "17.3 TOAD TOWN",
+  "offset": "023D4D8",
+  "en": "POKéMON fully restored!\\nItems ready, and…",
+  "pt": "CAPTURAS totalmente recuperadas!\\nItens prontos, e…"
+ },
+ {
+  "map": "17.3 TOAD TOWN",
+  "offset": "023D6B0",
+  "en": "POKéMON fully restored…\\nItems all packed, and…",
+  "pt": "CAPTURAS totalmente recuperadas…\\nItens todos guardados, e…"
+ },
+ {
+  "map": "17.3 TOAD TOWN",
+  "offset": "023D717",
+  "en": "MAY: {PLAYER}{KUN}!\\pI was just checking my POKéDEX.\\pThere's still a lot of POKéMON that\\nI've seen but haven't caught.\\pAnd there are many others that\\nI think will evolve.\\pI wonder where I should go catch\\nsome POKéMON next?",
+  "pt": "MAY: {PLAYER}{KUN}!\\pEu estava olhando a minha TATTLEDEX.\\pAinda tem muitas CAPTURAS que eu já vi, mas não peguei.\\pE tem muitas outras que eu acho que vão evoluir.\\pOnde será que eu vou pegar CAPTURAS agora?"
+ },
+ {
+  "map": "17.3 TOAD TOWN",
+  "offset": "023D7EC",
+  "en": "MAY: I wonder where I should go catch\\nsome POKéMON next?\\pWouldn't it be funny if we ran into each\\nother, {PLAYER}{KUN}?",
+  "pt": "MAY: Onde será que eu vou pegar CAPTURAS agora?\\pNão seria engraçado se a gente se esbarrasse por aí, {PLAYER}{KUN}?"
+ },
+ {
+  "map": "17.3 TOAD TOWN",
+  "offset": "023D85B",
+  "en": "BRENDAN: Hey, it's {PLAYER}.\\pI was just checking out my POKéDEX.\\pThere are still many POKéMON that\\nI need to catch, I know, but this\\lis looking pretty good.\\pChecking this POKéDEX out gives me\\nthe urge to hit the road again.",
+  "pt": "BRENDAN: Ei, é {PLAYER}.\\pEu estava dando uma olhada na minha TATTLEDEX.\\pAinda tem muitas CAPTURAS que eu preciso pegar, eu sei, mas ela está ficando bem boa.\\pOlhar essa TATTLEDEX me dá vontade de cair na estrada de novo."
+ },
+ {
+  "map": "17.3 TOAD TOWN",
+  "offset": "023D935",
+  "en": "BRENDAN: I'm having a hard time deciding\\nwhere I should catch POKéMON next.\\pHey, {PLAYER}, if I see you while I'm out\\ncatching POKéMON, I can pitch you a\\lbattle if you'd like.",
+  "pt": "BRENDAN: Está difícil decidir onde pegar CAPTURAS agora.\\pEi, {PLAYER}, se eu te encontrar enquanto estiver por aí pegando CAPTURAS, posso te desafiar pra uma batalha, se você quiser."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E466",
+  "en": "The PROF isn't one for doing desk work.\\nHe's the type of person who would\\lrather go outside and experience\\lthings than read about them here.",
+  "pt": "O PROF não é muito de trabalho de escritório. Ele é do tipo que prefere sair e viver as coisas a ficar aqui lendo sobre elas."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E4F3",
+  "en": "PROF. BIRCH is studying the habitats\\nand distribution of POKéMON.\\pThe PROF enjoys {RIVAL}'s help, too.\\nThere's a lot of love there.",
+  "pt": "O PROF. BIRCH estuda os habitats e a distribuição das CAPTURAS.\\pO PROF também adora a ajuda de {RIVAL}. Tem muito amor ali."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E572",
+  "en": "PROF. BIRCH: So, {PLAYER}{KUN}.\\pI've heard so much about you from\\nyour father.\\pI've heard that you don't have your\\nown POKéMON yet.\\pBut the way you battled earlier,\\nyou pulled it off with aplomb!\\pI guess you have your father's blood\\nin your veins after all!\\pOh, yes. As thanks for rescuing me,\\nI'd like you to have the POKéMON you\\lused earlier.\\p{PLAYER} received the {STR_VAR_1}!",
+  "pt": "PROF. BIRCH: Então, {PLAYER}{KUN}.\\pO seu pai me falou muito de você.\\pOuvi dizer que você ainda não tem a sua própria CAPTURA.\\pMas, do jeito que você batalhou agora há pouco, você se saiu com muita classe!\\pAcho que o sangue do seu pai corre mesmo nas suas veias!\\pAh, sim. Como agradecimento por me salvar, quero que você fique com a CAPTURA que usou agora há pouco.\\p{PLAYER} recebeu {STR_VAR_1}!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E6D6",
+  "en": "PROF. BIRCH: While you're at it, why not\\ngive a nickname to that {STR_VAR_1}?",
+  "pt": "PROF. BIRCH: Aproveitando, por que não dá um apelido para {STR_VAR_1}?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E71B",
+  "en": "PROF. BIRCH: While you're at it, why not\\ngive a nickname to that {STR_VAR_1}?\\p",
+  "pt": "PROF. BIRCH: Aproveitando, por que não dá um apelido para {STR_VAR_1}?\\p"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E761",
+  "en": "PROF. BIRCH: If you work at POKéMON\\nand gain experience, I think you'll make\\lan extremely good TRAINER.\\pMy kid, {RIVAL}, is also studying\\nPOKéMON while helping me out.\\p{PLAYER}{KUN}, don't you think it might be\\na good idea to go see {RIVAL}?",
+  "pt": "PROF. BIRCH: Se você se dedicar às CAPTURAS e ganhar experiência, acho que vai se tornar um TREINADOR excelente.\\p{RIVAL}, sangue do meu sangue, também está estudando CAPTURAS enquanto me ajuda.\\p{PLAYER}{KUN}, não acha que seria uma boa ideia ir ver {RIVAL}?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E840",
+  "en": "PROF. BIRCH: Great!\\n{RIVAL} should be happy, too.\\pGet {RIVAL} to teach you what it\\nmeans to be a TRAINER.",
+  "pt": "PROF. BIRCH: Ótimo! {RIVAL} também vai ficar feliz.\\pPeça pra {RIVAL} te ensinar o que significa ser um TREINADOR."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E8A0",
+  "en": "PROF. BIRCH: Oh, don't be that way.\\nYou should go meet my kid.",
+  "pt": "PROF. BIRCH: Ah, não fique assim. Você devia ir conhecer a minha cria."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E8DF",
+  "en": "PROF. BIRCH: {RIVAL}?\\nGone home, I think.\\pOr maybe that kid's scrabbling around\\nin tall grass again somewhere…\\pIf you or your POKéMON get tired,\\nyou should get some rest at home.",
+  "pt": "PROF. BIRCH: {RIVAL}? Acho que foi pra casa.\\pOu talvez esteja fuçando no mato alto de novo em algum lugar…\\pSe você ou as suas CAPTURAS ficarem cansados, é bom descansar em casa."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023E98D",
+  "en": "PROF. BIRCH: Oh, hi, {PLAYER}{KUN}!\\pI heard you beat {RIVAL} on\\nyour first try. That's excellent!\\p{RIVAL}'s been helping with my research\\nfor a long time.\\p{RIVAL} has an extensive history as\\na TRAINER already.\\pHere, {PLAYER}{KUN}, I ordered this for my\\nresearch, but I think you should have\\lthis POKéDEX.",
+  "pt": "PROF. BIRCH: Ah, oi, {PLAYER}{KUN}!\\pSoube que você venceu {RIVAL} logo de primeira. Excelente!\\p{RIVAL} me ajuda nas pesquisas há muito tempo.\\p{RIVAL} já tem uma longa história como TREINADOR.\\pTome, {PLAYER}{KUN}, eu encomendei isto para a minha pesquisa, mas acho que você deveria ficar com esta TATTLEDEX."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EA9D",
+  "en": "{PLAYER} received the POKéDEX!",
+  "pt": "{PLAYER} recebeu a TATTLEDEX!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EAB6",
+  "en": "PROF. BIRCH: The POKéDEX is a high-tech\\ntool that automatically makes a record\\lof any POKéMON you meet or catch.\\pMy kid, {RIVAL}, goes everywhere\\nwith it.\\pWhenever my kid catches a rare POKéMON\\nand records its data in the POKéDEX,\\lwhy, {RIVAL} looks for me while I'm out\\ldoing fieldwork, and shows me.",
+  "pt": "PROF. BIRCH: A TATTLEDEX é uma ferramenta de alta tecnologia que registra automaticamente qualquer CAPTURA que você encontrar ou pegar.\\p{RIVAL}, sangue do meu sangue, leva ela pra todo lado.\\pSempre que pega uma CAPTURA rara e registra os dados na TATTLEDEX, ora, {RIVAL} vem me procurar enquanto estou em campo pra me mostrar."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EBDA",
+  "en": "PROF. BIRCH: Countless POKéMON\\nawait you!\\pArgh, I'm getting the itch to get out\\nand do fieldwork again!",
+  "pt": "PROF. BIRCH: Inúmeras CAPTURAS esperam por você!\\pArgh, já estou com vontade de sair pra fazer pesquisa de campo de novo!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EC42",
+  "en": "MAY: Oh, wow, {PLAYER}{KUN}!\\nYou got a POKéDEX, too!\\pThat's great! Just like me!\\nI've got something for you, too!",
+  "pt": "MAY: Uau, {PLAYER}{KUN}! Você também ganhou uma TATTLEDEX!\\pQue ótimo! Igual a mim! Eu também tenho uma coisa pra você!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023ECAB",
+  "en": "MAY: It's fun if you can get a lot of\\nPOKéMON!\\pI'm going to look all over the place\\nbecause I want different POKéMON.\\pIf I find any cute POKéMON, I'll catch\\nthem with POKé BALLS!",
+  "pt": "MAY: É divertido ter um monte de CAPTURAS!\\pVou procurar por todo canto, porque quero CAPTURAS diferentes.\\pSe eu achar alguma CAPTURA fofa, vou pegar com CAPs!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023ED5E",
+  "en": "Oh? Your BAG's full.",
+  "pt": "Ué? A sua BOLSA está cheia."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023ED73",
+  "en": "MAY: I wonder where I should go look\\nfor POKéMON next?",
+  "pt": "MAY: Onde será que eu vou procurar CAPTURAS agora?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EDAA",
+  "en": "BRENDAN: Huh…\\nSo you got a POKéDEX, too.\\pWell then, here.\\nI'll give you these.",
+  "pt": "BRENDAN: Hum… Então você também ganhou uma TATTLEDEX.\\pBom, então toma. Vou te dar estes aqui."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EDF9",
+  "en": "BRENDAN: You know it's more fun to\\nhave a whole bunch of POKéMON.\\pI'm going to explore all over the place\\nto find different POKéMON.\\pIf I find any cool POKéMON, you bet\\nI'll try to get them with POKé BALLS.",
+  "pt": "BRENDAN: Sabe, é mais divertido ter um montão de CAPTURAS.\\pVou explorar todo canto pra achar CAPTURAS diferentes.\\pSe eu achar alguma CAPTURA maneira, pode apostar que vou tentar pegar com CAPs."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EEC8",
+  "en": "Hey, your BAG's full.",
+  "pt": "Ei, a sua BOLSA está cheia."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EEDE",
+  "en": "BRENDAN: Where should I look for\\nPOKéMON next…",
+  "pt": "BRENDAN: Onde será que eu procuro CAPTURAS agora…"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EF0D",
+  "en": "It's a serious-looking machine.\\nThe PROF must use this for research.",
+  "pt": "É uma máquina com cara de séria. O PROF deve usar isto nas pesquisas."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EF52",
+  "en": "It's a PC used for research.\\nBetter not mess around with it.",
+  "pt": "É um PC usado para pesquisa. Melhor não mexer nele."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EF8F",
+  "en": "It's crammed with books on POKéMON.",
+  "pt": "Está lotada de livros sobre CAPTURAS."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EFB3",
+  "en": "It's a book that's too hard to read.",
+  "pt": "É um livro difícil demais de ler."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023EFD8",
+  "en": "PROF. BIRCH: Now…\\p{PLAYER}{KUN} and {RIVAL}, I've had the two\\nof you help me study POKéMON.\\pThanks to your help, new facts\\nare coming to light.\\pIt appears that in the HOENN region,\\nthere are also POKéMON from other\\lregions.\\pIt goes to show how rich and varied\\nthe natural environments of HOENN\\lhappen to be.\\pThat's why I think it's necessary for\\nme to upgrade your POKéDEX to\\lthe NATIONAL Mode.\\pHere, let me see your POKéDEX units.",
+  "pt": "PROF. BIRCH: Bem…\\p{PLAYER}{KUN} e {RIVAL}, vocês dois me ajudaram a estudar as CAPTURAS.\\pGraças à ajuda de vocês, novos fatos estão vindo à tona.\\pParece que, na região de HOENN, também existem CAPTURAS de outras regiões.\\pIsso mostra como os ambientes naturais de HOENN são ricos e variados.\\pPor isso, acho necessário atualizar a TATTLEDEX de vocês para o Modo NACIONAL.\\pAqui, deixem eu ver as TATTLEDEX de vocês."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F17A",
+  "en": "MAY: Eheheh!\\pIt's so cool that even my POKéDEX\\nis getting updated!\\pIt's because you went out and caught\\nso many POKéMON, {PLAYER}{KUN}!",
+  "pt": "MAY: Ehehe!\\pQue legal que até a minha TATTLEDEX vai ser atualizada!\\pÉ porque você saiu por aí e pegou tantas CAPTURAS, {PLAYER}{KUN}!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F1F9",
+  "en": "BRENDAN: I went out all over HOENN\\nand checked out POKéMON.\\pYou can thank me for getting\\nthe NATIONAL Mode POKéDEX.\\pYep, you're lucky, {PLAYER}!",
+  "pt": "BRENDAN: Eu rodei HOENN inteira estudando CAPTURAS.\\pVocê pode me agradecer por ganhar a TATTLEDEX do Modo NACIONAL.\\pÉ, você tem sorte, {PLAYER}!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F284",
+  "en": "PROF. BIRCH: Okay, all done!",
+  "pt": "PROF. BIRCH: Pronto, tudo certo!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F2A1",
+  "en": "{PLAYER}'s POKéDEX was upgraded\\nto the NATIONAL Mode!",
+  "pt": "A TATTLEDEX de {PLAYER} foi atualizada para o Modo NACIONAL!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F2D1",
+  "en": "PROF. BIRCH: But listen.\\nYou've become the CHAMPION,\\lbut your POKéMON journey isn't over.\\pThere is no end to the road\\nthat is POKéMON.\\pSomewhere, there is a grassy patch\\nthat's waiting for you!",
+  "pt": "PROF. BIRCH: Mas escute. Você se tornou o CAMPEÃO, mas a sua jornada com as CAPTURAS não terminou.\\pO caminho das CAPTURAS não tem fim.\\pEm algum lugar, tem um matinho esperando por você!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F393",
+  "en": "MAY: I think I'll take a short break\\nfrom fieldwork.\\pI think I'll help the PROF here for\\na while.",
+  "pt": "MAY: Acho que vou dar uma pausa no trabalho de campo.\\pVou ajudar o PROF aqui por um tempo."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F3F5",
+  "en": "BRENDAN: For the time being,\\nI'm taking a break from fieldwork.\\pI'll be helping out the PROF here\\nfor a while.",
+  "pt": "BRENDAN: Por enquanto, estou dando um tempo no trabalho de campo.\\pVou ajudar o PROF aqui por um tempo."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F464",
+  "en": "PROF. BIRCH: Oh, {PLAYER}{KUN}!\\nLet's have a look at your POKéDEX.\\p… … … … … …\\n… … … … … …\\pYes, there's no doubt about it.\\pYou really have completed the HOENN\\nregion's POKéDEX.\\pThat's more than just impressive.\\pI have a gift for you.\\pConsider it my show of appreciation\\nfor the fantastic work you've done.\\pMy gift is a rare POKéMON only found\\nin another region!\\pYou can have any one of these\\nthree POKéMON!",
+  "pt": "PROF. BIRCH: Ah, {PLAYER}{KUN}! Vamos dar uma olhada na sua TATTLEDEX.\\p… … … … … …\\n… … … … … …\\pSim, não há dúvida.\\pVocê completou mesmo a TATTLEDEX da região de HOENN.\\pIsso é mais do que impressionante.\\pTenho um presente para você.\\pConsidere uma prova da minha gratidão pelo trabalho fantástico que você fez.\\pO meu presente é uma CAPTURA rara, encontrada só em outra região!\\pVocê pode ficar com qualquer uma destas três CAPTURAS!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F5F2",
+  "en": "PROF. BIRCH: These are rare POKéMON\\nonly found in another region!\\pYou can have any one of these\\nthree POKéMON!",
+  "pt": "PROF. BIRCH: Estas são CAPTURAS raras, encontradas só em outra região!\\pVocê pode ficar com qualquer uma destas três CAPTURAS!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F661",
+  "en": "PROF. BIRCH: The FIRE POKéMON\\nCYNDAQUIL caught your eye!\\pYou're as sharp as ever!\\pSo the CYNDAQUIL is your choice?",
+  "pt": "PROF. BIRCH: A CAPTURA de FOGO CYNDAQUIL chamou a sua atenção!\\pVocê é perspicaz como sempre!\\pEntão você escolhe o CYNDAQUIL?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F6D4",
+  "en": "PROF. BIRCH: The WATER POKéMON\\nTOTODILE is your choice!\\pYou know how to pick a good one.\\pSo, you'll take the TOTODILE?",
+  "pt": "PROF. BIRCH: Você escolheu a CAPTURA de ÁGUA TOTODILE!\\pVocê sabe escolher bem.\\pEntão, vai ficar com o TOTODILE?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F74B",
+  "en": "PROF. BIRCH: The GRASS POKéMON\\nCHIKORITA is your choice!\\pYou sure know what you're doing.\\pSo, you'll take the CHIKORITA?",
+  "pt": "PROF. BIRCH: Você escolheu a CAPTURA de PLANTA CHIKORITA!\\pVocê sabe mesmo o que está fazendo.\\pEntão, vai ficar com a CHIKORITA?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F7C4",
+  "en": "PROF. BIRCH: Take your time before\\nyou decide.\\pThey're all invaluable POKéMON.",
+  "pt": "PROF. BIRCH: Pense com calma antes de decidir.\\pTodas são CAPTURAS valiosíssimas."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F842",
+  "en": "{PLAYER} received the {STR_VAR_1}\\nfrom PROF. BIRCH!",
+  "pt": "{PLAYER} recebeu {STR_VAR_1} do PROF. BIRCH!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F897",
+  "en": "PROF. BIRCH: Listen, {PLAYER}{KUN}.\\nYou've completed the HOENN POKéDEX,\\lbut your POKéMON journey isn't over.\\pThere is no end to the road\\nthat is POKéMON.\\pSomewhere, there is a grassy patch\\nthat's waiting for you!",
+  "pt": "PROF. BIRCH: Escute, {PLAYER}{KUN}. Você completou a TATTLEDEX de HOENN, mas a sua jornada com as CAPTURAS não terminou.\\pO caminho das CAPTURAS não tem fim.\\pEm algum lugar, tem um matinho esperando por você!"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F963",
+  "en": "You received the promised POKéMON.\\nBetter leave the others alone.",
+  "pt": "Você recebeu a CAPTURA prometida. Melhor deixar as outras em paz."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023F9D3",
+  "en": "MAY: {PLAYER}{KUN}, after this…\\nWhat are you going to do?\\pAre you going to keep battling\\nand sharpening your skills?\\pOr are you going to try filling\\nthe NATIONAL POKéDEX?\\pI'm staying here to help the PROF.",
+  "pt": "MAY: {PLAYER}{KUN}, e depois disso… O que você vai fazer?\\pVai continuar batalhando e afiando as suas habilidades?\\pOu vai tentar completar a TATTLEDEX NACIONAL?\\pEu vou ficar aqui ajudando o PROF."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023FA98",
+  "en": "BRENDAN: Rather than collecting\\nPOKéMON, I prefer slowly and \\lsteadily raising the one I chose.",
+  "pt": "BRENDAN: Em vez de colecionar CAPTURAS, eu prefiro treinar com calma e constância a que eu escolhi."
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023FAF8",
+  "en": "MAY: Oh, hi, {PLAYER}{KUN}!\\nHave you gone to that place,\\lthe BATTLE FRONTIER?",
+  "pt": "MAY: Ah, oi, {PLAYER}{KUN}! Você já foi àquele lugar, a FRONTEIRA DE BATALHA?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "023FB3D",
+  "en": "BRENDAN: Hey, {PLAYER}!\\nHave you gone out to that place,\\lthe BATTLE FRONTIER?",
+  "pt": "BRENDAN: Ei, {PLAYER}! Você já foi até aquele lugar, a FRONTEIRA DE BATALHA?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "02ECF4A",
+  "en": "Do you want to give a nickname to\\nthis {STR_VAR_1}?",
+  "pt": "Quer dar um apelido para {STR_VAR_1}?"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "0332B2F",
+  "en": "PROF. BIRCH: Oh, {PLAYER}{KUN}!\\nI've already heard about you!\\pIt seems your POKéNAV's been\\nupgraded with MATCH CALL.\\pWell, I should register, too!\\pThat way, I'd be able to examine\\nyour POKéDEX even while you're\\lout in the field.\\p… … … … … …",
+  "pt": "PROF. BIRCH: Ah, {PLAYER}{KUN}! Já ouvi falar de você!\\pParece que o seu POKéNAV ganhou o MATCH CALL.\\pBom, eu também devo me registrar!\\pAssim, eu posso examinar a sua TATTLEDEX mesmo enquanto você estiver em campo.\\p… … … … … …"
+ },
+ {
+  "map": "17.4 TOAD TOWN",
+  "offset": "0332C17",
+  "en": "Registered PROF. BIRCH\\nin the POKéNAV.",
+  "pt": "PROF. BIRCH registrado no POKéNAV."
+ },
+ {
+  "map": "18.1 PEACH'S CASTLE",
+  "offset": "023FDD8",
+  "en": "When POKéMON battle, they eventually\\nlevel up and become stronger.",
+  "pt": "Quando as CAPTURAS batalham, elas acabam subindo de nível e ficando mais fortes."
+ },
+ {
+  "map": "18.1 PEACH'S CASTLE",
+  "offset": "023FE1B",
+  "en": "If the POKéMON with you become\\nstronger, you'll be able to go farther\\laway from here.",
+  "pt": "Se as CAPTURAS que estão com você ficarem mais fortes, você vai conseguir ir mais longe daqui."
+ },
+ {
+  "map": "18.2 PEACH'S CASTLE",
+  "offset": "023FEC4",
+  "en": "That PC in the corner there is\\nfor any POKéMON TRAINER to use.\\pNaturally, that means you're welcome\\nto use it, too.",
+  "pt": "Aquele PC ali no canto é para qualquer TREINADOR usar.\\pOu seja, você também pode usar, claro."
+ },
+ {
+  "map": "18.2 PEACH'S CASTLE",
+  "offset": "023FF38",
+  "en": "POKéMON CENTERS are great!\\pYou can use their services as much\\nas you like, and it's all for free.\\lYou never have to worry!",
+  "pt": "Os CENTROS CAPTURA são ótimos!\\pVocê pode usar os serviços quanto quiser, e é tudo de graça. Nunca precisa se preocupar!"
+ },
+ {
+  "map": "18.2 PEACH'S CASTLE",
+  "offset": "023FFB3",
+  "en": "The POKéMON WIRELESS CLUB on\\nthe second floor was built recently.\\pBut they say they're still making\\nadjustments.",
+  "pt": "O CLUBE SEM FIO do segundo andar foi construído há pouco tempo.\\pMas dizem que ainda estão fazendo ajustes."
+ },
+ {
+  "map": "18.2 PEACH'S CASTLE",
+  "offset": "0240024",
+  "en": "The POKéMON WIRELESS CLUB on\\nthe second floor was built recently.\\pI traded POKéMON right away.",
+  "pt": "O CLUBE SEM FIO do segundo andar foi construído há pouco tempo.\\pEu troquei CAPTURAS na mesma hora."
+ },
+ {
+  "map": "18.4 PEACH'S CASTLE",
+  "offset": "024015F",
+  "en": "I'm going to buy a bunch of POKé BALLS\\nand catch a bunch of POKéMON!",
+  "pt": "Vou comprar um monte de CAPs e pegar um monte de CAPTURAS!"
+ },
+ {
+  "map": "18.4 PEACH'S CASTLE",
+  "offset": "02401A4",
+  "en": "If a POKéMON gets hurt and loses its HP\\nand faints, it won't be able to battle.\\pTo prevent your POKéMON from fainting,\\nrestore its HP with a POTION.",
+  "pt": "Se uma CAPTURA se machucar, perder o HP e desmaiar, ela não vai poder batalhar.\\pPara evitar que suas CAPTURAS desmaiem, recupere o HP delas com um COGUMELO."
+ },
+ {
+  "map": "19.0 CLOUD CAP",
+  "offset": "02402C7",
+  "en": "I left the major port of SLATEPORT\\nCITY when I married my husband here.\\pLife goes by slowly on this little\\nisland. But being surrounded by the\\lbeautiful sea--that's happiness, too.",
+  "pt": "Eu saí do grande porto de SLATEPORT quando me casei com o meu marido aqui.\\pA vida passa devagar nesta ilhazinha. Mas estar cercada por este mar lindo… isso também é felicidade."
+ },
+ {
+  "map": "19.0 CLOUD CAP",
+  "offset": "024037C",
+  "en": "ZIGZAGOON: Guguuh!",
+  "pt": "ZIGZAGOON: Guguuh!"
+ },
+ {
+  "map": "19.1 CLOUD CAP",
+  "offset": "024041A",
+  "en": "Even if a POKéMON faints and can't\\nbattle, it can still use a move learned\\lfrom a HIDDEN MACHINE (HM).",
+  "pt": "Mesmo que uma CAPTURA desmaie e não possa batalhar, ela ainda pode usar um golpe aprendido de uma MÁQUINA OCULTA (HM)."
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "02409C8",
+  "en": "Whoah! It's turned too bright in here!\\pYour future is bright, too!",
+  "pt": "Uau! Ficou claro demais aqui dentro!\\pO seu futuro também é brilhante!"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240A36",
+  "en": "Your skill overcame my strength!\\nYour technique is commendable!",
+  "pt": "A sua habilidade superou a minha força! A sua técnica é admirável!"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240AD7",
+  "en": "I'm not going to waste this loss.\\nI'll use it to motivate me to train!\\pOne day I'll become a GYM LEADER…\\pNo, I'll become the POKéMON LEAGUE\\nCHAMPION!",
+  "pt": "Não vou desperdiçar esta derrota. Vou usar ela de motivação pra treinar!\\pUm dia eu vou virar LÍDER DE GINÁSIO…\\pNão, eu vou virar CAMPEÃO da LIGA CAPTURA!"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240BBB",
+  "en": "I battle in the dark to make my heart\\nstronger.\\pBut because it's so dark, I can never\\nsee BRAWLY's face…",
+  "pt": "Eu batalho no escuro pra deixar o meu coração mais forte.\\pMas, como é tão escuro, eu nunca consigo ver a cara do BRAWLY…"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240C74",
+  "en": "You deserve to stay lost and end up\\nback at the entrance again!",
+  "pt": "Você merece continuar perdido e voltar pra entrada de novo!"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240D17",
+  "en": "Oh, aye! You're worthy of seeing\\nour GYM LEADER.",
+  "pt": "Ah, sim! Você é digno de ver o nosso LÍDER DE GINÁSIO."
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240D92",
+  "en": "You win!\\nGo after that BADGE!",
+  "pt": "Você venceu! Vá atrás daquela INSÍGNIA!"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240DB0",
+  "en": "I'm BRAWLY!\\nDEWFORD's GYM LEADER!\\pI've been churned in the rough waves\\nof these parts, and I've grown tough\\lin the pitch-black cave!\\pSo you wanted to challenge me?\\nLet me see what you're made of!",
+  "pt": "Eu sou o BRAWLY! O LÍDER DE GINÁSIO de DEWFORD!\\pFui sacudido pelas ondas bravas destas bandas e fiquei durão na caverna escura como breu!\\pEntão você queria me desafiar? Mostre do que você é feito!"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240E74",
+  "en": "Whoah, wow! You made a much bigger\\nsplash than I expected!\\pYou swamped me!\\pOkay, you've got me.\\nTake this GYM BADGE!",
+  "pt": "Uau, nossa! Você fez uma onda muito maior do que eu esperava!\\pVocê me afogou!\\pTudo bem, você me pegou. Tome esta INSÍGNIA DE GINÁSIO!"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240EE9",
+  "en": "{PLAYER} received the KNUCKLE BADGE\\nfrom BRAWLY.",
+  "pt": "{PLAYER} recebeu a INSÍGNIA PUNHO do BRAWLY."
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240F14",
+  "en": "The KNUCKLE BADGE makes all POKéMON\\nup to Level 30, even those you get in\\ltrades, obey without question.\\pAnd, you'll be able to use the HM move\\nFLASH outside of battle.\\pIf you'd like, use this TECHNICAL\\nMACHINE, too.",
+  "pt": "A INSÍGNIA PUNHO faz todas as CAPTURAS até o Nível 30, mesmo as recebidas em trocas, obedecerem sem questionar.\\pE você também vai poder usar o golpe de HM FLASH fora das batalhas.\\pSe quiser, use também esta MÁQUINA TÉCNICA."
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0240FED",
+  "en": "That TM08 contains BULK UP.\\pIt's a move that raises both ATTACK\\nand DEFENSE stats.\\p… … … … … …",
+  "pt": "Esse TM08 contém ENCORPAR.\\pÉ um golpe que aumenta os atributos de ATAQUE e DEFESA.\\p… … … … … …"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "024104C",
+  "en": "Registered GYM LEADER BRAWLY\\nin the POKéNAV.",
+  "pt": "LÍDER DE GINÁSIO BRAWLY registrado no POKéNAV."
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "0241079",
+  "en": "I can see your talent becoming a giant\\nwave to cause a storm of astonishment\\lamong TRAINERS one day!",
+  "pt": "Posso ver o seu talento virando uma onda gigante que um dia vai causar uma tempestade de espanto entre os TREINADORES!"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "02410DE",
+  "en": "DEWFORD TOWN POKéMON GYM",
+  "pt": "GINÁSIO CAPTURA DE DEWFORD"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "02410F7",
+  "en": "DEWFORD TOWN POKéMON GYM\\pBRAWLY'S CERTIFIED TRAINERS:\\n{PLAYER}",
+  "pt": "GINÁSIO CAPTURA DE DEWFORD\\pTREINADORES APROVADOS POR BRAWLY:\\n{PLAYER}"
+ },
+ {
+  "map": "19.3 CLOUD CAP",
+  "offset": "02411E7",
+  "en": "BRAWLY: Battling is vast and it's deep.\\nYou can't see the bottom.\\lIt's just like the sea of HOENN!",
+  "pt": "BRAWLY: As batalhas são vastas e profundas. Não dá pra ver o fundo. São iguaizinhas ao mar de HOENN!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241684",
+  "en": "What's in vogue? Why, it has to be\\n“{STR_VAR_1}”!\\pI can't imagine what life would be like\\nwithout “{STR_VAR_1}”!",
+  "pt": "O que está na moda? Ora, só pode ser “{STR_VAR_1}”!\\pNão consigo imaginar a vida sem “{STR_VAR_1}”!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "02416E3",
+  "en": "What's in vogue? Why, it has to be\\n“{STR_VAR_1}”!\\pBut I'm getting kind of bored with it.\\pI should look for the next big thing.",
+  "pt": "O que está na moda? Ora, só pode ser “{STR_VAR_1}”!\\pMas já estou meio enjoado disso.\\pPreciso procurar a próxima novidade."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241759",
+  "en": "I'm teaching my POKéMON about\\n“{STR_VAR_1},”\\lbut it's not going well.\\pIt's a bit too much, I think.",
+  "pt": "Estou ensinando as minhas CAPTURAS sobre “{STR_VAR_1}”, mas não está dando muito certo.\\pAcho que é um pouco demais."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "02417B4",
+  "en": "I'm studying up on the hip and trendy\\n“{STR_VAR_1}” now.\\pIs it true that there's a deep link\\nbetween “{STR_VAR_1}”\\land “{STR_VAR_2}”?",
+  "pt": "Estou estudando o descolado e badalado “{STR_VAR_1}” agora.\\pÉ verdade que existe uma ligação profunda entre “{STR_VAR_1}” e “{STR_VAR_2}”?"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "024181F",
+  "en": "Oh!\\nSo, my hunch was right!\\pI'm one step closer to being hip and\\nhappening, yowza!",
+  "pt": "Ah! Então o meu palpite estava certo!\\pEstou um passo mais perto de ser moderno e antenado, uhuu!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241872",
+  "en": "What?!\\nIs that so?!\\pIt's not easy for an older fellow like\\nme to keep up with trends!",
+  "pt": "O quê?! É mesmo?!\\pNão é fácil pra um senhor como eu acompanhar as tendências!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "02418C8",
+  "en": "This whole business about\\n“{STR_VAR_1}”…\\lIsn't there a TV show on it?",
+  "pt": "Esse negócio todo de “{STR_VAR_1}”… Não tem um programa de TV sobre isso?"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241905",
+  "en": "Across the sea…\\pIs “{STR_VAR_1}”\\neven more popular?",
+  "pt": "Do outro lado do mar…\\p“{STR_VAR_1}” é ainda mais popular?"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241930",
+  "en": "I collect official\\n“{STR_VAR_1}”\\llicensed merchandise.\\pI have official\\n“{STR_VAR_1}” DOLLS…\\pOfficial “{STR_VAR_1}”\\nbrand clothing…\\pAnd officially licensed\\n“{STR_VAR_1}”\\lpicture books.\\pHeheh, I own!\\nI'm not sharing anything with you!",
+  "pt": "Eu coleciono produtos licenciados oficiais de “{STR_VAR_1}”.\\pTenho BONECOS oficiais de “{STR_VAR_1}”…\\pRoupas da marca oficial “{STR_VAR_1}”…\\pE livros ilustrados com licença oficial de “{STR_VAR_1}”.\\pHehe, é tudo meu! Não vou dividir nada com você!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "02419F5",
+  "en": "IDENTIFYING GOOD\\n“{STR_VAR_1}” &\\lBAD “{STR_VAR_1}”…\\pTHE LINK BETWEEN\\n“{STR_VAR_1}” AND\\lPOKéMON…\\pUSEFUL\\n“{STR_VAR_1}”…\\pIt's neatly jammed with books about\\n“{STR_VAR_1}.”",
+  "pt": "COMO IDENTIFICAR “{STR_VAR_1}” BOM E “{STR_VAR_1}” RUIM…\\pA LIGAÇÃO ENTRE “{STR_VAR_1}” E AS CAPTURAS…\\p“{STR_VAR_1}” ÚTIL…\\pA estante está bem arrumadinha, cheia de livros sobre “{STR_VAR_1}”."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241A71",
+  "en": "“{STR_VAR_1}'S\\nSCREAM” is the title.",
+  "pt": "O título é “O GRITO DE {STR_VAR_1}”."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241A8D",
+  "en": "“{STR_VAR_1}'S\\nSMILE” is the title.",
+  "pt": "O título é “O SORRISO DE {STR_VAR_1}”."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241AA8",
+  "en": "It's titled “THE LAST\\n{STR_VAR_1}”.",
+  "pt": "O título é “O ÚLTIMO {STR_VAR_1}”."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241AC3",
+  "en": "It's titled “THE BIRTH OF\\n{STR_VAR_1}”.",
+  "pt": "O título é “O NASCIMENTO DE {STR_VAR_1}”."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241AE2",
+  "en": "I saw “{STR_VAR_1}”!\\nCool, huh?\\pIt's, like, the coolest thing going!\\pIt was awesome!\\nIt was the real thing, oh yeah!",
+  "pt": "Eu vi “{STR_VAR_1}”! Irado, né?\\pÉ, tipo, a coisa mais irada que existe!\\pFoi incrível! Era de verdade, ah, se era!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241B4E",
+  "en": "Oh, no, no, no.\\pThat alleged\\n“{STR_VAR_1}”\\lyou claim to have seen--it's not.\\pThe authentic article is much…\\nHow should I say it?\\lSharper, yet more mellow!\\pAh, no matter. It's astonishing!",
+  "pt": "Ah, não, não, não.\\pEsse suposto “{STR_VAR_1}” que você diz ter visto… não era.\\pO artigo autêntico é muito… Como posso dizer? Mais afiado, e ao mesmo tempo mais suave!\\pAh, não importa. É assombroso!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241C01",
+  "en": "Hey, listen, I composed a theme song\\nfor “{STR_VAR_1}.”\\p“{STR_VAR_1}”\\nis really popular right now.\\pOkay, listen!\\n… …\\pOh!\\n{STR_VAR_1}!\\pWonderful\\n{STR_VAR_1}!",
+  "pt": "Ei, escuta, eu compus uma música-tema para “{STR_VAR_1}”.\\p“{STR_VAR_1}” está muito popular agora.\\pBeleza, escuta!\\n… …\\pOh!\\n{STR_VAR_1}!\\pMaravilhoso\\n{STR_VAR_1}!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241C7A",
+  "en": "… …\\pI dare say, chap, it would pay for you\\nto work on your singing before you\\ltrifle yourself with\\l“{STR_VAR_1}.”",
+  "pt": "… …\\pOuso dizer, meu caro, que valeria a pena você treinar o canto antes de se meter com “{STR_VAR_1}”."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241CE3",
+  "en": "Anyway, as I was saying earlier, we\\nshould get together and organize a\\l“{STR_VAR_1}” party\\lon the island.",
+  "pt": "Enfim, como eu dizia antes, a gente devia se juntar e organizar uma festa de “{STR_VAR_1}” na ilha."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241D44",
+  "en": "Oh, a smashing good idea!\\pIt will settle once and for all\\nwho is the best at\\l“{STR_VAR_1}.”\\lBrilliant, indeed!\\pStarting today, our lives will revolve\\naround “{STR_VAR_1}”!",
+  "pt": "Ah, que ideia esplêndida!\\pIsso vai decidir de uma vez por todas quem é o melhor em “{STR_VAR_1}”. Brilhante, de fato!\\pA partir de hoje, as nossas vidas vão girar em torno de “{STR_VAR_1}”!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241DDE",
+  "en": "I was thinking, though…\\pWouldn't you agree that\\n“{STR_VAR_1}” has\\lgrown from being something trendy to\\lbeing a part of our daily lives?",
+  "pt": "Mas eu estava pensando…\\pVocê não concorda que “{STR_VAR_1}” deixou de ser só uma moda e virou parte do nosso dia a dia?"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241E5D",
+  "en": "Beg pardon?\\nThat much, what?\\pHowever, it's true that\\n“{STR_VAR_1}”\\lweighs heavily on your mind, whether\\lyou're awake or asleep.\\pAbsolutely, you're the\\n“{STR_VAR_1}”\\lPROFESSOR, old sport!",
+  "pt": "Como disse? Tanto assim, é?\\pMas é verdade que “{STR_VAR_1}” não sai da sua cabeça, acordado ou dormindo.\\pSem dúvida, você é o PROFESSOR de “{STR_VAR_1}”, meu velho!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241F06",
+  "en": "If you and me team up as a combo,\\nwe'll be invincible when it comes to all\\lthings “{STR_VAR_1}”!",
+  "pt": "Se você e eu formarmos uma dupla, vamos ser invencíveis em tudo que envolver “{STR_VAR_1}”!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241F5E",
+  "en": "Spot on, my friend!\\pWe shall be the\\n“{STR_VAR_1}” DUO!\\pIsn't that a ripe image?\\nHahahah!",
+  "pt": "Na mosca, meu amigo!\\pSeremos a DUPLA “{STR_VAR_1}”!\\pNão é uma imagem e tanto? Hahaha!"
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0241FAE",
+  "en": "For me, SLUDGE BOMB is at the peak\\nof popularity. It's the one.\\pHunh? You're telling me that you don't\\nknow about SLUDGE BOMB?\\pThat's outright pitiful.\\nI'll give you one.",
+  "pt": "Pra mim, BOMBA DE LODO está no auge da popularidade. É o que há.\\pHã? Você está me dizendo que não conhece BOMBA DE LODO?\\pIsso é de dar pena. Vou te dar uma."
+ },
+ {
+  "map": "19.4 CLOUD CAP",
+  "offset": "0242059",
+  "en": "I love SLUDGE BOMB.\\pBut POKéMON with the move\\n“{STR_VAR_1}”\\lare in, too.",
+  "pt": "Eu adoro BOMBA DE LODO.\\pMas CAPTURAS com o golpe “{STR_VAR_1}” também estão na moda."
+ },
+ {
+  "map": "19.5 CLOUD CAP",
+  "offset": "02421C2",
+  "en": "Oh, you don't have room?\\pNow, listen tight, this SCARF is a must-\\nhave! Why, I would sell all my items\\lin order to get it!",
+  "pt": "Ah, você não tem espaço?\\pAgora, escute bem, este LENÇO é indispensável! Ora, eu venderia todos os meus itens só pra ter um!"
+ },
+ {
+  "map": "19.5 CLOUD CAP",
+  "offset": "024223D",
+  "en": "The SILK SCARF raises the power of\\nNORMAL-type moves.\\pIt's a marvelous SCARF that will go\\nwith almost all POKéMON!",
+  "pt": "O LENÇO DE SEDA aumenta o poder dos golpes do tipo NORMAL.\\pÉ um LENÇO maravilhoso que combina com quase todas as CAPTURAS!"
+ },
+ {
+  "map": "19.5 CLOUD CAP",
+  "offset": "02422B0",
+  "en": "Wow, you bothered to cross the sea\\nto visit DEWFORD?\\pDid you maybe come here because you\\nheard about BRAWLY?\\pHe's so cool…\\nEveryone idolizes him.",
+  "pt": "Uau, você se deu ao trabalho de atravessar o mar pra visitar DEWFORD?\\pSerá que veio aqui porque ouviu falar do BRAWLY?\\pEle é tão legal… Todo mundo idolatra ele."
+ },
+ {
+  "map": "20.0 LAVARIDGE TOWN",
+  "offset": "02423F0",
+  "en": "You've come to look at herbal medicine\\nin LAVARIDGE?\\pThat's rather commendable.\\pI like you! Take this!",
+  "pt": "Você veio ver os remédios de ervas de LAVARIDGE?\\pIsso é bem admirável.\\pGostei de você! Tome isto!"
+ },
+ {
+  "map": "20.0 LAVARIDGE TOWN",
+  "offset": "0242457",
+  "en": "That CHARCOAL I gave you, it's used\\nfor making herbal medicine.\\pIt also does wonders when held by\\na POKéMON.\\pIt intensifies the power of FIRE-type\\nmoves.",
+  "pt": "Aquele CARVÃO que eu te dei é usado para fazer remédios de ervas.\\pEle também faz maravilhas quando segurado por uma CAPTURA.\\pEle intensifica o poder dos golpes do tipo FOGO."
+ },
+ {
+  "map": "20.0 LAVARIDGE TOWN",
+  "offset": "02424F1",
+  "en": "Herbal medicine works impressively well.\\nBut your POKéMON will dislike you for it.\\lIt must be horribly bitter!",
+  "pt": "Os remédios de ervas funcionam impressionantemente bem. Mas as suas CAPTURAS vão te odiar por isso. Devem ser terrivelmente amargos!"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242904",
+  "en": "Yow! That was a scorching-hot battle!",
+  "pt": "Uau! Essa foi uma batalha escaldante!"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242968",
+  "en": "Being buried in hot sand promotes\\ncirculation.\\pIt's effective for healing pain in\\nyour joints.",
+  "pt": "Ficar enterrado em areia quente melhora a circulação.\\pÉ ótimo para aliviar dores nas articulações."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242A2D",
+  "en": "Haaah… Whew…\\pIf you spend too much time buried in\\nhot sand, it tuckers you out…",
+  "pt": "Aaah… Ufa…\\pSe você passa tempo demais enterrado na areia quente, fica exausto…"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242A7D",
+  "en": "You must be getting tired by now.\\nYou'd like to rest in the hot sand,\\lwouldn't you?\\pBut you should know that maintaining\\nyour willpower is an important ability\\lfor all TRAINERS.",
+  "pt": "Você já deve estar ficando cansado. Bem que gostaria de descansar na areia quente, não é?\\pMas saiba que manter a força de vontade é uma habilidade importante para todo TREINADOR."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242B2F",
+  "en": "Play with fire, and be burned…",
+  "pt": "Quem brinca com fogo se queima…"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242B4E",
+  "en": "Your skill is real…\\nBut our LEADER FLANNERY is strong.\\pIf you don't watch yourself, you'll be\\nburned seriously.",
+  "pt": "A sua habilidade é de verdade… Mas a nossa LÍDER FLANNERY é forte.\\pSe não tomar cuidado, você vai se queimar feio."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242C07",
+  "en": "The temperature of magma is\\n392 degrees.\\pYour POKéMON beat me, so they should\\neasily survive in magma.",
+  "pt": "A temperatura do magma é de 392 graus.\\pAs suas CAPTURAS me venceram, então devem sobreviver no magma com facilidade."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242CA9",
+  "en": "I'm going to be a pretty and strong\\nTRAINER just like FLANNERY.",
+  "pt": "Eu vou ser uma TREINADORA linda e forte igual à FLANNERY."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242D53",
+  "en": "The way the battling spirit burns\\nwithin you, you may stand a chance\\lagainst our LEADER.",
+  "pt": "Do jeito que o espírito de batalha queima dentro de você, talvez você tenha chance contra a nossa LÍDER."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242DAC",
+  "en": "See how the flames blaze wildly?\\nThey flare in anticipation of my win!",
+  "pt": "Está vendo como as chamas ardem descontroladas? Elas já estão se agitando à espera da minha vitória!"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242DF3",
+  "en": "Something didn't go right.",
+  "pt": "Alguma coisa deu errado."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242E0E",
+  "en": "Well, so what? I say so what?\\nI can walk on hot coals barefoot!\\p…Don't even think about trying it!",
+  "pt": "Bom, e daí? Eu digo: e daí? Eu consigo andar descalço em brasas!\\p…Nem pense em tentar isso!"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0242EE6",
+  "en": "I stay here because I became a fan\\nof FLANNERY's power.\\pHehehehe.",
+  "pt": "Eu fico aqui porque virei fã do poder da FLANNERY.\\pHehehehe."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "024317B",
+  "en": "{PLAYER} received the HEAT BADGE\\nfrom FLANNERY.",
+  "pt": "{PLAYER} recebeu a INSÍGNIA CALOR da FLANNERY."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "02431A5",
+  "en": "If you have a HEAT BADGE, all POKéMON\\nup to Level 50, even those you get in\\ltrades from other people, will obey\\lyou completely.\\pAnd, it lets POKéMON use the HM move\\nSTRENGTH outside of battle.\\pThis is a token of my appreciation.\\nDon't be shy about taking it!",
+  "pt": "Com a INSÍGNIA CALOR, todas as CAPTURAS até o Nível 50, mesmo as recebidas em trocas com outras pessoas, vão te obedecer completamente.\\pE ela também permite que as CAPTURAS usem o golpe de HM FORÇA fora das batalhas.\\pIsto é uma prova da minha gratidão. Não tenha vergonha de aceitar!"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "02432A8",
+  "en": "That TM50 contains OVERHEAT.\\pThat move inflicts serious damage on\\nthe opponent.\\pBut it also sharply cuts the SP. ATK\\nof the POKéMON using it. It might not\\lbe suitable for longer battles.",
+  "pt": "Esse TM50 contém SUPERAQUECER.\\pEsse golpe causa um dano sério no oponente.\\pMas também reduz muito o ATAQUE ESPECIAL da CAPTURA que o usar. Pode não ser adequado para batalhas longas."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0243363",
+  "en": "Registered GYM LEADER FLANNERY\\nin the POKéNAV.",
+  "pt": "LÍDER DE GINÁSIO FLANNERY registrada no POKéNAV."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0243392",
+  "en": "Your power reminds me of someone…\\pOh! I know! You battle like NORMAN,\\nthe GYM LEADER of PETALBURG.",
+  "pt": "O seu poder me lembra alguém…\\pAh! Já sei! Você batalha igual ao NORMAN, o LÍDER DE GINÁSIO de PETALBURG."
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "02433F5",
+  "en": "LAVARIDGE TOWN POKéMON GYM",
+  "pt": "GINÁSIO CAPTURA DE LAVARIDGE"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "0243410",
+  "en": "LAVARIDGE TOWN POKéMON GYM\\pFLANNERY'S CERTIFIED TRAINERS:\\n{PLAYER}",
+  "pt": "GINÁSIO CAPTURA DE LAVARIDGE\\pTREINADORES APROVADOS POR FLANNERY:\\n{PLAYER}"
+ },
+ {
+  "map": "20.1 LAVARIDGE TOWN",
+  "offset": "024350B",
+  "en": "FLANNERY: I lost the match,\\nbut I'm completely satisfied.\\pIt's not often I get to enjoy a battle\\nthis heated.\\pLet's have another one like this\\nagain sometime!",
+  "pt": "FLANNERY: Eu perdi a luta, mas estou totalmente satisfeita.\\pNão é sempre que eu consigo curtir uma batalha tão quente assim.\\pVamos ter outra dessas qualquer dia!"
+ },
+ {
+  "map": "20.3 LAVARIDGE TOWN",
+  "offset": "0243807",
+  "en": "ZIGZAGOON: Pshoo!",
+  "pt": "ZIGZAGOON: Pshoo!"
+ },
+ {
+  "map": "20.4 LAVARIDGE TOWN",
+  "offset": "024385C",
+  "en": "Use X SPEED to add to a POKéMON's\\nSPEED in battle.\\pThat will help it get in the first\\nstrike--a decided advantage!",
+  "pt": "Use VELOCIDADE X para aumentar a VELOCIDADE de uma CAPTURA na batalha.\\pIsso ajuda a dar o primeiro golpe… uma baita vantagem!"
+ },
+ {
+  "map": "20.4 LAVARIDGE TOWN",
+  "offset": "02438CF",
+  "en": "On MT. CHIMNEY's peak, there's a local\\nspecialty that you can buy only there.\\pGive it to a POKéMON--it will be elated.",
+  "pt": "No pico do MT. CHIMNEY tem uma especialidade local que só dá pra comprar lá.\\pDê para uma CAPTURA… ela vai ficar radiante."
+ },
+ {
+  "map": "20.5 LAVARIDGE TOWN",
+  "offset": "02439F9",
+  "en": "It's sort of magical how just sitting\\nin a hot-spring pool can invigorate.\\pI wish I could let my POKéMON\\nsoak, too.",
+  "pt": "É meio mágico como só sentar numa fonte termal já revigora.\\pQueria poder deixar as minhas CAPTURAS de molho também."
+ },
+ {
+  "map": "20.5 LAVARIDGE TOWN",
+  "offset": "0243A6D",
+  "en": "Hohoho! Hey, kid, you can reach\\nthe hot springs from here.\\pIf POKéMON are getting rest, so too\\nshould their TRAINERS.",
+  "pt": "Hohoho! Ei, garoto, daqui você chega às fontes termais.\\pSe as CAPTURAS estão descansando, os TREINADORES também deviam descansar."
+ }
+]

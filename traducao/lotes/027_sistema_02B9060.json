@@ -1,0 +1,1805 @@
+[
+ {
+  "offset": "02C57E8",
+  "en": "Mind you, I am no pushover, so I hope\\nyou have taken notes from your\\lprevious battles.\\pShall we begin?",
+  "pt": "Mas saiba que eu não sou fácil, então espero que você tenha aprendido com as batalhas anteriores.\\pVamos começar?"
+ },
+ {
+  "offset": "02CDE9C",
+  "en": "  Ô ‘j{ER}ËÌÇâÂÍÔ Àk{ER}ËÌÇâÂWelcome to the GRAND STAR HOTEL. I'm\\nsorry, but we're currently fully booked.",
+  "pt": ""
+ },
+ {
+  "offset": "02CDE9D",
+  "en": " Ô ‘j{ER}ËÌÇâÂÍÔ Àk{ER}ËÌÇâÂWelcome to the GRAND STAR HOTEL. I'm\\nsorry, but we're currently fully booked.",
+  "pt": ""
+ },
+ {
+  "offset": "02CDE9E",
+  "en": "Ô ‘j{ER}ËÌÇâÂÍÔ Àk{ER}ËÌÇâÂWelcome to the GRAND STAR HOTEL. I'm\\nsorry, but we're currently fully booked.",
+  "pt": ""
+ },
+ {
+  "offset": "02CDEA8",
+  "en": "ÍÔ Àk{ER}ËÌÇâÂWelcome to the GRAND STAR HOTEL. I'm\\nsorry, but we're currently fully booked.",
+  "pt": ""
+ },
+ {
+  "offset": "02CE3B8",
+  "en": " ÍÔ To{ER}ËÌÇâÂÔ úp{ER}ËÌÇâÂBack in my day, we used to have an\\nentire council of TOADS. Why won't\\lanyone believe me?",
+  "pt": ""
+ },
+ {
+  "offset": "02CE3B9",
+  "en": "ÍÔ To{ER}ËÌÇâÂÔ úp{ER}ËÌÇâÂBack in my day, we used to have an\\nentire council of TOADS. Why won't\\lanyone believe me?",
+  "pt": ""
+ },
+ {
+  "offset": "02CE3C4",
+  "en": "Ô úp{ER}ËÌÇâÂBack in my day, we used to have an\\nentire council of TOADS. Why won't\\lanyone believe me?",
+  "pt": ""
+ },
+ {
+  "offset": "02F1426",
+  "en": "Waaargh! You're too strong!\\nAbout me losing… Please keep it secret!",
+  "pt": "Waaargh! Você é forte demais! Sobre a minha derrota… Por favor, guarde segredo!"
+ },
+ {
+  "offset": "02F15E4",
+  "en": "Hmmm… It's our loss…\\nBut don't tell anyone!\\lIt's a confidential secret!",
+  "pt": "Hmmm… Perdemos… Mas não conte pra ninguém! É um segredo confidencial!"
+ },
+ {
+  "offset": "02F17D3",
+  "en": "I can't keep going!\\nI surrender!",
+  "pt": "Não aguento mais! Eu me rendo!"
+ },
+ {
+  "offset": "02F1935",
+  "en": "Hmm… I've still got lots to learn.\\nI have to study some more.",
+  "pt": "Hmm… Ainda tenho muito o que aprender. Preciso estudar mais."
+ },
+ {
+  "offset": "02F1ABE",
+  "en": "Aww! Done in!\\nBut it's still fun to battle!",
+  "pt": "Ah, não! Acabou pra mim! Mas batalhar continua divertido!"
+ },
+ {
+  "offset": "02F1CA1",
+  "en": "I concede…",
+  "pt": "Admito a derrota…"
+ },
+ {
+  "offset": "02F1E27",
+  "en": "I went down…",
+  "pt": "Fui ao chão…"
+ },
+ {
+  "offset": "02F1FB6",
+  "en": "Huh?\\nDid I just lose?",
+  "pt": "Hã? Eu acabei de perder?"
+ },
+ {
+  "offset": "02F2187",
+  "en": "I know exactly what you're made of now.",
+  "pt": "Agora sei exatamente do que você é feito."
+ },
+ {
+  "offset": "02F238C",
+  "en": "You're supremely talented!\\nYour power seems to be limitless…",
+  "pt": "Você tem um talento supremo! O seu poder parece não ter limites…"
+ },
+ {
+  "offset": "02F49EF",
+  "en": "Trade CAPTURE with another player\\nusing a GBA Game Link cable.",
+  "pt": "Troque CAPTURAS com outro jogador\\nusando o cabo Game Link do GBA."
+ },
+ {
+  "offset": "02F4A2E",
+  "en": "You may battle another TRAINER\\nusing a GBA Game Link cable.",
+  "pt": "Batalhe contra outro TREINADOR\\nusando o cabo Game Link do GBA."
+ },
+ {
+  "offset": "02F4A6A",
+  "en": "You can use the RECORD CORNER with\\nothers using a GBA Game Link cable.",
+  "pt": "Use o CANTO DOS RECORDES com\\noutros via cabo Game Link do GBA."
+ },
+ {
+  "offset": "02F4B87",
+  "en": "When all players are ready…\\nA Button: Confirm\\lB Button: Cancel",
+  "pt": "Quando todos estiverem prontos…\\nBotão A: Confirmar\\lBotão B: Cancelar"
+ },
+ {
+  "offset": "02F4BC6",
+  "en": "Start link with {STR_VAR_1} players.\\nA Button: Confirm\\lB Button: Cancel",
+  "pt": "Iniciar link com {STR_VAR_1} jogadores.\\nBotão A: Confirmar\\lBotão B: Cancelar"
+ },
+ {
+  "offset": "02F4C05",
+  "en": "Awaiting linkup…\\n… … B Button: Cancel",
+  "pt": "Aguardando conexão…\\n… … Botão B: Cancelar"
+ },
+ {
+  "offset": "02F5273",
+  "en": "You may trade your CAPTURE here\\nwith another TRAINER.",
+  "pt": "Aqui você pode trocar CAPTURAS\\ncom outro TREINADOR."
+ },
+ {
+  "offset": "02F52A9",
+  "en": "You may battle with your friends\\nhere.",
+  "pt": "Aqui você pode batalhar com os\\nseus amigos."
+ },
+ {
+  "offset": "02F52D0",
+  "en": "Two to five TRAINERS can make\\nBERRY POWDER together.",
+  "pt": "De dois a cinco TREINADORES podem\\nfazer PÓ DE FRUTA juntos."
+ },
+ {
+  "offset": "02F5305",
+  "en": "The records of two to four players\\ncan be mixed together.",
+  "pt": "Os recordes de dois a quatro\\njogadores podem ser misturados."
+ },
+ {
+  "offset": "02F5370",
+  "en": "Cancels the selected MENU item.",
+  "pt": "Cancela o item selecionado do MENU."
+ },
+ {
+  "offset": "02F9656",
+  "en": "A highly appealing move.",
+  "pt": "Um golpe muito atraente."
+ },
+ {
+  "offset": "02F966F",
+  "en": "After this move, the user is\\nmore easily startled.",
+  "pt": "Depois dele, o usuário se\\nassusta mais facilmente."
+ },
+ {
+  "offset": "02F96A2",
+  "en": "Makes a great appeal, but\\nallows no more to the end.",
+  "pt": "Ótima apresentação, mas\\nimpede outras até o fim."
+ },
+ {
+  "offset": "02F96D7",
+  "en": "Can be repeatedly used\\nwithout boring the JUDGE.",
+  "pt": "Pode ser repetido sem\\nentediar o JUIZ."
+ },
+ {
+  "offset": "02F9708",
+  "en": "Can avoid being startled\\nby others once.",
+  "pt": "Evita levar susto dos\\noutros uma vez."
+ },
+ {
+  "offset": "02F9731",
+  "en": "Can avoid being startled\\nby others.",
+  "pt": "Evita levar susto dos\\noutros."
+ },
+ {
+  "offset": "02F9755",
+  "en": "Can avoid being startled\\nby others a little.",
+  "pt": "Evita um pouco levar susto\\ndos outros."
+ },
+ {
+  "offset": "02F9782",
+  "en": "After this move, the user is\\nless likely to be startled.",
+  "pt": "Depois deste golpe, o\\nusuário se assusta menos."
+ },
+ {
+  "offset": "02F97BB",
+  "en": "Slightly startles the\\nPOKéMON in front.",
+  "pt": "Assusta um pouco a CAPTURA\\nda frente."
+ },
+ {
+  "offset": "02F97E3",
+  "en": "Slightly startles those\\nthat have made appeals.",
+  "pt": "Assusta um pouco quem já\\nse apresentou."
+ },
+ {
+  "offset": "02F9813",
+  "en": "Startles the POKéMON that\\nappealed before the user.",
+  "pt": "Assusta a CAPTURA que se\\napresentou antes."
+ },
+ {
+  "offset": "02F9847",
+  "en": "Startles all POKéMON that\\nhave done their appeals.",
+  "pt": "Assusta todas as CAPTURAS\\nque já se apresentaram."
+ },
+ {
+  "offset": "02F987A",
+  "en": "Badly startles the\\nPOKéMON in front.",
+  "pt": "Assusta muito a CAPTURA da\\nfrente."
+ },
+ {
+  "offset": "02F989F",
+  "en": "Badly startles those that\\nhave made appeals.",
+  "pt": "Assusta muito quem já se\\napresentou."
+ },
+ {
+  "offset": "02F98CC",
+  "en": "Startles the POKéMON that\\nappealed before the user.",
+  "pt": "Assusta a CAPTURA que se\\napresentou antes."
+ },
+ {
+  "offset": "02F9900",
+  "en": "Startles all POKéMON that\\nhave done their appeals.",
+  "pt": "Assusta todas as CAPTURAS\\nque já se apresentaram."
+ },
+ {
+  "offset": "02F9933",
+  "en": "Shifts the JUDGE's\\nattention from others.",
+  "pt": "Desvia dos outros a\\natenção do JUIZ."
+ },
+ {
+  "offset": "02F995D",
+  "en": "Startles the POKéMON that\\nhas the JUDGE's attention.",
+  "pt": "Assusta a CAPTURA que tem\\na atenção do JUIZ."
+ },
+ {
+  "offset": "02F9992",
+  "en": "Jams the others, and misses\\none turn of appeals.",
+  "pt": "Atrapalha os outros, mas\\nperde uma rodada."
+ },
+ {
+  "offset": "02F99C3",
+  "en": "Startles POKéMON that\\nmade a same-type appeal.",
+  "pt": "Assusta quem usou o mesmo\\ntipo."
+ },
+ {
+  "offset": "02F99F2",
+  "en": "Badly startles POKéMON\\nthat made COOL appeals.",
+  "pt": "Assusta muito quem usou\\ngolpes de ESTILO."
+ },
+ {
+  "offset": "02F9A21",
+  "en": "Badly startles POKéMON\\nthat made BEAUTY appeals.",
+  "pt": "Assusta muito quem usou\\ngolpes de BELEZA."
+ },
+ {
+  "offset": "02F9A52",
+  "en": "Badly startles POKéMON\\nthat made CUTE appeals.",
+  "pt": "Assusta muito quem usou\\ngolpes de FOFURA."
+ },
+ {
+  "offset": "02F9A81",
+  "en": "Badly startles POKéMON\\nthat made SMART appeals.",
+  "pt": "Assusta muito quem usou\\ngolpes de INTELIGÊNCIA."
+ },
+ {
+  "offset": "02F9AB1",
+  "en": "Badly startles POKéMON\\nthat made TOUGH appeals.",
+  "pt": "Assusta muito quem usou\\ngolpes de GARRA."
+ },
+ {
+  "offset": "02F9AE1",
+  "en": "Makes one POKéMON after\\nthe user nervous.",
+  "pt": "Deixa nervosa uma CAPTURA\\nque vem depois do usuário."
+ },
+ {
+  "offset": "02F9B0B",
+  "en": "Makes all POKéMON after\\nthe user nervous.",
+  "pt": "Deixa nervosas todas as\\nCAPTURAS seguintes."
+ },
+ {
+  "offset": "02F9B35",
+  "en": "Worsens the condition of\\nthose that made appeals.",
+  "pt": "Piora a condição de quem já\\nse apresentou."
+ },
+ {
+  "offset": "02F9B67",
+  "en": "Badly startles POKéMON in\\ngood condition.",
+  "pt": "Assusta muito CAPTURAS em\\nboa condição."
+ },
+ {
+  "offset": "02F9B91",
+  "en": "The appeal works great if\\nperformed first.",
+  "pt": "A apresentação é ótima se\\nfeita primeiro."
+ },
+ {
+  "offset": "02F9BBC",
+  "en": "The appeal works great if\\nperformed last.",
+  "pt": "A apresentação é ótima se\\nfeita por último."
+ },
+ {
+  "offset": "02F9BE6",
+  "en": "Makes the appeal as good\\nas those before it.",
+  "pt": "A apresentação fica tão\\nboa quanto as anteriores."
+ },
+ {
+  "offset": "02F9C13",
+  "en": "Makes the appeal as good\\nas the one before it.",
+  "pt": "A apresentação fica tão\\nboa quanto a anterior."
+ },
+ {
+  "offset": "02F9C42",
+  "en": "The appeal works better\\nthe later it is performed.",
+  "pt": "Quanto mais tarde, melhor\\nfica a apresentação."
+ },
+ {
+  "offset": "02F9C75",
+  "en": "The appeal's quality varies\\ndepending on its timing.",
+  "pt": "A qualidade varia conforme\\no momento."
+ },
+ {
+  "offset": "02F9CAA",
+  "en": "Works well if it's the same\\ntype as the one before.",
+  "pt": "Funciona bem se for do\\nmesmo tipo que a anterior."
+ },
+ {
+  "offset": "02F9CDE",
+  "en": "Works well if different in\\ntype than the one before.",
+  "pt": "Funciona bem se for de tipo\\ndiferente da anterior."
+ },
+ {
+  "offset": "02F9D13",
+  "en": "Affected by how well the\\nappeal in front goes.",
+  "pt": "Depende de como foi a\\napresentação anterior."
+ },
+ {
+  "offset": "02F9D42",
+  "en": "Ups the user's condition.\\nHelps prevent nervousness.",
+  "pt": "Melhora a condição do\\nusuário e evita nervosismo."
+ },
+ {
+  "offset": "02F9D77",
+  "en": "The appeal works well if the\\nuser's condition is good.",
+  "pt": "Funciona bem se a condição\\ndo usuário for boa."
+ },
+ {
+  "offset": "02F9DAE",
+  "en": "The next appeal can be\\nmade earlier next turn.",
+  "pt": "A próxima apresentação vem\\nmais cedo na outra rodada."
+ },
+ {
+  "offset": "02F9DDD",
+  "en": "The next appeal can be\\nmade later next turn.",
+  "pt": "A próxima apresentação vem\\nmais tarde na outra rodada."
+ },
+ {
+  "offset": "02F9E0A",
+  "en": "Makes the next turn's order\\nmore easily scrambled.",
+  "pt": "Facilita embaralhar a ordem\\nda próxima rodada."
+ },
+ {
+  "offset": "02F9E3D",
+  "en": "Scrambles the order of\\nappeals on the next turn.",
+  "pt": "Embaralha a ordem da\\npróxima rodada."
+ },
+ {
+  "offset": "02F9E6E",
+  "en": "An appeal that excites the\\naudience in any CONTEST.",
+  "pt": "Empolga a plateia em\\nqualquer CONCURSO."
+ },
+ {
+  "offset": "02F9EA2",
+  "en": "Badly startles all POKéMON\\nthat made good appeals.",
+  "pt": "Assusta muito quem fez\\nboas apresentações."
+ },
+ {
+  "offset": "02F9ED5",
+  "en": "The appeal works best the\\nmore the crowd is excited.",
+  "pt": "Quanto mais a plateia se\\nempolga, melhor fica."
+ },
+ {
+  "offset": "02F9F0A",
+  "en": "Temporarily stops the\\ncrowd from growing excited.",
+  "pt": "Impede por um tempo que a\\nplateia se empolgue."
+ },
+ {
+  "offset": "02F9F3C",
+  "en": "RAIN DANCE",
+  "pt": "D. DA CHUVA",
+  "max_width": 63
+ },
+ {
+  "offset": "02F9F47",
+  "en": "RAGE",
+  "pt": "FÚRIA",
+  "max_width": 30
+ },
+ {
+  "offset": "02F9F4C",
+  "en": "FOCUS ENERGY",
+  "pt": "F. DE ENERGIA",
+  "max_width": 75
+ },
+ {
+  "offset": "02F9F59",
+  "en": "HYPNOSIS",
+  "pt": "HIPNOSE",
+  "max_width": 54
+ },
+ {
+  "offset": "02F9F62",
+  "en": "SOFTBOILED",
+  "pt": "OVO COZIDO",
+  "max_width": 66
+ },
+ {
+  "offset": "02F9F6D",
+  "en": "HORN ATTACK",
+  "pt": "ATQ. CHIFRE",
+  "max_width": 69
+ },
+ {
+  "offset": "02F9F79",
+  "en": "SWORDS DANCE",
+  "pt": "D. DAS ESPADAS",
+  "max_width": 75
+ },
+ {
+  "offset": "02F9F86",
+  "en": "CONVERSION",
+  "pt": "CONVERSÃO",
+  "max_width": 66
+ },
+ {
+  "offset": "02F9F91",
+  "en": "SUNNY DAY",
+  "pt": "DIA ENSOL.",
+  "max_width": 57
+ },
+ {
+  "offset": "02F9F9B",
+  "en": "REST",
+  "pt": "DESC.",
+  "max_width": 30
+ },
+ {
+  "offset": "02F9FA0",
+  "en": "VICEGRIP",
+  "pt": "AGARRAM.",
+  "max_width": 54
+ },
+ {
+  "offset": "02F9FA9",
+  "en": "DEFENSE CURL",
+  "pt": "ENROLAR-SE",
+  "max_width": 75
+ },
+ {
+  "offset": "02F9FB6",
+  "en": "LOCK-ON",
+  "pt": "MIRAR",
+  "max_width": 48
+ },
+ {
+  "offset": "02F9FBE",
+  "en": "COOL",
+  "pt": "EST.",
+  "max_width": 30
+ },
+ {
+  "offset": "02F9FC3",
+  "en": "BEAUTY",
+  "pt": "BELEZA",
+  "max_width": 42
+ },
+ {
+  "offset": "02F9FCA",
+  "en": "CUTE",
+  "pt": "FOF.",
+  "max_width": 30
+ },
+ {
+  "offset": "02F9FCF",
+  "en": "SMART",
+  "pt": "INT.",
+  "max_width": 36
+ },
+ {
+  "offset": "02F9FD5",
+  "en": "TOUGH",
+  "pt": "GARRA",
+  "max_width": 36
+ },
+ {
+  "offset": "02F9FDB",
+  "en": "Appeal no. {STR_VAR_1}!\\nWhich move will be played?",
+  "pt": "Apresentação {STR_VAR_1}!\\nQual golpe será usado?"
+ },
+ {
+  "offset": "02FA005",
+  "en": "Appeal no. {STR_VAR_1}!\\nBut it can't participate!",
+  "pt": "Apresentação {STR_VAR_1}!\\nMas não pode participar!"
+ },
+ {
+  "offset": "02FA02E",
+  "en": "{STR_VAR_1} appealed with\\n{STR_VAR_2}!",
+  "pt": "{STR_VAR_1} se apresentou com\\n{STR_VAR_2}!"
+ },
+ {
+  "offset": "02FA043",
+  "en": "{STR_VAR_1} was watching\\nthe others.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} ficou observando\\nos outros.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA06B",
+  "en": "We're all out of\\nAppeal Time!{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Acabou o tempo de\\napresentações!{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA095",
+  "en": "But the appeal was\\njammed.",
+  "pt": "Mas a apresentação foi\\natrapalhada."
+ },
+ {
+  "offset": "02FA0B0",
+  "en": "It followed another\\nPOKéMON's lead.",
+  "pt": "Seguiu o exemplo de outra\\nCAPTURA."
+ },
+ {
+  "offset": "02FA0D4",
+  "en": "But it messed up.",
+  "pt": "Mas se atrapalhou toda."
+ },
+ {
+  "offset": "02FA0E6",
+  "en": "It went better than\\nusual.",
+  "pt": "Foi melhor do que o normal."
+ },
+ {
+  "offset": "02FA101",
+  "en": "The JUDGE looked away\\nfor some reason.",
+  "pt": "Por algum motivo, o JUIZ\\ndesviou o olhar."
+ },
+ {
+  "offset": "02FA128",
+  "en": "It worked hard to build on\\npast mistakes.",
+  "pt": "Se esforçou para superar\\nerros passados."
+ },
+ {
+  "offset": "02FA152",
+  "en": "It can't make any more\\nmoves.",
+  "pt": "Não pode fazer mais\\nnenhum golpe."
+ },
+ {
+  "offset": "02FA170",
+  "en": "It worked frighteningly\\nwell.",
+  "pt": "Funcionou\\nassustadoramente bem."
+ },
+ {
+  "offset": "02FA18E",
+  "en": "It worked as hard as the\\nstandout POKéMON.",
+  "pt": "Se esforçou tanto quanto\\na CAPTURA em destaque."
+ },
+ {
+  "offset": "02FA1B9",
+  "en": "The JUDGE looked on\\nexpectantly.",
+  "pt": "O JUIZ observou cheio de\\nexpectativa."
+ },
+ {
+  "offset": "02FA1DA",
+  "en": "It worked rather well.",
+  "pt": "Funcionou bastante bem."
+ },
+ {
+  "offset": "02FA1F1",
+  "en": "It worked a little better\\nthan usual.",
+  "pt": "Funcionou um pouco melhor\\nque o normal."
+ },
+ {
+  "offset": "02FA217",
+  "en": "{STR_VAR_1} failed to\\nstand out at all…{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} não chamou\\natenção nenhuma…{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "02FA238",
+  "en": "{STR_VAR_1} didn't stand\\nout very much…{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} não se destacou\\nmuito…{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "02FA259",
+  "en": "{STR_VAR_1} caught a\\nlittle attention.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} chamou um pouco\\nde atenção.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "02FA279",
+  "en": "{STR_VAR_1} attracted a\\nlot of attention.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} chamou muita\\natenção.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "02FA29C",
+  "en": "{STR_VAR_1} commanded\\ntotal attention.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} roubou toda a\\natenção.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "02FA2BC",
+  "en": "{STR_VAR_1} hasn't made\\nits appeal.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} ainda não se\\napresentou.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "02FA305",
+  "en": "The JUDGE 's views on\\n{STR_VAR_1} held firm.",
+  "pt": "A opinião do JUIZ sobre\\n{STR_VAR_1} não mudou."
+ },
+ {
+  "offset": "02FA329",
+  "en": "{STR_VAR_1}'s {STR_VAR_3}\\nchanged perceptions.",
+  "pt": "{STR_VAR_3} de {STR_VAR_1} mudou\\nas impressões."
+ },
+ {
+  "offset": "02FA346",
+  "en": "{STR_VAR_1}'s appeal\\neffect wore off.",
+  "pt": "O efeito da apresentação\\nde {STR_VAR_1} acabou."
+ },
+ {
+  "offset": "02FA363",
+  "en": "The special appeal's\\neffect wore off.",
+  "pt": "O efeito da apresentação\\nespecial acabou."
+ },
+ {
+  "offset": "02FA389",
+  "en": "Everyone's appeals were\\nmade to look the same.",
+  "pt": "As apresentações de todos\\nficaram parecendo iguais."
+ },
+ {
+  "offset": "02FA3B8",
+  "en": "It cheapened\\n{STR_VAR_2}'s appeal.",
+  "pt": "Desvalorizou a\\napresentação de {STR_VAR_2}."
+ },
+ {
+  "offset": "02FA3D2",
+  "en": "It cheapened the appeal\\nof those ahead.",
+  "pt": "Desvalorizou quem se\\napresentou antes."
+ },
+ {
+  "offset": "02FA3FA",
+  "en": "It stole attention away\\nfrom {STR_VAR_2}.",
+  "pt": "Roubou a atenção de\\n{STR_VAR_2}."
+ },
+ {
+  "offset": "02FA41B",
+  "en": "It cheapened\\n{STR_VAR_2}'s appeal.",
+  "pt": "Desvalorizou a\\napresentação de {STR_VAR_2}."
+ },
+ {
+  "offset": "02FA435",
+  "en": "It severely cheapened\\nother appeals.",
+  "pt": "Desvalorizou muito as\\noutras apresentações."
+ },
+ {
+  "offset": "02FA45A",
+  "en": "Anticipation swelled for\\n{STR_VAR_1}'s appeal next.",
+  "pt": "Cresce a expectativa pela\\nvez de {STR_VAR_1}."
+ },
+ {
+  "offset": "02FA485",
+  "en": "It cheapened the appeal\\nof those ahead.",
+  "pt": "Desvalorizou quem se\\napresentou antes."
+ },
+ {
+  "offset": "02FA4AD",
+  "en": "It cheapened the JUDGE's\\nfavorite appeal.",
+  "pt": "Desvalorizou a favorita do\\nJUIZ."
+ },
+ {
+  "offset": "02FA4D7",
+  "en": "The appeals of others\\nwere cheapened by half.",
+  "pt": "Os outros perderam metade\\ndo valor."
+ },
+ {
+  "offset": "02FA505",
+  "en": "It stood out to make up\\nfor being jammed.",
+  "pt": "Se destacou para\\ncompensar a atrapalhada."
+ },
+ {
+  "offset": "02FA52F",
+  "en": "It can't participate in\\nappeals any more.",
+  "pt": "Não pode mais participar\\ndas apresentações."
+ },
+ {
+  "offset": "02FA559",
+  "en": "It touched the JUDGE for\\na fantastic appeal.",
+  "pt": "Emocionou o JUIZ com uma\\napresentação fantástica."
+ },
+ {
+  "offset": "02FA586",
+  "en": "Anticipation rose for\\nupcoming appeals.",
+  "pt": "Cresce a expectativa pelo\\nque vem aí."
+ },
+ {
+  "offset": "02FA5AE",
+  "en": "It stood out as much as\\nspecial appeals.",
+  "pt": "Se destacou tanto quanto\\napresentações especiais."
+ },
+ {
+  "offset": "02FA5D7",
+  "en": "It stood out as much as\\n{STR_VAR_1}.",
+  "pt": "Se destacou tanto quanto\\n{STR_VAR_1}."
+ },
+ {
+  "offset": "02FA5F3",
+  "en": "Jammed appeals were made\\neven less noticeable.",
+  "pt": "Os atrapalhados chamaram\\nainda menos atenção."
+ },
+ {
+  "offset": "02FA622",
+  "en": "Everyone's appeals were\\nmade the same.",
+  "pt": "As apresentações de todos\\nficaram iguais."
+ },
+ {
+  "offset": "02FA649",
+  "en": "It became more conscious\\nof the other POKéMON.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Ficou mais atenta às\\noutras CAPTURAS.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA684",
+  "en": "{STR_VAR_1} can't make an\\nappeal after this.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} não pode mais se\\napresentar depois disso.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA6B4",
+  "en": "It settled down just a\\nlittle bit.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Se acalmou só um\\npouquinho.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA6E3",
+  "en": "It became oblivious to\\nthe other POKéMON.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Passou a ignorar as outras\\nCAPTURAS.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA719",
+  "en": "It became less aware of\\nthe other POKéMON.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Ficou menos atenta às\\noutras CAPTURAS.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA750",
+  "en": "It stopped caring about\\nother POKéMON much.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Deixou de ligar muito para\\nas outras CAPTURAS.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA788",
+  "en": "It tried to startle the\\nother POKéMON.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Tentou assustar as outras\\nCAPTURAS.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA7BB",
+  "en": "It tried to dazzle the\\nothers.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Tentou deslumbrar os\\noutros.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA7E6",
+  "en": "The JUDGE looked away\\nfrom {STR_VAR_1}.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "O JUIZ desviou o olhar de\\n{STR_VAR_1}.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA811",
+  "en": "It tried to unnerve the\\nnext POKéMON.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Tentou deixar nervosa a\\npróxima CAPTURA.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA843",
+  "en": "{STR_VAR_1} became\\nnervous.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} perdeu a calma.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA862",
+  "en": "The appeal tried to\\nunnerve waiting POKéMON.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Tentou deixar nervosas as\\nCAPTURAS na espera.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA89B",
+  "en": "It taunted POKéMON\\ndoing well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Provocou as CAPTURAS que\\niam bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA8C6",
+  "en": "{STR_VAR_1} regained its\\nform.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} recuperou a\\nforma.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA8E8",
+  "en": "It tried to jam POKéMON\\ndoing well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Tentou atrapalhar as\\nCAPTURAS que iam bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA918",
+  "en": "The standout {STR_VAR_1}\\nhustled even more.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1}, em destaque, se\\nesforçou ainda mais.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA947",
+  "en": "The largely unnoticed\\n{STR_VAR_1} worked hard.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Mesmo sem chamar atenção,\\n{STR_VAR_1} se esforçou.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA979",
+  "en": "It worked as much as\\nPOKéMON before it.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Se saiu tão bem quanto as\\nCAPTURAS anteriores.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA9AD",
+  "en": "{STR_VAR_1}'s appeal did\\nnot go well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nnão foi bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FA9D6",
+  "en": "It worked as much as the\\npreceding POKéMON.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Se saiu tão bem quanto a\\nCAPTURA anterior.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAA0E",
+  "en": "{STR_VAR_1}'s appeal did\\nnot go well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nnão foi bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAA37",
+  "en": "{STR_VAR_1}'s appeal did\\nnot go well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nnão foi bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAA60",
+  "en": "{STR_VAR_1}'s appeal\\nwent slightly well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nfoi razoável.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAA8C",
+  "en": "{STR_VAR_1}'s appeal\\nwent pretty well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nfoi bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAAB6",
+  "en": "{STR_VAR_1}'s appeal\\nwent excellently.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nfoi excelente.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAAE0",
+  "en": "{STR_VAR_1}'s appeal was\\na dud.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nfoi um fiasco.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAB03",
+  "en": "{STR_VAR_1}'s appeal did\\nnot work very well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nnão funcionou muito bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAB33",
+  "en": "{STR_VAR_1}'s appeal\\nwent slightly well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nfoi razoável.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAB5F",
+  "en": "{STR_VAR_1}'s appeal\\nwent pretty well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nfoi bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAB89",
+  "en": "{STR_VAR_1}'s appeal\\nwent very well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nfoi muito bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FABB1",
+  "en": "{STR_VAR_1}'s appeal\\nwent excellently.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A apresentação de {STR_VAR_1}\\nfoi excelente.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FABDB",
+  "en": "It's the same type as the\\nPOKéMON before--good!{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "É do mesmo tipo da CAPTURA\\nanterior--boa!{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAC17",
+  "en": "It's not the same type as\\nthe one before--good!{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Não é do mesmo tipo da\\nanterior--boa!{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAC53",
+  "en": "It stood out much more\\nthan the POKéMON before.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Se destacou muito mais que\\na CAPTURA anterior.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAC8F",
+  "en": "It didn't do as well as the\\nPOKéMON before.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Não foi tão bem quanto a\\nCAPTURA anterior.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FACC7",
+  "en": "{STR_VAR_1}'s condition\\nrose above usual.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A condição de {STR_VAR_1}\\nficou acima do normal.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FACF4",
+  "en": "{STR_VAR_1}'s hot status\\nmade it a great appeal!{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1}, em alta, fez uma\\ngrande apresentação!{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAD28",
+  "en": "It moved up in line for\\nthe next appeal.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Subiu na fila para a\\npróxima apresentação.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAD5D",
+  "en": "It moved back in line once\\nfor the next appeal.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Desceu uma posição na fila\\npara a próxima vez.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAD99",
+  "en": "It scrambled up the\\norder for the next turn.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Embaralhou a ordem da\\npróxima rodada.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FADD2",
+  "en": "The JUDGE looked at\\n{STR_VAR_1} expectantly.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "O JUIZ olhou para {STR_VAR_1}\\ncheio de expectativa.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAE02",
+  "en": "The appeal combo went\\nover well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "O combo de apresentações\\nfoi bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAE2F",
+  "en": "The appeal combo went\\nover very well.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "O combo de apresentações\\nfoi muito bem.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAE61",
+  "en": "The appeal combo went\\nover excellently.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "O combo de apresentações\\nfoi excelente.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAE95",
+  "en": "{STR_VAR_1} managed to\\navert its gaze.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} conseguiu desviar\\no olhar.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAEBF",
+  "en": "{STR_VAR_1} managed to\\navoid seeing it.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} conseguiu não\\nolhar.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAEEA",
+  "en": "{STR_VAR_1} isn't fazed\\nby that sort of thing.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} não liga para esse\\ntipo de coisa.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAF1C",
+  "en": "{STR_VAR_1} became a\\nlittle distracted.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} se distraiu um\\npouco.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAF47",
+  "en": "It tried to startle the\\nother POKéMON.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Tentou assustar as outras\\nCAPTURAS.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAF7A",
+  "en": "{STR_VAR_1} looked down\\nout of distraction.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} se distraiu e\\nolhou para baixo.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAFA9",
+  "en": "{STR_VAR_1} turned back\\nout of distraction.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} se distraiu e\\nvirou de costas.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FAFD8",
+  "en": "{STR_VAR_1} couldn't help\\nuttering a cry.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} não conseguiu\\nsegurar um grito.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB005",
+  "en": "{STR_VAR_1} couldn't help\\nleaping up.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} não conseguiu\\nevitar dar um pulo.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB02E",
+  "en": "{STR_VAR_1} tripped over\\nout of distraction.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} se distraiu e\\ntropeçou.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB05E",
+  "en": "{STR_VAR_1} was too\\nnervous to move.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} travou de\\nnervosismo.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB086",
+  "en": "But it messed up.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Mas se atrapalhou toda.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB0A4",
+  "en": "But it failed to make\\nthe target nervous.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Mas não conseguiu deixar o\\nalvo nervoso.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB0DA",
+  "en": "But it failed to make\\nanyone nervous.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Mas não conseguiu deixar\\nninguém nervoso.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB10C",
+  "en": "But it was ignored…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Mas ninguém deu bola…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB12C",
+  "en": "But it couldn't improve\\nits condition…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Mas não conseguiu\\nmelhorar a condição…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB15F",
+  "en": "Its bad condition\\nresulted in a weak appeal.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A condição ruim resultou\\nnuma apresentação fraca.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB198",
+  "en": "{STR_VAR_1} was\\nunaffected.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} nem se abalou.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB1B7",
+  "en": "{STR_VAR_1} disappointed\\nby repeating an appeal.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} decepcionou ao\\nrepetir uma apresentação.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB1EB",
+  "en": "{STR_VAR_1}'s {STR_VAR_3}\\nwent over great.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_3} de {STR_VAR_1} fez\\nmuito sucesso.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB210",
+  "en": "{STR_VAR_1}'s {STR_VAR_3}\\ndidn't go over well here…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_3} de {STR_VAR_1} não\\nagradou aqui…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB23E",
+  "en": "{STR_VAR_1}'s {STR_VAR_3}\\ngot the crowd going.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_3} de {STR_VAR_1}\\nempolgou a plateia.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB267",
+  "en": "{STR_VAR_1} can't appeal\\nnext turn…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "{STR_VAR_1} não se apresenta\\nna próxima rodada…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB28E",
+  "en": "It attracted the crowd's\\nattention.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Chamou a atenção da\\nplateia.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB2BE",
+  "en": "The crowd continues to\\nwatch {STR_VAR_3}.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "A plateia continua de olho\\nem {STR_VAR_3}.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB2EB",
+  "en": "{STR_VAR_1}'s\\n{STR_VAR_2} is ignored.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Ninguém liga para {STR_VAR_2}\\nde {STR_VAR_1}.{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "offset": "02FB30B",
+  "en": "shyness",
+  "pt": "timidez"
+ },
+ {
+  "offset": "02FB313",
+  "en": "anxiety",
+  "pt": "ansiedade"
+ },
+ {
+  "offset": "02FB31B",
+  "en": "laziness",
+  "pt": "preguiça"
+ },
+ {
+  "offset": "02FB324",
+  "en": "hesitancy",
+  "pt": "hesitação"
+ },
+ {
+  "offset": "02FB32E",
+  "en": "fear",
+  "pt": "medo"
+ },
+ {
+  "offset": "02FB333",
+  "en": "coolness",
+  "pt": "estilo"
+ },
+ {
+  "offset": "02FB33C",
+  "en": "beauty",
+  "pt": "beleza"
+ },
+ {
+  "offset": "02FB343",
+  "en": "cuteness",
+  "pt": "fofura"
+ },
+ {
+  "offset": "02FB34C",
+  "en": "smartness",
+  "pt": "inteligência"
+ },
+ {
+  "offset": "02FB356",
+  "en": "toughness",
+  "pt": "garra"
+ },
+ {
+  "offset": "02FB368",
+  "en": "COOL Move",
+  "pt": "Golpe de ESTILO"
+ },
+ {
+  "offset": "02FB372",
+  "en": "BEAUTY Move",
+  "pt": "Golpe de BELEZA"
+ },
+ {
+  "offset": "02FB37E",
+  "en": "CUTE Move",
+  "pt": "Golpe de FOFURA"
+ },
+ {
+  "offset": "02FB388",
+  "en": "SMART Move",
+  "pt": "Golpe de INTELIGÊNCIA"
+ },
+ {
+  "offset": "02FB393",
+  "en": "TOUGH Move",
+  "pt": "Golpe de GARRA"
+ },
+ {
+  "offset": "02FB3AE",
+  "en": "Link standby!",
+  "pt": "Aguardando conexão!"
+ },
+ {
+  "offset": "02FB4F3",
+  "en": "NORMAL RANK",
+  "pt": "NÍVEL NORMAL",
+  "max_width": 69
+ },
+ {
+  "offset": "02FB4FF",
+  "en": "SUPER RANK",
+  "pt": "NÍVEL SUPER",
+  "max_width": 63
+ },
+ {
+  "offset": "02FB50A",
+  "en": "HYPER RANK",
+  "pt": "NÍVEL HIPER",
+  "max_width": 63
+ },
+ {
+  "offset": "02FB515",
+  "en": "MASTER RANK",
+  "pt": "NÍVEL MESTRE",
+  "max_width": 69
+ },
+ {
+  "offset": "02FB521",
+  "en": "LINK",
+  "pt": "LINK",
+  "max_width": 30
+ },
+ {
+  "offset": "02FB526",
+  "en": "COOLNESS",
+  "pt": "ESTILO",
+  "max_width": 54
+ },
+ {
+  "offset": "02FB52F",
+  "en": "BEAUTY",
+  "pt": "BELEZA",
+  "max_width": 42
+ },
+ {
+  "offset": "02FB536",
+  "en": "CUTENESS",
+  "pt": "FOFURA",
+  "max_width": 54
+ },
+ {
+  "offset": "02FB53F",
+  "en": "SMARTNESS",
+  "pt": "INTELIG.",
+  "max_width": 60
+ },
+ {
+  "offset": "02FB549",
+  "en": "TOUGHNESS",
+  "pt": "GARRA",
+  "max_width": 60
+ },
+ {
+  "offset": "02FB553",
+  "en": "Nonstop supercool--\\nthe inestimable {STR_VAR_1}",
+  "pt": "Estilo sem limites:\\n{STR_VAR_1}, de valor inestimável"
+ },
+ {
+  "offset": "02FB57A",
+  "en": "Hey, there!\\nThe good-looking POKéMON {STR_VAR_1}",
+  "pt": "Olha só!\\nA bela CAPTURA {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB5A2",
+  "en": "The marvelous, wonderful, and\\nvery great {STR_VAR_1}",
+  "pt": "Maravilha, esplendor e\\ngrandeza: {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB5CE",
+  "en": "This century's last Venus--\\nthe beautiful {STR_VAR_1}",
+  "pt": "A última Vênus do século:\\n{STR_VAR_1}, pura beleza"
+ },
+ {
+  "offset": "02FB5FB",
+  "en": "{STR_VAR_1}'s dazzling,\\nglittering smile",
+  "pt": "O sorriso deslumbrante\\ne radiante de {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB61B",
+  "en": "POKéMON CENTER's super idol--\\nthe incomparable {STR_VAR_1}",
+  "pt": "Superídolo do CENTRO CAPTURA:\\n{STR_VAR_1}, incomparável"
+ },
+ {
+  "offset": "02FB64D",
+  "en": "The lovely and sweet {STR_VAR_1}",
+  "pt": "Pura doçura: {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB665",
+  "en": "The pretty {STR_VAR_1}'s\\nwinning portrait",
+  "pt": "O retrato vencedor da\\ngracinha {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB686",
+  "en": "Give us a wink!\\nThe cutie POKéMON {STR_VAR_1}",
+  "pt": "Dá uma piscadinha!\\nA CAPTURA fofinha {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB6AB",
+  "en": "The smartness maestro--\\nthe wise POKéMON {STR_VAR_1}",
+  "pt": "Mestre da inteligência:\\na sábia CAPTURA {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB6D7",
+  "en": "{STR_VAR_1}--the one chosen\\nabove all POKéMON",
+  "pt": "{STR_VAR_1}: a escolhida entre\\ntodas as CAPTURAS"
+ },
+ {
+  "offset": "02FB6FC",
+  "en": "The excellent {STR_VAR_1}'s\\nmoment of elegance",
+  "pt": "Um momento de pura\\nelegância de {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB722",
+  "en": "The powerfully muscular\\nspeedster {STR_VAR_1}",
+  "pt": "Puro músculo e velocidade:\\n{STR_VAR_1}"
+ },
+ {
+  "offset": "02FB747",
+  "en": "The strong, stronger, and\\nstrongest {STR_VAR_1}",
+  "pt": "Forte, mais forte e\\nimbatível: {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB76E",
+  "en": "The mighty tough\\nhyper POKéMON {STR_VAR_1}",
+  "pt": "A CAPTURA hiperpoderosa\\ne durona {STR_VAR_1}"
+ },
+ {
+  "offset": "02FB790",
+  "en": "ODDISH",
+  "pt": "ODDISH",
+  "max_width": 42
+ },
+ {
+  "offset": "02FB797",
+  "en": "POOCHYENA",
+  "pt": "POOCHYENA",
+  "max_width": 60
+ },
+ {
+  "offset": "02FB7A1",
+  "en": "TAILLOW",
+  "pt": "TAILLOW",
+  "max_width": 48
+ },
+ {
+  "offset": "02FB7A9",
+  "en": "AZURILL",
+  "pt": "AZURILL",
+  "max_width": 48
+ },
+ {
+  "offset": "02FB7B1",
+  "en": "LOTAD",
+  "pt": "LOTAD",
+  "max_width": 36
+ },
+ {
+  "offset": "02FB7B7",
+  "en": "WINGULL",
+  "pt": "WINGULL",
+  "max_width": 48
+ },
+ {
+  "offset": "02FB7BF",
+  "en": "DUSTOX",
+  "pt": "DUSTOX",
+  "max_width": 42
+ },
+ {
+  "offset": "02FB7C6",
+  "en": "ZUBAT",
+  "pt": "ZUBAT",
+  "max_width": 36
+ },
+ {
+  "offset": "02FB7CC",
+  "en": "NINCADA",
+  "pt": "NINCADA",
+  "max_width": 48
+ },
+ {
+  "offset": "02FB7D4",
+  "en": "RALTS",
+  "pt": "RALTS",
+  "max_width": 36
+ },
+ {
+  "offset": "02FB7DA",
+  "en": "ZIGZAGOON",
+  "pt": "ZIGZAGOON",
+  "max_width": 60
+ },
+ {
+  "offset": "02FB7E4",
+  "en": "SLAKOTH",
+  "pt": "SLAKOTH",
+  "max_width": 48
+ },
+ {
+  "offset": "02FB7EC",
+  "en": "POOCHYENA",
+  "pt": "POOCHYENA",
+  "max_width": 60
+ },
+ {
+  "offset": "02FB7F6",
+  "en": "SHROOMISH",
+  "pt": "SHROOMISH",
+  "max_width": 60
+ },
+ {
+  "offset": "02FB800",
+  "en": "ZIGZAGOON",
+  "pt": "ZIGZAGOON",
+  "max_width": 60
+ },
+ {
+  "offset": "02FB80A",
+  "en": "POOCHYENA",
+  "pt": "POOCHYENA",
+  "max_width": 60
+ },
+ {
+  "offset": "02FB814",
+  "en": "ZUBAT",
+  "pt": "ZUBAT",
+  "max_width": 36
+ },
+ {
+  "offset": "02FB81A",
+  "en": "CARVANHA",
+  "pt": "CARVANHA",
+  "max_width": 54
+ },
+ {
+  "offset": "02FB823",
+  "en": "BURN HEAL",
+  "pt": "ANTIQUEIM.",
+  "max_width": 57
+ },
+ {
+  "offset": "02FB82D",
+  "en": "HARBOR MAIL",
+  "pt": "CARTA PORTO",
+  "max_width": 69
+ },
+ {
+  "offset": "02FB839",
+  "en": "Same price",
+  "pt": "Mesmo preço"
+ },
+ {
+  "offset": "02FB84C",
+  "en": "Nothing",
+  "pt": "Nada"
+ },
+ {
+  "offset": "02FB854",
+  "en": "They will cost more.",
+  "pt": "Vão custar mais."
+ },
+ {
+  "offset": "02FB869",
+  "en": "They will cost less.",
+  "pt": "Vão custar menos."
+ },
+ {
+  "offset": "02FB87E",
+  "en": "Same price",
+  "pt": "Mesmo preço"
+ },
+ {
+  "offset": "02FB889",
+  "en": "Male",
+  "pt": "Homens"
+ },
+ {
+  "offset": "02FB88E",
+  "en": "Female",
+  "pt": "Mulheres"
+ },
+ {
+  "offset": "02FB895",
+  "en": "Neither",
+  "pt": "Igual"
+ },
+ {
+  "offset": "02FB89D",
+  "en": "Elderly men",
+  "pt": "Senhores"
+ },
+ {
+  "offset": "02FB8A9",
+  "en": "Elderly ladies",
+  "pt": "Senhoras"
+ },
+ {
+  "offset": "02FB8B8",
+  "en": "Same number",
+  "pt": "Mesmo número"
+ },
+ {
+  "offset": "02FB8C4",
+  "en": "None",
+  "pt": "Nenhuma"
+ },
+ {
+  "offset": "02FBD49",
+  "en": "Yeah!\\nIt's BRAVO TRAINER time!\\pToday, we're going to profile a POKéMON\\nbelonging to {STR_VAR_1}.\\pNow, this POKéMON boasts a {STR_VAR_3}\\nRank in the {STR_VAR_2} Category.",
+  "pt": "Isso aí! É hora do BRAVO TREINADOR!\\pHoje vamos apresentar o perfil de uma CAPTURA de {STR_VAR_1}.\\pEsta CAPTURA ostenta o nível {STR_VAR_3} na categoria {STR_VAR_2}."
+ },
+ {
+  "offset": "02FBDD8",
+  "en": "Introducing {STR_VAR_2} the\\n{STR_VAR_1}!\\pThe nickname {STR_VAR_2}…\\pEven the nickname exudes an air that\\nproclaims “{STR_VAR_3}”!",
+  "pt": "Apresentamos o {STR_VAR_1} {STR_VAR_2}!\\pO apelido {STR_VAR_2}…\\pAté o apelido transmite um ar que proclama “{STR_VAR_3}”!"
+ },
+ {
+  "offset": "02FBE35",
+  "en": "Anyway, when the TRAINER {STR_VAR_1}\\nentered the POKéMON in a CONTEST,\\lwe managed to get a few impassioned\\lquotes about the trusty partner.",
+  "pt": "Enfim, quando o TREINADOR {STR_VAR_1} inscreveu a CAPTURA num CONCURSO, conseguimos algumas declarações apaixonadas sobre a fiel parceira."
+ },
+ {
+  "offset": "02FBEB8",
+  "en": "Asked about the CONTEST afterwards,\\n{STR_VAR_1} happily replied with a huge\\lgrin, “{STR_VAR_2}!”\\pWell, sure, {STR_VAR_1}'s POKéMON came in\\nnumber {STR_VAR_3} in the CONTEST.\\pThat line perfectly suits {STR_VAR_1}\\nright now, I'd say!",
+  "pt": "Quando perguntamos sobre o CONCURSO depois, {STR_VAR_1} respondeu feliz, com um sorrisão: “{STR_VAR_2}!”\\pBem, claro, a CAPTURA de {STR_VAR_1} ficou na posição {STR_VAR_3} no CONCURSO.\\pEu diria que essa frase combina perfeitamente com {STR_VAR_1} agora!"
+ },
+ {
+  "offset": "02FBF73",
+  "en": "Asked about the CONTEST afterwards,\\n{STR_VAR_1} replied with a tinge of\\lbitterness, “{STR_VAR_2}.”\\pWell, sure, {STR_VAR_1}'s POKéMON came in\\nnumber {STR_VAR_3} in the CONTEST.\\p{STR_VAR_1}'s disappointment comes across\\nloud and clear, I'd say!",
+  "pt": "Quando perguntamos sobre o CONCURSO depois, {STR_VAR_1} respondeu com uma pontinha de amargura: “{STR_VAR_2}.”\\pBem, claro, a CAPTURA de {STR_VAR_1} ficou na posição {STR_VAR_3} no CONCURSO.\\pEu diria que a decepção de {STR_VAR_1} ficou bem clara!"
+ },
+ {
+  "offset": "02FC039",
+  "en": "Wouldn't you also like to know what\\n{STR_VAR_1} imagines {STR_VAR_2} to be?\\pYou bet we did!\\nSo we asked, of course!\\pThe answer is all perfectly condensed:\\n“{STR_VAR_3}!”\\pThat's what the concept of {STR_VAR_2}\\nrepresents to {STR_VAR_1}!",
+  "pt": "Você também não gostaria de saber o que {STR_VAR_1} imagina quando pensa em {STR_VAR_2}?\\pPode apostar que nós queríamos! Então, claro, perguntamos!\\pA resposta, perfeitamente resumida: “{STR_VAR_3}!”\\pÉ isso que o conceito de {STR_VAR_2} representa para {STR_VAR_1}!"
+ },
+ {
+  "offset": "02FC0F8",
+  "en": "The last move {STR_VAR_2} used by\\nthe {STR_VAR_1} is entirely about\\l“{STR_VAR_3}”!",
+  "pt": "O último golpe que o {STR_VAR_1} usou, {STR_VAR_2}, é puro “{STR_VAR_3}”!"
+ },
+ {
+  "offset": "02FC130",
+  "en": "Bravo, {STR_VAR_1}!\\nBravo, {STR_VAR_2}!\\pI hope we can count on seeing\\n{STR_VAR_1} scale even greater heights!\\pThat's all the time we have!\\nUntil next time, see you!",
+  "pt": "Bravo, {STR_VAR_1}! Bravo, {STR_VAR_2}!\\pEspero que a gente possa contar com {STR_VAR_1} alcançando alturas ainda maiores!\\pNosso tempo acabou! Até a próxima, tchau!"
+ },
+ {
+  "offset": "02FC1BA",
+  "en": "Introducing the TRAINER's {STR_VAR_1}!",
+  "pt": "Apresentamos o {STR_VAR_1} do TREINADOR!"
+ },
+ {
+  "offset": "02FC5F4",
+  "en": "Yeah!\\nIt's BRAVO TRAINER time!\\pToday, we're going to profile {STR_VAR_1},\\nwho took the BATTLE TOWER challenge!\\pFor the challenge, {STR_VAR_1} entered\\none wicked {STR_VAR_2}.",
+  "pt": "Isso aí! É hora do BRAVO TREINADOR!\\pHoje vamos apresentar o perfil de {STR_VAR_1}, que encarou o desafio da TORRE DE BATALHA!\\pPara o desafio, {STR_VAR_1} inscreveu um baita {STR_VAR_2}."
+ },
+ {
+  "offset": "02FC687",
+  "en": "The pair set a new record of {STR_VAR_2} wins\\nin a row in {STR_VAR_1} competition!\\lBravo, TRAINER!",
+  "pt": "A dupla bateu um novo recorde de {STR_VAR_2} vitórias seguidas na competição {STR_VAR_1}! Bravo, TREINADOR!"
+ },
+ {
+  "offset": "02FC6D8",
+  "en": "The twosome finally succumbed to\\n{STR_VAR_1} in match number {STR_VAR_2}.\\lNice try, TRAINER!\\pBut, hey, it's just bad luck to run into\\n{STR_VAR_1} so early in the challenge.\\pWe asked the TRAINER for impressions\\non the match with {STR_VAR_1}.",
+  "pt": "A dupla finalmente caiu diante de {STR_VAR_1} na partida número {STR_VAR_2}. Boa tentativa, TREINADOR!\\pMas, ei, é só azar dar de cara com {STR_VAR_1} tão cedo no desafio.\\pPedimos ao TREINADOR as suas impressões sobre a partida contra {STR_VAR_1}."
+ },
+ {
+  "offset": "02FC7A5",
+  "en": "The twosome won it all by defeating\\n{STR_VAR_1}'s {STR_VAR_2} thoroughly.\\lBravo, TRAINER!\\pKnocking off even {STR_VAR_1}…\\nIt defies belief! Simply astounding!\\pWe asked the TRAINER for impressions\\non the moment of glory.",
+  "pt": "A dupla levou tudo ao derrotar completamente o {STR_VAR_2} de {STR_VAR_1}. Bravo, TREINADOR!\\pDerrubar até {STR_VAR_1}… É inacreditável! Simplesmente impressionante!\\pPedimos ao TREINADOR as suas impressões sobre o momento de glória."
+ },
+ {
+  "offset": "02FC865",
+  "en": "After a string of wins, the pair finally\\nsuccumbed to {STR_VAR_1}'s {STR_VAR_2},\\ltheir final hurdle.\\pNice try, TRAINER!\\pStill, you have to give credit.\\nYou don't see many famous combinations\\llike {STR_VAR_1} and {STR_VAR_2}.\\pWe asked the TRAINER for impressions\\non battling the celebrity pair.",
+  "pt": "Depois de uma série de vitórias, a dupla finalmente caiu diante do {STR_VAR_2} de {STR_VAR_1}, o último obstáculo.\\pBoa tentativa, TREINADOR!\\pAinda assim, é preciso dar o crédito. Não se veem muitas combinações famosas como {STR_VAR_1} e {STR_VAR_2}.\\pPedimos ao TREINADOR as suas impressões sobre a batalha contra a dupla famosa."
+ },
+ {
+  "offset": "02FC967",
+  "en": "This is what the TRAINER had to say:\\n“I'm satisfied!”\\pNow isn't that a refreshing reply?\\nBravo, TRAINER!\\pIsn't it out-and-out awesome to be\\nable to battle to full satisfaction?\\pI found out exactly how satisfied\\nwhen I heard the TRAINER say this:",
+  "pt": "Foi isto que o TREINADOR disse: “Estou satisfeito!”\\pNão é uma resposta revigorante? Bravo, TREINADOR!\\pNão é simplesmente incrível poder batalhar até ficar totalmente satisfeito?\\pDescobri o quanto o TREINADOR estava satisfeito quando o ouvi dizer isto:"
+ },
+ {
+  "offset": "02FCA5D",
+  "en": "This is what the TRAINER had to say:\\n“I'm not satisfied…”\\pOur TRAINER was obviously a little down\\nwhen that was uttered.\\pStill, it's not easy to be able to battle\\nwith complete satisfaction, am I right?\\pAnyway, I found out how dissatisfied\\nour TRAINER was when I heard this:",
+  "pt": "Foi isto que o TREINADOR disse: “Não estou satisfeito…”\\pO nosso TREINADOR estava obviamente um pouco abatido ao dizer isso.\\pAinda assim, não é fácil batalhar com satisfação completa, não é mesmo?\\pEnfim, descobri o quanto o nosso TREINADOR estava insatisfeito quando o ouvi dizer isto:"
+ },
+ {
+  "offset": "02FCB70",
+  "en": "None",
+  "pt": "Nenhuma"
+ },
+ {
+  "offset": "02FCB75",
+  "en": "None",
+  "pt": "Nenhuma"
+ },
+ {
+  "offset": "02FCB7A",
+  "en": "None",
+  "pt": "Nenhuma"
+ },
+ {
+  "offset": "02FCB7F",
+  "en": "None",
+  "pt": "Nenhuma"
+ },
+ {
+  "offset": "02FCB8A",
+  "en": "“{STR_VAR_1}.”\\nNow isn't that great?\\pIt really expresses {STR_VAR_2}'s joy,\\nI'd say.\\pThat battle with {STR_VAR_3} at the\\nend… It really was what you'd call\\l“{STR_VAR_1}”!",
+  "pt": "“{STR_VAR_1}.” Não é demais?\\pEu diria que isso expressa bem a alegria de {STR_VAR_2}.\\pAquela batalha contra {STR_VAR_3} no final… Foi mesmo o que se pode chamar de “{STR_VAR_1}”!"
+ },
+ {
+  "offset": "02FCC11",
+  "en": "“{STR_VAR_1}.”\\nNow isn't that fitting?\\pThat battle with {STR_VAR_3} at the\\nend… You can't describe it as anything\\lelse but “{STR_VAR_1}”!\\p{STR_VAR_2}'s disappointment comes across\\nloud and clear, I'd say!",
+  "pt": "“{STR_VAR_1}.” Não é bem apropriado?\\pAquela batalha contra {STR_VAR_3} no final… Não dá para descrevê-la de outro jeito a não ser “{STR_VAR_1}”!\\pEu diria que a decepção de {STR_VAR_2} ficou bem clara!"
+ },
+ {
+  "offset": "02FCCBA",
+  "en": "Bravo, {STR_VAR_1}!\\nBravo, {STR_VAR_2}!\\pI hope we can count on seeing\\n{STR_VAR_1} scale even greater heights!\\pThat's all the time we have!\\nUntil next time, see you!",
+  "pt": "Bravo, {STR_VAR_1}! Bravo, {STR_VAR_2}!\\pEspero que a gente possa contar com {STR_VAR_1} alcançando alturas ainda maiores!\\pNosso tempo acabou! Até a próxima, tchau!"
+ },
+ {
+  "offset": "02FD35A",
+  "en": "WE ARE THE POKéMON FAN CLUB!\\pWe're on the air!\\pOn this program, we get your opinions,\\nand I shout them out on your behalf!\\lIsn't it a fantastic program concept?\\pToday, we bring you this report from\\nour reporter, who we sent out to the\\lPOKéMON FAN CLUB.\\pSo, just who is today's featured\\nPOKéMON fan?\\p… … … … … … … …\\p{STR_VAR_1}!\\pSo, let's hear what {STR_VAR_1} has to\\nsay about {STR_VAR_3} the {STR_VAR_2}.\\pAnd, I will shout those words of love\\nout loud on TV!\\pHoo-hah!\\pLet's shout!",
+  "pt": "NÓS SOMOS O FÃ-CLUBE DE CAPTURAS!\\pEstamos no ar!\\pNeste programa, pegamos as suas opiniões e eu as grito por você! Não é um conceito de programa fantástico?\\pHoje trazemos esta reportagem do nosso repórter, que enviamos ao FÃ-CLUBE DE CAPTURAS.\\pEntão, quem é o fã de CAPTURAS em destaque hoje?\\p… … … … … … … …\\p{STR_VAR_1}!\\pEntão, vamos ouvir o que {STR_VAR_1} tem a dizer sobre o {STR_VAR_2} {STR_VAR_3}.\\pE eu vou gritar essas palavras de amor bem alto na TV!\\pHuu-háá!\\pVamos gritar!"
+ },
+ {
+  "offset": "02FD518",
+  "en": "We asked {STR_VAR_1}, “When you first\\nlaid eyes on your {STR_VAR_2}, what was\\lyour initial thought?”\\p“{STR_VAR_3}!”\\pYeahah! That's a mighty fine shout!\\pDoesn't it bring back memories of those\\ndays long gone by?",
+  "pt": "Perguntamos a {STR_VAR_1}: “Quando você viu o seu {STR_VAR_2} pela primeira vez, qual foi o seu primeiro pensamento?”\\p“{STR_VAR_3}!”\\pIéééé! Que grito excelente!\\pNão traz de volta lembranças de dias que já se foram?"
+ },
+ {
+  "offset": "02FD5D0",
+  "en": "We asked {STR_VAR_1}, “If you were to\\nliken your {STR_VAR_2} to something,\\lit would be…”\\p… … … … … … … …\\p“{STR_VAR_3}!”\\pWhoah-oh, now that's an original idea!\\pYou sure can sense the intensity of\\nfeeling the TRAINER has for\\l{STR_VAR_2}.",
+  "pt": "Perguntamos a {STR_VAR_1}: “Se você fosse comparar o seu {STR_VAR_2} com alguma coisa, seria…”\\p… … … … … … … …\\p“{STR_VAR_3}!”\\pUou-ou, essa é uma ideia original!\\pDá mesmo para sentir a intensidade do que o TREINADOR sente pelo {STR_VAR_2}."
+ },
+ {
+  "offset": "02FD698",
+  "en": "And let's see…\\nWhat was it about that {STR_VAR_2}\\lthat so attracted {STR_VAR_1}?\\p… … … … … … … …\\p“{STR_VAR_3}!”\\pWhoa! Such a spectacular declaration!\\pThe TRAINER's love for the {STR_VAR_2}\\ncomes across loud and clear!",
+  "pt": "E vejamos… O que será que atraiu tanto {STR_VAR_1} nesse {STR_VAR_2}?\\p… … … … … … … …\\p“{STR_VAR_3}!”\\pUau! Que declaração espetacular!\\pO amor do TREINADOR pelo {STR_VAR_2} fica bem claro!"
+ },
+ {
+  "offset": "02FD74E",
+  "en": "Hm? Oh, there's still more.\\nLet's check it out!\\pLet me see, now…\\pWe asked {STR_VAR_1}, “What do POKéMON\\nmean to you?”\\p… … … … … …\\p“{STR_VAR_3}!”\\pBravo!\\pThat's the best shout I've had all day!\\p“{STR_VAR_3}!”\\pIt makes you want to shout it out loud\\nagain and again!\\pNow that we've had a great shout, it's\\ntime to say good-bye until next time!\\pSo, let's all have one last shout!\\nAll together now…\\p“{STR_VAR_3}!”",
+  "pt": "Hm? Ah, ainda tem mais. Vamos conferir!\\pDeixa eu ver…\\pPerguntamos a {STR_VAR_1}: “O que as CAPTURAS significam para você?”\\p… … … … … …\\p“{STR_VAR_3}!”\\pBravo!\\pÉ o melhor grito que ouvi o dia todo!\\p“{STR_VAR_3}!”\\pDá vontade de gritar isso bem alto de novo e de novo!\\pAgora que demos um belo grito, é hora de dizer tchau até a próxima!\\pEntão, vamos dar um último grito! Todos juntos agora…\\p“{STR_VAR_3}!”"
+ },
+ {
+  "offset": "02FD8C2",
+  "en": "WE ARE THE POKéMON FAN CLUB!\\pWe're on the air!\\pToday, we'll get rolling with the\\nPOKéMON SURVEY CORNER.\\pOut of all the tales woven by POKéMON\\nand TRAINERS, what startling new drama\\lwill grab our attention today?\\pLet me see…\\pThis one!\\pWe'll start with this letter!\\pIt's a letter from {STR_VAR_1} about a\\nbeloved {STR_VAR_2}.\\pLet's see how passionately our writer\\ncan express love for the {STR_VAR_2}!\\lHmhm…",
+  "pt": "NÓS SOMOS O FÃ-CLUBE DE CAPTURAS!\\pEstamos no ar!\\pHoje vamos começar com o CANTO DA PESQUISA DAS CAPTURAS.\\pDe todas as histórias vividas por CAPTURAS e TREINADORES, que novo drama surpreendente vai chamar a nossa atenção hoje?\\pDeixa eu ver…\\pEsta aqui!\\pVamos começar com esta carta!\\pÉ uma carta de {STR_VAR_1} sobre um querido {STR_VAR_2}.\\pVamos ver com quanta paixão quem escreveu consegue expressar o amor pelo {STR_VAR_2}! Hmhm…"
+ },
+ {
+  "offset": "02FDA3D",
+  "en": "Whoah!\\nWhat an amazing letter!",
+  "pt": "Uau! Que carta incrível!"
+ },
+ {
+  "offset": "02FDA5C",
+  "en": "I loved it, so here it is again!",
+  "pt": "Eu adorei, então lá vai de novo!"
+ },
+ {
+  "offset": "02FDA7D",
+  "en": "A great letter bears reading over\\nand over!",
+  "pt": "Uma ótima carta merece ser lida várias e várias vezes!"
+ },
+ {
+  "offset": "02FDAA9",
+  "en": "The bit “{STR_VAR_3},” that really\\naccentuates emotional impact!\\pIt's a great letter that has real\\nheartfelt depth!",
+  "pt": "O trecho “{STR_VAR_3}” realmente realça o impacto emocional!\\pÉ uma ótima carta, com uma profundidade sincera de verdade!"
+ },
+ {
+  "offset": "02FDB14",
+  "en": "Especially that “{STR_VAR_3}” bit!\\pI love how “{STR_VAR_3}” is used!",
+  "pt": "Principalmente aquele trecho “{STR_VAR_3}”!\\pAdoro como “{STR_VAR_3}” foi usado!"
+ },
+ {
+  "offset": "02FDB47",
+  "en": "By the way, and it's not important,\\nbut “{STR_VAR_3}” is a great saying.\\pI've been using “{STR_VAR_3}” a lot\\nin conversations lately.",
+  "pt": "A propósito, e nem é importante, mas “{STR_VAR_3}” é uma ótima expressão.\\pAndo usando muito “{STR_VAR_3}” nas conversas ultimamente."
+ },
+ {
+  "offset": "02FDBBB",
+  "en": "If I had to score this letter,\\nI'd give it {STR_VAR_3} points.\\pNext time, I'll be expecting an even\\nbetter letter, {STR_VAR_1}!\\pA-whoops, will you look at the time?\\nTime to say good-bye until next time!",
+  "pt": "Se eu tivesse que dar uma nota para esta carta, daria {STR_VAR_3} pontos.\\pDa próxima vez, vou esperar uma carta ainda melhor, {STR_VAR_1}!\\pEpa, já viu que horas são? Hora de dizer tchau até a próxima!"
+ },
+ {
+  "offset": "02FDF72",
+  "en": "Hello, it's time for RECENT HAPPENINGS.\\pFor POKéMON TRAINERS, every day\\nis a storybook tale.\\pWhat we want to do is to introduce you\\nto some of these POKéMON tales.\\pToday, we bring you the story\\nof the TRAINER {STR_VAR_1}.\\pWhat did {STR_VAR_1} experience recently?\\nLet's find out.\\pLet's see…",
+  "pt": "Olá, é hora de ACONTECIMENTOS RECENTES.\\pPara os TREINADORES, todo dia é um conto de livro.\\pO que queremos é apresentar a vocês alguns desses contos de CAPTURAS.\\pHoje, trazemos a história do TREINADOR {STR_VAR_1}.\\pO que {STR_VAR_1} viveu recentemente? Vamos descobrir.\\pVejamos…"
+ },
+ {
+  "offset": "02FE083",
+  "en": "Wasn't that enlightening?\\pThe story gives you a clear idea of what\\n{STR_VAR_1} has experienced recently.\\lIt's as if we were there as witnesses!",
+  "pt": "Não foi esclarecedor?\\pA história dá uma ideia clara do que {STR_VAR_1} viveu recentemente. É como se estivéssemos lá como testemunhas!"
+ },
+ {
+  "offset": "02FE10A",
+  "en": "“{STR_VAR_3}.” That\\naccents the tale and gives it depth.",
+  "pt": "“{STR_VAR_3}.” Isso realça o conto e lhe dá profundidade."
+ },
+ {
+  "offset": "02FE13A",
+  "en": "“{STR_VAR_3}.”\\nThat gives the tale a sense of place.\\lIt lets us envision the tale's setting.",
+  "pt": "“{STR_VAR_3}.” Isso dá ao conto uma noção de lugar. Dá para imaginar o cenário do conto."
+ },
+ {
+  "offset": "02FE18E",
+  "en": "The “{STR_VAR_3}”\\nsection of the tale is very expressive.",
+  "pt": "O trecho “{STR_VAR_3}” do conto é muito expressivo."
+ },
+ {
+  "offset": "02FE1BF",
+  "en": "{STR_VAR_1} has recounted a wonderful\\ntale involving POKéMON.\\pAnd now {STR_VAR_1}'s tale is indelibly\\netched into your soul, too.\\pThat's it for today.\\nPlease tune in next time.",
+  "pt": "{STR_VAR_1} contou um conto maravilhoso envolvendo CAPTURAS.\\pE agora o conto de {STR_VAR_1} está gravado para sempre na sua alma também.\\pPor hoje é só. Sintonize na próxima, por favor."
+ },
+ {
+  "offset": "02FE25E",
+  "en": "Greetings!\\nIt's time for POKéMON NEWS.\\pWe've just received word of a very\\nrare occurrence.\\pThere have been reports of a mass\\noutbreak of {STR_VAR_2} in the vicinity\\lof {STR_VAR_1}.\\p{STR_VAR_2}, as you're probably aware,\\nis known as a POKéMON that's rare\\land hard to find.\\pIt sounds like a rare opportunity to\\nsee the mystifying outbreak of\\l{STR_VAR_2} in the wild.\\pThat's the news on POKéMON NEWS.",
+  "pt": "Saudações! É hora das NOTÍCIAS CAPTURA.\\pAcabamos de receber a notícia de uma ocorrência muito rara.\\pHá relatos de um surto em massa de {STR_VAR_2} nos arredores de {STR_VAR_1}.\\pComo você provavelmente sabe, {STR_VAR_2} é conhecido como uma CAPTURA rara e difícil de encontrar.\\pParece uma oportunidade rara de ver na natureza o misterioso surto de {STR_VAR_2}.\\pEssas foram as NOTÍCIAS CAPTURA."
+ },
+ {
+  "offset": "02FE49B",
+  "en": "GULPIN: Gubi! Gubii!\\pMC: And the verdict is very {STR_VAR_1}!\\nGULPIN says it tastes “{STR_VAR_2}!”\\pThank you so much, {STR_VAR_3}!",
+  "pt": "GULPIN: Gubi! Gubii!\\pLOCUTOR: E o veredito é: muito {STR_VAR_1}! GULPIN diz que o sabor é “{STR_VAR_2}!”\\pMuito obrigado, {STR_VAR_3}!"
+ },
+ {
+  "offset": "02FE580",
+  "en": "GULPIN: Gubi! Gubii!\\pMC: Hmm… It's too {STR_VAR_1}.\\nGULPIN says it tastes “{STR_VAR_2}!”\\pIt looks like {STR_VAR_3}'s errors\\nhurt the blending quality…",
+  "pt": "GULPIN: Gubi! Gubii!\\pLOCUTOR: Hmm… Está {STR_VAR_1} demais. GULPIN diz que o sabor é “{STR_VAR_2}!”\\pParece que os erros de {STR_VAR_3} prejudicaram a qualidade da mistura…"
+ },
+ {
+  "offset": "02FE5FC",
+  "en": "It's too bad that {STR_VAR_1}'s\\nleading effort went to waste.\\pLet's hope {STR_VAR_2} can turn in\\na better showing next time!",
+  "pt": "Que pena que o ótimo esforço de {STR_VAR_1} foi desperdiçado.\\pVamos torcer para que {STR_VAR_2} tenha um desempenho melhor da próxima vez!"
+ },
+ {
+  "offset": "02FE8CF",
+  "en": "TRAINER FAN CLUB\\n{STR_VAR_1} SPECIAL!\\pThis is a special presentation for\\nthe fans of {STR_VAR_1} all over HOENN!\\pToday, we ask the question, “What do\\npeople think of {STR_VAR_1}?”\\pWe posed the question to {STR_VAR_2}\\nas the TRAINER representative.\\pWe asked, “In one word, how would\\nyou describe {STR_VAR_1}?”\\pThe reply: “{STR_VAR_3}.”\\pKudos to {STR_VAR_2}!\\nWhat a perceptive opinion!\\p“{STR_VAR_3} {STR_VAR_1}.”\\nIt has such a nice ring to it!\\p{STR_VAR_2} also scored {STR_VAR_1}'s\\nstrength from 0 to 100.",
+  "pt": "FÃ-CLUBE DE TREINADORES\\nESPECIAL {STR_VAR_1}!\\pEsta é uma apresentação especial para os fãs de {STR_VAR_1} em toda HOENN!\\pHoje, fazemos a pergunta: “O que as pessoas acham de {STR_VAR_1}?”\\pFizemos a pergunta a {STR_VAR_2}, como representante dos TREINADORES.\\pPerguntamos: “Em uma palavra, como você descreveria {STR_VAR_1}?”\\pA resposta: “{STR_VAR_3}.”\\pParabéns, {STR_VAR_2}! Que opinião perspicaz!\\p“{STR_VAR_3} {STR_VAR_1}.” Soa tão bem!\\p{STR_VAR_2} também deu uma nota de 0 a 100 para a força de {STR_VAR_1}."
+ },
+ {
+  "offset": "02FEA64",
+  "en": "The score was {STR_VAR_3} points!\\nThat is a very high score indeed!\\p{STR_VAR_2} must obviously hold\\n{STR_VAR_1} in very high esteem.",
+  "pt": "A nota foi {STR_VAR_3} pontos! É uma nota altíssima mesmo!\\p{STR_VAR_2} obviamente tem {STR_VAR_1} em altíssima estima."
+ },
+ {
+  "offset": "02FEACE",
+  "en": "The score was {STR_VAR_3} points!\\nThat is quite a good score.\\p{STR_VAR_2} must consider\\n{STR_VAR_1} to be a rival.",
+  "pt": "A nota foi {STR_VAR_3} pontos! É uma nota bem boa.\\p{STR_VAR_2} deve considerar {STR_VAR_1} um rival."
+ },
+ {
+  "offset": "02FEB26",
+  "en": "The score was {STR_VAR_3} points!\\nThat's a rather weak score.\\p{STR_VAR_2} must consider\\n{STR_VAR_1} to be a mere sidekick.",
+  "pt": "A nota foi {STR_VAR_3} pontos! É uma nota bem fraca.\\p{STR_VAR_2} deve considerar {STR_VAR_1} um mero ajudante."
+ },
+ {
+  "offset": "02FEB86",
+  "en": "The score was {STR_VAR_3} point(s)!\\nThat's a terrible score.\\p{STR_VAR_2} must consider\\n{STR_VAR_1} to be an underling.",
+  "pt": "A nota foi {STR_VAR_3} ponto(s)! É uma nota terrível.\\p{STR_VAR_2} deve considerar {STR_VAR_1} um subordinado."
+ },
+ {
+  "offset": "02FEBE2",
+  "en": "There you have it, folks!\\pI think we all learned something\\nnew about {STR_VAR_1}.\\pIn closing, I'll leave you with\\n{STR_VAR_2}'s words.\\p{STR_VAR_3} {STR_VAR_1}!",
+  "pt": "Aí está, pessoal!\\pAcho que todos aprendemos algo novo sobre {STR_VAR_1}.\\pPara encerrar, deixo vocês com as palavras de {STR_VAR_2}.\\p{STR_VAR_3} {STR_VAR_1}!"
+ },
+ {
+  "offset": "02FEC5E",
+  "en": "And now, it's time for…\\nTHE NAME RATER SHOW.\\pI tell your POKéMON's fortune from\\nthe nickname you've bestowed.\\pAdvice is what I have to give, and it is\\nhelpful advice that I offer.\\pToday, I shall do a reading of\\nthe nickname {STR_VAR_3} of {STR_VAR_1}'s\\lPOKéMON {STR_VAR_2}.\\pHmhm…\\pHmm…\\nThis nickname is…",
+  "pt": "E agora, é hora do… SHOW DO AVALIADOR DE NOMES.\\pEu leio a sorte da sua CAPTURA a partir do apelido que você deu.\\pConselhos são o que tenho a dar, e são conselhos úteis que ofereço.\\pHoje, farei a leitura do apelido {STR_VAR_3}, da CAPTURA {STR_VAR_2} de {STR_VAR_1}.\\pHmhm…\\pHmm… Este apelido é…"
+ },
+ {
+  "offset": "02FED72",
+  "en": "A nickname that hints at talent in many\\ndifferent ways.\\pI urge this TRAINER to take courage\\nand take on many challenges.",
+  "pt": "Um apelido que indica talento de muitas formas diferentes.\\pAconselho este TREINADOR a criar coragem e encarar muitos desafios."
+ },
+ {
+  "offset": "02FEDEB",
+  "en": "A nickname that perfectly complements\\n{STR_VAR_1}, the TRAINER's name.\\pIt suggests that you will forge a fine\\npartnership with precise timing.",
+  "pt": "Um apelido que complementa perfeitamente {STR_VAR_1}, o nome do TREINADOR.\\pIndica que vocês vão formar uma bela parceria, com sincronia precisa."
+ },
+ {
+  "offset": "02FEE71",
+  "en": "A nickname fit for a unique individual\\nof a POKéMON!\\pIf raised properly, this POKéMON's\\nuniqueness will bloom excessively!",
+  "pt": "Um apelido digno de uma CAPTURA única!\\pSe for bem criada, a singularidade desta CAPTURA vai florescer ao extremo!"
+ },
+ {
+  "offset": "02FEEEC",
+  "en": "A nickname that will nurture the caring\\nand compassionate side of POKéMON.\\pIf raised properly, this POKéMON will\\ncome to exhibit real warmth!",
+  "pt": "Um apelido que vai nutrir o lado carinhoso e compassivo da CAPTURA.\\pSe for bem criada, esta CAPTURA vai mostrar um carinho de verdade!"
+ },
+ {
+  "offset": "02FEF7A",
+  "en": "A very fine nickname that hints at\\ngreatness to come.\\pI am intrigued about what the future\\nholds in store for this POKéMON.",
+  "pt": "Um apelido muito bom, que indica grandeza no futuro.\\pEstou curioso para saber o que o futuro reserva para esta CAPTURA."
+ },
+ {
+  "offset": "02FEFF6",
+  "en": "A good nickname that should make the\\nPOKéMON hale and hearty!\\pThat POKéMON should remain fit and\\nrobust for a long, long time.",
+  "pt": "Um bom apelido, que deve deixar a CAPTURA forte e saudável!\\pEssa CAPTURA deve continuar em forma e robusta por muito, muito tempo."
+ },
+ {
+  "offset": "02FF075",
+  "en": "A good nickname that should make the\\nPOKéMON very active!\\pI should think that this POKéMON will be\\na strong performer in battles.",
+  "pt": "Um bom apelido, que deve deixar a CAPTURA bem ativa!\\pAcho que esta CAPTURA vai se sair muito bem nas batalhas."
+ },
+ {
+  "offset": "02FF0F7",
+  "en": "An appealing nickname that should make\\nthe POKéMON very charming!\\pI don't doubt that this POKéMON will be\\nquite the charmer in POKéMON CONTESTS.",
+  "pt": "Um apelido atraente, que deve deixar a CAPTURA muito charmosa!\\pNão duvido que esta CAPTURA vá encantar a todos nos CONCURSOS DE CAPTURAS."
+ },
+ {
+  "offset": "02FF188",
+  "en": "The nickname {STR_VAR_1} is rooted by\\nthe letter “{STR_VAR_3}.”\\pThat letter is supported by the first\\nletter “{STR_VAR_2},” which gives it a solid sense\\lof presence as a nickname.",
+  "pt": "O apelido {STR_VAR_1} tem como base a letra “{STR_VAR_3}”.\\pEssa letra é sustentada pela primeira letra, “{STR_VAR_2}”, que dá ao apelido uma sólida sensação de presença."
+ },
+ {
+  "offset": "02FF221",
+  "en": "The nickname {STR_VAR_1} is very\\nshapely in a pleasing manner.\\pThe presence of the letters “{STR_VAR_2}” and\\n“{STR_VAR_3}”--now that is remarkably good!",
+  "pt": "O apelido {STR_VAR_1} tem uma forma muito agradável.\\pA presença das letras “{STR_VAR_2}” e “{STR_VAR_3}”--isso sim é notavelmente bom!"
+ },
+ {
+  "offset": "02FF29F",
+  "en": "The nickname {STR_VAR_1}--it has a\\nsublime, flowing feel to it.\\pThe flow from the initial letter “{STR_VAR_2}” to\\n“{STR_VAR_3}” is especially wonderful.",
+  "pt": "O apelido {STR_VAR_1}--ele tem uma fluidez sublime.\\pA transição da letra inicial “{STR_VAR_2}” para “{STR_VAR_3}” é especialmente maravilhosa."
+ },
+ {
+  "offset": "02FF31D",
+  "en": "Let's examine other examples of fine\\nnicknames, shall we?",
+  "pt": "Vamos examinar outros exemplos de bons apelidos?"
+ },
+ {
+  "offset": "02FF357",
+  "en": "Try this example. Take a part of the\\nTRAINER name of {STR_VAR_1}, and end\\lup with the fine nickname {STR_VAR_2}{STR_VAR_3}.",
+  "pt": "Veja este exemplo. Pegue uma parte do nome do TREINADOR, {STR_VAR_1}, e você chega ao belo apelido {STR_VAR_2}{STR_VAR_3}."
+ },
+ {
+  "offset": "02FF3B8",
+  "en": "The nickname {STR_VAR_2}{STR_VAR_3} would also work\\nquite well.",
+  "pt": "O apelido {STR_VAR_2}{STR_VAR_3} também funcionaria muito bem."
+ },
+ {
+  "offset": "02FF3E6",
+  "en": "The POKéMON's species name of\\n{STR_VAR_2} could be used as the basis\\lfor making the nickname {STR_VAR_1}{STR_VAR_3}.",
+  "pt": "O nome da espécie da CAPTURA, {STR_VAR_2}, poderia servir de base para criar o apelido {STR_VAR_1}{STR_VAR_3}."
+ }
+]

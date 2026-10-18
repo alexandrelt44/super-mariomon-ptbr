@@ -1,0 +1,1419 @@
+[
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221466",
+  "en": "Oh?\\nYour {STR_VAR_1}…",
+  "pt": "Hã? Vejamos {STR_VAR_1}…"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221473",
+  "en": "Went for it stupendously!\\pAs its reward, please give it this\\nEFFORT RIBBON.",
+  "pt": "Se esforçou de um jeito estupendo!\\pComo recompensa, por favor, coloque nela esta FITA DO ESFORÇO."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02214BF",
+  "en": "{PLAYER} received the EFFORT RIBBON.",
+  "pt": "{PLAYER} recebeu a FITA DO ESFORÇO."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02214DE",
+  "en": "{PLAYER} put the EFFORT RIBBON\\non {STR_VAR_1}.",
+  "pt": "{PLAYER} colocou a FITA DO ESFORÇO em {STR_VAR_1}."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02214FE",
+  "en": "You have to go for it a little harder.\\pIf you do, I'll give your POKéMON\\nsomething nice.",
+  "pt": "Você precisa se esforçar um pouco mais.\\pSe fizer isso, eu dou algo legal pra sua CAPTURA."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221557",
+  "en": "Oh! Your {STR_VAR_1}, that EFFORT\\nRIBBON looks good on it!",
+  "pt": "Oh! Essa FITA DO ESFORÇO ficou ótima em {STR_VAR_1}!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221589",
+  "en": "The light of the lighthouse reaches\\ndozens of miles away.\\pI wonder if it doesn't startle POKéMON\\nin the sea.",
+  "pt": "A luz do farol alcança dezenas de quilômetros.\\pSerá que ela não assusta as CAPTURAS no mar?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02215F6",
+  "en": "Ooh, look at this!\\pThe seaweed you can get around these\\nparts is fresh and full of life.\\pWhy, it looks like it can even rear up\\nand attack!",
+  "pt": "Uau, olha só isto!\\pAs algas que dá pra conseguir por aqui são fresquinhas e cheias de vida.\\pOra, parece até que elas vão se levantar e atacar!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221682",
+  "en": "Where the water is clean, the fruits\\nof bountiful harvest gather.\\pAnd where people gather, a market\\nsoon starts.\\pThat is how a town is born and grows.",
+  "pt": "Onde a água é limpa, os frutos de uma colheita farta se reúnem.\\pE onde as pessoas se reúnem, logo surge um mercado.\\pÉ assim que uma cidade nasce e cresce."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221719",
+  "en": "Shopping where you can breathe the\\nscent of the ocean…\\pSLATEPORT is such a wonderful place!",
+  "pt": "Fazer compras sentindo o cheirinho do mar…\\pSLATEPORT é um lugar maravilhoso!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221775",
+  "en": "If you put DOLLS or CUSHIONS on\\nthe floor, they'll get dirty.\\pI'm going to buy some BRICKS so my\\nDOLLS and CUSHIONS won't get dirty\\lwhen I leave them out.",
+  "pt": "Se você puser BONECOS ou ALMOFADAS no chão, eles ficam sujos.\\pVou comprar uns TIJOLOS pra que os meus BONECOS e ALMOFADAS não se sujem quando eu deixar eles por aí."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221810",
+  "en": "Wroooar! I'm going to compete in\\nthe BATTLE TENT, too!\\pBut before that, I need to catch\\nsome POKéMON!",
+  "pt": "Grrrooar! Eu também vou competir na TENDA DE BATALHA!\\pMas antes preciso pegar umas CAPTURAS!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221876",
+  "en": "Whew… I'm just bushed…\\pI hiked over from MAUVILLE CITY.\\nBut, boy, this city's huge.\\pIf I'd known this, I would've ridden\\nmy BIKE here.",
+  "pt": "Ufa… Tô só o pó…\\pVim a pé de MAUVILLE CITY. Mas, nossa, esta cidade é enorme.\\pSe eu soubesse, tinha vindo de BICICLETA."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02218FD",
+  "en": "STERN, the fellow who built the\\nMUSEUM, also happens to be the leader\\lof an undersea exploration team.\\pSo, everyone calls him CAPT. STERN.",
+  "pt": "STERN, o sujeito que construiu o MUSEU, também é o líder de uma equipe de exploração submarina.\\pPor isso, todo mundo chama ele de CAPITÃO STERN."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221988",
+  "en": "What is that over there?\\nThat long line…",
+  "pt": "O que é aquilo ali? Aquela fila enorme…"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02219B1",
+  "en": "When I was a child, I visited\\nthe MUSEUM often.\\pI used to dream about the mysteries of\\nthe sea after seeing the exhibits.",
+  "pt": "Quando eu era criança, visitava muito o MUSEU.\\pDepois de ver as exposições, eu sonhava com os mistérios do mar."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221A2B",
+  "en": "Hey, there! Quit pushing!\\nThis is the line, can't you see?",
+  "pt": "Ei, você! Pare de empurrar! Isto aqui é a fila, não está vendo?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221A66",
+  "en": "TEAM AQUA has a policy of\\nassembling and dispersing at\\lthe operation site.",
+  "pt": "A EQUIPE AQUA tem como política se reunir e se dispersar no local da operação."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221AB1",
+  "en": "Our BOSS is brilliant.\\pWhat would he want to do with\\na MUSEUM now?",
+  "pt": "O nosso CHEFE é brilhante.\\pO que será que ele quer com um MUSEU agora?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221AF4",
+  "en": "What's the new scheme, I wonder?\\pOur BOSS is scary when he's mad, so\\nI'd better not screw things up…",
+  "pt": "Qual será o novo plano?\\pO nosso CHEFE dá medo quando fica bravo, então é melhor eu não pisar na bola…"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221B59",
+  "en": "If there's something we need in\\nthe MUSEUM, we should take it all!",
+  "pt": "Se tem alguma coisa de que a gente precisa no MUSEU, é melhor levar tudo!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221B9C",
+  "en": "Hey, you there!\\nDon't butt in!",
+  "pt": "Ei, você aí! Não fure a fila!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221BBB",
+  "en": "A long line, huh?\\pIt reminds me of the times I lined up to\\nbuy smash-hit games…",
+  "pt": "Que fila longa, hein?\\pMe lembra as vezes em que eu fazia fila pra comprar jogos de sucesso…"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221C0B",
+  "en": "Why are we even lining up and paying?\\nWe should just march in!",
+  "pt": "Por que a gente tá fazendo fila e pagando? Era só invadir de uma vez!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221C4A",
+  "en": "What?\\nWhat do you want?",
+  "pt": "Quê? O que você quer?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221C62",
+  "en": "You want to read this sign?\\nI'll read it for you!",
+  "pt": "Quer ler esta placa? Eu leio pra você!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221C94",
+  "en": "Let's see…\\pUm… I think it says something like\\n“the life in the sea is endless.”\\pYup, I'm pretty sure that's what\\nit says.",
+  "pt": "Vejamos…\\pHã… Acho que diz algo como “a vida no mar é infinita”.\\pÉ, tenho quase certeza de que é isso que está escrito."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221D0E",
+  "en": "Grumble…\\pI should've brought my Game Boy\\nAdvance so I wouldn't get bored in line…\\pGrumble…",
+  "pt": "Aff…\\pEu devia ter trazido o meu Game Boy Advance pra não ficar entediado na fila…\\pAff…"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221D69",
+  "en": "When this operation's over, I'll take\\nyou to a hot spring spa!\\pThat's what our leader said.\\nI can't wait!",
+  "pt": "“Quando esta operação acabar, vou levar vocês a uma estância de águas termais!”\\pFoi o que o nosso líder disse. Mal posso esperar!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221DD3",
+  "en": "The sea is just so vast…\\pCould the sea have been made by\\nthe tears shed by POKéMON?",
+  "pt": "O mar é tão vasto…\\pSerá que o mar foi feito das lágrimas das CAPTURAS?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221E27",
+  "en": "Do you know what they do with old\\nships that become too creaky to sail?\\pThey sink them in the sea so they\\nbecome habitats for POKéMON.",
+  "pt": "Sabe o que fazem com navios velhos que já estão caindo aos pedaços pra navegar?\\pEles afundam os navios no mar pra que virem habitat de CAPTURAS."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221EAE",
+  "en": "Whenever I visit here, I get carried\\naway and buy too much.",
+  "pt": "Sempre que venho aqui, eu me empolgo e compro demais."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221EEA",
+  "en": "If you want to change your POKéMON's\\nnickname, you'll have to get the NAME\\lRATER to help you.",
+  "pt": "Se quiser mudar o apelido da sua CAPTURA, vai precisar da ajuda do AVALIADOR DE NOMES."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221F48",
+  "en": "Any POKéMON you get in a trade,\\nyou can't change its nickname.\\pThe original TRAINER's love for that\\nPOKéMON is in the nickname.",
+  "pt": "Não dá pra mudar o apelido de uma CAPTURA que você recebeu numa troca.\\pO amor do TREINADOR original por aquela CAPTURA está no apelido."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0221FC8",
+  "en": "Recently, a BATTLE TENT was built\\nin SLATEPORT.\\pGYMS are fun, but the BATTLE TENT's\\nawesome in its own way.\\pYou should go find tough POKéMON\\nfor the BATTLE TENT!",
+  "pt": "Construíram uma TENDA DE BATALHA em SLATEPORT há pouco tempo.\\pOs GINÁSIOS são divertidos, mas a TENDA DE BATALHA é incrível do seu próprio jeito.\\pVocê devia procurar CAPTURAS fortes pra TENDA DE BATALHA!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022206A",
+  "en": "I was hoping that it was a famous star\\nso I could get an autograph.\\pBut who's that being interviewed?\\nIsn't that CAPT. STERN?",
+  "pt": "Eu esperava que fosse uma estrela famosa pra pegar um autógrafo.\\pMas quem é que está sendo entrevistado? Aquele não é o CAPITÃO STERN?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02220E8",
+  "en": "That lady interviewer is so cool\\nand pretty.\\pWhen I grow up, I'm going to be\\nan international journalist!",
+  "pt": "Aquela entrevistadora é tão descolada e bonita.\\pQuando eu crescer, vou ser jornalista internacional!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222152",
+  "en": "CAPT. STERN says they discovered\\nsomething at the bottom of the sea.\\pI wonder what it is?\\nWhat could it be?",
+  "pt": "O CAPITÃO STERN diz que descobriram algo no fundo do mar.\\pO que será? O que poderia ser?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02221BE",
+  "en": "What's going on here?\\pDid the good CAPTAIN come back with\\na big fish from the ocean floor?",
+  "pt": "O que está acontecendo aqui?\\pO bom CAPITÃO voltou do fundo do oceano com um peixão?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222219",
+  "en": "Hey! Are you watching?\\nAm I on TV?",
+  "pt": "Ei! Você está assistindo? Eu tô na TV?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022223C",
+  "en": "A TV interview! Here!\\nThe CAPTAIN's a celebrity!",
+  "pt": "Uma entrevista pra TV! Aqui! O CAPITÃO é uma celebridade!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022226D",
+  "en": "TY: Okay, CAPT. STERN, a big smile\\nfor the camera!",
+  "pt": "TY: Certo, CAPITÃO STERN, um belo sorriso pra câmera!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02222A0",
+  "en": "GABBY: I see, I see. You've had a most\\ninvaluable experience…",
+  "pt": "GABBY: Entendo, entendo. Foi uma experiência valiosíssima…"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02222DE",
+  "en": "CAPT. STERN: Yes, indeed. We intend to\\nmove ahead with our exploration.",
+  "pt": "CAPITÃO STERN: Sim, de fato. Pretendemos seguir em frente com a nossa exploração."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222326",
+  "en": "GABBY: That's wonderful, CAPT. STERN!\\nThank you for taking the time from\\lyour busy schedule to talk to us.\\pWe hope we can interview you again\\nwith news of more discoveries!",
+  "pt": "GABBY: Que maravilha, CAPITÃO STERN! Obrigada por tirar um tempo da sua agenda cheia para falar conosco.\\pEsperamos entrevistá-lo de novo com notícias de mais descobertas!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02223D3",
+  "en": "CAPT. STERN: Whew…\\pThat was my first time to be filmed for\\nTV. That was nerve-wracking.",
+  "pt": "CAPITÃO STERN: Ufa…\\pFoi a primeira vez que fui filmado para a TV. Que nervoso."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022242B",
+  "en": "Oh! {PLAYER}{KUN}!\\nYou're looking great!\\pWe made a huge discovery on our last\\nseafloor exploration.\\pWe found an underwater cavern on\\nROUTE 128.\\pWe think it's the habitat of a POKéMON\\nthat's said to have been long extinct.",
+  "pt": "Oh! {PLAYER}{KUN}! Você está ótimo!\\pFizemos uma descoberta enorme na nossa última exploração do fundo do mar.\\pEncontramos uma caverna submarina na ROTA 128.\\pAchamos que é o habitat de uma CAPTURA que dizem estar extinta há muito tempo."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222500",
+  "en": "Fufufu…\\nCAPT. STERN, I presume.\\pWe of TEAM AQUA will assume\\ncontrol of your submarine!\\pYour objections are meaningless!\\nWe expect your total cooperation!\\pFufufu…\\nJust watch and learn what TEAM\\lAQUA has planned!",
+  "pt": "Fufufu… CAPITÃO STERN, presumo.\\pNós, da EQUIPE AQUA, vamos assumir o controle do seu submarino!\\pSuas objeções não significam nada! Esperamos a sua total cooperação!\\pFufufu… Apenas observe e aprenda o que a EQUIPE AQUA planejou!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02225D3",
+  "en": "CAPT. STERN: What was that all about?\\pIt sounded like someone using\\na megaphone…\\pWhere did it come from?",
+  "pt": "CAPITÃO STERN: O que foi aquilo?\\pParecia alguém usando um megafone…\\pDe onde veio?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022263C",
+  "en": "It's from the HARBOR!\\pThe submarine!\\nThey're trying to take it!",
+  "pt": "Veio do PORTO!\\pO submarino! Eles estão tentando roubá-lo!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022267C",
+  "en": "{PLAYER}{KUN}!\\nPlease, come with me!",
+  "pt": "{PLAYER}{KUN}! Por favor, venha comigo!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222698",
+  "en": "BATTLE TENT SLATEPORT SITE\\n“Find it! The ultimate POKéMON!”",
+  "pt": "TENDA DE BATALHA DE SLATEPORT\\n“Encontre a CAPTURA suprema!”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02226D4",
+  "en": "STERN'S SHIPYARD\\p“Wanted: A sailor capable of sailing\\nin all currents.”",
+  "pt": "ESTALEIRO DO STERN\\p“Procura-se: marujo capaz de navegar em todas as correntes.”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022271C",
+  "en": "STERN'S SHIPYARD\\p“The ferry S.S. TIDAL nears\\ncompletion for serving the ports of\\lSLATEPORT and LILYCOVE.”",
+  "pt": "ESTALEIRO DO STERN\\p“A balsa S.S. TIDAL, que vai atender os portos de SLATEPORT e LILYCOVE, está quase pronta.”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222786",
+  "en": "STERN'S SHIPYARD\\p“Boarding of the SLATEPORT-LILYCOVE\\nferry S.S. TIDAL is handled at the\\lHARBOR.”",
+  "pt": "ESTALEIRO DO STERN\\p“O embarque na balsa S.S. TIDAL, que liga SLATEPORT a LILYCOVE, é feito no PORTO.”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02227E7",
+  "en": "POKéMON FAN CLUB\\n“Calling all fans of POKéMON!”",
+  "pt": "FÃ-CLUBE DE CAPTURAS\\n“Chamando todos os fãs de CAPTURAS!”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222817",
+  "en": "“The endless sea sustains\\nall life.”\\pOCEANIC MUSEUM",
+  "pt": "“O mar infinito sustenta toda a vida.”\\pMUSEU OCEÂNICO"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022284B",
+  "en": "SLATEPORT CITY\\p“The port where people and POKéMON\\ncross paths.”",
+  "pt": "SLATEPORT CITY\\p“O porto onde pessoas e CAPTURAS se encontram.”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022288B",
+  "en": "SLATEPORT MARKET\\n“Unique items found nowhere else!”",
+  "pt": "MERCADO DE SLATEPORT\\n“Itens únicos que não existem\\lem nenhum outro lugar!”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02228BF",
+  "en": "SLATEPORT HARBOR\\p“The ferry S.S. TIDAL is under\\nconstruction in the SHIPYARD.\\p“Service is scheduled to begin\\nshortly.”",
+  "pt": "PORTO DE SLATEPORT\\p“A balsa S.S. TIDAL está em construção no ESTALEIRO.\\p“O serviço deve começar em breve.”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222936",
+  "en": "SLATEPORT HARBOR\\p“Enjoy a delightful cruise on\\nthe ferry S.S. TIDAL.”",
+  "pt": "PORTO DE SLATEPORT\\p“Aproveite um cruzeiro encantador na balsa S.S. TIDAL.”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "022297C",
+  "en": "NAME RATER'S HOUSE\\n“POKéMON nicknames rated.”",
+  "pt": "CASA DO AVALIADOR DE NOMES\\n“Avaliamos apelidos de CAPTURAS.”"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02229AA",
+  "en": "If a wild POKéMON gets hurt, it heals\\nitself by chewing on BERRIES.\\pDid you know that?\\pSomebody saw that and got the idea\\nof making medicine from BERRIES.\\pDid you know that?\\pTo turn BERRIES into medicine,\\nthey must be crushed into powder.\\pDid you know that?\\pYou seem to have an interest\\nin BERRIES!\\pI've got something good for someone\\nlike you.",
+  "pt": "Quando uma CAPTURA selvagem se machuca, ela se cura mastigando FRUTAS.\\pVocê sabia?\\pAlguém viu isso e teve a ideia de fazer remédios com FRUTAS.\\pVocê sabia?\\pPara transformar FRUTAS em remédio, é preciso esmagá-las até virarem pó.\\pVocê sabia?\\pVocê parece se interessar por FRUTAS!\\pTenho algo bom para alguém como você."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222B03",
+  "en": "I recently had machines installed at\\nPOKéMON CENTERS for crushing BERRIES.\\pThe BERRY CRUSH machines are at\\nthe DIRECT CORNER upstairs.\\pDid you know?\\pCould you make BERRY POWDER for\\nme using those machines?\\pI can make you all sorts of medicine\\nif you bring me lots of BERRY POWDER.",
+  "pt": "Há pouco tempo mandei instalar nos CENTROS CAPTURA máquinas para esmagar FRUTAS.\\pAs máquinas de ESMAGA-FRUTAS ficam no CANTO DIRETO, no andar de cima.\\pVocê sabia?\\pPoderia fazer PÓ DE FRUTA para mim usando essas máquinas?\\pPosso fazer todo tipo de remédio se você me trouxer bastante PÓ DE FRUTA."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222C1C",
+  "en": "Have you brought me some\\nBERRY POWDER?",
+  "pt": "Você me trouxe PÓ DE FRUTA?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222C43",
+  "en": "What would you like to exchange\\nit with?",
+  "pt": "Pelo que você gostaria de trocar?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222C6C",
+  "en": "Okay, you want to exchange your\\nBERRY POWDER for one {STR_VAR_1}?",
+  "pt": "Certo, você quer trocar o seu PÓ DE FRUTA por {STR_VAR_1}?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222CA5",
+  "en": "Oh, dear. You don't have enough\\nBERRY POWDER.",
+  "pt": "Ai, ai. Você não tem PÓ DE FRUTA suficiente."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222CD3",
+  "en": "This is fine BERRY POWDER.\\nIt will make excellent medicine.\\pWould you like to trade more of your\\nBERRY POWDER for something else?",
+  "pt": "Este PÓ DE FRUTA é dos bons. Vai dar um remédio excelente.\\pGostaria de trocar mais PÓ DE FRUTA por outra coisa?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222D55",
+  "en": "Okay! When you get some more\\nBERRY POWDER, bring it to me, please!",
+  "pt": "Certo! Quando conseguir mais PÓ DE FRUTA, traga para mim, por favor!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222D98",
+  "en": "Come back if you'd like to trade your\\nBERRY POWDER for some medicine.\\pI'm always running a bazaar here.\\pDid you know?",
+  "pt": "Volte se quiser trocar o seu PÓ DE FRUTA por algum remédio.\\pEu sempre mantenho uma feirinha aqui.\\pVocê sabia?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222E0E",
+  "en": "SCOTT: Huh?\\nI'm sure I met you somewhere before.\\pHave I introduced myself to you?\\nIf not, my name's SCOTT.\\pI just saw TEAM AQUA run away from\\nhere like they were stung.\\pLet me guess--you drove them away?",
+  "pt": "SCOTT: Hã? Tenho certeza de que já te vi em algum lugar.\\pEu já me apresentei? Se não, meu nome é SCOTT.\\pAcabei de ver a EQUIPE AQUA fugir daqui como se tivesse levado uma ferroada.\\pDeixa eu adivinhar--foi você que expulsou eles?"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222EDA",
+  "en": "SCOTT: Hmm…\\nMaybe, just maybe, this TRAINER…",
+  "pt": "SCOTT: Hmm… Talvez, só talvez, este TREINADOR…"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222F07",
+  "en": "SCOTT: All right! I think you're going\\nto become a good friend.\\pSo, let's register each other in our\\nPOKéNAVS.\\p… … … … … …",
+  "pt": "SCOTT: Muito bem! Acho que você vai se tornar um bom amigo.\\pEntão, vamos nos registrar nos nossos POKéNAVS.\\p… … … … … …"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222F82",
+  "en": "Registered this SCOTT person\\nin the POKéNAV.",
+  "pt": "Esse tal de SCOTT foi registrado no POKéNAV."
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0222FAF",
+  "en": "SCOTT: What I'd like to do is tag along\\nwith you, but I do want to keep an eye\\lon the talents of other people, too.\\pSo, I'll be off to roam other towns\\na bit more.\\pBe seeing you, {PLAYER}{KUN}!",
+  "pt": "SCOTT: O que eu queria mesmo era te acompanhar, mas também quero ficar de olho no talento de outras pessoas.\\pEntão, vou dar mais uma volta por outras cidades.\\pAté mais, {PLAYER}{KUN}!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "0223068",
+  "en": "SCOTT: Oh, hey!\\nIf it isn't {PLAYER}{KUN}!\\p{PLAYER}{KUN}, let me guess--you're going\\nto take the BATTLE TENT challenge?\\pYeah! That's a good idea!\\nThat's a really great idea!\\pAfter all, a tough TRAINER is\\nthe perfect fit for the BATTLE TENT!\\pGive it your best effort!",
+  "pt": "SCOTT: Ah, ei! Se não é o {PLAYER}{KUN}!\\p{PLAYER}{KUN}, deixa eu adivinhar--você vai encarar o desafio da TENDA DE BATALHA?\\pIsso! Que boa ideia! Que ideia excelente!\\pAfinal, um TREINADOR durão combina perfeitamente com a TENDA DE BATALHA!\\pDê o seu melhor!"
+ },
+ {
+  "map": "50.1 SLATEPORT CITY",
+  "offset": "02ECA0B",
+  "en": "Do you know the TM SECRET POWER?\\pOur group, we love the TM SECRET\\nPOWER.\\pOne of our members will give it to you.\\nCome back and show me if you get it.\\pWe'll accept you as a member and sell\\nyou good stuff in secrecy.",
+  "pt": "Você conhece o TM de PODER SECRETO?\\pO nosso grupo adora o TM de PODER SECRETO.\\pUm dos nossos membros vai te dar uma. Volte e me mostre se conseguir.\\pVamos te aceitar como membro e te vender umas coisas boas em segredo."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "02235B8",
+  "en": "UNCLE: It's because of POKéMON that\\nthis boy's got more pep, I suppose…\\lBut he's become a bit too peppy…",
+  "pt": "TIO: Acho que é por causa das CAPTURAS que esse menino ficou mais animado… Mas ele ficou animado até demais…"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223621",
+  "en": "WALLY: Aww, UNCLE, please?\\pI want to challenge this GYM and see\\nhow much better I've become.\\pPlease? May I, please?",
+  "pt": "WALLY: Ah, TIO, por favor?\\pQuero desafiar este GINÁSIO e ver o quanto eu melhorei.\\pPor favor? Posso, por favor?"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223695",
+  "en": "UNCLE: Now hold on, WALLY.\\pSince you started living with POKéMON,\\nyou have grown quite a lot stronger.\\pBut don't you think you're pushing it\\nto suddenly challenge a GYM?",
+  "pt": "TIO: Calma lá, WALLY.\\pDesde que você começou a conviver com CAPTURAS, você ficou bem mais forte.\\pMas não acha que está exagerando ao desafiar um GINÁSIO assim de repente?"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "022373F",
+  "en": "WALLY: I'm not pushing it.\\pIf I combine forces with RALTS,\\nwe can beat anyone!",
+  "pt": "WALLY: Não estou exagerando.\\pSe eu unir forças com o RALTS, a gente vence qualquer um!"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "022378E",
+  "en": "WALLY: Oh! Hi, {PLAYER}!\\pI've gotten a lot stronger since\\nwe met.\\p{PLAYER}, I want you and my UNCLE to\\nunderstand that.\\p{PLAYER}, please, will you have\\na battle with me?",
+  "pt": "WALLY: Ah! Oi, {PLAYER}!\\pFiquei muito mais forte desde que a gente se conheceu.\\p{PLAYER}, quero que você e o meu TIO entendam isso.\\p{PLAYER}, por favor, você batalha comigo?"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223826",
+  "en": "WALLY: Oh… If you won't battle me,\\n{PLAYER}, my UNCLE won't know that I've\\lbecome really strong.",
+  "pt": "WALLY: Ah… Se você não batalhar comigo, {PLAYER}, o meu TIO não vai saber que eu fiquei forte de verdade."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223881",
+  "en": "UNCLE: {PLAYER}{KUN}, was it?\\nOn WALLY's behalf, can I ask you to\\lbattle with him just this once?\\pI don't think he's going to listen to\\nany reason the way he is now.",
+  "pt": "TIO: {PLAYER}{KUN}, não é? Em nome do WALLY, posso te pedir para batalhar com ele só desta vez?\\pDo jeito que ele está agora, acho que não vai dar ouvidos à razão."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "022391E",
+  "en": "WALLY: {PLAYER}, please!\\nBattle with me, please.",
+  "pt": "WALLY: {PLAYER}, por favor! Batalhe comigo, por favor."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223949",
+  "en": "WALLY: {PLAYER}, thank you.\\pOkay… Here I come!",
+  "pt": "WALLY: {PLAYER}, obrigado.\\pCerto… Lá vou eu!"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "022399F",
+  "en": "WALLY: UNCLE…\\nI'll go back to VERDANTURF…",
+  "pt": "WALLY: TIO… Vou voltar pra VERDANTURF…"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "02239C9",
+  "en": "{PLAYER}, thank you.\\nBeing a TRAINER is tough, isn't it?\\pIt's not enough just to have POKéMON\\nand make them battle. That isn't what\\lbeing a real TRAINER is about.",
+  "pt": "{PLAYER}, obrigado. Ser TREINADOR é difícil, né?\\pNão basta ter CAPTURAS e fazer elas batalharem. Não é isso que significa ser um TREINADOR de verdade."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223A66",
+  "en": "UNCLE: WALLY, there's no need to be so\\ndown on yourself.\\pWhy, what's keeping you from becoming\\nstronger and stronger?\\pCome on, let's go home.\\nEveryone's waiting for you.",
+  "pt": "TIO: WALLY, não precisa ficar tão pra baixo.\\pOra, o que te impede de ficar cada vez mais forte?\\pVamos, vamos pra casa. Todo mundo está te esperando."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223B10",
+  "en": "UNCLE: {PLAYER}{KUN}, it just dawned on me\\nthat you must be the TRAINER who kept\\lan eye out for WALLY when he caught\\lhis POKéMON.\\pWhy don't you visit us in VERDANTURF\\nsometime?\\lI'm sure WALLY would enjoy it.",
+  "pt": "TIO: {PLAYER}{KUN}, acabei de me dar conta de que você deve ser o TREINADOR que ficou de olho no WALLY quando ele pegou a CAPTURA dele.\\pPor que não nos visita em VERDANTURF qualquer dia? Tenho certeza de que o WALLY ia adorar."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223BD7",
+  "en": "… … … … … …\\n… … … … … Beep!\\pWALLY: Oh, hello, {PLAYER}!\\pI just wanted to tell you that\\nmy uncle bought me a POKéNAV!\\pNow I can get in touch with you\\nanytime, {PLAYER}!\\p… … … … … …\\n… … … … … Click!",
+  "pt": "… … … … … …\\n… … … … … Bip!\\pWALLY: Ah, oi, {PLAYER}!\\pSó queria te contar que o meu tio me comprou um POKéNAV!\\pAgora posso falar com você a qualquer hora, {PLAYER}!\\p… … … … … …\\n… … … … … Clique!"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223C90",
+  "en": "Registered WALLY\\nin the POKéNAV.",
+  "pt": "WALLY registrado no POKéNAV."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223CB1",
+  "en": "SCOTT: Hehe…\\nI was watching that match!\\pYou're friends with that boy WALLY,\\naren't you?\\pBut you didn't hold anything back\\nand beat him impressively.\\pYeah! That's what a real POKéMON\\nbattle is all about!\\pI idolize TRAINERS like that!\\p… … … … … …\\nI'll be cheering for you!",
+  "pt": "SCOTT: Hehe… Eu estava assistindo àquela partida!\\pVocê é amigo daquele garoto, o WALLY, não é?\\pMas não aliviou nada e venceu de um jeito impressionante.\\pIsso! É disso que se trata uma batalha de CAPTURAS de verdade!\\pEu idolatro TREINADORES assim!\\p… … … … … …\\nVou torcer por você!"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223DC0",
+  "en": "WATTSON: Oh, {PLAYER}{KUN}!\\nYou look like you have a lot of zip!\\lThat's a good thing, wahahahaha!\\pFine! I've decided!\\nI need a favor, {PLAYER}{KUN}!\\pMAUVILLE CITY has an underground\\nsector called NEW MAUVILLE.\\p{PLAYER}{KUN}, I'd like you to go there and\\nswitch off the GENERATOR.\\pThe GENERATOR has been running a bit\\nhaywire. It's getting unsafe.\\pHere, this is the KEY to get into\\nNEW MAUVILLE.",
+  "pt": "WATTSON: Oh, {PLAYER}{KUN}! Você parece cheio de energia! Isso é bom, wahahahaha!\\pPerfeito! Já decidi! Preciso de um favor, {PLAYER}{KUN}!\\pMAUVILLE CITY tem um setor subterrâneo chamado NEW MAUVILLE.\\p{PLAYER}{KUN}, quero que você vá até lá e desligue o GERADOR.\\pO GERADOR anda meio desregulado. Está ficando perigoso.\\pAqui, esta é a CHAVE para entrar em NEW MAUVILLE."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223F30",
+  "en": "WATTSON: Don't you worry about it.\\nIt won't be a challenge to you.\\pThe entrance to NEW MAUVILLE is just\\na short SURF away from ROUTE 110.\\pThat's it, then, you have my trust!\\nWahahahaha!",
+  "pt": "WATTSON: Não se preocupe. Isso não vai ser desafio nenhum pra você.\\pA entrada de NEW MAUVILLE fica a um pulinho da ROTA 110, é só usar SURFAR.\\pEntão é isso, conto com você! Wahahahaha!"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0223FEA",
+  "en": "WATTSON: Wahahahaha!\\pI knew it, {PLAYER}{KUN}! I knew I'd made\\nthe right choice asking you!\\pThis is my thanks--a TM containing\\nTHUNDERBOLT!\\pGo on, you've earned it!",
+  "pt": "WATTSON: Wahahahaha!\\pEu sabia, {PLAYER}{KUN}! Sabia que tinha feito a escolha certa ao te pedir!\\pEste é o meu agradecimento--um TM com CHOQUE DO TROVÃO!\\pVamos, você mereceu!"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0224086",
+  "en": "WATTSON: Wahahahaha!\\pIt pleases me to no end to see\\nthe young step up and take charge!",
+  "pt": "WATTSON: Wahahahaha!\\pMe dá uma alegria sem fim ver os jovens tomando a dianteira!"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "02240DD",
+  "en": "You know, it's cool to have POKéMON\\nbattles and stuff…\\pBut if your POKéMON gets hurt,\\nyou have to nurse it back to health.",
+  "pt": "Sabe, é legal ter batalhas de CAPTURAS e tal…\\pMas, se a sua CAPTURA se machucar, você tem que cuidar dela até ela ficar boa."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0224158",
+  "en": "The roads of this town stretch north\\nand south, and east and west.\\pBecause of that, we get all sorts of\\npeople coming through.",
+  "pt": "As ruas desta cidade se estendem para o norte e o sul, o leste e o oeste.\\pPor isso, passa todo tipo de gente por aqui."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "02241D7",
+  "en": "Have you been to RYDEL'S CYCLES yet?\\pRYDEL, the owner, is a very generous\\nman.",
+  "pt": "Já foi à BICICLETARIA DO RYDEL?\\pO RYDEL, o dono, é um homem muito generoso."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0224226",
+  "en": "Even if you're riding a BIKE,\\nwild POKéMON could jump you.",
+  "pt": "Mesmo andando de BICICLETA, CAPTURAS selvagens podem te atacar."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0224261",
+  "en": "MAUVILLE CITY\\n“The bright and shiny city of fun!”",
+  "pt": "MAUVILLE CITY\\n“A cidade alegre e reluzente\\lda diversão!”"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0224293",
+  "en": "MAUVILLE CITY POKéMON GYM\\nLEADER: WATTSON\\l“The cheerfully electrifying man!”",
+  "pt": "GINÁSIO CAPTURA DE MAUVILLE\\nLÍDER: WATTSON\\l“O homem alegremente eletrizante!”"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "02242E0",
+  "en": "“Ride in gravel and shake up your\\nsoul!”\\lRYDEL'S CYCLES",
+  "pt": "“Pedale no cascalho e sacuda\\na alma!”\\lBICICLETARIA DO RYDEL"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0224318",
+  "en": "“The play spot for all!”\\nMAUVILLE GAME CORNER",
+  "pt": "“O ponto de diversão para todos!”\\nCASSINO DE MAUVILLE"
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0224346",
+  "en": "Hi, do you check out TV at all?\\pThey've added a bunch of cool new\\nshows recently.\\pTV is so cool. I've seen my friends on\\nTV just out of the blue.\\pAnd, sometimes, they even put you on TV\\nwithout telling you.\\pI wish I would be on TV sometime.\\pThat's why I think you should check\\nout TVs whenever you can.",
+  "pt": "Oi, você costuma ver TV?\\pColocaram um monte de programas novos e legais há pouco tempo.\\pTV é muito legal. Já vi meus amigos na TV do nada.\\pE, às vezes, até colocam você na TV sem avisar.\\pQueria aparecer na TV algum dia.\\pPor isso acho que você devia ver TV sempre que puder."
+ },
+ {
+  "map": "50.2 MAIN STREET",
+  "offset": "0224475",
+  "en": "Hi, have you been checking out TVs?",
+  "pt": "Oi, tem visto TV?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225088",
+  "en": "Hm? A sneaky-looking man?\\pCome to think of it, yes, a shady-\\nlooking guy went around the corner.",
+  "pt": "Hã? Um homem com cara de suspeito?\\pPensando bem, sim, um sujeito esquisito virou a esquina ali."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02250E9",
+  "en": "Have you taken the POKéMON GYM\\nchallenge?\\pWhen you get that shiny GYM BADGE\\nin hand, I guess TRAINERS begin to\\lrealize what is required of them.",
+  "pt": "Você já encarou o desafio do GINÁSIO CAPTURA?\\pAcho que é quando têm aquela INSÍGNIA brilhante na mão que os TREINADORES começam a perceber o que se espera deles."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "022517A",
+  "en": "Hey, that's RUSTBORO's GYM BADGE!\\pOut of all the POKéMON GYM BADGES,\\nRUSTBORO's is the coolest, I'd say.",
+  "pt": "Ei, essa é a INSÍGNIA de RUSTBORO!\\pDe todas as INSÍGNIAS dos GINÁSIOS CAPTURA, eu diria que a de RUSTBORO é a mais legal."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02251E3",
+  "en": "Oh? Who might you be?\\nYou're a new face around these parts.\\pHave you just transferred into the\\nPOKéMON TRAINER'S SCHOOL?",
+  "pt": "Hã? Quem é você? Seu rosto é novo por aqui.\\pVocê acabou de se transferir para a ESCOLA DE TREINADORES?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "022525C",
+  "en": "I challenged the GYM LEADER, but…\\pIt's not going to be easy winning with\\nmy FIRE-type POKéMON…\\pFIRE-type POKéMON don't match up\\nwell against ROCK-type POKéMON…",
+  "pt": "Eu desafiei a LÍDER DE GINÁSIO, mas…\\pNão vai ser fácil vencer com as minhas CAPTURAS do tipo FOGO…\\pCAPTURAS do tipo FOGO não se dão bem contra CAPTURAS do tipo PEDRA…"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02252FC",
+  "en": "The old sailor MR. BRINEY lives in\\na cottage by the sea.\\pHe goes for walks in the tunnel every\\nso often.",
+  "pt": "O velho marinheiro SR. BRINEY mora num chalé à beira-mar.\\pDe vez em quando, ele sai pra passear pelo túnel."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225365",
+  "en": "The old sailor MR. BRINEY lives in\\na cottage by the sea.\\pHe said he was going shopping in\\nSLATEPORT for his pet, PEEKO.\\pThat old sea dog, he must really love\\nthat PEEKO.",
+  "pt": "O velho marinheiro SR. BRINEY mora num chalé à beira-mar.\\pEle disse que ia fazer compras em SLATEPORT para o bichinho dele, o PEEKO.\\pAquele velho lobo do mar deve amar muito o PEEKO."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "022540F",
+  "en": "Wow, you have POKéMON with you, too.\\pWhen I get bigger, I'm going to go\\nplaces with POKéMON, too.",
+  "pt": "Uau, você também tem CAPTURAS.\\pQuando eu crescer, também vou viajar por aí com CAPTURAS."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225471",
+  "en": "POKéMON TRAINER'S SCHOOL!\\pIf I go to this school, will I be able\\nto catch rare POKéMON easily?",
+  "pt": "ESCOLA DE TREINADORES!\\pSe eu estudar nesta escola, vou conseguir pegar CAPTURAS raras com facilidade?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02254D0",
+  "en": "If a POKéMON gains experience in\\nbattles, it can sometimes change in\\lthe way it looks.",
+  "pt": "Quando uma CAPTURA ganha experiência em batalhas, às vezes a aparência dela pode mudar."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225527",
+  "en": "A POKéMON changes shape?\\nIf one did that, I would be shocked!",
+  "pt": "Uma CAPTURA muda de forma? Se uma fizesse isso, eu ia levar um susto!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225565",
+  "en": "A POKéMON you get in a trade from\\nsomeone grows fast.\\pBut if you don't have certain GYM\\nBADGES, it may not obey you…",
+  "pt": "Uma CAPTURA que você recebe numa troca cresce rápido.\\pMas, se você não tiver certas INSÍGNIAS, ela pode não te obedecer…"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02255DA",
+  "en": "Get out!\\nOut of the way!",
+  "pt": "Sai da frente! Sai do caminho!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02255F3",
+  "en": "Wait! Pleeeaaase!\\pDon't take my GOODS!",
+  "pt": "Espere! Por favooor!\\pNão leve as minhas MERCADORIAS!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "022561A",
+  "en": "Oh, it's you!\\pYou're that fantastic TRAINER who\\nhelped me in PETALBURG WOODS!\\pHelp me! I was robbed by TEAM AQUA!\\nI have to get the DEVON GOODS back!\\pIf I don't…\\nI'm going to be in serious trouble.",
+  "pt": "Ah, é você!\\pVocê é aquele TREINADOR fantástico que me ajudou em PETALBURG WOODS!\\pMe ajude! Fui roubado pela EQUIPE AQUA! Preciso recuperar as MERCADORIAS DA DEVON!\\pSe eu não conseguir… Vou ficar numa enrascada daquelas."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02256E0",
+  "en": "That shady character, I think he took\\noff towards the tunnel over there.",
+  "pt": "Aquele sujeito suspeito, acho que ele fugiu na direção daquele túnel ali."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225729",
+  "en": "Oh! How did it go?\\nThe DEVON GOODS?\\pYou did!\\nYou got them back!\\pYou really are a great TRAINER!\\pI know! As my thanks, I'll give you\\nanother GREAT BALL!",
+  "pt": "Oh! Como foi? As MERCADORIAS DA DEVON?\\pConseguiu! Você recuperou elas!\\pVocê é mesmo um ótimo TREINADOR!\\pJá sei! Como agradecimento, vou te dar mais uma GREAT BALL!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02257C1",
+  "en": "You're loaded with items.\\nI can't give you this GREAT BALL.",
+  "pt": "Você está cheio de itens. Não posso te dar este CAP BEISEBOL."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02257FD",
+  "en": "Excuse me, please!\\nPlease come with me!",
+  "pt": "Com licença, por favor! Venha comigo, por favor!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225825",
+  "en": "MAY: Oh, hi, {PLAYER}{KUN}!\\pYou had a MATCH CALL feature put\\non your POKéNAV!\\pLet's register each other so we can\\ncontact one another anytime!\\p… … … … … …",
+  "pt": "MAY: Oh, oi, {PLAYER}{KUN}!\\pVocê instalou a função MATCH CALL no seu POKéNAV!\\pVamos nos registrar pra gente poder se falar a qualquer hora!\\p… … … … … …"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02258B7",
+  "en": "Registered MAY\\nin the POKéNAV.",
+  "pt": "MAY registrada no POKéNAV."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02258D6",
+  "en": "MAY: Oh, by the way, I passed\\nMR. BRINEY in PETALBURG WOODS.\\pI guess he's on his way home to his\\ncottage by the sea.\\pHow's your POKéDEX coming along,\\n{PLAYER}{KUN}? Mine's looking pretty decent!\\pSo…\\nHow about a little battle?",
+  "pt": "MAY: Ah, aliás, passei pelo SR. BRINEY em PETALBURG WOODS.\\pAcho que ele está voltando pro chalé dele à beira-mar.\\pComo vai a sua TATTLEDEX, {PLAYER}{KUN}? A minha está ficando bem legal!\\pEntão… Que tal uma batalhinha?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "02259AF",
+  "en": "MAY: Oh, what's the matter?\\pHaven't you caught or raised your\\nPOKéMON very much?\\pThat's not very good for a TRAINER!",
+  "pt": "MAY: Ué, qual é o problema?\\pVocê não pegou nem treinou muitas CAPTURAS?\\pIsso não é nada bom pra um TREINADOR!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225A24",
+  "en": "MAY: So, what do you think?\\nHow about a little battle here?",
+  "pt": "MAY: E aí, o que acha? Que tal uma batalhinha aqui?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225A60",
+  "en": "MAY: You just became a TRAINER,\\n{PLAYER}{KUN}. I'm not going to lose!",
+  "pt": "MAY: Você acabou de virar TREINADOR, {PLAYER}{KUN}. Eu não vou perder!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225A9D",
+  "en": "Yikes!\\nYou're better than I expected!",
+  "pt": "Caramba! Você é melhor do que eu esperava!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225AC3",
+  "en": "MAY: Oh, by the way, MR. BRINEY, who\\nI just passed…\\p{PLAYER}{KUN}, you just moved here so you\\nmight not know this, but MR. BRINEY\\lwas once a revered seafarer.",
+  "pt": "MAY: Ah, aliás, o SR. BRINEY, por quem eu acabei de passar…\\p{PLAYER}{KUN}, você acabou de se mudar, então talvez não saiba, mas o SR. BRINEY já foi um marinheiro muito respeitado."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225B59",
+  "en": "BRENDAN: Oh, hey, {PLAYER}!\\pYou had a MATCH CALL feature put\\non your POKéNAV! Cool!\\pLet's register each other so we can\\nget in touch anytime!\\p… … … … … …",
+  "pt": "BRENDAN: Ah, ei, {PLAYER}!\\pVocê instalou a função MATCH CALL no seu POKéNAV! Legal!\\pVamos nos registrar pra gente poder se falar a qualquer hora!\\p… … … … … …"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225BED",
+  "en": "Registered BRENDAN\\nin the POKéNAV.",
+  "pt": "BRENDAN registrado no POKéNAV."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225C10",
+  "en": "BRENDAN: By the way, {PLAYER}, I walked\\nby MR. BRINEY in PETALBURG WOODS.\\pI bet he was on his way home to his\\ncottage by the sea.\\p{PLAYER}, how's your POKéDEX?\\nHave you filled in any pages yet?\\pMine rules.\\pWant to have a battle to test how\\nfar you've progressed?",
+  "pt": "BRENDAN: Aliás, {PLAYER}, passei pelo SR. BRINEY em PETALBURG WOODS.\\pAposto que ele estava voltando pro chalé dele à beira-mar.\\p{PLAYER}, como vai a sua TATTLEDEX? Já preencheu alguma página?\\pA minha tá demais.\\pQuer batalhar pra testar o quanto você progrediu?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225D0B",
+  "en": "BRENDAN: What's the matter? Don't have\\nany confidence in your POKéMON?",
+  "pt": "BRENDAN: Qual é o problema? Não confia nas suas CAPTURAS?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225D52",
+  "en": "BRENDAN: What's up?\\nWant to have a battle with me?",
+  "pt": "BRENDAN: E aí? Quer batalhar comigo?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225D85",
+  "en": "BRENDAN: I know you just became\\na TRAINER, but I won't go easy!",
+  "pt": "BRENDAN: Sei que você acabou de virar TREINADOR, mas não vou pegar leve!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225DDE",
+  "en": "BRENDAN: By the way, you know\\nMR. BRINEY? The guy I just passed?\\pI bet you didn't know this, since you\\njust moved here, {PLAYER}, but\\lMR. BRINEY was once a great sailor.",
+  "pt": "BRENDAN: Aliás, você conhece o SR. BRINEY? O cara por quem eu acabei de passar?\\pAposto que você não sabia, já que acabou de se mudar, {PLAYER}, mas o SR. BRINEY já foi um grande marinheiro."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225E82",
+  "en": "“Timesaving tunnel nearing\\ncompletion!”\\p…Is what it says on the sign, but\\nthere's also a big “X” splashed\\lacross it in red paint…",
+  "pt": "“Túnel que economiza tempo quase pronto!”\\p…É o que diz a placa, mas também tem um grande “X” pintado de vermelho por cima…"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225F04",
+  "en": "DEVON CORPORATION\\p“For all your living needs, we make\\nit all.”",
+  "pt": "CORPORAÇÃO DEVON\\p“Para todas as suas necessidades do dia a dia, nós fazemos de tudo.”"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225F43",
+  "en": "RUSTBORO CITY POKéMON GYM\\nLEADER: ROXANNE\\p“The ROCK-loving honors student!”",
+  "pt": "GINÁSIO CAPTURA DE RUSTBORO\\nLÍDER: ROXANNE\\p“A aluna exemplar que ama PEDRAS!”"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225F8F",
+  "en": "DEVON CORP. BRANCH OFFICE\\p“Access limited to DEVON employees\\nand authorized personnel.”",
+  "pt": "FILIAL DA CORP. DEVON\\p“Acesso restrito a funcionários da DEVON e pessoal autorizado.”"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0225FE7",
+  "en": "RUSTBORO CITY\\p“The city probing the integration of\\nnature and science.”",
+  "pt": "RUSTBORO CITY\\p“A cidade que busca a integração entre a natureza e a ciência.”"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "022602F",
+  "en": "POKéMON TRAINER'S SCHOOL\\p“We'll teach you anything about\\nPOKéMON!”",
+  "pt": "ESCOLA DE TREINADORES\\p“Ensinamos tudo sobre CAPTURAS!”"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0226072",
+  "en": "CUTTER'S HOUSE",
+  "pt": "CASA DO CUTTER",
+  "max_width": 84
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0226081",
+  "en": "I've been developing an added feature\\nfor the POKéNAV…\\pAnd it turned out great!\\p{PLAYER}, may I see that POKéNAV?\\nThe one our PRESIDENT gave you?",
+  "pt": "Estive desenvolvendo uma função extra para o POKéNAV…\\pE ficou ótima!\\p{PLAYER}, posso ver esse POKéNAV? Aquele que o nosso PRESIDENTE te deu?"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "022610D",
+  "en": "There you go, {PLAYER}!\\pI added a new feature named\\nMATCH CALL to your POKéNAV.\\pUsing the MATCH CALL feature,\\nyou can chat with people who have\\lbeen registered in your POKéNAV.\\p{PLAYER}, our PRESIDENT STONE should\\nbe registered in your POKéNAV.\\pTest it out.\\nPlease give our PRESIDENT a call.",
+  "pt": "Prontinho, {PLAYER}!\\pAdicionei ao seu POKéNAV uma nova função chamada MATCH CALL.\\pCom a função MATCH CALL, você pode conversar com as pessoas registradas no seu POKéNAV.\\p{PLAYER}, o nosso PRESIDENTE STONE já deve estar registrado no seu POKéNAV.\\pFaça um teste. Por favor, ligue para o nosso PRESIDENTE."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0226225",
+  "en": "Please select the POKéNAV.",
+  "pt": "Por favor, selecione o POKéNAV."
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0226240",
+  "en": "Okay, I'd better get back to work.\\nPlease take care, {PLAYER}!",
+  "pt": "Bom, é melhor eu voltar ao trabalho. Cuide-se, {PLAYER}!"
+ },
+ {
+  "map": "50.3 RUSTBORO CITY",
+  "offset": "0226279",
+  "en": "Did you know this?\\pYou can have a 2-on-2 battle even\\nif you're not with another TRAINER.\\pIf you catch the eyes of two TRAINERS\\nwhen you have two or more POKéMON,\\lthey'll both challenge you.\\pDon't you think it'd be cool if you\\ncould beat two TRAINERS by yourself?",
+  "pt": "Sabia disto?\\pVocê pode ter uma batalha 2 contra 2 mesmo sem estar com outro TREINADOR.\\pSe dois TREINADORES te virem quando você tiver duas ou mais CAPTURAS, os dois vão te desafiar.\\pNão acha que seria legal vencer dois TREINADORES sozinho?"
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "0226514",
+  "en": "I want to go to the POKéMON GYM,\\nbut something's blocking the way.\\pAfter all the bother I went through\\ntraining on ROUTE 120…",
+  "pt": "Quero ir ao GINÁSIO CAPTURA, mas tem algo bloqueando o caminho.\\pDepois de todo o trabalho que tive treinando na ROTA 120…"
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "0226592",
+  "en": "I've got my pride-and-joy POKéMON\\nwith me. This time, I'll beat WINONA.",
+  "pt": "Trouxe as CAPTURAS que são o meu orgulho. Desta vez, vou vencer a WINONA."
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "02265DA",
+  "en": "The ground absorbs rainwater, and\\ntrees grow by drinking that water…\\pOur FORTREE CITY exists because\\nthere's both water and soil.",
+  "pt": "O chão absorve a água da chuva, e as árvores crescem bebendo essa água…\\pA nossa FORTREE CITY existe porque aqui há água e terra."
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "022665C",
+  "en": "The CITY consists of homes built on\\ntrees.\\pPerhaps because of that lifestyle,\\neveryone is healthy and lively.\\pWhy, even myself--I feel as if I've\\ngrown thirty years younger.",
+  "pt": "A CIDADE é formada por casas construídas nas árvores.\\pTalvez por causa desse estilo de vida, todo mundo é saudável e animado.\\pOra, até eu--sinto como se tivesse rejuvenescido trinta anos."
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "022670A",
+  "en": "Living on top of trees is okay.\\pBut sometimes BUG POKéMON come in\\nthrough windows.\\lIt can be really startling.",
+  "pt": "Morar em cima das árvores é bom.\\pMas às vezes CAPTURAS do tipo INSETO entram pelas janelas. Dá cada susto!"
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "0226779",
+  "en": "There are POKéMON that evolve when\\nyou trade them! That's what I heard.",
+  "pt": "Tem CAPTURAS que evoluem quando você troca elas! Foi o que ouvi."
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "02267C1",
+  "en": "Something unseeable is in the way.",
+  "pt": "Algo invisível está no caminho."
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "02267E4",
+  "en": "Something unseeable is in the way.\\pWant to use the DEVON SCOPE?",
+  "pt": "Algo invisível está no caminho.\\pQuer usar o DEVON SCOPE?"
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "0226824",
+  "en": "{PLAYER} used the DEVON SCOPE.\\pAn invisible POKéMON became completely\\nvisible!\\pThe startled POKéMON fled!",
+  "pt": "{PLAYER} usou o DEVON SCOPE.\\pUma CAPTURA invisível ficou completamente visível!\\pA CAPTURA assustada fugiu!"
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "0226888",
+  "en": "FORTREE CITY\\n“The treetop city that frolics with\\lnature.”",
+  "pt": "FORTREE CITY\\n“A cidade no alto das árvores\\lque brinca com a natureza.”"
+ },
+ {
+  "map": "50.4 JUNGLE VILLAGE",
+  "offset": "02268C2",
+  "en": "FORTREE CITY POKéMON GYM\\nLEADER: WINONA\\p“The bird user taking flight into\\nthe world.”",
+  "pt": "GINÁSIO CAPTURA DE FORTREE\\nLÍDER: WINONA\\p“A mestra das aves que alça voo pelo mundo.”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0226EFD",
+  "en": "MAY: Oh, why? {PLAYER}{KUN}, haven't you\\nbeen raising your POKéMON?\\pThat's not a very good showing as a\\nTRAINER…",
+  "pt": "MAY: Ué, por quê? {PLAYER}{KUN}, você não tem treinado as suas CAPTURAS?\\pIsso não é um bom desempenho pra um TREINADOR…"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0226F65",
+  "en": "MAY: Come on, battle with me, so I can\\ncheck out your POKéMON!",
+  "pt": "MAY: Vamos, batalhe comigo pra eu ver as suas CAPTURAS!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0226FA4",
+  "en": "MAY: The POKéMON I raised won't be\\nbeaten by your POKéMON, {PLAYER}{KUN}!",
+  "pt": "MAY: As CAPTURAS que eu treinei não vão perder pras suas, {PLAYER}{KUN}!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0226FE5",
+  "en": "… … … … … … … …\\pI remember the battle I had with you,\\n{PLAYER}{KUN}, on ROUTE 103.\\pThat battle helped you become this\\nstrong, {PLAYER}{KUN}, didn't it?",
+  "pt": "… … … … … … … …\\pEu me lembro da batalha que tive com você, {PLAYER}{KUN}, na ROTA 103.\\pAquela batalha te ajudou a ficar forte assim, {PLAYER}{KUN}, não foi?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022706B",
+  "en": "MAY: I'm thinking of going back to\\nLITTLEROOT soon.\\pI've caught a decent group of POKéMON,\\nand my POKéDEX is coming along, so\\lI'm going home to show my dad.",
+  "pt": "MAY: Estou pensando em voltar pra LITTLEROOT logo.\\pPeguei um grupo decente de CAPTURAS e a minha TATTLEDEX está progredindo, então vou pra casa mostrar pro meu pai."
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227108",
+  "en": "{PLAYER}{KUN}, what are you going to do?\\pCollect all the GYM BADGES and take\\nthe POKéMON LEAGUE challenge?\\pWell, while you're collecting BADGES,\\n{PLAYER}{KUN}, I'm going to work on my\\lPOKéDEX. I'll complete it before you!\\pSee you!",
+  "pt": "{PLAYER}{KUN}, o que você vai fazer?\\pJuntar todas as INSÍGNIAS e encarar o desafio da LIGA CAPTURA?\\pBom, enquanto você junta INSÍGNIAS, {PLAYER}{KUN}, eu vou trabalhar na minha TATTLEDEX. Vou completar ela antes de você!\\pAté mais!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02271DD",
+  "en": "{PLAYER}{KUN}, what are you going to do?\\pAre you taking the POKéMON LEAGUE\\nchallenge?\\pOr, are you going to complete your\\nPOKéDEX?\\pI might've lost to you in battling,\\nbut I'll finish my POKéDEX before you!\\pSee you!",
+  "pt": "{PLAYER}{KUN}, o que você vai fazer?\\pVai encarar o desafio da LIGA CAPTURA?\\pOu vai completar a sua TATTLEDEX?\\pPosso ter perdido pra você nas batalhas, mas vou terminar a minha TATTLEDEX antes de você!\\pAté mais!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02272AA",
+  "en": "{PLAYER}{KUN}, what are you going to do?\\pAre you taking the BATTLE FRONTIER\\nchallenge?\\pOr, are you going to complete your\\nPOKéDEX?\\pI might've lost to you in battling,\\nbut I'll finish my POKéDEX before you!\\pSee you!",
+  "pt": "{PLAYER}{KUN}, o que você vai fazer?\\pVai encarar o desafio da FRONTEIRA DE BATALHA?\\pOu vai completar a sua TATTLEDEX?\\pPosso ter perdido pra você nas batalhas, mas vou terminar a minha TATTLEDEX antes de você!\\pAté mais!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227378",
+  "en": "BRENDAN: Oh, hey, it's {PLAYER}.\\pI'm running an errand for my dad.\\nNo, I'm not buying any DOLLS.\\pAnyways, it's been a while.\\pWant to have a battle to see who's been\\nraising POKéMON better?",
+  "pt": "BRENDAN: Ah, ei, é o {PLAYER}.\\pEstou fazendo um favor pro meu pai. Não, não estou comprando BONECOS.\\pEnfim, faz tempo, hein.\\pQuer batalhar pra ver quem tem treinado melhor as CAPTURAS?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022742F",
+  "en": "BRENDAN: Oh, what's the matter?\\nDon't have the confidence?",
+  "pt": "BRENDAN: Ué, qual é o problema? Tá sem confiança?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022746A",
+  "en": "BRENDAN: Want to battle to see who's\\nbeen raising POKéMON better?",
+  "pt": "BRENDAN: Quer batalhar pra ver quem tem treinado melhor as CAPTURAS?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02274AC",
+  "en": "BRENDAN: Aww, but you know I'm not\\ngoing to lose to no {PLAYER}.",
+  "pt": "BRENDAN: Ah, mas você sabe que eu não vou perder pra você, {PLAYER}."
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02274E7",
+  "en": "Humph…\\nYou've done a lot of raising.\\pThat stings a bit--I had a head start\\non you as a TRAINER…",
+  "pt": "Hmpf… Você treinou bastante.\\pIsso dói um pouco--eu comecei antes de você como TREINADOR…"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227547",
+  "en": "BRENDAN: I…\\nI plan on going home to LITTLEROOT.\\pYou know I'm helping out my dad on his\\nPOKéDEX. It's coming together pretty\\ldecently, so I should go show him.",
+  "pt": "BRENDAN: Eu… Pretendo voltar pra casa, em LITTLEROOT.\\pVocê sabe que eu ajudo o meu pai com a TATTLEDEX dele. Ela está ficando bem decente, então devo ir mostrar pra ele."
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02275E6",
+  "en": "{PLAYER}, what are you going to do?\\pCollect all the GYM BADGES and take\\nthe POKéMON LEAGUE challenge?\\pMaybe I'll do that, too…\\pWell, anyway, hang in there!",
+  "pt": "{PLAYER}, o que você vai fazer?\\pJuntar todas as INSÍGNIAS e encarar o desafio da LIGA CAPTURA?\\pTalvez eu faça isso também…\\pBom, de qualquer forma, aguenta firme!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022767C",
+  "en": "{PLAYER}, what are you going to do?\\pSince you're that strong, are you\\ntaking the POKéMON LEAGUE challenge?\\pHeh, even me--if I trained my POKéMON\\na bit more, I should be stronger than\\lyou, {PLAYER}.\\pWell, anyway, hang in there!",
+  "pt": "{PLAYER}, o que você vai fazer?\\pForte desse jeito, você vai encarar o desafio da LIGA CAPTURA?\\pHeh, até eu--se eu treinasse um pouco mais as minhas CAPTURAS, ficaria mais forte que você, {PLAYER}.\\pBom, de qualquer forma, aguenta firme!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227753",
+  "en": "{PLAYER}, what are you going to do?\\pAre you taking the BATTLE FRONTIER\\nchallenge?\\pOr, are you going to complete your\\nPOKéDEX?\\pSince you're that strong, you should\\nconsider the BATTLE FRONTIER.\\pHeh, if I train my POKéMON a bit more,\\nI'll get stronger than you, {PLAYER}.\\pMaybe I should go to the BATTLE\\nFRONTIER.\\pWell, anyway, hang in there!",
+  "pt": "{PLAYER}, o que você vai fazer?\\pVai encarar o desafio da FRONTEIRA DE BATALHA?\\pOu vai completar a sua TATTLEDEX?\\pForte desse jeito, você devia pensar na FRONTEIRA DE BATALHA.\\pHeh, se eu treinar um pouco mais as minhas CAPTURAS, vou ficar mais forte que você, {PLAYER}.\\pTalvez eu devesse ir à FRONTEIRA DE BATALHA.\\pBom, de qualquer forma, aguenta firme!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022789C",
+  "en": "Fufufu…\\pWe moved more loot into our secret\\nHIDEOUT today…\\pWh-who are you?!\\nI was just talking to myself!",
+  "pt": "Fufufu…\\pHoje levamos mais saque pro nosso ESCONDERIJO secreto…\\pQ-quem é você?! Eu só estava falando sozinho!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227905",
+  "en": "I'm just a GRUNT, so I don't know what\\nthe BOSS is thinking…\\pBut being on TEAM AQUA, I know I'll get\\nthe chance to do big things!\\pWh-who are you?!\\nI was just talking to myself!",
+  "pt": "Sou só um RECRUTA, então não sei o que o CHEFE está pensando…\\pMas, estando na EQUIPE AQUA, sei que vou ter a chance de fazer grandes coisas!\\pQ-quem é você?! Eu só estava falando sozinho!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02279B6",
+  "en": "Hey, you!\\pDon't go near the cave in the cove!\\pWhy? You don't need a reason why!\\nI'm an adult, so you just listen to me!",
+  "pt": "Ei, você!\\pNão chegue perto da caverna na enseada!\\pPor quê? Você não precisa saber o porquê! Eu sou adulto, então é só me obedecer!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227A2E",
+  "en": "If this whole wide world becomes ours,\\nTEAM AQUA's, it will be a happier\\lplace for POKéMON, too.",
+  "pt": "Se este mundo inteiro for nosso, da EQUIPE AQUA, ele vai ser um lugar mais feliz para as CAPTURAS também."
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227A8F",
+  "en": "There! WAILMER!\\nLeap out of the water now!",
+  "pt": "Agora! WAILMER! Salte para fora da água!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227ABA",
+  "en": "Hunh? What do you want?\\pYou're messing up our training,\\nso can you, like, get lost?",
+  "pt": "Hã? O que você quer?\\pVocê tá atrapalhando o nosso treino, então dá pra, tipo, sumir daqui?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227B0E",
+  "en": "There's a POKéMON CONTEST HALL\\nright in this here town. \\pThat means well-raised POKéMON will\\ncome from all over the country.\\pMy heart swells with excitement!",
+  "pt": "Tem um SALÃO DE CONCURSOS bem aqui nesta cidade.\\pIsso quer dizer que CAPTURAS bem treinadas vêm do país inteiro.\\pMeu coração se enche de empolgação!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227BAC",
+  "en": "Have you seen that strange cave in\\nthe cove at the edge of town?",
+  "pt": "Já viu aquela caverna estranha na enseada, na beira da cidade?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227BED",
+  "en": "I'm going to teach my POKéMON some new\\nmoves for entering a CONTEST.\\pSo, I'm going to see the MOVE DELETER\\nand make it forget HM moves.",
+  "pt": "Vou ensinar golpes novos às minhas CAPTURAS pra participar de um CONCURSO.\\pEntão vou ver o APAGADOR DE GOLPES e fazer elas esquecerem os golpes de HM."
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227C75",
+  "en": "I came from KANTO.\\pThe HOENN region is beautiful with\\nall its water and verdant nature.\\pHunh? Wait a second…\\pCould there be rare POKéMON that live\\nonly in this area?",
+  "pt": "Eu vim de KANTO.\\pA região de HOENN é linda, com toda essa água e natureza verdejante.\\pHã? Espere um pouco…\\pSerá que existem CAPTURAS raras que só vivem nesta região?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227D1B",
+  "en": "TEAM AQUA's been training their\\nWAILMER in the cove.\\pWe SAILORS can't get our boats out\\nto sea with them in the way!",
+  "pt": "A EQUIPE AQUA anda treinando os WAILMER deles na enseada.\\pNós, MARUJOS, não conseguimos levar os nossos barcos pro mar com eles no caminho!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227D90",
+  "en": "Ahoy, did you know?\\pSomeone punted TEAM AQUA out of\\nthe way for us!\\pThat got the WAILMER out of the cove,\\nso we can get our boats out again.",
+  "pt": "Ahoy, sabia?\\pAlguém chutou a EQUIPE AQUA pra fora do caminho pra gente!\\pCom isso, os WAILMER saíram da enseada, e a gente pode levar os barcos pro mar de novo."
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227E1D",
+  "en": "I was taking a relaxing snooze at the\\nseaside inn to the sound of waves…\\pWhen someone stole my POKéMON!\\pWho's the abductor?\\nTEAM AQUA? Is it TEAM AQUA?",
+  "pt": "Eu estava tirando um cochilo relaxante na pousada à beira-mar, ao som das ondas…\\pQuando alguém roubou a minha CAPTURA!\\pQuem foi o sequestrador? A EQUIPE AQUA? Foi a EQUIPE AQUA?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227EB5",
+  "en": "My missing POKéMON…\\nIt came back without me noticing!",
+  "pt": "A minha CAPTURA desaparecida… Ela voltou sem eu perceber!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227EEB",
+  "en": "I'm an ART DEALER.\\pI am a buyer and seller of fine art,\\nespecially paintings.\\pI've heard that the MUSEUM here has\\nmagnificent works on exhibit…",
+  "pt": "Eu sou MARCHAND.\\pCompro e vendo obras de arte, especialmente pinturas.\\pOuvi dizer que o MUSEU daqui tem obras magníficas em exposição…"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227F7B",
+  "en": "Even as we grow old and wrinkled,\\nthe sea remains forever young with\\lthe vivid brilliance of life…\\pFwohoho fwohohohoho…",
+  "pt": "Mesmo quando a gente envelhece e fica enrugado, o mar continua eternamente jovem, com o brilho vívido da vida…\\pFuohoho fuohohohoho…"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0227FF3",
+  "en": "It was sixty years ago that my husband\\nproposed to me here.\\lThe sea remains as beautiful as ever.\\pMufufufu mufufufufufu…",
+  "pt": "Foi aqui que o meu marido me pediu em casamento, há sessenta anos. O mar continua lindo como sempre.\\pMufufufu mufufufufufu…"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022806C",
+  "en": "Hm, you know of the peculiar cavern\\nin this cove?\\pThat had been a natural formation,\\nbut then that TEAM AQUA lot came\\lalong and made their renovations.\\pThey call themselves\\nthe “nature-loving TEAM AQUA”!\\pBut what they do and what they say\\ndon't match at all!",
+  "pt": "Hum, você conhece a caverna peculiar desta enseada?\\pEra uma formação natural, mas aí aquele pessoal da EQUIPE AQUA apareceu e fez as reformas deles.\\pEles se chamam de “EQUIPE AQUA, amante da natureza”!\\pMas o que eles fazem e o que eles dizem não combinam nem um pouco!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022816F",
+  "en": "That cave in the cove…\\pI didn't notice it right away,\\nbut it's completely empty now.\\pThat TEAM AQUA lot, they must\\nhave gone away for good.",
+  "pt": "Aquela caverna na enseada…\\pNão percebi logo de cara, mas agora ela está completamente vazia.\\pAquele pessoal da EQUIPE AQUA deve ter ido embora de vez."
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02281FB",
+  "en": "LILYCOVE CITY\\p“Where the land ends and the\\nsea begins.”",
+  "pt": "LILYCOVE CITY\\p“Onde a terra acaba e o mar começa.”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0228233",
+  "en": "POKéMON CONTEST HALL\\n“The gathering place for TRAINERS!”",
+  "pt": "SALÃO DE CONCURSOS\\n“O ponto de encontro de TREINADORES!”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022826C",
+  "en": "COVE LILY MOTEL\\p“Remember us as COVE LILY of\\nLILYCOVE.”",
+  "pt": "MOTEL COVE LILY\\p“Lembre-se de nós: COVE LILY, de LILYCOVE.”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02282A4",
+  "en": "LILYCOVE MUSEUM\\p“POKéMON Masterpiece Collection\\non exhibit!”",
+  "pt": "MUSEU DE LILYCOVE\\p“Coleção de Obras-Primas de CAPTURAS em exposição!”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02282E1",
+  "en": "LILYCOVE MUSEUM\\p“{PLAYER}'s POKéMON Collection\\non exhibit!”",
+  "pt": "MUSEU DE LILYCOVE\\p“Coleção de CAPTURAS de {PLAYER} em exposição!”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0228317",
+  "en": "LILYCOVE CITY HARBOR\\p“The ferry S.S. TIDAL is under\\nconstruction in SLATEPORT CITY.\\p“Service is scheduled to begin\\nshortly.”",
+  "pt": "PORTO DE LILYCOVE CITY\\p“A balsa S.S. TIDAL está em construção em SLATEPORT CITY.\\p“O serviço deve começar em breve.”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0228394",
+  "en": "LILYCOVE CITY HARBOR\\p“Enjoy a delightful cruise on\\nthe ferry S.S. TIDAL.”",
+  "pt": "PORTO DE LILYCOVE CITY\\p“Aproveite um cruzeiro encantador na balsa S.S. TIDAL.”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02283DE",
+  "en": "POKéMON TRAINER FAN CLUB\\pThe names of TRAINERS are scribbled\\nall over the sign…",
+  "pt": "FÃ-CLUBE DE TREINADORES\\pHá nomes de TREINADORES rabiscados por toda a placa…"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "022842E",
+  "en": "LILYCOVE DEPARTMENT STORE\\p“Overflowing with great merchandise\\nand excitement!\\p“A great place to find that something\\nyou need!”",
+  "pt": "LOJA DE DEPARTAMENTOS DE LILYCOVE\\p“Repleta de ótimas mercadorias e emoção!\\p“Um ótimo lugar para encontrar aquilo de que você precisa!”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02284AD",
+  "en": "MOVE DELETER'S HOUSE\\p“Unwanted POKéMON moves deleted.”",
+  "pt": "CASA DO APAGADOR DE GOLPES\\p“Apagamos golpes indesejados de CAPTURAS.”"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02284E4",
+  "en": "Do you know about the machine\\nBERRY BLENDER?",
+  "pt": "Você conhece a máquina LIQUIDIFICADOR DE FRUTAS?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0228615",
+  "en": "I heard there's a tower somewhere out\\non the sea routes.\\pIt's called the SKY PILLAR, I hear.",
+  "pt": "Ouvi dizer que existe uma torre em algum lugar nas rotas marítimas.\\pDizem que ela se chama SKY PILLAR."
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0228672",
+  "en": "I saw this tall tower somewhere\\naround ROUTE 131.\\pCould that possibly be…?",
+  "pt": "Vi uma torre alta em algum lugar perto da ROTA 131.\\pSerá que era…?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "02286BD",
+  "en": "We just arrived here on our\\nhoneymoon vacation.\\pWe happened to see a DRAGON-type\\nPOKéMON flying way up in the sky.\\pDo cool POKéMON like that live in\\nthe HOENN region?",
+  "pt": "Acabamos de chegar aqui na nossa lua de mel.\\pPor acaso, vimos uma CAPTURA do tipo DRAGÃO voando bem alto no céu.\\pSerá que CAPTURAS legais assim vivem na região de HOENN?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0228764",
+  "en": "On our honeymoon, we vowed to see as\\nmany rare POKéMON as we can.\\pSo we were delighted to see a rare\\nPOKéMON as soon as we arrived.\\pI mean, we are totally happy!",
+  "pt": "Na nossa lua de mel, prometemos ver o máximo de CAPTURAS raras que pudermos.\\pEntão ficamos encantados ao ver uma CAPTURA rara assim que chegamos.\\pQuer dizer, estamos felicíssimos!"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0323DF5",
+  "en": "When it gets right down to it…\\pThe same way suits suit me perfectly,\\na crisp breeze suits the sea.\\pAnd you, a BERRY suits you to a “T”…\\pWhy should that be so?",
+  "pt": "No fim das contas…\\pAssim como os ternos me caem como uma luva, uma brisa fresca cai bem ao mar.\\pE você… uma FRUTA cai como uma luva em você…\\pPor que será?"
+ },
+ {
+  "map": "50.5 LILYCOVE CITY",
+  "offset": "0323E94",
+  "en": "When it gets right down to it…\\pIt's because you're a TRAINER!",
+  "pt": "No fim das contas…\\pÉ porque você é um TREINADOR!"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228ACB",
+  "en": "Why would you want it?\\nYou're weird.\\pYou can keep it, but keep it a secret\\nfrom STEVEN.",
+  "pt": "Por que você ia querer isso? Você é esquisito.\\pPode ficar com ela, mas guarde segredo do STEVEN."
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228B23",
+  "en": "STEVEN's house is right over there!",
+  "pt": "A casa do STEVEN é logo ali!"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228B47",
+  "en": "Yeah, you think so, too! What are you\\nsupposed to do with some weird rock?",
+  "pt": "É, você também acha! O que alguém vai fazer com uma pedra esquisita?"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228B92",
+  "en": "Around MOSSDEEP, you can see wild\\nWAILMER.\\pIt's called, uh…\\nWhat was it now…\\pWAI, WAI, WAI…\\pWAILMER watching!",
+  "pt": "Perto de MOSSDEEP, dá pra ver WAILMER selvagens.\\pIsso se chama, hã… Como era mesmo…\\pWAI, WAI, WAI…\\pObservação de WAILMER!"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228C00",
+  "en": "The island's SPACE CENTER has been\\nlaunching huge rockets.\\pThere's been some kind of an uproar\\nover a letter they received recently.",
+  "pt": "O CENTRO ESPACIAL da ilha anda lançando foguetes enormes.\\pTeve um alvoroço por causa de uma carta que eles receberam há pouco tempo."
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228C85",
+  "en": "The island's SPACE CENTER has been\\nlaunching huge rockets.",
+  "pt": "O CENTRO ESPACIAL da ilha anda lançando foguetes enormes."
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228CC0",
+  "en": "I heard from a SAILOR buddy that\\nTEAM AQUA set up shop in LILYCOVE.\\pI also heard that someone came along\\nand wiped the floor with them!\\pBut MOSSDEEP here's been targeted\\nby that TEAM MAGMA.\\pIf you want to know what they're up to,\\ngo visit the SPACE CENTER.",
+  "pt": "Ouvi de um colega MARUJO que a EQUIPE AQUA se instalou em LILYCOVE.\\pTambém ouvi dizer que alguém apareceu e acabou com eles!\\pMas aqui em MOSSDEEP o alvo é aquela EQUIPE MAGMA.\\pSe quiser saber o que eles estão tramando, vá visitar o CENTRO ESPACIAL."
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228DC1",
+  "en": "I'm a SAILOR, so the sea's obviously\\nmore important to me.\\pBut you know? When I get back on land\\nafter a long voyage, I do feel relief!",
+  "pt": "Sou MARUJO, então é claro que o mar é mais importante pra mim.\\pMas sabe de uma coisa? Quando volto pra terra depois de uma longa viagem, eu sinto um alívio!"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228E49",
+  "en": "Wouldn't it be nice?\\pIf the whole world was covered in\\nplants and flowers like this island?",
+  "pt": "Não seria legal?\\pSe o mundo inteiro fosse coberto de plantas e flores como esta ilha?"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228EA5",
+  "en": "All life needs the sea to live, even\\nthough it makes its home on the land.\\pLife, having run its course, becomes\\nsoil and returns to the land.\\pAnd the sea is always connected to\\nthe land.\\pYes, like the very shoreline here.",
+  "pt": "Toda a vida precisa do mar para viver, mesmo fazendo o seu lar na terra.\\pA vida, depois de seguir o seu curso, vira solo e volta para a terra.\\pE o mar está sempre ligado à terra.\\pSim, como esta orla aqui."
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0228F83",
+  "en": "A voyage on a ship is fine.\\pBut crossing the sea with POKéMON\\nusing SURF…\\pNow that's an exhilarating trip!\\nWouldn't you agree, youngster?",
+  "pt": "Uma viagem de navio é boa.\\pMas atravessar o mar com CAPTURAS usando SURFAR…\\pIsso sim é uma viagem empolgante! Não concorda, meu jovem?"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "022900D",
+  "en": "This rock has a special meaning to\\nthe people at the SPACE CENTER.\\pThey put it here as their wish for\\ntheir rockets to fly safely.\\pWhen you make a wish, what do you use?\\nDo you wish upon a star?\\pI use a wish tag to make it happen.\\nThat's what I do.",
+  "pt": "Esta pedra tem um significado especial para o pessoal do CENTRO ESPACIAL.\\pEles a colocaram aqui como um pedido para que os foguetes voem em segurança.\\pQuando você faz um pedido, o que usa? Faz um pedido a uma estrela?\\pEu uso uma fitinha dos desejos pra fazer acontecer. É o que eu faço."
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0229106",
+  "en": "It's a white rock.",
+  "pt": "É uma pedra branca."
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0229119",
+  "en": "MOSSDEEP CITY POKéMON GYM\\nLEADERS: LIZA & TATE\\p“The mystic combination!”",
+  "pt": "GINÁSIO CAPTURA DE MOSSDEEP\\nLÍDERES: LIZA & TATE\\p“A combinação mística!”"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "0229162",
+  "en": "MOSSDEEP CITY\\n“Our slogan: Cherish POKéMON!”",
+  "pt": "MOSSDEEP CITY\\n“O nosso lema: valorize as CAPTURAS!”"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "022918F",
+  "en": "MOSSDEEP SPACE CENTER\\n“The closest place to space.”",
+  "pt": "CENTRO ESPACIAL DE MOSSDEEP\\n“O lugar mais perto do espaço.”"
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "02291C3",
+  "en": "SCOTT: {PLAYER}{KUN}, feeling good?\\nI'm doing great!\\pI'd heard MOSSDEEP's GYM LEADER is\\npretty strong, so I decided to come\\ltake a look-see for myself.\\pBut there's something wrong about\\nthis town.\\pPeople are going on about a warning\\nletter and the SPACE CENTER…\\pI don't think it concerns me in any\\nway, though.",
+  "pt": "SCOTT: {PLAYER}{KUN}, tudo bem? Eu estou ótimo!\\pOuvi dizer que o LÍDER DE GINÁSIO de MOSSDEEP é bem forte, então resolvi vir dar uma olhada com os meus próprios olhos.\\pMas tem algo de errado nesta cidade.\\pO pessoal só fala de uma carta de aviso e do CENTRO ESPACIAL…\\pMas acho que isso não tem nada a ver comigo."
+ },
+ {
+  "map": "50.6 COMET OBSERVATORY",
+  "offset": "02292F1",
+  "en": "Ahh… It feels great letting the waves\\nwash over my feet…\\pSpeaking of the waves, you know that\\nisland city SOOTOPOLIS?\\pI think the GYM there had a new\\nLEADER come in.\\pPeople tell me the new LEADER once\\nmentored WALLACE.",
+  "pt": "Ahh… Que delícia deixar as ondas banharem os meus pés…\\pFalando em ondas, sabe aquela cidade-ilha, SOOTOPOLIS?\\pAcho que o GINÁSIO de lá ganhou um novo LÍDER.\\pDizem que o novo LÍDER já foi mentor do WALLACE."
+ }
+]

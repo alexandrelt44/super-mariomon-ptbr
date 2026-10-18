@@ -1,0 +1,3024 @@
+[
+ {
+  "offset": "042C546",
+  "en": "Changes type to move's.",
+  "pt": "Assume o tipo do golpe.",
+  "max_width": 147
+ },
+ {
+  "offset": "042C55E",
+  "en": "Fetches failed Poké Ball.",
+  "pt": "Recupera CAP que falhou.",
+  "max_width": 154
+ },
+ {
+  "offset": "042C578",
+  "en": "Lower Speed of all when hit.",
+  "pt": "Baixa VEL. de todos se atingido.",
+  "max_width": 167
+ },
+ {
+  "offset": "042C595",
+  "en": "Ignores foe's redirection.",
+  "pt": "Ignora redirecionamento.",
+  "max_width": 161
+ },
+ {
+  "offset": "042C5B0",
+  "en": "Reflect stat decreases.",
+  "pt": "Reflete quedas de stats.",
+  "max_width": 150
+ },
+ {
+  "offset": "042C5C8",
+  "en": "If hit, spits prey from sea.",
+  "pt": "Atingido, cospe a presa.",
+  "max_width": 165
+ },
+ {
+  "offset": "042C5E5",
+  "en": "Ignores foe's redirection.",
+  "pt": "Ignora redirecionamento.",
+  "max_width": 161
+ },
+ {
+  "offset": "042C600",
+  "en": "Fire or Water hits up Speed.",
+  "pt": "Fogo e Água sobem VEL.",
+  "max_width": 167
+ },
+ {
+  "offset": "042C61D",
+  "en": "Ups and resists sound.",
+  "pt": "Fortalece e resiste a som.",
+  "max_width": 141
+ },
+ {
+  "offset": "042C634",
+  "en": "Creates a sandstorm if hit.",
+  "pt": "Atingido, gera tempestade.",
+  "max_width": 165
+ },
+ {
+  "offset": "042C650",
+  "en": "Halves special damage.",
+  "pt": "Metade do dano especial.",
+  "max_width": 141
+ },
+ {
+  "offset": "042C667",
+  "en": "Doubles effect of Berries.",
+  "pt": "Dobra o efeito de Frutas.",
+  "max_width": 162
+ },
+ {
+  "offset": "042C682",
+  "en": "Hail or Snow renew free hit.",
+  "pt": "Granizo/Neve renova escudo.",
+  "max_width": 165
+ },
+ {
+  "offset": "042C69F",
+  "en": "Powers up ally moves.",
+  "pt": "Fortalece golpe aliado.",
+  "max_width": 133
+ },
+ {
+  "offset": "042C6B5",
+  "en": "Changes type on terrain.",
+  "pt": "Muda de tipo c/ terreno.",
+  "max_width": 152
+ },
+ {
+  "offset": "042C6CE",
+  "en": "Removes walls of light.",
+  "pt": "Remove barreiras de luz.",
+  "max_width": 142
+ },
+ {
+  "offset": "042C6E6",
+  "en": "Boosts ally's Steel moves.",
+  "pt": "Fortalece Aço de aliados.",
+  "max_width": 159
+ },
+ {
+  "offset": "042C701",
+  "en": "Foe faints in 3 turns if hit.",
+  "pt": "Se tocado, ambos caem em 3.",
+  "max_width": 168
+ },
+ {
+  "offset": "042C71F",
+  "en": "Trade abilities on contact.",
+  "pt": "Troca habilidade no contato.",
+  "max_width": 165
+ },
+ {
+  "offset": "042C73B",
+  "en": "Ups Attack and locks move.",
+  "pt": "Sobe ATAQUE e trava golpe.",
+  "max_width": 163
+ },
+ {
+  "offset": "042C756",
+  "en": "All Abilities are nullified.",
+  "pt": "Anula todas habilidades.",
+  "max_width": 159
+ },
+ {
+  "offset": "042C773",
+  "en": "Protects team from poison.",
+  "pt": "Protege equipe de veneno.",
+  "max_width": 164
+ },
+ {
+  "offset": "042C78E",
+  "en": "Changes form each turn.",
+  "pt": "Muda de forma todo turno.",
+  "max_width": 148
+ },
+ {
+  "offset": "042C7A6",
+  "en": "Moves first occasionally.",
+  "pt": "Às vezes age primeiro.",
+  "max_width": 156
+ },
+ {
+  "offset": "042C7C0",
+  "en": "Contact evades protection.",
+  "pt": "Contato fura proteção.",
+  "max_width": 168
+ },
+ {
+  "offset": "042C7DB",
+  "en": "Remove ally's stat changes.",
+  "pt": "Zera stats de aliado.",
+  "max_width": 167
+ },
+ {
+  "offset": "042C7F7",
+  "en": "Ups Electric-type moves.",
+  "pt": "Fortalece golpes Elétricos.",
+  "max_width": 154
+ },
+ {
+  "offset": "042C810",
+  "en": "Ups Dragon-type moves.",
+  "pt": "Fortalece golpes Dragão.",
+  "max_width": 146
+ },
+ {
+  "offset": "042C827",
+  "en": "KOs boost Attack stat.",
+  "pt": "Nocautes sobem ATAQUE.",
+  "max_width": 144
+ },
+ {
+  "offset": "042C83E",
+  "en": "KOs boost Sp. Atk stat.",
+  "pt": "Nocautes sobem AT. ESP.",
+  "max_width": 144
+ },
+ {
+  "offset": "042C856",
+  "en": "Unnerve and Chilling Neigh.",
+  "pt": "Nervosismo e Relincho Gélido.",
+  "max_width": 163
+ },
+ {
+  "offset": "042C872",
+  "en": "Unnerve and Grim Neigh.",
+  "pt": "Nervos. e Relincho Sombrio.",
+  "max_width": 144
+ },
+ {
+  "offset": "042C88A",
+  "en": "Spreads with contact.",
+  "pt": "Espalha-se ao contato.",
+  "max_width": 138
+ },
+ {
+  "offset": "042C8A0",
+  "en": "Affects terrain when hit.",
+  "pt": "Atingido, cria terreno.",
+  "max_width": 156
+ },
+ {
+  "offset": "042C8BA",
+  "en": "Fire hits up Attack.",
+  "pt": "Fogo sobe o ATAQUE.",
+  "max_width": 127
+ },
+ {
+  "offset": "042C8CF",
+  "en": "Gets angry at half HP.",
+  "pt": "Irado c/ metade do HP.",
+  "max_width": 138
+ },
+ {
+  "offset": "042C8E6",
+  "en": "Protected by pure salts.",
+  "pt": "Protegido por sais puros.",
+  "max_width": 152
+ },
+ {
+  "offset": "042C8FF",
+  "en": "Strengthened by Fire.",
+  "pt": "Fortalecido pelo Fogo.",
+  "max_width": 137
+ },
+ {
+  "offset": "042C915",
+  "en": "Ups Attack if hit by wind.",
+  "pt": "Vento sobe o ATAQUE.",
+  "max_width": 156
+ },
+ {
+  "offset": "042C930",
+  "en": "Cannot be intimidated.",
+  "pt": "Imune a intimidação.",
+  "max_width": 141
+ },
+ {
+  "offset": "042C947",
+  "en": "Powers up Rock moves.",
+  "pt": "Fortalece golpes Pedra.",
+  "max_width": 137
+ },
+ {
+  "offset": "042C95D",
+  "en": "Gets charged by wind.",
+  "pt": "Carrega-se com vento.",
+  "max_width": 135
+ },
+ {
+  "offset": "042C973",
+  "en": "Changes form on switch out.",
+  "pt": "Muda de forma ao sair.",
+  "max_width": 168
+ },
+ {
+  "offset": "042C98F",
+  "en": "Commands from Dondozo.",
+  "pt": "Comanda de Dondozo.",
+  "max_width": 146
+ },
+ {
+  "offset": "042C9A6",
+  "en": "Gets Charged on contact.",
+  "pt": "Carrega-se no contato.",
+  "max_width": 155
+ },
+ {
+  "offset": "042C9BF",
+  "en": "Sun boosts best stat.",
+  "pt": "Sol sobe o melhor stat.",
+  "max_width": 138
+ },
+ {
+  "offset": "042C9D5",
+  "en": "Elec. field ups best stat.",
+  "pt": "Elétrico sobe melhor stat.",
+  "max_width": 156
+ },
+ {
+  "offset": "042C9F0",
+  "en": "Avoids status problems.",
+  "pt": "Evita problemas de status.",
+  "max_width": 148
+ },
+ {
+  "offset": "042CA08",
+  "en": "Lowers foes' sp. damage.",
+  "pt": "Reduz dano esp. de rivais.",
+  "max_width": 149
+ },
+ {
+  "offset": "042CA21",
+  "en": "Lowers foes' defense.",
+  "pt": "Reduz defesa dos rivais.",
+  "max_width": 137
+ },
+ {
+  "offset": "042CA37",
+  "en": "Lowers foes' damage.",
+  "pt": "Reduz dano dos rivais.",
+  "max_width": 131
+ },
+ {
+  "offset": "042CA4C",
+  "en": "Lowers foes' sp. defense.",
+  "pt": "Reduz def. esp. dos rivais.",
+  "max_width": 155
+ },
+ {
+  "offset": "042CA66",
+  "en": "Summons sunlight in battle.",
+  "pt": "Invoca sol na batalha.",
+  "max_width": 166
+ },
+ {
+  "offset": "042CA82",
+  "en": "Field becomes Electric.",
+  "pt": "Campo fica Elétrico.",
+  "max_width": 144
+ },
+ {
+  "offset": "042CA9A",
+  "en": "Copies foe's stat change.",
+  "pt": "Copia aumento do rival.",
+  "max_width": 157
+ },
+ {
+  "offset": "042CAB4",
+  "en": "Eats a used berry again.",
+  "pt": "Come a Fruta usada de novo.",
+  "max_width": 149
+ },
+ {
+  "offset": "042CACD",
+  "en": "Strengthens cutting moves.",
+  "pt": "Fortalece golpes cortantes.",
+  "max_width": 168
+ },
+ {
+  "offset": "042CAE8",
+  "en": "Inherits fallen's strength.",
+  "pt": "Herda a força dos caídos.",
+  "max_width": 166
+ },
+ {
+  "offset": "042CB04",
+  "en": "Copies ally's stat changes.",
+  "pt": "Copia os stats do aliado.",
+  "max_width": 165
+ },
+ {
+  "offset": "042CB20",
+  "en": "Throws poison spikes if hit.",
+  "pt": "Atingido, solta espinhos.",
+  "max_width": 168
+ },
+ {
+  "offset": "042CB3D",
+  "en": "Protects from priority.",
+  "pt": "Protege de prioridade.",
+  "max_width": 145
+ },
+ {
+  "offset": "042CB55",
+  "en": "Eats ground to heal HP.",
+  "pt": "Come terra e cura HP.",
+  "max_width": 144
+ },
+ {
+  "offset": "042CB6D",
+  "en": "Status moves never fail.",
+  "pt": "Golpe de status não falha.",
+  "max_width": 151
+ },
+ {
+  "offset": "042F2D0",
+  "en": "Reset Lowered Stats",
+  "pt": "Zera stats reduzidos",
+  "max_width": 131
+ },
+ {
+  "offset": "042F2E4",
+  "en": "+ All Stats",
+  "pt": "+ Todos stats",
+  "max_width": 80
+ },
+ {
+  "offset": "042F2F0",
+  "en": "++ All Stats",
+  "pt": "++ Todos stats",
+  "max_width": 86
+ },
+ {
+  "offset": "042F2FD",
+  "en": "+ Critical Hit Chance",
+  "pt": "+ Chance de crítico",
+  "max_width": 132
+ },
+ {
+  "offset": "042F313",
+  "en": "Follow Me",
+  "pt": "Siga-me",
+  "max_width": 71
+ },
+ {
+  "offset": "042F31D",
+  "en": "Recover HP",
+  "pt": "Recupera HP",
+  "max_width": 80
+ },
+ {
+  "offset": "042F328",
+  "en": "Heal Replacement HP",
+  "pt": "Cura HP de quem entra",
+  "max_width": 128
+ },
+ {
+  "offset": "042F33C",
+  "en": "Power: ",
+  "pt": "Poder: ",
+  "max_width": 59
+ },
+ {
+  "offset": "0430634",
+  "en": "Hold Effect",
+  "pt": "Efeito Item",
+  "max_width": 85
+ },
+ {
+  "offset": "0430640",
+  "en": "Ability",
+  "pt": "Habilidade",
+  "max_width": 60
+ },
+ {
+  "offset": "0430648",
+  "en": "Moves",
+  "pt": "Golpes",
+  "max_width": 54
+ },
+ {
+  "offset": "043064E",
+  "en": "Stats",
+  "pt": "Stats",
+  "max_width": 54
+ },
+ {
+  "offset": "0430654",
+  "en": "Stat Stages",
+  "pt": "Estágios",
+  "max_width": 87
+ },
+ {
+  "offset": "0430660",
+  "en": "Status1",
+  "pt": "Status1",
+  "max_width": 66
+ },
+ {
+  "offset": "0430668",
+  "en": "Status2",
+  "pt": "Status2",
+  "max_width": 66
+ },
+ {
+  "offset": "0430670",
+  "en": "Status3",
+  "pt": "Status3",
+  "max_width": 66
+ },
+ {
+  "offset": "0430678",
+  "en": "Status4",
+  "pt": "Status4",
+  "max_width": 66
+ },
+ {
+  "offset": "0430680",
+  "en": "Held Item",
+  "pt": "Item Atual",
+  "max_width": 73
+ },
+ {
+  "offset": "043068A",
+  "en": "Side Status",
+  "pt": "Status Lado",
+  "max_width": 85
+ },
+ {
+  "offset": "0430696",
+  "en": "HP Max",
+  "pt": "HP Máx",
+  "max_width": 57
+ },
+ {
+  "offset": "043069D",
+  "en": "HP Current",
+  "pt": "HP Atual",
+  "max_width": 79
+ },
+ {
+  "offset": "04306A8",
+  "en": "Freeze",
+  "pt": "Congelam.",
+  "max_width": 59
+ },
+ {
+  "offset": "04306AF",
+  "en": "Frostbite",
+  "pt": "Geladura",
+  "max_width": 75
+ },
+ {
+  "offset": "04306B9",
+  "en": "Toxic Poison",
+  "pt": "Veneno Grave",
+  "max_width": 89
+ },
+ {
+  "offset": "04306C6",
+  "en": "Toxic Counter",
+  "pt": "Contador Tóx.",
+  "max_width": 96
+ },
+ {
+  "offset": "04306D4",
+  "en": "Flinch",
+  "pt": "Recuo",
+  "max_width": 56
+ },
+ {
+  "offset": "04306DB",
+  "en": "Uproar",
+  "pt": "Alvoroço",
+  "max_width": 58
+ },
+ {
+  "offset": "04306E2",
+  "en": "Bide",
+  "pt": "Paciên.",
+  "max_width": 46
+ },
+ {
+  "offset": "04306E7",
+  "en": "Lock Confuse",
+  "pt": "Trava Confusão",
+  "max_width": 93
+ },
+ {
+  "offset": "04306F4",
+  "en": "MultipleTurns",
+  "pt": "Vários Turnos",
+  "max_width": 95
+ },
+ {
+  "offset": "0430702",
+  "en": "Focus Energy",
+  "pt": "Foco de Energia",
+  "max_width": 92
+ },
+ {
+  "offset": "043071B",
+  "en": "Recharge",
+  "pt": "Recarga",
+  "max_width": 71
+ },
+ {
+  "offset": "0430724",
+  "en": "Rage",
+  "pt": "Fúria",
+  "max_width": 48
+ },
+ {
+  "offset": "0430729",
+  "en": "Substitute",
+  "pt": "Substituto",
+  "max_width": 82
+ },
+ {
+  "offset": "0430734",
+  "en": "Substitute HP",
+  "pt": "HP Substituto",
+  "max_width": 97
+ },
+ {
+  "offset": "0430742",
+  "en": "Destiny Bond",
+  "pt": "Laço do Destino",
+  "max_width": 91
+ },
+ {
+  "offset": "043074F",
+  "en": "Cant Escape",
+  "pt": "Sem Fuga",
+  "max_width": 87
+ },
+ {
+  "offset": "043075B",
+  "en": "Nightmare",
+  "pt": "Pesadelo",
+  "max_width": 75
+ },
+ {
+  "offset": "0430765",
+  "en": "Cursed",
+  "pt": "Maldição",
+  "max_width": 59
+ },
+ {
+  "offset": "043076C",
+  "en": "Foresighted",
+  "pt": "Antevisão",
+  "max_width": 87
+ },
+ {
+  "offset": "0430778",
+  "en": "Def Curled",
+  "pt": "Enrolado",
+  "max_width": 78
+ },
+ {
+  "offset": "0430783",
+  "en": "Tormented",
+  "pt": "Tormento",
+  "max_width": 77
+ },
+ {
+  "offset": "043078D",
+  "en": "Sure Hit",
+  "pt": "Mira Certa",
+  "max_width": 66
+ },
+ {
+  "offset": "0430796",
+  "en": "Charged Up",
+  "pt": "Carregado",
+  "max_width": 80
+ },
+ {
+  "offset": "04307A1",
+  "en": "Rooted",
+  "pt": "Enraizado",
+  "max_width": 60
+ },
+ {
+  "offset": "04307A8",
+  "en": "Yawned",
+  "pt": "Bocejo",
+  "max_width": 60
+ },
+ {
+  "offset": "04307AF",
+  "en": "Minimized",
+  "pt": "Minimizado",
+  "max_width": 72
+ },
+ {
+  "offset": "04307B9",
+  "en": "No Crit",
+  "pt": "Sem Crítico",
+  "max_width": 60
+ },
+ {
+  "offset": "04307C1",
+  "en": "Imprison",
+  "pt": "Aprisionar",
+  "max_width": 69
+ },
+ {
+  "offset": "04307CA",
+  "en": "Reflect",
+  "pt": "Refletir",
+  "max_width": 64
+ },
+ {
+  "offset": "04307D2",
+  "en": "Light Screen",
+  "pt": "Tela de Luz",
+  "max_width": 90
+ },
+ {
+  "offset": "04307DF",
+  "en": "Spikes",
+  "pt": "Espinhos",
+  "max_width": 58
+ },
+ {
+  "offset": "04307E6",
+  "en": "Safeguard",
+  "pt": "Salvaguarda",
+  "max_width": 77
+ },
+ {
+  "offset": "04307F0",
+  "en": "Mist",
+  "pt": "Névoa",
+  "max_width": 46
+ },
+ {
+  "offset": "0430801",
+  "en": "Types",
+  "pt": "Tipos",
+  "max_width": 54
+ },
+ {
+  "offset": "0430807",
+  "en": "Gastro Acid",
+  "pt": "Ácido Gástrico",
+  "max_width": 84
+ },
+ {
+  "offset": "0430813",
+  "en": "Smacked Down",
+  "pt": "Derrubado",
+  "max_width": 93
+ },
+ {
+  "offset": "0430820",
+  "en": "Miracle Eye",
+  "pt": "Olho Milagroso",
+  "max_width": 82
+ },
+ {
+  "offset": "043082C",
+  "en": "Aqua Ring",
+  "pt": "Anel Aquático",
+  "max_width": 73
+ },
+ {
+  "offset": "0430836",
+  "en": "Laser Focused",
+  "pt": "Foco Laser",
+  "max_width": 98
+ },
+ {
+  "offset": "0430844",
+  "en": "Electrified",
+  "pt": "Eletrificado",
+  "max_width": 83
+ },
+ {
+  "offset": "0430850",
+  "en": "Aurora Veil",
+  "pt": "Véu Aurora",
+  "max_width": 81
+ },
+ {
+  "offset": "043085C",
+  "en": "Lucky Chant",
+  "pt": "Canto da Sorte",
+  "max_width": 87
+ },
+ {
+  "offset": "0430868",
+  "en": "Tailwind",
+  "pt": "Vento Favor",
+  "max_width": 66
+ },
+ {
+  "offset": "0430871",
+  "en": "PP",
+  "pt": "PP",
+  "max_width": 18
+ },
+ {
+  "offset": "0430874",
+  "en": "Stealth Rock",
+  "pt": "Pedras Furtivas",
+  "max_width": 91
+ },
+ {
+  "offset": "0430881",
+  "en": "Toxic Spikes",
+  "pt": "Espinhos Tóxicos",
+  "max_width": 89
+ },
+ {
+  "offset": "043088E",
+  "en": "Sticky Web",
+  "pt": "Teia Pegajosa",
+  "max_width": 79
+ },
+ {
+  "offset": "0430899",
+  "en": "AI",
+  "pt": "IA",
+  "max_width": 18
+ },
+ {
+  "offset": "043089C",
+  "en": "No Bad Moves",
+  "pt": "Sem Golpes Ruins",
+  "max_width": 90
+ },
+ {
+  "offset": "04308A9",
+  "en": "Viability",
+  "pt": "Viabilidade",
+  "max_width": 70
+ },
+ {
+  "offset": "04308B3",
+  "en": "Try Faint",
+  "pt": "Tenta KO",
+  "max_width": 72
+ },
+ {
+  "offset": "04308BD",
+  "en": "Setup 1 turn",
+  "pt": "Preparo 1 turno",
+  "max_width": 89
+ },
+ {
+  "offset": "04308CA",
+  "en": "Risky",
+  "pt": "Arriscado",
+  "max_width": 52
+ },
+ {
+  "offset": "04308D0",
+  "en": "Most dmg move",
+  "pt": "Golpe + dano",
+  "max_width": 96
+ },
+ {
+  "offset": "04308DE",
+  "en": "Various",
+  "pt": "Vários",
+  "max_width": 63
+ },
+ {
+  "offset": "04308E6",
+  "en": "Show HP",
+  "pt": "Mostrar HP",
+  "max_width": 63
+ },
+ {
+  "offset": "04308EE",
+  "en": "Baton Pass",
+  "pt": "Passar Bastão",
+  "max_width": 81
+ },
+ {
+  "offset": "04308F9",
+  "en": "In Doubles",
+  "pt": "Em Duplas",
+  "max_width": 79
+ },
+ {
+  "offset": "0430904",
+  "en": "HP aware",
+  "pt": "Ciente do HP",
+  "max_width": 68
+ },
+ {
+  "offset": "043090D",
+  "en": "Negate Unaware",
+  "pt": "Anula Indiferente",
+  "max_width": 104
+ },
+ {
+  "offset": "043091C",
+  "en": "Suicide",
+  "pt": "Kamikaze",
+  "max_width": 62
+ },
+ {
+  "offset": "0430924",
+  "en": "Help Partner",
+  "pt": "Ajuda Parceiro",
+  "max_width": 89
+ },
+ {
+  "offset": "0430931",
+  "en": "Status Moves",
+  "pt": "Golpes Status",
+  "max_width": 93
+ },
+ {
+  "offset": "043093E",
+  "en": "Stall",
+  "pt": "Enrolar",
+  "max_width": 50
+ },
+ {
+  "offset": "0430944",
+  "en": "Screener",
+  "pt": "Barreiras",
+  "max_width": 70
+ },
+ {
+  "offset": "043094D",
+  "en": "Smart Switch",
+  "pt": "Troca Esperta",
+  "max_width": 90
+ },
+ {
+  "offset": "043095A",
+  "en": "Ace",
+  "pt": "Ás",
+  "max_width": 42
+ },
+ {
+  "offset": "0430971",
+  "en": "In Love",
+  "pt": "Apaixonado",
+  "max_width": 63
+ },
+ {
+  "offset": "0430979",
+  "en": "AI Pts/Dmg",
+  "pt": "IA Pts/Dano",
+  "max_width": 81
+ },
+ {
+  "offset": "0430984",
+  "en": "AI Info",
+  "pt": "IA Info",
+  "max_width": 63
+ },
+ {
+  "offset": "043098C",
+  "en": "AI Party",
+  "pt": "IA Equipe",
+  "max_width": 68
+ },
+ {
+  "offset": "0430E07",
+  "en": "All",
+  "pt": "Todos",
+  "max_width": 38
+ },
+ {
+  "offset": "0430E14",
+  "en": "Restore Hp",
+  "pt": "Restaura HP",
+  "max_width": 80
+ },
+ {
+  "offset": "0430E1F",
+  "en": "Cure Par",
+  "pt": "Cura PAR",
+  "max_width": 67
+ },
+ {
+  "offset": "0430E28",
+  "en": "Cure Slp",
+  "pt": "Cura SNO",
+  "max_width": 66
+ },
+ {
+  "offset": "0430E31",
+  "en": "Cure Psn",
+  "pt": "Cura VEN",
+  "max_width": 68
+ },
+ {
+  "offset": "0430E3A",
+  "en": "Cure Brn",
+  "pt": "Cura QMD",
+  "max_width": 67
+ },
+ {
+  "offset": "0430E43",
+  "en": "Cure Frz",
+  "pt": "Cura CGL",
+  "max_width": 67
+ },
+ {
+  "offset": "0430E4C",
+  "en": "Restore Pp",
+  "pt": "Restaura PP",
+  "max_width": 80
+ },
+ {
+  "offset": "0430E57",
+  "en": "Cure Confusion",
+  "pt": "Cura Confusão",
+  "max_width": 102
+ },
+ {
+  "offset": "0430E66",
+  "en": "Cure Status",
+  "pt": "Cura Status",
+  "max_width": 86
+ },
+ {
+  "offset": "0430E72",
+  "en": "Confuse Spicy",
+  "pt": "Confunde Picante",
+  "max_width": 97
+ },
+ {
+  "offset": "0430E80",
+  "en": "Confuse Dry",
+  "pt": "Confunde Seco",
+  "max_width": 86
+ },
+ {
+  "offset": "0430E8C",
+  "en": "Confuse Sweet",
+  "pt": "Confunde Doce",
+  "max_width": 99
+ },
+ {
+  "offset": "0430E9A",
+  "en": "Confuse Bitter",
+  "pt": "Confunde Amargo",
+  "max_width": 102
+ },
+ {
+  "offset": "0430EA9",
+  "en": "Confuse Sour",
+  "pt": "Confunde Azedo",
+  "max_width": 92
+ },
+ {
+  "offset": "0430EB6",
+  "en": "Attack Up",
+  "pt": "Sobe Ataque",
+  "max_width": 75
+ },
+ {
+  "offset": "0430EC0",
+  "en": "Defense Up",
+  "pt": "Sobe Defesa",
+  "max_width": 81
+ },
+ {
+  "offset": "0430ECB",
+  "en": "Speed Up",
+  "pt": "Sobe VEL.",
+  "max_width": 69
+ },
+ {
+  "offset": "0430ED4",
+  "en": "Sp Attack Up",
+  "pt": "Sobe At. Esp.",
+  "max_width": 90
+ },
+ {
+  "offset": "0430EE1",
+  "en": "Sp Defense Up",
+  "pt": "Sobe Def. Esp.",
+  "max_width": 96
+ },
+ {
+  "offset": "0430EEF",
+  "en": "Critical Up",
+  "pt": "Sobe Crítico",
+  "max_width": 80
+ },
+ {
+  "offset": "0430EFB",
+  "en": "Random Stat Up",
+  "pt": "Sobe Stat Aleat.",
+  "max_width": 102
+ },
+ {
+  "offset": "0430F0A",
+  "en": "Evasion Up",
+  "pt": "Sobe Evasão",
+  "max_width": 79
+ },
+ {
+  "offset": "0430F15",
+  "en": "Restore Stats",
+  "pt": "Restaura Stats",
+  "max_width": 98
+ },
+ {
+  "offset": "0430F23",
+  "en": "Macho Brace",
+  "pt": "Cinta Macho",
+  "max_width": 86
+ },
+ {
+  "offset": "0430F2F",
+  "en": "Exp Share",
+  "pt": "Compart. Exp.",
+  "max_width": 74
+ },
+ {
+  "offset": "0430F39",
+  "en": "Quick Claw",
+  "pt": "Garra Rápida",
+  "max_width": 77
+ },
+ {
+  "offset": "0430F44",
+  "en": "Friendship Up",
+  "pt": "Sobe Amizade",
+  "max_width": 94
+ },
+ {
+  "offset": "0430F52",
+  "en": "Mental Herb",
+  "pt": "Erva Mental",
+  "max_width": 84
+ },
+ {
+  "offset": "0430F5E",
+  "en": "Choice Band",
+  "pt": "Faixa Escolha",
+  "max_width": 85
+ },
+ {
+  "offset": "0430F6A",
+  "en": "Flinch",
+  "pt": "Recuo",
+  "max_width": 56
+ },
+ {
+  "offset": "0430F71",
+  "en": "Bug Power",
+  "pt": "Poder Inseto",
+  "max_width": 74
+ },
+ {
+  "offset": "0430F7B",
+  "en": "Double Prize",
+  "pt": "Prêmio Duplo",
+  "max_width": 88
+ },
+ {
+  "offset": "0430F88",
+  "en": "Repel",
+  "pt": "Repelente",
+  "max_width": 52
+ },
+ {
+  "offset": "0430F8E",
+  "en": "Soul Dew",
+  "pt": "Orvalho Alma",
+  "max_width": 67
+ },
+ {
+  "offset": "0430F97",
+  "en": "Deep Sea Tooth",
+  "pt": "Dente Abissal",
+  "max_width": 102
+ },
+ {
+  "offset": "0430FA6",
+  "en": "Deep Sea Scale",
+  "pt": "Escama Abissal",
+  "max_width": 100
+ },
+ {
+  "offset": "0430FB5",
+  "en": "Can Always Run",
+  "pt": "Sempre Foge",
+  "max_width": 100
+ },
+ {
+  "offset": "0430FC4",
+  "en": "Prevent Evolve",
+  "pt": "Impede Evolução",
+  "max_width": 102
+ },
+ {
+  "offset": "0430FD3",
+  "en": "Focus Band",
+  "pt": "Faixa Foco",
+  "max_width": 81
+ },
+ {
+  "offset": "0430FDE",
+  "en": "Lucky Egg",
+  "pt": "Ovo da Sorte",
+  "max_width": 75
+ },
+ {
+  "offset": "0430FE8",
+  "en": "Scope Lens",
+  "pt": "Lente de Mira",
+  "max_width": 81
+ },
+ {
+  "offset": "0430FF3",
+  "en": "Steel Power",
+  "pt": "Poder Aço",
+  "max_width": 84
+ },
+ {
+  "offset": "0430FFF",
+  "en": "Leftovers",
+  "pt": "Restos",
+  "max_width": 77
+ },
+ {
+  "offset": "0431009",
+  "en": "Dragon Scale",
+  "pt": "Escama Dragão",
+  "max_width": 90
+ },
+ {
+  "offset": "0431016",
+  "en": "Light Ball",
+  "pt": "Bola de Luz",
+  "max_width": 75
+ },
+ {
+  "offset": "0431021",
+  "en": "Ground Power",
+  "pt": "Poder Terra",
+  "max_width": 91
+ },
+ {
+  "offset": "043102E",
+  "en": "Rock Power",
+  "pt": "Poder Pedra",
+  "max_width": 80
+ },
+ {
+  "offset": "0431039",
+  "en": "Grass Power",
+  "pt": "Poder Planta",
+  "max_width": 85
+ },
+ {
+  "offset": "0431045",
+  "en": "Dark Power",
+  "pt": "Poder Sombrio",
+  "max_width": 79
+ },
+ {
+  "offset": "0431050",
+  "en": "Fighting Power",
+  "pt": "Poder Lutador",
+  "max_width": 100
+ },
+ {
+  "offset": "043105F",
+  "en": "Electric Power",
+  "pt": "Poder Elétrico",
+  "max_width": 99
+ },
+ {
+  "offset": "043106E",
+  "en": "Water Power",
+  "pt": "Poder Água",
+  "max_width": 85
+ },
+ {
+  "offset": "043107A",
+  "en": "Flying Power",
+  "pt": "Poder Voador",
+  "max_width": 88
+ },
+ {
+  "offset": "0431087",
+  "en": "Poison Power",
+  "pt": "Poder Venenoso",
+  "max_width": 90
+ },
+ {
+  "offset": "0431094",
+  "en": "Ice Power",
+  "pt": "Poder Gelo",
+  "max_width": 74
+ },
+ {
+  "offset": "043109E",
+  "en": "Ghost Power",
+  "pt": "Poder Fantasma",
+  "max_width": 86
+ },
+ {
+  "offset": "04310AA",
+  "en": "Psychic Power",
+  "pt": "Poder Psíquico",
+  "max_width": 96
+ },
+ {
+  "offset": "04310B8",
+  "en": "Fire Power",
+  "pt": "Poder Fogo",
+  "max_width": 77
+ },
+ {
+  "offset": "04310C3",
+  "en": "Dragon Power",
+  "pt": "Poder Dragão",
+  "max_width": 91
+ },
+ {
+  "offset": "04310D0",
+  "en": "Normal Power",
+  "pt": "Poder Normal",
+  "max_width": 89
+ },
+ {
+  "offset": "04310DD",
+  "en": "Upgrade",
+  "pt": "Upgrade",
+  "max_width": 65
+ },
+ {
+  "offset": "04310E5",
+  "en": "Shell Bell",
+  "pt": "Sino Concha",
+  "max_width": 73
+ },
+ {
+  "offset": "04310F0",
+  "en": "Lucky Punch",
+  "pt": "Soco da Sorte",
+  "max_width": 87
+ },
+ {
+  "offset": "04310FC",
+  "en": "Metal Powder",
+  "pt": "Pó Metálico",
+  "max_width": 90
+ },
+ {
+  "offset": "0431109",
+  "en": "Thick Club",
+  "pt": "Osso Grosso",
+  "max_width": 77
+ },
+ {
+  "offset": "0431114",
+  "en": "Leek",
+  "pt": "Alho",
+  "max_width": 48
+ },
+ {
+  "offset": "0431119",
+  "en": "Choice Scarf",
+  "pt": "Lenço Escolha",
+  "max_width": 90
+ },
+ {
+  "offset": "0431126",
+  "en": "Choice Specs",
+  "pt": "Óculos Escolha",
+  "max_width": 91
+ },
+ {
+  "offset": "0431133",
+  "en": "Damp Rock",
+  "pt": "Rocha Úmida",
+  "max_width": 75
+ },
+ {
+  "offset": "043113D",
+  "en": "Grip Claw",
+  "pt": "Garra Firme",
+  "max_width": 70
+ },
+ {
+  "offset": "0431147",
+  "en": "Heat Rock",
+  "pt": "Rocha Quente",
+  "max_width": 75
+ },
+ {
+  "offset": "0431151",
+  "en": "Icy Rock",
+  "pt": "Rocha Gelada",
+  "max_width": 69
+ },
+ {
+  "offset": "043115A",
+  "en": "Light Clay",
+  "pt": "Argila Leve",
+  "max_width": 77
+ },
+ {
+  "offset": "0431165",
+  "en": "Smooth Rock",
+  "pt": "Rocha Lisa",
+  "max_width": 87
+ },
+ {
+  "offset": "0431171",
+  "en": "Power Herb",
+  "pt": "Erva Poder",
+  "max_width": 79
+ },
+ {
+  "offset": "043117C",
+  "en": "Big Root",
+  "pt": "Raiz Grande",
+  "max_width": 67
+ },
+ {
+  "offset": "0431185",
+  "en": "Expert Belt",
+  "pt": "Cinto Perito",
+  "max_width": 84
+ },
+ {
+  "offset": "0431191",
+  "en": "Life Orb",
+  "pt": "Orbe Vital",
+  "max_width": 66
+ },
+ {
+  "offset": "043119A",
+  "en": "Metronome",
+  "pt": "Metrônomo",
+  "max_width": 77
+ },
+ {
+  "offset": "04311A4",
+  "en": "Muscle Band",
+  "pt": "Faixa Músculo",
+  "max_width": 85
+ },
+ {
+  "offset": "04311B0",
+  "en": "Wide Lens",
+  "pt": "Lente Ampla",
+  "max_width": 73
+ },
+ {
+  "offset": "04311BA",
+  "en": "Wise Glasses",
+  "pt": "Óculos Sábios",
+  "max_width": 89
+ },
+ {
+  "offset": "04311C7",
+  "en": "Zoom Lens",
+  "pt": "Lente Zoom",
+  "max_width": 75
+ },
+ {
+  "offset": "04311D1",
+  "en": "Lagging Tail",
+  "pt": "Cauda Lenta",
+  "max_width": 87
+ },
+ {
+  "offset": "04311DE",
+  "en": "Focus Sash",
+  "pt": "Cinta Foco",
+  "max_width": 81
+ },
+ {
+  "offset": "04311E9",
+  "en": "Flame Orb",
+  "pt": "Orbe Chama",
+  "max_width": 72
+ },
+ {
+  "offset": "04311F3",
+  "en": "Toxic Orb",
+  "pt": "Orbe Tóxico",
+  "max_width": 72
+ },
+ {
+  "offset": "04311FD",
+  "en": "Sticky Barb",
+  "pt": "Farpa Adesiva",
+  "max_width": 84
+ },
+ {
+  "offset": "0431209",
+  "en": "Iron Ball",
+  "pt": "Bola de Ferro",
+  "max_width": 70
+ },
+ {
+  "offset": "0431213",
+  "en": "Black Sludge",
+  "pt": "Lodo Negro",
+  "max_width": 89
+ },
+ {
+  "offset": "0431220",
+  "en": "Destiny Knot",
+  "pt": "Laço Destino",
+  "max_width": 91
+ },
+ {
+  "offset": "043122D",
+  "en": "Shed Shell",
+  "pt": "Casca Muda",
+  "max_width": 77
+ },
+ {
+  "offset": "0431238",
+  "en": "Quick Powder",
+  "pt": "Pó Rápido",
+  "max_width": 90
+ },
+ {
+  "offset": "0431245",
+  "en": "Adamant Orb",
+  "pt": "Orbe Adamante",
+  "max_width": 86
+ },
+ {
+  "offset": "0431251",
+  "en": "Lustrous Orb",
+  "pt": "Orbe Lustroso",
+  "max_width": 91
+ },
+ {
+  "offset": "043125E",
+  "en": "Griseous Orb",
+  "pt": "Orbe Gríseo",
+  "max_width": 89
+ },
+ {
+  "offset": "043126B",
+  "en": "Enigma Berry",
+  "pt": "Fruta Enigma",
+  "max_width": 89
+ },
+ {
+  "offset": "0431278",
+  "en": "Resist Berry",
+  "pt": "Fruta Resist.",
+  "max_width": 89
+ },
+ {
+  "offset": "0431285",
+  "en": "Power Item",
+  "pt": "Item Poder",
+  "max_width": 80
+ },
+ {
+  "offset": "0431290",
+  "en": "Restore Pct Hp",
+  "pt": "Restaura % HP",
+  "max_width": 101
+ },
+ {
+  "offset": "043129F",
+  "en": "Micle Berry",
+  "pt": "Fruta Micle",
+  "max_width": 81
+ },
+ {
+  "offset": "04312AB",
+  "en": "Custap Berry",
+  "pt": "Fruta Custap",
+  "max_width": 91
+ },
+ {
+  "offset": "04312B8",
+  "en": "Jaboca Berry",
+  "pt": "Fruta Jaboca",
+  "max_width": 91
+ },
+ {
+  "offset": "04312C5",
+  "en": "Rowap Berry",
+  "pt": "Fruta Rowap",
+  "max_width": 85
+ },
+ {
+  "offset": "04312D1",
+  "en": "Kee Berry",
+  "pt": "Fruta Kee",
+  "max_width": 73
+ },
+ {
+  "offset": "04312DB",
+  "en": "Maranga Berry",
+  "pt": "Fruta Maranga",
+  "max_width": 96
+ },
+ {
+  "offset": "04312E9",
+  "en": "Float Stone",
+  "pt": "Pedra-pomes",
+  "max_width": 85
+ },
+ {
+  "offset": "04312F5",
+  "en": "Eviolite",
+  "pt": "Eviolita",
+  "max_width": 66
+ },
+ {
+  "offset": "04312FE",
+  "en": "Assault Vest",
+  "pt": "Colete Assalto",
+  "max_width": 91
+ },
+ {
+  "offset": "043130B",
+  "en": "Drive",
+  "pt": "Drive",
+  "max_width": 51
+ },
+ {
+  "offset": "0431311",
+  "en": "Gems",
+  "pt": "Joias",
+  "max_width": 48
+ },
+ {
+  "offset": "0431316",
+  "en": "Rocky Helmet",
+  "pt": "Elmo Rochoso",
+  "max_width": 91
+ },
+ {
+  "offset": "0431323",
+  "en": "Air Balloon",
+  "pt": "Balão",
+  "max_width": 80
+ },
+ {
+  "offset": "043132F",
+  "en": "Red Card",
+  "pt": "Cartão Verm.",
+  "max_width": 68
+ },
+ {
+  "offset": "0431338",
+  "en": "Ring Target",
+  "pt": "Alvo Anel",
+  "max_width": 84
+ },
+ {
+  "offset": "0431344",
+  "en": "Binding Band",
+  "pt": "Faixa Aperto",
+  "max_width": 89
+ },
+ {
+  "offset": "0431351",
+  "en": "Eject Button",
+  "pt": "Botão Ejetar",
+  "max_width": 92
+ },
+ {
+  "offset": "043135E",
+  "en": "Absorb Bulb",
+  "pt": "Bulbo Absorv.",
+  "max_width": 84
+ },
+ {
+  "offset": "043136A",
+  "en": "Cell Battery",
+  "pt": "Bateria",
+  "max_width": 88
+ },
+ {
+  "offset": "0431377",
+  "en": "Fairy Power",
+  "pt": "Poder Fada",
+  "max_width": 83
+ },
+ {
+  "offset": "0431383",
+  "en": "Mega Stone",
+  "pt": "Mega Pedra",
+  "max_width": 81
+ },
+ {
+  "offset": "043138E",
+  "en": "Safety Goggles",
+  "pt": "Óculos Prot.",
+  "max_width": 103
+ },
+ {
+  "offset": "043139D",
+  "en": "Luminous Moss",
+  "pt": "Musgo Brilho",
+  "max_width": 97
+ },
+ {
+  "offset": "04313AB",
+  "en": "Snowball",
+  "pt": "Bola de Neve",
+  "max_width": 68
+ },
+ {
+  "offset": "04313B4",
+  "en": "Weakness Policy",
+  "pt": "Seguro Fraqueza",
+  "max_width": 107
+ },
+ {
+  "offset": "04313C4",
+  "en": "Primal Orb",
+  "pt": "Orbe Primal",
+  "max_width": 75
+ },
+ {
+  "offset": "04313CF",
+  "en": "Protective Pads",
+  "pt": "Protetores",
+  "max_width": 108
+ },
+ {
+  "offset": "04313DF",
+  "en": "Terrain Extender",
+  "pt": "Extensor Terreno",
+  "max_width": 112
+ },
+ {
+  "offset": "04313F0",
+  "en": "Seeds",
+  "pt": "Sementes",
+  "max_width": 54
+ },
+ {
+  "offset": "04313F6",
+  "en": "Adrenaline Orb",
+  "pt": "Orbe Adrenal.",
+  "max_width": 99
+ },
+ {
+  "offset": "0431405",
+  "en": "Memory",
+  "pt": "Memória",
+  "max_width": 59
+ },
+ {
+  "offset": "043140C",
+  "en": "Z-Crystal",
+  "pt": "Cristal Z",
+  "max_width": 75
+ },
+ {
+  "offset": "0431416",
+  "en": "Plate",
+  "pt": "Placa",
+  "max_width": 52
+ },
+ {
+  "offset": "043141C",
+  "en": "Utility Umbrella",
+  "pt": "Guarda-chuva",
+  "max_width": 106
+ },
+ {
+  "offset": "043142D",
+  "en": "Eject Pack",
+  "pt": "Mochila Ejetar",
+  "max_width": 80
+ },
+ {
+  "offset": "0431438",
+  "en": "Room Service",
+  "pt": "Serviço Quarto",
+  "max_width": 90
+ },
+ {
+  "offset": "0431445",
+  "en": "Blunder Policy",
+  "pt": "Seguro de Erro",
+  "max_width": 98
+ },
+ {
+  "offset": "0431454",
+  "en": "Heavy Duty Boots",
+  "pt": "Botas Reforçadas",
+  "max_width": 114
+ },
+ {
+  "offset": "0431465",
+  "en": "Throat Spray",
+  "pt": "Spray Vocal",
+  "max_width": 91
+ },
+ {
+  "offset": "047AB24",
+  "en": "TX RANDOM WILD PKMN",
+  "pt": "TX SELVAGEM ALEATÓRIO",
+  "max_width": 129
+ },
+ {
+  "offset": "047ABD3",
+  "en": "EVO TYPE 0",
+  "pt": "TIPO EVO 0",
+  "max_width": 60
+ },
+ {
+  "offset": "049107D",
+  "en": "Is this trade okay?",
+  "pt": "Confirma a troca?",
+  "max_width": 126
+ },
+ {
+  "offset": "0491091",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0491098",
+  "en": "Choose a CAPTURE.",
+  "pt": "Escolha uma CAPTURA.",
+  "max_width": 117
+ },
+ {
+  "offset": "04910AA",
+  "en": "SUMMARY",
+  "pt": "RESUMO",
+  "max_width": 48
+ },
+ {
+  "offset": "04910B2",
+  "en": "TRADE",
+  "pt": "TROCA",
+  "max_width": 36
+ },
+ {
+  "offset": "04910B8",
+  "en": "Cancel trade?",
+  "pt": "Cancelar a troca?",
+  "max_width": 96
+ },
+ {
+  "offset": "04910D3",
+  "en": "SUMMARY",
+  "pt": "RESUMO",
+  "max_width": 48
+ },
+ {
+  "offset": "04910DB",
+  "en": "TRADE",
+  "pt": "TROCA",
+  "max_width": 36
+ },
+ {
+  "offset": "04910E1",
+  "en": "{COLOR 02}{HIGHLIGHT 01}{SHADOW 03}Communication standby…\\nPlease wait.",
+  "pt": "{COLOR 02}{HIGHLIGHT 01}{SHADOW 03}Aguardando comunicação…\\nAguarde.",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "049110E",
+  "en": "{COLOR 02}{HIGHLIGHT 01}{SHADOW 03}The trade has\\nbeen canceled.",
+  "pt": "{COLOR 02}{HIGHLIGHT 01}{SHADOW 03}A troca foi\\ncancelada.",
+  "max_lines": 2,
+  "max_width": 86
+ },
+ {
+  "offset": "0491134",
+  "en": "That's your only\\nCAPTURE for battle.",
+  "pt": "Essa é sua única\\nCAPTURA de batalha.",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "0491159",
+  "en": "{COLOR 02}{HIGHLIGHT 01}{SHADOW 03}Waiting for your friend\\nto finish…",
+  "pt": "{COLOR 02}{HIGHLIGHT 01}{SHADOW 03}Esperando seu amigo\\nterminar…",
+  "max_lines": 2,
+  "max_width": 130
+ },
+ {
+  "offset": "0491185",
+  "en": "Your friend wants\\nto trade CAPTURES.",
+  "pt": "Seu amigo quer\\ntrocar CAPTURAS.",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "049C458",
+  "en": "DOTS",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "049CDBE",
+  "en": "Starting up the BERRY BLENDER.\\pPlease select a BERRY from your BAG\\nto put in the BERRY BLENDER.\\p",
+  "pt": "Ligando o LIQUIDIFICADOR DE FRUTAS.\\pEscolha uma FRUTA da sua BOLSA\\npara pôr no LIQUIDIFICADOR DE FRUTAS.\\p"
+ },
+ {
+  "offset": "049CE21",
+  "en": " was made!",
+  "pt": " foi feito!",
+  "max_width": 76
+ },
+ {
+  "offset": "049CE2C",
+  "en": "MISTER",
+  "pt": "MOÇO",
+  "max_width": 42
+ },
+ {
+  "offset": "049CE33",
+  "en": "LADDIE",
+  "pt": "GAROTO",
+  "max_width": 42
+ },
+ {
+  "offset": "049CE3A",
+  "en": "LASSIE",
+  "pt": "GAROTA",
+  "max_width": 42
+ },
+ {
+  "offset": "049CE41",
+  "en": "MASTER",
+  "pt": "MESTRE",
+  "max_width": 42
+ },
+ {
+  "offset": "049CE48",
+  "en": "DUDE",
+  "pt": "CARA",
+  "max_width": 30
+ },
+ {
+  "offset": "049CE4D",
+  "en": "MISS",
+  "pt": "MOÇA",
+  "max_width": 30
+ },
+ {
+  "offset": "049CE9E",
+  "en": "Communication standby…",
+  "pt": "Aguardando comunicação…",
+  "max_width": 149
+ },
+ {
+  "offset": "049CEB5",
+  "en": "Would you like to blend another BERRY?",
+  "pt": "Quer bater outra FRUTA?"
+ },
+ {
+  "offset": "049CEDC",
+  "en": "You've run out of BERRIES for\\nblending in the BERRY BLENDER.\\p",
+  "pt": "Suas FRUTAS para o LIQUIDIFICADOR\\nDE FRUTAS acabaram.\\p"
+ },
+ {
+  "offset": "049CF34",
+  "en": " has no BERRIES to put in\\nthe BERRY BLENDER.",
+  "pt": " não tem FRUTAS para pôr\\nno LIQUIDIFICADOR.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "049CF79",
+  "en": "RESULTS OF BLENDING",
+  "pt": "RESULTADO DA MISTURA",
+  "max_width": 132
+ },
+ {
+  "offset": "049CF98",
+  "en": " BERRY",
+  "pt": " FRUTA",
+  "max_width": 39
+ },
+ {
+  "offset": "049CF9F",
+  "en": "Time:",
+  "pt": "Tempo:",
+  "max_width": 49
+ },
+ {
+  "offset": "049CFA5",
+  "en": " min. ",
+  "pt": " min. ",
+  "max_width": 49
+ },
+ {
+  "offset": "049CFAC",
+  "en": " sec.",
+  "pt": " seg.",
+  "max_width": 48
+ },
+ {
+  "offset": "049CFB2",
+  "en": "MAXIMUM SPEED",
+  "pt": "VELOC. MÁXIMA",
+  "max_width": 81
+ },
+ {
+  "offset": "049CFC0",
+  "en": " RPM",
+  "pt": " RPM",
+  "max_width": 27
+ },
+ {
+  "offset": "049CFCB",
+  "en": "RANKING",
+  "pt": "RANKING",
+  "max_width": 48
+ },
+ {
+  "offset": "049CFD3",
+  "en": "The level is ",
+  "pt": "O nível é ",
+  "max_width": 87
+ },
+ {
+  "offset": "049CFE1",
+  "en": ", and the feel is ",
+  "pt": ", e a maciez é ",
+  "max_width": 110
+ },
+ {
+  "offset": "06CEA78",
+  "en": "                                                                               i  iQ VQR SQR SAR            i   Bi  RBÒ RBh RQh VRRQVRRRVRRRVSRRkiSR:iii ",
+  "pt": ""
+ },
+ {
+  "offset": "06F4178",
+  "en": "   :  :C  kS Vh{FC_00}SSC ihQVSChVSSCÔ",
+  "pt": ""
+ },
+ {
+  "offset": "06FBDF8",
+  "en": "  Vi VSA SAAVBAAVAAASBAASAAQSRQAiÒ  BhÒ QQi ARhÒQQSÒARh{FD CB}Rh{FD BC}RS{FD CD}BBRSSRQiRhRiSSS:iih:kii ",
+  "pt": ""
+ },
+ {
+  "offset": "0715118",
+  "en": "iiiiiiiii",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "0717D98",
+  "en": "▶zzz",
+  "pt": "",
+  "max_width": 50
+ },
+ {
+  "offset": "073406D",
+  "en": "EEX",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "076F714",
+  "en": "DEBUG",
+  "pt": "DEBUG",
+  "max_width": 36
+ },
+ {
+  "offset": "076F71A",
+  "en": "QUESTS",
+  "pt": "MISSÕES",
+  "max_width": 42
+ },
+ {
+  "offset": "076F721",
+  "en": "RESET",
+  "pt": "ZERAR",
+  "max_width": 36
+ },
+ {
+  "offset": "0778BC1",
+  "en": "       AAAA99999999AAAARRRRRRRR",
+  "pt": ""
+ },
+ {
+  "offset": "07C6FF5",
+  "en": "Maybe there are ways I can\\nsynergize ABILITIES?",
+  "pt": "Será que dá pra combinar\\nas HABILIDADES?",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "07C7025",
+  "en": "BERRIES are yummy,\\nam I right?",
+  "pt": "FRUTA é uma delícia,\\nnão é mesmo?",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "07C7044",
+  "en": "I expected no less.",
+  "pt": "Eu não esperava menos.",
+  "max_width": 124
+ },
+ {
+  "offset": "07D62F1",
+  "en": "This is a newly discovered Pokémon.\\nIt is currently under investigation.\\nNo detailed information is available\\nat this time.",
+  "pt": "Esta é uma CAPTURA recém-descoberta. Ela ainda está sob investigação. Não há informações detalhadas no momento.",
+  "max_lines": 4,
+  "max_width": 198
+ },
+ {
+  "offset": "07D636D",
+  "en": "An invasive, hostile weed. It takes\\nrefuge in manmade objects such as pipes\\nand pots. Its sharp teeth can cut even\\nthe toughest shoes and overalls.",
+  "pt": "Uma erva daninha invasora e hostil. Esconde-se em canos e vasos. Seus dentes afiados cortam até os sapatos e macacões mais resistentes.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6401",
+  "en": "A giant plant that has just hatched\\nfrom an egg-like cocoon. It reverts to\\nan infant-like state during the process\\nof mutating from plant to monster.",
+  "pt": "Uma planta gigante que acabou de sair de um casulo em forma de ovo. Ela volta a um estado infantil ao mutar de planta para monstro.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6497",
+  "en": "A monstrous plant in its final form. It\\ncan use its oversized, wing-like leaves\\nto fly despite its great size. Its body\\nis filled with a mysterious goop.",
+  "pt": "Uma planta monstruosa em sua forma final. Usa as enormes folhas em forma de asa para voar apesar do tamanho. Seu corpo é cheio de uma gosma misteriosa.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6531",
+  "en": "A hot-tempered piece of munition. It's\\na bit overeager to show off; luckily,\\nits resilient shell allows it to\\nsurvive its own blasts.",
+  "pt": "Uma munição de pavio curto. Adora se exibir; por sorte, seu casco resistente permite que sobreviva às próprias explosões.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D65B7",
+  "en": "An uncanny, toy-like automaton. It can\\nthrow large rocks over 1,000 yards. It\\nrelies on kind passersby to rewind the\\nlarge handle on its back.",
+  "pt": "Um autômato estranho, como um brinquedo. Arremessa pedras grandes a mais de 900 metros. Depende de quem passa para dar corda nas suas costas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6646",
+  "en": "A BOB-OMB tribe leader. Its aged shell\\nis susceptible to cracking from hard\\nimpacts and falls; nevertheless, it\\nseeks out mountaintops as its home.",
+  "pt": "Um líder da tribo BOB-OMB. Seu casco velho racha fácil com impactos e quedas; mesmo assim, ele procura topos de montanha para morar.",
+  "max_lines": 4,
+  "max_width": 207
+ },
+ {
+  "offset": "07D66DA",
+  "en": "A small squid native to coastal waters.\\nIt swims around in strange patterns to\\nevade predators. It tends to avoid prey\\nthat hide on the sea floor.",
+  "pt": "Uma pequena lula de águas costeiras. Nada em padrões estranhos para fugir de predadores. Costuma evitar presas que se escondem no fundo do mar.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D676D",
+  "en": "A bloated squid that has drawn in water\\nin order to survive on land and appear\\nmore threatening. It is prone to dry out\\nand shrivel up in arid regions.",
+  "pt": "Uma lula inchada que puxou água para sobreviver em terra e parecer mais ameaçadora. Costuma ressecar e murchar em regiões áridas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6805",
+  "en": "A giant squid that lives on land and\\nattacks prey using a foul-smelling goop.\\nIt is the subject of stories told by\\nsailors and residents of fishing towns.",
+  "pt": "Uma lula gigante que vive em terra e ataca presas com uma gosma fedorenta. É tema de histórias de marinheiros e moradores de vilas pesqueiras.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D68A0",
+  "en": "An angry, yet powerless, mushroom. Its\\nreputation as a weakling is earned.\\nIt is said to be a traitor, abandoning\\nunwary trainers during battle.",
+  "pt": "Um cogumelo bravo, mas sem poder. Sua fama de fracote é merecida. Dizem que é traidor e abandona treinadores distraídos no meio da batalha.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6931",
+  "en": "A stack of GOOMBAs. They join forces \\nlike this to impress mates, but not \\nwithout fighting over which one gets \\nto be on top and take the credit.",
+  "pt": "Uma pilha de GOOMBAs. Eles se juntam assim para impressionar parceiros, mas sempre brigam para ver quem fica no topo e leva o crédito.",
+  "max_lines": 4,
+  "max_width": 205
+ },
+ {
+  "offset": "07D69C4",
+  "en": "An oversized insect. It is a tireless\\nworker often used to transport goods.\\nIts shoes act like suction cups, and it\\ncan walk along walls and ceilings.",
+  "pt": "Um inseto enorme. É um trabalhador incansável, muito usado no transporte de cargas. Seus sapatos são como ventosas e andam em paredes e tetos.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6A5B",
+  "en": "An Ant CAPTURE wearing a helmet. The\\nhelmet indicates a leadership role. It\\ncommands respect, but onlookers are too\\ndistracted by its big adorable eyes.",
+  "pt": "Uma CAPTURA Formiga de capacete. O capacete indica liderança. Impõe respeito, mas quem olha se distrai com seus olhões adoráveis.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6AF4",
+  "en": "A big-lipped fish. Its wing-like fins\\nallow it to leap out of the water to\\nattack flying (or jumping) prey. It\\nfrequents the water under bridges.",
+  "pt": "Um peixe beiçudo. Suas barbatanas em forma de asa o deixam saltar da água para atacar presas que voam (ou pulam). Frequenta águas sob pontes.",
+  "max_lines": 4,
+  "max_width": 198
+ },
+ {
+  "offset": "07D6B86",
+  "en": "A bigger-lipped fish. Its appetite is\\nunmatched. It prowls shallow rivers and\\nswallows its prey whole. It is the\\nsubject of rumors and ghost stories.",
+  "pt": "Um peixe mais beiçudo. Seu apetite é imbatível. Ronda rios rasos e engole as presas inteiras. É tema de boatos e histórias de fantasma.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6C1C",
+  "en": "A biggest-lipped fish. Its spines\\nsecrete a deadly toxin that dissolves\\nin water and poisons swamp rivers. It\\npursues prey by leaping above water.",
+  "pt": "O peixe mais beiçudo de todos. Seus espinhos soltam uma toxina mortal que se dissolve na água e envenena rios de pântano. Caça saltando sobre a água.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6CAF",
+  "en": "A living fireball. It lives in volcanos\\nand preys on adventurous tourists. They\\nare rumored to be the lost souls of\\ntravelers who slip and fall into lava.",
+  "pt": "Uma bola de fogo viva. Vive em vulcões e caça turistas aventureiros. Dizem que são as almas perdidas de viajantes que caíram na lava.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6D4A",
+  "en": "A dragon made of magma. It lives deep\\ninside volcanic caverns. It is very\\nterritorial, greeting intruders with a\\ngiant, invincible bite attack.",
+  "pt": "Um dragão feito de magma. Vive no fundo de cavernas vulcânicas. É muito territorial e recebe intrusos com uma mordida gigante e invencível.",
+  "max_lines": 4,
+  "max_width": 205
+ },
+ {
+  "offset": "07D6DDA",
+  "en": "A quaint round creature. It has a\\nstrong sense of routine. Its distinct,\\nbumbling sounds inspire folk music and\\nhelp locals fall asleep at night.",
+  "pt": "Uma criatura redonda e pitoresca. Tem forte senso de rotina. Seus sons atrapalhados inspiram música folclórica e ajudam os moradores a dormir.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6E6C",
+  "en": "Three Biddybuds with wings. They march\\nin military-like formations and never\\nbreak away, even in the face of danger.\\nThey can be found in various colors.",
+  "pt": "Três Biddybuds com asas. Marcham em formação militar e nunca se separam, nem diante do perigo. Podem ser encontrados em várias cores.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6F06",
+  "en": "Just a little guy with a mask. It has a\\nreputation as a troublemaker. Worryingly,\\nnobody has seen underneath its mask and\\nreturned to tell the tale...",
+  "pt": "Só um carinha de máscara. Tem fama de encrenqueiro. O preocupante é que ninguém viu o que há sob a máscara e voltou para contar...",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D6F9D",
+  "en": "A Shy Guy with a different mask. It spits\\nprojectiles out of its mouth-like\\nprotrusion. The color of its robe shows\\nits mastery over aiming and shooting.",
+  "pt": "Um Shy Guy com outra máscara. Cospe projéteis pela saliência em forma de boca. A cor do manto mostra sua habilidade em mirar e atirar.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7037",
+  "en": "A pest that only gets more annoying with\\nmore of it. Very erratic in nature. Toads\\nare advised to keep bug spray and a\\ngiant boot on them in the summer.",
+  "pt": "Uma praga que fica mais irritante quanto mais delas houver. Muito imprevisível. No verão, os Toads devem levar inseticida e uma bota gigante.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D70D0",
+  "en": "A carefree fire spirit. It lives in\\ncaverns and travels in groups. It must\\nbe careful not to get snuffed out by\\nstrong gusts or powerful shockwaves.",
+  "pt": "Um espírito de fogo despreocupado. Vive em cavernas e anda em grupos. Cuida para não ser apagado por ventanias ou ondas de choque.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7165",
+  "en": "A playful burrowing animal with a\\ndeposition to throw rocks at anyone they\\nlike. It is equally as dangerous as it\\nis adorable. DO NOT KEEP AS A PET!",
+  "pt": "Um animal brincalhão que cava túneis e gosta de jogar pedras em quem ele gosta. É tão perigoso quanto adorável. NÃO CRIE COMO BICHO DE ESTIMAÇÃO!",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D71FA",
+  "en": "A cooler, tougher, and fatter Monty\\nMole. Despite its poor eyesight, it\\nstill decided to wear shades because\\nit gets too bright underground.",
+  "pt": "Um Monty Mole mais legal, mais durão e mais gordo. Apesar da vista fraca, resolveu usar óculos escuros porque fica claro demais no subsolo.",
+  "max_lines": 4,
+  "max_width": 202
+ },
+ {
+  "offset": "07D7287",
+  "en": "A mole that spent way too much time in\\nhibernation. It's body has grown to the size\\nof a small planet, and its stomach contents\\nconsist mainly of dirt and rock.",
+  "pt": "Uma toupeira que hibernou demais. Seu corpo cresceu até o tamanho de um pequeno planeta, e seu estômago contém basicamente terra e pedra.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7328",
+  "en": "A living sidewalk tile from the streets\\nof a bustling city. After years of\\nbeing stepped on, it wanders and lives\\noff of pity donations from passersby.",
+  "pt": "Um ladrilho de calçada vivo das ruas de uma cidade agitada. Após anos sendo pisado, vaga por aí vivendo de esmolas de quem passa.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D73C0",
+  "en": "A spiked slab of concrete with the\\nability to hover in midair. In medieval\\ntimes, it guarded the entrances to\\ncastles occupied by powerful tyrants.",
+  "pt": "Uma laje de concreto com espinhos que flutua no ar. Na época medieval, guardava as entradas de castelos de tiranos poderosos.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7454",
+  "en": "A sentient slab of pavement. It is\\nstubborn and refuses to forget grudges.\\nIts social dominance is determined by\\nthe number of cracks on its back.",
+  "pt": "Uma laje de pavimento consciente. É teimosa e nunca esquece uma rixa. Sua posição social depende do número de rachaduras nas costas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D74E7",
+  "en": "A long-tongued spirit. It inhabits\\nlong-abandoned homes and corner stores.\\nIt vanishes when looked at; seeing one\\nis considered something to brag about.",
+  "pt": "Um espírito de língua comprida. Habita casas abandonadas e lojinhas de esquina. Some quando é olhado; ver um é motivo para se gabar.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7580",
+  "en": "A giant, haunted balloon. It is filled\\nwith an unnatural, lighter-than-air\\ngas. It cherishes each of its patches,\\nas each was gifted by a different Boo.",
+  "pt": "Um balão gigante assombrado. É cheio de um gás estranho, mais leve que o ar. Estima cada remendo seu, pois cada um foi dado por um Boo diferente.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7619",
+  "en": "The ghost of a resentful monarch. Its\\npower and ambition from its living days\\npersist post-death. Instead of haunts,\\nit occupies mansions and hotels.",
+  "pt": "O fantasma de um monarca ressentido. O poder e a ambição de quando vivo continuam após a morte. Em vez de assombrar, ocupa mansões e hotéis.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D76AF",
+  "en": "A juvenile dinosaur. It is eager to\\nshow off its signature fire breath. It\\nis said to be the cause of the vast\\nmajority of forest fires.",
+  "pt": "Um dinossauro jovem. Está ansioso para exibir seu sopro de fogo característico. Dizem que é o culpado pela maioria dos incêndios florestais.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7738",
+  "en": "A hulking, herbivorous dinosaur. When\\nit reaches maturity, it learns to give\\nup its fire breath; this is seen as a\\nrite of passage.",
+  "pt": "Um dinossauro herbívoro enorme. Ao amadurecer, aprende a abrir mão do sopro de fogo; isso é visto como um rito de passagem.",
+  "max_lines": 4,
+  "max_width": 204
+ },
+ {
+  "offset": "07D77BC",
+  "en": "A flightless dragon. In light of its\\nuseless wings, it adopts a charging\\nattack. When provoked, it compresses\\nits body as a defense mechanism.",
+  "pt": "Um dragão que não voa. Como suas asas são inúteis, ataca com investidas. Quando provocado, comprime o corpo como defesa.",
+  "max_lines": 4,
+  "max_width": 204
+ },
+ {
+  "offset": "07D784B",
+  "en": "An infantile dinosaur with a bottomless\\nstomach. It is a popular choice of pet\\nthat doubles as a garbage disposal. Its\\ngrowth is accelerated by eating fruits.",
+  "pt": "Um dinossauro bebê de estômago sem fundo. É um bicho de estimação popular que também serve de triturador de lixo. Cresce mais rápido comendo frutas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D78EA",
+  "en": "A tamed dinosaur. It shows extreme\\nloyalty, willing to self-sacrifice by\\nthrowing its rider away from harm. It's\\nunclear whether its saddle is natural.",
+  "pt": "Um dinossauro domado. É extremamente leal e se sacrifica jogando o cavaleiro para longe do perigo. Não se sabe se a sela é natural.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7982",
+  "en": "A gigantic mutated YOSHI that failed to\\nevolve with a shell. It struggles to\\ncontrol its urges to eat other YOSHIs.\\nIt is somewhat bumbling and unfocused.",
+  "pt": "Um YOSHI mutante gigante que não evoluiu com casco. Luta para controlar a vontade de comer outros YOSHIs. É meio atrapalhado e desatento.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7A1D",
+  "en": "A YOSHI that can spit fire. When newly\\nevolved, it sets its trainer on fire\\nuntil it learns to control its new\\npowers. It craves Tostarenan cuisine.",
+  "pt": "Um YOSHI que cospe fogo. Recém-evoluído, põe fogo no treinador até aprender a controlar seus poderes. Adora a culinária de TOSTARENA.",
+  "max_lines": 4,
+  "max_width": 207
+ },
+ {
+  "offset": "07D7AB2",
+  "en": "A YOSHI that has grown wings. It can\\nfly for hours on a full stomach. It is\\nrumored that its wings can detach and\\nwander off, hiding in obscure boxes.",
+  "pt": "Um YOSHI que ganhou asas. Voa por horas de barriga cheia. Dizem que suas asas podem se soltar e sair por aí, escondendo-se em caixas obscuras.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7B49",
+  "en": "A YOSHI that can stomp the ground with\\ngreat force. Its weight changes based\\non its mood. In times of great stress,\\nit can weigh as much as a redwood tree.",
+  "pt": "Um YOSHI que pisa no chão com muita força. Seu peso muda com o humor. Em momentos de estresse, pode pesar tanto quanto uma sequoia.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7BE5",
+  "en": "An egg-spitting dinosaur. It is known\\nto collect jewelry from the opponents\\nit bests in battle. It can produce both\\neggs and fireballs from its snout.",
+  "pt": "Um dinossauro que cospe ovos. Coleciona joias dos oponentes que vence em batalha. Pode soltar tanto ovos quanto bolas de fogo pelo focinho.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7C7C",
+  "en": "A curious flower known for humming an\\nunknown tune. Its songs can put the\\nlistener to sleep. It is prone to\\nflee a battle when provoked.",
+  "pt": "Uma flor curiosa que cantarola uma melodia desconhecida. Suas canções fazem o ouvinte dormir. Tende a fugir da batalha quando provocada.",
+  "max_lines": 4,
+  "max_width": 205
+ },
+ {
+  "offset": "07D7D05",
+  "en": "A close relative of the Crazee Dayzee.\\nOften confused for a shiny, its strength\\nmatches its elusiveness. Somehow, a\\nCrazee Dayzee can evolve into this...",
+  "pt": "Um parente próximo do Crazee Dayzee. Confundido com um shiny, é tão forte quanto difícil de achar. De algum jeito, um Crazee Dayzee evolui nisso...",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7D9F",
+  "en": "A rotund bat. It favors damp caverns.\\nIt flies in elaborate patterns and\\nleaves behind delicate air currents\\nthat resemble dotted lines.",
+  "pt": "Um morcego rechonchudo. Prefere cavernas úmidas. Voa em padrões elaborados, deixando correntes de ar que lembram linhas pontilhadas.",
+  "max_lines": 4,
+  "max_width": 205
+ },
+ {
+  "offset": "07D7E28",
+  "en": "A noisy bat. Its eyes are damaged from\\nprolonged exposure to light, so it\\nfavors dark caves. It produces a loud\\nnoise with its powerful wing flaps.",
+  "pt": "Um morcego barulhento. Seus olhos foram danificados pela luz, então prefere cavernas escuras. Faz um barulho alto ao bater as asas fortes.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7EBC",
+  "en": "A swarthy-looking rock creature. It\\nresists heat with its rock-hard skin,\\nallowing it to thrive in deserts. It is\\nrumored to ambush travelers.",
+  "pt": "Uma criatura de pedra de pele escura. Resiste ao calor com a pele dura como rocha, o que a faz prosperar em desertos. Dizem que embosca viajantes.",
+  "max_lines": 4,
+  "max_width": 204
+ },
+ {
+  "offset": "07D7F4B",
+  "en": "A Bald Cleft with spikes. For a while,\\nonly two members of this species had\\never been encountered; they used their\\nhard iron coating to fight for sport.",
+  "pt": "Um Bald Cleft com espinhos. Por um tempo, só dois membros da espécie tinham sido vistos; eles usavam a dura camada de ferro para lutar por esporte.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D7FE4",
+  "en": "A spiked monster made of rock. It\\nlevitates by unknown means. It can\\nwithstand attacks from all angles, as\\nit lacks a true underside.",
+  "pt": "Um monstro de pedra com espinhos. Levita por meios desconhecidos. Aguenta ataques de todos os lados, pois não tem um lado de baixo.",
+  "max_lines": 4,
+  "max_width": 205
+ },
+ {
+  "offset": "07D806A",
+  "en": "A living bullet. It is simple-minded,\\nand it rarely changes its ways. It does\\nnot usually reproduce; instead, new\\nones are born from a Bill Blaster.",
+  "pt": "Uma bala viva. É simplória e raramente muda seus hábitos. Não costuma se reproduzir; em vez disso, novas balas nascem de um Bill Blaster.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D80FF",
+  "en": "An unreasonably large bullet. It\\nleverages its size by charging at prey\\nand leaving them no escape route. It is\\nsaid to terrorize wandering children.",
+  "pt": "Uma bala absurdamente grande. Usa o tamanho para investir contra presas sem deixar rota de fuga. Dizem que aterroriza crianças perdidas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8195",
+  "en": "A sneaky creature which can mimic the\\nbody and voice of others. Due to its\\nimperfect technique, its efforts as an\\nimpostor often raise suspicion.",
+  "pt": "Uma criatura sorrateira que imita o corpo e a voz dos outros. Como a técnica é imperfeita, seus esforços de impostor levantam suspeitas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8227",
+  "en": "A haunted punching bag. It emits an odd\\nhissing noise when it strikes. It holds\\na grudge against mechanical things and\\nis prone to violent outbursts.",
+  "pt": "Um saco de pancada assombrado. Solta um chiado estranho quando ataca. Guarda rancor de coisas mecânicas e tem explosões de violência.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D82BD",
+  "en": "An avid sports fan that knows which\\nfootball is best. It uses its head more\\nthan many may think, but the concussions\\nleave its mind to be more desirable.",
+  "pt": "Um fã de esportes fervoroso que sabe qual futebol é o melhor. Usa a cabeça mais do que se imagina, mas as concussões deixam a mente a desejar.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8357",
+  "en": "Just a silly little guy. People say if\\nyou throw it off a cliff enough times,\\nit may learn to fly. People are dumb,\\nbecause penguins can't fly.",
+  "pt": "Só um carinha bobo. Dizem que, se você jogá-lo de um penhasco vezes suficientes, ele aprende a voar. As pessoas são bobas: pinguins não voam.",
+  "max_lines": 4,
+  "max_width": 205
+ },
+ {
+  "offset": "07D83E7",
+  "en": "\\nWhy is it looking at me like that?",
+  "pt": "\\nPor que ele está me olhando assim?",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "07D840B",
+  "en": "A secluded turtle that lives in caves\\nand sewers. Its hard carapace gives it\\nfire resistance. Its sticky feet allow\\nit to take refuge on ceilings.",
+  "pt": "Uma tartaruga reclusa que vive em cavernas e esgotos. A carapaça dura lhe dá resistência ao fogo. Os pés grudentos a deixam se abrigar em tetos.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D849E",
+  "en": "A turtle with a single large spike on\\nits shell. The spike's length indicates\\nits status. It crawls on ceilings to\\nambush prey with a drop attack.",
+  "pt": "Uma tartaruga com um grande espinho no casco. O tamanho do espinho indica seu status. Rasteja pelo teto para emboscar presas caindo sobre elas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8531",
+  "en": "A compact turtle with a spiked shell.\\nIts slow speed makes it easy to manage,\\nunless your preferred method of attack\\nis a stomp to the head.",
+  "pt": "Uma tartaruga compacta de casco espinhoso. Sua lentidão a torna fácil de lidar, a não ser que seu ataque favorito seja pisar na cabeça.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D85BE",
+  "en": "A turtle riding a cloud. It throws\\nSpiny Eggs to attack, which eventually\\nhatch and turn into Spinies; in large\\nnumbers, they quickly overwhelm foes.",
+  "pt": "Uma tartaruga numa nuvem. Ataca jogando Ovos de Spiny, que chocam e viram Spinies; em grande número, logo sobrecarregam os inimigos.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8654",
+  "en": "A hardworking yet oblivious turtle. It\\nthrows heavy, spiked projectiles at\\nperceived threats. Its stomach is said\\nto contain unlimited ammunition.",
+  "pt": "Uma tartaruga trabalhadora, mas desligada. Joga projéteis pesados com espinhos em supostas ameaças. Dizem que seu estômago tem munição infinita.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D86E7",
+  "en": "An elite-ranking Spike that is hired to\\nguard castles. It is often found napping\\non the job. Its white belly is an\\nindicator of status.",
+  "pt": "Um Spike de elite contratado para guardar castelos. Costuma ser visto cochilando no serviço. Sua barriga branca indica seu status.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D876F",
+  "en": "A walking cactus. Its body segments are\\nnot vital organs; it sheds them every\\ntwo years. It has a wobbly demeanor and\\nuses a silly face to lure in young prey.",
+  "pt": "Um cacto ambulante. Os segmentos do corpo não são órgãos vitais; ele os troca a cada dois anos. Bambo, usa uma cara boba para atrair presas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D880E",
+  "en": "A poisonous, undead-seeming cactus. Its\\nlarge spines secrete a toxic fluid that\\nincapacitates prey. It is rumored to be\\nunwell in the head.",
+  "pt": "Um cacto venenoso que parece um morto-vivo. Seus espinhos soltam um fluido tóxico que incapacita as presas. Dizem que não bate bem da cabeça.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D889A",
+  "en": "A turtle that is beyond loyal to the\\nking. The bottom of its shell is made\\nof a low-friction material that allows\\nit to slide across the ground.",
+  "pt": "Uma tartaruga mais do que leal ao rei. A parte de baixo do casco é feita de um material de baixo atrito que a deixa deslizar pelo chão.",
+  "max_lines": 4,
+  "max_width": 207
+ },
+ {
+  "offset": "07D892B",
+  "en": "A flying turtle with angel-like wings.\\nIt is often enlisted as a common foot-\\nsoldier. It follows a marching pattern\\ndetermined by the color of its shell.",
+  "pt": "Uma tartaruga voadora com asas de anjo. Costuma ser recrutada como soldado raso. Segue um padrão de marcha definido pela cor do casco.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D89C6",
+  "en": "An undead turtle skeleton. It seems\\nbrittle, but it can revive itself from\\na pile of bones. It is rumored to house\\na KOOPA TROOPA's wandering spirit.",
+  "pt": "Um esqueleto de tartaruga morto-vivo. Parece frágil, mas se refaz de uma pilha de ossos. Dizem que abriga o espírito errante de um KOOPA TROOPA.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8A5C",
+  "en": "A large round creature with a beak. It\\nenjoys flinging things (or people) into\\nthe air. Most are timid and will not\\napproach strangers unprovoked.",
+  "pt": "Uma criatura grande e redonda com bico. Adora arremessar coisas (ou pessoas) pelo ar. A maioria é tímida e não se aproxima de estranhos à toa.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8AEF",
+  "en": "A larger round creature with a beak. As\\nit reaches maturity, a flower begins to\\ngrow from the top of its head. It seeks\\nout sunny areas for photosynthesis.",
+  "pt": "Uma criatura redonda com bico, ainda maior. Ao amadurecer, uma flor brota no topo da cabeça. Procura lugares ensolarados para a fotossíntese.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8B8B",
+  "en": "A living wrecking ball. Its loyalty to\\nits trainer is unmatched. Its leash is\\nmade of the strongest magnets known to\\nexist in nature.",
+  "pt": "Uma bola de demolição viva. Sua lealdade ao treinador é inigualável. Sua coleira é feita dos ímãs mais fortes que existem na natureza.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8C11",
+  "en": "A bro that can adapt to almost any\\ncombat situation with its knowledge of\\ndifferent projectiles. A group of it is\\ncalled a frat, and is very annoying.",
+  "pt": "Um irmão que se adapta a quase qualquer combate graças ao conhecimento de vários projéteis. Um grupo deles se chama irmandade, e é muito chato.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8CA8",
+  "en": "A living sphere of metal. In groups,\\nthey assert dominance by shoving one\\nanother. It is often hunted for its\\nshell made of rare metals.",
+  "pt": "Uma esfera viva de metal. Em grupo, impõem domínio empurrando uns aos outros. É muito caçado por seu casco de metais raros.",
+  "max_lines": 4,
+  "max_width": 206
+ },
+ {
+  "offset": "07D8D31",
+  "en": "A living ball of ice. Sometimes it will\\ngrow what appears to be facial hair\\nmade of packed snow. It is rumored to\\nbe shaped like a friend.",
+  "pt": "Uma bola viva de gelo. Às vezes, cria o que parece uma barba de neve compactada. Dizem que tem o formato de um amigo.",
+  "max_lines": 4,
+  "max_width": 204
+ },
+ {
+  "offset": "07D8DBC",
+  "en": "A round octopus. It surrounds itself in\\nan orb of water for protection. It can\\nshoot jets of water to attack predators\\nor propel itself through the air.",
+  "pt": "Um polvo redondo. Cerca-se de uma bolha de água para se proteger. Dispara jatos de água para atacar predadores ou se impulsionar pelo ar.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8E55",
+  "en": "A self appointed royal that gets its\\nwealth by exploiting its citizens. Its full\\nname is Brigadier Mollusque-Lanceur\\nIII, Dauphin of Bubblaine.",
+  "pt": "Um nobre autoproclamado que enriquece explorando o povo. Nome completo: Brigadeiro Mollusque-Lanceur III, Delfim de Bubblaine.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D8EE5",
+  "en": "How is this here? Does E. GADD have\\nsomething to do about it?\\nRegardless, it's terrifying and\\nI want 6 in my party.",
+  "pt": "Como isso veio parar aqui? Será que o E. GADD tem algo a ver com isso? Seja como for, é assustador e eu quero 6 na minha equipe.",
+  "max_lines": 4,
+  "max_width": 191
+ },
+ {
+  "offset": "07D8F59",
+  "en": "A breezy fellow that hides itself in\\nthe clouds. It attacks by creating\\nfreezing fogs, but that can be easily\\nmitigated with a nice coat.",
+  "pt": "Um sujeito arejado que se esconde nas nuvens. Ataca criando névoas congelantes, mas um bom casaco resolve isso fácil.",
+  "max_lines": 4,
+  "max_width": 204
+ },
+ {
+  "offset": "07D8FE3",
+  "en": "A blustery cloud with winds strong enough\\nto move toads. Be careful when traveling\\non the clouds - stepping on one can be a\\none-way ticket back to the surface.",
+  "pt": "Uma nuvem com ventos que movem até Toads. Cuidado ao andar nas nuvens: pisar numa pode ser uma passagem só de ida de volta ao chão.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9083",
+  "en": "An onion that can stretch its roots to\\nreach high platforms. It wears its pot as\\na helmet to defend itself from attacks.\\nIt is a natural gymnast.",
+  "pt": "Uma cebola que estica as raízes para alcançar plataformas altas. Usa o vaso como capacete para se defender de ataques. É uma ginasta nata.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9115",
+  "en": "An annoying avian and atrocious\\nadversary. It has a keen sense of valuable\\npossessions,and will do anything to take it\\nbecause it has no value in itself.",
+  "pt": "Uma ave irritante e adversária atroz. Tem faro para objetos valiosos e faz de tudo para pegá-los, porque ela mesma não tem valor algum.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D91AF",
+  "en": "A tropical cousin to the GOOMBA that\\nloves to swim and sunbathe. It wears a\\nbathing suit to the beach because\\nit has amazing manners.",
+  "pt": "Um primo tropical do GOOMBA que adora nadar e tomar sol. Usa maiô na praia porque tem ótimos modos.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9235",
+  "en": "A mummy that charges at you with adorable\\nabandon. Scientists still don't know what\\ncreature it was. It has the cutest smile,\\nbut it will never show you.",
+  "pt": "Uma múmia que avança com um abandono adorável. Os cientistas ainda não sabem que criatura ela era. Tem o sorriso mais fofo, mas nunca o mostra.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D92CF",
+  "en": "A fly with see-through wings. Contrary\\nto its name, it exudes an aura of grace\\nand elegance. It is easily startled but\\nrecovers quickly when disturbed.",
+  "pt": "Uma mosca de asas transparentes. Ao contrário do nome, exala graça e elegância. Assusta-se fácil, mas se recupera rápido quando incomodada.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9367",
+  "en": "An overgrown insect that lives deep in\\nforgotten sewers. It takes pleasure in\\nfrightening young children with its\\nuncanny smile and erratic movements.",
+  "pt": "Um inseto gigante que vive no fundo de esgotos esquecidos. Adora assustar criancinhas com seu sorriso estranho e movimentos imprevisíveis.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D93FE",
+  "en": "An overgrown, sentient bean. Its main\\nmethod of attack is a trip-prone charge.\\nIts grinning face is a popular icon of\\nlocal culture.",
+  "pt": "Um feijão enorme e consciente. Seu principal ataque é uma investida cheia de tropeços. Seu rosto sorridente é um ícone popular da cultura local.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9483",
+  "en": "A Beanie with wings. All known laws of\\naviation suggest that it shouldn't be\\nable to fly, but it can. It travels\\ngreat distances to spread its seeds.",
+  "pt": "Um Beanie com asas. Todas as leis da aviação dizem que ele não deveria voar, mas ele voa. Viaja grandes distâncias para espalhar suas sementes.",
+  "max_lines": 4,
+  "max_width": 206
+ },
+ {
+  "offset": "07D9519",
+  "en": "A caterpillar with the worst temper in\\nthe world. If you ever see one moving\\nalong, choose your actions carefully.\\nIts trampling power is incomparable.",
+  "pt": "Uma lagarta com o pior gênio do mundo. Se você vir uma passando, escolha bem suas ações. Seu poder de esmagamento é incomparável.",
+  "max_lines": 4,
+  "max_width": 206
+ },
+ {
+  "offset": "07D95B1",
+  "en": "A large rock that's back to being a rock!\\nWhen a piece of it breaks off,\\nit gets its own mind, but the C.A.P.\\ncommittee banned this power.",
+  "pt": "Uma pedra grande que voltou a ser pedra! Quando um pedaço se solta, ganha mente própria, mas o comitê C.A.P. baniu esse poder.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D963C",
+  "en": "A small, baby, purple, GOOMBA-like alien.\\nIt takes refuge near small villages. It\\nattacks by twirling, which is often\\nconfused for a friendly dance.",
+  "pt": "Um alienígena pequeno, bebê e roxo, parecido com um GOOMBA. Abriga-se perto de vilarejos. Ataca girando, o que parece uma dança amigável.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D96D1",
+  "en": "An alien from the SHROOB planet. It\\nspeaks an unknown language. It is\\nrumored to have access to unbelievably\\nadvanced technology and weapons.",
+  "pt": "Um alienígena do planeta SHROOB. Fala uma língua desconhecida. Dizem que tem acesso a tecnologia e armas incrivelmente avançadas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D975F",
+  "en": "A large green SHROOB that knows how\\nto work a time machine. It's much\\nstronger than its other SHROOB\\nsiblings, and obedient to all orders.",
+  "pt": "Um SHROOB verde e grande que sabe operar uma máquina do tempo. É bem mais forte que seus irmãos SHROOB e obedece a todas as ordens.",
+  "max_lines": 4,
+  "max_width": 198
+ },
+ {
+  "offset": "07D97EA",
+  "en": "An ice mage with a heart as cold\\nas its demeanor. It is quick to\\nshow off its chilly prowess by\\nfreezing enemies immediately. ",
+  "pt": "Um mago do gelo com o coração tão frio quanto seu jeito. Adora exibir seu poder gelado congelando os inimigos na hora.",
+  "max_lines": 4,
+  "max_width": 174
+ },
+ {
+  "offset": "07D9869",
+  "en": "A crow that flies with a carpet instead\\nof its wings. The carpet is the source\\nof its magic, not itself. It knows\\nhow to play the saxophone.",
+  "pt": "Um corvo que voa num tapete em vez de usar as asas. A fonte de sua magia é o tapete, não ele. Sabe tocar saxofone.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D98F6",
+  "en": "A cloud of stinky gas. It suffocates\\nits enemies by forcing itself onto their\\nface, but enemies will often pass out\\ndue to their smell instead.",
+  "pt": "Uma nuvem de gás fedorento. Sufoca os inimigos se jogando no rosto deles, mas eles costumam desmaiar por causa do cheiro.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9986",
+  "en": "A cloud monster with immense wind power.\\nIt's theorized it grew fists to fight in hand\\nto hand combat, but has never been seen\\nto throw a punch. It is still very smelly.",
+  "pt": "Um monstro de nuvem com imenso poder de vento. Dizem que criou punhos para lutar corpo a corpo, mas nunca deu um soco. Ainda é muito fedido.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9A30",
+  "en": "A servant of a snake king. The length of\\nits body is unknown. It is said to train\\nits balance for decades in order to\\nbalance plates and bowls on its head.",
+  "pt": "Um servo de um rei serpente. Ninguém sabe o tamanho do seu corpo. Dizem que treina por décadas para equilibrar pratos e tigelas na cabeça.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9ACC",
+  "en": "A snake king that leads its loyal\\nservants of minions. It often leaves\\nfighting to its minions. The most\\ncommon nickname for one is 'Gru'.",
+  "pt": "Um rei serpente que lidera seus servos leais. Costuma deixar a luta para os lacaios. O apelido mais comum para um deles é 'Gru'.",
+  "max_lines": 4,
+  "max_width": 201
+ },
+ {
+  "offset": "07D9B57",
+  "en": "A mote of electricity that travels around\\nplatforms. It stores enough electricity\\nto power one industrial sized fridge,\\nor 1/10th of BOWSER's kitchen.",
+  "pt": "Uma partícula elétrica que viaja por plataformas. Guarda energia para ligar uma geladeira industrial, ou 1/10 da cozinha do BOWSER.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9BEE",
+  "en": "A charged ball of electricity. It moves\\nalong surfaces to take the static charge.\\nPOW blocks can turn it off, but good\\nluck finding one in this economy.",
+  "pt": "Uma bola carregada de eletricidade. Anda pelas superfícies para pegar carga estática. Blocos POW a desligam, mas boa sorte achando um hoje em dia.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9C87",
+  "en": "A black ooze in the shape of a hand.\\nIt'll make a sign of anyone it wishes to\\nbecome,taking its stats and moves.\\nIt loves to fingerpaint.",
+  "pt": "Um lodo preto em forma de mão. Faz o sinal de quem deseja se tornar, pegando seus stats e golpes. Adora pintar com os dedos.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9D11",
+  "en": "A large, stripy spider. It hangs from\\nceilings by a thread of strong webbing.\\nIt swings back and forth like a pendulum\\nin order to disorient its prey.",
+  "pt": "Uma aranha grande e listrada. Pendura-se no teto por um fio de teia resistente. Balança como um pêndulo para desorientar a presa.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9DA8",
+  "en": "A giant, three-eyed spider. In folklore,\\nit is associated with outer space. It\\ndrools acid and crafts webs made of an\\nunusual, sticky type of silk.",
+  "pt": "Uma aranha gigante de três olhos. No folclore, é associada ao espaço sideral. Baba ácido e tece teias de um tipo incomum de seda grudenta.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9E3C",
+  "en": "A fish skeleton. It hungers for the\\nblood and flesh it once had, setting its\\nsights on first living thing in its view.\\nServed best in a bisque.",
+  "pt": "Um esqueleto de peixe. Tem fome do sangue e da carne que já teve e mira no primeiro ser vivo que vê. Melhor servido numa bisque.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9ECC",
+  "en": "A robot that prefers to be in sleep mode.\\nBecause of that, it doesn't hold a lot of\\nelectricity. Its favorite bedtime story\\nis, 'The KOOPA and the GOOMBA'.",
+  "pt": "Um robô que prefere ficar no modo de espera. Por isso, não guarda muita eletricidade. Sua história de ninar favorita é 'O KOOPA e o GOOMBA'.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07D9F71",
+  "en": "A star creature that loves to help\\neveryone. It comes in a variety of colors,\\nbut the most common is yellow. ROSALINA\\ncares for it like its her child.",
+  "pt": "Uma criatura estelar que adora ajudar todo mundo. Existe em várias cores, mas a mais comum é amarela. ROSALINA cuida dela como se fosse sua filha.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA008",
+  "en": "A luma with an abundance of star power.\\nIt travels the galaxy on spacecraft,\\neating star bits. It looks after Luma\\nwhen ROSALINA isn't around.",
+  "pt": "Um Luma com abundância de poder estelar. Viaja pela galáxia em naves, comendo fragmentos de estrela. Cuida dos Lumas quando a ROSALINA não está.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA097",
+  "en": "A walking bag of star bits that's easily\\nstartled. It has the ability to turn\\ninvisible when frightened. It's unknown\\nhow many of the exist in the world.",
+  "pt": "Um saco ambulante de fragmentos de estrela que se assusta fácil. Fica invisível quando está com medo. Não se sabe quantos existem no mundo.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA131",
+  "en": "A blue virus that causes shivers to\\nfreeze the body. It is easily\\ndestroyed with blue pills. Dr. MARIO\\nrecommends a blanket and hot cocoa.",
+  "pt": "Um vírus azul que dá calafrios até congelar o corpo. Pílulas azuis o destroem fácil. O Dr. MARIO indica cobertor e chocolate quente.",
+  "max_lines": 4,
+  "max_width": 199
+ },
+ {
+  "offset": "07DA1BC",
+  "en": "A red virus that causes overheating to\\nmake you faint. It is easily destroyed\\nwith red pills. Dr. MARIO recommends\\na cold compress and ice water.",
+  "pt": "Um vírus vermelho que superaquece o corpo até você desmaiar. Pílulas vermelhas o destroem fácil. O Dr. MARIO indica compressa fria e água gelada.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA24E",
+  "en": "A yellow virus that causes nausea to\\neventually make you bedridden. It is\\neasily destroyed with yellow pills. Dr.\\nMARIO recommends ginger tea and sleep.",
+  "pt": "Um vírus amarelo que causa náusea até deixar você de cama. É destruído fácil com pílulas amarelas. O Dr. MARIO indica chá de gengibre e sono.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA2E7",
+  "en": "A ghostly dinosaur that roams around\\naimlessly. It is rather docile, and\\noften inflicts damage when others\\ninteract with it by accident. ",
+  "pt": "Um dinossauro fantasma que vaga sem rumo. É bem dócil e costuma causar dano quando alguém interage com ele sem querer.",
+  "max_lines": 4,
+  "max_width": 204
+ },
+ {
+  "offset": "07DA371",
+  "en": "A tiny little plant. It is known to walk\\naround, leap into the air, and even\\nbreathe fire. It does this to protect\\nitself while it is still in its infancy.",
+  "pt": "Uma plantinha minúscula. É conhecida por andar, pular no ar e até cuspir fogo. Faz isso para se proteger enquanto ainda é pequena.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA40D",
+  "en": "A black chomping plant. Fully grown, it\\ntakes root and remains stationary. Its\\nbody is unusually firm and offers great\\nresistance to would-be tramplers.",
+  "pt": "Uma planta mordedora preta. Já crescida, cria raízes e fica parada. Seu corpo é bem firme e resiste muito a quem tenta pisoteá-la.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA4A6",
+  "en": "A bro that spent all its life honing its\\nbody for the art of sumo wrestling. Like\\nmost sumo matches, it has a hard time\\nsurviving for more than 10 seconds.",
+  "pt": "Um irmão que passou a vida toda moldando o corpo para a arte do sumô. Como a maioria das lutas de sumô, ele mal dura mais de 10 segundos.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA542",
+  "en": "A terrible toy that was created by the\\nmost maniacal of men. It's wound up with\\na key on its back, and can start itself.\\nThis is BOWSER JR.'s favorite toy.",
+  "pt": "Um brinquedo terrível criado pelo mais maníaco dos homens. Tem corda por uma chave nas costas e liga sozinho. É o brinquedo favorito do BOWSER JR.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA5DE",
+  "en": "A good boy. It uses its optical sensors\\nto seek out the best scritches. Be\\nwarned, it charges electrical energy\\nby wagging its tail.",
+  "pt": "Um bom garoto. Usa seus sensores ópticos para achar os melhores cafunés. Cuidado: ele carrega energia elétrica abanando o rabo.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA663",
+  "en": "A mascot made to appeal to a wide\\naudience. It appears in a variety of\\nvideo game titles, and often has\\nWARIO fight for a market share. ",
+  "pt": "Um mascote criado para agradar um público amplo. Aparece em vários jogos e costuma disputar fatias de mercado com o WARIO.",
+  "max_lines": 4,
+  "max_width": 197
+ },
+ {
+  "offset": "07DA6EC",
+  "en": "A KOOPA that learned flight through\\nmagical means. It spends most of its time\\nstudying to become a full MAGIKOOPA\\nand kidnapping babies.",
+  "pt": "Um KOOPA que aprendeu a voar por meios mágicos. Passa a maior parte do tempo estudando para virar um MAGIKOOPA completo e sequestrando bebês.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA775",
+  "en": "A powerful magician with abilities\\nbeyond our imagination. A light blue\\nMAGIKOOPA shouldn't be confused with\\nKAMEK, a light blue MAGIKOOPA.",
+  "pt": "Um mago poderoso com habilidades além da imaginação. Um MAGIKOOPA azul-claro não deve ser confundido com KAMEK, um MAGIKOOPA azul-claro.",
+  "max_lines": 4,
+  "max_width": 207
+ },
+ {
+  "offset": "07DA801",
+  "en": "A piano that gained sentience while\\ninside a ghost house. Rumors say that it\\nfeasts on the souls of those it\\nscares. It is surprisingly in tune.",
+  "pt": "Um piano que ganhou consciência dentro de uma casa fantasma. Dizem que se alimenta das almas de quem assusta. É surpreendentemente afinado.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA892",
+  "en": "An enemy of pure ice. It freezes any\\nliving thing it touches. Locals are warned\\nto stay away from them, but a nice\\nhot bath can easily defrost anyone.",
+  "pt": "Um inimigo de puro gelo. Congela qualquer ser vivo que toca. Todos são avisados para ficar longe, mas um banho quente descongela qualquer um.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA929",
+  "en": "A snowman that loves spreading cheer.\\nIt does so to lure enemies into a false\\nsense of security before freezing them.\\nSuper friendly!",
+  "pt": "Um boneco de neve que adora espalhar alegria. Faz isso para dar aos inimigos uma falsa sensação de segurança antes de congelá-los. Super simpático!",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DA9AF",
+  "en": "A machine built to carry and launch\\nheavy objects. If it sees anyone\\napproaching, it will eagerly wait for\\nthem to step on to send them flying.",
+  "pt": "Uma máquina feita para carregar e lançar objetos pesados. Se vê alguém chegando, espera ansiosa que pise nela para mandá-lo pelos ares.",
+  "max_lines": 4,
+  "max_width": 198
+ },
+ {
+  "offset": "07DAA42",
+  "en": "A moray eel that terrorizes the deep\\nseas. It lives in underwater caverns,\\nwaiting for any unfortunate soul to\\npass it, chasing it down for a meal.",
+  "pt": "Uma moreia que aterroriza o fundo do mar. Vive em cavernas submarinas, à espera de um pobre coitado para perseguir e devorar.",
+  "max_lines": 4,
+  "max_width": 202
+ },
+ {
+  "offset": "07DAAD6",
+  "en": "A cute monkey that loves to play games.\\nIt will often stay in trees and look for\\nthings to steal from people. With enough\\npersistence, it'll give it back.",
+  "pt": "Um macaco fofo que adora brincar. Costuma ficar nas árvores procurando coisas para roubar das pessoas. Com bastante insistência, ele devolve.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DAB71",
+  "en": "A water-dwelling insect that is light\\nenough to stand on the water's surface.\\nIts aura is said to negatively affect\\nthe emotions of nearby trainers.",
+  "pt": "Um inseto aquático leve o bastante para ficar sobre a água. Dizem que sua aura afeta negativamente as emoções dos treinadores por perto.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DAC06",
+  "en": "A marble-glazed pest found in hazardous\\ncaves. It is the subject of fantastical\\nsuperstitions and rumors, and behaves\\nstrangely when one leaves the room.",
+  "pt": "Uma praga marmorizada encontrada em cavernas perigosas. É tema de superstições e boatos fantásticos, e age estranho quando alguém sai da sala.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DACA0",
+  "en": "A flower that yearns for flight. When it\\nblooms, it'll spin around and create a\\nplatforms for others to jump and launch\\nfrom, spreading its pollen.",
+  "pt": "Uma flor que sonha em voar. Ao desabrochar, gira e cria plataformas para os outros pularem e se lançarem, espalhando seu pólen.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DAD34",
+  "en": "A floating flower that finally figured\\nout flight. It spins the petals on its\\nhead to hover, mainly using the wind\\nto move around.  ",
+  "pt": "Uma flor flutuante que finalmente descobriu como voar. Gira as pétalas da cabeça para pairar, usando principalmente o vento para se mover.",
+  "max_lines": 4,
+  "max_width": 207
+ },
+ {
+  "offset": "07DADB9",
+  "en": "A Shy Guy who steals things. Its mask\\nshows a permanent sneaky grin. It is\\nbelieved that half of all petty theft\\nreports are caused by Bandits.",
+  "pt": "Um Shy Guy que rouba coisas. Sua máscara tem um sorriso sorrateiro permanente. Acredita-se que metade dos furtos seja culpa dos Bandits.",
+  "max_lines": 4,
+  "max_width": 204
+ },
+ {
+  "offset": "07DAE49",
+  "en": "A loyal peon to Lord Crump. It works\\nbetter with in a group, so it has been\\na really effective party member\\nfor the C.A.P. Challenge.",
+  "pt": "Um peão leal ao Lord Crump. Trabalha melhor em grupo, então tem sido um membro de equipe muito eficaz no DESAFIO C.A.P.",
+  "max_lines": 4,
+  "max_width": 203
+ },
+ {
+  "offset": "07DAECF",
+  "en": "A higher up in Lord Crump's platoon.\\nThey are far more tough, cunning, and\\nsilly than their counterparts.\\nThey have excellent dance moves.",
+  "pt": "Um superior no pelotão do Lord Crump. São bem mais durões, astutos e bobos que seus colegas. Têm passos de dança excelentes.",
+  "max_lines": 4,
+  "max_width": 203
+ },
+ {
+  "offset": "07DAF5A",
+  "en": "A tiny mosquito-like creature. In its\\nyouth, it is prone to cowardice. It takes\\nlodge inside the trunks of great trees\\nand is rumored to hide in bushes.",
+  "pt": "Uma criaturinha parecida com um mosquito. Quando jovem, é covarde. Mora em troncos de grandes árvores e dizem que se esconde em arbustos.",
+  "max_lines": 4,
+  "max_width": 208
+ }
+]

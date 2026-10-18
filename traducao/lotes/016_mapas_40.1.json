@@ -1,0 +1,1454 @@
+[
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "0270448",
+  "en": "This is where we DRAGON users do our\\ntraining.\\pThe CHAMPION even visits.\\nNow do you see how special it is here?",
+  "pt": "É aqui que nós, usuários do tipo DRAGÃO, treinamos.\\pAté o CAMPEÃO vem aqui. Agora entende como este lugar é especial?"
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "02704B8",
+  "en": "Urgh!\\nI didn't expect you to be so strong!",
+  "pt": "Argh!\\nNão esperava que você fosse tão forte!"
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "02704E3",
+  "en": "The road ahead remains long and harsh.\\pWhen will my POKéMON and I become\\nthe best?",
+  "pt": "O caminho pela frente ainda é longo e duro.\\pQuando é que eu e as minhas CAPTURAS vamos ser os melhores?"
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "0270536",
+  "en": "I want to know more about your power.\\nLet me register you in my POKéNAV.",
+  "pt": "Quero saber mais sobre a sua força. Deixa eu te registrar no meu POKéNAV."
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "0270618",
+  "en": "You've obviously kept up your\\nPOKéMON training.\\pSo long as you remain strong, I, too,\\ncan become stronger!",
+  "pt": "Dá pra ver que você continua treinando as suas CAPTURAS.\\pEnquanto você continuar forte, eu também posso ficar mais forte!"
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "0270701",
+  "en": "JOHN: We've been married for\\nfifty years.\\pCome to think of it, I've yet to beat\\nmy dear wife in a battle.",
+  "pt": "JOHN: Estamos casados há cinquenta anos.\\pPensando bem, eu ainda não consegui vencer a minha querida esposa numa batalha."
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "02707DC",
+  "en": "JOHN: Young TRAINER, if the chance\\narises, will you battle with us again?",
+  "pt": "JOHN: Jovem TREINADOR, se surgir a oportunidade, vai batalhar com a gente de novo?"
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "02708B0",
+  "en": "JAY: Fifty years of marriage…\\pIf we ever argued, we always settled\\nit with a POKéMON battle…",
+  "pt": "JAY: Cinquenta anos de casamento…\\pSempre que a gente discutia, resolvia tudo com uma batalha de CAPTURAS…"
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "0270A05",
+  "en": "JOHN: Married for fifty years…\\pOn reflection, the dear wife and I,\\nwe battled day in and day out…",
+  "pt": "JOHN: Cinquenta anos de casados…\\pPensando bem, eu e a minha querida esposa batalhamos dia após dia…"
+ },
+ {
+  "map": "40.1 METEOR FALLS",
+  "offset": "0270B74",
+  "en": "JAY: Fifty years of marriage…\\nMany things have happened.\\pI hope that we will continue to make\\nhappy memories together.",
+  "pt": "JAY: Cinquenta anos de casamento… Muita coisa aconteceu.\\pEspero que a gente continue criando lembranças felizes juntos."
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "0271008",
+  "en": "What, are you coming?\\nCome and get some, then!",
+  "pt": "Que foi, vai encarar?\\nEntão vem, pode vir!"
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "0271037",
+  "en": "PEEKO: Pii pihyoh!",
+  "pt": "PEEKO: Pii pihyoh!"
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "027104A",
+  "en": "Grah, keelhaul it all!\\pThat hostage POKéMON turned out to\\nbe worthless!\\pAnd to think I made a getaway…\\nIn this tunnel to nowhere!\\pHey! You!\\nSo you want to battle me?",
+  "pt": "Grr, raios me partam!\\pAquela CAPTURA refém não serviu pra nada!\\pE pensar que eu fugi… por este túnel que não dá em lugar nenhum!\\pEi! Você!\\nQuer batalhar comigo, é?"
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "0271121",
+  "en": "This is plain not right…\\pThe BOSS told me this would be a\\nslick-and-easy job to pull.\\pAll I had to do was steal some package\\nfrom DEVON.\\pTch!\\nYou want it back that badly, take it!",
+  "pt": "Isso não tá certo…\\pO CHEFE disse que ia ser um servicinho fácil e rápido.\\pEra só roubar um pacote da DEVON.\\pTsc!\\nSe quer tanto de volta, pode levar!"
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "02711D5",
+  "en": "PEEKO!\\nAm I glad to see you're safe!",
+  "pt": "PEEKO!\\nQue alívio ver você a salvo!"
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "02711FA",
+  "en": "PEEKO owes her life to you!\\pThey call me MR. BRINEY.\\nAnd, you are?\\p… … … … … … … …\\n… … … … … … … …\\pAh, so you are {PLAYER}{KUN}!\\nI sincerely thank you!\\pNow, if there's anything that troubles\\nyou, don't hesitate to tell me!\\pYou can usually find me in my cottage\\nby the sea near PETALBURG WOODS.\\pCome, PEEKO, we should make our way\\nhome.\\pPEEKO: Pihyoh!",
+  "pt": "A PEEKO deve a vida a você!\\pMe chamam de SR. BRINEY. E você, quem é?\\p… … … … … … … …\\n… … … … … … … …\\pAh, então você é o {PLAYER}{KUN}! Muito obrigado, de coração!\\pAgora, se algo te preocupar, não hesite em me contar!\\pVocê costuma me encontrar no meu chalé à beira-mar, perto de PETALBURG WOODS.\\pVamos, PEEKO, hora de voltar pra casa.\\pPEEKO: Pihyoh!"
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "0271350",
+  "en": "… …\\pWhy can't they keep digging?\\nIs the bedrock too hard?\\pMy beloved awaits me in VERDANTURF\\nTOWN just beyond here…\\pIf RUSTBORO and VERDANTURF were\\njoined by this tunnel, I could visit\\lher every day…\\pBut this…\\nWhat am I to do?",
+  "pt": "… …\\pPor que eles não continuam cavando? A rocha é dura demais?\\pMinha amada me espera em VERDANTURF TOWN, logo depois daqui…\\pSe RUSTBORO e VERDANTURF fossem ligadas por este túnel, eu poderia visitá-la todo dia…\\pMas assim…\\nO que eu faço?"
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "0271433",
+  "en": "To get from RUSTBORO to VERDANTURF,\\nyou need to go to DEWFORD, then pass\\lthrough SLATEPORT and MAUVILLE…",
+  "pt": "Pra ir de RUSTBORO a VERDANTURF, tem que ir até DEWFORD e depois passar por SLATEPORT e MAUVILLE…"
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "027149C",
+  "en": "Wow! You shattered that boulder\\nblocking the way.\\pTo show you how much I appreciate it,\\nI'd like you to have this HM.",
+  "pt": "Uau! Você destruiu aquela pedra que bloqueava o caminho.\\pPra mostrar o quanto eu agradeço, quero que você fique com este HM."
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "0271512",
+  "en": "That HM contains STRENGTH.\\pIf a muscular POKéMON were to learn\\nthat, it would be able to move even\\llarge boulders.",
+  "pt": "Esse HM contém FORÇA.\\pSe uma CAPTURA musculosa aprender esse golpe, vai conseguir mover até pedras enormes."
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "0271585",
+  "en": "WANDA!\\nNow I can see you anytime!\\pWANDA: That's…wonderful.\\pPlease, take some rest at my home.",
+  "pt": "WANDA!\\nAgora posso te ver quando quiser!\\pWANDA: Isso é… maravilhoso.\\pPor favor, descanse um pouco na minha casa."
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "02715E3",
+  "en": "On the other side of this rock…\\nMy boyfriend is there.\\pHe… He's not just digging the tunnel\\nto come see me.\\pHe works his hands raw and rough\\nfor the benefit of everyone.",
+  "pt": "Do outro lado desta rocha… está o meu namorado.\\pEle… Ele não está cavando o túnel só pra vir me ver.\\pEle trabalha até ficar com as mãos em carne viva, pelo bem de todos."
+ },
+ {
+  "map": "40.4 RUSTURF TUNNEL",
+  "offset": "0271739",
+  "en": "They halted development here to\\nprotect POKéMON, right?\\lThere's a feel-good story!",
+  "pt": "Pararam as obras aqui pra proteger as CAPTURAS, né? Que história bonita!"
+ },
+ {
+  "map": "40.6 WORLD 6-1",
+  "offset": "02ECC00",
+  "en": "There is a big hole in the wall.",
+  "pt": "Tem um buraco enorme na parede."
+ },
+ {
+  "map": "40.7 GRANITE CAVE",
+  "offset": "02719FC",
+  "en": "Teach that hidden move FLASH to\\na POKéMON and use it.\\pIt lights up even the inky darkness\\nof caves.\\pBut, to use it, you need the GYM BADGE\\nfrom DEWFORD's POKéMON GYM.",
+  "pt": "Ensine o golpe secreto FLASH a uma CAPTURA e use-o.\\pEle ilumina até a escuridão mais profunda das cavernas.\\pMas, pra usar, você precisa da INSÍGNIA do GINÁSIO de DEWFORD."
+ },
+ {
+  "map": "40.10 GRANITE CAVE",
+  "offset": "0271C02",
+  "en": "STEVEN: Okay, thank you.\\pYou went through all this trouble to\\ndeliver that. I need to thank you.\\pLet me see…\\nI'll give you this TM.\\pIt contains my favorite move,\\nSTEEL WING.",
+  "pt": "STEVEN: Certo, obrigado.\\pVocê teve todo esse trabalho pra me entregar isso. Preciso te agradecer.\\pDeixa eu ver…\\nVou te dar este TM.\\pEle contém o meu golpe favorito, ASA DE AÇO."
+ },
+ {
+  "map": "40.10 GRANITE CAVE",
+  "offset": "0271CB0",
+  "en": "STEVEN: Your POKéMON appear quite\\ncapable.\\pIf you keep training, you could even\\nbecome the CHAMPION of the POKéMON\\lLEAGUE one day. That's what I think.\\pI know, since we've gotten to know each\\nother, let's register one another in\\lour POKéNAVS.\\p… … … … … …",
+  "pt": "STEVEN: As suas CAPTURAS parecem bem capazes.\\pSe continuar treinando, você pode até virar o CAMPEÃO da LIGA CAPTURA um dia. É o que eu acho.\\pJá sei: agora que nos conhecemos, vamos nos registrar um no POKéNAV do outro.\\p… … … … … …"
+ },
+ {
+  "map": "40.10 GRANITE CAVE",
+  "offset": "0271DAF",
+  "en": "Registered STEVEN\\nin the POKéNAV.",
+  "pt": "STEVEN foi registrado\\nno POKéNAV."
+ },
+ {
+  "map": "40.10 GRANITE CAVE",
+  "offset": "0271DD1",
+  "en": "Now, I've got to hurry along.",
+  "pt": "Agora preciso ir andando."
+ },
+ {
+  "map": "40.10 GRANITE CAVE",
+  "offset": "0271DEF",
+  "en": "Oh, your BAG is full…\\nThat's too bad, then.",
+  "pt": "Ah, a sua BOLSA está cheia…\\nQue pena, então."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272194",
+  "en": "Hello, have you seen any POKéMON\\ncalled SHROOMISH around here?\\pI really love that POKéMON.",
+  "pt": "Olá, você viu alguma CAPTURA chamada SHROOMISH por aqui?\\pEu adoro essa CAPTURA."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "02721EF",
+  "en": "I was going to ambush you, but you\\nhad to dawdle in PETALBURG WOODS\\lforever, didn't you?\\pI got sick of waiting, so here I am!",
+  "pt": "Eu ia te emboscar, mas você tinha que ficar enrolando em PETALBURG WOODS pra sempre, né?\\pCansei de esperar, então aqui estou!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "027226D",
+  "en": "You! DEVON RESEARCHER!\\pHand over those papers!",
+  "pt": "Você! PESQUISADOR da DEVON!\\pPassa esses documentos pra cá!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "027229C",
+  "en": "Aiyeeeh!\\pYou're a POKéMON TRAINER, aren't you?\\nYou've got to help me, please!",
+  "pt": "Aiiiii!\\pVocê é um TREINADOR, não é? Você tem que me ajudar, por favor!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "02722EA",
+  "en": "Hunh? What do you think you're doing?\\nWhat, you're going to protect him?\\pNo one who crosses TEAM AQUA\\ngets any mercy, not even a kid!\\pCome on and battle me!",
+  "pt": "Hã? O que você pensa que está fazendo? Vai proteger ele, é?\\pQuem se mete com a EQUIPE AQUA não tem perdão, nem se for criança!\\pVem, batalha comigo!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272387",
+  "en": "You're kidding me! You're tough!",
+  "pt": "Tá brincando! Você é durão!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "02723A8",
+  "en": "Grrr… You've got some nerve\\nmeddling with TEAM AQUA!\\lCome on and battle me again!\\pI wish I could say that, but I'm out of\\nPOKéMON…\\pAnd, hey, we of TEAM AQUA are also\\nafter something in RUSTBORO.\\pI'll let you go today!",
+  "pt": "Grrr… Você tem coragem de se meter com a EQUIPE AQUA! Vem, batalha comigo de novo!\\pBem que eu queria dizer isso, mas fiquei sem CAPTURAS…\\pE, olha, nós da EQUIPE AQUA também estamos atrás de uma coisa em RUSTBORO.\\pHoje eu te deixo ir!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272482",
+  "en": "Whew…\\nThat was awfully close!\\pThanks to you, he didn't rob me of\\nthese important papers.\\pI know, I'll give you a GREAT BALL as\\nmy thanks!",
+  "pt": "Ufa…\\nFoi por um triz!\\pGraças a você, ele não roubou estes documentos importantes.\\pJá sei, vou te dar um CAP BEISEBOL como agradecimento!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "027250C",
+  "en": "Didn't that TEAM AQUA thug say\\nthey were after something in\\lRUSTBORO, too?",
+  "pt": "Aquele capanga da EQUIPE AQUA não disse que eles também estavam atrás de algo em RUSTBORO?"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272557",
+  "en": "Uh-oh! It's a crisis!\\nI can't be wasting time!",
+  "pt": "Ai, ai! É uma crise!\\nNão posso perder tempo!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272586",
+  "en": "You're loaded with items.\\nI can't give you this GREAT BALL.",
+  "pt": "Você está cheio de itens. Não posso te dar este CAP BEISEBOL."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "02725C2",
+  "en": "I caught a whole bunch of POKéMON!\\pGo, go, go!\\nMy BUG POKéMON team!",
+  "pt": "Eu peguei um montão de CAPTURAS!\\pVai, vai, vai! Minha equipe de CAPTURAS INSETO!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272606",
+  "en": "I have all these POKéMON,\\nbut I couldn't win…",
+  "pt": "Tenho todas essas CAPTURAS, mas não consegui vencer…"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272634",
+  "en": "I caught a bunch of POKéMON.\\nNow I'm out of POKé BALLS.",
+  "pt": "Peguei um monte de CAPTURAS. Agora fiquei sem CAPs."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "02726CE",
+  "en": "If you have a big BUG POKéMON,\\npeople respect you for it.",
+  "pt": "Se você tem uma CAPTURA INSETO grandona, o pessoal te respeita."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272708",
+  "en": "I want a rematch when my BUG\\nPOKéMON grow up!\\pI'm registering you in my POKéNAV!",
+  "pt": "Quero uma revanche quando as minhas CAPTURAS INSETO crescerem!\\pVou te registrar no meu POKéNAV!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272759",
+  "en": "I want a rematch when my BUG \\nPOKéMON grow up!\\pI'm registering you in my POKéNAV!",
+  "pt": "Quero uma revanche quando as minhas CAPTURAS INSETO crescerem!\\pVou te registrar no meu POKéNAV!"
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "02727FB",
+  "en": "You get to be popular if you have\\nstrong POKéMON, right?\\lSo, I've been training hard.",
+  "pt": "Quem tem CAPTURAS fortes fica popular, né? Então eu tenho treinado pra valer."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272851",
+  "en": "Yo, there!\\nYour POKéMON doing okay?\\pIf your POKéMON are weak and you want\\nto avoid battles, you should stay out\\lof tall grass.",
+  "pt": "E aí!\\nSuas CAPTURAS estão bem?\\pSe as suas CAPTURAS estão fracas e você quer evitar batalhas, é melhor ficar longe do mato alto."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "02728D0",
+  "en": "Sometimes, there are things on the\\nground even if you can't see them.\\pThat's why I always check where I'm\\nwalking.",
+  "pt": "Às vezes tem coisas no chão, mesmo que você não consiga ver.\\pPor isso eu sempre olho onde estou pisando."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272943",
+  "en": "Oh, neat!\\nThat's the BADGE from RUSTBORO GYM!\\pYou must be a TRAINER.\\nYou should try using this item.",
+  "pt": "Oh, que legal! Essa é a INSÍGNIA do GINÁSIO de RUSTBORO!\\pVocê deve ser um TREINADOR. Experimente usar este item."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "02729A8",
+  "en": "It's a MIRACLE SEED.\\nIf a POKéMON holds that item, its\\lGRASS-type moves become stronger.\\pBesides MIRACLE SEED, I think there are\\nother convenient items for POKéMON\\lto hold.",
+  "pt": "É uma SEMENTE MILAGRE. Se uma CAPTURA segurar esse item, os golpes do tipo PLANTA dela ficam mais fortes.\\pAlém da SEMENTE MILAGRE, acho que existem outros itens úteis pras CAPTURAS segurarem."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272A55",
+  "en": "TRAINER TIPS\\pAny POKéMON that appears even once\\nin a battle is awarded EXP Points.\\pTo raise a weak POKéMON, put it at the\\nleft of the team list.\\pAs soon as a battle starts, switch it\\nout. It will earn EXP Points without\\lbeing exposed to any harm.",
+  "pt": "DICAS DE TREINADOR\\pToda CAPTURA que entra numa batalha, nem que seja uma vez, recebe pontos de EXP.\\pPara treinar uma CAPTURA fraca, coloque-a em primeiro lugar na lista da equipe.\\pAssim que a batalha começar, troque-a. Ela vai ganhar pontos de EXP sem correr nenhum perigo."
+ },
+ {
+  "map": "40.11 PETALBURG WOODS",
+  "offset": "0272B4C",
+  "en": "TRAINER TIPS\\pIn addition to Hit Points (HP), POKéMON\\nhave Power Points (PP) that are used to\\lmake moves during battle.\\pIf a POKéMON runs out of PP, it must be\\ntaken to a POKéMON CENTER.",
+  "pt": "DICAS DE TREINADOR\\pAlém dos Pontos de Vida (HP), as CAPTURAS têm Pontos de Poder (PP), usados para executar golpes na batalha.\\pSe uma CAPTURA ficar sem PP, ela precisa ser levada a um CENTRO CAPTURA."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273173",
+  "en": "MAXIE: Hm?\\nWho are you?\\p… … … … … …\\n… … … … … …\\pI'd heard ARCHIE bemoaning a child\\nwho's been meddling in TEAM AQUA's\\laffairs.\\pIt must be you he meant.\\pHumph! So you're thinking of\\ninterfering with us, TEAM MAGMA?\\pNow you listen.\\nLong ago, living things used the\\lland to live and grow.\\pThat is why land is all important!\\nIt is the cradle of all!\\pThat is why TEAM MAGMA is dedicated\\nto the expansion of the land mass.\\pIt is for further advancement of\\nhumankind and POKéMON!\\pAnd for that, we need the power of\\nwhat sleeps within this mountain…\\pOh! There was no need for you to\\nlearn that much.\\pBut, no matter!\\nI'll teach you the consequences of\\lmeddling in our grand design!",
+  "pt": "MAXIE: Hum?\\nQuem é você?\\p… … … … … …\\n… … … … … …\\pOuvi o ARCHIE reclamando de uma criança que anda se metendo nos assuntos da EQUIPE AQUA.\\pDeve ser você.\\pHunf! Então está pensando em atrapalhar a nós, da EQUIPE MAGMA?\\pAgora escute. Há muito tempo, os seres vivos usavam a terra para viver e crescer.\\pÉ por isso que a terra é tão importante! Ela é o berço de tudo!\\pÉ por isso que a EQUIPE MAGMA se dedica a expandir a massa de terra.\\pÉ pelo progresso da humanidade e das CAPTURAS!\\pE, para isso, precisamos do poder daquilo que dorme dentro desta montanha…\\pOh! Você não precisava saber tanto.\\pMas não importa! Vou te ensinar as consequências de se meter no nosso grande plano!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273414",
+  "en": "What?!\\pI, MAXIE, was caught off guard?!",
+  "pt": "O quê?!\\pEu, MAXIE, fui pego desprevenido?!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "027343C",
+  "en": "MAXIE: But, enough.\\nI will back off this time.\\pBut don't think that this is the last\\nyou've seen of TEAM MAGMA.\\pFufufu…\\pEven without the METEORITE, if we\\nobtain that ORB… Fufufu…",
+  "pt": "MAXIE: Mas chega. Desta vez, vou recuar.\\pMas não pense que esta é a última vez que você vê a EQUIPE MAGMA.\\pFufufu…\\pMesmo sem o METEORITO, se obtivermos aquele ORBE… Fufufu…"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02735B2",
+  "en": "BOSS, hurry!\\nGive it the METEORITE's energy!\\pHehehe…",
+  "pt": "CHEFE, rápido!\\nInjete a energia do METEORITO!\\pHehehe…"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02735E7",
+  "en": "We of TEAM MAGMA are working hard for\\neveryone's sake.\\pLike, if that thing's power made more\\nland, there'd be more places to live.\\pEveryone'd be happy!",
+  "pt": "Nós da EQUIPE MAGMA estamos dando duro pelo bem de todos.\\pTipo, se o poder daquela coisa criasse mais terra, ia ter mais lugar pra morar.\\pTodo mundo ia ficar feliz!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "027367F",
+  "en": "Hunh?\\nWhat do you mean I lost?",
+  "pt": "Hã?\\nComo assim, eu perdi?"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "027369E",
+  "en": "Our BOSS says, “It will make everyone\\nhappy.”\\pBut why does everyone keep getting\\nin our way?",
+  "pt": "O nosso CHEFE diz: “Isso vai deixar todo mundo feliz.”\\pMas então por que todo mundo vive atrapalhando a gente?"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02736FB",
+  "en": "If there were more land, I'd be able\\nto get a big house of my own!\\pI'm going to build it on hardened lava!",
+  "pt": "Se tivesse mais terra, eu ia conseguir ter uma casa grande só minha!\\pVou construir em cima de lava endurecida!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273766",
+  "en": "My dream of a big house…",
+  "pt": "Meu sonho da casa grande…"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "027377F",
+  "en": "A kid like you, you ought to be\\nsplashing about in the waves!",
+  "pt": "Um garoto como você devia estar brincando nas ondas!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02737BD",
+  "en": "That annoying TEAM AQUA…\\nThey always mess with our plans!",
+  "pt": "Essa EQUIPE AQUA irritante… Sempre estraga os nossos planos!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02737F7",
+  "en": "METEORITES pack amazing power!",
+  "pt": "METEORITOS têm um poder incrível!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273816",
+  "en": "You'd better not mess with us!\\pWe're trying to awaken that thing\\nfor the benefit of everyone!",
+  "pt": "É melhor não se meter com a gente!\\pEstamos tentando despertar aquela coisa pelo bem de todos!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273874",
+  "en": "We're TEAM MAGMA!\\pThey're TEAM AQUA!\\pIt totally annoys me that they'd\\nuse a name like ours!",
+  "pt": "Nós somos a EQUIPE MAGMA!\\pEles são a EQUIPE AQUA!\\pMe irrita demais eles usarem um nome parecido com o nosso!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02738D0",
+  "en": "Yeah!\\nDouse them in fire!",
+  "pt": "Isso!\\nTaca fogo neles!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02738EA",
+  "en": "We're going to keep making more land!",
+  "pt": "Vamos continuar criando mais terra!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273910",
+  "en": "Bufoh!",
+  "pt": "Bufoh!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273917",
+  "en": "ARCHIE: Grr, {PLAYER}!\\nI should've guessed you'd show up!\\pSee for yourself what the fanatics\\nof TEAM MAGMA are up to!\\pThey're trying to inject the stolen\\nMETEORITE's power into the volcano!\\pDoing something like that will cause\\nthe volcano's eruption!",
+  "pt": "ARCHIE: Grr, {PLAYER}! Eu devia saber que você ia aparecer!\\pVeja com seus próprios olhos o que os fanáticos da EQUIPE MAGMA estão aprontando!\\pEles estão tentando injetar no vulcão o poder do METEORITO roubado!\\pFazer uma coisa dessas vai causar a erupção do vulcão!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273A0C",
+  "en": "ARCHIE: Grrr…\\pI want to stop that MAXIE,\\nbut I can't!\\pNot when I have my hands full battling\\nthree opponents at once!",
+  "pt": "ARCHIE: Grrr…\\pEu quero deter aquele MAXIE, mas não consigo!\\pNão com as mãos ocupadas enfrentando três oponentes ao mesmo tempo!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273A82",
+  "en": "ARCHIE: {PLAYER}!\\nThank you!\\pWith your help, we thwarted TEAM\\nMAGMA's destructive plan!\\pBut… You…\\nWhose side are you on?\\pAh, it doesn't matter.\\pWe will remain vigilant and keep up\\nour pursuit of TEAM MAGMA.\\p{PLAYER}, we shall meet again!",
+  "pt": "ARCHIE: {PLAYER}!\\nObrigado!\\pCom a sua ajuda, frustramos o plano destrutivo da EQUIPE MAGMA!\\pMas… Você…\\nDe que lado você está?\\pAh, não importa.\\pVamos continuar vigilantes e seguir no encalço da EQUIPE MAGMA.\\p{PLAYER}, nós nos veremos de novo!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273B64",
+  "en": "Darn… TEAM MAGMA outnumbers us!\\nWe can't keep up with them!",
+  "pt": "Droga… A EQUIPE MAGMA tem mais gente que a gente! Não dá pra acompanhar!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273BA0",
+  "en": "If they expand the land, there'll be\\nless habitats for WATER POKéMON!",
+  "pt": "Se eles expandirem a terra, vai ter menos habitat pras CAPTURAS do tipo ÁGUA!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273BE6",
+  "en": "We're TEAM AQUA!\\pThey're TEAM MAGMA!\\pIt burns me up that they'd use such\\na confusing name!",
+  "pt": "Nós somos a EQUIPE AQUA!\\pEles são a EQUIPE MAGMA!\\pMe tira do sério eles usarem um nome tão confuso!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273C41",
+  "en": "Bushaa!",
+  "pt": "Bushaa!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273C49",
+  "en": "LAVA COOKIES are MT. CHIMNEY's local\\nspecialty.\\pTry one. It's just ¥200.",
+  "pt": "Os BISCOITOS YOSHI são a especialidade local do MT. CHIMNEY.\\pExperimente um. Custa só ¥200."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273C92",
+  "en": "Thank you, dear!",
+  "pt": "Obrigada, querido!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273CA3",
+  "en": "Oh, dear. You can't buy a thing if\\nyou've not got the money.",
+  "pt": "Ai, querido. Sem dinheiro, não dá pra comprar nada."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273CE0",
+  "en": "Oh, fine then.",
+  "pt": "Ah, tudo bem, então."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273CEF",
+  "en": "A METEORITE is fitted on a mysterious\\nmachine…\\pThe machine seems to be storing\\nenergy in the METEORITE.",
+  "pt": "Há um METEORITO encaixado numa máquina misteriosa…\\pA máquina parece estar armazenando energia no METEORITO."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273D57",
+  "en": "A METEORITE is fitted on a mysterious\\nmachine…\\pDo you want to remove the METEORITE?",
+  "pt": "Há um METEORITO encaixado numa máquina misteriosa…\\pQuer remover o METEORITO?"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273DAB",
+  "en": "{PLAYER} removed the METEORITE from\\nthe mysterious machine.",
+  "pt": "{PLAYER} removeu o METEORITO da máquina misteriosa."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273DE1",
+  "en": "{PLAYER} left the METEORITE where\\nit was.",
+  "pt": "{PLAYER} deixou o METEORITO onde estava."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273E05",
+  "en": "This mysterious machine…\\nIt makes no response whatsoever.",
+  "pt": "Esta máquina misteriosa… Não responde a nada."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273E3F",
+  "en": "↓ JAGGED PATH\\nLAVARIDGE TOWN AHEAD",
+  "pt": "↓ JAGGED PATH\\nLAVARIDGE TOWN À FRENTE"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273EE7",
+  "en": "Well, well, I've lost. I can't call\\nmyself an EXPERT now, can I?",
+  "pt": "Ora, ora, perdi. Agora não posso mais me chamar de ESPECIALISTA, não é?"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273F28",
+  "en": "Thank you, child. It was fun, as if\\nI were battling my own grandchild.\\pPlease, come see me again for\\na rematch.",
+  "pt": "Agradeço, meu jovem. Foi divertido, como se eu estivesse batalhando com o meu próprio neto.\\pPor favor, volte para uma revanche."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0273F98",
+  "en": "If you can mesh your heart with those\\nof your POKéMON, why, you should be\\lable to achieve great things.",
+  "pt": "Se você conseguir unir o seu coração ao das suas CAPTURAS, ora, vai ser capaz de realizar grandes coisas."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0274000",
+  "en": "Oh, my goodness.\\nNow, aren't you something!",
+  "pt": "Minha nossa.\\nVocê é mesmo impressionante!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "027402C",
+  "en": "Perhaps your heart has become one\\nwith the hearts of your POKéMON.",
+  "pt": "Talvez o seu coração tenha se tornado um só com o das suas CAPTURAS."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02740D7",
+  "en": "The heat of MT. CHIMNEY warms\\nme up, baby!",
+  "pt": "O calor do MT. CHIMNEY me deixa pegando fogo, benzinho!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "027417F",
+  "en": "Like I said, I've finally made it to\\nMT. CHIMNEY. It would be a shame if\\lI only do a little sightseeing…\\pI want to get in some battles and buy\\nCOOKIES as souvenirs.",
+  "pt": "Como eu disse, finalmente cheguei ao MT. CHIMNEY. Seria uma pena só passear um pouquinho…\\pQuero batalhar um pouco e comprar BISCOITOS de lembrança."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "02742A8",
+  "en": "I'll have to take another dip in the\\nhot springs. Want to join me?\\pJust joking!",
+  "pt": "Vou ter que dar outro mergulho nas fontes termais. Quer vir junto?\\pBrincadeirinha!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "027435E",
+  "en": "I think I need a dip in LAVARIDGE\\nHOT SPRING with the locals!",
+  "pt": "Acho que preciso de um mergulho na FONTE TERMAL de LAVARIDGE com o pessoal daqui!"
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "027439C",
+  "en": "I like little fireballs like you.\\nLet me register you in my POKéNAV.",
+  "pt": "Gosto de bolinhas de fogo como você. Deixa eu te registrar no meu POKéNAV."
+ },
+ {
+  "map": "40.12 MT. CHIMNEY",
+  "offset": "0274459",
+  "en": "Actually, it really is hot here.\\nI'm overdressed for these parts.",
+  "pt": "Na verdade, aqui é quente mesmo. Estou com roupa demais pra este lugar."
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274744",
+  "en": "Losing left me bitter!",
+  "pt": "Perder me deixou com um gosto amargo!"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "027475B",
+  "en": "Yes, I did lose at POKéMON…\\pBut, when it comes to the love of\\nthe mountains, I have you beat!",
+  "pt": "Tá, eu perdi na batalha de CAPTURAS…\\pMas, no amor pelas montanhas, eu ganho de você!"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "027481D",
+  "en": "Did you know?\\pSome people cleverly ride their\\nbicycles up this horribly bumpy pass.",
+  "pt": "Sabia?\\pTem gente esperta que sobe de bicicleta esta trilha terrivelmente esburacada."
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274871",
+  "en": "Will you ever be back in this area?\\nIf you do return, I'd like a rematch.",
+  "pt": "Você vai voltar a estas bandas algum dia? Se voltar, quero uma revanche."
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "027491C",
+  "en": "I'll forget about losing and just\\nenjoy this bumpy hike.",
+  "pt": "Vou esquecer a derrota e só curtir esta trilha esburacada."
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "02749D8",
+  "en": "If I had an ACRO BIKE, I'd be able to\\njump ledges.",
+  "pt": "Se eu tivesse um APITO YOSHI, ia conseguir pular os desníveis."
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274A0B",
+  "en": "When I get more used to this bumpiness,\\nI'll be sure to win!\\pCan you register me in your POKéNAV?",
+  "pt": "Quando eu me acostumar com esses buracos, com certeza vou ganhar!\\pPode me registrar no seu POKéNAV?"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274AD9",
+  "en": "I should get an ACRO BIKE from RYDEL\\nin MAUVILLE CITY…",
+  "pt": "Eu devia pegar um APITO YOSHI com o RYDEL, em MAUVILLE CITY…"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274B10",
+  "en": "Wah!\\nWhat are you doing here?\\pWhat am I doing in a place like this?\\pWhat business is it of yours?",
+  "pt": "Uah!\\nO que você está fazendo aqui?\\pO que EU estou fazendo num lugar desses?\\pE o que você tem a ver com isso?"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274B72",
+  "en": "Urrrgh…\\pI should've ducked into our HIDEOUT\\nright away…",
+  "pt": "Urrrgh…\\pEu devia ter me enfiado no nosso ESCONDERIJO na hora…"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274BAA",
+  "en": "Okay, oh-kay!\\nI admit it--you're strong!\\pDon't worry about me.\\nGo wherever you want!",
+  "pt": "Tá bom, tá BOM!\\nAdmito: você é forte!\\pNão se preocupe comigo. Vá aonde quiser!"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274BFF",
+  "en": "Oh! This boulder is shaking in response\\nto the MAGMA EMBLEM!",
+  "pt": "Oh! Esta pedra está tremendo em resposta ao EMBLEMA MAGMA!"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274C9C",
+  "en": "My bicycle bounced around so much,\\nmy rear end's sore…",
+  "pt": "Minha bicicleta pulou tanto que o meu traseiro tá doendo…"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274CD3",
+  "en": "I climb this hill every day.\\nI have confidence in my strength!",
+  "pt": "Eu subo este morro todo dia. Confio na minha força!"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274D12",
+  "en": "Hmm…\\nWhat went wrong?",
+  "pt": "Hmm…\\nOnde foi que eu errei?"
+ },
+ {
+  "map": "40.13 JAGGED PASS",
+  "offset": "0274D28",
+  "en": "What is that odd rock protrusion\\na little up the hill from here?",
+  "pt": "O que é aquela rocha esquisita saindo do chão, um pouco mais acima no morro?"
+ },
+ {
+  "map": "40.15 MT. PYRE",
+  "offset": "0274E4A",
+  "en": "Have a POKéMON hold that\\nCLEANSE TAG.\\pIt will help ward off wild POKéMON.",
+  "pt": "Faça uma CAPTURA segurar esse SELO PURIFICADOR.\\pEle ajuda a espantar CAPTURAS selvagens."
+ },
+ {
+  "map": "40.15 MT. PYRE",
+  "offset": "0274E94",
+  "en": "Did you come to pay your respect\\nto the spirits of departed POKéMON?\\pYou must care for your POKéMON a lot.",
+  "pt": "Você veio prestar homenagem aos espíritos das CAPTURAS que se foram?\\pVocê deve gostar muito das suas CAPTURAS."
+ },
+ {
+  "map": "40.15 MT. PYRE",
+  "offset": "0274EFF",
+  "en": "This is the final resting place of my\\nZIGZAGOON. I cherished it…",
+  "pt": "Aqui é o descanso final do meu ZIGZAGOON. Eu o amava tanto…"
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "0274FE8",
+  "en": "Memories of my darling SKITTY…\\nMy eyes overflow thinking about it.",
+  "pt": "Lembranças da minha querida SKITTY… Meus olhos se enchem de lágrimas só de pensar."
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "027502B",
+  "en": "Ooch, ouch… There are holes in the\\nground here and there.\\pI didn't notice and took a tumble from\\nthe floor above.",
+  "pt": "Ai, ui… Tem buracos no chão aqui e ali.\\pEu não percebi e levei um tombo do andar de cima."
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "0275110",
+  "en": "People don't come here often, so\\nI thought there'd be rare POKéMON.",
+  "pt": "Quase ninguém vem aqui, então achei que ia ter CAPTURAS raras."
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "02751F6",
+  "en": "LUKE: Well, we lost but that's okay!\\nI'm right here by your side.\\lWe'll make it through this dare!",
+  "pt": "LUKE: Bom, a gente perdeu, mas tudo bem! Tô aqui do seu lado, meu bem. Esse desafio a gente vence também!"
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "0275392",
+  "en": "DEZ: We're lovey-dovey, so we don't\\ncare if we lose!",
+  "pt": "DEZ: A gente é tão grudadinho que nem liga se perder!"
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "0275449",
+  "en": "You are an unfamiliar sight…\\nDepart before anything befalls you!",
+  "pt": "Não conheço o seu rosto… Parta antes que algo lhe aconteça!"
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "027548A",
+  "en": "Hmm…\\nYou're durable.",
+  "pt": "Hmm…\\nVocê é resistente."
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "027549F",
+  "en": "Our family has been TRAINERS here\\nsince my great-grandmother's time…\\pIt is my duty to protect this\\nmountain…",
+  "pt": "A minha família é de TREINADORES daqui desde os tempos da minha bisavó…\\pÉ meu dever proteger esta montanha…"
+ },
+ {
+  "map": "40.16 MT. PYRE",
+  "offset": "0275540",
+  "en": "I get freaked out every time I see\\nanything move…\\pI shouldn't have come here to train…",
+  "pt": "Eu me apavoro toda vez que vejo alguma coisa se mexer…\\pNão devia ter vindo treinar aqui…"
+ },
+ {
+  "map": "40.17 MT. PYRE",
+  "offset": "02756AE",
+  "en": "My psychic powers have surely\\ngrown several times, but…",
+  "pt": "Meus poderes psíquicos com certeza cresceram muito, mas…"
+ },
+ {
+  "map": "40.17 MT. PYRE",
+  "offset": "0275737",
+  "en": "This means my training is still not\\nenough…\\pI've got to keep working toward the\\nsummit…\\pGo, me!",
+  "pt": "Isso quer dizer que o meu treino ainda não é suficiente…\\pTenho que continuar me esforçando rumo ao topo…\\pVamos nessa!"
+ },
+ {
+  "map": "40.17 MT. PYRE",
+  "offset": "0275797",
+  "en": "Why have you come here?",
+  "pt": "Por que você veio aqui?"
+ },
+ {
+  "map": "40.17 MT. PYRE",
+  "offset": "02757AF",
+  "en": "That was amazing!\\nYou're a very special TRAINER.",
+  "pt": "Isso foi incrível!\\nVocê é um TREINADOR muito especial."
+ },
+ {
+  "map": "40.17 MT. PYRE",
+  "offset": "02757E0",
+  "en": "POKéMON no longer of this world.\\nPOKéMON that are with you now.\\pAnd the POKéMON that you will meet\\nin the future…\\pThey are all to be equally cherished.\\nPlease remember that.",
+  "pt": "CAPTURAS que já não estão neste mundo. CAPTURAS que estão com você agora.\\pE as CAPTURAS que você ainda vai conhecer no futuro…\\pTodas merecem o mesmo carinho. Por favor, lembre-se disso."
+ },
+ {
+  "map": "40.17 MT. PYRE",
+  "offset": "027588E",
+  "en": "I would like to see your POKéMON\\nwhen they grow up some more…\\pPlease, I need to see your POKéNAV.",
+  "pt": "Gostaria de ver as suas CAPTURAS quando elas crescerem mais um pouco…\\pPor favor, preciso ver o seu POKéNAV."
+ },
+ {
+  "map": "40.17 MT. PYRE",
+  "offset": "0275952",
+  "en": "POKéMON no longer of this world.\\nPOKéMON that are with you now.\\pAnd the POKéMON that you will meet\\nin the future…\\pThey are all to be equally cherished.\\nI see that you've remembered that.",
+  "pt": "CAPTURAS que já não estão neste mundo. CAPTURAS que estão com você agora.\\pE as CAPTURAS que você ainda vai conhecer no futuro…\\pTodas merecem o mesmo carinho. Vejo que você se lembrou disso."
+ },
+ {
+  "map": "40.18 MT. PYRE",
+  "offset": "0275A4D",
+  "en": "Teacher…\\nPlease forgive me!",
+  "pt": "Mestre…\\nPor favor, me perdoe!"
+ },
+ {
+  "map": "40.18 MT. PYRE",
+  "offset": "0275A69",
+  "en": "Until I improve, my teacher, who rests\\nhere, will never find true peace…",
+  "pt": "Enquanto eu não melhorar, o meu mestre, que descansa aqui, nunca vai encontrar a verdadeira paz…"
+ },
+ {
+  "map": "40.19 MT. PYRE",
+  "offset": "0275B33",
+  "en": "I want to see dreadful things…\\nI can't leave…\\pStay…\\nWon't you stay with me?",
+  "pt": "Eu quero ver coisas medonhas… Não posso ir embora…\\pFique…\\nNão quer ficar comigo?"
+ },
+ {
+  "map": "40.20 MT. PYRE",
+  "offset": "0275C41",
+  "en": "Perhaps the power is from the spirits\\nof POKéMON in fitful sleep here…",
+  "pt": "Talvez esse poder venha dos espíritos das CAPTURAS que dormem um sono agitado aqui…"
+ },
+ {
+  "map": "40.20 MT. PYRE",
+  "offset": "0275C88",
+  "en": "Fufufu… I lost the match, but…\\nI have this little ability…\\pWithout ever laying my hands on\\nyour POKéNAV… Hiyah!",
+  "pt": "Fufufu… Perdi a partida, mas… Eu tenho uma pequena habilidade…\\pSem nem encostar no seu POKéNAV… Hiyah!"
+ },
+ {
+  "map": "40.20 MT. PYRE",
+  "offset": "0275D26",
+  "en": "The POKéMON at rest here…\\nSometimes, they play…",
+  "pt": "As CAPTURAS que descansam aqui… Às vezes, elas brincam…"
+ },
+ {
+  "map": "40.20 MT. PYRE",
+  "offset": "0275D56",
+  "en": "Have you lost your bearings?\\nHave no fear for I am here!",
+  "pt": "Está perdido? Não tema, que eu resolvo o seu problema!"
+ },
+ {
+  "map": "40.20 MT. PYRE",
+  "offset": "0275D8F",
+  "en": "Weren't you lost?",
+  "pt": "Você não estava perdido?"
+ },
+ {
+  "map": "40.20 MT. PYRE",
+  "offset": "0275DA1",
+  "en": "I had this feeling that a lost TRAINER\\nwould be panicked and easy to beat.\\pIt's dirty and I won't try it again…",
+  "pt": "Achei que um TREINADOR perdido ia estar em pânico e ser fácil de vencer.\\pFoi sujeira, e eu não vou tentar de novo…"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "02762E5",
+  "en": "I thought you were one of the MAGMAS\\nwho happened to come back…",
+  "pt": "Achei que você fosse um dos MAGMAS que tinha voltado…"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276325",
+  "en": "Yeah, so you are strong…\\nBut there're a lot of us!",
+  "pt": "É, você é forte mesmo… Mas nós somos muitos!"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276429",
+  "en": "You don't know anything!\\nSo why are you messing with us?",
+  "pt": "Você não sabe de nada! Então por que está se metendo com a gente?"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "02764F8",
+  "en": "Heh, it doesn't matter!\\nWe bought ourselves some time!\\pThe BOSS should have snatched what\\nhe was after!",
+  "pt": "Heh, não importa! A gente ganhou tempo!\\pO CHEFE já deve ter pegado o que queria!"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "027661D",
+  "en": "We have a great combination going\\nwith us members and our leader.",
+  "pt": "A gente tem uma combinação perfeita entre os membros e o nosso líder."
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "027665F",
+  "en": "ARCHIE: TEAM MAGMA's MAXIE got ahead\\nof us, but we also got what we wanted.\\pThe RED ORB preserved at MT. PYRE…\\nI, ARCHIE, now have it in my possession!\\pFufufu… Now we can bring our ultimate\\nobjective to fruition!\\pOkay, TEAM!\\nWe're pulling out!",
+  "pt": "ARCHIE: O MAXIE, da EQUIPE MAGMA, chegou antes de nós, mas também conseguimos o que queríamos.\\pO ORBE VERMELHO guardado no MT. PYRE… Agora está nas minhas mãos, nas mãos de ARCHIE!\\pFufufu… Agora podemos concretizar o nosso objetivo final!\\pCerto, pessoal!\\nVamos bater em retirada!"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276753",
+  "en": "Oh, no…\\nThis cannot happen…\\pNot only the BLUE ORB, but even\\nthe RED ORB has been taken…\\pThe BLUE ORB and RED ORB must never\\nbe separated. They belong together.\\pWhat are those men trying to do with\\nthe two ORBS?\\p… … … … … …\\n… … … … … …\\pOh, yes. Was it TEAM MAGMA who came\\nand took the BLUE ORB first?\\pWell, in their haste, they left this\\nbehind.\\pI couldn't imagine what exactly it\\ncould be.\\pI would like you to have it.\\nPerhaps it will be useful in some way.",
+  "pt": "Oh, não…\\nIsso não pode acontecer…\\pNão só o ORBE AZUL, mas até o ORBE VERMELHO foi levado…\\pO ORBE AZUL e o ORBE VERMELHO nunca devem ser separados. Eles pertencem um ao outro.\\pO que aqueles homens pretendem fazer com os dois ORBES?\\p… … … … … …\\n… … … … … …\\pAh, sim. Foi a EQUIPE MAGMA que veio e levou o ORBE AZUL primeiro?\\pBem, na pressa, eles deixaram isto para trás.\\pNão consigo imaginar o que exatamente seja.\\pGostaria que você ficasse com isto. Talvez seja útil de alguma forma."
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "027691D",
+  "en": "The BLUE ORB and RED ORB taken by\\nthose sinister men…\\pThey must never be apart…\\nI fear something terrible will happen…",
+  "pt": "O ORBE AZUL e o ORBE VERMELHO, levados por aqueles homens sinistros…\\pEles nunca devem ficar separados… Temo que algo terrível vá acontecer…"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276994",
+  "en": "Oh, my goodness…\\pYou say that both GROUDON and KYOGRE\\nhave been awakened?\\pIt is said that the BLUE ORB and\\nthe RED ORB quelled the rage of\\lthe two POKéMON…\\pIt is also said that the true owner\\nof the ORBS still exists.\\pHowever, no one knows who, or what\\nexactly, the ORBS belong to.\\pIt could be a human, or perhaps\\na POKéMON, but no one knows.",
+  "pt": "Minha nossa…\\pVocê está dizendo que tanto GROUDON quanto KYOGRE foram despertados?\\pDizem que o ORBE AZUL e o ORBE VERMELHO acalmaram a fúria dessas duas CAPTURAS…\\pDizem também que o verdadeiro dono dos ORBES ainda existe.\\pMas ninguém sabe a quem, ou a quê, os ORBES pertencem.\\pPode ser um humano, ou talvez uma CAPTURA, mas ninguém sabe."
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276AEB",
+  "en": "The two men who took the ORBS came\\nback to return them on their own.\\pThose men…\\nPerhaps they are not so evil after all…",
+  "pt": "Os dois homens que levaram os ORBES voltaram por conta própria para devolvê-los.\\pAqueles homens…\\nTalvez não sejam tão maus, afinal…"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276B63",
+  "en": "The embodiments of the land, sea,\\nand the sky…\\pThat is said to be the identities of\\nthe super-ancient POKéMON…\\pIn the same way that we humans and\\nPOKéMON have life, our world, too,\\lis alive…\\pThe super-ancient POKéMON have\\ntaught us that…",
+  "pt": "As personificações da terra, do mar e do céu…\\pDizem que essa é a identidade das CAPTURAS superancestrais…\\pAssim como nós, humanos, e as CAPTURAS temos vida, o nosso mundo também está vivo…\\pForam as CAPTURAS superancestrais que nos ensinaram isso…"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276C51",
+  "en": "MT. PYRE is where we calm the spirits\\nof POKéMON that have passed on…\\pThis is a high place where one can\\nsee all of HOENN…\\pThe disembodied spirits of POKéMON\\nmust find solace here…\\pIs it coincidence that you are here…\\pWill you hear out my tale? A tale long\\ntold in the HOENN region?",
+  "pt": "O MT. PYRE é onde acalmamos os espíritos das CAPTURAS que já partiram…\\pÉ um lugar alto, de onde se vê toda HOENN…\\pOs espíritos das CAPTURAS devem encontrar consolo aqui…\\pSerá coincidência você estar aqui…\\pVai ouvir a minha história? Uma história contada há muito tempo na região de HOENN?"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276D6C",
+  "en": "It happened long, long ago…\\pThe world was wracked by a ferocious\\nclash between the POKéMON of the land\\land the POKéMON of the sea…\\pThe POKéMON of the land raised\\nmountains and created continents…\\pThe POKéMON of the sea raised huge\\nwaves and carved out oceans…\\pTheir fierce duel raged without end.\\pThe world was engulfed in massive\\ninfernos and vicious storms.\\pThe BLUE ORB and the RED ORB brought\\nan end to the calamity.\\pLight poured from the two ORBS and\\nbecalmed the enraged adversaries.\\pThe pair, made docile, dove deep into\\nthe sea where eventually they\\ldisappeared…",
+  "pt": "Aconteceu há muito, muito tempo…\\pO mundo foi abalado por um confronto feroz entre a CAPTURA da terra e a CAPTURA do mar…\\pA CAPTURA da terra ergueu montanhas e criou continentes…\\pA CAPTURA do mar ergueu ondas gigantes e escavou oceanos…\\pO duelo feroz entre elas parecia não ter fim.\\pO mundo foi tomado por incêndios gigantescos e tempestades violentas.\\pO ORBE AZUL e o ORBE VERMELHO puseram fim à calamidade.\\pUma luz jorrou dos dois ORBES e acalmou os adversários enfurecidos.\\pA dupla, já mansa, mergulhou nas profundezas do mar, onde acabou desaparecendo…"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276FA7",
+  "en": "I see…\\nWell, that, too, is fine…",
+  "pt": "Entendo…\\nBem, tudo bem também…"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "0276FEB",
+  "en": "It is my role to pass on the legends\\nof HOENN to future generations.\\pAnd the crisis that just ended in\\nSOOTOPOLIS rewrote a legend…\\pHave you the time to hear the new\\nlegend of HOENN?",
+  "pt": "O meu papel é passar as lendas de HOENN para as próximas gerações.\\pE a crise que acabou de terminar em SOOTOPOLIS reescreveu uma lenda…\\pVocê tem tempo para ouvir a nova lenda de HOENN?"
+ },
+ {
+  "map": "40.22 MT. PYRE",
+  "offset": "02770A2",
+  "en": "It happened long, long ago…\\pThe world was wracked by a ferocious\\nclash between the POKéMON of the land\\land the POKéMON of the sea…\\pThe POKéMON of the land raised\\nmountains and created continents…\\pThe POKéMON of the sea raised huge\\nwaves and carved out oceans…\\pTheir fierce duel raged without end.\\pThe world was engulfed in massive\\nfires and vicious storms.\\pIt was then that the POKéMON of\\nthe sky descended from a storm.\\pThe POKéMON, shining a vivid green,\\nbecalmed the two enraged POKéMON.\\pThen, its duty done, the green POKéMON\\nflew off into the wild blue yonder…",
+  "pt": "Aconteceu há muito, muito tempo…\\pO mundo foi abalado por um confronto feroz entre a CAPTURA da terra e a CAPTURA do mar…\\pA CAPTURA da terra ergueu montanhas e criou continentes…\\pA CAPTURA do mar ergueu ondas gigantes e escavou oceanos…\\pO duelo feroz entre elas parecia não ter fim.\\pO mundo foi tomado por incêndios gigantescos e tempestades violentas.\\pFoi então que a CAPTURA do céu desceu de uma tempestade.\\pA CAPTURA, brilhando num verde intenso, acalmou as duas CAPTURAS enfurecidas.\\pE então, com a missão cumprida, a CAPTURA verde voou para longe, rumo ao infinito azul…"
+ },
+ {
+  "map": "40.23 AQUA HIDEOUT",
+  "offset": "0277428",
+  "en": "What? What?\\nAre you a TEAM MAGMA grunt?\\pI hear that TEAM MAGMA is trying to\\nawaken an awesome POKéMON at their\\lHIDEOUT.\\pBut where might their HIDEOUT be?",
+  "pt": "Quê? Quê?\\nVocê é um recruta da EQUIPE MAGMA?\\pOuvi dizer que a EQUIPE MAGMA está tentando despertar uma CAPTURA incrível no ESCONDERIJO deles.\\pMas onde será que fica o ESCONDERIJO deles?"
+ },
+ {
+  "map": "40.23 AQUA HIDEOUT",
+  "offset": "02774C2",
+  "en": "What? What? What do you want with \\nTEAM AQUA?\\pOur BOSS isn't here!\\nHe's gone off to jack a submarine!\\p… …\\nWhere did he go?\\pWahaha! Do you really think I'd tell\\nyou something that crucial?",
+  "pt": "Quê? Quê? O que você quer com a EQUIPE AQUA?\\pO nosso CHEFE não está aqui! Ele foi roubar um submarino!\\p… …\\nPra onde ele foi?\\pWahaha! Acha mesmo que eu ia te contar uma coisa tão importante?"
+ },
+ {
+  "map": "40.23 AQUA HIDEOUT",
+  "offset": "027757E",
+  "en": "What? What? What do you want with \\nTEAM AQUA?\\pOur BOSS isn't here! He's on his way to\\nMT. PYRE on ROUTE 122!\\p… …\\nWhy did he go?\\pWahaha! Do you really think I'd tell\\nyou something that crucial?",
+  "pt": "Quê? Quê? O que você quer com a EQUIPE AQUA?\\pO nosso CHEFE não está aqui! Ele está a caminho do MT. PYRE, na ROTA 122!\\p… …\\nPor que ele foi?\\pWahaha! Acha mesmo que eu ia te contar uma coisa tão importante?"
+ },
+ {
+  "map": "40.23 AQUA HIDEOUT",
+  "offset": "027763F",
+  "en": "What? What?\\nAre you a TEAM MAGMA grunt?\\pI hear that TEAM MAGMA is after\\nan awesome POKéMON at MT. CHIMNEY.\\pBut what is that POKéMON like?",
+  "pt": "Quê? Quê?\\nVocê é um recruta da EQUIPE MAGMA?\\pOuvi dizer que a EQUIPE MAGMA está atrás de uma CAPTURA incrível no MT. CHIMNEY.\\pMas como será essa CAPTURA?"
+ },
+ {
+  "map": "40.23 AQUA HIDEOUT",
+  "offset": "02776C9",
+  "en": "What? What? What do you want with\\nTEAM AQUA?\\pOur BOSS isn't here!\\nHe's on his way to SLATEPORT CITY!\\p… …\\nWhy did he go?\\pWahaha! Do you really think I'd tell\\nyou something that crucial?",
+  "pt": "Quê? Quê? O que você quer com a EQUIPE AQUA?\\pO nosso CHEFE não está aqui! Ele está a caminho de SLATEPORT CITY!\\p… …\\nPor que ele foi?\\pWahaha! Acha mesmo que eu ia te contar uma coisa tão importante?"
+ },
+ {
+  "map": "40.23 AQUA HIDEOUT",
+  "offset": "02777BC",
+  "en": "I took the loss for the TEAM,\\nbut I did my job…",
+  "pt": "Perdi pela equipe, mas fiz o meu trabalho…"
+ },
+ {
+  "map": "40.24 AQUA HIDEOUT",
+  "offset": "02779AD",
+  "en": "Our HIDEOUT's secret?\\pWell, let's just say…\\nThere's a submarine at the far end!\\pBut, by now…\\nKekekeke…",
+  "pt": "O segredo do nosso ESCONDERIJO?\\pBem, digamos que… Tem um submarino lá no fundo!\\pMas, a esta altura…\\nKekekeke…"
+ },
+ {
+  "map": "40.24 AQUA HIDEOUT",
+  "offset": "0277A90",
+  "en": "Humph!\\nThis was supposed to happen!\\pMy mission was to just hold you up!",
+  "pt": "Hunf!\\nEra pra ser assim mesmo!\\pMinha missão era só te atrasar!"
+ },
+ {
+  "map": "40.24 AQUA HIDEOUT",
+  "offset": "0277B2B",
+  "en": "If you scurry too much, other TEAM\\nAQUA members might get you.",
+  "pt": "Se ficar correndo demais por aí, outros membros da EQUIPE AQUA podem te pegar."
+ },
+ {
+  "map": "40.24 AQUA HIDEOUT",
+  "offset": "0277BD3",
+  "en": "If you have a cool uniform, you look\\ngood even in a loss, don't you think?",
+  "pt": "Com um uniforme maneiro, você fica bem até perdendo, não acha?"
+ },
+ {
+  "map": "40.25 AQUA HIDEOUT",
+  "offset": "0277DF5",
+  "en": "Hehehe!\\pWhile I was toying with you, our BOSS\\ngot through his preparations!",
+  "pt": "Hehehe!\\pEnquanto eu brincava com você, o nosso CHEFE terminou os preparativos!"
+ },
+ {
+  "map": "40.25 AQUA HIDEOUT",
+  "offset": "0277E41",
+  "en": "Hehehe!\\pOur BOSS has already gone on his way to\\nsome cave under the sea!\\pIf you're going to give chase, you'd\\nbetter search the big, wide sea beyond\\lLILYCOVE.\\pBut will you find it then?\\nHehehe!",
+  "pt": "Hehehe!\\pO nosso CHEFE já foi pra uma caverna no fundo do mar!\\pSe for persegui-lo, é melhor procurar no mar imenso depois de LILYCOVE.\\pMas será que vai achar? Hehehe!"
+ },
+ {
+  "map": "40.25 AQUA HIDEOUT",
+  "offset": "0277F61",
+  "en": "BOSS…\\nIs this good enough?",
+  "pt": "CHEFE…\\nFoi o suficiente?"
+ },
+ {
+  "map": "40.25 AQUA HIDEOUT",
+  "offset": "0277F7C",
+  "en": "Warp panels, the HIDEOUT's pride\\nand joy!\\pYou're clueless about where you are,\\naren't you?\\pFluster and tire out the enemy, then\\nlower the boom! That's our plan!",
+  "pt": "Painéis de warp, o orgulho do ESCONDERIJO!\\pVocê não faz ideia de onde está, né?\\pConfundir e cansar o inimigo, e aí descer a lenha! Esse é o nosso plano!"
+ },
+ {
+  "map": "40.25 AQUA HIDEOUT",
+  "offset": "027801D",
+  "en": "What's wrong with you?\\nYou're not tired at all!",
+  "pt": "Qual é a sua?\\nVocê nem está cansado!"
+ },
+ {
+  "map": "40.25 AQUA HIDEOUT",
+  "offset": "027804D",
+  "en": "That reminds me… I can't remember\\nwhere I put the MASTER BALL.\\pIf I fail to guard it, our BOSS will\\nchew me out…",
+  "pt": "Falando nisso… Não lembro onde coloquei o CAP COROA.\\pSe eu não cuidar dele, o CHEFE vai me dar a maior bronca…"
+ },
+ {
+  "map": "40.25 AQUA HIDEOUT",
+  "offset": "027814E",
+  "en": "I'll have to learn about how I can\\nbattle more effectively…",
+  "pt": "Vou ter que aprender a batalhar com mais eficiência…"
+ },
+ {
+  "map": "40.26 UNDERWATER",
+  "offset": "0278234",
+  "en": "“SUBMARINE EXPLORER 1” is painted\\non the hull.\\pThis is the submarine TEAM AQUA\\nstole in SLATEPORT!\\pTEAM AQUA must have gone\\nashore here.",
+  "pt": "“SUBMARINO EXPLORADOR 1” está pintado no casco.\\pÉ o submarino que a EQUIPE AQUA roubou em SLATEPORT!\\pA EQUIPE AQUA deve ter desembarcado aqui."
+ },
+ {
+  "map": "40.27 SEAFLOOR CAVERN",
+  "offset": "0278517",
+  "en": "A punk like you, do you really think\\nyou can take on TEAM AQUA?\\pI'd say you're too early by about\\na trillion years!\\pYou're a perfect fit for the likes of\\nTEAM MAGMA!\\pSpeaking of TEAM MAGMA, I hear they\\nwere spotted near MOSSDEEP.\\pThat bunch of goons, they sure don't\\nlook good near the sea!",
+  "pt": "Um pivete como você acha mesmo que pode encarar a EQUIPE AQUA?\\pVocê chegou uns trilhões de anos adiantado!\\pVocê combina direitinho com gente da laia da EQUIPE MAGMA!\\pFalando na EQUIPE MAGMA, ouvi dizer que eles foram vistos perto de MOSSDEEP.\\pAquele bando de capangas não combina nada com o mar!"
+ },
+ {
+  "map": "40.28 SEAFLOOR CAVERN",
+  "offset": "02786AC",
+  "en": "I want to get a promotion so I can\\nboss around the GRUNTS…",
+  "pt": "Quero ser promovido pra poder mandar nos RECRUTAS…"
+ },
+ {
+  "map": "40.28 SEAFLOOR CAVERN",
+  "offset": "02786E7",
+  "en": "That submarine… It's tiny inside.\\nI'm sore all over!",
+  "pt": "Aquele submarino… É minúsculo por dentro. Tô todo dolorido!"
+ },
+ {
+  "map": "40.28 SEAFLOOR CAVERN",
+  "offset": "027871C",
+  "en": "Losing makes me sore!",
+  "pt": "Perder me deixa todo doído!"
+ },
+ {
+  "map": "40.28 SEAFLOOR CAVERN",
+  "offset": "0278732",
+  "en": "That submarine we jacked, man,\\nit's brutal as a ride.\\lIt's way too tight in there!",
+  "pt": "Aquele submarino que a gente roubou, cara, é uma viagem brutal. É apertado demais lá dentro!"
+ },
+ {
+  "map": "40.30 SEAFLOOR CAVERN",
+  "offset": "02788D9",
+  "en": "Ahahahaha!\\nYou're so darn strong.\\pIt's terribly disappointing that you're\\nnot a TEAM AQUA member.\\pYou could have enjoyed the fabulous\\nworld our BOSS has promised as\\lone of us…",
+  "pt": "Ahahahaha!\\nVocê é forte pra caramba.\\pÉ uma pena enorme você não ser membro da EQUIPE AQUA.\\pVocê poderia aproveitar o mundo fabuloso que o nosso CHEFE prometeu, como um de nós…"
+ },
+ {
+  "map": "40.30 SEAFLOOR CAVERN",
+  "offset": "0278989",
+  "en": "For our dream to become real, we need\\nthe power of POKéMON.\\pBut meddlers like you use the power of\\nPOKéMON to mess with us even at\\la place like this!\\pLife just doesn't work the way we\\nneed it to!",
+  "pt": "Pro nosso sonho virar realidade, precisamos do poder das CAPTURAS.\\pMas intrometidos como você usam o poder das CAPTURAS pra atrapalhar a gente, até num lugar destes!\\pA vida simplesmente não funciona do jeito que a gente precisa!"
+ },
+ {
+  "map": "40.30 SEAFLOOR CAVERN",
+  "offset": "0278A4D",
+  "en": "Gwah!",
+  "pt": "Gwah!"
+ },
+ {
+  "map": "40.30 SEAFLOOR CAVERN",
+  "offset": "0278A53",
+  "en": "You know, we don't dare question\\nthe motives of our leader.\\pBut here you are, just some punk,\\ngoing up against our BOSS.\\pMaybe…\\nYou must be something…",
+  "pt": "Sabe, a gente não ousa questionar os motivos do nosso líder.\\pMas aqui está você, um pivete qualquer, enfrentando o nosso CHEFE.\\pTalvez…\\nVocê seja alguém especial…"
+ },
+ {
+  "map": "40.31 SEAFLOOR CAVERN",
+  "offset": "0278B4B",
+  "en": "I can't find the way out!\\pI'm not afraid. Don't get me wrong!",
+  "pt": "Não consigo achar a saída!\\pNão estou com medo. Não me entenda mal!"
+ },
+ {
+  "map": "40.31 SEAFLOOR CAVERN",
+  "offset": "0278B89",
+  "en": "Who are you?\\nWhere do you think you're going?",
+  "pt": "Quem é você?\\nAonde pensa que vai?"
+ },
+ {
+  "map": "40.31 SEAFLOOR CAVERN",
+  "offset": "0278BB7",
+  "en": "I failed to win!",
+  "pt": "Não consegui vencer!"
+ },
+ {
+  "map": "40.31 SEAFLOOR CAVERN",
+  "offset": "0278BC8",
+  "en": "My partner forgot the map in that\\nsubmarine!\\pHow's that for being useless?",
+  "pt": "Meu parceiro esqueceu o mapa naquele submarino!\\pDá pra ser mais inútil?"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "0278ECB",
+  "en": "ARCHIE: Fufufu…\\nSo it was you, after all.",
+  "pt": "ARCHIE: Fufufu…\\nEntão era você, afinal."
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "0278EF5",
+  "en": "ARCHIE: Behold!\\pSee how beautiful it is, the sleeping\\nform of the ancient POKéMON KYOGRE!\\pI have waited so long for this day to\\ncome…",
+  "pt": "ARCHIE: Contemple!\\pVeja como é linda a forma adormecida da CAPTURA ancestral KYOGRE!\\pEsperei tanto tempo por este dia…"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "0278F7B",
+  "en": "ARCHIE: It surprises me, how you've\\nmanaged to chase me here.\\pBut that's all over now.\\pFor the realization of my dream,\\nyou must disappear now!",
+  "pt": "ARCHIE: Me surpreende que você tenha conseguido me seguir até aqui.\\pMas agora isso acabou.\\pPara realizar o meu sonho, você precisa desaparecer agora!"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "0279034",
+  "en": "ARCHIE: Fufufu…\\pI commend you. I must recognize that\\nyou are truly gifted.\\pBut!\\nI have this in my possession!\\pWith this RED ORB, I can make KYOGRE…",
+  "pt": "ARCHIE: Fufufu…\\pEu te parabenizo. Tenho que reconhecer que você é mesmo talentoso.\\pMas!\\nEu tenho isto nas minhas mãos!\\pCom este ORBE VERMELHO, posso fazer o KYOGRE…"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "02790C8",
+  "en": "The RED ORB suddenly began shining\\nby itself!",
+  "pt": "O ORBE VERMELHO de repente começou a brilhar sozinho!"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "02790F6",
+  "en": "ARCHIE: What?!\\pI didn't do anything.\\nWhy did the RED ORB…\\pWhere did KYOGRE go?",
+  "pt": "ARCHIE: O quê?!\\pEu não fiz nada. Por que o ORBE VERMELHO…\\pPara onde foi o KYOGRE?"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "0279145",
+  "en": "ARCHIE: Hm? It's a message from our\\nmembers outside…",
+  "pt": "ARCHIE: Hum? É uma mensagem dos nossos membros lá fora…"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "027917A",
+  "en": "ARCHIE: Yes, what is it?\\pHm…\\nIt's raining heavily?\\pGood… That should have happened.\\nThat is why we awakened KYOGRE,\\lto realize TEAM AQUA's vision of\\lexpanding the sea.\\pWhat?!\\pIt's raining far harder than we\\nenvisioned? You're in danger?\\pThat can't be…\\nThat's just not possible…\\pHold your position and monitor\\nthe situation!",
+  "pt": "ARCHIE: Sim, o que foi?\\pHum…\\nEstá chovendo forte?\\pÓtimo… Era isso que devia acontecer. Foi para isso que despertamos o KYOGRE: para realizar a visão da EQUIPE AQUA de expandir o mar.\\pO quê?!\\pEstá chovendo muito mais forte do que imaginávamos? Vocês estão em perigo?\\pNão pode ser…\\nIsso simplesmente não é possível…\\pMantenham a posição e monitorem a situação!"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "02792BE",
+  "en": "ARCHIE: There's something wrong…\\pThe RED ORB is supposed to awaken\\nand control KYOGRE…\\pBut… Why?\\nWhy did KYOGRE disappear?\\pWhy?!",
+  "pt": "ARCHIE: Tem algo errado…\\pO ORBE VERMELHO devia despertar e controlar o KYOGRE…\\pMas… Por quê?\\nPor que o KYOGRE desapareceu?\\pPor quê?!"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "027933F",
+  "en": "MAXIE: What have you wrought?\\pARCHIE… You've finally awoken KYOGRE,\\nhaven't you?\\pWhat will happen to the world if this\\ndownpour continues for all eternity?\\pThe world's landmass will drown in\\nthe deepening sea…",
+  "pt": "MAXIE: O que você fez?\\pARCHIE… Você finalmente despertou o KYOGRE, não foi?\\pO que vai acontecer com o mundo se este temporal continuar por toda a eternidade?\\pAs terras do mundo vão se afogar no mar cada vez mais fundo…"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "0279411",
+  "en": "ARCHIE: W-what?!\\nDon't get all high and mighty with me!\\pWasn't it you, TEAM MAGMA, that\\ninfuriated GROUDON?\\pSo long as I have this RED ORB,\\nI should be able to control KYOGRE…\\pI should be able to control it…",
+  "pt": "ARCHIE: O-o quê?!\\nNão venha bancar o superior comigo!\\pNão foram vocês, da EQUIPE MAGMA, que enfureceram o GROUDON?\\pEnquanto eu tiver este ORBE VERMELHO, devo conseguir controlar o KYOGRE…\\pEu devo conseguir controlá-lo…"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "02794E1",
+  "en": "MAXIE: We don't have the time to\\nargue about it here!\\pGet outside and see for yourself!\\pSee if what you've wrought is the\\nworld that we desired!",
+  "pt": "MAXIE: Não temos tempo para discutir isso aqui!\\pVá lá fora e veja com seus próprios olhos!\\pVeja se o que você fez é o mundo que desejávamos!"
+ },
+ {
+  "map": "40.36 SEAFLOOR CAVERN",
+  "offset": "0279572",
+  "en": "MAXIE: {PLAYER}, come on, you have\\nto get out of here, too!",
+  "pt": "MAXIE: {PLAYER}, vamos, você também precisa sair daqui!"
+ },
+ {
+  "map": "40.42 CAVE OF ORIGIN",
+  "offset": "027991D",
+  "en": "WALLACE: {PLAYER}{KUN}, do you perhaps\\nknow where RAYQUAZA is now?\\pIf you do, please tell me.",
+  "pt": "WALLACE: {PLAYER}{KUN}, por acaso você sabe onde o RAYQUAZA está agora?\\pSe souber, por favor, me diga."
+ },
+ {
+  "map": "40.42 CAVE OF ORIGIN",
+  "offset": "0279972",
+  "en": "WALLACE: The CAVE OF ORIGIN?\\pBut that's right here!\\nI need you to do better than that!\\pPlease, I need you to think about\\nwhere RAYQUAZA might be right now.",
+  "pt": "WALLACE: A CAVE OF ORIGIN?\\pMas é bem aqui! Preciso que você pense melhor que isso!\\pPor favor, pense em onde o RAYQUAZA pode estar agora."
+ },
+ {
+  "map": "40.42 CAVE OF ORIGIN",
+  "offset": "0279A0E",
+  "en": "WALLACE: MT. PYRE?\\pBut when I met the old lady there\\nearlier, she made no mention of it.\\pI very much doubt that the old lady\\nwould try to hide something from me…\\p{PLAYER}{KUN}, could you think about this\\nmore carefully for me?",
+  "pt": "WALLACE: O MT. PYRE?\\pMas, quando encontrei a senhora de lá mais cedo, ela não mencionou nada.\\pDuvido muito que aquela senhora tentaria esconder algo de mim…\\p{PLAYER}{KUN}, pode pensar nisso com mais cuidado pra mim?"
+ },
+ {
+  "map": "40.42 CAVE OF ORIGIN",
+  "offset": "0279AE8",
+  "en": "WALLACE: Huh? You don't remember?\\nHmm… That's a problem…\\pCan't you remember somehow?",
+  "pt": "WALLACE: Hã? Você não lembra? Hmm… Isso é um problema…\\pNão consegue se lembrar de jeito nenhum?"
+ },
+ {
+  "map": "40.42 CAVE OF ORIGIN",
+  "offset": "0279B3D",
+  "en": "WALLACE: The SKY PILLAR?\\pThat's it!\\nIt must be the SKY PILLAR!\\p{PLAYER}{KUN}, there's not a moment to lose!\\nWe'll head to the SKY PILLAR right away!",
+  "pt": "WALLACE: O SKY PILLAR?\\pÉ isso!\\nSó pode ser o SKY PILLAR!\\p{PLAYER}{KUN}, não há tempo a perder! Vamos para o SKY PILLAR agora mesmo!"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "0279E4B",
+  "en": "Wow!\\n{PLAYER}, you are strong, after all!",
+  "pt": "Uau!\\n{PLAYER}, você é forte mesmo!"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "0279E6F",
+  "en": "WALLY: I couldn't beat you today,\\n{PLAYER}, but one of these days, I'll\\lcatch up to you!",
+  "pt": "WALLY: Não consegui te vencer hoje, {PLAYER}, mas um dia desses eu vou te alcançar!"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "0279F4D",
+  "en": "WALLY: I couldn't beat you this time,\\ntoo… But one of these days, {PLAYER},\\lI'm going to catch up to you…\\pAnd challenge the POKéMON LEAGUE!",
+  "pt": "WALLY: Não consegui te vencer desta vez também… Mas um dia desses, {PLAYER}, eu vou te alcançar…\\pE desafiar a LIGA CAPTURA!"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "0279FD3",
+  "en": "I've made it this far a couple times,\\nbut the last stretch is so long…",
+  "pt": "Já cheguei até aqui algumas vezes, mas o último trecho é tão longo…"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "027A01A",
+  "en": "My dream ends here again…",
+  "pt": "Meu sonho termina aqui de novo…"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "027A034",
+  "en": "You've made it this far. Keep the\\nmomentum going and become the\\lCHAMPION! If anyone can, it's you!",
+  "pt": "Você chegou até aqui. Mantenha o embalo e torne-se o CAMPEÃO! Se alguém consegue, é você!"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "027A0F3",
+  "en": "I lost here…\\pThat means I lack the qualifications\\nto become the CHAMPION…",
+  "pt": "Perdi aqui…\\pIsso quer dizer que não tenho o que é preciso pra virar CAMPEÃO…"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "027A1A5",
+  "en": "You seem to have the potential for\\nbecoming the CHAMPION.",
+  "pt": "Você parece ter potencial pra virar o CAMPEÃO."
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "027A224",
+  "en": "Getting through here safely--that's\\nthe final test for any TRAINER aiming\\lto become the POKéMON CHAMPION.\\pThat's why it's called the VICTORY\\nROAD.",
+  "pt": "Atravessar este lugar inteiro: esse é o teste final para qualquer TREINADOR que queira ser o CAMPEÃO.\\pÉ por isso que aqui se chama VICTORY ROAD, a estrada da vitória."
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "027A2B7",
+  "en": "I have nothing to say to anyone\\nthat's come this far. Come on!",
+  "pt": "Não tenho nada a dizer a quem chegou até aqui. Vem!"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "027A2F6",
+  "en": "This is a disgrace…",
+  "pt": "Que vergonha…"
+ },
+ {
+  "map": "40.43 RAINBOW ROAD",
+  "offset": "027A30A",
+  "en": "Humph, go right on ahead.\\nSee if I care.",
+  "pt": "Hunf, pode seguir em frente. Tô nem aí."
+ },
+ {
+  "map": "40.44 RAINBOW ROAD",
+  "offset": "027A413",
+  "en": "The POKéMON LEAGUE became distant\\nagain… What a letdown…",
+  "pt": "A LIGA CAPTURA ficou distante de novo… Que decepção…"
+ },
+ {
+  "map": "40.44 RAINBOW ROAD",
+  "offset": "027A4C7",
+  "en": "By being together all the time, trust\\ngrows between POKéMON and TRAINERS.",
+  "pt": "Estando juntos o tempo todo, a confiança entre CAPTURAS e TREINADORES cresce."
+ },
+ {
+  "map": "40.44 RAINBOW ROAD",
+  "offset": "027A511",
+  "en": "This isn't the goal. It's only a place\\non the way to the POKéMON LEAGUE.",
+  "pt": "Aqui não é a linha de chegada. É só uma parada no caminho para a LIGA CAPTURA."
+ },
+ {
+  "map": "40.44 RAINBOW ROAD",
+  "offset": "027A55A",
+  "en": "That's the way!",
+  "pt": "É assim que se faz!"
+ },
+ {
+  "map": "40.44 RAINBOW ROAD",
+  "offset": "027A56A",
+  "en": "You'll do fine, for sure!\\nYour POKéMON are all eager to go!",
+  "pt": "Você vai se sair bem, com certeza! As suas CAPTURAS estão todas ansiosas pra ir!"
+ },
+ {
+  "map": "40.44 RAINBOW ROAD",
+  "offset": "027A5F6",
+  "en": "Even outside of battle, I sense\\nincredible power emanating from you\\land your POKéMON.",
+  "pt": "Mesmo fora da batalha, sinto um poder incrível vindo de você e das suas CAPTURAS."
+ },
+ {
+  "map": "40.44 RAINBOW ROAD",
+  "offset": "027A69B",
+  "en": "Sure, this is VICTORY ROAD.\\pBut it's not all that different from\\nthe path you've taken so far.\\pTry to enjoy things the rest of\\nthe way!",
+  "pt": "Claro, esta é a VICTORY ROAD.\\pMas não é tão diferente do caminho que você percorreu até agora.\\pTente curtir o resto do trajeto!"
+ },
+ {
+  "map": "40.45 RAINBOW ROAD",
+  "offset": "027A82D",
+  "en": "I was better than everyone in my\\nfamily. I've never lost before…\\pI've lost my confidence…\\nMaybe I'll go home…",
+  "pt": "Eu era melhor que todo mundo na minha família. Nunca tinha perdido antes…\\pPerdi a confiança… Acho que vou pra casa…"
+ },
+ {
+  "map": "40.45 RAINBOW ROAD",
+  "offset": "027A8FD",
+  "en": "The rumors I heard, that tough little\\nkid is from PETALBURG CITY.",
+  "pt": "Pelos boatos que ouvi, aquele garotinho durão é de PETALBURG CITY."
+ },
+ {
+  "map": "40.45 RAINBOW ROAD",
+  "offset": "027A93F",
+  "en": "You must be getting a little tired.",
+  "pt": "Você já deve estar ficando um pouco cansado."
+ },
+ {
+  "map": "40.45 RAINBOW ROAD",
+  "offset": "027A963",
+  "en": "No signs of tiring at all!",
+  "pt": "Nem sinal de cansaço!"
+ },
+ {
+  "map": "40.45 RAINBOW ROAD",
+  "offset": "027A97E",
+  "en": "VICTORY ROAD and the POKéMON LEAGUE\\nare long and grueling challenges.\\lBeware of fatigue!",
+  "pt": "A VICTORY ROAD e a LIGA CAPTURA são desafios longos e exaustivos. Cuidado com o cansaço!"
+ },
+ {
+  "map": "40.45 RAINBOW ROAD",
+  "offset": "027AA70",
+  "en": "Gaze on your collected BADGES and\\nremember the TRAINERS you've faced.",
+  "pt": "Olhe as INSÍGNIAS que você juntou e lembre-se dos TREINADORES que enfrentou."
+ },
+ {
+  "map": "40.45 RAINBOW ROAD",
+  "offset": "027AB09",
+  "en": "I can't help getting all tense knowing\\nthat I'm nearing the POKéMON LEAGUE.\\pIt's all I can do to feign calm.",
+  "pt": "Não consigo evitar a tensão sabendo que estou chegando perto da LIGA CAPTURA.\\pO máximo que consigo é fingir calma."
+ },
+ {
+  "map": "40.45 RAINBOW ROAD",
+  "offset": "027ABDB",
+  "en": "You do have guts! I like that!\\nKeep it going!",
+  "pt": "Você tem coragem mesmo! Gostei! Continue assim!"
+ },
+ {
+  "map": "40.46 SHOAL CAVE",
+  "offset": "03249BF",
+  "en": "Are you planning on going deep\\nin there?\\pHow about bringing me back some\\nSHOAL SALT and SHOAL SHELLS?\\pI can make you something good if\\nyou bring me the ingredients.",
+  "pt": "Está pensando em entrar fundo lá dentro?\\pQue tal me trazer um pouco de SAL SHOAL e CONCHAS SHOAL?\\pPosso fazer uma coisa boa pra você se me trouxer os ingredientes."
+ },
+ {
+  "map": "40.46 SHOAL CAVE",
+  "offset": "0324A64",
+  "en": "If you bring me four each of the\\nSHOAL SALT and SHOAL SHELLS,\\lI can make you a SHELL BELL…\\pYou can get those ingredients\\nevery day.",
+  "pt": "Se me trouxer quatro unidades de SAL SHOAL e quatro de CONCHA SHOAL, posso fazer um SINO CONCHA pra você…\\pDá pra conseguir esses ingredientes todo dia."
+ },
+ {
+  "map": "40.46 SHOAL CAVE",
+  "offset": "0324AE8",
+  "en": "Oh, hey! SHOAL SALT and SHOAL SHELLS!\\nAnd enough of them, too!\\pWould you like me to make you\\na SHELL BELL with them?",
+  "pt": "Ah, olha só! SAL SHOAL e CONCHAS SHOAL! E na quantidade certa!\\pQuer que eu faça um SINO CONCHA com eles pra você?"
+ },
+ {
+  "map": "40.46 SHOAL CAVE",
+  "offset": "0324B5D",
+  "en": "All righty, then! I'll make you\\na SHELL BELL right away.\\p… … … … … … … …\\n… … … … … … … …\\pThere! Done!",
+  "pt": "Beleza, então! Vou fazer um SINO CONCHA pra você agora mesmo.\\p… … … … … … … …\\n… … … … … … … …\\pPronto! Feito!"
+ },
+ {
+  "map": "40.46 SHOAL CAVE",
+  "offset": "0324BC3",
+  "en": "Have a POKéMON hold on to that.\\nIt'll love it, that's for certain.\\pWhy, the SHELL BELL's chime…\\nIt's simply sublime!\\pYou can get its ingredients every day,\\nso I can make you more.",
+  "pt": "Dê isso pra uma CAPTURA segurar. Ela vai adorar, com certeza.\\pAh, o som do SINO CONCHA… É de encantar qualquer um!\\pDá pra conseguir os ingredientes todo dia, então posso fazer mais pra você."
+ },
+ {
+  "map": "40.46 SHOAL CAVE",
+  "offset": "0324C77",
+  "en": "Oh… Is that so…\\nI wanted to make a SHELL BELL…",
+  "pt": "Ah… É mesmo…\\nEu queria fazer um SINO CONCHA…"
+ },
+ {
+  "map": "40.46 SHOAL CAVE",
+  "offset": "0324CA6",
+  "en": "You don't have space in your BAG\\nif I were to make it for you.\\pYou should make room and come back\\nfor a SHELL BELL.",
+  "pt": "Se eu fizer, não vai ter espaço na sua BOLSA.\\pAbra espaço e volte pra buscar um SINO CONCHA."
+ }
+]

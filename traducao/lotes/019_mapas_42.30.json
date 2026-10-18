@@ -1,0 +1,1808 @@
+[
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BBAC",
+  "en": "REFEREE: TRAINER {STR_VAR_1}!\\nStep forward, please!",
+  "pt": "JUIZ: TREINADOR {STR_VAR_1}!\\nUm passo à frente, por favor!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BCCC",
+  "en": "Next up, your fourth opponent!\\nAre you ready to move on?",
+  "pt": "A seguir, o seu quarto oponente! Está pronto para continuar?"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BD05",
+  "en": "Next up, your fifth opponent!\\nAre you ready to move on?",
+  "pt": "A seguir, o seu quinto oponente! Está pronto para continuar?"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BD3D",
+  "en": "Next up, your sixth opponent!\\nAre you ready to move on?",
+  "pt": "A seguir, o seu sexto oponente! Está pronto para continuar?"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BD75",
+  "en": "Next up, your seventh opponent!\\nAre you ready to move on?",
+  "pt": "A seguir, o seu sétimo oponente! Está pronto para continuar?"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BE48",
+  "en": "Would you like to record your last\\nbattle on your FRONTIER PASS?",
+  "pt": "Quer gravar a sua última batalha no seu PASSE DA FRONTEIRA?"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BE89",
+  "en": "My dear challenger!\\pYour skill level is truly astounding!\\pWe now would like you to face our\\nleader, the ARENA TYCOON!",
+  "pt": "Meu caro desafiante!\\pO seu nível de habilidade é realmente impressionante!\\pAgora gostaríamos que você enfrentasse a nossa líder, a MAGNATA DA ARENA!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BEFF",
+  "en": "A battle with the ARENA TYCOON!\\nAre you prepared?",
+  "pt": "Uma batalha com a MAGNATA DA ARENA! Está preparado?"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BF31",
+  "en": "REFEREE: The ARENA TYCOON!\\nMake way for GRETA!",
+  "pt": "JUIZ: A MAGNATA DA ARENA!\\nAbram caminho para a GRETA!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BF60",
+  "en": "GRETA: Hey!\\nHowdy!\\p…Wait, are you the challenger?",
+  "pt": "GRETA: Ei!\\nE aí, beleza?\\p…Peraí, você é o desafiante?"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BF92",
+  "en": "Is that right? Hmm…\\nHmhm…",
+  "pt": "É mesmo? Hum…\\nHum, hum…"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BFAC",
+  "en": "I don't know how to say it, but…\\nTo put it bluntly, you look pretty weak.\\lAre you sure you're up for me?\\pHmm…\\pWell, all right!\\nWe'll take things easy to start with!",
+  "pt": "Não sei bem como dizer isso, mas… Sendo bem direta, você parece bem fraquinho. Tem certeza de que dá conta de mim?\\pHum…\\pBom, tá certo! Vamos pegar leve pra começar!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C051",
+  "en": "Okay! Let's see you ignite my passion\\nfor battle!",
+  "pt": "Beleza! Quero ver você acender a minha paixão pela batalha!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C083",
+  "en": "GRETA: Ow, wait a second!\\nYou are tough after all!\\pI like you!\\nLet's see your FRONTIER PASS.",
+  "pt": "GRETA: Ai, espera aí! Você é forte, afinal!\\pGostei de você! Vamos ver o seu PASSE DA FRONTEIRA."
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C0E0",
+  "en": "The Guts Symbol was embossed on\\nthe FRONTIER PASS!",
+  "pt": "O Símbolo da Garra foi gravado no PASSE DA FRONTEIRA!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C113",
+  "en": "Hmm…\\pIt's going to be fun the next time!\\nI'm looking forward to it!",
+  "pt": "Hum…\\pDa próxima vez vai ser divertido! Mal posso esperar!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C157",
+  "en": "GRETA: Hey! Howdy!\\nYou finally won your way up to me!\\pI was getting worried waiting for you!\\nI was really looking forward to seeing\\lyou again!",
+  "pt": "GRETA: Ei! E aí, beleza? Você finalmente chegou até mim!\\pEu já tava ficando preocupada de tanto esperar! Tava muito ansiosa pra te ver de novo!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C1E6",
+  "en": "… … …\\nSo, are you ready?",
+  "pt": "… … …\\nEntão, está pronto?"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C1FF",
+  "en": "I won't allow a halfhearted effort!\\nBe ready for a thrashing!",
+  "pt": "Não vou aceitar esforço pela metade! Prepare-se pra levar uma surra!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C23D",
+  "en": "Come on, REFEREE!\\nLet's get this started!",
+  "pt": "Vamos lá, JUIZ!\\nPode começar!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C267",
+  "en": "GRETA: Gaaah! Blown away!\\nLet's see your FRONTIER PASS!",
+  "pt": "GRETA: Aaah! Fui pelos ares! Vamos ver o seu PASSE DA FRONTEIRA!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C29F",
+  "en": "The Guts Symbol took on\\na golden shine!",
+  "pt": "O Símbolo da Garra ganhou um brilho dourado!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029C2C7",
+  "en": "Arrrgh!\\nThis is so infuriating!\\pIf we ever battle again, I won't lose!\\nDon't you forget it! Bye-bye!",
+  "pt": "Aaargh!\\nIsso me deixa muito irritada!\\pSe a gente batalhar de novo, eu não vou perder! Não se esqueça disso! Tchauzinho!"
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029C8BE",
+  "en": "Would you like to take the Battle\\nSwap Single challenge?",
+  "pt": "Quer encarar o desafio da Troca de Batalha Individual?"
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029C8F7",
+  "en": "The Battle Swap Single Tournament\\nis a SINGLE BATTLE competition using\\lonly rental POKéMON.\\pFirst, you will be loaned three\\nPOKéMON specifically for this event.\\pUsing the supplied rental POKéMON,\\nyou must conduct a SINGLE BATTLE.\\pIf you win, you are permitted to trade\\none of your rental POKéMON.\\pRepeat this cycle of battling and\\ntrading--if you win seven times in\\la row, you will earn Battle Points.\\pIf you want to interrupt your\\nchallenge, please save the game.\\pIf you don't save, you will be\\ndisqualified from your challenge.",
+  "pt": "O Torneio Troca de Batalha Individual é uma competição de BATALHA INDIVIDUAL que usa apenas CAPTURAS de aluguel.\\pPrimeiro, você recebe três CAPTURAS emprestadas especialmente para este evento.\\pCom as CAPTURAS de aluguel fornecidas, você deve disputar uma BATALHA INDIVIDUAL.\\pSe vencer, você pode trocar uma das suas CAPTURAS de aluguel.\\pRepita esse ciclo de batalhas e trocas: se vencer sete vezes seguidas, você ganha Pontos de Batalha.\\pSe quiser interromper o seu desafio, salve o jogo.\\pSe não salvar, você será desclassificado do desafio."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029CB09",
+  "en": "We look forward to your next visit.",
+  "pt": "Esperamos a sua próxima visita."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029CB2D",
+  "en": "Which level do you wish to challenge?\\nLevel 50 or Open Level?",
+  "pt": "Qual nível você deseja desafiar? Nível 50 ou Nível Livre?"
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029CE10",
+  "en": "I'm sorry to say this, but you didn't\\nsave before you quit playing last time.\\pAs a result, you have been disqualified\\nfrom your challenge.",
+  "pt": "Lamento dizer, mas você não salvou antes de parar de jogar da última vez.\\pPor isso, você foi desclassificado do seu desafio."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029CED9",
+  "en": "Where the intelligence of TRAINERS\\nis put to the test!\\pWelcome to the BATTLE FACTORY!\\pI am your guide to the Battle Swap\\nDouble Tournament.",
+  "pt": "Onde a inteligência dos TREINADORES é posta à prova!\\pBem-vindo à FÁBRICA DE BATALHA!\\pEu sou o seu guia no Torneio Troca de Batalha Dupla."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029CF65",
+  "en": "Would you like to take the Battle\\nSwap Double challenge?",
+  "pt": "Quer encarar o desafio da Troca de Batalha Dupla?"
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029CF9E",
+  "en": "The Battle Swap Double Tournament\\nis a DOUBLE BATTLE competition using\\lonly rental POKéMON.\\pFirst, you will be loaned three\\nPOKéMON specifically for this event.\\pUsing the supplied rental POKéMON,\\nyou must conduct a DOUBLE BATTLE.\\pIf you win, you are permitted to trade\\none of your rental POKéMON.\\pRepeat this cycle of battling and\\ntrading--if you win seven times in\\la row, you will earn Battle Points.\\pIf you want to interrupt your\\nchallenge, please save the game.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "O Torneio Troca de Batalha Dupla é uma competição de BATALHA DUPLA que usa apenas CAPTURAS de aluguel.\\pPrimeiro, você recebe três CAPTURAS emprestadas especialmente para este evento.\\pCom as CAPTURAS de aluguel fornecidas, você deve disputar uma BATALHA DUPLA.\\pSe vencer, você pode trocar uma das suas CAPTURAS de aluguel.\\pRepita esse ciclo de batalhas e trocas: se vencer sete vezes seguidas, você ganha Pontos de Batalha.\\pSe quiser interromper o seu desafio, salve o jogo.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D203",
+  "en": "In recognition of your wealth of\\nknowledge and keen intelligence,\\lwe award you these Battle Point(s).",
+  "pt": "Em reconhecimento ao seu vasto conhecimento e à sua inteligência aguçada, damos a você estes Ponto(s) de Batalha."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D2D0",
+  "en": "Would you like to record your last\\nBATTLE FACTORY match on your\\lVs. Recorder?",
+  "pt": "Quer gravar a sua última partida da FÁBRICA DE BATALHA no seu Gravador Vs.?"
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D31E",
+  "en": "Hi!\\nYou, there!\\pAre you thinking that the events here\\nare easy since you don't need to have\\la raised team of POKéMON?\\pI wouldn't be too sure about winning\\nthat easily.\\pIf you don't have thorough knowledge\\nabout POKéMON and their moves,\\lit will be tough to keep winning.",
+  "pt": "Oi!\\nVocê aí!\\pAcha que os eventos daqui são fáceis só porque não precisa ter uma equipe de CAPTURAS treinada?\\pEu não teria tanta certeza de que vai vencer assim tão fácil.\\pSe você não conhecer muito bem as CAPTURAS e os golpes delas, vai ser difícil continuar vencendo."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D42C",
+  "en": "I swapped for a weak POKéMON…\\nI thought it was a good kind to have…\\pThey wiped the floor with us…",
+  "pt": "Troquei por uma CAPTURA fraca… Achei que fosse um bom tipo pra ter…\\pAcabaram com a gente…"
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D48E",
+  "en": "Things haven't been going my way\\nat all.\\pYou need to check your opponent's\\nPOKéMON during battle to see if\\lthey're any good.",
+  "pt": "As coisas não estão dando nada certo pra mim.\\pVocê precisa observar as CAPTURAS do oponente durante a batalha pra ver se elas prestam."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D50B",
+  "en": "You know how the staff here give you\\na few hints about your next opponent?\\pWell, I'm a full-grown man, but I have\\ntrouble figuring out their hints.",
+  "pt": "Sabe como o pessoal daqui dá umas dicas sobre o seu próximo oponente?\\pPois é, eu sou um homem feito, mas tenho dificuldade pra entender as dicas deles."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D6AD",
+  "en": "In a Battle Swap event, you may use\\nonly three POKéMON.\\pWhether you are renting or swapping,\\nyour team may not have two or more\\lof the same POKéMON.",
+  "pt": "Num evento da Troca de Batalha, você só pode usar três CAPTURAS.\\pSeja alugando ou trocando, a sua equipe não pode ter duas ou mais CAPTURAS iguais."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D742",
+  "en": "You may swap POKéMON only with\\nthe TRAINER you have just defeated.\\pYou may swap for only those POKéMON\\nused by the beaten TRAINER.",
+  "pt": "Você só pode trocar CAPTURAS com o TREINADOR que acabou de derrotar.\\pE só pode trocar pelas CAPTURAS que esse TREINADOR derrotado usou."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D7C5",
+  "en": "After every battle you win, you may\\nswap for one of your defeated\\lopponent's POKéMON.\\pYou will not be able to swap POKéMON\\nwith the seventh TRAINER in the event.",
+  "pt": "Depois de cada batalha que vencer, você pode trocar por uma das CAPTURAS do oponente derrotado.\\pVocê não vai poder trocar CAPTURAS com o sétimo TREINADOR do evento."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D867",
+  "en": "There are two key points to be aware\\nof when swapping POKéMON.\\pFirst, when swapping, you can't check\\nthe stats of the POKéMON you are\\labout to receive.\\pSecond, the POKéMON on your team\\nare lined up in sequence, depending on\\lthe order in which you rented them.\\pThis sequence remains unchanged\\neven when swaps are made.",
+  "pt": "Há dois pontos importantes para ficar atento na hora de trocar CAPTURAS.\\pPrimeiro: ao trocar, você não pode ver os atributos da CAPTURA que vai receber.\\pSegundo: as CAPTURAS da sua equipe ficam enfileiradas na ordem em que você as alugou.\\pEssa ordem não muda, mesmo quando você faz trocas."
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029D9A5",
+  "en": "In the Open Level, the rental POKéMON\\nand the opposing TRAINERS' POKéMON\\lare all Level 100.",
+  "pt": "No Nível Livre, as CAPTURAS de aluguel e as CAPTURAS dos TREINADORES adversários estão todas no Nível 100."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E20D",
+  "en": "The 4th match is next!\\nAre you ready?",
+  "pt": "A 4ª partida é a próxima! Está pronto?"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E233",
+  "en": "The 5th match is next!\\nAre you ready?",
+  "pt": "A 5ª partida é a próxima! Está pronto?"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E259",
+  "en": "The 6th match is next!\\nAre you ready?",
+  "pt": "A 6ª partida é a próxima! Está pronto?"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E27F",
+  "en": "Finally, the 7th match is next!\\nAre you ready?",
+  "pt": "Enfim, a 7ª partida é a próxima! Está pronto?"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E312",
+  "en": "I've conducted a little investigation\\nabout your upcoming opponent.",
+  "pt": "Fiz uma pequena investigação sobre o seu próximo oponente."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E356",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the NORMAL type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo NORMAL."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E39C",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the FIRE type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo FOGO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E3E0",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the WATER type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo ÁGUA."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E425",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the ELECTRIC type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo ELÉTRICO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E46D",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the GRASS type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo PLANTA."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E4B2",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the ICE type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo GELO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E4F5",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the FIGHTING type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo LUTADOR."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E53D",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the POISON type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo VENENOSO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E583",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the GROUND type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo TERRESTRE."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E5C9",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the FLYING type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo VOADOR."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E60F",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the PSYCHIC type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo PSÍQUICO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E656",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the BUG type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo INSETO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E699",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the ROCK type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo PEDRA."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E6DD",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the GHOST type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo FANTASMA."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E722",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the DRAGON type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo DRAGÃO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E768",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the DARK type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo SOMBRIO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E7AC",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the FAIRY type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo FADA."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E7F1",
+  "en": "The TRAINER is apparently skilled\\nin the handling of the STEEL type.",
+  "pt": "Pelo visto, esse TREINADOR é habilidoso com o tipo AÇO."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E836",
+  "en": "The TRAINER appears to have no clear\\nfavorites when it comes to type.",
+  "pt": "Pelo visto, esse TREINADOR não tem nenhum tipo favorito."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E87C",
+  "en": "The favorite battle style appears to\\nbe slow and steady.",
+  "pt": "O estilo de batalha favorito parece ser devagar e sempre."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E8B5",
+  "en": "The favorite battle style appears to\\nbe one of endurance.",
+  "pt": "O estilo de batalha favorito parece ser o de resistência."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E8EF",
+  "en": "The favorite battle style appears to\\nbe high risk, high return.",
+  "pt": "O estilo de batalha favorito parece ser o de alto risco e alta recompensa."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E92F",
+  "en": "The favorite battle style appears to\\ndepend on the battle's flow.",
+  "pt": "O estilo de batalha favorito parece depender do rumo da batalha."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E971",
+  "en": "The favorite battle style appears to\\nbe one based on total preparation.",
+  "pt": "O estilo de batalha favorito parece ser o de preparação total."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E9B9",
+  "en": "The favorite battle style appears\\nto be weakening the foe to start.",
+  "pt": "O estilo de batalha favorito parece ser enfraquecer o adversário logo de início."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029E9FD",
+  "en": "The favorite battle style appears to\\nbe flexibly adaptable to the situation.",
+  "pt": "O estilo de batalha favorito parece ser o de se adaptar com flexibilidade à situação."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029EA4A",
+  "en": "The favorite battle style appears to\\nbe impossible to predict.",
+  "pt": "O estilo de batalha favorito parece ser impossível de prever."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029EA89",
+  "en": "The favorite battle style appears to\\nbe free-spirited and unrestrained.",
+  "pt": "O estilo de batalha favorito parece ser livre e sem amarras."
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029EB75",
+  "en": "Would you like to record your latest\\nbattle on your Vs. Recorder?",
+  "pt": "Quer gravar a sua batalha mais recente no seu Gravador Vs.?"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029EBB7",
+  "en": "Excuse me! Excuse me, please!\\nMay I get you to wait a few moments?",
+  "pt": "Com licença! Com licença, por favor! Posso pedir que você espere um pouquinho?"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029EBFA",
+  "en": "…Uh-huh? What?! …Whoa!\\nUnderstood, ma'am! Will do!",
+  "pt": "…Sim? O quê?! …Uau! Entendido, senhora! Pode deixar!"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029EC2D",
+  "en": "Oh, my…\\nSorry to keep you waiting!\\pI have a message from this facility's\\nboss, the FACTORY HEAD.\\pShe says, “We're going to do it!\\nCome here right now!”",
+  "pt": "Minha nossa…\\nDesculpe a demora!\\pTenho um recado da chefe deste lugar, a CHEFE DA FÁBRICA.\\pEla disse: “Vamos nessa! Venha pra cá agora mesmo!”"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029ECC5",
+  "en": "The FACTORY HEAD is demanding you.\\nAre you prepared to face her?",
+  "pt": "A CHEFE DA FÁBRICA está chamando você. Está preparado para enfrentá-la?"
+ },
+ {
+  "map": "42.32 NEW DONK CITY",
+  "offset": "029ED06",
+  "en": "I'm terribly sorry, but I can't tell you\\nanything about the FACTORY HEAD.",
+  "pt": "Sinto muitíssimo, mas não posso contar nada sobre a CHEFE DA FÁBRICA."
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F1A0",
+  "en": "Mister MARIO! You finally made it!\\pI don't think I need to introduce\\nmyself again, but for formalities,\\lHi, I'm PENNY, the FACTORY HEAD!\\pAll the data we've collected from\\nyour battles is going to make this\\lplace even more amazing!\\pNow, are you ready to face a\\nscientist in her creation?\\pSame conditions!\\nSame rental CAPTURES!",
+  "pt": "Senhor MARIO! Você finalmente chegou!\\pAcho que não preciso me apresentar de novo, mas, pelas formalidades: oi, eu sou a PENNY, a CHEFE DA FÁBRICA!\\pTodos os dados que coletamos das suas batalhas vão deixar este lugar ainda mais incrível!\\pAgora, está pronto pra enfrentar uma cientista na sua própria criação?\\pMesmas condições! Mesmas CAPTURAS de aluguel!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F2E6",
+  "en": "Shake out every last bit of your\\nknowledge and bring it on!",
+  "pt": "Use até a última gota do seu conhecimento e venha com tudo!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F322",
+  "en": "Smart going!\\nYou're really something else!",
+  "pt": "Que esperteza!\\nVocê é demais mesmo!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F385",
+  "en": "That was perfect data! But I'm\\nnot done analyzing the CAPTURES…\\pNext time, we'll be using stronger\\nCAPTURES! That means we're gonna\\pbattle with everything we got!",
+  "pt": "Esses dados ficaram perfeitos! Mas ainda não terminei de analisar as CAPTURAS…\\pDa próxima vez, vamos usar CAPTURAS mais fortes! Isso quer dizer que vamos\\pbatalhar com tudo o que temos!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F428",
+  "en": "Mister MARIO! Wow, we're really\\nplaying with some experimental\\lCAPTURE builds!\\pThis time, I don't think our\\nbattle will go in your favor!\\pNow, I'll be watching you and\\nyour CAPTURES carefully!\\pLet's restart the experiment!",
+  "pt": "Senhor MARIO! Uau, a gente está mesmo brincando com umas CAPTURAS experimentais!\\pDesta vez, acho que a batalha não vai ser a seu favor!\\pAgora vou observar você e as suas CAPTURAS com muita atenção!\\pVamos reiniciar o experimento!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F507",
+  "en": "All right!\\nBring it on!",
+  "pt": "Muito bem!\\nPode vir!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F51F",
+  "en": "Experiment complete!\\pYou're better than me at my\\nown project!\\pCongratulations, MARIO!",
+  "pt": "Experimento concluído!\\pVocê é melhor do que eu no meu próprio projeto!\\pParabéns, MARIO!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F5A2",
+  "en": "You've been such an amazing help,\\pbut this is too fun to end here!\\nLet's battle with RENTALS again!\\pBut only when I'm done analyzing!?",
+  "pt": "Você ajudou demais,\\pmas isso está divertido demais pra acabar aqui! Vamos batalhar com ALUGUÉIS de novo!\\pMas só quando eu terminar de analisar, tá?!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "02EB24B",
+  "en": "MARIO defeated PENNY and the first\\nchallenge of the BATTLE FACTORY!",
+  "pt": "MARIO derrotou a PENNY e venceu o primeiro desafio da FÁBRICA DE BATALHA!"
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "02EB28F",
+  "en": "MARIO defeated PENNY and became\\nthe BATTLE SWAP master!",
+  "pt": "MARIO derrotou a PENNY e virou o mestre da Troca de Batalha!"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "029FB24",
+  "en": "Would you like to take the Battle\\nChoice challenge?",
+  "pt": "Quer encarar o desafio da Escolha de Batalha?"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "029FB58",
+  "en": "Here we conduct an event we call\\nthe Battle Choice.\\pThe Battle Choice rules are very\\nsimple…\\pChoose one of three paths and make\\nyour way to the goal room at the end\\lof the BATTLE PIKE. It's that simple.\\pHowever, what happens on the chosen\\npath depends entirely on the luck\\lof the challenger…\\pIf you reach the goal, you will be\\nrewarded with Battle Points.\\pIf you want to interrupt your\\nchallenge, please have a word with\\lour staff in the big rooms on the way.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "Aqui realizamos um evento que chamamos de Escolha de Batalha.\\pAs regras da Escolha de Batalha são muito simples…\\pEscolha um de três caminhos e siga até a sala final, no fim da TRILHA DE BATALHA. Simples assim.\\pPorém, o que acontece no caminho escolhido depende inteiramente da sorte do desafiante…\\pSe você chegar ao fim, será recompensado com Pontos de Batalha.\\pSe quiser interromper o seu desafio, fale com a nossa equipe nas salas grandes ao longo do caminho.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "029FD65",
+  "en": "We look forward to seeing you\\non another occasion…",
+  "pt": "Esperamos ver você numa outra ocasião…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "029FD98",
+  "en": "You have the choice of two courses,\\nLevel 50 and Open Level.\\lWhich will you challenge?",
+  "pt": "Você pode escolher entre dois cursos: Nível 50 e Nível Livre. Qual deles vai desafiar?"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "029FDEF",
+  "en": "I beg your pardon, but…\\pYou do not have three eligible\\nPOKéMON for the Battle Choice event.\\pYou must have three different POKéMON\\nof Level 50 or less to enter.\\pThey also must be holding different\\nkinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pPlease come see me when\\nyou are ready…",
+  "pt": "Peço desculpas, mas…\\pVocê não tem três CAPTURAS aptas para o evento Escolha de Batalha.\\pPara participar, você precisa de três CAPTURAS diferentes de Nível 50 ou menos.\\pElas também precisam estar segurando itens diferentes.\\pOVOS{STR_VAR_1} inelegíveis.\\pVenha falar comigo quando estiver pronto…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "029FEFD",
+  "en": "I beg your pardon, but…\\pYou do not have three eligible\\nPOKéMON for the Battle Choice event.\\pYou must have three different\\nPOKéMON to enter.\\pThey also must be holding different\\nkinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pPlease come see me when\\nyou are ready…",
+  "pt": "Peço desculpas, mas…\\pVocê não tem três CAPTURAS aptas para o evento Escolha de Batalha.\\pPara participar, você precisa de três CAPTURAS diferentes.\\pElas também precisam estar segurando itens diferentes.\\pOVOS{STR_VAR_1} inelegíveis.\\pVenha falar comigo quando estiver pronto…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "029FFF7",
+  "en": "Please choose the three POKéMON\\nyou wish to enter in the challenge…",
+  "pt": "Por favor, escolha as três CAPTURAS que deseja inscrever no desafio…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A003B",
+  "en": "Before starting your Battle Choice\\nchallenge, I must save the game.\\lIs that acceptable?",
+  "pt": "Antes de começar o seu desafio da Escolha de Batalha, preciso salvar o jogo. Tudo bem?"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A0093",
+  "en": "Please step this way…",
+  "pt": "Por aqui, por favor…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A00A9",
+  "en": "Your challenge has ended…\\pI shall record your results.\\nPlease wait…",
+  "pt": "O seu desafio terminou…\\pVou registrar os seus resultados. Aguarde, por favor…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A00ED",
+  "en": "You have completed the challenge…\\pI must say… You seem to possess luck\\nin abundance…",
+  "pt": "Você concluiu o desafio…\\pDevo dizer… Você parece ter sorte de sobra…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A0142",
+  "en": "I shall record your results.\\nPlease wait…",
+  "pt": "Vou registrar os seus resultados. Aguarde, por favor…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A0243",
+  "en": "I beg your pardon, but…\\pYou failed to save before you quit\\nyour challenge the last time.\\pBecause of that, your challenge so far\\nhas been disqualified. I am sorry…",
+  "pt": "Peço desculpas, mas…\\pVocê não salvou antes de abandonar o seu desafio da última vez.\\pPor isso, o seu desafio até aqui foi desclassificado. Sinto muito…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A02E6",
+  "en": "Congratulations…\\pYou have snatched victory from the\\nPIKE QUEEN and cleared the event…",
+  "pt": "Parabéns…\\pVocê arrancou a vitória da RAINHA DA TRILHA e concluiu o evento…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A033C",
+  "en": "In recognition of your amazing luck,\\nwe award you these Battle Point(s)…",
+  "pt": "Em reconhecimento à sua sorte incrível, damos a você estes Ponto(s) de Batalha…"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A0385",
+  "en": "Arrgh! I blew my chance!\\nI was one room away from the goal!\\pIn this place, you'd better watch out\\nfor poison, freezing, and so on.",
+  "pt": "Aaargh! Perdi a minha chance! Eu estava a uma sala do fim!\\pAqui, é bom tomar cuidado com envenenamento, congelamento e coisas assim."
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A0408",
+  "en": "I've completed the challenge 10 times\\nnow, but I've never had to battle\\la TRAINER once.",
+  "pt": "Já concluí o desafio 10 vezes, mas nunca precisei batalhar com nenhum TREINADOR."
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A0460",
+  "en": "Listen! Listen!\\pDon't you think that the special\\nabilities of POKéMON will be useful\\lhere?",
+  "pt": "Escuta! Escuta!\\pVocê não acha que as habilidades especiais das CAPTURAS vão ser úteis aqui?"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A055E",
+  "en": "The Battle Choice's rules are listed.",
+  "pt": "Estas são as regras da Escolha de Batalha."
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A0584",
+  "en": "Which heading do you want to read?",
+  "pt": "Qual tópico você quer ler?"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A05A7",
+  "en": "The BAG and POKéNAV may not be used\\nduring a Battle Choice challenge.",
+  "pt": "A BOLSA e o POKéNAV não podem ser usados durante um desafio da Escolha de Batalha."
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A05ED",
+  "en": "During a Battle Choice challenge,\\nany BERRY or HERB held by POKéMON\\lwill be effective only once.",
+  "pt": "Durante um desafio da Escolha de Batalha, qualquer FRUTA ou ERVA segurada pelas CAPTURAS só funciona uma vez."
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "02A064E",
+  "en": "During a Battle Choice challenge,\\nthe sequence of POKéMON cannot be\\lchanged.\\pThe sequence must be set before\\nstarting your challenge.",
+  "pt": "Durante um desafio da Escolha de Batalha, a ordem das CAPTURAS não pode ser alterada.\\pA ordem precisa ser definida antes de começar o desafio."
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0B40",
+  "en": "You are currently in\\nthe 1st room…",
+  "pt": "Você está agora na 1ª sala…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0B63",
+  "en": "You are currently in\\nthe 3rd room…",
+  "pt": "Você está agora na 3ª sala…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0B86",
+  "en": "You are currently in\\nthe 5th room…",
+  "pt": "Você está agora na 5ª sala…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0BA9",
+  "en": "You are currently in\\nthe 7th room…",
+  "pt": "Você está agora na 7ª sala…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0BCC",
+  "en": "You are currently in\\nthe 9th room…",
+  "pt": "Você está agora na 9ª sala…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0BEF",
+  "en": "You are currently in\\nthe 11th room…",
+  "pt": "Você está agora na 11ª sala…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0C13",
+  "en": "You are currently in\\nthe 13th room…",
+  "pt": "Você está agora na 13ª sala…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0C37",
+  "en": "Will you continue with\\nyour challenge?",
+  "pt": "Vai continuar com o seu desafio?"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0C5E",
+  "en": "Would you like to save your challenge\\nand quit the game for now?",
+  "pt": "Quer salvar o seu desafio e sair do jogo por enquanto?"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0C9F",
+  "en": "Do you wish to retire from your\\nBattle Choice challenge?",
+  "pt": "Deseja desistir do seu desafio da Escolha de Batalha?"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0CD8",
+  "en": "We've been awaiting your return…\\pBefore resuming your Battle Choice\\nchallenge, let me save the game…",
+  "pt": "Estávamos aguardando o seu retorno…\\pAntes de retomar o seu desafio da Escolha de Batalha, deixe-me salvar o jogo…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0D3D",
+  "en": "Please do enjoy your Battle Choice\\nchallenge…",
+  "pt": "Aproveite bem o seu desafio da Escolha de Batalha…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0D6B",
+  "en": "I am saving your data…\\nA little time, please…",
+  "pt": "Estou salvando os seus dados… Só um instante, por favor…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0DCC",
+  "en": "I beg your pardon, but…\\pAre you perhaps finding it difficult\\nto choose your path?",
+  "pt": "Peço desculpas, mas…\\pPor acaso está com dificuldade para escolher o seu caminho?"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0E1E",
+  "en": "I see…\\nI apologize for my impertinence…",
+  "pt": "Entendo…\\nPerdoe a minha impertinência…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0E46",
+  "en": "Ah, let me see… There is something\\nabout the path on the right…",
+  "pt": "Ah, deixe-me ver… Há algo no caminho da direita…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0E86",
+  "en": "Ah, let me see… There is something\\nabout the path in the center…",
+  "pt": "Ah, deixe-me ver… Há algo no caminho do centro…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0EC7",
+  "en": "Ah, let me see… There is something\\nabout the path on the left…",
+  "pt": "Ah, deixe-me ver… Há algo no caminho da esquerda…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0F06",
+  "en": "It seems to have the distinct aroma\\nof POKéMON wafting around it…",
+  "pt": "Parece que há um aroma inconfundível de CAPTURAS pairando por lá…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0F48",
+  "en": "Is it… A TRAINER?\\nI sense the presence of people…",
+  "pt": "Será… um TREINADOR? Sinto a presença de pessoas…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0F7A",
+  "en": "I seem to have heard something…\\nIt may have been whispering…",
+  "pt": "Parece que ouvi alguma coisa… Talvez fossem sussurros…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0FB7",
+  "en": "For some odd reason, I felt a wave\\nof nostalgia coming from it…",
+  "pt": "Por algum motivo estranho, senti uma onda de nostalgia vindo de lá…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A0FF7",
+  "en": "I am sorry to say…\\pA terrifying event, yes, a horrible one,\\nis about to befall you…\\pI urge you to pay the utmost care\\nand prepare for the worst…",
+  "pt": "Sinto muito dizer…\\pUm acontecimento aterrorizante, sim, um acontecimento horrível, está prestes a cair sobre você…\\pPeço que tome o máximo de cuidado e se prepare para o pior…"
+ },
+ {
+  "map": "42.36 NEW DONK CITY",
+  "offset": "02A1088",
+  "en": "From every path I sense a dreadful\\npresence…",
+  "pt": "Sinto uma presença terrível vindo de todos os caminhos…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1976",
+  "en": "I urge you to enjoy the rest of your\\nBattle Choice challenge…",
+  "pt": "Aproveite bem o restante do seu desafio da Escolha de Batalha…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A19B4",
+  "en": "Ah, you're a lucky one.\\nI'm in somewhat-good spirits now.\\pI will restore one of your POKéMON\\nto full health.",
+  "pt": "Ah, você tem sorte. Estou de humor razoavelmente bom agora.\\pVou restaurar totalmente a saúde de uma das suas CAPTURAS."
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1A21",
+  "en": "The best of luck to you.\\nFarewell.",
+  "pt": "Boa sorte para você.\\nAdeus."
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1B34",
+  "en": "Oh, my!\\pWatch out!",
+  "pt": "Minha nossa!\\pCuidado!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1B47",
+  "en": "Now, now!\\nKIRLIA, stop that!",
+  "pt": "Ora, ora!\\nKIRLIA, pare com isso!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1B64",
+  "en": "Now, now!\\nDUSCLOPS, stop that!",
+  "pt": "Ora, ora!\\nDUSCLOPS, pare com isso!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1B83",
+  "en": "KIRLIA used TOXIC!",
+  "pt": "KIRLIA usou TÓXICO!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1B96",
+  "en": "KIRLIA used HYPNOSIS!",
+  "pt": "KIRLIA usou HIPNOSE!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1BAC",
+  "en": "KIRLIA used THUNDER WAVE!",
+  "pt": "KIRLIA usou ONDA DE TROVÃO!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1BC6",
+  "en": "KIRLIA used WILL-O-WISP!",
+  "pt": "KIRLIA usou FOGO-FÁTUO!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1BDF",
+  "en": "DUSCLOPS used WILL-O-WISP!",
+  "pt": "DUSCLOPS usou FOGO-FÁTUO!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1BFA",
+  "en": "DUSCLOPS used ICE BEAM!",
+  "pt": "DUSCLOPS usou RAIO CONGELANTE!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1C12",
+  "en": "Look here!\\nThat's quite enough!",
+  "pt": "Olhe aqui!\\nJá chega!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1C32",
+  "en": "I must apologize to you…\\pMy KIRLIA has a TIMID nature…",
+  "pt": "Preciso pedir desculpas…\\pO meu KIRLIA tem natureza TÍMIDA…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1C69",
+  "en": "I must apologize to you…\\pMy DUSCLOPS has a TIMID nature…",
+  "pt": "Preciso pedir desculpas…\\pO meu DUSCLOPS tem natureza TÍMIDA…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1CA2",
+  "en": "It attacks without warning if it is\\nstartled by another person…\\pAre you and your POKéMON all right?",
+  "pt": "Ele ataca sem aviso quando alguém o assusta…\\pVocê e as suas CAPTURAS estão bem?"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1D06",
+  "en": "I do apologize for what happened…\\nI do hope your POKéMON are fine.",
+  "pt": "Peço mil desculpas pelo que aconteceu… Espero que as suas CAPTURAS estejam bem."
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1D61",
+  "en": "Welcome…\\pHere, we will have you battle\\na somewhat-tough TRAINER…",
+  "pt": "Bem-vindo…\\pAqui, você vai batalhar com um TREINADOR razoavelmente forte…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1DA2",
+  "en": "How wonderful…\\pTo honor your victory, your POKéMON\\nshall be restored to full health…",
+  "pt": "Que maravilha…\\pEm honra à sua vitória, a saúde das suas CAPTURAS será totalmente restaurada…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1DF7",
+  "en": "I urge you to enjoy the rest of your\\nBattle Choice challenge…",
+  "pt": "Aproveite bem o restante do seu desafio da Escolha de Batalha…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1E35",
+  "en": "I am LUCY…\\nI am the law here…\\lFor I am the PIKE QUEEN…\\pYou already know it, but to advance,\\nyou must defeat me…\\p…I'm not one for idle chatter.\\nHurry. Come on…",
+  "pt": "Eu sou a LUCY…\\nEu sou a lei aqui…\\lPois eu sou a RAINHA DA TRILHA…\\pVocê já sabe, mas, para avançar, precisa me derrotar…\\p…Não sou de conversa fiada. Ande logo. Vamos…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1ED4",
+  "en": "Your luck…\\nI hope you didn't use it all up here…",
+  "pt": "A sua sorte…\\nTomara que não tenha gasto tudo aqui…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1F05",
+  "en": "LUCY: … … … … … …\\nShow me your FRONTIER PASS…",
+  "pt": "LUCY: … … … … … …\\nMostre o seu PASSE DA FRONTEIRA…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1F33",
+  "en": "The Luck Symbol was embossed on\\nthe FRONTIER PASS!",
+  "pt": "O Símbolo da Sorte foi gravado no PASSE DA FRONTEIRA!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1F66",
+  "en": "…That's all there is…\\nDisappear already…",
+  "pt": "…Isso é tudo…\\nAgora suma daqui…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1F8F",
+  "en": "LUCY: …You again…\\p… … … … … …\\p…I've trampled flowers and braved\\nstorms to get to where I am…\\pI don't feel any compulsion to keep\\nlosing to the same opponent…\\p… … … … … …\\nFine… I'll do it…",
+  "pt": "LUCY: …Você de novo…\\p… … … … … …\\p…Pisei em flores e enfrentei tempestades para chegar aonde estou…\\pNão sinto nenhuma vontade de continuar perdendo para o mesmo oponente…\\p… … … … … …\\nTudo bem… Eu vou lutar…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A204B",
+  "en": "Now!\\nCome on!",
+  "pt": "Agora!\\nVenha!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A2059",
+  "en": "LUCY: … … … … … …\\p…FRONTIER PASS…",
+  "pt": "LUCY: … … … … … …\\p…PASSE DA FRONTEIRA…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A207B",
+  "en": "The Luck Symbol took on\\na golden shine!",
+  "pt": "O Símbolo da Sorte ganhou um brilho dourado!"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A20A3",
+  "en": "…You, I won't forget…\\n…Ever…",
+  "pt": "…Você, eu não vou esquecer…\\n…Nunca…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A20C0",
+  "en": "I welcome you…\\pGiggle…\\nYou seem to be bereft of luck…\\pIf only you hadn't chosen this room,\\nyour POKéMON could have been healed…",
+  "pt": "Bem-vindo…\\pHihi…\\nVocê parece estar sem sorte nenhuma…\\pSe não tivesse escolhido esta sala, as suas CAPTURAS poderiam ter sido curadas…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A2140",
+  "en": "I welcome you…\\pSince you have chosen this room, I will\\nrestore one POKéMON to full health…",
+  "pt": "Bem-vindo…\\pJá que você escolheu esta sala, vou restaurar totalmente a saúde de uma CAPTURA…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A219B",
+  "en": "I welcome you…\\pSince you have chosen this room, I will\\nrestore two POKéMON to full health…",
+  "pt": "Bem-vindo…\\pJá que você escolheu esta sala, vou restaurar totalmente a saúde de duas CAPTURAS…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A2274",
+  "en": "I shall go fetch our master…",
+  "pt": "Vou chamar a nossa mestra…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A2291",
+  "en": "Ah, you're a lucky one!\\nI'm in good spirits now.\\pI will restore two of your POKéMON\\nto full health!",
+  "pt": "Ah, você tem sorte! Estou de bom humor agora.\\pVou restaurar totalmente a saúde de duas das suas CAPTURAS!"
+ },
+ {
+  "map": "42.40 NEW DONK CITY",
+  "offset": "02A255C",
+  "en": "BATTLE DOME, BATTLE PIKE,\\nand BATTLE FACTORY Records",
+  "pt": "Recordes do DOMO DE BATALHA, da TRILHA DE BATALHA e da FÁBRICA DE BATALHA"
+ },
+ {
+  "map": "42.40 NEW DONK CITY",
+  "offset": "02A2591",
+  "en": "BATTLE PALACE, BATTLE ARENA,\\nand BATTLE PYRAMID Records",
+  "pt": "Recordes do PALÁCIO DE BATALHA, da ARENA DE BATALHA e da PIRÂMIDE DE BATALHA"
+ },
+ {
+  "map": "42.40 NEW DONK CITY",
+  "offset": "02A25C9",
+  "en": "Hi, is your name on this list?",
+  "pt": "Oi, o seu nome está nesta lista?"
+ },
+ {
+  "map": "42.40 NEW DONK CITY",
+  "offset": "02A25E8",
+  "en": "Wow, that's super!\\nI'll have to try harder, too!",
+  "pt": "Uau, que demais! Eu também vou ter que me esforçar mais!"
+ },
+ {
+  "map": "42.40 NEW DONK CITY",
+  "offset": "02A2619",
+  "en": "Oh, is that right?\\pIf you saw your friend's name up here,\\nI bet it would make you work harder!",
+  "pt": "Ah, é mesmo?\\pSe você visse o nome de um amigo aqui, aposto que ia se esforçar mais!"
+ },
+ {
+  "map": "42.40 NEW DONK CITY",
+  "offset": "02A2678",
+  "en": "Hmm…\\nMy name's not up there…\\pWell, it's only natural since I haven't\\ntaken any challenges yet.",
+  "pt": "Hum…\\nO meu nome não está aí…\\pBom, é natural, já que eu ainda não encarei nenhum desafio."
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A29F5",
+  "en": "…Hmm…\\pThis one, overall, I would describe\\nas being of average ability.",
+  "pt": "…Hum…\\pEsta aqui, no geral, eu descreveria como tendo habilidade mediana."
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2A3C",
+  "en": "…Hmm…\\pThis one, overall, I would describe as\\nhaving better-than-average ability.",
+  "pt": "…Hum…\\pEsta aqui, no geral, eu descreveria como tendo habilidade acima da média."
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2A8D",
+  "en": "…Hmm…\\pThis one, overall, I would say is\\nquite impressive in ability!",
+  "pt": "…Hum…\\pEsta aqui, no geral, eu diria que tem uma habilidade bem impressionante!"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2AD2",
+  "en": "…Hmm…\\pThis one, overall, I would say is\\nwonderfully outstanding in ability!",
+  "pt": "…Hum…\\pEsta aqui, no geral, eu diria que tem uma habilidade maravilhosamente excepcional!"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2B1E",
+  "en": "Incidentally, the best aspect of it,\\nI would say, is its HP…",
+  "pt": "Aliás, o melhor ponto dela, eu diria, é o HP…"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2B5B",
+  "en": "Incidentally, the best aspect of it,\\nI would say, is its ATTACK…",
+  "pt": "Aliás, o melhor ponto dela, eu diria, é o ATAQUE…"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2B9C",
+  "en": "Incidentally, the best aspect of it,\\nI would say, is its DEFENSE…",
+  "pt": "Aliás, o melhor ponto dela, eu diria, é a DEFESA…"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2BDE",
+  "en": "Incidentally, the best aspect of it,\\nI would say, is its SPECIAL ATTACK…",
+  "pt": "Aliás, o melhor ponto dela, eu diria, é o ATAQUE ESPECIAL…"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2C27",
+  "en": "Incidentally, the best aspect of it,\\nI would say, is its SPECIAL DEFENSE…",
+  "pt": "Aliás, o melhor ponto dela, eu diria, é a DEFESA ESPECIAL…"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2C71",
+  "en": "Incidentally, the best aspect of it,\\nI would say, is its SPEED…",
+  "pt": "Aliás, o melhor ponto dela, eu diria, é a VELOCIDADE…"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2CB1",
+  "en": "That stat is relatively good.\\n…Hm… That's how I call it.",
+  "pt": "Esse atributo é relativamente bom. …Hum… É assim que eu vejo."
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2CEA",
+  "en": "That stat is quite impressive.\\n…Hm… That's how I call it.",
+  "pt": "Esse atributo é bem impressionante. …Hum… É assim que eu vejo."
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2D24",
+  "en": "That stat is outstanding!\\n…Hm… That's how I call it.",
+  "pt": "Esse atributo é excepcional! …Hum… É assim que eu vejo."
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2D59",
+  "en": "It's flawless! A thing of perfection!\\n…Hm… That's how I call it.",
+  "pt": "É impecável! Uma perfeição! …Hum… É assim que eu vejo."
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2D9A",
+  "en": "What?\\nYou have no time for my advice?\\pYou should always be eager to learn\\nfrom the experiences of your elders!",
+  "pt": "O quê?\\nNão tem tempo pros meus conselhos?\\pVocê sempre devia ter vontade de aprender com a experiência dos mais velhos!"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2E59",
+  "en": "Ah, youngster! Do your POKéMON's\\nabilities intrigue you?\\pHere, here!\\nLet's have a look at your POKéMON!",
+  "pt": "Ah, meu jovem! As habilidades das suas CAPTURAS te deixam curioso?\\pVenha, venha! Vamos dar uma olhada nas suas CAPTURAS!"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2EC1",
+  "en": "An expert I am, but even I can't tell\\nanything about an unhatched POKéMON!\\pShow me a POKéMON!\\nA POKéMON is what I need to see!",
+  "pt": "Sou um especialista, mas nem eu consigo dizer nada sobre uma CAPTURA que ainda não chocou!\\pMe mostre uma CAPTURA! É uma CAPTURA que eu preciso ver!"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2F40",
+  "en": "He said my POKéMON is outstanding!\\nI'm glad I raised it carefully!",
+  "pt": "Ele disse que a minha CAPTURA é excepcional! Que bom que eu a criei com tanto cuidado!"
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A2F83",
+  "en": "He said my POKéMON is outstanding!\\nBut I didn't do anything special\\lraising it…",
+  "pt": "Ele disse que a minha CAPTURA é excepcional! Mas eu não fiz nada de especial pra criá-la…"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3819",
+  "en": "You've chosen the KISS POSTER.\\nIs that correct?",
+  "pt": "Você escolheu o PÔSTER BEIJO. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3849",
+  "en": "You've chosen the KISS CUSHION.\\nIs that correct?",
+  "pt": "Você escolheu a ALMOFADA BEIJO. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A387A",
+  "en": "You've chosen the SMOOCHUM DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA SMOOCHUM. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A38AC",
+  "en": "You've chosen the TOGEPI DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA TOGEPI. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A38DC",
+  "en": "You've chosen the MEOWTH DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA MEOWTH. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A390C",
+  "en": "You've chosen the CLEFAIRY DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA CLEFAIRY. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A393E",
+  "en": "You've chosen the DITTO DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA DITTO. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A396D",
+  "en": "You've chosen the CYNDAQUIL DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA CYNDAQUIL. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A39A0",
+  "en": "You've chosen the CHIKORITA DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA CHIKORITA. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A39D3",
+  "en": "You've chosen the TOTODILE DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA TOTODILE. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3A05",
+  "en": "You've chosen the LAPRAS DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA LAPRAS. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3A35",
+  "en": "You've chosen the SNORLAX DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA SNORLAX. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3A66",
+  "en": "You've chosen the VENUSAUR DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA VENUSAUR. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3A98",
+  "en": "You've chosen the CHARIZARD DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA CHARIZARD. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3ACB",
+  "en": "You've chosen the BLASTOISE DOLL.\\nIs that correct?",
+  "pt": "Você escolheu a BONECA BLASTOISE. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3AFE",
+  "en": "You've chosen the PROTEIN.\\nIs that correct?",
+  "pt": "Você escolheu a PROTEÍNA. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3B2A",
+  "en": "You've chosen the CALCIUM.\\nIs that correct?",
+  "pt": "Você escolheu o CÁLCIO. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3B56",
+  "en": "You've chosen the IRON.\\nIs that correct?",
+  "pt": "Você escolheu o FERRO. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3B7F",
+  "en": "You've chosen the ZINC.\\nIs that correct?",
+  "pt": "Você escolheu o ZINCO. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3BA8",
+  "en": "You've chosen the CARBOS.\\nIs that correct?",
+  "pt": "Você escolheu o CARBOS. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3BD3",
+  "en": "You've chosen the HP UP.\\nIs that correct?",
+  "pt": "Você escolheu o HP UP. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3BFD",
+  "en": "You've chosen the BRIGHTPOWDER.\\nIs that correct?",
+  "pt": "Você escolheu o PÓ BRILHANTE. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3C2E",
+  "en": "You've chosen the WHITE HERB.\\nIs that correct?",
+  "pt": "Você escolheu a ERVA BRANCA. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3C5D",
+  "en": "You've chosen the QUICK CLAW.\\nIs that correct?",
+  "pt": "Você escolheu a GARRA RÁPIDA. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3C8C",
+  "en": "You've chosen the MENTAL HERB.\\nIs that correct?",
+  "pt": "Você escolheu a ERVA MENTAL. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3CBC",
+  "en": "You've chosen the CHOICE BAND.\\nIs that correct?",
+  "pt": "Você escolheu a FAIXA ESCOLHA. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3CEC",
+  "en": "You've chosen the KING'S ROCK.\\nIs that correct?",
+  "pt": "Você escolheu a PEDRA DO REI. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3D1C",
+  "en": "You've chosen the FOCUS BAND.\\nIs that correct?",
+  "pt": "Você escolheu a FAIXA FOCO. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3D4B",
+  "en": "You've chosen the SCOPE LENS.\\nIs that correct?",
+  "pt": "Você escolheu a LENTE DE MIRA. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3D7A",
+  "en": "You've chosen the LEFTOVERS.\\nIs that correct?",
+  "pt": "Você escolheu os RESTOS. Está correto?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3DA8",
+  "en": "Thank you!\\nWe'll send it to your PC at home.",
+  "pt": "Obrigado! Vamos enviar para o seu PC em casa."
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3DD5",
+  "en": "Here is your prize!",
+  "pt": "Aqui está o seu prêmio!"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3DE9",
+  "en": "I'm so sorry…\\nYou don't have enough Battle Points…",
+  "pt": "Sinto muito… Você não tem Pontos de Batalha suficientes…"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3E1C",
+  "en": "I'm so sorry…\\nYour PC appears to be full…",
+  "pt": "Sinto muito…\\nO seu PC parece estar cheio…"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3E46",
+  "en": "I'm so sorry…\\nYou don't have space to hold it…",
+  "pt": "Sinto muito…\\nVocê não tem espaço para guardar isso…"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3E75",
+  "en": "Thank you very much.\\pPlease visit us when you have\\nsaved up Battle Points.",
+  "pt": "Muito obrigado.\\pVolte quando tiver juntado Pontos de Batalha."
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3EC0",
+  "en": "Oh, they're so nice!\\nI wish I had them!\\lCute cushions!\\lBig plush DOLLS!\\lLittle plush DOLLS!\\lI wish I had them all!",
+  "pt": "Ah, são tão lindas!\\nEu queria ter!\\lAlmofadas fofas!\\lBONECAS de pelúcia grandes!\\lBONECAS de pelúcia pequenas!\\lEu queria ter todas!"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3F33",
+  "en": "Leave it to your mommy!\\pIf it's anything you want, I'll go\\nthrough anything to get it, honey!",
+  "pt": "Deixa com a mamãe!\\pSe for algo que você quer, eu faço de tudo pra conseguir, meu bem!"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3F91",
+  "en": "If I can get hold of the items here,\\nmy POKéMON will get tougher.\\pYou bet they will!\\nNo question about it!",
+  "pt": "Se eu conseguir os itens daqui, as minhas CAPTURAS vão ficar mais fortes.\\pPode apostar que vão! Sem a menor dúvida!"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A3FFC",
+  "en": "Hah?\\nWhat are you gawking at?\\pI don't like you staring at my plush\\ndoll like that.\\pIf you want it, go get one yourself!\\nIsn't that right, SMOOCHUM?",
+  "pt": "Hã?\\nTá olhando o quê?\\pNão gosto que fiquem encarando a minha BONECA de pelúcia desse jeito.\\pSe quer uma, vá arrumar a sua! Não é, SMOOCHUM?"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A4090",
+  "en": "Did you know?\\pIf you stretch your record at any of\\nthe BATTLE facilities, they start\\lgiving you more and more Battle Points.",
+  "pt": "Sabia?\\pSe você aumentar a sua sequência de vitórias em qualquer uma das instalações de BATALHA, elas começam a te dar cada vez mais Pontos de Batalha."
+ },
+ {
+  "map": "42.43 NEW DONK CITY",
+  "offset": "02A47BA",
+  "en": "Howdy! Did you swing by to grill me\\nabout the latest word? Oh, all right!",
+  "pt": "E aí! Veio me encher de perguntas sobre as últimas novidades? Ah, tudo bem!"
+ },
+ {
+  "map": "42.43 NEW DONK CITY",
+  "offset": "02A4855",
+  "en": "Let's see now…\\pIt sounds like the {STR_VAR_1}\\nis the hottest place going.",
+  "pt": "Deixa eu ver…\\pParece que {STR_VAR_1} é o lugar mais badalado do momento."
+ },
+ {
+  "map": "42.43 NEW DONK CITY",
+  "offset": "02A4896",
+  "en": "Let's see now…\\pIt sounds like BATTLE TOWER\\n{STR_VAR_1} is the hottest.",
+  "pt": "Deixa eu ver…\\pParece que {STR_VAR_1} da TORRE DE BATALHA é o mais badalado."
+ },
+ {
+  "map": "42.43 NEW DONK CITY",
+  "offset": "02A5BFF",
+  "en": "What amazing news-gathering power!\\nMy mentor's like none other!",
+  "pt": "Que poder incrível de apurar notícias! Não existe mentor igual ao meu!"
+ },
+ {
+  "map": "42.43 NEW DONK CITY",
+  "offset": "02A5C3F",
+  "en": "What amazing powers of observation!\\nMy mentor's like none other!",
+  "pt": "Que poder de observação incrível! Não existe mentor igual ao meu!"
+ },
+ {
+  "map": "42.43 NEW DONK CITY",
+  "offset": "02A5C80",
+  "en": "What amazing power of persuasion!\\nMy mentor's like none other!",
+  "pt": "Que poder de persuasão incrível! Não existe mentor igual ao meu!"
+ },
+ {
+  "map": "42.43 NEW DONK CITY",
+  "offset": "02A5CBF",
+  "en": "…What is this place?\\nIt's scaring me…",
+  "pt": "…Que lugar é este?\\nEstou com medo…"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A5FC4",
+  "en": "…Huh?\\nYou look to me like a tough TRAINER.\\pHeheh…\\nListen, I have this proposition.\\pWe have a little group going here,\\nand we play a little game with what\\lgoes on in the BATTLE FRONTIER.\\pThe rules are really simple.\\pFirst, we pick one of the facilities\\nin the BATTLE FRONTIER.\\pThen, we each pick a different TRAINER\\nwho's taking that facility's challenge,\\land bet with our Battle Points.\\pThe guy who bet on the TRAINER with\\nthe best record takes all the Battle\\lPoints in the pool.\\pSounds simple, huh?\\nSo, anyway…",
+  "pt": "…Hã?\\nVocê me parece um TREINADOR forte.\\pHehe…\\nEscuta, eu tenho uma proposta.\\pA gente tem um grupinho aqui, e fazemos uma brincadeira com o que rola na FRONTEIRA DE BATALHA.\\pAs regras são bem simples.\\pPrimeiro, escolhemos uma das instalações da FRONTEIRA DE BATALHA.\\pDepois, cada um escolhe um TREINADOR diferente que esteja encarando o desafio daquela instalação e aposta os seus Pontos de Batalha.\\pQuem apostou no TREINADOR com o melhor resultado leva todos os Pontos de Batalha do bolão.\\pSimples, né?\\nEntão, enfim…"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A69C3",
+  "en": "I'll see to it that you benefit, too.\\nSo how about it?\\lHow about entering that event for me?",
+  "pt": "Vou garantir que você também saia ganhando. E aí, que tal? Que tal participar desse evento por mim?"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A6A20",
+  "en": "All right, that's perfect.\\nSo, uh… How about spotting me some\\lof your Battle Points?\\pTrust me, I'll show you my gratitude\\nafterward.",
+  "pt": "Beleza, perfeito. Então, é… Que tal me adiantar alguns dos seus Pontos de Batalha?\\pConfia em mim, depois eu te mostro a minha gratidão."
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A6AA5",
+  "en": "Great, great!\\nSo, how much can you spot me?",
+  "pt": "Ótimo, ótimo!\\nEntão, quanto você pode me adiantar?"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A6AD1",
+  "en": "Oh, no, no, no!\\nYou don't have enough Battle Points!\\pI wish you wouldn't monkey around and\\nwaste everyone's time!",
+  "pt": "Ah, não, não, não! Você não tem Pontos de Batalha suficientes!\\pQueria que você não ficasse de palhaçada fazendo todo mundo perder tempo!"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A6B43",
+  "en": "Heheh! Thanks much!\\nSo, off you go!",
+  "pt": "Hehe! Valeu mesmo!\\nEntão, pode ir!"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A71FB",
+  "en": "Oh, it's you…\\nNice try…\\pI hate to break it to you, but I can't\\nreturn your Battle Points…\\pI guess we'll have to let it motivate\\nus to try harder next time!",
+  "pt": "Ah, é você…\\nBoa tentativa…\\pDetesto ter que dizer isso, mas não posso devolver os seus Pontos de Batalha…\\pAcho que isso vai servir de motivação pra gente se esforçar mais da próxima vez!"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A7297",
+  "en": "Oh, yes!\\nHello there, champ!\\pI knew you could!\\nI knew you would!\\lWe're both big winners!\\pI'll return your Battle Points and,\\nof course, a little extra from me!",
+  "pt": "Ah, isso!\\nOlá, campeão!\\pEu sabia que você conseguia! Eu sabia que você ia conseguir! Nós dois somos grandes vencedores!\\pVou devolver os seus Pontos de Batalha e, claro, um extrazinho da minha parte!"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A7337",
+  "en": "{PLAYER} obtained\\n{STR_VAR_1} Battle Points.",
+  "pt": "{PLAYER} recebeu\\n{STR_VAR_1} Pontos de Batalha."
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A7355",
+  "en": "If you're up for another challenge,\\nplease do think of me!",
+  "pt": "Se estiver a fim de outro desafio, lembre-se de mim!"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A7390",
+  "en": "Not interested?! You shouldn't be\\nso afraid to take a chance!",
+  "pt": "Não tem interesse?! Não devia ter tanto medo de arriscar!"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A73CE",
+  "en": "Oh…",
+  "pt": "Ah…"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A73D2",
+  "en": "I backed the wrong TRAINER again!\\pMaybe I should be battling normally\\nlike everyone else…",
+  "pt": "Apostei no TREINADOR errado de novo!\\pTalvez eu devesse batalhar normalmente como todo mundo…"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A742C",
+  "en": "That TRAINER…\\pHe's good, but he gets rattled too\\neasily to survive the BATTLE DOME…",
+  "pt": "Aquele TREINADOR…\\pEle é bom, mas fica nervoso fácil demais pra sobreviver ao DOMO DE BATALHA…"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A7480",
+  "en": "Giggle!\\nI know a winner when I see one!",
+  "pt": "Hihi!\\nEu sei reconhecer um vencedor!"
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A74A8",
+  "en": "Those TRAINERS…\\nWhat are they doing?\\lThey should be taking challenges.",
+  "pt": "Aqueles TREINADORES… O que eles estão fazendo? Deviam estar encarando desafios."
+ },
+ {
+  "map": "42.45 NEW DONK CITY",
+  "offset": "02A754F",
+  "en": "If I opened a restaurant here,\\nit'd make money for sure.",
+  "pt": "Se eu abrisse um restaurante aqui, com certeza ia ganhar dinheiro."
+ },
+ {
+  "map": "42.45 NEW DONK CITY",
+  "offset": "02A7588",
+  "en": "Whew…\\pI need to take a breather after\\nsome intense battles…\\pBut even now, I never take a break\\nfrom plotting strategy and combos.",
+  "pt": "Ufa…\\pPreciso dar uma respirada depois de umas batalhas intensas…\\pMas, mesmo agora, eu nunca paro de bolar estratégias e combos."
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A7A8C",
+  "en": "On reflection, it was a terribly long\\njourney…\\pI left home alone on a quest to find\\nstrong TRAINERS.\\pNo one can imagine how much effort\\nor time it took to make this real.",
+  "pt": "Pensando bem, foi uma jornada terrivelmente longa…\\pSaí de casa sozinho numa missão para encontrar TREINADORES fortes.\\pNinguém imagina quanto esforço e tempo foi preciso para tornar isto realidade."
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A7B37",
+  "en": "But that's all in the past.\\nNo point dwelling on that!\\pAll I want for you is to enjoy battling\\nto your heart's content here.\\p{PLAYER}{KUN}, I want you to have this\\nas a memento for all the time our\\lpaths crossed on our journeys.",
+  "pt": "Mas isso tudo ficou no passado. Não adianta ficar remoendo!\\pTudo o que eu quero é que você aproveite as batalhas aqui até cansar.\\p{PLAYER}{KUN}, quero que você fique com isto como lembrança de todas as vezes que os nossos caminhos se cruzaram nas nossas jornadas."
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A7C13",
+  "en": "{PLAYER} obtained\\n{STR_VAR_1} Battle Point(s).",
+  "pt": "{PLAYER} recebeu\\n{STR_VAR_1} Ponto(s) de Batalha."
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A7C33",
+  "en": "SCOTT: You can check your Battle\\nPoints on your FRONTIER PASS.\\pThe more success you have here at\\nthe BATTLE FRONTIER, the more Battle\\lPoints you will collect.\\pUse your Battle Points the way you\\nsee fit, like trading them for items.",
+  "pt": "SCOTT: Você pode conferir os seus Pontos de Batalha no seu PASSE DA FRONTEIRA.\\pQuanto mais sucesso você tiver aqui na FRONTEIRA DE BATALHA, mais Pontos de Batalha vai juntar.\\pUse os seus Pontos de Batalha como achar melhor, por exemplo, trocando por itens."
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A7D1B",
+  "en": "I'm expecting great things from you!",
+  "pt": "Espero grandes coisas de você!"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A7D40",
+  "en": "SCOTT: Every TRAINER is an individual.\\nThey all lead lives of their own.\\pBut when they're in a battle,\\nit doesn't matter who they are.\\pThey're all the same!\\pI love the purity of battle,\\nwhere everyone is equal.\\pThat's why I go everywhere seeking\\nTRAINERS who are serious about\\lbattling, and invite them here.",
+  "pt": "SCOTT: Cada TREINADOR é um indivíduo. Todos levam a própria vida.\\pMas, numa batalha, não importa quem eles são.\\pSão todos iguais!\\pEu adoro a pureza da batalha, onde todo mundo é igual.\\pÉ por isso que eu vou a todo lugar procurando TREINADORES que levam as batalhas a sério e os convido para vir aqui."
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A7E75",
+  "en": "SCOTT: Have you met any of\\nthe FRONTIER BRAINS?\\pBetter yet, have you obtained any\\nsymbols from them?\\pI handpicked the FRONTIER BRAINS\\nas the toughest TRAINERS anywhere.\\pBut I'm sure that seeing how tough\\nyou are will startle even them!",
+  "pt": "SCOTT: Já conheceu algum dos CÉREBROS DA FRONTEIRA?\\pMelhor ainda, já conseguiu algum símbolo deles?\\pEu escolhi a dedo os CÉREBROS DA FRONTEIRA como os TREINADORES mais fortes de todos.\\pMas tenho certeza de que ver o quanto você é forte vai espantar até eles!"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A7F61",
+  "en": "SCOTT: You don't just train for battle,\\nright?\\pI think I remember you working on\\na POKéDEX as well.\\pWell, guess what?\\pYou may run into wild POKéMON in\\nthe BATTLE FRONTIER somewhere…\\lFufufu!",
+  "pt": "SCOTT: Você não treina só para batalhar, né?\\pAcho que me lembro de você trabalhando numa TATTLEDEX também.\\pPois adivinha?\\pVocê pode encontrar CAPTURAS selvagens em algum lugar da FRONTEIRA DE BATALHA… Hehehe!"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A801F",
+  "en": "SCOTT: Are you enjoying things in\\nthe BATTLE FRONTIER?\\p…Wait a second…\\nOh!\\pYour FRONTIER PASS!\\nYou've collected the full set\\lof silver symbols!\\pThat's more than impressive!\\nYou are tough, just as I suspected!\\pNormally, I wouldn't do something\\nlike this, but this is a special time!\\pI want you to have this.\\nI'm sure you can put it to proper use.",
+  "pt": "SCOTT: Está aproveitando a FRONTEIRA DE BATALHA?\\p…Espera um pouco…\\nAh!\\pO seu PASSE DA FRONTEIRA! Você juntou o conjunto completo de símbolos de prata!\\pIsso é mais do que impressionante! Você é forte, como eu suspeitava!\\pNormalmente eu não faria algo assim, mas este é um momento especial!\\pQuero que você fique com isto. Tenho certeza de que vai saber usar bem."
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A8179",
+  "en": "SCOTT: I hope you're enjoying\\neverything in the BATTLE FRONTIER.\\p…Wait a second…\\nOh, my disbelieving eyes!\\pYour FRONTIER PASS!\\nYou've gathered up the full set\\lof gold symbols!\\pThat's more than stupendous!\\nYou're incredible, just as I suspected!\\p… … … … … …\\p{PLAYER}, you've got to accept this!\\pI think you will be able to\\nappreciate the value of my gift!",
+  "pt": "SCOTT: Espero que esteja aproveitando tudo na FRONTEIRA DE BATALHA.\\p…Espera um pouco…\\nAh, nem acredito no que estou vendo!\\pO seu PASSE DA FRONTEIRA! Você reuniu o conjunto completo de símbolos de ouro!\\pIsso é mais do que estupendo! Você é incrível, como eu suspeitava!\\p… … … … … …\\p{PLAYER}, você precisa aceitar isto!\\pAcho que você vai saber apreciar o valor do meu presente!"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A82D6",
+  "en": "I must say I have the gift of knowing\\na good TRAINER when I see one.\\pI'm so glad I had the foresight to\\nbring you here!",
+  "pt": "Tenho que admitir que tenho o dom de reconhecer um bom TREINADOR quando vejo um.\\pAinda bem que tive a visão de trazer você para cá!"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A834E",
+  "en": "Your BERRY POCKET seems to\\nbe stuffed.",
+  "pt": "O seu BOLSO DE FRUTAS parece estar lotado."
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A8375",
+  "en": "SCOTT: Oh, I heard about you!\\nHow you ruled the BATTLE TOWER!\\lYou beat over 50 TRAINERS in a row?\\pThat's fantastic!\\nI want you to have this!",
+  "pt": "SCOTT: Ah, ouvi falar de você! De como você dominou a TORRE DE BATALHA! Você venceu mais de 50 TREINADORES seguidos?\\pIsso é fantástico! Quero que você fique com isto!"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A8402",
+  "en": "SCOTT: Oh, my! I heard about you!\\nHow you overwhelmed the BATTLE TOWER!\\lYou beat over 100 TRAINERS in a row?\\pThat's ridiculously spectacular!\\nYou've got to have this!",
+  "pt": "SCOTT: Minha nossa! Ouvi falar de você! De como você arrasou na TORRE DE BATALHA! Você venceu mais de 100 TREINADORES seguidos?\\pIsso é espetacular demais! Você tem que ficar com isto!"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A84A9",
+  "en": "I'll be expecting to hear even greater\\nthings about you now!",
+  "pt": "Agora vou esperar notícias ainda melhores sobre você!"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A84E6",
+  "en": "Oops, well, if you have too much\\nstuff, come back for this later.",
+  "pt": "Opa, bom, se você estiver com coisas demais, volte depois para pegar isto."
+ },
+ {
+  "map": "42.47 NEW DONK CITY",
+  "offset": "02A85E2",
+  "en": "Boo!\\nCheapie!",
+  "pt": "Buu!\\nPão-duro!"
+ },
+ {
+  "map": "42.47 NEW DONK CITY",
+  "offset": "02A8E51",
+  "en": "That's silly! An EGG is asleep!\\nI can't talk to it!",
+  "pt": "Que bobagem! Um OVO está dormindo! Não dá pra falar com ele!"
+ },
+ {
+  "map": "42.47 NEW DONK CITY",
+  "offset": "02A8E85",
+  "en": "How charming!\\nThat little lady claims she can\\lunderstand POKéMON!",
+  "pt": "Que graça! Aquela mocinha diz que consegue entender as CAPTURAS!"
+ },
+ {
+  "map": "42.47 NEW DONK CITY",
+  "offset": "02A8EC7",
+  "en": "I have this feeling that the little girl\\nis saying something profound.",
+  "pt": "Tenho a sensação de que a menininha está dizendo algo profundo."
+ },
+ {
+  "map": "42.47 NEW DONK CITY",
+  "offset": "02A8F0E",
+  "en": "I know something!\\pThat little girl plays at the red house\\na lot!",
+  "pt": "Eu sei de uma coisa!\\pAquela menininha vive brincando na casa vermelha!"
+ },
+ {
+  "map": "42.48 NEW DONK CITY",
+  "offset": "02A8FF0",
+  "en": "My POKéMON is a {STR_VAR_2}.\\nDo you know it?\\lIt's quite cute and rather nice.\\pThis little one, I could trade with\\npride!\\pWould you like to trade me a {STR_VAR_1}\\nfor my {STR_VAR_2}?",
+  "pt": "A minha CAPTURA é um {STR_VAR_2}. Você conhece? É bem fofo e muito simpático.\\pEste pequeno, eu trocaria com orgulho!\\pVocê me daria um {STR_VAR_1} em troca do meu {STR_VAR_2}?"
+ },
+ {
+  "map": "42.48 NEW DONK CITY",
+  "offset": "02A908B",
+  "en": "Oh, it's adorable!\\nThank you!\\lI promise I'll be good to it!\\pOh! I hope you'll be good to\\nmy {STR_VAR_2}, too!",
+  "pt": "Ah, que adorável!\\nObrigada!\\lPrometo que vou cuidar bem dele!\\pAh! Espero que você cuide bem do meu {STR_VAR_2} também!"
+ },
+ {
+  "map": "42.48 NEW DONK CITY",
+  "offset": "02A90F0",
+  "en": "Oh, I'm sorry!\\nI don't intend to trade for anything\\lbut a {STR_VAR_1}.",
+  "pt": "Ah, me desculpe! Não pretendo trocar por nada além de um {STR_VAR_1}."
+ },
+ {
+  "map": "42.48 NEW DONK CITY",
+  "offset": "02A912E",
+  "en": "Oh, you won't?\\nWell, that's fine, too.\\lPlease come visit us again.",
+  "pt": "Ah, não quer?\\nBom, tudo bem também.\\lVolte para nos visitar, por favor."
+ },
+ {
+  "map": "42.48 NEW DONK CITY",
+  "offset": "02A9171",
+  "en": "Giggle!\\nA SKITTY is so much cuter than I had\\limagined. I'm delighted!",
+  "pt": "Hihi! Um SKITTY é muito mais fofo do que eu imaginava. Estou encantada!"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A9860",
+  "en": "Buhahaha!\\pAre you back to learn special and\\nyet cute POKéMON moves?",
+  "pt": "Buhahaha!\\pVoltou pra aprender golpes de CAPTURA especiais e, ao mesmo tempo, fofos?"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A98A4",
+  "en": "Fine, fine, look here!\\nWhich move should I teach?",
+  "pt": "Tá bom, tá bom, olhe aqui! Qual golpe eu devo ensinar?"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A98D6",
+  "en": "The move {STR_VAR_1}, is it?\\nThat will be {STR_VAR_2} Battle Points, okay?",
+  "pt": "O golpe {STR_VAR_1}, é isso? Vai custar {STR_VAR_2} Pontos de Batalha, tá?"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A990F",
+  "en": "Fine, fine, now pick the POKéMON\\nI should teach the move to.",
+  "pt": "Tá bom, tá bom, agora escolha a CAPTURA para quem eu devo ensinar o golpe."
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A994C",
+  "en": "What the…\\nYou haven't got enough Battle Points!",
+  "pt": "Mas o quê… Você não tem Pontos de Batalha suficientes!"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A997C",
+  "en": "Do you see how skilled I am now?\\nI'll take your Battle Points, thanks!",
+  "pt": "Viu como eu sou habilidosa? Vou ficar com os seus Pontos de Batalha, obrigada!"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A99C3",
+  "en": "What's that?\\nYou don't want to…\\pIf you want to see how skilled I am,\\nyou come see me anytime!",
+  "pt": "Como é?\\nVocê não quer…\\pSe quiser ver como eu sou habilidosa, pode vir me ver quando quiser!"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A9A21",
+  "en": "Ihihihi!\\pI know it's hard to see now, but I used\\nto be one fantastic TRAINER.\\pI had a reputation as the most\\ninvincible SWIMMER around, I tell you!\\p… … … … … …\\pWhat's wrong?\\nYou don't believe me.\\pI'm not like that buffoonish woman over\\nthere. I'm actually experienced!\\pI can prove it to you.\\nI can teach your POKéMON hard and\\lyet pretty moves.\\pBut my lessons don't come free.\\nHow about paying for the moves I teach\\lwith a wee bit of Battle Points?",
+  "pt": "Ihihihi!\\pSei que agora é difícil de acreditar, mas eu já fui uma TREINADORA fantástica.\\pEu tinha fama de ser a NADADORA mais invencível da região, viu?\\p… … … … … …\\pO que foi?\\nVocê não acredita em mim.\\pEu não sou como aquela mulher palhaça ali. Eu tenho experiência de verdade!\\pPosso provar. Posso ensinar às suas CAPTURAS golpes fortes e, ao mesmo tempo, bonitos.\\pMas as minhas aulas não são de graça. Que tal pagar pelos golpes que eu ensino com uma pitadinha de Pontos de Batalha?"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A9BE1",
+  "en": "Ihihihi!\\pHave you come to learn hard and\\nyet pretty POKéMON moves?",
+  "pt": "Ihihihi!\\pVeio aprender golpes de CAPTURA fortes e, ao mesmo tempo, bonitos?"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A9C24",
+  "en": "Those ladies, the way they bad-mouth\\neach other, you probably think that\\lthey don't get along.\\pBut if that were true, they wouldn't\\nstay out here together, would they?",
+  "pt": "Do jeito que aquelas senhoras falam mal uma da outra, você deve achar que elas não se dão bem.\\pMas, se fosse verdade, elas não ficariam aqui juntas, não é?"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A9CCC",
+  "en": "When I was just a wee YOUNGSTER,\\nthose ladies were strong and beautiful.\\pThey were idols among us TRAINERS.\\pEven now, age hasn't dulled their\\nabilities.\\pIn fact, their POKéMON moves have\\ngrown even more polished.\\pBut… For some reason, I can't help\\nbut feel this…\\pTime is so cruel…",
+  "pt": "Quando eu era só um GAROTO pequenininho, aquelas senhoras eram fortes e lindas.\\pEram ídolos para nós, TREINADORES.\\pMesmo hoje, a idade não diminuiu as habilidades delas.\\pNa verdade, os golpes das CAPTURAS delas ficaram ainda mais refinados.\\pMas… Por algum motivo, não consigo deixar de sentir isto…\\pO tempo é tão cruel…"
+ }
+]

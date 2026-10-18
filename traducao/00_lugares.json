@@ -1,0 +1,254 @@
+[
+ {
+  "offset": "083629A",
+  "en": "TOAD TOWN",
+  "pt": "CIDADE TOAD",
+  "max_width": 99
+ },
+ {
+  "offset": "08362A4",
+  "en": "PEACH'S CASTLE",
+  "pt": "CASTELO DA PEACH",
+  "max_width": 99
+ },
+ {
+  "offset": "08362F3",
+  "en": "DAISY'S CRUISER",
+  "pt": "CRUZEIRO DA DAISY",
+  "max_width": 99
+ },
+ {
+  "offset": "0836312",
+  "en": "MAIN STREET",
+  "pt": "RUA PRINCIPAL",
+  "max_width": 99
+ },
+ {
+  "offset": "083632C",
+  "en": "JUNGLE VILLAGE",
+  "pt": "VILA DA SELVA",
+  "max_width": 99
+ },
+ {
+  "offset": "0836349",
+  "en": "COMET OBSERVATORY",
+  "pt": "OBSERV. COMETA",
+  "max_width": 99
+ },
+ {
+  "offset": "083635B",
+  "en": "BOWSER'S CASTLE",
+  "pt": "CASTELO DO BOWSER",
+  "max_width": 99
+ },
+ {
+  "offset": "083636B",
+  "en": "MUSHROOM HILL",
+  "pt": "COLINA COGUMELO",
+  "max_width": 99
+ },
+ {
+  "offset": "083638D",
+  "en": "CASTLE GARDENS",
+  "pt": "JARDIM DO CASTELO",
+  "max_width": 99
+ },
+ {
+  "offset": "0836818",
+  "en": "GLITTERING CAVE",
+  "pt": "GRUTA CINTILANTE",
+  "max_width": 99
+ },
+ {
+  "offset": "0836A6E",
+  "en": "NIGHTMARE",
+  "pt": "PESADELO",
+  "max_width": 99
+ },
+ {
+  "offset": "08363C4",
+  "en": "B. CASTLE 1F",
+  "pt": "C. BOWSER 1A",
+  "max_width": 99
+ },
+ {
+  "offset": "08363D1",
+  "en": "B. CASTLE 2F",
+  "pt": "C. BOWSER 2A",
+  "max_width": 99
+ },
+ {
+  "offset": "08363E8",
+  "en": "CASTLE REST AREA",
+  "pt": "DESCANSO CASTELO",
+  "max_width": 99
+ },
+ {
+  "offset": "0836658",
+  "en": "RAINBOW ROAD PEAK",
+  "pt": "PICO RAINBOW ROAD",
+  "max_width": 99
+ },
+ {
+  "offset": "0836732",
+  "en": "SHINY GALAXY",
+  "pt": "GALÁXIA BRILHANTE",
+  "max_width": 99
+ },
+ {
+  "offset": "08367E1",
+  "en": "NEW DONK SEWERS",
+  "pt": "ESGOTOS NEW DONK",
+  "max_width": 99
+ },
+ {
+  "offset": "0836435",
+  "en": "NATURE RESERVE",
+  "pt": "RESERVA NATURAL",
+  "max_width": 99
+ },
+ {
+  "offset": "083662D",
+  "en": "ASHLEY'S HOUSE",
+  "pt": "CASA DA ASHLEY",
+  "max_width": 99
+ },
+ {
+  "offset": "08364AE",
+  "en": "SAFARI ZONE",
+  "pt": "ZONA SAFÁRI",
+  "max_width": 99
+ },
+ {
+  "offset": "08367FB",
+  "en": "BANANA TEMPLE",
+  "pt": "TEMPLO DA BANANA",
+  "max_width": 99
+ },
+ {
+  "offset": "0836B3D",
+  "en": "TOSTARENA APEX",
+  "pt": "ÁPICE TOSTARENA",
+  "max_width": 99
+ },
+ {
+  "offset": "0836B7F",
+  "en": "TOSTARENA TOWER",
+  "pt": "TORRE TOSTARENA",
+  "max_width": 99
+ },
+ {
+  "offset": "0836590",
+  "en": "TOAD TOWN SEWER",
+  "pt": "ESGOTO C. TOAD",
+  "max_width": 99
+ },
+ {
+  "offset": "0836799",
+  "en": "W. 1 UNDERGROUND",
+  "pt": "SUBSOLO M. 1",
+  "max_width": 99
+ },
+ {
+  "offset": "08365F9",
+  "en": "MARIO's PAD",
+  "pt": "CASA DO MARIO",
+  "max_width": 99
+ },
+ {
+  "offset": "08364E7",
+  "en": "ABANDONED SHIP",
+  "pt": "NAVIO ABANDONADO",
+  "max_width": 99
+ },
+ {
+  "offset": "08365EC",
+  "en": "SECRET BASE",
+  "pt": "BASE SECRETA",
+  "max_width": 99
+ },
+ {
+  "offset": "083648A",
+  "en": "UNDERWATER",
+  "pt": "SUBAQUÁTICO",
+  "max_width": 99
+ },
+ {
+  "offset": "08366A7",
+  "en": "WORLD 1-1",
+  "pt": "MUNDO 1-1",
+  "max_width": 99
+ },
+ {
+  "offset": "0836383",
+  "en": "WORLD 1-2",
+  "pt": "MUNDO 1-2",
+  "max_width": 99
+ },
+ {
+  "offset": "083675A",
+  "en": "WORLD 2-1",
+  "pt": "MUNDO 2-1",
+  "max_width": 99
+ },
+ {
+  "offset": "0836764",
+  "en": "WORLD 2-2",
+  "pt": "MUNDO 2-2",
+  "max_width": 99
+ },
+ {
+  "offset": "08366BB",
+  "en": "WORLD 3-1",
+  "pt": "MUNDO 3-1",
+  "max_width": 99
+ },
+ {
+  "offset": "08366C5",
+  "en": "WORLD 4-1",
+  "pt": "MUNDO 4-1",
+  "max_width": 99
+ },
+ {
+  "offset": "0836716",
+  "en": "WORLD 4-2",
+  "pt": "MUNDO 4-2",
+  "max_width": 99
+ },
+ {
+  "offset": "08366CF",
+  "en": "WORLD 5-1",
+  "pt": "MUNDO 5-1",
+  "max_width": 99
+ },
+ {
+  "offset": "08363DE",
+  "en": "WORLD 5-2",
+  "pt": "MUNDO 5-2",
+  "max_width": 99
+ },
+ {
+  "offset": "08365BA",
+  "en": "WORLD 6-1",
+  "pt": "MUNDO 6-1",
+  "max_width": 99
+ },
+ {
+  "offset": "08366B1",
+  "en": "WORLD 6-2",
+  "pt": "MUNDO 6-2",
+  "max_width": 99
+ },
+ {
+  "offset": "08366E1",
+  "en": "WORLD 7-1",
+  "pt": "MUNDO 7-1",
+  "max_width": 99
+ },
+ {
+  "offset": "08363BA",
+  "en": "WORLD 7-2",
+  "pt": "MUNDO 7-2",
+  "max_width": 99
+ }
+]

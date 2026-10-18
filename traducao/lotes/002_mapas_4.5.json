@@ -1,0 +1,1958 @@
+[
+ {
+  "map": "4.5 PEACH'S CASTLE",
+  "offset": "02C7BCC",
+  "en": "I.\\pLOVE.\\pFISHING.\\pSO.\\pMUCH.",
+  "pt": "EU.\\pAMO.\\pPESCAR.\\pDEMAIS.\\pDA CONTA."
+ },
+ {
+  "map": "4.5 PEACH'S CASTLE",
+  "offset": "02C7BE8",
+  "en": "Don't worry about taking my rod. I have\\nmore, MARIO!",
+  "pt": "Não se preocupe por ficar com a minha vara. Eu tenho outras, MARIO!"
+ },
+ {
+  "map": "4.6 PEACH'S CASTLE",
+  "offset": "02C7CA6",
+  "en": "Welcome to the WARP ZONE!",
+  "pt": "Bem-vindo à ZONA WARP!"
+ },
+ {
+  "map": "4.6 PEACH'S CASTLE",
+  "offset": "02C7CC0",
+  "en": "I'm sorry, but we're currently\\nundergoing scheduled pipe maintenance.\\lPlease come back later.",
+  "pt": "Desculpe, mas estamos fazendo a manutenção programada dos canos. Por favor, volte mais tarde."
+ },
+ {
+  "map": "4.6 PEACH'S CASTLE",
+  "offset": "02C7D1E",
+  "en": "Would you like to warp to TOAD TOWN?",
+  "pt": "Quer fazer o warp para a CIDADE TOAD?"
+ },
+ {
+  "map": "4.6 PEACH'S CASTLE",
+  "offset": "02C7D43",
+  "en": "Goodness! Why is there a KOOPA here?!",
+  "pt": "Minha nossa! O que um KOOPA está fazendo aqui?!"
+ },
+ {
+  "map": "4.6 PEACH'S CASTLE",
+  "offset": "02C7D69",
+  "en": "Sheesh…",
+  "pt": "Francamente…"
+ },
+ {
+  "map": "4.6 PEACH'S CASTLE",
+  "offset": "02C7D71",
+  "en": "Not all KOOPAs are loyal to BOWSER…",
+  "pt": "Nem todo KOOPA é leal ao BOWSER…"
+ },
+ {
+  "map": "4.6 PEACH'S CASTLE",
+  "offset": "02C7D95",
+  "en": "Isn't that right, MARIO? You used\\nto travel alongside quite a few KOOPAS\\pin your time!",
+  "pt": "Não é verdade, MARIO? Você já viajou ao lado de vários KOOPAS\\pnos velhos tempos!"
+ },
+ {
+  "map": "4.6 PEACH'S CASTLE",
+  "offset": "02C7DEC",
+  "en": "Welcome to the PEACH'S CASTLE WARP\\nZONE! Can I offer you some\\lrefreshments? We also offer CAPs.",
+  "pt": "Bem-vindo à ZONA WARP do CASTELO DA PEACH! Aceita algo para beber? Também temos CAPs."
+ },
+ {
+  "map": "4.8 PEACH'S CASTLE",
+  "offset": "037EDE5",
+  "en": "I don't think you can BLJ your way to\\nthe PRINCESS this time, MARIO!",
+  "pt": "Acho que desta vez você não vai chegar até a PRINCESA na base do BLJ, MARIO!"
+ },
+ {
+  "map": "4.8 PEACH'S CASTLE",
+  "offset": "037EE2A",
+  "en": "Do you think the PRINCESS patched up\\nthat ultra shortcut through the\\lGARDEN?",
+  "pt": "Será que a PRINCESA corrigiu aquele superatalho pelo JARDIM?"
+ },
+ {
+  "map": "4.9 PEACH'S CASTLE",
+  "offset": "037EF10",
+  "en": "O we ooo I feel just like Toady Holly.",
+  "pt": "Uh-i-uuu, eu me sinto igualzinho ao Toady Holly."
+ },
+ {
+  "map": "4.9 PEACH'S CASTLE",
+  "offset": "037EF37",
+  "en": "You ever seen a YOSHI eat an entire\\nwatermelon and spit out the seeds?\\pJust like this!\\nPTEW! PTEW!\\pI created a TM just so your CAPTURES\\ncan try that too!",
+  "pt": "Já viu um YOSHI comer uma melancia inteira e cuspir as sementes?\\pAssim, ó!\\nPTUI! PTUI!\\pCriei um TM só pra que as suas CAPTURAS também possam fazer isso!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCAB4",
+  "en": "BWAHAHA! The SARASALAND POWER STAR\\nwill be mine!",
+  "pt": "BWAHAHA! A ESTRELA DE PODER de SARASALAND vai ser minha!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCAE5",
+  "en": "MARIO! I'm not surprised my cronies\\ncouldn't hold you back! You better be\\lprepared, because I had KAMEK teach me\\lhow to play your little game! This time\\lI'll win for sure!",
+  "pt": "MARIO! Não me surpreende que os meus capangas não conseguiram te segurar! É bom você estar preparado, porque pedi pro KAMEK me ensinar a jogar esse seu joguinho! Desta vez eu vou ganhar com certeza!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCB98",
+  "en": "BWAHAHA! WHATEVER!\\pThat was just a taste of my true power!\\pYou can have the SARASALAND POWER\\nSTAR!\\pI'm going straight to the next one!",
+  "pt": "BWAHAHA! TANTO FAZ!\\pIsso foi só uma amostra do meu verdadeiro poder!\\pPode ficar com a ESTRELA DE PODER de SARASALAND!\\pEu vou direto atrás da próxima!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCC23",
+  "en": "MARIO, wait up!",
+  "pt": "MARIO, espere aí!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCC41",
+  "en": "Glad I finally caught up to you.\\nTOADSWORTH informed me the Princess\\lgifted you a YOSHI egg? If that's the\\lcase, you'll be needing this.",
+  "pt": "Que bom que finalmente te alcancei. O TOADSWORTH me contou que a Princesa te deu um ovo de YOSHI? Se for isso mesmo, você vai precisar disto."
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCCCA",
+  "en": "This shell will change your YOSHI into a\\nwhole new type! Although, I also heard\\lthere's been some research conducted\\lthat shows if you wait to use one of\\lthese on a YOSHI for too long,\\lsomething else will happen…",
+  "pt": "Este casco vai transformar o seu YOSHI num tipo completamente novo! Mas também ouvi dizer que fizeram umas pesquisas mostrando que, se você demorar demais para usar um destes num YOSHI, outra coisa acontece…"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCD9F",
+  "en": "That's all I really have for you, MARIO.\\nHow's the EXP. SHARE and PORTABLE\\lSTORAGE SYSTEM helping you on your\\lquest? I hope you're making good use of\\lthe devices I've made for you. Now then,\\lhave you seen LUIGI anywhere? I need\\lto give him one of these as well.",
+  "pt": "É tudo o que tenho para você, MARIO. O COMPARTILHAR EXP. e o SISTEMA DE ARMAZENAMENTO PORTÁTIL estão ajudando na sua missão? Espero que esteja fazendo bom uso dos aparelhos que fiz para você. Bem, você viu o LUIGI por aí? Preciso entregar um destes para ele também."
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCEA5",
+  "en": "I'm-a collecting clams for my seafood\\nstew!\\pYummy yummy in my tummy tummy!",
+  "pt": "Tô-a catando mariscos pro meu ensopado de frutos do mar!\\pDelícia, delícia, na minha barriguinha!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCEF0",
+  "en": "The sea…She speaks to me…",
+  "pt": "O mar… Ele fala comigo…"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCF0A",
+  "en": "Welcome to Daisy's Castle…Town?\\pIt doesn't matter, it's paradise here!",
+  "pt": "Bem-vindo à Cidade do Castelo da Daisy… Ou seria Castelo da Cidade?\\pTanto faz, aqui é o paraíso!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCF51",
+  "en": "PRINCESS DAISY did a lot to beautify\\nthe coast!\\pIt's so, well, beautiful!",
+  "pt": "A PRINCESA DAISY fez muito para embelezar o litoral!\\pFicou tão, bom, lindo!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCF9B",
+  "en": "Hey MARIO, when's your next Grand Prix?\\nI bought myself a house right here on\\lthe circuit to watch you zoom!",
+  "pt": "Ei, MARIO, quando é o seu próximo Grand Prix? Comprei uma casa bem aqui no circuito só pra te ver passar voando!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CD008",
+  "en": "Mom said I should put down the GameBoy\\nand go outside to touch grass. I told\\lher I'd only do one of those things, and\\lI can't put down SUPER MARIO BROS. 3!",
+  "pt": "Minha mãe disse pra eu largar o GameBoy e ir lá fora tocar na grama. Eu disse que só faria uma dessas coisas, e não dá pra largar SUPER MARIO BROS. 3!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CD0A4",
+  "en": "You'll be able to buy more useful items\\nin the MARTS when you earn more POWER\\lSTARS!",
+  "pt": "Você vai poder comprar itens mais úteis nas LOJAS quando ganhar mais ESTRELAS DE PODER!"
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CD0F9",
+  "en": "PRINCESS DAISY uses GROUND-type\\nCAPTURES! It's best to come prepared\\lwith some WATER or GRASS-type\\lCAPTURES to counter her!",
+  "pt": "A PRINCESA DAISY usa CAPTURAS do tipo TERRESTRE! É melhor vir preparado com algumas CAPTURAS do tipo ÁGUA ou PLANTA pra enfrentá-la!"
+ },
+ {
+  "map": "5.2 LAVARIDGE TOWN",
+  "offset": "02CD216",
+  "en": "I might sprain my ankle if I keep this\\nup.",
+  "pt": "Desse jeito eu ainda vou torcer o tornozelo."
+ },
+ {
+  "map": "5.2 LAVARIDGE TOWN",
+  "offset": "02CD269",
+  "en": "You'll find nothing but us commanders if\\nyou keep falling!",
+  "pt": "Se continuar caindo, você só vai encontrar a gente, os comandantes!"
+ },
+ {
+  "map": "5.2 LAVARIDGE TOWN",
+  "offset": "02CD2F3",
+  "en": "Don't forget to hydrate!",
+  "pt": "Não se esqueça de se hidratar!"
+ },
+ {
+  "map": "5.2 LAVARIDGE TOWN",
+  "offset": "02CD338",
+  "en": "Now I'm lost with no friends.",
+  "pt": "Agora estou perdido e sem amigos."
+ },
+ {
+  "map": "5.3 LAVARIDGE TOWN",
+  "offset": "02CD4A0",
+  "en": "Heeeeey MARIO!",
+  "pt": "Oiiiiiê, MARIO!"
+ },
+ {
+  "map": "5.3 LAVARIDGE TOWN",
+  "offset": "02CD4AF",
+  "en": "Welcome to SARASALAND! Hope you like\\nwhat I've done to the place, really\\lneeded to liven it up with some grass!\\pAnyway, I hope you're ready for a\\nchallenge!\\pWhat? Oh, we're not battling right now!\\nYou'll need to pass through my dungeon\\lfirst! Head towards the door over there\\lto enter.\\pI'll see you at the bottom!",
+  "pt": "Bem-vindo a SARASALAND! Espero que goste do que fiz com o lugar, precisava mesmo dar uma animada com um pouco de grama!\\pEnfim, espero que esteja pronto para um desafio!\\pO quê? Ah, a gente não vai lutar agora! Primeiro você precisa atravessar a minha masmorra! Vá até aquela porta ali para entrar.\\pTe vejo lá embaixo!"
+ },
+ {
+  "map": "5.3 LAVARIDGE TOWN",
+  "offset": "02CD5E9",
+  "en": "That was a great battle, MARIO! You\\nshould head back on over to the WARP\\lZONE, I hear the pipes to WORLD 3 and 4\\lare finally open!",
+  "pt": "Que batalha incrível, MARIO! Volte pra ZONA WARP, ouvi dizer que os canos para os MUNDOS 3 e 4 finalmente abriram!"
+ },
+ {
+  "map": "5.4 LAVARIDGE TOWN",
+  "offset": "02CD77D",
+  "en": "Ready to head back up?",
+  "pt": "Pronto para voltar lá pra cima?"
+ },
+ {
+  "map": "5.4 LAVARIDGE TOWN",
+  "offset": "02CD794",
+  "en": "Hold on!",
+  "pt": "Espere!"
+ },
+ {
+  "map": "5.4 LAVARIDGE TOWN",
+  "offset": "02CD79D",
+  "en": "You'd rather take the long way? Suit\\nyourself, I guess.",
+  "pt": "Prefere ir pelo caminho mais longo? Você que sabe."
+ },
+ {
+  "map": "5.4 LAVARIDGE TOWN",
+  "offset": "02CD88C",
+  "en": "Pfft HAHAHAH! You're a riot MARIO! I'm\\nnot surprised to lose to you, even in\\lthe slightest.\\pYou did give me the toughest battle\\nyet, that's for sure!\\pYou've earned this!",
+  "pt": "Pfff HAHAHAH! Você é demais, MARIO! Não me surpreende nem um pouco perder pra você.\\pMas eu te dei a batalha mais difícil até agora, isso com certeza!\\pVocê mereceu isto!"
+ },
+ {
+  "map": "5.4 LAVARIDGE TOWN",
+  "offset": "02CD936",
+  "en": "MARIO received the SARASALAND POWER\\nSTAR!",
+  "pt": "MARIO recebeu a ESTRELA DE PODER de SARASALAND!"
+ },
+ {
+  "map": "5.4 LAVARIDGE TOWN",
+  "offset": "02CD960",
+  "en": "One more thing before you hit the road!",
+  "pt": "Mais uma coisa antes de você pegar a estrada!"
+ },
+ {
+  "map": "5.4 LAVARIDGE TOWN",
+  "offset": "02CD988",
+  "en": "That TM is for the move Bulldoze! Use it\\nto crash through your enemies!\\pWelp, that's it for me. If I got this\\nright, you can start heading to WORLD 3\\lor WORLD 4 now.\\pThe WARP ZONE in town can take you over\\nimmediately!\\pGood luck out there!",
+  "pt": "Esse TM é do golpe Tremor! Use pra passar por cima dos seus inimigos!\\pBom, é isso. Se eu entendi direito, agora você já pode ir para o MUNDO 3 ou para o MUNDO 4.\\pA ZONA WARP da cidade te leva até lá na hora!\\pBoa sorte por aí!"
+ },
+ {
+  "map": "5.4 LAVARIDGE TOWN",
+  "offset": "02CDA78",
+  "en": "By the way, would you like to head back\\nup?",
+  "pt": "Aliás, quer voltar lá pra cima?"
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDBBA",
+  "en": "Why is it hiding? Nah it's just sleepy!\\nJust wake it up in battle!",
+  "pt": "Por que ele está se escondendo? Que nada, ele só está com sono! É só acordá-lo numa batalha!"
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDBFD",
+  "en": "Hey MARIO!\\nBoy do I have a deal for you!\\pWhat I have will blow your mind and\\nyou'll surely not want to pass it up!\\pAre you listening?\\pIt's a one…\\pextremely rare…\\pextremely powerful…\\p{STR_VAR_1}!\\pYou heard me right! I have a fresh,\\nultra rare {STR_VAR_1} that I'M\\lgraciously willing to sell to you for a\\lgenerous 500 coins!\\pWhat do you say?\\nBuy my {STR_VAR_1} for 500 COINS?",
+  "pt": "Ei, MARIO!\\nTenho uma oferta e tanto pra você!\\pO que eu tenho vai explodir a sua cabeça e você com certeza não vai querer deixar passar!\\pTá me ouvindo?\\pÉ um…\\pextremamente raro…\\pextremamente poderoso…\\p{STR_VAR_1}!\\pIsso mesmo! Tenho aqui um {STR_VAR_1} fresquinho e ultrarraro que EU, muito generosamente, estou disposto a te vender por generosas 500 moedas!\\pE aí, o que me diz?\\nCompra o meu {STR_VAR_1} por 500 MOEDAS?"
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDD58",
+  "en": "Hey! You don't even have enough money!",
+  "pt": "Ei! Você nem tem dinheiro suficiente!"
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDD7F",
+  "en": "That's my MARIO! I'll be taking that!",
+  "pt": "Esse é o meu MARIO! Vou ficar com isso!"
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDDA5",
+  "en": "MARIO gave 500 COINS to the FISHERMAN.",
+  "pt": "MARIO deu 500 MOEDAS ao PESCADOR."
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDDCC",
+  "en": "And here's your bona fide ultrarare and\\nuseful {STR_VAR_1}! Cherish it well!\\lOr don't! I can't really care less now!",
+  "pt": "E aqui está o seu legítimo, ultrarraro e útil {STR_VAR_1}! Cuide bem dele! Ou não! Agora eu não podia ligar menos!"
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDE38",
+  "en": "MARIO received {STR_VAR_1}!",
+  "pt": "MARIO recebeu {STR_VAR_1}!"
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDE4B",
+  "en": "{STR_VAR_1} was sent to the PC.",
+  "pt": "{STR_VAR_1} foi para o PC."
+ },
+ {
+  "map": "5.5 CLOUD CAP",
+  "offset": "02CDE62",
+  "en": "BAH! You don't know the kind of deal\\nyou're missing here!",
+  "pt": "BAH! Você não sabe a oferta que está perdendo!"
+ },
+ {
+  "map": "5.7 LAVARIDGE TOWN",
+  "offset": "02CDF01",
+  "en": "Full? Already? A lot of people must've\\ntraveled to SARASALAND now that the\\lC.A.P. CHALLENGE is under way and\\lprincess DAISY is participating.",
+  "pt": "Lotado? Já? Deve ter muita gente vindo para SARASALAND agora que o DESAFIO C.A.P. começou e a princesa DAISY está participando."
+ },
+ {
+  "map": "5.8 CLOUD CAP",
+  "offset": "02CE0B9",
+  "en": "Hey, MARIO. I hope the TM I gave you is\\ncoming in handy.",
+  "pt": "Oi, MARIO. Espero que o TM que te dei esteja sendo útil."
+ },
+ {
+  "map": "5.8 CLOUD CAP",
+  "offset": "02CE0F2",
+  "en": "My sister worries too much. There's no\\nway DAISY would let BOWSER anywhere\\lnear us!",
+  "pt": "Minha irmã se preocupa demais. A DAISY nunca deixaria o BOWSER chegar nem perto da gente!"
+ },
+ {
+  "map": "5.9 CLOUD CAP",
+  "offset": "02CE253",
+  "en": "Those LUREs should help you attract\\nmore critters when you're out and\\labout. Give it a try!",
+  "pt": "Essas ISCAS devem ajudar você a atrair mais bichinhos quando estiver por aí. Experimente!"
+ },
+ {
+  "map": "5.9 CLOUD CAP",
+  "offset": "02CE2AF",
+  "en": "SARASALAND is just perfect for fishing,\\ndon't you agree? Personally I like to\\luse a LURE to aid in my fishing. Why\\ldon't you take some?",
+  "pt": "SARASALAND é perfeita para pescar, não acha? Eu gosto de usar uma ISCA para me ajudar na pescaria. Por que você não leva algumas?"
+ },
+ {
+  "map": "5.9 CLOUD CAP",
+  "offset": "02CE337",
+  "en": "That should help you attract more\\ncritters when you're out and about.\\lGive it a try!",
+  "pt": "Isso deve ajudar você a atrair mais bichinhos quando estiver por aí. Experimente!"
+ },
+ {
+  "map": "5.9 CLOUD CAP",
+  "offset": "02CE38C",
+  "en": "Yup… Fishing in SARASALAND is just\\nperfect.",
+  "pt": "Pois é… Pescar em SARASALAND é simplesmente perfeito."
+ },
+ {
+  "map": "5.10 CLOUD CAP",
+  "offset": "02CE427",
+  "en": "Yeah, yeah Grandpa. This is the\\nmillionth time you've told the council\\lstory. Tell me about literally anything\\lelse please.",
+  "pt": "Tá, tá, vovô. É a milionésima vez que você me conta a história do conselho. Me conta literalmente qualquer outra coisa, por favor."
+ },
+ {
+  "map": "5.11 CLOUD CAP",
+  "offset": "02CE4E4",
+  "en": "Shhh… don't tell my wife that I got some\\nspecial BERRIES to help with her battle\\lagainst DAISY.\\pI'll give you one if you promise to keep\\nquiet!",
+  "pt": "Psiu… não conta pra minha esposa que eu consegui umas FRUTAS especiais pra ajudar na batalha dela contra a DAISY.\\pTe dou uma se prometer ficar quieto!"
+ },
+ {
+  "map": "5.11 CLOUD CAP",
+  "offset": "02CE574",
+  "en": "I can't wait to see the look on her face\\nwhen I hand her a box of these!",
+  "pt": "Mal posso esperar pra ver a cara dela quando eu entregar uma caixa disto!"
+ },
+ {
+  "map": "5.11 CLOUD CAP",
+  "offset": "02CE5BD",
+  "en": "My wife loves it here! I gotta get that\\nPOWER STAR from DAISY to ensure her\\lhappiness! I better find ways to\\lprepare to deal with GROUND-type\\lenemies…",
+  "pt": "Minha esposa ama este lugar! Eu preciso conseguir aquela ESTRELA DE PODER da DAISY pra garantir a felicidade dela! É melhor eu achar um jeito de me preparar contra inimigos do tipo TERRESTRE…"
+ },
+ {
+  "map": "5.12 LAVARIDGE TOWN",
+  "offset": "02CE69D",
+  "en": "Would you like to warp to TOAD TOWN?",
+  "pt": "Quer fazer o warp para a CIDADE TOAD?"
+ },
+ {
+  "map": "5.13 LAVARIDGE TOWN",
+  "offset": "02CE780",
+  "en": "Goodness… This TOAD's art may be\\nincredible, but their personality most\\lcertainly is not. Why did I ever agree to\\ltravel with him?",
+  "pt": "Francamente… A arte deste TOAD pode até ser incrível, mas a personalidade dele certamente não é. Por que fui aceitar viajar com ele?"
+ },
+ {
+  "map": "5.14 LAVARIDGE TOWN",
+  "offset": "02CE81C",
+  "en": "Oh dear… I can't seem to find the way to\\nmy room.",
+  "pt": "Ai, ai… Não consigo achar o caminho para o meu quarto."
+ },
+ {
+  "map": "5.14 LAVARIDGE TOWN",
+  "offset": "02CE84E",
+  "en": "Hoo hah! I'm training to take on\\nprincess DAISY's challenge for a POWER\\lSTAR!",
+  "pt": "Hu-há! Estou treinando para encarar o desafio da princesa DAISY por uma ESTRELA DE PODER!"
+ },
+ {
+  "map": "5.15 LAVARIDGE TOWN",
+  "offset": "02CE97D",
+  "en": "SNARKY BOY: Um, acktually, MARIO's\\nlatest achievement was starring in a\\lmovie. How could you not know that?",
+  "pt": "GAROTO ESPERTINHO: Hã, na verdade, a conquista mais recente do MARIO foi estrelar um filme. Como você não sabe disso?"
+ },
+ {
+  "map": "5.15 LAVARIDGE TOWN",
+  "offset": "02CE9E9",
+  "en": "Be quiet, Timmy! Why are you always\\ntrying to rain on my parade?",
+  "pt": "Fica quieto, Timmy! Por que você sempre tem que estragar a minha alegria?"
+ },
+ {
+  "map": "5.15 LAVARIDGE TOWN",
+  "offset": "02CEA2A",
+  "en": "SNARKY BOY: Oh hey, MARIO. Yeah, I know\\nwho you are. And no, I'm not nervous or\\lanything like that. I just wanted to\\ltell you to not listen to anything my\\lsister may say to you, she's a fake\\lMARIO fan.",
+  "pt": "GAROTO ESPERTINHO: Ah, oi, MARIO. É, eu sei quem você é. E não, eu não estou nervoso nem nada do tipo. Só queria te dizer pra não dar ouvidos a nada que a minha irmã disser, ela é uma fã falsa do MARIO."
+ },
+ {
+  "map": "5.15 LAVARIDGE TOWN",
+  "offset": "02CEAF4",
+  "en": "Honestly you two, stop fighting\\nalready… Dear, can't you do something\\labout them?",
+  "pt": "Sinceramente, vocês dois, parem de brigar… Querido, você não pode fazer alguma coisa?"
+ },
+ {
+  "map": "5.15 LAVARIDGE TOWN",
+  "offset": "02CEB46",
+  "en": "Now now, you two. If you don't stop\\nbickering, we won't make it in time for\\lthe new MARIO movie!",
+  "pt": "Pronto, pronto, vocês dois. Se não pararem de discutir, a gente não vai chegar a tempo pro novo filme do MARIO!"
+ },
+ {
+  "map": "5.15 LAVARIDGE TOWN",
+  "offset": "02CEBA7",
+  "en": "Oh my goodness make it stop…",
+  "pt": "Minha nossa, alguém faça isso parar…"
+ },
+ {
+  "map": "5.15 LAVARIDGE TOWN",
+  "offset": "02CEBC4",
+  "en": "The family in the next room over won't\\nstop bickering about MARIO… I have to\\lwonder if they ever get along.",
+  "pt": "A família do quarto ao lado não para de discutir sobre o MARIO… Fico me perguntando se eles se dão bem algum dia."
+ },
+ {
+  "map": "5.16 LAVARIDGE TOWN",
+  "offset": "02CED0B",
+  "en": "Good luck collecting the POWER STARS,\\nMARIO! I'll be rooting for you!",
+  "pt": "Boa sorte coletando as ESTRELAS DE PODER, MARIO! Vou torcer por você!"
+ },
+ {
+  "map": "5.17 CLOUD CAP",
+  "offset": "02CEDA4",
+  "en": "How may I serve you?",
+  "pt": "Em que posso ajudar?"
+ },
+ {
+  "map": "5.17 CLOUD CAP",
+  "offset": "02CEDB9",
+  "en": "Please come again.",
+  "pt": "Volte sempre."
+ },
+ {
+  "map": "5.17 CLOUD CAP",
+  "offset": "02CEDCC",
+  "en": "Gee, these marts sure are useful… I\\ndon't know what we'd do without them.",
+  "pt": "Puxa, essas lojas são mesmo úteis… Não sei o que a gente faria sem elas."
+ },
+ {
+  "map": "5.17 CLOUD CAP",
+  "offset": "02CEE16",
+  "en": "I'm stumped… I could use some more\\nC.A.Ps to help fill out my party, but I\\lalso need more MUSHROOMS…",
+  "pt": "Estou num dilema… Eu queria mais CAPs pra completar a minha equipe, mas também preciso de mais COGUMELOS…"
+ },
+ {
+  "map": "5.17 CLOUD CAP",
+  "offset": "02CEE7B",
+  "en": "You can get anything at a mart, even\\nMAIL!",
+  "pt": "Dá pra comprar de tudo numa loja, até CARTAS!"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF0B8",
+  "en": "Meanwhile…",
+  "pt": "Enquanto isso…"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF117",
+  "en": "One…two…three…oh, now I have to start\\nover again!",
+  "pt": "Um… dois… três… ah, agora vou ter que começar de novo!"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF149",
+  "en": "All the bugs love me!",
+  "pt": "Todos os insetos me adoram!"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF15F",
+  "en": "You squished my bugs! How could you!",
+  "pt": "Você esmagou os meus insetos! Como pôde?!"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF184",
+  "en": "Do you think all the bugs are attracted\\nto my leaves?",
+  "pt": "Será que todos os insetos são atraídos pelas minhas folhas?"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF1E1",
+  "en": "Stay hydrated with fresh water. I know\\nthe coast looks tasty, but don't drink\\lit. Trust me, I tried.",
+  "pt": "Mantenha-se hidratado com água fresca. Eu sei que o mar parece gostoso, mas não beba. Pode confiar, eu tentei."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF27F",
+  "en": "Truth be told I'm afraid of big cities.",
+  "pt": "Pra falar a verdade, eu tenho medo de cidade grande."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF2F0",
+  "en": "It's hard to get some practice around\\nhere. Especially when trying to beat\\lyour ghost.",
+  "pt": "É difícil treinar por aqui. Ainda mais quando estou tentando vencer o meu fantasma."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF347",
+  "en": "I remember when,\\pI caught a glimpse of something\\nshimmering,\\pof a Mohs hardness scale value of 10,\\pcubic crystal structure unlike any\\nother.",
+  "pt": "Eu me lembro de quando\\pvi de relance algo cintilante,\\pcom valor 10 na escala de dureza de Mohs,\\pde estrutura cristalina cúbica como nenhuma outra."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF3D4",
+  "en": "WARIO loves to talk big, especially like\\nhe owns DIAMOND CITY. He's got friends\\leverywhere, with connections to all\\lsorts of…things…",
+  "pt": "O WARIO adora contar vantagem, principalmente como se fosse o dono de DIAMOND CITY. Ele tem amigos em todo canto, com contatos em todo tipo de… coisa…"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF459",
+  "en": "The beach holds tons of secrets. Don't\\nbe afraid to dig in the sand or poke\\laround rocks.",
+  "pt": "A praia guarda muitos segredos. Não tenha medo de cavar na areia ou de fuçar pelas pedras."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF4B3",
+  "en": "My mind is a temple and a steel trap. No\\none can ever learn my secrets.\\pHow'd I become so zen? This TRAINING\\nMODULE for IMPRISON taught me\\leverything, and now I don't need it\\lanymore.",
+  "pt": "Minha mente é um templo e um cofre. Ninguém jamais vai descobrir os meus segredos.\\pComo fiquei tão zen? Este MÓDULO DE TREINO de APRISIONAR me ensinou tudo, e agora não preciso mais dele."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF56B",
+  "en": "WARIO has the strangest food requests.\\nTonight, he asked for fresh caught sea\\lgarlic.\\pI don't know what that is, so I'm here to\\npretend I'm picking up whatever that is.",
+  "pt": "O WARIO faz os pedidos de comida mais estranhos. Hoje à noite, ele pediu alho-do-mar fresquinho.\\pEu nem sei o que é isso, então vim aqui fingir que estou pegando seja lá o que for."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF614",
+  "en": "The Pianta sleeps peacefully on the\\ncliff side…\\pzzz… SLEEP TALK? zzz…",
+  "pt": "O Pianta dorme tranquilo à beira do penhasco…\\pzzz… FALAR DORMINDO? zzz…"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF65A",
+  "en": "zzz… which CAPTURE? zzz…",
+  "pt": "zzz… qual CAPTURA? zzz…"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF673",
+  "en": "zzz…",
+  "pt": "zzz…"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF678",
+  "en": "Isn't the beach beautiful? The sand is\\nalso a really nice temperature, it's\\lnice.",
+  "pt": "A praia não é linda? A areia também está numa temperatura muito boa, que delícia."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF6CA",
+  "en": "Enjoying the beauty of 3-1? Between\\nthe ocean and DIAMOND CITY's skyline,\\lthere's a lot to see.",
+  "pt": "Curtindo a beleza do 3-1? Entre o oceano e os prédios de DIAMOND CITY, tem muita coisa pra ver."
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF72A",
+  "en": "Kehehehe… DIAMOND CITY is the perfect\\ntarget! They're all already so busy with\\lWARIO, they'll never suspect another\\lthief!",
+  "pt": "Kehehehe… DIAMOND CITY é o alvo perfeito! Estão todos tão ocupados com o WARIO que nunca vão suspeitar de outro ladrão!"
+ },
+ {
+  "map": "6.0 WORLD 3-1",
+  "offset": "02CF7A5",
+  "en": "Hey, heading to DIAMOND CITY? It's just\\nover there.\\pMe? I'm just growing a little garden,\\naway from the hustle and bustle of the\\lcity.",
+  "pt": "Ei, indo para DIAMOND CITY? Fica logo ali.\\pEu? Só estou cultivando uma hortinha, longe da agitação da cidade."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0DD7",
+  "en": "DIAMOND CITY - {COLOR 05}WARIOWARE, INC.{COLOR 02}\\pTourists should check out the PURPLE\\nareas{COLOR 02}!",
+  "pt": "DIAMOND CITY - {COLOR 05}WARIOWARE, INC.{COLOR 02}\\pOs turistas devem conferir as áreas ROXAS{COLOR 02}!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0E2B",
+  "en": "KER-CLUNK!",
+  "pt": "CLANC!",
+  "max_width": 64
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0E36",
+  "en": "It seems the doors are locked…",
+  "pt": "Parece que as portas estão trancadas…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0E55",
+  "en": "Welcome to DIAMOND CITY!",
+  "pt": "Bem-vindo a DIAMOND CITY!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0E6E",
+  "en": "Hope you're having a good time\\nexploring DIAMOND CITY, MARIO!",
+  "pt": "Espero que esteja se divertindo explorando DIAMOND CITY, MARIO!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0EAC",
+  "en": "Hey wait a minute, you seem to be one of\\nthose people who are competing in the\\lcurrent challenge for POWER STARS, am I\\lcorrect? In that case, mind if I ask you\\la few things for a show I'm doing?",
+  "pt": "Ei, espere um pouco, você parece ser uma das pessoas que estão competindo no desafio atual pelas ESTRELAS DE PODER, certo? Nesse caso, se importa se eu fizer umas perguntas para um programa que estou fazendo?"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0F6F",
+  "en": "Great! Let's get started then.",
+  "pt": "Ótimo! Então vamos começar."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0F8E",
+  "en": "Aw, changed your mind? That's fine, I\\nsuppose. I'll be here if you decide you\\lwanna do the interview after all.",
+  "pt": "Ah, mudou de ideia? Tudo bem, eu acho. Vou estar aqui se você decidir fazer a entrevista, afinal."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0FFE",
+  "en": "Great, thanks a lot… MARIO?! Oh wow, I\\ndidn't realize it was you! Although, I\\lguess the overalls and mustache\\lshould've given it away… But last time I\\lmade that mistake, it ended up being\\lyour brother, LUIGI! Well I hope you\\lenjoy your stay in DIAMOND CITY, MARIO!",
+  "pt": "Ótimo, muito obrigado… MARIO?! Nossa, não percebi que era você! Bom, acho que o macacão e o bigode deviam ter me entregado… Mas da última vez que cometi esse erro, acabou sendo o seu irmão, o LUIGI! Bom, espero que aproveite a estadia em DIAMOND CITY, MARIO!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1107",
+  "en": "I'll be here if you decide you wanna do\\nthe interview after all.",
+  "pt": "Vou estar aqui se você decidir fazer a entrevista, afinal."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1148",
+  "en": "Weeeeee! There sure is a lot of\\ndifferent… ehn-vi-rohn-ments in\\lDIAMOND CITY for me to play in!",
+  "pt": "Iuuuuupi! Tem um monte de… am-bi-en-tes diferentes em DIAMOND CITY pra eu brincar!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D11A8",
+  "en": "Temporary fight location for RBY meme",
+  "pt": "Local temporário de luta para o meme de RBY"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D11E1",
+  "en": "Please come back after defeating\\nAshley, Penny, and Jimmy T.",
+  "pt": "Volte depois de derrotar Ashley, Penny e Jimmy T."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D121E",
+  "en": "Wario",
+  "pt": "Wario"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1224",
+  "en": "Wario Defeated",
+  "pt": "Wario derrotado"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1237",
+  "en": "MARIO! STOP RIGHT THERE!!",
+  "pt": "MARIO! PARADO AÍ!!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1251",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1258",
+  "en": "You've got some nerve showing your\\nface around here!\\pI've plotted my course around the\\nKINGDOMS perfectly with KAMEK, and you\\ljust so happen to be EXACTLY where I\\lam?!\\pCoincidence?\\pI DON'T THINK SO!!\\pI know you're trying to get under my\\nshell, and I WON'T HAVE it!",
+  "pt": "Você tem muita cara de pau de aparecer por aqui!\\pTracei a minha rota pelos REINOS com perfeição junto com o KAMEK, e você calha de estar EXATAMENTE onde eu estou?!\\pCoincidência?\\pACHO QUE NÃO!!\\pEu sei que você quer me tirar do casco, e EU NÃO VOU PERMITIR!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1361",
+  "en": "FIGHT ME!",
+  "pt": "LUTE JÁ!",
+  "max_width": 55
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D136B",
+  "en": "{FONT 00}in a way that complies to the rules of\\nthis stupid game…{FONT 01}",
+  "pt": "{FONT 00}de um jeito que siga as regras deste joguinho idiota…{FONT 01}"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D13AA",
+  "en": "SO I CAN SHOW EVERYONE WHO'S THE BEST!!",
+  "pt": "PRA EU MOSTRAR A TODO MUNDO QUEM É O MELHOR!!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1400",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1406",
+  "en": "MAAAAAAAARIIIIOOOOOOO!",
+  "pt": "MAAAAAAAARIIIIOOOOOOO!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D141D",
+  "en": "Boy, am I glad to see you!\\pWhat are you doing here?",
+  "pt": "Puxa, como estou feliz em te ver!\\pO que você está fazendo aqui?"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1451",
+  "en": "Oh you're going into the haunted\\nmansion?\\pY-you don't say!\\pI don't suppose you need your…",
+  "pt": "Ah, você vai entrar na mansão mal-assombrada?\\pN-não me diga!\\pImagino que você não precise do seu…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D14AB",
+  "en": "…gulp…",
+  "pt": "…glup…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D14B2",
+  "en": "…brother?",
+  "pt": "…irmão?"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D14BC",
+  "en": "Ah…\\nerm…",
+  "pt": "Ah…\\nhã…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D14C5",
+  "en": "Let's battle!\\nNow!",
+  "pt": "Vamos lutar!\\nAgora!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D14D8",
+  "en": "Jeepers creepers!\\nWait a second…",
+  "pt": "Minha nossa senhora!\\nEspera aí…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D14F9",
+  "en": "Oh, ok!\\nPhew!\\pYou can handle it yourself, I trust you!\\pAnyway, to prove that I could\\nTOOOOOOTALLY go inside if I wanted to,\\llet's battle!",
+  "pt": "Ah, tá bom!\\nUfa!\\pVocê dá conta sozinho, eu confio em você!\\pEnfim, pra provar que eu TOOOOOOTALMENTE entraria se quisesse, vamos lutar!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1583",
+  "en": "BWAHAHAHAHAHAHAHAHAHA!!!!!\\pYou think I'm going to get upset\\nbecause I lost in your stupid little\\lgame?\\pWELL I WON'T!\\pEVERYTHING IS GOING ACCORDING TO\\nPLAN!!\\pTHE PLAN THAT YOU DON'T KNOW ABOUT!!!\\pMY PLAN TO CHEAT THIS GAME AND GET MY\\nWISH BEFORE YOU DO!!!!",
+  "pt": "BWAHAHAHAHAHAHAHAHAHA!!!!!\\pVocê acha que eu vou ficar chateado porque perdi no seu joguinho idiota?\\pPOIS NÃO VOU!\\pESTÁ TUDO SAINDO CONFORME O PLANO!!\\pO PLANO QUE VOCÊ NÃO CONHECE!!!\\pO MEU PLANO DE TRAPACEAR NESTE JOGO E REALIZAR O MEU DESEJO ANTES DE VOCÊ!!!!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1683",
+  "en": "HUFF… PUFF… HUFF… PUFF… HUFF… PUFF…\\nHUFF… PUFF…",
+  "pt": "UFA… PUF… UFA… PUF… UFA… PUF…\\nUFA… PUF…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D16B9",
+  "en": "What he meant to say was…",
+  "pt": "O que ele quis dizer foi…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D16D3",
+  "en": "Boy, you really know how to fight!\\pIt looks like you don't need your\\nbrother in there with you!",
+  "pt": "Puxa, você sabe mesmo lutar!\\pParece que você não precisa do seu irmão lá dentro com você!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1735",
+  "en": "Ok, I guess I'll see you around, bro!",
+  "pt": "Tá bom, acho que a gente se vê por aí, mano!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D175B",
+  "en": "You are all so loud.",
+  "pt": "Vocês são todos tão barulhentos."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1770",
+  "en": "Come on, I don't have all day.",
+  "pt": "Anda logo, não tenho o dia todo."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D178F",
+  "en": "It seems you can hear voices from\\ninside…",
+  "pt": "Parece que dá pra ouvir vozes lá dentro…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D17B9",
+  "en": "WAHAHAHAHA!",
+  "pt": "WAHAHAHAHA!",
+  "max_width": 70
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D17C5",
+  "en": "It seems the door is locked with a\\npasscode requiring three keywords…",
+  "pt": "Parece que a porta está trancada com uma senha que exige três palavras-chave…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D180B",
+  "en": "You inputted the three keywords you\\nreceived from JIMMY T., PENNY, and\\lASHLEY…",
+  "pt": "Você digitou as três palavras-chave que recebeu do JIMMY T., da PENNY e da ASHLEY…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D185A",
+  "en": "WARIO",
+  "pt": "WARIO",
+  "max_width": 36
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1860",
+  "en": "GONNA",
+  "pt": "VENCE",
+  "max_width": 36
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1866",
+  "en": "WIN",
+  "pt": "TUDO",
+  "max_width": 24
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D186A",
+  "en": "…CLICK!",
+  "pt": "…CLIQUE!",
+  "max_width": 46
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1872",
+  "en": "The door opened!",
+  "pt": "A porta se abriu!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1883",
+  "en": "Seems you still don't have all three\\nwords needed to open the door…",
+  "pt": "Parece que você ainda não tem as três palavras necessárias para abrir a porta…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D18C7",
+  "en": "Hey you! Where do you think you're\\ngoing? This here is ASHLEY's house! And\\lI don't recall any mustached\\lindividuals being invited!",
+  "pt": "Ei, você! Aonde pensa que vai? Esta aqui é a casa da ASHLEY! E eu não me lembro de nenhum bigodudo ter sido convidado!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D194A",
+  "en": "Hey there! Have you seen JIMMY T.\\nanywhere? He's usually over here at\\lCLUB SUGAR right about now, livening up\\lthe dance floor. But I can't seem to\\lfind him today…",
+  "pt": "Olá! Você viu o JIMMY T. por aí? Ele costuma estar aqui no CLUB SUGAR a esta hora, animando a pista de dança. Mas hoje não consigo encontrá-lo…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D19ED",
+  "en": "Sorry, but DIAMOND ACADEMY seems to be\\nwithout power currently. As such, the\\ldoors are stuck locked.",
+  "pt": "Desculpe, mas a DIAMOND ACADEMY está sem energia no momento. Por isso, as portas estão travadas."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1A52",
+  "en": "CLUB SUGAR",
+  "pt": "CLUB SUGAR",
+  "max_width": 63
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1A5D",
+  "en": "ASHLEY'S HOUSE",
+  "pt": "CASA DA ASHLEY",
+  "max_width": 84
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1A6C",
+  "en": "DIAMOND CITY ACADEMY",
+  "pt": "DIAMOND CITY ACADEMY"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1A81",
+  "en": "The beach provides good resistance\\ntraining for the annual DIAMOND CITY\\lTRIATHLON.",
+  "pt": "A praia é ótima para treinar resistência para o TRIATLO anual de DIAMOND CITY."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1AD4",
+  "en": "The DIAMOND COAST has beautifully soft\\nsand. Take your shoes off and relish in\\lit.",
+  "pt": "A DIAMOND COAST tem uma areia maravilhosamente macia. Tire os sapatos e aproveite."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1B27",
+  "en": "WARIO isn't the Mayor of DIAMOND CITY,\\nbut he loves to act like he is.",
+  "pt": "O WARIO não é o prefeito de DIAMOND CITY, mas adora agir como se fosse."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1B6E",
+  "en": "The longer you live here, the more you\\nsee how weird and eccentric everyone\\lis.",
+  "pt": "Quanto mais tempo você mora aqui, mais percebe como todo mundo é esquisito e excêntrico."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1BBE",
+  "en": "There's so much to do here, I don't know\\nwhere to go first!",
+  "pt": "Tem tanta coisa pra fazer aqui que nem sei aonde ir primeiro!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1BFA",
+  "en": "Keep off my route, please.\\pI'm trying to boost my SPEED and HP EVs.",
+  "pt": "Saia da minha rota, por favor.\\pEstou tentando aumentar os meus EVs de VELOCIDADE e HP."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1C3E",
+  "en": "I've seen this city change so much over\\nthe years.\\pIt's almost as if it doesn't have a\\ncanonical image or location.",
+  "pt": "Já vi esta cidade mudar muito ao longo dos anos.\\pÉ quase como se ela não tivesse uma aparência ou localização canônica."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1CB2",
+  "en": "There's something off about it here,\\nlike I'm always being watched, or about\\lto be a part of a zany game.",
+  "pt": "Tem alguma coisa estranha aqui, como se eu estivesse sempre sendo observado, ou prestes a fazer parte de um jogo maluco."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1D1C",
+  "en": "CLUB SUGAR or the RENTAL FACILITY…\\nwhere to first?",
+  "pt": "CLUB SUGAR ou CENTRO DE ALUGUEL… aonde ir primeiro?"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1D4F",
+  "en": "It's-a-me, a-MARIO! That's not the\\nvoice…",
+  "pt": "It's-a-me, a-MARIO! Não, não é essa a voz…"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1D79",
+  "en": "I can't wait for my billionaire\\ninfluencer to move in!\\pI've been following them since they\\nwere at 1.5 million!",
+  "pt": "Mal posso esperar pra minha influencer bilionária se mudar pra cá!\\pEu sigo desde quando tinha só 1,5 milhão de seguidores!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1DF2",
+  "en": "Hello there little man. Would you like to\\nbecome my minion?\\pNo?\\pWell what if I threaten you with my\\nFREEZE RAY!",
+  "pt": "Olá, homenzinho. Gostaria de se tornar o meu minion?\\pNão?\\pE se eu te ameaçar com o meu RAIO CONGELANTE!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1E62",
+  "en": "Oh…the doctor forgot to refuel my\\nfreeze ray. This is what I need minions\\lfor.\\pLittle man, I do not have, how you say,\\nCAPs, for me to recruit my own minions,\\lbut having 1 will be enough.\\pCan you come back with a MINION? I'll\\ntrade you a CAPTURE that hasn't been\\ltoo useful to me.",
+  "pt": "Ah… o doutor esqueceu de recarregar o meu raio congelante. É pra isso que eu preciso de minions.\\pHomenzinho, eu não tenho, como se diz, CAPs para recrutar os meus próprios minions, mas ter 1 já basta.\\pPode voltar com um MINION? Eu te dou em troca uma CAPTURA que não tem sido muito útil pra mim."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1F7B",
+  "en": "Little man, do you have a MINION for\\ntrade?",
+  "pt": "Homenzinho, você tem um MINION para trocar?"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1FA7",
+  "en": "Do not play tricks on me! I know a\\nMINION when I see one!",
+  "pt": "Não tente me enganar! Eu reconheço um MINION quando vejo um!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D1FE1",
+  "en": "That's alright. The longer you take, the\\nmore time I have to charge my freeze\\lray.",
+  "pt": "Tudo bem. Quanto mais você demorar, mais tempo eu tenho pra carregar o meu raio congelante."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D2034",
+  "en": "Alright! Let's get this party started!",
+  "pt": "Muito bem! Vamos começar esta festa!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D205B",
+  "en": "Little man, you have proven your worth\\nto me. So I will no longer call you little\\lman, but man in red and blue.\\pWe will meet again.",
+  "pt": "Homenzinho, você provou o seu valor para mim. Então não vou mais te chamar de homenzinho, e sim de homem de vermelho e azul.\\pNós nos veremos de novo."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D20DF",
+  "en": "MINION! I have big plans for us!",
+  "pt": "MINION! Tenho grandes planos para nós!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D2100",
+  "en": "Excuse me!\\pSorry, but DIAMOND ACADEMY seems to be\\nwithout power currently. As such, the\\ldoors are stuck locked.",
+  "pt": "Com licença!\\pDesculpe, mas a DIAMOND ACADEMY está sem energia no momento. Por isso, as portas estão travadas."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D2170",
+  "en": "DIAMOND CITY GARDEN.",
+  "pt": "JARDIM DE DIAMOND CITY."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D2185",
+  "en": "Hey! You looking to get around DIAMOND\\nCITY?\\pThe D.C.L, DIAMOND CITY LIFT, can help\\nyou for the cost of just 500 COINS!",
+  "pt": "Ei! Quer circular por DIAMOND CITY?\\pO D.C.L., o DIAMOND CITY LIFT, te leva por apenas 500 MOEDAS!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D21FD",
+  "en": "You're already there, ya dope!",
+  "pt": "Você já está aqui, seu bobão!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D221C",
+  "en": "Hey! You don't have enough COINS!",
+  "pt": "Ei! Você não tem MOEDAS suficientes!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D223E",
+  "en": "Great! Let's be off then!",
+  "pt": "Ótimo! Então vamos nessa!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D225E",
+  "en": "Hey, it's MARIO!\\pDo you know me? Not yet but you're\\nabout to!\\pMy name is FRANK OTTO, but you can call\\nme FOTTO! I like to take pictures of\\lpeople playing the C.A.P. CHALLENGE!\\pMay I take a photo of you and upload it\\nonline?",
+  "pt": "Ei, é o MARIO!\\pVocê me conhece? Ainda não, mas vai conhecer!\\pMeu nome é FRANK OTTO, mas pode me chamar de FOTTO! Eu gosto de tirar fotos das pessoas jogando o DESAFIO C.A.P.!\\pPosso tirar uma foto sua e postar na internet?"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D233E",
+  "en": "Your photo in DIAMOND CITY should be\\nposted now!\\pJust go to my account\\nfottocap.bsky.social!",
+  "pt": "A sua foto em DIAMOND CITY já deve estar no ar!\\pÉ só acessar a minha conta\\nfottocap.bsky.social!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D239B",
+  "en": "Hey, MARIO! It's me, FOTTO!\\pWant a picture taken for your time in\\nDIAMOND CITY?",
+  "pt": "Ei, MARIO! Sou eu, o FOTTO!\\pQuer uma foto da sua passagem por DIAMOND CITY?"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D23EB",
+  "en": "Hey there, new to DIAMOND CITY? I'd\\nrecommend checking out the various\\lsigns, or talking to the TOADs in karts.\\lThe city is waaaaay too big and\\lconfusing if you're new around here, so\\ldon't be afraid to ask for help!",
+  "pt": "Olá, é novo em DIAMOND CITY? Eu recomendo dar uma olhada nas várias placas ou falar com os TOADs de kart. A cidade é grande e confusa deeeemais pra quem não é daqui, então não tenha medo de pedir ajuda!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D24C4",
+  "en": "(Hey there! Feeling lost in the big\\ncity?)\\p(Well don't worry, we're offering free\\nrides on our backs! Wanna hop on?)",
+  "pt": "(Oi! Se sentindo perdido na cidade grande?)\\p(Não se preocupe, estamos oferecendo caronas grátis nas nossas costas! Quer subir?)"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D2539",
+  "en": "(Alright, hold on tight!)",
+  "pt": "(Beleza, segure firme!)"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D2553",
+  "en": "(You'd rather walk? I get it, no worries.)",
+  "pt": "(Prefere ir a pé? Entendo, sem problemas.)"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D257E",
+  "en": "(Hi again! Enjoying your ride? Or do you\\nwanna get back on foot now?)",
+  "pt": "(Oi de novo! Curtindo o passeio? Ou quer voltar a andar a pé?)"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D25C4",
+  "en": "(Great, keep enjoying yourself!)",
+  "pt": "(Ótimo, continue aproveitando!)"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D25E5",
+  "en": "(Have you heard of a YOSHI WHISTLE?\\nIt'll let you ride a YOSHI anytime you\\lwant!)\\p(I don't think they're offered anywhere\\nhere in DIAMOND CITY, though.)",
+  "pt": "(Já ouviu falar do APITO YOSHI? Com ele você pode montar num YOSHI quando quiser!)\\p(Mas acho que não vendem em nenhum lugar aqui em DIAMOND CITY.)"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D267E",
+  "en": "(Have you CAPTURED one of us yet?)\\p(If you have, you should try giving us\\nsome SHELLs!)",
+  "pt": "(Você já CAPTUROU um de nós?)\\p(Se já, devia experimentar dar uns CASCOS pra gente!)"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D26D6",
+  "en": "Big street, huh? Nice for morning walks,\\nthough. Can confirm.",
+  "pt": "Avenida grande, hein? Mas é ótima pra caminhar de manhã. Posso garantir."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D2714",
+  "en": "There's a lot to do here in DOWNTOWN,\\nlike going to CLUB SUGAR! I can't wait\\lto see what kind of moves JIMMY T. has\\lcooked up for us tonight!",
+  "pt": "Tem muita coisa pra fazer aqui no CENTRO, tipo ir ao CLUB SUGAR! Mal posso esperar pra ver que passos o JIMMY T. preparou pra gente hoje à noite!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D27A2",
+  "en": "Hey, pal! Do ya know hows to get to\\nWARIOWARE, INC?\\pWARIO owes da boss a great debt of\\nPURPLE, and I'm here to collect!",
+  "pt": "Ô, parça! Sabe como chega na WARIOWARE, INC?\\pO WARIO deve uma grana preta de ROXO pro chefe, e eu vim cobrar!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D281A",
+  "en": "{FONT 00}Shhh! Do you want that PIANTA GOON\\nover there to see us?\\pListen, whatever you do, DON'T invest in\\nPURPLE, you hear me? It's a scam!",
+  "pt": "{FONT 00}Psiu! Quer que aquele CAPANGA PIANTA ali veja a gente?\\pEscuta, faça o que fizer, NÃO invista em ROXO, entendeu? É golpe!"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D28A1",
+  "en": "The door is stuck with a towel wedged\\nbetween it and the floor. You hear\\lgiggling inside.",
+  "pt": "A porta está emperrada com uma toalha enfiada entre ela e o chão. Dá pra ouvir risadinhas lá dentro."
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D28FB",
+  "en": "WARIO GOING\\nTO WIN",
+  "pt": "WARIO VENCE\\nTUDO"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2BB8",
+  "en": "DIAMOND CITY - SOUTH AREA\\nYou are at the {COLOR 04}RED square{COLOR 02}.\\pTourists should check out the PURPLE\\nareas{COLOR 02}, or the northen half of the CITY!",
+  "pt": "DIAMOND CITY - ÁREA SUL\\nVocê está no {COLOR 04}quadrado VERMELHO{COLOR 02}.\\pOs turistas devem conferir as áreas ROXAS{COLOR 02} ou a metade norte da CIDADE!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2C43",
+  "en": "DIAMOND CITY DAYCARE - Leave your\\nworries with us!",
+  "pt": "CRECHE DE DIAMOND CITY - Deixe suas preocupações com a gente!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2C76",
+  "en": "We're the PURPLE square!",
+  "pt": "Nós somos o quadrado ROXO!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2C8F",
+  "en": "DIAMOND CITY DEPARTMENT STORE",
+  "pt": "LOJA DE DEPARTAMENTOS DE DIAMOND CITY"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2CAD",
+  "en": "Have you tried that new PYRORMON game?\\nIf you do, tell me how it is! I can't let\\lgo of SUPER MARIO BROS. 3 yet!",
+  "pt": "Já experimentou aquele jogo novo, PYOROMON? Se jogar, me conta como é! Eu ainda não consigo largar o SUPER MARIO BROS. 3!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2D1D",
+  "en": "WARIO loves to make microgames, but I'm\\na bigger fan of macro-games, like SUPER\\lMARIO BROS. 3!",
+  "pt": "O WARIO adora fazer microgames, mas eu sou mais fã de macrogames, tipo SUPER MARIO BROS. 3!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2D7C",
+  "en": "OI! Who said you could come trampling\\ninto my garden like this?",
+  "pt": "Ô! Quem deixou você entrar pisoteando o meu jardim desse jeito?"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2DBC",
+  "en": "Hut hut hut hut.",
+  "pt": "Hup hup hup hup."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2DCD",
+  "en": "Oh my SUPER STARS!\\pI can't believe I'm talking to THE\\nMARIO!\\pPlease, take a complimentary gift from\\nthe DEPARTMENT STORE.",
+  "pt": "Ai, minhas SUPERESTRELAS!\\pNão acredito que estou falando com O MARIO!\\pPor favor, aceite um brinde da LOJA DE DEPARTAMENTOS."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2E47",
+  "en": "Please, check out our DEPARTMENT\\nSTORE!\\pWe'd be honored to have THE SUPER\\nMARIO shop here!",
+  "pt": "Por favor, conheça a nossa LOJA DE DEPARTAMENTOS!\\pSeria uma honra ter O SUPER MARIO fazendo compras aqui!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2EA2",
+  "en": "I wonder what DR. CRYGOR does all the\\nway on his little island?",
+  "pt": "O que será que o DR. CRYGOR fica fazendo lá na ilhazinha dele?"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2EE2",
+  "en": "Come back later please.",
+  "pt": "Volte mais tarde, por favor."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2EFA",
+  "en": "Do you know anyone else playing\\nPYOROMON? I need to trade my PYORO for\\la PYORO.",
+  "pt": "Você conhece mais alguém que jogue PYOROMON? Preciso trocar o meu PYORO por um PYORO."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2F4A",
+  "en": "This park gets really popular after\\nschool and on weekends.",
+  "pt": "Este parque fica bem cheio depois da escola e nos fins de semana."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2F86",
+  "en": "THIS IS MY ZONE!",
+  "pt": "ESTE É MEU CANTO!",
+  "max_width": 91
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2F97",
+  "en": "I like to give people rides around the\\nplayground.\\pYou're a little too big for me, sorry\\nMARIO!",
+  "pt": "Eu gosto de dar carona pro pessoal pelo parquinho.\\pMas você é um pouquinho grande demais pra mim, desculpa, MARIO!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2FF7",
+  "en": "I prefer jogging barefoot, so I stay on\\nthe grass instead of the sidewalk.",
+  "pt": "Eu prefiro correr descalço, então fico na grama em vez da calçada."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D3042",
+  "en": "Bro, I wish I had a KART to ride.\\pIt would make it so easy to get around\\nDIAMOND CITY.",
+  "pt": "Mano, queria ter um KART pra andar.\\pIa ficar tão fácil circular por DIAMOND CITY."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D3099",
+  "en": "Ever try eating raw garlic from the\\nbulb? Yeah, I do not recommend.",
+  "pt": "Já tentou comer alho cru direto da cabeça? Pois é, não recomendo."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D30DD",
+  "en": "Every Monday, JIMMY T. hosts pilates at\\nCLUB SUGAR. Gotta burn that weekend\\lsweat off!",
+  "pt": "Toda segunda-feira, o JIMMY T. dá aula de pilates no CLUB SUGAR. Tem que suar pra queimar o fim de semana!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D3134",
+  "en": "Do you know a place where I can get\\nsome really good soup? Asking for a\\lfriend.",
+  "pt": "Você conhece algum lugar onde dá pra tomar uma sopa bem gostosa? É pra um amigo."
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D3184",
+  "en": "Woah! You have PROFESSOR E. GADD's\\nCAPTURE encyclopedia! Have you heard\\lof the legendary DRAGONS? You should\\llook for them!",
+  "pt": "Uau! Você tem a enciclopédia de CAPTURAS do PROFESSOR E. GADD! Já ouviu falar dos DRAGÕES lendários? Você devia procurá-los!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D3200",
+  "en": "Up and off that daily grind…",
+  "pt": "Bora sair dessa rotina…"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D321D",
+  "en": "Sometimes you need to forget about\\nyour worries and roll around in a puddle.",
+  "pt": "Às vezes você precisa esquecer as preocupações e rolar numa poça de lama."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02835BC",
+  "en": "{PLAYER} received the prize\\n{STR_VAR_1}.",
+  "pt": "{PLAYER} recebeu o prêmio\\n{STR_VAR_1}."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "029CDBD",
+  "en": "We've been waiting for you!\\pBefore we resume your challenge,\\nI must save the game.",
+  "pt": "Estávamos esperando por você!\\pAntes de retomarmos o seu desafio, preciso salvar o jogo."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3851",
+  "en": "That goes right here…",
+  "pt": "Isto vai bem aqui…"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3867",
+  "en": "DR. CRYGOR",
+  "pt": "DR. CRYGOR",
+  "max_width": 60
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3872",
+  "en": "And that goes over there…",
+  "pt": "E aquilo vai ali…"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D388C",
+  "en": "BOTH",
+  "pt": "AMBOS",
+  "max_width": 30
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3891",
+  "en": "Fixed!",
+  "pt": "Consertado!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3898",
+  "en": "Well done PENNY! You got this RENTAL\\nFACILITY all up and ready.\\pWell, I should be getting back to my lab\\nto finish my Whos-an-whats-um-inator!\\lGood luck!",
+  "pt": "Muito bem, PENNY! Você deixou este CENTRO DE ALUGUEL prontinho para funcionar.\\pBom, preciso voltar pro meu laboratório pra terminar o meu Treco-e-coiso-inador! Boa sorte!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3932",
+  "en": "MARIO!",
+  "pt": "MARIO!",
+  "max_width": 40
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3939",
+  "en": "Have what it takes to beat the RENTAL\\nFACILITY?\\pBeat three of my ROBO-COMMANDERS with\\nyour HOLO-CAPTURES to face me!",
+  "pt": "Acha que tem o que é preciso pra vencer o CENTRO DE ALUGUEL?\\pDerrote três dos meus ROBÔ-COMANDANTES com as suas HOLOCAPTURAS para me enfrentar!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D39AE",
+  "en": "Congratulations on your win in the\\nbattle swap challenge!\\pHere, please accept this prize-",
+  "pt": "Parabéns pela vitória no desafio de batalhas com troca!\\pAqui está, por favor, aceite este prêmio-"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3A0C",
+  "en": "Wait a minute!",
+  "pt": "Espere um minuto!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3A1B",
+  "en": "There you are, MARIO!\\pI'm not surprised you're proficient in\\nCAPTURE battles. But that doesn't\\lmatter now!\\pWhat does matter is intensive testing\\nof my team! Are you ready?",
+  "pt": "Aí está você, MARIO!\\pNão me surpreende que você seja craque em batalhas de CAPTURAS. Mas isso não importa agora!\\pO que importa é testar a fundo a minha equipe! Está pronto?"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3AC7",
+  "en": "Great! I'm looking forward to learning\\na lot in this battle!",
+  "pt": "Ótimo! Estou ansiosa para aprender muito nesta batalha!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3B04",
+  "en": "Test successful…",
+  "pt": "Teste bem-sucedido…"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3B15",
+  "en": "Need some time to prepare? That's no\\nproblem, I'll be waiting here for when\\lyou're ready!",
+  "pt": "Precisa de um tempo pra se preparar? Sem problemas, vou esperar aqui até você estar pronto!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3B6F",
+  "en": "Congrats on winning the battle swap\\nchallenge!\\pHere's your prize.",
+  "pt": "Parabéns pela vitória no desafio de batalhas com troca!\\pAqui está o seu prêmio."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3BB1",
+  "en": "I'm sorry, please try again next time.",
+  "pt": "Sinto muito, tente de novo da próxima vez."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3BD8",
+  "en": "There you are, MARIO!\\pI hope you had fun in the HOLO BATTLES!\\nBut that doesn't matter now!\\pWhat does matter is intensive testing\\nof my team! Are you ready?",
+  "pt": "Aí está você, MARIO!\\pEspero que tenha se divertido nas HOLOBATALHAS! Mas isso não importa agora!\\pO que importa é testar a fundo a minha equipe! Está pronto?"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3C74",
+  "en": "It seems there's a few more bugs I got\\nto work out, but everything seems to be\\lrunning to spec!\\pThanks for helping me test everything,\\nMARIO!",
+  "pt": "Parece que ainda tenho que corrigir mais alguns bugs, mas está tudo funcionando conforme o planejado!\\pObrigada por me ajudar a testar tudo, MARIO!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3D02",
+  "en": "What's that? You need the passcode for\\nWARIO's studio?",
+  "pt": "O que foi? Você precisa da senha do estúdio do WARIO?"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3D39",
+  "en": "That makes sense! The second word is\\nGONNA, but that's all I know!\\pGood luck cracking the code!",
+  "pt": "Faz sentido! A segunda palavra é VENCE, mas é só o que eu sei!\\pBoa sorte para decifrar o código!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3D99",
+  "en": "MARIO found the second word to unlock\\nWARIO WARE, 'GONNA'!",
+  "pt": "MARIO descobriu a segunda palavra para abrir a WARIO WARE: 'VENCE'!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3DD4",
+  "en": "We look forward to your next visit!",
+  "pt": "Esperamos a sua próxima visita!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3E0D",
+  "en": "Disabling trainer flag so can be\\nrematched.",
+  "pt": "Desativando a flag de treinador para permitir revanche."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3E39",
+  "en": "You found a secret! This totally isn't a\\nquick fix to a bug!",
+  "pt": "Você achou um segredo! Isto não é nem um pouco uma gambiarra pra corrigir um bug!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3E76",
+  "en": "You a new student at DIAMOND ACADEMY?\\pIf so, you should head over to the door\\non the left. That's where the\\lclassrooms are.",
+  "pt": "Você é aluno novo da DIAMOND ACADEMY?\\pSe for, vá até a porta da esquerda. É lá que ficam as salas de aula."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3EF2",
+  "en": "Huff… Gotta get this paperwork over to\\nthe teacher's lounge!",
+  "pt": "Ufa… Tenho que levar esta papelada pra sala dos professores!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3F2F",
+  "en": "Did you also get detention? Man, this\\nstinks.\\pWe better head up to the teacher's\\nlounge right away if we don't wanna get\\lin even more trouble.",
+  "pt": "Você também ficou de castigo? Cara, que saco.\\pÉ melhor a gente subir logo pra sala dos professores, se não quiser arrumar mais problema ainda."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3FBE",
+  "en": "Dang it, PENNY is still at the top of the\\nclass.\\pHm?",
+  "pt": "Droga, a PENNY continua sendo a primeira da turma.\\pHum?"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D3FF3",
+  "en": "Do you mind? I'm checking the C.A.P.\\nCHALLENGE leaderboards.",
+  "pt": "Dá licença? Estou vendo o ranking do DESAFIO C.A.P."
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D4030",
+  "en": "You better get a move on through these\\ndoors if you don't wanna be late for\\lclass!",
+  "pt": "É melhor você passar logo por estas portas se não quiser se atrasar pra aula!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D4083",
+  "en": "Do you need something from the\\nteacher's lounge?\\pOr are you just trying to cause\\ntrouble?",
+  "pt": "Precisa de alguma coisa da sala dos professores?\\pOu só está querendo arrumar confusão?"
+ },
+ {
+  "map": "6.6 ASHLEY'S HOUSE",
+  "offset": "02CF8DF",
+  "en": "Welcome, wanderer. If you need to rest\\nfor the journey ahead, I suggest you do\\lso in this bed. Don't worry, I'll watch\\lover you during your respite.",
+  "pt": "Bem-vindo, andarilho. Se precisar descansar para a jornada que tem pela frente, sugiro que o faça nesta cama. Não se preocupe, vou cuidar de você durante o seu repouso."
+ },
+ {
+  "map": "6.7 ASHLEY'S HOUSE",
+  "offset": "02CFA47",
+  "en": "Alright! Go already! Yeesh!",
+  "pt": "Tá bom! Vai logo! Afe!"
+ },
+ {
+  "map": "6.7 ASHLEY'S HOUSE",
+  "offset": "02CFA63",
+  "en": "Where… Where is it?",
+  "pt": "Onde… Onde está?"
+ },
+ {
+  "map": "6.7 ASHLEY'S HOUSE",
+  "offset": "02CFA77",
+  "en": "Where?!",
+  "pt": "Onde?!"
+ },
+ {
+  "map": "6.7 ASHLEY'S HOUSE",
+  "offset": "02CFA7F",
+  "en": "Have you found a way to get us out of\\nhere yet?",
+  "pt": "Você já achou um jeito de tirar a gente daqui?"
+ },
+ {
+  "map": "6.8 ASHLEY'S HOUSE",
+  "offset": "02CFB07",
+  "en": "I guess you're not gonna fall for the\\npetty tricks of a DUPLIGHOST so easily.",
+  "pt": "Parece que você não vai cair tão fácil nos truquezinhos de um DUPLIGHOST."
+ },
+ {
+  "map": "6.9 ASHLEY'S HOUSE",
+  "offset": "02CFCEB",
+  "en": "ASHLEY! I need you to--",
+  "pt": "ASHLEY! Preciso que você--"
+ },
+ {
+  "map": "6.9 ASHLEY'S HOUSE",
+  "offset": "02CFD07",
+  "en": "Miss ASHLEY! MARIO made it!",
+  "pt": "Senhorita ASHLEY! O MARIO conseguiu!"
+ },
+ {
+  "map": "6.9 ASHLEY'S HOUSE",
+  "offset": "02CFD2A",
+  "en": "Huh? Oh, of course he did.",
+  "pt": "Hã? Ah, é claro que conseguiu."
+ },
+ {
+  "map": "6.9 ASHLEY'S HOUSE",
+  "offset": "02CFD45",
+  "en": "I know how this goes, but are you sure\\nyou want to fight?\\pI can give you the passcode and we can\\nmove on.\\pWell? Wanna fight?",
+  "pt": "Eu sei como isso termina, mas tem certeza de que quer lutar?\\pPosso te dar a senha e a gente segue em frente.\\pE aí? Quer lutar?"
+ },
+ {
+  "map": "6.9 ASHLEY'S HOUSE",
+  "offset": "02CFDD5",
+  "en": "Do you need something? I'm trying to\\nfocus, here.",
+  "pt": "Precisa de alguma coisa? Estou tentando me concentrar aqui."
+ },
+ {
+  "map": "6.9 ASHLEY'S HOUSE",
+  "offset": "02CFE07",
+  "en": "Come to rub it in that you got past all\\nmy puzzles again, MARIO?\\pI bet next time you can't make it\\nfurther!",
+  "pt": "Veio esfregar na minha cara que passou por todos os meus enigmas de novo, MARIO?\\pAposto que da próxima vez você não chega tão longe!"
+ },
+ {
+  "map": "6.9 ASHLEY'S HOUSE",
+  "offset": "02CFE73",
+  "en": "The third word is WIN. Now, begone.",
+  "pt": "A terceira palavra é TUDO. Agora, suma daqui."
+ },
+ {
+  "map": "6.9 ASHLEY'S HOUSE",
+  "offset": "02CFE97",
+  "en": "MARIO found the third word to unlock\\nWARIO WARE, 'WIN'!",
+  "pt": "MARIO descobriu a terceira palavra para abrir a WARIO WARE: 'TUDO'!"
+ },
+ {
+  "map": "6.10 DIAMOND CITY",
+  "offset": "02D4137",
+  "en": "I'm looking for a gift for my grandson.\\pHe really likes these energy drinks his\\nfavorite celebrity promotes but I can't\\lseem to find it.\\pHe talks a lot about the 'gyatt' flavor.",
+  "pt": "Estou procurando um presente para o meu neto.\\pEle adora uns energéticos que a celebridade favorita dele divulga, mas não consigo encontrar.\\pEle fala muito do sabor 'gyatt'."
+ },
+ {
+  "map": "6.10 DIAMOND CITY",
+  "offset": "02D41E9",
+  "en": "This department store has everything\\nyou can ask for!\\pExcept whatever that old TOAD is\\nasking for.",
+  "pt": "Esta loja de departamentos tem tudo o que você pode imaginar!\\pMenos seja lá o que aquele TOAD velhinho está procurando."
+ },
+ {
+  "map": "6.11 DIAMOND CITY",
+  "offset": "02D4340",
+  "en": "Hmm…do I get MUSHROOMs here, or head\\nonto the roof to get NUTs from the\\lvending machine?",
+  "pt": "Hum… compro COGUMELOS aqui ou subo pro terraço pra pegar NOZES na máquina de venda?"
+ },
+ {
+  "map": "6.11 DIAMOND CITY",
+  "offset": "02D4399",
+  "en": "I like to stock up on ANTIDOTES and\\nPARALYZE HEAL to use in the middle of\\lbattles, but some people have been\\ltelling me that's against the rules and\\lI should be banned for it?\\pI thought they made these items to be\\nused in battle, plus, who are others to\\ltell me how I should play the game,\\lother than the PRINCESS and PROFESSOR\\lof course!",
+  "pt": "Eu gosto de estocar ANTÍDOTOS e ANTIPARALISIAS pra usar no meio das batalhas, mas tem gente me dizendo que isso é contra as regras e que eu devia ser banido por isso?\\pEu achava que esses itens eram feitos pra usar em batalha. Além disso, quem são os outros pra me dizer como eu devo jogar, tirando a PRINCESA e o PROFESSOR, é claro!"
+ },
+ {
+  "map": "6.12 DIAMOND CITY",
+  "offset": "02D45F3",
+  "en": "SPEED BEAN SPEED BEAN SPEED BEAN\\nSPEED BEAN SPEED BEAN SPEED BEAN",
+  "pt": "FEIJÃO VELOCIDADE FEIJÃO VELOCIDADE FEIJÃO VELOCIDADE FEIJÃO VELOCIDADE FEIJÃO VELOCIDADE FEIJÃO VELOCIDADE"
+ },
+ {
+  "map": "6.12 DIAMOND CITY",
+  "offset": "02D4635",
+  "en": "BEANs are a great way to boost the\\neffort values of CAPTURES, but they're\\lpretty expensive.\\pSome people prefer reliable training\\nover drugs.",
+  "pt": "Os FEIJÕES são um ótimo jeito de aumentar os valores de esforço das CAPTURAS, mas são bem caros.\\pTem gente que prefere um bom treino a anabolizante."
+ },
+ {
+  "map": "6.13 DIAMOND CITY",
+  "offset": "02D4744",
+  "en": "Hmmm… There sure are a lot of different\\nways the species of our world can\\levolve and become stronger.",
+  "pt": "Hummm… Existem mesmo muitas formas diferentes de as espécies do nosso mundo evoluírem e ficarem mais fortes."
+ },
+ {
+  "map": "6.13 DIAMOND CITY",
+  "offset": "02D47AA",
+  "en": "But just because someone can evolve,\\ndoesn't mean they always should. In\\lfact, this item here makes CAPTURES\\lstronger if they're not yet at their\\lfull potential. Here, why don't you have\\lit?",
+  "pt": "Mas só porque alguém pode evoluir, não quer dizer que sempre deva. Aliás, este item aqui deixa as CAPTURAS mais fortes se elas ainda não atingiram todo o seu potencial. Tome, por que você não fica com ele?"
+ },
+ {
+  "map": "6.13 DIAMOND CITY",
+  "offset": "02D4869",
+  "en": "Don't worry, I have no use for the\\nstone. I'm not even a COMMANDER!",
+  "pt": "Não se preocupe, a pedra não me serve pra nada. Eu nem sou COMANDANTE!"
+ },
+ {
+  "map": "6.13 DIAMOND CITY",
+  "offset": "02D48AD",
+  "en": "I hope that peculiar stone is serving\\nyou well. Remember to give it a CAPTURE\\lthat has yet to evolve!",
+  "pt": "Espero que aquela pedra peculiar esteja sendo útil. Lembre-se de entregá-la a uma CAPTURA que ainda não evoluiu!"
+ },
+ {
+  "map": "6.13 DIAMOND CITY",
+  "offset": "02D4913",
+  "en": "Some CAPTURES can evolve with stones.\\pCheck your TATTLEDEX to see which ones\\nyou need.",
+  "pt": "Algumas CAPTURAS evoluem com pedras.\\pConfira a sua TATTLEDEX para ver de quais você precisa."
+ },
+ {
+  "map": "6.14 DIAMOND CITY",
+  "offset": "02D49F0",
+  "en": "My friend got me this {FONT 00}yawn{FONT 01} TM to help\\nwith my sleep, but it's {FONT 00}yawn{FONT 01} not really\\lworking.",
+  "pt": "Um amigo me deu este TM de {FONT 00}uaaah{FONT 01} pra ajudar com o meu sono, mas ela {FONT 00}uaaah{FONT 01} não está funcionando muito."
+ },
+ {
+  "map": "6.14 DIAMOND CITY",
+  "offset": "02D4A53",
+  "en": "Here, I'll also hand you some {FONT 00}yawn{FONT 01} some\\nof my favorite snack.",
+  "pt": "Tome, também vou te dar um pouco {FONT 00}uaaah{FONT 01} do meu lanche favorito."
+ },
+ {
+  "map": "6.14 DIAMOND CITY",
+  "offset": "02D4A97",
+  "en": "That TM contains {FONT 00}yawn{FONT 01} REST, something\\nI {FONT 00}yawn{FONT 01} need more of.",
+  "pt": "Esse TM tem {FONT 00}uaaah{FONT 01} DESCANSAR, uma coisa que eu {FONT 00}uaaah{FONT 01} preciso mais."
+ },
+ {
+  "map": "6.14 DIAMOND CITY",
+  "offset": "02D4ADE",
+  "en": "You know what would make this\\ndepartment store great?\\pA cereal floor!\\nWe can bowl up!\\pThe magic of cereal is you're eating and\\ndrinking at the same time with one hand.",
+  "pt": "Sabe o que deixaria esta loja de departamentos perfeita?\\pUm andar só de cereais!\\nIa ser de encher a tigela!\\pA mágica do cereal é que você come e bebe ao mesmo tempo com uma mão só."
+ },
+ {
+  "map": "6.14 DIAMOND CITY",
+  "offset": "02D4B86",
+  "en": "I\\pI l\\pI I\\pI -",
+  "pt": "I\\pI l\\pI I\\pI -"
+ },
+ {
+  "map": "6.15 DIAMOND CITY",
+  "offset": "02D4C11",
+  "en": "The view from here is nice, but being so\\nhigh up scares me… Sometimes it's\\lbetter to just get to the ground and\\lrest, don't you think? I'm sure your\\lCAPTURES would like to do so as well, so\\lwhy don't I teach them how to use the\\lmove ROOST?",
+  "pt": "A vista daqui é bonita, mas ficar tão no alto me dá medo… Às vezes é melhor descer pro chão e descansar, não acha? Tenho certeza de que as suas CAPTURAS também iam gostar, então por que eu não ensino a elas o golpe EMPOLEIRAR?"
+ },
+ {
+  "map": "6.15 DIAMOND CITY",
+  "offset": "02D4D01",
+  "en": "Who do you want me to teach ROOST to?",
+  "pt": "Para quem você quer que eu ensine EMPOLEIRAR?"
+ },
+ {
+  "map": "6.15 DIAMOND CITY",
+  "offset": "02D4D27",
+  "en": "I knew you were the sensible type! Take\\nsome time and relax away from the skies.",
+  "pt": "Eu sabia que você era do tipo sensato! Tire um tempo pra relaxar longe dos céus."
+ },
+ {
+  "map": "6.15 DIAMOND CITY",
+  "offset": "02D4D78",
+  "en": "Are you sure? Being so high up all the\\ntime is scary…",
+  "pt": "Tem certeza? Ficar no alto o tempo todo dá medo…"
+ },
+ {
+  "map": "6.16 DIAMOND CITY",
+  "offset": "02D4E24",
+  "en": "Want me to crash the game?",
+  "pt": "Quer que eu trave o jogo?"
+ },
+ {
+  "map": "6.16 DIAMOND CITY",
+  "offset": "02D4E3F",
+  "en": "Well too bad, I don't actually know how\\nto.",
+  "pt": "Pois que pena, eu nem sei fazer isso de verdade."
+ },
+ {
+  "map": "6.16 DIAMOND CITY",
+  "offset": "02D4E6B",
+  "en": "WARIO's game studio makes\\nsome…questionable video games.\\pI heard he was making something to\\nrival PYOROMON, but I just know it's\\lgoing to be a bad knockoff.",
+  "pt": "O estúdio de games do WARIO faz uns jogos… meio duvidosos.\\pOuvi dizer que ele estava fazendo algo pra rivalizar com PYOROMON, mas eu sei que vai ser uma cópia mal feita."
+ },
+ {
+  "map": "6.16 DIAMOND CITY",
+  "offset": "02D4F08",
+  "en": "I love DIAMOND CITY but I don't think I\\ncan say the same about DIAMOND\\lSUBURBS.\\pCities are engines of creativity and\\nwealth creation, and low-density\\lsuburbs and exurbs exist to extract\\lthat wealth then use it to support\\lwasteful, inefficient, and\\lenvironmentally harmful lifestyles.\\pRead it up.",
+  "pt": "Eu amo DIAMOND CITY, mas acho que não posso dizer o mesmo dos SUBÚRBIOS DE DIAMOND.\\pAs cidades são motores de criatividade e de geração de riqueza, e os subúrbios de baixa densidade existem para extrair essa riqueza e usá-la para sustentar estilos de vida esbanjadores, ineficientes e nocivos ao meio ambiente.\\pVai se informar."
+ },
+ {
+  "map": "6.17 DIAMOND CITY",
+  "offset": "02D50BB",
+  "en": "I need to be on top because I have the\\nbest sense of direction!",
+  "pt": "Eu tenho que ficar em cima porque tenho o melhor senso de direção!"
+ },
+ {
+  "map": "6.17 DIAMOND CITY",
+  "offset": "02D50FB",
+  "en": "You'll never know the feeling of getting\\nsandwiched by two of your friends\\lunless you try it.",
+  "pt": "Você nunca vai saber como é ficar espremido entre dois amigos se não experimentar."
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5A68",
+  "en": "WARIO (PHONE)",
+  "pt": "WARIO (FONE)",
+  "max_width": 77
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5A76",
+  "en": "JIMMY! How's about you work on another\\ngame for me?",
+  "pt": "JIMMY! Que tal você fazer outro jogo pra mim?"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5AAA",
+  "en": "JIMMY T.",
+  "pt": "JIMMY T.",
+  "max_width": 48
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5AB3",
+  "en": "Groovy!",
+  "pt": "Que demais!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5ABB",
+  "en": "You can't get JIMMY T.'s attention. He's\\ngrooving too hard!",
+  "pt": "Você não consegue chamar a atenção do JIMMY T. Ele está dançando com tudo!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5AF7",
+  "en": "You ain't ever gonna get JIMMY T.'s\\nattention like that, darling.\\pFollow his moves and show him you know\\nhow to boogie! You up for it, darling?",
+  "pt": "Assim você nunca vai chamar a atenção do JIMMY T., meu bem.\\pAcompanhe os passos dele e mostre que você sabe dançar! Topa, meu bem?"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5B87",
+  "en": "Woo! Just go with the flow and you'll do\\ngreat!",
+  "pt": "Uhul! É só entrar no ritmo que você vai mandar bem!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5BB7",
+  "en": "Come back when you're ready to boogie!",
+  "pt": "Volte quando estiver pronto pra dançar!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5BDE",
+  "en": "Smooth moves out there, my mustached\\nfriend! Go on in!",
+  "pt": "Belos passos, meu amigo bigodudo! Pode entrar!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5C15",
+  "en": "Unless you wanna boogie some more with\\nJIMMY T.? What do you say, darling?",
+  "pt": "A não ser que você queira dançar mais um pouco com o JIMMY T.? O que me diz, meu bem?"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5C60",
+  "en": "Wanna play on hard mode?",
+  "pt": "Quer jogar no modo difícil?"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5C79",
+  "en": "You ain't ever gonna get JIMMY T.'s\\nattention like this, darling.\\pFollow his moves and show him you know\\nhow to boogie! You up for it, darling?",
+  "pt": "Desse jeito você nunca vai chamar a atenção do JIMMY T., meu bem.\\pAcompanhe os passos dele e mostre que você sabe dançar! Topa, meu bem?"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5D09",
+  "en": "You're a superstar, alright!",
+  "pt": "Você é um superastro mesmo!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5D26",
+  "en": "Hmm?",
+  "pt": "Hum?"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5D2B",
+  "en": "Groooovy!",
+  "pt": "Que demaaaais!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5D35",
+  "en": "Yeah! Dance dance dance!",
+  "pt": "Isso! Dança, dança, dança!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5D4E",
+  "en": "Let's get groovy!",
+  "pt": "Bora dançar!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5D60",
+  "en": "Oh, too bad! You'll have to try again\\nfrom the start.",
+  "pt": "Ah, que pena! Você vai ter que tentar de novo desde o começo."
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5D96",
+  "en": "Smooth moves, man! JIMMY T. is waiting\\nfor you in the room ahead!",
+  "pt": "Belos passos, cara! O JIMMY T. está te esperando na sala à frente!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5DD8",
+  "en": "Smooth moves, man! Here, JIMMY T. wants\\nyou to have this.",
+  "pt": "Belos passos, cara! Tome, o JIMMY T. quer que você fique com isto."
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5E12",
+  "en": "And here's a little something extra for\\nclearing hard mode!",
+  "pt": "E aqui vai um extra por completar o modo difícil!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5E4E",
+  "en": "Come back whenever you wanna get your\\nboogie on!",
+  "pt": "Volte sempre que quiser cair na dança!"
+ },
+ {
+  "map": "6.18 DIAMOND CITY",
+  "offset": "02D5E7F",
+  "en": "The music is too loud to get their\\nattention.",
+  "pt": "A música está alta demais pra chamar a atenção deles."
+ },
+ {
+  "map": "6.19 DIAMOND CITY",
+  "offset": "02D607C",
+  "en": "JIMMY T.",
+  "pt": "JIMMY T.",
+  "max_width": 48
+ },
+ {
+  "map": "6.19 DIAMOND CITY",
+  "offset": "02D6085",
+  "en": "MARIO, honey!\\nThe first word is WARIO!",
+  "pt": "MARIO, querido!\\nA primeira palavra é WARIO!"
+ },
+ {
+  "map": "6.19 DIAMOND CITY",
+  "offset": "02D60AC",
+  "en": "MARIO, when was the last time you've\\nbeen to CLUB SUGAR, honey?\\pI remember you came for those\\nbreakdancing courses, I hope you still\\lremember how.\\pThat's because CLUB SUGAR hasn't\\nchanged a bit, still a 24/7 party!\\pWhat do you need, honey?",
+  "pt": "MARIO, quando foi a última vez que você veio ao CLUB SUGAR, querido?\\pEu me lembro de quando você veio fazer aquelas aulas de breakdance, espero que ainda lembre como é.\\pIsso porque o CLUB SUGAR não mudou nada, continua sendo uma festa 24 horas por dia!\\pDo que você precisa, querido?"
+ },
+ {
+  "map": "6.19 DIAMOND CITY",
+  "offset": "02D619C",
+  "en": "You need the passcode for WARIO's\\nstudio?\\pShow me love on the dance floor then!",
+  "pt": "Você precisa da senha do estúdio do WARIO?\\pEntão me mostre o seu amor na pista de dança!"
+ },
+ {
+  "map": "6.19 DIAMOND CITY",
+  "offset": "02D621D",
+  "en": "Smooth moves, MARIO!\\pI would love to give you the whole\\npasscode, but I only know one word.\\pThe first word is\\n'WARIO'!\\pI hope that helps, and come by CLUB\\nSUGAR whenever you feel like dancing,\\lhoney!",
+  "pt": "Belos passos, MARIO!\\pEu adoraria te dar a senha inteira, mas só sei uma palavra.\\pA primeira palavra é\\n'WARIO'!\\pEspero que ajude, e passe no CLUB SUGAR sempre que tiver vontade de dançar, querido!"
+ },
+ {
+  "map": "6.19 DIAMOND CITY",
+  "offset": "02D62E5",
+  "en": "MARIO found the first word to unlock\\nWARIO WARE, 'WARIO'!",
+  "pt": "MARIO descobriu a primeira palavra para abrir a WARIO WARE: 'WARIO'!"
+ }
+]

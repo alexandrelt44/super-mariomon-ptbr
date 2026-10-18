@@ -1,0 +1,2054 @@
+[
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0237A52",
+  "en": "What do you think?\\nAren't these flowers pretty?\\pI planted them all!",
+  "pt": "O que você acha? Essas flores não são lindas?\\pFui eu que plantei todas!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0237A96",
+  "en": "The air is tasty here!",
+  "pt": "O ar aqui é uma delícia!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0237AAD",
+  "en": "ROUTE 117\\n← VERDANTURF TOWN",
+  "pt": "ROTA 117\\n← VERDANTURF TOWN"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0237AC9",
+  "en": "ROUTE 117\\n→ MAUVILLE CITY",
+  "pt": "ROTA 117\\n→ MAUVILLE CITY"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0237AE3",
+  "en": "POKéMON DAY CARE\\n“Let us raise your POKéMON.”",
+  "pt": "CRECHE DE CAPTURAS\\n“Nós criamos as suas CAPTURAS.”"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0318EA9",
+  "en": "POKéMON isn't all about power.\\pPolishing a unique aspect of one's\\ncharacter is another way of enjoying\\lPOKéMON.",
+  "pt": "Nem tudo nas CAPTURAS é questão de força.\\pAprimorar um traço único da personalidade delas é outro jeito de curtir as CAPTURAS."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0318F19",
+  "en": "I'm going to redouble my training.\\nWould you come look in on us?",
+  "pt": "Vou redobrar o meu treinamento. Você viria ver como estamos indo?"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0318FE1",
+  "en": "Your POKéMON are growing good!\\nYou should enter them in CONTESTS.",
+  "pt": "As suas CAPTURAS estão crescendo bem! Você devia inscrevê-las em CONCURSOS."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "031908A",
+  "en": "Try raising POKéMON with more\\nattention to their character traits.",
+  "pt": "Tente criar as suas CAPTURAS prestando mais atenção aos traços de personalidade delas."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "03190CD",
+  "en": "I'm glad I met a superb TRAINER in you.\\nI hope to see you again.",
+  "pt": "Que bom que conheci um TREINADOR excelente como você. Espero te ver de novo."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "031910E",
+  "en": "Allow me to reevaluate if you have\\nraised your POKéMON properly.",
+  "pt": "Permita-me reavaliar se você criou as suas CAPTURAS direito."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "031914F",
+  "en": "They are growing admirably.",
+  "pt": "Elas estão crescendo de forma admirável."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319211",
+  "en": "I may have blown it…\\pI might have dropped to last during\\nthat battle…",
+  "pt": "Acho que pus tudo a perder…\\pAcho que fiquei em último naquela batalha…"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319257",
+  "en": "POKéMON have to be strong, too?\\nI'd like you to train me!",
+  "pt": "As CAPTURAS também precisam ser fortes? Quero que você me treine!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "031930F",
+  "en": "I was tops in swimming and cycling,\\nbut I'm not quite that confident with\\lPOKéMON yet.",
+  "pt": "Eu mandava muito bem em natação e ciclismo, mas com CAPTURAS ainda não me sinto tão confiante."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "03193E1",
+  "en": "Training is meaningful only if you\\nkeep it up regularly.\\pOkay! I'll resume my training!\\nTomorrow!",
+  "pt": "O treino só faz sentido se você mantiver a regularidade.\\pPois bem! Vou retomar o meu treino!\\nAmanhã!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319443",
+  "en": "You appear to be training properly…\\nIf you'd like, I'll battle you later!",
+  "pt": "Parece que você está treinando direitinho… Se quiser, a gente batalha mais tarde!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "031948D",
+  "en": "Are you keeping up with your training?\\nI sure am!\\lLet me show you the evidence!",
+  "pt": "Você está mantendo o treino em dia? Eu estou! Deixa eu te mostrar a prova!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "03194DD",
+  "en": "I need to get more practices in,\\nI guess.",
+  "pt": "Acho que preciso treinar mais."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319507",
+  "en": "I'll resume training tomorrow.\\nLet's battle again sometime!",
+  "pt": "Volto a treinar amanhã. Vamos batalhar de novo qualquer dia!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "03195BE",
+  "en": "All I did was follow my heart, and now\\nthey call me a BUG MANIAC…\\pStill, I am an expert on BUG POKéMON,\\nso it's only natural that they call me\\la BUG MANIAC.",
+  "pt": "Tudo o que fiz foi seguir o meu coração, e agora me chamam de MANÍACO POR INSETOS…\\pMesmo assim, sou especialista em CAPTURAS do tipo INSETO, então é natural que me chamem de MANÍACO POR INSETOS."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "03196DC",
+  "en": "ANNA: Your POKéMON have some good\\ncombinations.\\pI'd say you're second only to us!",
+  "pt": "ANNA: As suas CAPTURAS formam boas combinações.\\pEu diria que você só perde pra gente!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "031972E",
+  "en": "ANNA: We can't take this lying down!\\nYou will come back, won't you?",
+  "pt": "ANNA: Não vamos deixar barato! Você vai voltar, não vai?"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319828",
+  "en": "MEG: I dragged ANNA down…\\nIf I didn't, she would have won!",
+  "pt": "MEG: Eu atrapalhei a ANNA… Se não fosse por mim, ela teria vencido!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "031992D",
+  "en": "ANNA: Your POKéMON have some good\\ncombinations.\\pI'd say you're second only to us!",
+  "pt": "ANNA: As suas CAPTURAS formam boas combinações.\\pEu diria que você só perde pra gente!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319A0F",
+  "en": "MEG: I battled together with my\\nsenior partner, but we lost…\\pThat's so discouraging…",
+  "pt": "MEG: Eu batalhei junto com a minha parceira veterana, mas a gente perdeu…\\pQue desanimador…"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319B1F",
+  "en": "It feels wonderful to go for a jog\\nwhile looking at flowers.",
+  "pt": "É maravilhoso correr olhando as flores."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319BA7",
+  "en": "PSYCHIC POKéMON are complex.\\nYou should try catching some.",
+  "pt": "As CAPTURAS do tipo PSÍQUICO são complexas. Você devia tentar pegar algumas."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319BE2",
+  "en": "Concentrate on getting the win.\\nThat's how I battle!",
+  "pt": "Concentre-se em vencer. É assim que eu batalho!"
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319C17",
+  "en": "I don't waste any time being angry\\nover a loss--I would rather train.",
+  "pt": "Não perco tempo ficando com raiva de uma derrota. Prefiro treinar."
+ },
+ {
+  "map": "50.32 B. CASTLE 2F",
+  "offset": "0319C5D",
+  "en": "I think that if you worry about losing,\\nyou're more likely to lose.",
+  "pt": "Acho que, se você se preocupa em perder, a chance de perder é maior."
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0237FD0",
+  "en": "Hmm!\\nA GOOD ROD is really good!\\pWouldn't you agree?",
+  "pt": "Hum!\\nA VARA BOA é boa mesmo!\\pNão concorda?"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0238004",
+  "en": "Hmm!\\nWe're of identical minds!\\pHmm!\\nTake this GOOD ROD!",
+  "pt": "Hum!\\nPensamos igualzinho!\\pHum!\\nLeve esta VARA BOA!"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "023803C",
+  "en": "Wherever there's water, try your luck\\nat fishing.",
+  "pt": "Onde tiver água, tente a sorte pescando."
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "023806E",
+  "en": "Don't you like to fish?",
+  "pt": "Você não gosta de pescar?"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0238086",
+  "en": "Try catching all sorts of POKéMON\\nwith your GOOD ROD.",
+  "pt": "Tente pegar todo tipo de CAPTURA com a sua VARA BOA."
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "02380BC",
+  "en": "Even if there isn't a boat, you can\\ncross rivers and the sea if you have\\la POKéMON that knows SURF.\\pPOKéMON can be counted on to do so\\nmuch!",
+  "pt": "Mesmo sem barco, dá pra atravessar rios e o mar se você tiver uma CAPTURA que saiba SURFAR.\\pDá pra contar com as CAPTURAS pra tanta coisa!"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0238149",
+  "en": "ROUTE 118\\n← MAUVILLE CITY",
+  "pt": "ROTA 118\\n← MAUVILLE CITY"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319D0B",
+  "en": "Flowers, POKéMON…\\nI love whatever smells nice.\\pStinky things…\\nI'll pass.",
+  "pt": "Flores, CAPTURAS… Adoro tudo o que tem cheiro bom.\\pCoisas fedidas… Tô fora."
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319D54",
+  "en": "Sniff… That odor--it's a POKéNAV!\\nWe must register each other!",
+  "pt": "Snif… Esse cheiro… é um POKéNAV! Temos que nos registrar!"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319DEA",
+  "en": "If you use a sweet aroma properly,\\nPOKéMON will be attracted by it.",
+  "pt": "Se você usar um aroma doce do jeito certo, as CAPTURAS vão ser atraídas por ele."
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319E2E",
+  "en": "BIRD POKéMON that FLY elegantly in\\nthe sky… They're the best!",
+  "pt": "CAPTURAS VOADORAS que VOAM com elegância pelo céu… Elas são as melhores!"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319E6C",
+  "en": "Urgh…\\nI crashed…",
+  "pt": "Argh… Caí…"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319E7D",
+  "en": "You've got great POKéMON.\\nI'll have to train mine better.",
+  "pt": "Você tem ótimas CAPTURAS. Vou ter que treinar melhor as minhas."
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319EEB",
+  "en": "If they'd get stronger, they'd be able\\nto fly more freely…",
+  "pt": "Se ficassem mais fortes, elas poderiam voar com mais liberdade…"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319F26",
+  "en": "I'm a FISHERMAN, but also a TRAINER.\\nI'm raising the POKéMON I caught.",
+  "pt": "Sou PESCADOR, mas também sou TREINADOR. Estou criando as CAPTURAS que pesquei."
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319F6D",
+  "en": "I thought I was doing okay in my\\ntraining…",
+  "pt": "Achei que estava indo bem no treino…"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "0319F98",
+  "en": "I couldn't win by training POKéMON\\nwhile I fished…\\pWas I doing things in half measures?",
+  "pt": "Não consegui vencer treinando CAPTURAS enquanto pescava…\\pSerá que eu estava fazendo as coisas pela metade?"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "031A074",
+  "en": "Come to think of it, fishing is a battle\\nbetween a FISHERMAN and a POKéMON.",
+  "pt": "Pensando bem, pescar é uma batalha entre um PESCADOR e uma CAPTURA."
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "031A0E9",
+  "en": "An electric guitar doesn't always\\nhave to be noisy…\\pIt can be strummed to squeeze out\\nthis heart-stirring melody…",
+  "pt": "Uma guitarra elétrica nem sempre precisa ser barulhenta…\\pDá pra dedilhar e arrancar dela esta melodia comovente…"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "031A15B",
+  "en": "When I compose better melodies,\\nyou have to come listen, okay?",
+  "pt": "Quando eu compuser melodias melhores, você tem que vir ouvir, tá?"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "031A1E6",
+  "en": "When I play, my emotions should reach\\nyou through my electric guitar…",
+  "pt": "Quando eu toco, as minhas emoções devem chegar até você pela minha guitarra elétrica…"
+ },
+ {
+  "map": "50.33 B. CASTLE 2F",
+  "offset": "031A283",
+  "en": "Isn't it cool that I have a POKéMON\\nbattle team?\\pYou can copy me--I don't mind!",
+  "pt": "Não é demais eu ter uma equipe de batalha de CAPTURAS?\\pPode me copiar, eu não ligo!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0238848",
+  "en": "MAY: But I had absolutely nothing to\\nworry about! Keep it up!\\pAnd, here! I have a present for you.",
+  "pt": "MAY: Mas eu não tinha absolutamente nada com que me preocupar! Continue assim!\\pE aqui! Tenho um presente pra você."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "02388AB",
+  "en": "MAY: Use FLY, and your POKéMON will\\ninstantly carry you to any town you've\\lalready visited.\\pBut, to use FLY, you have to get\\nthe GYM BADGE from FORTREE CITY.\\lThat's important, so don't forget.\\pYou should FLY home and visit\\nLITTLEROOT for a change.\\pI bet your mom's worried about you,\\n{PLAYER}{KUN}.\\pWell, let's meet again somewhere!",
+  "pt": "MAY: Use VOAR, e a sua CAPTURA te leva na hora até qualquer cidade que você já visitou.\\pMas, pra usar VOAR, você precisa da INSÍGNIA do GINÁSIO de FORTREE CITY. Isso é importante, então não esqueça.\\pVocê devia VOAR pra casa e visitar LITTLEROOT, pra variar.\\pAposto que a sua mãe está preocupada com você, {PLAYER}{KUN}.\\pBom, a gente se vê por aí!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "02389EF",
+  "en": "BRENDAN: {PLAYER}! So this is where\\nyou've been looking for POKéMON?\\pLet me see how good you got.\\nI'll test you!\\pNow!\\nIt's a battle, so battle!",
+  "pt": "BRENDAN: {PLAYER}! Então é aqui que você anda procurando CAPTURAS?\\pDeixa eu ver o quanto você melhorou. Vou te testar!\\pAgora!\\nÉ uma batalha, então batalhe!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0238AA0",
+  "en": "BRENDAN: I'd say you're good enough\\nto search for POKéMON anywhere.\\pHere, I'll give you this.\\nTry it out.",
+  "pt": "BRENDAN: Eu diria que você já é bom o bastante pra procurar CAPTURAS em qualquer lugar.\\pAqui, vou te dar isto. Experimente."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0238B0A",
+  "en": "BRENDAN: Use FLY, and your POKéMON\\ninstantly carries you to any town\\lyou've already visited.\\pBut you need the FORTREE GYM BADGE \\nto do that.\\pAnyway, I have to move along.",
+  "pt": "BRENDAN: Use VOAR, e a sua CAPTURA te leva na hora até qualquer cidade que você já visitou.\\pMas pra isso você precisa da INSÍGNIA do GINÁSIO de FORTREE.\\pEnfim, tenho que ir andando."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0238BB5",
+  "en": "SCOTT: Hahahah!\\nWay to go, {PLAYER}{KUN}!\\pI just passed by a TRAINER riding\\na BIKE.\\pYou just beat that TRAINER, didn't you?\\nIt was pretty obvious that you did.\\pThe kid looked really upset with\\na face all red from anger.\\pI sure seem to run into you often.\\nAre you off to FORTREE GYM next?\\pI expect that you'll do well at the GYM.\\nWell, I'll be seeing you!",
+  "pt": "SCOTT: Hahahah! Mandou bem, {PLAYER}{KUN}!\\pAcabei de passar por um TREINADOR andando de BICICLETA.\\pVocê acabou de vencer esse TREINADOR, não foi? Deu pra perceber.\\pO garoto parecia bem chateado, com a cara toda vermelha de raiva.\\pParece que eu sempre esbarro em você. Vai pro GINÁSIO de FORTREE agora?\\pAposto que você vai se sair bem no GINÁSIO. Bom, a gente se vê!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0238E40",
+  "en": "We're standing lookout here.\\pHey, you! Stay away from the WEATHER\\nINSTITUTE. It's not safe.",
+  "pt": "Estamos de vigia aqui.\\pEi, você! Fique longe do INSTITUTO DO CLIMA. Não é seguro."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0238E9C",
+  "en": "Lookout duty is surprisingly boring.\\pHey, you! Please don't go near the\\nWEATHER INSTITUTE.",
+  "pt": "Ficar de vigia é surpreendentemente chato.\\pEi, você! Por favor, não chegue perto do INSTITUTO DO CLIMA."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0238EF7",
+  "en": "I thought you FLY by catching a whole\\nflock of BIRD POKéMON, and then\\lhanging on to them somehow.\\pBut it turns out there's an HM move\\ncalled FLY!\\pI wish I'd known about that a long\\ntime ago…",
+  "pt": "Eu achava que dava pra VOAR pegando um bando inteiro de CAPTURAS VOADORAS e se pendurando nelas de algum jeito.\\pMas, no fim, existe um golpe de HM chamado VOAR!\\pQueria ter sabido disso há muito tempo…"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0238FB6",
+  "en": "Tch…\\nIt's a no-go…\\pThe tall grass snares BIKE tires.\\nThere's no way you can cycle here.",
+  "pt": "Tsc…\\nNão dá…\\pO mato alto prende os pneus da BICICLETA. Não tem como pedalar aqui."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "023900E",
+  "en": "Can your POKéMON use its SECRET POWER\\non a big pile of grass and make a\\lSECRET BASE?",
+  "pt": "A sua CAPTURA consegue usar PODER SECRETO num monte grande de mato e fazer uma BASE SECRETA?"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "0239063",
+  "en": "ROUTE 119\\n→ FORTREE CITY",
+  "pt": "ROTA 119\\n→ FORTREE CITY"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "023907C",
+  "en": "WEATHER INSTITUTE",
+  "pt": "INSTITUTO DO CLIMA"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "023908E",
+  "en": "TRAINER TIPS\\pUp to sixteen decorations and\\nfurniture items can be placed in\\la SECRET BASE.\\pPick your favorite items and create\\nyour very own SECRET BASE exactly the\\lway you want.",
+  "pt": "DICAS DE TREINADOR\\pAté dezesseis decorações e móveis podem ser colocados numa BASE SECRETA.\\pEscolha os seus itens favoritos e monte a sua própria BASE SECRETA do jeitinho que você quiser."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A313",
+  "en": "What's so good about mimicry?\\pFufufu…\\nYou'll never understand…",
+  "pt": "O que a imitação tem de tão bom?\\pFufufu… Você nunca vai entender…"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A352",
+  "en": "So, we finally meet!\\nMy BUG POKéMON will keep you company!",
+  "pt": "Então finalmente nos encontramos! As minhas CAPTURAS do tipo INSETO vão te fazer companhia!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A38D",
+  "en": "I wish we'd never met…",
+  "pt": "Queria que a gente nunca tivesse se encontrado…"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A3A4",
+  "en": "I want to MIMIC you some more.\\nCan you hurry up and move?",
+  "pt": "Quero fazer mais MÍMICA de você. Dá pra se mexer logo?"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A43D",
+  "en": "I can't MIMIC you winning the match.\\nThat's just impossible…\\lIt's burning me up…",
+  "pt": "Não dá pra fazer MÍMICA de você vencendo a partida. Isso é simplesmente impossível… Estou fervendo de raiva…"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A4EC",
+  "en": "We're the MIMIC CIRCLE!\\nI hope you enjoyed our performance.",
+  "pt": "Somos o CLUBE DA MÍMICA! Espero que tenha gostado da nossa apresentação."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A58D",
+  "en": "Until you go away somewhere, we'll\\nkeep on mimicking your every move.",
+  "pt": "Até você ir embora pra algum lugar, vamos continuar imitando cada movimento seu."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A5D3",
+  "en": "The MIMIC CIRCLE was formed by people\\nwho like to MIMIC.\\pA battle starts the instant we meet!",
+  "pt": "O CLUBE DA MÍMICA foi formado por pessoas que gostam de MÍMICA.\\pA batalha começa no instante em que nos encontramos!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A631",
+  "en": "I give up!",
+  "pt": "Eu desisto!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A63C",
+  "en": "Won't you join our MIMIC CIRCLE?",
+  "pt": "Não quer entrar no nosso CLUBE DA MÍMICA?"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A6D7",
+  "en": "To break away from civilization and\\nawaken the wild spirit within!\\pThat's our vision.",
+  "pt": "Fugir da civilização e despertar o espírito selvagem interior!\\pEssa é a nossa visão."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A72D",
+  "en": "I hope you'll give me a rematch without\\nmocking my lack of knowledge.",
+  "pt": "Espero que você me dê uma revanche sem zombar da minha falta de conhecimento."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A7CE",
+  "en": "Believe in your POKéMON.\\nBelieve in yourself.\\pThe road will reveal itself to you.",
+  "pt": "Acredite nas suas CAPTURAS. Acredite em você.\\pO caminho vai se revelar pra você."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A899",
+  "en": "You're traveling light but you have\\neverything you need.\\pYou're on top of things mentally and\\nphysically, too.",
+  "pt": "Você viaja com pouca bagagem, mas tem tudo de que precisa.\\pE também está com tudo em cima, de corpo e mente."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A908",
+  "en": "Do you have a POKéNAV?\\nIt's a must-have tool for any TRAINER.\\pOh, you do have one!\\nLet's register each other, then!",
+  "pt": "Você tem um POKéNAV? É uma ferramenta indispensável pra qualquer TREINADOR.\\pAh, você tem um! Então vamos nos registrar!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A97C",
+  "en": "How's your journey with POKéMON\\ngoing?",
+  "pt": "Como vai a sua jornada com as CAPTURAS?"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A9A3",
+  "en": "I'm still missing something…",
+  "pt": "Ainda está me faltando alguma coisa…"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031A9C0",
+  "en": "In the same way that you, as a TRAINER,\\nrely on your POKéMON, your POKéMON\\lrely on you.",
+  "pt": "Assim como você, TREINADOR, conta com as suas CAPTURAS, as suas CAPTURAS contam com você."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AA82",
+  "en": "My BIRD POKéMON made my dreams of\\nflying come true!",
+  "pt": "As minhas CAPTURAS VOADORAS realizaram o meu sonho de voar!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AB07",
+  "en": "Ever since I was a little kid, I always\\nadmired BIRD POKéMON…",
+  "pt": "Desde criança, eu sempre admirei as CAPTURAS VOADORAS…"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031ABAE",
+  "en": "Those defeated in battle withdraw\\nquietly back into the shadows.\\lThat, too, is destiny…",
+  "pt": "Os derrotados em batalha recuam em silêncio de volta às sombras. Isso também é o destino…"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AC06",
+  "en": "If you're not on your guard,\\nyou're in for some pain!",
+  "pt": "Se não ficar em guarda, você vai sofrer!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AC3C",
+  "en": "You're surprisingly good!",
+  "pt": "Você é surpreendentemente bom!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AC56",
+  "en": "My surprise attack ended in\\nfailure…",
+  "pt": "O meu ataque surpresa terminou em fracasso…"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031ACB4",
+  "en": "To hide a tree, use a forest!\\nTo hide a POKéMON, use a POKéMON!\\pThere is no deep, hidden meaning\\nto that.",
+  "pt": "Para esconder uma árvore, use uma floresta! Para esconder uma CAPTURA, use uma CAPTURA!\\pNão tem nenhum significado profundo e oculto nisso."
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031ADB3",
+  "en": "Go for a SURF on my POKéMON…\\pThen fish off its back…\\pIt's an indescribably luxuriant moment!",
+  "pt": "Sair pra SURFAR na minha CAPTURA…\\pDepois pescar nas costas dela…\\pÉ um momento de luxo indescritível!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AEA3",
+  "en": "Hit me with another power chord!\\nLeave me alone!\\lYour win you have to atone!",
+  "pt": "Toca outro acorde potente!\\nMe deixa em paz!\\lEssa vitória você me paga, rapaz!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AEF0",
+  "en": "Hohoho!\\nI like kid TRAINERS!\\lLet's have a good one!",
+  "pt": "Hohoho! Eu gosto de TREINADORES mirins! Vamos fazer uma boa batalha!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AF24",
+  "en": "You're pretty amazing!\\nHohoho!",
+  "pt": "Você é incrível! Hohoho!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AF43",
+  "en": "Hohoho!\\nI'll try emulating the pep of kid\\lTRAINERS like you!",
+  "pt": "Hohoho! Vou tentar imitar a energia de TREINADORES mirins como você!"
+ },
+ {
+  "map": "50.34 B. CASTLE 2F",
+  "offset": "031AFDC",
+  "en": "You're asking if my parasol is heavy?\\nYour BAG is filled with more junk than\\lI ever carry around.",
+  "pt": "Quer saber se a minha sombrinha é pesada? A sua BOLSA está mais cheia de tralha do que qualquer coisa que eu carrego por aí."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "02396E0",
+  "en": "STEVEN: Hm? {PLAYER}{KUN}, hi.\\nIt's been a while.\\pThere's something here that you can't\\nsee, right?\\pNow, if I were to use this device on\\nthe invisible obstacle…\\pNo, no. Rather than describing it,\\nI should just show you.\\lThat would be more fun.\\p{PLAYER}{KUN}, are your POKéMON ready for\\nbattle?",
+  "pt": "STEVEN: Hum? {PLAYER}{KUN}, oi. Quanto tempo.\\pTem alguma coisa aqui que você não consegue ver, certo?\\pAgora, se eu usasse este aparelho no obstáculo invisível…\\pNão, não. Em vez de descrever, é melhor eu mostrar. Assim é mais divertido.\\p{PLAYER}{KUN}, as suas CAPTURAS estão prontas pra batalha?"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "02397F4",
+  "en": "STEVEN: No?\\pI'll wait here, so you can get ready.",
+  "pt": "STEVEN: Não?\\pVou esperar aqui, pra você se preparar."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "0239826",
+  "en": "STEVEN: {PLAYER}{KUN}, are your POKéMON\\nready for battle?",
+  "pt": "STEVEN: {PLAYER}{KUN}, as suas CAPTURAS estão prontas pra batalha?"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "0239857",
+  "en": "STEVEN: {PLAYER}{KUN}, show me your true\\npower as a TRAINER!",
+  "pt": "STEVEN: {PLAYER}{KUN}, me mostre o seu verdadeiro poder como TREINADOR!"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "023988B",
+  "en": "STEVEN used the DEVON SCOPE.\\pAn invisible POKéMON became completely\\nvisible!\\pThe startled POKéMON attacked!",
+  "pt": "STEVEN usou o DEVON SCOPE.\\pUma CAPTURA invisível ficou completamente visível!\\pA CAPTURA assustada atacou!"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "02398F7",
+  "en": "STEVEN: I see…\\nYour battle style is intriguing.\\pYour POKéMON have obviously grown\\nsince I first met you in DEWFORD.\\pI'd like you to have this\\nDEVON SCOPE.\\pWho knows, there may be other\\nconcealed POKéMON.",
+  "pt": "STEVEN: Entendo… O seu estilo de batalha é intrigante.\\pAs suas CAPTURAS claramente cresceram desde que te conheci em DEWFORD.\\pQuero que você fique com este DEVON SCOPE.\\pQuem sabe, pode haver outras CAPTURAS escondidas."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "02399C3",
+  "en": "STEVEN: {PLAYER}{KUN}.\\pI enjoy seeing POKéMON and TRAINERS\\nwho strive together.\\pI think you're doing great.\\pWell, let's meet again somewhere.",
+  "pt": "STEVEN: {PLAYER}{KUN}.\\pEu gosto de ver CAPTURAS e TREINADORES que se esforçam juntos.\\pAcho que você está indo muito bem.\\pBom, a gente se vê por aí."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "0239B13",
+  "en": "ROUTE 120\\n← FORTREE CITY",
+  "pt": "ROTA 120\\n← FORTREE CITY"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B08B",
+  "en": "The move FLY is convenient,\\ndon't you think?\\pWhile the POKéMON is flying,\\nalmost no moves can strike it.",
+  "pt": "O golpe VOAR é prático, não acha?\\pEnquanto a CAPTURA está voando, quase nenhum golpe consegue atingi-la."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B0F4",
+  "en": "My POKéMON is strong!\\nHow about yours?",
+  "pt": "A minha CAPTURA é forte! E a sua?"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B11B",
+  "en": "Your POKéMON were stronger…",
+  "pt": "As suas CAPTURAS eram mais fortes…"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B137",
+  "en": "A POKéMON that grows steadily is one\\nyou can count on.",
+  "pt": "Uma CAPTURA que cresce aos poucos é uma com que você pode contar."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B16E",
+  "en": "You can be counted on to get better.\\nI'd like to register you in my POKéNAV!",
+  "pt": "Dá pra contar que você vai melhorar. Quero te registrar no meu POKéNAV!"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B215",
+  "en": "My POKéMON are growing stronger.\\nI have to grow stronger, too.",
+  "pt": "As minhas CAPTURAS estão ficando mais fortes. Eu também preciso ficar mais forte."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B2D6",
+  "en": "To travel wherever your heart desires\\nwith POKéMON…\\lThat's the joy of being a TRAINER.",
+  "pt": "Viajar com as CAPTURAS para onde o coração mandar… Essa é a alegria de ser TREINADOR."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B3A7",
+  "en": "Fitness training is in my routine.\\nI always run with my POKéMON.",
+  "pt": "Treino físico faz parte da minha rotina. Eu sempre corro com as minhas CAPTURAS."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B410",
+  "en": "Lost it…",
+  "pt": "Perdi…"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B4BA",
+  "en": "… … … … … …\\n… … … … … …\\lI'll try harder…\\lFor my precious BUG POKéMON…",
+  "pt": "… … … … … … … … … … … … Vou me esforçar mais… Pelas minhas preciosas CAPTURAS do tipo INSETO…"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B57F",
+  "en": "The special abilities of POKéMON\\nwill make battle styles change.",
+  "pt": "As habilidades especiais das CAPTURAS fazem os estilos de batalha mudarem."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B652",
+  "en": "That giant rock… I would like to\\nbelieve it may indeed contain ancient\\lruins. But I see no entrance.",
+  "pt": "Aquela rocha gigante… Eu gostaria de acreditar que ela guarda ruínas antigas. Mas não vejo nenhuma entrada."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B6B7",
+  "en": "Why am I carrying this parasol?\\pI'll tell you if you can win against me.",
+  "pt": "Por que eu carrego esta sombrinha?\\pEu conto se você me vencer."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B700",
+  "en": "A parasol can't ward off POKéMON\\nattacks…",
+  "pt": "Uma sombrinha não protege dos ataques das CAPTURAS…"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B72A",
+  "en": "I don't think strong sunlight is good\\nfor my POKéMON.\\lSo I shield them with my parasol.",
+  "pt": "Acho que sol forte não faz bem pras minhas CAPTURAS. Então eu as protejo com a minha sombrinha."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B808",
+  "en": "A parasol wouldn't suit you at all.\\pWhy, something like this would only\\nget in your way.",
+  "pt": "Uma sombrinha não combinaria nada com você.\\pOra, uma coisa dessas só ia te atrapalhar."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B8E5",
+  "en": "Perhaps I ought to apprentice under\\na ninja sensei.",
+  "pt": "Talvez eu devesse virar aprendiz de um mestre ninja."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031B99A",
+  "en": "Our camouflage cloaks are all\\nhandmade.",
+  "pt": "As nossas capas de camuflagem são todas feitas à mão."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031BA13",
+  "en": "I wonder… Should I evolve my POKéMON?\\nThey're cute the way they are, though.",
+  "pt": "Fico pensando… Será que devo evoluir as minhas CAPTURAS? Mas elas são tão fofas do jeito que são."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031BA60",
+  "en": "Your party POKéMON…\\nDo you have different types?",
+  "pt": "As CAPTURAS da sua equipe… Elas são de tipos diferentes?"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031BA91",
+  "en": "I've seen your policy in action!",
+  "pt": "Eu vi a sua estratégia em ação!"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "031BAB2",
+  "en": "I think it's awesome you're so strong\\nbattling with your favorite POKéMON.",
+  "pt": "Acho demais você ser tão forte batalhando com as suas CAPTURAS favoritas."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "0323C78",
+  "en": "BERRIES grow by soaking up sunlight.\\pWe help the BERRIES grow by watering\\nthem regularly.\\pIt's an expression of love, isn't it?",
+  "pt": "As FRUTAS crescem absorvendo a luz do sol.\\pNós ajudamos as FRUTAS a crescer regando-as regularmente.\\pÉ uma forma de amor, não é?"
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "0323CF8",
+  "en": "Yes, yes.\\nYou understand what I mean.\\pYou should take this.",
+  "pt": "Isso, isso. Você entende o que eu quero dizer.\\pFique com isto."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "0323D34",
+  "en": "Oh… But it is important to make your\\nown impressions, I guess…\\pYou can have this.",
+  "pt": "Ah… Mas é importante ter as suas próprias impressões, acho…\\pPode ficar com isto."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "0323D86",
+  "en": "I think that BERRY is rare.\\nI hope you raise it with loving care.",
+  "pt": "Acho que essa FRUTA é rara. Espero que você a cultive com muito carinho."
+ },
+ {
+  "map": "50.35 CASTLE REST AREA",
+  "offset": "0323DC8",
+  "en": "I'll get more BERRIES from\\nthe BERRY MASTER.",
+  "pt": "Vou pegar mais FRUTAS com o MESTRE DAS FRUTAS."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "0239DC7",
+  "en": "Ahead looms MT. PYRE…\\pIt is a natural monument to the spirits \\nof departed POKéMON…",
+  "pt": "Adiante se ergue o MT. PYRE…\\pÉ um monumento natural aos espíritos das CAPTURAS que já partiram…"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "0239E1B",
+  "en": "MT. PYRE PIER\\p…The sign is old and worn out.\\nThe words are barely legible…",
+  "pt": "PÍER DO MT. PYRE\\p…A placa está velha e gasta. As palavras estão quase ilegíveis…"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "0239E66",
+  "en": "“Filled with rare POKéMON!”\\nSAFARI ZONE",
+  "pt": "“Cheia de CAPTURAS raras!”\\nZONA SAFÁRI"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BB49",
+  "en": "I'm going to a CONTEST in LILYCOVE.\\pMy POKéMON should have no problem\\nsweeping the MASTER CLASS.",
+  "pt": "Vou a um CONCURSO em LILYCOVE.\\pAs minhas CAPTURAS não devem ter problema pra arrasar na categoria MESTRE."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BC2F",
+  "en": "I would like to circle the globe once\\nagain with my POKéMON.",
+  "pt": "Eu gostaria de dar a volta ao mundo mais uma vez com as minhas CAPTURAS."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BC6C",
+  "en": "Your POKéMON prowess is remarkable.\\nAllow me to register you as a memento.",
+  "pt": "A sua habilidade com CAPTURAS é notável. Permita-me registrá-lo como lembrança."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BCB7",
+  "en": "With my POKéMON, I have traveled\\nto the world's four corners.\\pYou might say I have some confidence\\nin my abilities.",
+  "pt": "Com as minhas CAPTURAS, viajei pelos quatro cantos do mundo.\\pPode-se dizer que tenho certa confiança nas minhas habilidades."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BD2B",
+  "en": "Ah, well played.",
+  "pt": "Ah, muito bem jogado."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BD3C",
+  "en": "Your POKéMON and you…\\pYour prowess together will be\\nconsidered strong, even overseas.",
+  "pt": "Você e as suas CAPTURAS…\\pA habilidade de vocês juntos seria considerada forte até no exterior."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BDD7",
+  "en": "MT. PYRE…\\nThere is a mysterious power\\lat work there…",
+  "pt": "MT. PYRE… Há um poder misterioso agindo lá…"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BE87",
+  "en": "KATE: When someone's relying on me,\\nI get this urge to look cool in front\\lof them…",
+  "pt": "KATE: Quando alguém conta comigo, me dá uma vontade de parecer descolada na frente da pessoa…"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031BF93",
+  "en": "JOY: Ehehe, I'll have to train with KATE,\\nmy senior student partner, again.",
+  "pt": "JOY: Ehehe, vou ter que treinar de novo com a KATE, a minha parceira veterana."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C023",
+  "en": "Stop! Have a good look at my precious\\nPOKéMON!",
+  "pt": "Pare! Dê uma boa olhada na minha preciosa CAPTURA!"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C052",
+  "en": "Oh, how dare you!\\nDon't take it so seriously!",
+  "pt": "Ah, como você ousa! Não leve tão a sério!"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C080",
+  "en": "Maybe I'll go catch more POKéMON at\\nthe SAFARI.",
+  "pt": "Talvez eu vá pegar mais CAPTURAS no SAFÁRI."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C0B0",
+  "en": "I took it easy on you this time!\\nIt won't be that way the next time!",
+  "pt": "Desta vez eu peguei leve com você! Na próxima não vai ser assim!"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C151",
+  "en": "Maybe I'll go catch more POKéMON at\\nthe SAFARI.",
+  "pt": "Talvez eu vá pegar mais CAPTURAS no SAFÁRI."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C1E5",
+  "en": "I didn't expect to lose this easily…\\nI'll win next time!",
+  "pt": "Não esperava perder tão fácil… Na próxima eu ganho!"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C21E",
+  "en": "That was total humiliation!\\nI won't forget you…\\lHand over your POKéNAV!",
+  "pt": "Que humilhação total! Não vou me esquecer de você… Passa o seu POKéNAV!"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C2E1",
+  "en": "An opponent I just can't beat…\\nSnivel…\\lI can't believe this is happening…",
+  "pt": "Um adversário que eu simplesmente não consigo vencer… Snif… Não acredito que isso está acontecendo…"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C3BF",
+  "en": "I bought too much stuff at\\nthe LILYCOVE DEPT. STORE.\\pIt's up the road from here.\\nI wish I had a BAG like yours.",
+  "pt": "Comprei coisa demais na LOJA DE DEPARTAMENTOS de LILYCOVE.\\pFica mais pra frente nesta estrada. Queria ter uma BOLSA igual à sua."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C484",
+  "en": "They're great, your POKéMON!\\nHow do you raise them?",
+  "pt": "As suas CAPTURAS são ótimas! Como você as cria?"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C4B8",
+  "en": "I want everybody to see the POKéMON\\nI've raised!",
+  "pt": "Quero que todo mundo veja as CAPTURAS que eu criei!"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C4E9",
+  "en": "Wow!\\nSpectacular!",
+  "pt": "Uau! Espetacular!"
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C4FB",
+  "en": "I raise every POKéMON with the same\\nlove and care--I don't pick favorites.",
+  "pt": "Eu crio todas as CAPTURAS com o mesmo amor e carinho. Não tenho favoritas."
+ },
+ {
+  "map": "50.36 ROUTE 121",
+  "offset": "031C5B9",
+  "en": "I may have to train my gang some more\\nbefore entering any CONTEST.",
+  "pt": "Talvez eu precise treinar mais a minha turma antes de entrar em qualquer CONCURSO."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "023A1A5",
+  "en": "Oh?\\pYou like GRASS-type POKéMON, too,\\ndon't you?\\pI'm so happy, you can have this!\\nIt's a token of our friendship.",
+  "pt": "Oh?\\pVocê também gosta de CAPTURAS do tipo PLANTA, não é?\\pFico tão feliz que vou te dar isto! É um símbolo da nossa amizade."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "023A217",
+  "en": "I check trees with my GRASS-type\\nPOKéMON. I'm like a tree doctor.",
+  "pt": "Eu examino árvores com as minhas CAPTURAS do tipo PLANTA. Sou tipo um médico de árvores."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "023A271",
+  "en": "↑ MT. PYRE\\n“Forbidden to the faint of heart.”",
+  "pt": "↑ MT. PYRE\\n“Proibido para os medrosos.”"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "023A29F",
+  "en": "BERRY MASTER'S HOUSE",
+  "pt": "CASA DO MESTRE DAS FRUTAS"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C653",
+  "en": "To best even me…\\nYour strength is marvelous!",
+  "pt": "Superar até a mim… A sua força é maravilhosa!"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C705",
+  "en": "You did your BADGES proud in that\\nmatch!",
+  "pt": "Você honrou as suas INSÍGNIAS nessa batalha!"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C78C",
+  "en": "The BERRY MASTER's garden is filled\\nwith uplifting fragrances.",
+  "pt": "O jardim do MESTRE DAS FRUTAS é cheio de fragrâncias revigorantes."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C7CB",
+  "en": "Being a psychic is about willpower.\\pI've willed myself not to lose to\\nanyone. That makes me strong!",
+  "pt": "Ter poderes psíquicos é questão de força de vontade.\\pEu decidi com toda a minha vontade não perder pra ninguém. Isso me deixa forte!"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C82F",
+  "en": "I feel sad…",
+  "pt": "Estou triste…"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C83B",
+  "en": "Being a psychic is about willpower.\\nI thought I wouldn't lose to you…",
+  "pt": "Ter poderes psíquicos é questão de força de vontade. Achei que não ia perder pra você…"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C881",
+  "en": "I sense it!\\nYou and I shall battle again!\\lI can't tell if I'll win, though…\\pLet's see your POKéNAV.",
+  "pt": "Estou sentindo! Você e eu vamos batalhar de novo! Só não sei dizer se eu vou ganhar…\\pDeixa eu ver o seu POKéNAV."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C938",
+  "en": "I should train at MT. PYRE…\\nI'll never beat you this way…",
+  "pt": "Eu devia treinar no MT. PYRE… Desse jeito nunca vou te vencer…"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031C9F6",
+  "en": "We all have psychic powers.\\nWe've just forgotten how to use them.",
+  "pt": "Todos nós temos poderes psíquicos. Só esquecemos como usá-los."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CA38",
+  "en": "I would like to face you again.\\nIs that okay with you?",
+  "pt": "Eu gostaria de te enfrentar de novo. Tudo bem pra você?"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CAAA",
+  "en": "Your power with POKéMON…\\nThat could be a psychic power, too.",
+  "pt": "O seu poder com as CAPTURAS… Isso também pode ser um poder psíquico."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CAE7",
+  "en": "MIU: Hello, TRAINER. I hope your\\nPOKéMON won't cry when they lose.",
+  "pt": "MIU: Olá, TREINADOR. Espero que as suas CAPTURAS não chorem quando perderem."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CB2A",
+  "en": "MIU: Uh-oh, we lost.",
+  "pt": "MIU: Ih, perdemos."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CB3F",
+  "en": "MIU: TRAINER, your POKéMON are\\nstrong because you are friends.",
+  "pt": "MIU: TREINADOR, as suas CAPTURAS são fortes porque vocês são amigos."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CB7E",
+  "en": "MIU: It's no fun to battle if you\\ndon't have two POKéMON.",
+  "pt": "MIU: Não tem graça batalhar se você não tiver duas CAPTURAS."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CBFF",
+  "en": "YUKI: Why are you so strong?\\nWe've never lost before.",
+  "pt": "YUKI: Por que você é tão forte? A gente nunca tinha perdido antes."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CCD2",
+  "en": "MT. PYRE…\\nWhere the spirits of POKéMON sleep…\\pIt must overflow with a power that\\nsoothes spirits…",
+  "pt": "MT. PYRE… Onde os espíritos das CAPTURAS dormem…\\pDeve transbordar de um poder que acalma os espíritos…"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CD9A",
+  "en": "You're rock steady.\\nI'd like to write a tune about you.",
+  "pt": "Você é firme como uma rocha. Quero compor uma música sobre você."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CDD2",
+  "en": "The next time, lend your ears to\\nthe full tune, will you?",
+  "pt": "Na próxima vez, ouça a música inteira, tá?"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CE98",
+  "en": "I thought you'd be so enthralled\\nby my tune, you'd lose.",
+  "pt": "Achei que você ia ficar tão encantado com a minha música que ia perder."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CF23",
+  "en": "Don't tell my brother I lost.\\nYou have to keep it a secret!",
+  "pt": "Não conte pro meu irmão que eu perdi. Tem que ser segredo!"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CF5F",
+  "en": "My confidence will get a boost by\\nbeating someone obviously strong!",
+  "pt": "A minha confiança vai lá pra cima se eu vencer alguém que é claramente forte!"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CFA3",
+  "en": "There goes my confidence…",
+  "pt": "Lá se vai a minha confiança…"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031CFBD",
+  "en": "They say that you can't judge a person\\nby their appearance.\\pBut often, their looks don't lie…",
+  "pt": "Dizem que não se deve julgar uma pessoa pela aparência.\\pMas, muitas vezes, a aparência não mente…"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031D083",
+  "en": "Contribute to your allowance?\\nWasn't the prize money enough?",
+  "pt": "Contribuir pra sua mesada? O dinheiro do prêmio não foi suficiente?"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031D0C0",
+  "en": "I have to tell you, BIRD POKéMON\\nare my obsession!\\pBirds are cool!\\nThey're the best!",
+  "pt": "Tenho que te contar: CAPTURAS VOADORAS são a minha obsessão!\\pAves são demais! São as melhores!"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031D115",
+  "en": "Even in defeat, BIRD POKéMON are cool!",
+  "pt": "Mesmo derrotadas, as CAPTURAS VOADORAS são demais!"
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031D13C",
+  "en": "I gather BIRD POKéMON feathers that\\nscatter during battles.\\pI'm going to make a hat with\\nBIRD POKéMON feathers.",
+  "pt": "Eu junto as penas que as CAPTURAS VOADORAS soltam durante as batalhas.\\pVou fazer um chapéu com penas de CAPTURAS VOADORAS."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031D21E",
+  "en": "Hehe, I'm swiping your battling ideas!\\nI think they'll make me better.",
+  "pt": "Hehe, estou copiando as suas ideias de batalha! Acho que elas vão me deixar melhor."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031D2DB",
+  "en": "I'm going to ambush a weaker-looking\\nTRAINER next time.",
+  "pt": "Na próxima vez, vou emboscar um TREINADOR com cara de mais fraco."
+ },
+ {
+  "map": "50.38 ROUTE 123",
+  "offset": "031D37F",
+  "en": "Using accessories effectively is\\nthe secret behind fashion appeal.",
+  "pt": "Usar acessórios do jeito certo é o segredo do charme na moda."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D431",
+  "en": "Many people lose their bearings at sea.\\pIf you're that sort, you should refer\\nto the POKéNAV's MAP.",
+  "pt": "Muita gente perde o rumo no mar.\\pSe você é desse tipo, devia consultar o MAPA do POKéNAV."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D4EA",
+  "en": "I'm getting chilled…\\nI've been in the water too long…\\pI wish I could ride a POKéMON like you…",
+  "pt": "Estou ficando com frio… Fiquei tempo demais na água…\\pQueria poder montar numa CAPTURA como você…"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D5AB",
+  "en": "While swimming, I noticed that some\\nPOKéMON attack, and some just watch.\\pI guess POKéMON have personalities\\nof their own.",
+  "pt": "Enquanto nadava, percebi que algumas CAPTURAS atacam, e outras só ficam olhando.\\pAcho que as CAPTURAS têm personalidade própria."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D625",
+  "en": "It's only on a whim, but maybe I'll get\\nyou to register me in your POKéNAV.",
+  "pt": "É só um capricho, mas talvez eu deixe você me registrar no seu POKéNAV."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D671",
+  "en": "If you just float in the sea like this,\\nTRAINERS challenge you!",
+  "pt": "Se você fica boiando no mar assim, os TREINADORES vêm te desafiar!"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D6B1",
+  "en": "That's strange…\\nI lost again…",
+  "pt": "Que estranho… Perdi de novo…"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D6CF",
+  "en": "This has nothing to do with anything,\\nbut maybe I'll visit the TRICK HOUSE.",
+  "pt": "Isso não tem nada a ver com nada, mas acho que vou visitar a CASA DOS TRUQUES."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D777",
+  "en": "All the effort you put in must have\\nmade you this strong.",
+  "pt": "Todo o esforço que você fez deve ter te deixado forte assim."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D82F",
+  "en": "I have it on good authority that\\nthere's a DIVE spot around here.\\pIt gives me the urge to go deep\\nagain…",
+  "pt": "Fiquei sabendo de fonte segura que tem um ponto de MERGULHO por aqui.\\pIsso me dá vontade de ir lá pro fundo de novo…"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031D94B",
+  "en": "LILA: Sigh…\\pIf only it wasn't my little brother\\nnext to me, but a nice boyfriend…",
+  "pt": "LILA: Ai, ai…\\pSe ao menos quem estivesse do meu lado fosse um namorado legal, e não o meu irmãozinho…"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031DA4F",
+  "en": "ROY: My big sister is really scary\\nwhen she gets angry.\\pThat's why she doesn't have a\\nboyfriend.",
+  "pt": "ROY: A minha irmã mais velha fica muito assustadora quando se irrita.\\pÉ por isso que ela não tem namorado."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031DAB0",
+  "en": "ROY: Will you battle with us again?\\nBut take it easy next time, okay?",
+  "pt": "ROY: Você batalha com a gente de novo? Mas pega leve da próxima vez, tá?"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031DC14",
+  "en": "LILA: Sigh…\\pIf I had a nice boyfriend, we'd beat\\nanyone with lovely combinations…",
+  "pt": "LILA: Ai, ai…\\pSe eu tivesse um namorado legal, a gente venceria qualquer um com combinações lindas…"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031DD20",
+  "en": "ROY: My big sister is really scary\\nwhen she gets angry.\\pShe's going to make me train really\\nhard with POKéMON later…",
+  "pt": "ROY: A minha irmã mais velha fica muito assustadora quando se irrita.\\pDepois ela vai me fazer treinar pesado com as CAPTURAS…"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031DE60",
+  "en": "I should chat up lady SWIMMERS\\nand invite them on a long swim.",
+  "pt": "Eu devia puxar papo com as NADADORAS e chamar elas pra uma longa nadada."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031DE9F",
+  "en": "I'm not going to lose to some\\nsurfer TRAINER.",
+  "pt": "Não vou perder pra um TREINADOR surfista qualquer."
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031DECD",
+  "en": "I've only got sweat in my eyes!\\nI am not crying!",
+  "pt": "É só suor nos meus olhos! Não estou chorando!"
+ },
+ {
+  "map": "50.39 ROUTE 124",
+  "offset": "031DEFE",
+  "en": "You can find pretty colored shards\\nof things around here.",
+  "pt": "Dá pra achar uns cacos coloridos e bonitos por aqui."
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031DF78",
+  "en": "Sound travels faster in water than\\nit does through air.",
+  "pt": "O som viaja mais rápido na água do que no ar."
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031DFE6",
+  "en": "I was blown away by HORSEA's charm,\\nso I started swimming, too.",
+  "pt": "O charme do HORSEA me conquistou, então comecei a nadar também."
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E026",
+  "en": "I'm tired of swimming.\\nAre you up for a battle with me?",
+  "pt": "Cansei de nadar. Topa uma batalha comigo?"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E05E",
+  "en": "You're too much!",
+  "pt": "Você é demais!"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E06F",
+  "en": "Whew…\\nWhich way is it to MOSSDEEP CITY?",
+  "pt": "Ufa… Pra que lado fica MOSSDEEP CITY?"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E0DF",
+  "en": "Your power… You're the real deal.\\nI'm amazed!",
+  "pt": "O seu poder… Você é bom de verdade. Que impressionante!"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E166",
+  "en": "The tide ebbs and flows inside the\\nSHOAL CAVE.\\pBy the way, it's about six hours from\\nhigh tide to low tide. Did you know?",
+  "pt": "A maré sobe e desce dentro da SHOAL CAVE.\\pAliás, são umas seis horas da maré alta até a maré baixa. Sabia?"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E1E0",
+  "en": "Register me in your POKéNAV,\\nand I'll tell you something good.",
+  "pt": "Me registre no seu POKéNAV, que eu te conto uma coisa boa."
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E28B",
+  "en": "The SHOAL CAVE…\\pThere are places you can and can't\\nget to depending on the rise and fall\\lof the tide.\\pBy the way, it's about six hours from\\nhigh tide to low tide. Don't forget!",
+  "pt": "A SHOAL CAVE…\\pTem lugares aonde você consegue ou não chegar, dependendo da subida e da descida da maré.\\pAliás, são umas seis horas da maré alta até a maré baixa. Não esqueça!"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E33C",
+  "en": "KIM: A funny old man lives in the\\nSHOAL CAVE. Someone told me.\\lAre you going to see him, too?",
+  "pt": "KIM: Um velhinho engraçado mora na SHOAL CAVE. Alguém me contou. Você também vai visitar ele?"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E39A",
+  "en": "KIM: I thought we would win.",
+  "pt": "KIM: Achei que a gente ia ganhar."
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E3B7",
+  "en": "KIM: A funny old man lives in the\\nSHOAL CAVE, doesn't he?\\pLet's go see him, IRIS!",
+  "pt": "KIM: Um velhinho engraçado mora na SHOAL CAVE, não é?\\pVamos lá ver ele, IRIS!"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E409",
+  "en": "KIM: No, no, no! You need two POKéMON,\\nor it's just no good!",
+  "pt": "KIM: Não, não, não! Você precisa de duas CAPTURAS, senão não dá!"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E4A3",
+  "en": "IRIS: KIM, are we really going into\\nthe SHOAL CAVE?\\lWe'll get all wet.",
+  "pt": "IRIS: KIM, a gente vai mesmo entrar na SHOAL CAVE? Vamos ficar encharcadas."
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E581",
+  "en": "I put a message in a bottle and put\\nit out to sea.\\pI'm sure that a girl SWIMMER will\\nfind it!",
+  "pt": "Coloquei uma mensagem numa garrafa e joguei no mar.\\pTenho certeza de que uma NADADORA vai encontrá-la!"
+ },
+ {
+  "map": "50.40 ROUTE 125",
+  "offset": "031E63B",
+  "en": "I found an unsightly bottle bobbing\\nin the waves earlier.\\pIt angers me that someone would\\npollute the sea!",
+  "pt": "Mais cedo eu achei uma garrafa feia boiando nas ondas.\\pMe irrita que alguém polua o mar!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E6A6",
+  "en": "Swimming is a full-body workout!\\nYou will get fit!",
+  "pt": "Nadar é um exercício pro corpo todo! Você vai ficar em forma!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E6D9",
+  "en": "I admit it!\\nYou win!",
+  "pt": "Admito! Você venceu!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E6EE",
+  "en": "Thanks to my daily swimming routine…\\nLook! Feast your eyes on this physique!",
+  "pt": "Graças à minha rotina diária de natação… Olha só! Admire este físico!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E783",
+  "en": "I can't find the entrance to\\nSOOTOPOLIS. Where could it be?",
+  "pt": "Não consigo achar a entrada de SOOTOPOLIS. Onde será que fica?"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E814",
+  "en": "You thrashed me… I want to\\ndisappear in a wave of despair…",
+  "pt": "Você me arrasou… Quero sumir numa onda de desespero…"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E881",
+  "en": "I love frolicking with POKéMON in\\nthe sea like this!",
+  "pt": "Adoro brincar com as CAPTURAS no mar assim!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E921",
+  "en": "Losing to you stimulated my senses!\\nI'll train myself and POKéMON harder!",
+  "pt": "Perder pra você despertou os meus sentidos! Vou treinar com mais afinco, eu e as minhas CAPTURAS!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E96B",
+  "en": "Yep, you're not bad at all!\\nI'd like to get to know you more!",
+  "pt": "É, você não é nada mau! Quero te conhecer melhor!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E9A9",
+  "en": "Check out this beautiful body!\\nI'm more shapely than a SWIMMER!",
+  "pt": "Olha só este corpo lindo! Tenho mais curvas que qualquer NADADOR!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031E9E9",
+  "en": "Whoops! Really too strong!\\nNot bad! Not bad at all!",
+  "pt": "Opa! Forte demais mesmo! Nada mau! Nada mau mesmo!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031EA1D",
+  "en": "I'm going to train even harder!\\nYou're a great motivator!\\lYou have to come back again!",
+  "pt": "Vou treinar ainda mais! Você me motiva muito! Tem que voltar aqui de novo!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031EA74",
+  "en": "I couldn't even swim last year,\\nbut now I'm a decent SWIMMER.\\pI think I'm capable of anything now.",
+  "pt": "Ano passado eu nem sabia nadar, mas agora já sou um NADADOR razoável.\\pAcho que agora sou capaz de tudo."
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031EAD7",
+  "en": "Sheesh, getting greedy didn't do\\na thing for me.",
+  "pt": "Francamente, a ganância não me adiantou de nada."
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031EB08",
+  "en": "If you practice at something,\\nyou will get better at it.\\pYou're young--don't be afraid to\\ntry all sorts of things!",
+  "pt": "Se você pratica alguma coisa, você melhora nela.\\pVocê é jovem, não tenha medo de experimentar todo tipo de coisa!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031EBC9",
+  "en": "Ooh, I choked on some water!\\nIt's bitter! It's salty!!",
+  "pt": "Argh, engoli água! É amarga! É salgada!!"
+ },
+ {
+  "map": "50.41 ROUTE 126",
+  "offset": "031EC3B",
+  "en": "I need to cool down now…\\nI think I'll go for a dive.",
+  "pt": "Preciso esfriar a cabeça agora… Acho que vou dar um mergulho."
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031ECB2",
+  "en": "A well-played match leaves me feeling\\nrefreshed and serene.",
+  "pt": "Uma partida bem jogada me deixa com uma sensação de calma e renovação."
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031ED3D",
+  "en": "If you have a rival, don't you get the\\nfeeling that you have to keep getting\\lbetter?",
+  "pt": "Quando você tem um rival, não sente que precisa continuar melhorando sempre?"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031EE1D",
+  "en": "It matters not that I catch nothing.\\nThe line remains in the water…",
+  "pt": "Não importa que eu não pegue nada. A linha continua na água…"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031EE61",
+  "en": "Whoops! Don't tell me I snagged\\na SURFING POKéMON?",
+  "pt": "Opa! Não me diga que eu fisguei uma CAPTURA que estava SURFANDO?"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031EE94",
+  "en": "I can't keep up!",
+  "pt": "Não consigo acompanhar!"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031EEA5",
+  "en": "It'd be a handful if I hooked\\nyour tough POKéMON!",
+  "pt": "Ia dar trabalho se eu fisgasse a sua CAPTURA durona!"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031EF49",
+  "en": "My fishing line's doing a dance!\\nThe tangle tango! Hahaha, snarl!",
+  "pt": "A minha linha de pesca está dançando! O tango do enrosco! Hahaha, que nó!"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031EFE3",
+  "en": "There're lots of diving spots in\\nthe sea around here.\\pYou can spot them easily from the sky\\nbecause of their darker color.",
+  "pt": "Tem muitos pontos de mergulho no mar por aqui.\\pDá pra achar eles fácil lá do céu, porque a cor é mais escura."
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031F05E",
+  "en": "Run in your bare feet.\\nThat will toughen up your soles!",
+  "pt": "Corra descalço. Isso vai deixar as solas dos seus pés mais duras!"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031F096",
+  "en": "Yowch!\\nI got a pebble under a toenail!",
+  "pt": "Ai! Entrou uma pedrinha embaixo da minha unha do pé!"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031F0BD",
+  "en": "Going barefoot feels great.\\nBut your RUNNING SHOES are cool, too.",
+  "pt": "Andar descalço é ótimo. Mas o seu TÊNIS DE CORRIDA também é demais."
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031F0FF",
+  "en": "This is what I do to people who beat me!\\nI hope we can do this again.",
+  "pt": "É isso que eu faço com quem me vence! Espero que a gente repita isso."
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031F19F",
+  "en": "Want to go barefoot for a while?\\nSo I can try your RUNNING SHOES?",
+  "pt": "Quer andar descalço um pouco? Pra eu poder experimentar o seu TÊNIS DE CORRIDA?"
+ },
+ {
+  "map": "50.42 NATURE RESERVE",
+  "offset": "031F243",
+  "en": "When I'm surrounded by the blue sea\\nand sky, it feels as if time slows down.",
+  "pt": "Com o mar e o céu azuis ao meu redor, parece que o tempo passa mais devagar."
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "023AB90",
+  "en": "I…\\nI only wanted…",
+  "pt": "Eu…\\nEu só queria…"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "023ABA2",
+  "en": "MAXIE: Do you understand now,\\nARCHIE?\\pDo you finally see how disastrous\\nyour dream turned out to be?\\pWe have to hurry! We have to do\\nsomething before the situation goes\\lcompletely out of control!",
+  "pt": "MAXIE: Entende agora, ARCHIE?\\pVocê finalmente vê o quanto o seu sonho acabou sendo desastroso?\\pPrecisamos nos apressar! Temos que fazer alguma coisa antes que a situação saia completamente do controle!"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "023AC66",
+  "en": "MAXIE: {PLAYER}, don't say anything.\\pI know that I have no right to be\\ncritical of ARCHIE…\\pBut the way things are now, I doubt\\nthat we humans will be capable of\\ldoing anything about it.\\pBut neither can we stand by and\\njust watch helplessly.\\pThe responsibility for putting an end\\nto this falls to ARCHIE and me…",
+  "pt": "MAXIE: {PLAYER}, não diga nada.\\pEu sei que não tenho o direito de criticar o ARCHIE…\\pMas, do jeito que as coisas estão, duvido que nós, humanos, sejamos capazes de fazer algo a respeito.\\pMas também não podemos ficar parados só assistindo, sem poder fazer nada.\\pA responsabilidade de pôr um fim nisso cabe ao ARCHIE e a mim…"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "023AD97",
+  "en": "MAXIE: This defies belief…\\pThose super-ancient POKéMON…\\pTheir power is unbelievable.\\nThey've upset the balance of nature…",
+  "pt": "MAXIE: Isso desafia a razão…\\pAquelas CAPTURAS superancestrais…\\pO poder delas é inacreditável. Elas abalaram o equilíbrio da natureza…"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "023AE11",
+  "en": "STEVEN: {PLAYER}{KUN}!\\nWhat is happening?",
+  "pt": "STEVEN: {PLAYER}{KUN}! O que está acontecendo?"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "023AE32",
+  "en": "This is terrible…\\pAfter the scorching heat wave ended,\\nthis deluge began.\\pIf this doesn't stop, all of HOENN…\\nNo, the whole world will drown.\\pThis huge rain cloud is spreading\\nfrom above SOOTOPOLIS…\\pWhat in the world is taking place there?\\pThere's no point arguing here…\\nSOOTOPOLIS might provide answers…",
+  "pt": "Isso é terrível…\\pDepois que a onda de calor escaldante acabou, começou este dilúvio.\\pSe isso não parar, toda HOENN… Não, o mundo inteiro vai ficar submerso.\\pEsta enorme nuvem de chuva está se espalhando a partir do céu de SOOTOPOLIS…\\pO que será que está acontecendo lá?\\pNão adianta discutir aqui… SOOTOPOLIS pode ter as respostas…"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "023AF63",
+  "en": "{PLAYER}{KUN}…\\nI don't know what you intend to do,\\lbut don't do anything reckless.\\pOkay.\\nI'm going to SOOTOPOLIS.",
+  "pt": "{PLAYER}{KUN}… Não sei o que você pretende fazer, mas não faça nada imprudente.\\pCerto. Eu vou para SOOTOPOLIS."
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F290",
+  "en": "EVER GRANDE CITY is still a long ways\\naway…",
+  "pt": "EVER GRANDE CITY ainda fica bem longe…"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F2BC",
+  "en": "My first victory seems to be far\\naway, too…",
+  "pt": "A minha primeira vitória também parece estar bem longe…"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F2E8",
+  "en": "My whole life has been about losing,\\nbut I will never give up!",
+  "pt": "A minha vida inteira foi só perder, mas eu nunca vou desistir!"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F327",
+  "en": "I know I'm not good now, but I think\\nI can win eventually.\\pPlease register me in your POKéNAV.",
+  "pt": "Sei que ainda me falta muito, mas acho que um dia eu consigo vencer.\\pPor favor, me registre no seu POKéNAV."
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F3ED",
+  "en": "I'll eventually reach EVER GRANDE CITY\\nwhere I can eventually win…",
+  "pt": "Um dia eu chego a EVER GRANDE CITY, onde um dia eu vou vencer…"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F4C8",
+  "en": "I have to ride a BIKE next, but…\\nI'm about to throw in the towel…",
+  "pt": "Depois eu tenho que ir de BICICLETA, mas… Estou quase jogando a toalha…"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F50A",
+  "en": "Well, I may as well make the best\\nof this. I'd like a rematch sometime.",
+  "pt": "Bom, então vou tirar o melhor proveito disso. Quero uma revanche qualquer dia."
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F5EE",
+  "en": "You should give serious thought to\\nchallenges on VICTORY ROAD.",
+  "pt": "Você devia pensar seriamente em encarar os desafios da VICTORY ROAD."
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F62D",
+  "en": "We've been working so hard to mount\\na POKéMON LEAGUE challenge…\\pWe can't afford to lose now!",
+  "pt": "Nós nos esforçamos tanto pra chegar ao desafio da LIGA CAPTURA…\\pNão podemos perder agora!"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F68A",
+  "en": "Oh!\\nHow could this happen?!",
+  "pt": "Oh!\\nComo isso pôde acontecer?!"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F6A6",
+  "en": "After all I've done to get here,\\nI won't give up after one setback.",
+  "pt": "Depois de tudo o que fiz pra chegar aqui, não vou desistir por causa de um tropeço."
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F71E",
+  "en": "There probably is no stronger TRAINER\\nthan you!",
+  "pt": "Provavelmente não existe TREINADOR mais forte que você!"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F7CB",
+  "en": "Awww, phooey!\\pMy POKéMON knows WATERFALL, but\\nI don't have the SOOTOPOLIS GYM BADGE!",
+  "pt": "Aaah, droga!\\pA minha CAPTURA sabe CACHOEIRA, mas eu não tenho a INSÍGNIA do GINÁSIO de SOOTOPOLIS!"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F87D",
+  "en": "There are tough TRAINERS galore\\naround EVER GRANDE.\\pDo you think I may be out\\nof my league?",
+  "pt": "Tem TREINADORES fortes de monte por EVER GRANDE.\\pVocê acha que eu estou fora do meu nível?"
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F8D9",
+  "en": "The sunlight seems to be more harsh\\nin this area.",
+  "pt": "A luz do sol parece mais forte nesta área."
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F90B",
+  "en": "I couldn't see very well because of\\nthe sun's glare.",
+  "pt": "Não consegui enxergar direito por causa do reflexo do sol."
+ },
+ {
+  "map": "50.43 ROUTE 128",
+  "offset": "031F940",
+  "en": "I should go back soon.\\nI need to reapply my sunscreen.",
+  "pt": "Eu devia voltar logo. Preciso passar protetor solar de novo."
+ },
+ {
+  "map": "50.44 ROUTE 129",
+  "offset": "031F9CA",
+  "en": "If I'm all tensed up, I won't be able to\\ngive it my all.",
+  "pt": "Com tanta tensão, não vou conseguir dar o meu máximo."
+ },
+ {
+  "map": "50.44 ROUTE 129",
+  "offset": "031FA59",
+  "en": "Do you know what's the greatest thing\\nabout triathlons?\\pTesting the limits of your own\\nstrength and endurance against\\lMother Nature!",
+  "pt": "Sabe qual é a melhor coisa do triatlo?\\pTestar os limites da sua própria força e resistência contra a Mãe Natureza!"
+ },
+ {
+  "map": "50.44 ROUTE 129",
+  "offset": "031FADE",
+  "en": "Say hey, hey!\\nLet's get on with it!",
+  "pt": "Ei, ei, ei! Vamos logo com isso!"
+ },
+ {
+  "map": "50.44 ROUTE 129",
+  "offset": "031FB02",
+  "en": "Beat, I'm beaten.\\nThat's it, done!",
+  "pt": "Perdi, perdi. Pronto, acabou!"
+ },
+ {
+  "map": "50.44 ROUTE 129",
+  "offset": "031FB25",
+  "en": "There's nothing for a loser.\\nTime for me to beat it home.",
+  "pt": "Perdedor não ganha nada. Hora de dar o fora pra casa."
+ },
+ {
+  "map": "50.44 ROUTE 129",
+  "offset": "031FBB7",
+  "en": "Don't you hate making mistakes when\\nyou're in a rush?\\pThat's why I try to take things\\nslowly.",
+  "pt": "Você não odeia cometer erros quando está com pressa?\\pÉ por isso que eu tento fazer as coisas com calma."
+ },
+ {
+  "map": "50.44 ROUTE 129",
+  "offset": "031FC63",
+  "en": "You have your sights on the POKéMON\\nLEAGUE? Keep at it!",
+  "pt": "Você está de olho na LIGA CAPTURA? Continue firme!"
+ },
+ {
+  "map": "50.45 ROUTE 130",
+  "offset": "031FD11",
+  "en": "Your eyes have that look of someone\\nwho's experienced harsh challenges\\land won. It suits you well!",
+  "pt": "Os seus olhos têm o olhar de alguém que enfrentou desafios duros e venceu. Combina muito com você!"
+ },
+ {
+  "map": "50.45 ROUTE 130",
+  "offset": "031FD74",
+  "en": "In the deep blue sea,\\nmy shattered blue heart finds\\lcomfort among waves.",
+  "pt": "No mar azul profundo,\\nmeu coração azul em pedaços\\lencontra consolo nas ondas."
+ },
+ {
+  "map": "50.45 ROUTE 130",
+  "offset": "031FDBD",
+  "en": "Like the vast blue sea,\\nthe world of POKéMON spans\\ldepths beyond belief.",
+  "pt": "Como o vasto mar azul,\\no mundo das CAPTURAS tem\\lprofundezas inacreditáveis."
+ },
+ {
+  "map": "50.45 ROUTE 130",
+  "offset": "031FE06",
+  "en": "The world's children dream\\nof one day becoming\\lthe POKéMON CHAMPION.",
+  "pt": "As crianças do mundo sonham\\nem um dia se tornar\\lo CAMPEÃO das CAPTURAS."
+ },
+ {
+  "map": "50.45 ROUTE 130",
+  "offset": "031FEA5",
+  "en": "Swimming and battling like this…\\nI'm one happy guy…",
+  "pt": "Nadar e batalhar assim… Eu sou um cara feliz…"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "031FF4E",
+  "en": "Gasp… Gasp…\\nI'm wiped out…\\pThe going's easy. It's the leaving\\nthat's the hard part.\\pWill I have any energy left to make\\nthe return trip?",
+  "pt": "Ufa… Ufa… Estou acabado…\\pA ida é fácil. Difícil é a volta.\\pSerá que vou ter energia pra fazer o caminho de volta?"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "032003E",
+  "en": "Bored I am by the sea, but swim I must.\\pI'm a born swimmer!\\nThat's what I am.",
+  "pt": "Entediado do mar eu estou, mas nadar eu preciso.\\pSou um nadador nato! É isso que eu sou."
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "03200E7",
+  "en": "Did you see a guy over there who whines\\nthat he's bored of the sea?\\pThat's all talk.\\nHe's hopelessly in love with the sea!",
+  "pt": "Você viu um cara ali que vive reclamando que está entediado do mar?\\pÉ só conversa. Ele é perdidamente apaixonado pelo mar!"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "0320162",
+  "en": "Why do men love bathing suits so much?\\pThey all ogle me!",
+  "pt": "Por que os homens gostam tanto de maiôs?\\pTodos ficam me secando!"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "032019B",
+  "en": "I'm out of my depth!",
+  "pt": "Perdi o pé!"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "03201B0",
+  "en": "Maybe it's not my bathing suit that\\nmakes men look. It must be my beauty!",
+  "pt": "Talvez não seja o meu maiô que faz os homens olharem. Deve ser a minha beleza!"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "0320266",
+  "en": "RELI: The people of PACIFIDLOG are\\ntogether with the sea and POKéMON from\\lthe time they are born.",
+  "pt": "RELI: O povo de PACIFIDLOG convive com o mar e as CAPTURAS desde que nasce."
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "0320371",
+  "en": "IAN: You know how PACIFIDLOG is\\na floating town?\\pSo, wherever there is the sea,\\nthat's a part of PACIFIDLOG!",
+  "pt": "IAN: Sabe que PACIFIDLOG é uma cidade flutuante?\\pEntão, onde tiver mar, ali é parte de PACIFIDLOG!"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "0320459",
+  "en": "There is an odd place nearby.\\nThere's a huge tower there.\\lWhy don't you go take a look?",
+  "pt": "Tem um lugar estranho aqui perto. Tem uma torre enorme lá. Por que você não vai dar uma olhada?"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "03204B1",
+  "en": "The people of PACIFIDLOG are\\na peaceful bunch.\\pThey never get angry.\\nThat goes for me, too.",
+  "pt": "O povo de PACIFIDLOG é muito pacífico.\\pEles nunca ficam bravos. Eu também sou assim."
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "032050D",
+  "en": "Oops!",
+  "pt": "Opa!"
+ },
+ {
+  "map": "50.46 ROUTE 131",
+  "offset": "0320513",
+  "en": "Tch! …Oh, wait.\\nI'm not angry. Honestly!\\pBut, boy, you're strong!\\nHahaha!",
+  "pt": "Tsc! …Ah, espera. Não estou bravo. Sério!\\pMas, rapaz, você é forte! Hahaha!"
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "032055D",
+  "en": "I used to catch colds all the time as\\na kid, but I became totally fit after\\lI started swimming.",
+  "pt": "Quando eu era criança, pegava resfriado o tempo todo, mas fiquei totalmente em forma depois que comecei a nadar."
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "03205BD",
+  "en": "I crave more power…",
+  "pt": "Quero mais poder…"
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "03205D1",
+  "en": "TRAINERS travel the fields and\\nmountains, so they must be fit, too.",
+  "pt": "Os TREINADORES viajam por campos e montanhas, então devem estar em forma também."
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "032065A",
+  "en": "If I get swept away, I'll lose all my\\nsense of place…",
+  "pt": "Se a correnteza me levar, vou perder toda a noção de onde estou…"
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "03206D6",
+  "en": "I never battle when I know I'll win.\\nI like to battle at the razor's edge of\\lvictory and defeat!",
+  "pt": "Eu nunca batalho quando sei que vou ganhar. Gosto de batalhar no fio da navalha entre a vitória e a derrota!"
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "032079C",
+  "en": "Urggh…\\nYou're a POKéMON fanatic, aren't you?\\pYou must contemplate POKéMON 24 hours\\na day, don't you?",
+  "pt": "Urgh… Você é fanático por CAPTURAS, não é?\\pDeve pensar em CAPTURAS 24 horas por dia, não deve?"
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "032085F",
+  "en": "That young man over there looks just\\nlike my husband when he was young.\\pHe's making me blush!",
+  "pt": "Aquele rapaz ali é igualzinho ao meu marido quando era jovem.\\pEle está me deixando vermelha!"
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "0320914",
+  "en": "I can't shake this feeling that\\nsomeone's watching me.\\pI can't concentrate!",
+  "pt": "Não consigo me livrar da sensação de que alguém está me observando.\\pNão consigo me concentrar!"
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "0320960",
+  "en": "Now where could my wife have gone?\\nI'm always with her.\\lI wonder if I can win on my own.",
+  "pt": "Pra onde será que a minha esposa foi? Eu estou sempre com ela. Será que consigo vencer sozinho?"
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "03209B9",
+  "en": "Ah, I see that I couldn't manage\\nto win on my own after all.",
+  "pt": "Ah, vejo que no fim não consegui vencer sozinho mesmo."
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "03209F6",
+  "en": "My wife must be looking for me.\\nI'd best go find her right away.",
+  "pt": "A minha esposa deve estar me procurando. É melhor eu ir atrás dela agora mesmo."
+ },
+ {
+  "map": "50.47 ROUTE 132",
+  "offset": "0320AB5",
+  "en": "I suppose I can partner up with that\\nold man and challenge that other team.",
+  "pt": "Acho que posso fazer dupla com aquele senhor e desafiar aquela outra equipe."
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320B65",
+  "en": "It's just my luck that a tough TRAINER\\nlike you would drift here…\\lI must be cursed…",
+  "pt": "É muita falta de sorte um TREINADOR forte como você vir parar aqui… Só pode ser maldição…"
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320BB9",
+  "en": "I've led a life of woe and misery…\\nI've been cast away, and this is where\\lI've drifted…",
+  "pt": "Levei uma vida de tristeza e miséria… Me abandonaram à deriva, e foi aqui que eu vim parar…"
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320C11",
+  "en": "Another loss…",
+  "pt": "Mais uma derrota…"
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320C1F",
+  "en": "A life adrift…\\nI don't want it anymore!",
+  "pt": "Uma vida à deriva… Não quero mais isso!"
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320C75",
+  "en": "A strong child TRAINER…\\nThat's so annoying!",
+  "pt": "Um TREINADOR mirim tão forte… Que irritante!"
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320D15",
+  "en": "It's way more fun to do things the way\\nI want than to be like everybody else.\\lI mean, that's obvious!",
+  "pt": "É muito mais divertido fazer as coisas do meu jeito do que ser igual a todo mundo. Quer dizer, isso é óbvio!"
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320DCA",
+  "en": "I'd like to go back to FORTREE,\\nbut I've grown to like this place, too.",
+  "pt": "Eu queria voltar pra FORTREE, mas também acabei gostando deste lugar."
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320E12",
+  "en": "I must have battled thousands\\nof times. I've lost count.",
+  "pt": "Já devo ter batalhado milhares de vezes. Perdi a conta."
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320E4B",
+  "en": "I may have lost thousands of times,\\nbut a loss still stings.",
+  "pt": "Posso ter perdido milhares de vezes, mas uma derrota ainda dói."
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320E88",
+  "en": "Keep at this, youngster. So you can\\nbecome like my husband and me.",
+  "pt": "Continue assim, jovem. Pra você ficar como eu e o meu marido."
+ },
+ {
+  "map": "50.48 ROUTE 133",
+  "offset": "0320F38",
+  "en": "Don't let others lead you astray.\\nDon't lose direction as you grow older.",
+  "pt": "Não deixe que os outros te desviem do caminho. Não perca o rumo enquanto cresce."
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "0320FD6",
+  "en": "I think POKéMON enjoy the fast-running\\ncurrents around these parts.",
+  "pt": "Acho que as CAPTURAS gostam das correntezas rápidas por aqui."
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "032101A",
+  "en": "My LUVDISC are looking for a fun\\nmatch. Will you join us?",
+  "pt": "Os meus LUVDISC estão procurando uma partida divertida. Quer jogar com a gente?"
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "0321054",
+  "en": "Oopsie!",
+  "pt": "Ops!"
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "032105C",
+  "en": "There's a collector who's after\\nthe SCALES of LUVDISC.",
+  "pt": "Tem um colecionador atrás das ESCAMAS dos LUVDISC."
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "03210E3",
+  "en": "My BIRD POKéMON get tired quickly after\\na long flight…",
+  "pt": "As minhas CAPTURAS VOADORAS se cansam rápido depois de um voo longo…"
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "032116E",
+  "en": "It was I who challenged you, and yet\\nI lost. I am deeply shamed…",
+  "pt": "Fui eu quem te desafiou, e mesmo assim perdi. Que vergonha profunda…"
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "032120E",
+  "en": "We will return for more training at\\nMETEOR FALLS.\\pIf you'd like, you should go, too.\\nIt will definitely toughen you up!",
+  "pt": "Vamos voltar pra treinar mais nas METEOR FALLS.\\pSe quiser, você devia ir também. Com certeza vai te deixar mais forte!"
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "03212CE",
+  "en": "If we can't SURF, how are we supposed\\nto get home?\\pActually, I know a fainted POKéMON\\ncan still SURF, but it feels wrong.",
+  "pt": "Se a gente não puder SURFAR, como vamos voltar pra casa?\\pNa verdade, eu sei que uma CAPTURA desmaiada ainda consegue SURFAR, mas parece errado."
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "03213C2",
+  "en": "I haven't lost my passion for speed.\\nI will try harder.",
+  "pt": "Não perdi a minha paixão pela velocidade. Vou me esforçar mais."
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "0321445",
+  "en": "Haha!\\nYou won, all right!\\pI'll work my way back up by taking on\\nTRAINERS I happen to meet!",
+  "pt": "Haha! Você ganhou, com certeza!\\pVou subir de novo enfrentando os TREINADORES que eu encontrar pelo caminho!"
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "03214A0",
+  "en": "Listen, have you seen another SAILOR\\naround here?",
+  "pt": "Escuta, você viu outro MARUJO por aqui?"
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "03214D2",
+  "en": "Now, that's something!",
+  "pt": "Olha só, que coisa!"
+ },
+ {
+  "map": "50.49 ROUTE 134",
+  "offset": "03214E9",
+  "en": "Our boat drifted out to sea.\\pMy buddy's a timid fellow, so I'm\\nworried about him.",
+  "pt": "O nosso barco foi levado pro mar.\\pO meu parceiro é meio medroso, então estou preocupado com ele."
+ }
+]

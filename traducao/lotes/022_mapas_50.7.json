@@ -1,0 +1,1527 @@
+[
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A338",
+  "en": "SOOTOPOLIS CITY\\p“The mystical city where history\\nslumbers.”",
+  "pt": "SOOTOPOLIS CITY\\p“A cidade mística onde a história adormece.”"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A374",
+  "en": "The door is closed.",
+  "pt": "A porta está fechada."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A388",
+  "en": "Diving in the sea. Climbing up and\\ndown stairs all the time…\\pIf you live in this town, you end up\\ngetting physically fit.",
+  "pt": "Mergulhar no mar. Subir e descer escadas o tempo todo…\\pQuem mora nesta cidade acaba ficando em forma."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A402",
+  "en": "These giant POKéMON suddenly appeared\\nin the middle of the city!\\pAnd, I've never seen them before!\\pWhy are they smashing into each\\nother like that?\\pWhy can't they be friends, those\\nPOKéMON?",
+  "pt": "Essas CAPTURAS gigantes apareceram de repente no meio da cidade!\\pE eu nunca tinha visto elas antes!\\pPor que elas estão se trombando desse jeito?\\pPor que essas CAPTURAS não podem ser amigas?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A4C0",
+  "en": "What? What? What?\\nWhat is that green POKéMON?!",
+  "pt": "O quê? O quê? O quê?\\nQue CAPTURA verde é aquela?!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A4EF",
+  "en": "GROUDON and KYOGRE…\\nWhere did they go?\\pWill they cause droughts or downpours\\nsomewhere else?",
+  "pt": "GROUDON e KYOGRE… Para onde eles foram?\\pSerá que vão causar secas ou temporais em outro lugar?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A54C",
+  "en": "I just get this sense somehow that\\nthe two POKéMON aren't angry.\\pI think… They probably can't control\\ntheir own power…",
+  "pt": "Não sei por quê, mas tenho a impressão de que as duas CAPTURAS não estão com raiva.\\pAcho que… elas provavelmente não conseguem controlar o próprio poder…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A5C3",
+  "en": "That flying POKéMON came down from\\nthe sky and stopped the rampaging\\lPOKéMON…",
+  "pt": "Aquela CAPTURA voadora desceu do céu e deteve as CAPTURAS descontroladas…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A611",
+  "en": "I… I've never been out of this city.\\pI wonder what the world is like on\\nthe other side of this round sky?",
+  "pt": "Eu… Eu nunca saí desta cidade.\\pComo será o mundo do outro lado deste céu redondo?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A67B",
+  "en": "Wow!\\nThis is wicked!",
+  "pt": "Uau!\\nIsso é irado!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A690",
+  "en": "Wow!\\nThat was wicked!",
+  "pt": "Uau!\\nIsso foi irado!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A6A6",
+  "en": "Go for it, red POKéMON!\\nDon't back off, blue POKéMON!",
+  "pt": "Vai com tudo, CAPTURA vermelha!\\nNão recue, CAPTURA azul!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A6DC",
+  "en": "… … … … … …\\pHi, do you know the names of those\\nPOKéMON fighting over there?",
+  "pt": "… … … … … …\\pOi, você sabe o nome daquelas CAPTURAS brigando ali?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A728",
+  "en": "I was wondering which one would win,\\nthe red one or the blue one, but, oh no,\\lit's the green one that settles things!\\pTalk about a huge turn of events!",
+  "pt": "Eu estava pensando qual ia ganhar, a vermelha ou a azul, mas, ah, não, foi a verde que resolveu tudo!\\pQue reviravolta enorme!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A7C0",
+  "en": "There's an ancient legend that claims\\nthe land and sea were shaped by\\la colossal battle between POKéMON.\\pWell, I'm seeing that happen with\\nmy very own eyes!\\pWhoa! I never expected to be\\nwitness to something this huge!",
+  "pt": "Existe uma lenda antiga que diz que a terra e o mar foram moldados por uma batalha colossal entre CAPTURAS.\\pPois eu estou vendo isso acontecer com os meus próprios olhos!\\pUau! Nunca imaginei que ia testemunhar algo tão grandioso!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A89A",
+  "en": "There's an ancient legend that claims\\nthe land and sea were shaped by\\la colossal battle between POKéMON.\\pWell, I saw that happen with\\nmy very own eyes!\\pWhoa! I never expected to be\\nwitness to something this huge!",
+  "pt": "Existe uma lenda antiga que diz que a terra e o mar foram moldados por uma batalha colossal entre CAPTURAS.\\pPois eu vi isso acontecer com os meus próprios olhos!\\pUau! Nunca imaginei que ia testemunhar algo tão grandioso!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A96F",
+  "en": "A big POKéMON is fighting with\\nanother big POKéMON!\\pPlease, someone make them stop!",
+  "pt": "Uma CAPTURA grandona está brigando com outra CAPTURA grandona!\\pPor favor, alguém faça elas pararem!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A9C3",
+  "en": "A pretty POKéMON came down from\\nthe sky…",
+  "pt": "Uma CAPTURA linda desceu do céu…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022A9EC",
+  "en": "Oh, no!\\nSOOTOPOLIS CITY will get wrecked!",
+  "pt": "Ah, não! SOOTOPOLIS CITY vai ser destruída!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AA16",
+  "en": "SOOTOPOLIS CITY didn't get wrecked!",
+  "pt": "SOOTOPOLIS CITY não foi destruída!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AA3A",
+  "en": "Hm!\\nYou've come all the way to SOOTOPOLIS?\\lYou're no ordinary tourist.\\pBut I suppose that doesn't make you\\nan extraordinary tourist, either.",
+  "pt": "Hum! Você veio até SOOTOPOLIS? Você não é um turista comum.\\pMas imagino que isso também não faça de você um turista extraordinário."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AAC7",
+  "en": "The city has regained its calm…",
+  "pt": "A cidade recuperou a calma…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AAE7",
+  "en": "Who might you be?\\pThis is the CAVE OF ORIGIN.\\pThe spirits of POKéMON, becalmed at\\nMT. PYRE, are said to be revived here.\\pPlease leave.",
+  "pt": "Quem é você?\\pEsta é a CAVE OF ORIGIN.\\pDizem que os espíritos das CAPTURAS, apaziguados no MT. PYRE, revivem aqui.\\pPor favor, retire-se."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AB6E",
+  "en": "A person with a strong will and\\nsuperior talent…\\pA TRAINER who has knowledge and\\nexperience of many kinds of POKéMON…\\pIf such a person were to appear, I was\\ninstructed by WALLACE to lead that\\lTRAINER to this CAVE.",
+  "pt": "Uma pessoa de vontade forte e talento superior…\\pUm TREINADOR com conhecimento e experiência com muitos tipos de CAPTURAS…\\pO WALLACE me instruiu que, se uma pessoa assim aparecesse, eu deveria levar esse TREINADOR até esta CAVERNA."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AC44",
+  "en": "Oh, my…\\pThe clash between the two awakened\\nPOKéMON was quelled by the awakening\\lof a third POKéMON…",
+  "pt": "Oh, céus…\\pO confronto entre as duas CAPTURAS despertadas foi contido pelo despertar de uma terceira CAPTURA…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022ACA8",
+  "en": "This is the CAVE OF ORIGIN…\\pWith the passing of the crisis,\\nthe cave, too, shall sleep…",
+  "pt": "Esta é a CAVE OF ORIGIN…\\pAgora que a crise passou, a caverna também vai dormir…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AD00",
+  "en": "SOOTOPOLIS sprang up as a town in\\nthe crater of a volcano.\\pIf you look up at the sky, the lip of\\nthe crater is also visible.\\lSo, all you see is the sky in a circle.\\pBut that's what makes the sky above\\nSOOTOPOLIS the most beautiful.",
+  "pt": "SOOTOPOLIS surgiu como uma cidade dentro da cratera de um vulcão.\\pSe você olhar para o céu, dá pra ver a borda da cratera. Então, tudo o que se vê é um círculo de céu.\\pMas é justamente isso que torna o céu de SOOTOPOLIS o mais bonito de todos."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022ADE8",
+  "en": "When two POKéMON that gigantic\\nare fighting that savagely, there's\\lnot much that we can do.",
+  "pt": "Quando duas CAPTURAS gigantescas daquelas brigam com tanta selvageria, não há muito o que a gente possa fazer."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AE44",
+  "en": "When that third POKéMON flew down,\\nI feared the worst.",
+  "pt": "Quando aquela terceira CAPTURA desceu voando, temi o pior."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AE7B",
+  "en": "A circle of a night sky framed by\\nthe crater of a volcano…\\pAnd in that ring, stars flicker and\\nblink as if they were alive…\\lIt's my favorite scenery.",
+  "pt": "Um círculo de céu noturno emoldurado pela cratera de um vulcão…\\pE, nesse anel, as estrelas piscam e cintilam como se estivessem vivas… É a minha paisagem favorita."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AF11",
+  "en": "The weather was clear this morning,\\nbut…\\pAll of a sudden, dark clouds brewed up,\\nrain started falling in sheets, and\\lthere was thunder and lightning, too.\\pThe weather just went completely\\nwild!\\pIs all of this because of those\\nPOKéMON?",
+  "pt": "O tempo estava aberto hoje de manhã, mas…\\pDe repente, nuvens escuras se formaram, começou a cair um temporal, e teve trovões e relâmpagos também.\\pO clima simplesmente enlouqueceu!\\pSerá que tudo isso é por causa daquelas CAPTURAS?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022AFFC",
+  "en": "Oh?\\pIt was you who brought that flying\\nPOKéMON here?\\pWell, aren't you amazing!",
+  "pt": "Oh?\\pFoi você quem trouxe aquela CAPTURA voadora até aqui?\\pOra, mas você é incrível!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B04B",
+  "en": "MAXIE: G… GROUDON…\\nPlease! Stop what you're doing!\\pI know the extent of your power now!\\pIf you keep going, all HOENN, not just\\nSOOTOPOLIS, will be utterly ruined!",
+  "pt": "MAXIE: G… GROUDON… Por favor! Pare com isso!\\pAgora eu sei até onde vai o seu poder!\\pSe continuar, não só SOOTOPOLIS, mas toda HOENN vai ficar completamente arruinada!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B0EE",
+  "en": "MAXIE: So the super-ancient POKéMON\\nweren't only GROUDON and KYOGRE…\\pAfter all our fruitless scheming and\\nfrantic efforts, that one POKéMON's\\lsimple action puts everything right\\lagain as if nothing had happened…\\pFu…\\nFuhahaha…",
+  "pt": "MAXIE: Então as CAPTURAS superancestrais não eram só GROUDON e KYOGRE…\\pDepois de todas as nossas tramas inúteis e esforços frenéticos, um simples gesto daquela CAPTURA põe tudo em ordem de novo, como se nada tivesse acontecido…\\pFu… Fuhahaha…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B1D0",
+  "en": "ARCHIE: KYOGRE! What's wrong?!\\nLook over here! It's the RED ORB!\\lCalm down! KYOGRE!\\p… … … … … …\\n… … … … … …\\pIt's no good!\\nIt's not responding at all!",
+  "pt": "ARCHIE: KYOGRE! O que houve?! Olhe pra cá! É o ORBE VERMELHO! Acalme-se! KYOGRE!\\p… … … … … …\\n… … … … … …\\pNão adianta! Não está respondendo de jeito nenhum!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B266",
+  "en": "ARCHIE: KYOGRE and GROUDON both\\nflew off to who knows where.\\pThe weather in HOENN has returned\\nto its normal state…\\pHaha…\\nHahaha…\\pMaybe what we were trying to do was\\nsomething small, even meaningless,\\lto POKéMON…",
+  "pt": "ARCHIE: KYOGRE e GROUDON saíram voando pra sabe-se lá onde.\\pO clima de HOENN voltou ao normal…\\pHaha… Hahaha…\\pTalvez o que a gente estava tentando fazer fosse algo pequeno, até sem sentido, para as CAPTURAS…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B33B",
+  "en": "STEVEN: Those POKéMON fighting…\\nGROUDON… And KYOGRE…\\pThe two super-ancient POKéMON\\nwere awakened from a long sleep…\\pAnd now they are smashing each other\\nwith their uncontrollable energy…\\p…{PLAYER}{KUN}.\\pYou being here now I'll take to mean\\nthat you're prepared to become\\linvolved in this crisis.\\pWell, then, there's someone that\\nI'd like you to meet.\\pCome with me, please.",
+  "pt": "STEVEN: Aquelas CAPTURAS brigando… GROUDON… e KYOGRE…\\pAs duas CAPTURAS superancestrais foram despertadas de um longo sono…\\pE agora estão se esmagando com sua energia incontrolável…\\p…{PLAYER}{KUN}.\\pVou entender que, se você está aqui agora, é porque está preparado para se envolver nesta crise.\\pBem, então, tem uma pessoa que eu gostaria que você conhecesse.\\pVenha comigo, por favor."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B4A7",
+  "en": "STEVEN: Listen, {PLAYER}{KUN}.\\pDoes seeing GROUDON and KYOGRE make\\nyou think POKéMON are to be feared?\\pBut that's not true.\\nPOKéMON are really more…\\p…Why am I asking you this?\\nYou already know.",
+  "pt": "STEVEN: Escute, {PLAYER}{KUN}.\\pVer GROUDON e KYOGRE faz você achar que as CAPTURAS devem ser temidas?\\pMas isso não é verdade. As CAPTURAS são muito mais…\\p…Por que eu estou te perguntando isso? Você já sabe."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B560",
+  "en": "STEVEN: Okay, here we are!\\pInside here you'll find someone named\\nWALLACE.\\pI think you have what's needed to\\nhelp him…",
+  "pt": "STEVEN: Certo, chegamos!\\pAqui dentro você vai encontrar alguém chamado WALLACE.\\pAcho que você tem o que é preciso para ajudá-lo…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B5D6",
+  "en": "STEVEN: I think you have what's\\nneeded to help him…",
+  "pt": "STEVEN: Acho que você tem o que é preciso para ajudá-lo…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B60A",
+  "en": "STEVEN: The SKY PILLAR…\\pI've never been there.\\nI wonder where it could be?",
+  "pt": "STEVEN: O SKY PILLAR…\\pEu nunca estive lá. Onde será que fica?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B655",
+  "en": "STEVEN: So that's RAYQUAZA…\\pIt's incredible how the two rampaging\\nPOKéMON would flee from it in fear…",
+  "pt": "STEVEN: Então aquele é o RAYQUAZA…\\pÉ incrível como as duas CAPTURAS descontroladas fugiram dele com medo…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B6BB",
+  "en": "STEVEN: It looks like both MAXIE and\\nARCHIE have gone away somewhere.\\pPerhaps they've gone to MT. PYRE to\\nreturn those ORBS…",
+  "pt": "STEVEN: Parece que tanto o MAXIE quanto o ARCHIE foram embora para algum lugar.\\pTalvez tenham ido ao MT. PYRE para devolver aqueles ORBES…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B738",
+  "en": "WALLACE: Oh?\\n{PLAYER}{KUN}?\\pHaven't you scaled the SKY PILLAR\\nyet?\\pI'm sure that you can make it to\\nthe top of the SKY PILLAR…",
+  "pt": "WALLACE: Oh? {PLAYER}{KUN}?\\pVocê ainda não escalou o SKY PILLAR?\\pTenho certeza de que você consegue chegar ao topo do SKY PILLAR…"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B7AE",
+  "en": "WALLACE: {PLAYER}{KUN}…\\pThe leaders of TEAM MAGMA and AQUA,\\nI don't think they meant harm.\\pIt wouldn't hurt to hear what they\\nhave to say for themselves.",
+  "pt": "WALLACE: {PLAYER}{KUN}…\\pOs líderes da EQUIPE MAGMA e da AQUA… acho que eles não tinham más intenções.\\pNão custa ouvir o que eles têm a dizer em sua defesa."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B83F",
+  "en": "WALLACE: {PLAYER}{KUN}…\\nMy eyes didn't deceive me.\\pThanks to your help, SOOTOPOLIS…\\nNo, all of HOENN was saved.\\pOn behalf of the people, I thank you.\\pThis is a gift from me.\\nPlease accept it.",
+  "pt": "WALLACE: {PLAYER}{KUN}… Meus olhos não me enganaram.\\pGraças à sua ajuda, SOOTOPOLIS… Não, toda HOENN foi salva.\\pEm nome do povo, eu te agradeço.\\pIsto é um presente meu. Por favor, aceite."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022B8F6",
+  "en": "That HIDDEN MACHINE contains\\nWATERFALL.\\pIf you have the RAIN BADGE, a POKéMON\\nthat has learned that HM move can\\lforce its way up waterfalls.\\pAnd where does one get the RAIN BADGE?\\nYou know, don't you?\\pThat's right! You have to beat\\nthe SOOTOPOLIS GYM LEADER.\\pWhen you're all set to go, step through\\nthat door.",
+  "pt": "Essa MÁQUINA OCULTA contém CACHOEIRA.\\pSe você tiver a INSÍGNIA DA CHUVA, uma CAPTURA que tenha aprendido esse golpe de HM consegue subir cachoeiras à força.\\pE onde se consegue a INSÍGNIA DA CHUVA? Você sabe, não sabe?\\pIsso mesmo! Você tem que vencer o LÍDER DE GINÁSIO de SOOTOPOLIS.\\pQuando estiver pronto para ir, passe por aquela porta."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "022BA2C",
+  "en": "WALLACE: I'm sure that you will be\\ndazzled by my mentor's breathtakingly\\lelegant battle style.",
+  "pt": "WALLACE: Tenho certeza de que você vai ficar deslumbrado com o estilo de batalha elegantíssimo do meu mestre."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "0324761",
+  "en": "Hi, what's your name?\\p… … …  … … …  … … …\\nOkay. That's nice!\\pMy name is KIRI.\\pMy mommy and daddy named me that so\\nI would grow healthy and warmhearted.\\lThat's what they wished.\\pYou can have one of these.",
+  "pt": "Oi, qual é o seu nome?\\p… … …  … … …  … … …\\nTá bom. Que legal!\\pMeu nome é KIRI.\\pMinha mamãe e meu papai me deram esse nome pra eu crescer saudável e de bom coração. Foi isso que eles desejaram.\\pPode ficar com um destes."
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "032482D",
+  "en": "KIRI will give you this BERRY, too!\\nI really like it lots!",
+  "pt": "A KIRI também vai te dar esta FRUTA! Eu gosto muuuito dela!"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "0324868",
+  "en": "I wonder what kind of wish is included\\nin your name.",
+  "pt": "Que tipo de desejo será que tem no seu nome?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "032489D",
+  "en": "Spring, summer, autumn, and winter.\\pIf you're born in springtime, do you like\\nthe spring, and if you're born in the\\lsummer, do you like the summer?",
+  "pt": "Primavera, verão, outono e inverno.\\pSe você nasce na primavera, você gosta da primavera, e se nasce no verão, gosta do verão?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "0324931",
+  "en": "Then KIRI was born in the autumn,\\nso I love the autumn!\\pWhich season do you like?",
+  "pt": "Então, a KIRI nasceu no outono, por isso eu adoro o outono!\\pDe qual estação você gosta?"
+ },
+ {
+  "map": "50.7 BOWSER'S CASTLE",
+  "offset": "0324983",
+  "en": "Oh…\\nIt doesn't matter…\\pThere's so much that I want to know…",
+  "pt": "Ah…\\nNão importa…\\pTem tanta coisa que eu quero saber…"
+ },
+ {
+  "map": "50.8 MUSHROOM HILL",
+  "offset": "022BAD5",
+  "en": "ENTERING POKéMON LEAGUE\\nCENTER GATE",
+  "pt": "ACESSO AO PORTÃO CENTRAL\\nDA LIGA CAPTURA"
+ },
+ {
+  "map": "50.8 MUSHROOM HILL",
+  "offset": "022BAF9",
+  "en": "EVER GRANDE CITY\\p“The paradise of flowers, the sea,\\nand POKéMON.”",
+  "pt": "EVER GRANDE CITY\\p“O paraíso das flores, do mar e das CAPTURAS.”"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C449",
+  "en": "{PLAYER}, we're here, honey!\\pIt must be tiring riding with our things\\nin the moving truck.\\pWell, this is LITTLEROOT TOWN.\\pHow do you like it?\\nThis is our new home!\\pIt has a quaint feel, but it seems to be\\nan easy place to live, don't you think?\\pAnd, you get your own room, {PLAYER}!\\nLet's go inside.",
+  "pt": "{PLAYER}, chegamos, querido!\\pDeve ter sido cansativo vir no caminhão de mudança junto com as nossas coisas.\\pBem, esta é LITTLEROOT TOWN.\\pO que achou? Esta é a nossa casa nova!\\pTem um ar meio simples, mas parece ser um lugar fácil de viver, não acha?\\pE você vai ter o seu próprio quarto, {PLAYER}! Vamos entrar."
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C569",
+  "en": "Wait, {PLAYER}!",
+  "pt": "Espere, {PLAYER}!"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C573",
+  "en": "{PLAYER}! {PLAYER}! Did you\\nintroduce yourself to PROF. BIRCH?\\pOh! What an adorable POKéMON!\\nYou got it from PROF. BIRCH. How nice!\\pYou're your father's child, all right.\\nYou look good together with POKéMON!\\pHere, honey! If you're going out on an\\nadventure, wear these RUNNING SHOES.\\pThey'll put a zip in your step!",
+  "pt": "{PLAYER}! {PLAYER}! Você já se apresentou ao PROF. BIRCH?\\pOh! Que CAPTURA adorável! Foi o PROF. BIRCH que te deu? Que legal!\\pVocê é mesmo filho do seu pai. Você e as CAPTURAS ficam bem juntos!\\pAqui, querido! Se você vai sair numa aventura, use este TÊNIS DE CORRIDA.\\pEle vai deixar os seus passos mais ligeiros!"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C6A3",
+  "en": "{PLAYER} switched shoes with the\\nRUNNING SHOES.",
+  "pt": "{PLAYER} trocou de calçado e colocou o TÊNIS DE CORRIDA."
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C6CD",
+  "en": "{PLAYER}, those shoes came with\\ninstructions.\\p“Press the B Button while wearing these\\nRUNNING SHOES to run extra-fast!\\p“Slip on these RUNNING SHOES and race\\nin the great outdoors!”",
+  "pt": "{PLAYER}, esse tênis veio com instruções.\\p“Aperte o Botão B usando este TÊNIS DE CORRIDA para correr bem rápido!\\p“Calce este TÊNIS DE CORRIDA e dispare pelo mundo afora!”"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C77C",
+  "en": "… … … … … … … …\\n… … … … … … … …\\pTo think that you have your very own\\nPOKéMON now…\\lYour father will be overjoyed.\\p…But please be careful.\\nIf anything happens, you can come home.\\pGo on, go get them, honey!",
+  "pt": "… … … … … … … …\\n… … … … … … … …\\pE pensar que agora você tem a sua própria CAPTURA… O seu pai vai ficar radiante.\\p…Mas, por favor, tome cuidado. Se acontecer alguma coisa, pode voltar pra casa.\\pVai lá, mostre do que você é capaz, querido!"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C848",
+  "en": "If you use a PC, you can store items\\nand POKéMON.\\pThe power of science is staggering!",
+  "pt": "Se você usar um PC, pode guardar itens e CAPTURAS.\\pO poder da ciência é impressionante!"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C89E",
+  "en": "PROF. BIRCH spends days in his LAB\\nstudying, then he'll suddenly go out in\\lthe wild to do more research…\\pWhen does PROF. BIRCH spend time\\nat home?",
+  "pt": "O PROF. BIRCH passa dias estudando no LABORATÓRIO, aí de repente sai pela natureza para pesquisar mais…\\pQuando é que o PROF. BIRCH fica em casa?"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C931",
+  "en": "Um, um, um!\\pIf you go outside and go in the grass,\\nwild POKéMON will jump out!",
+  "pt": "Hum, hum, hum!\\pSe você sair e entrar no mato, CAPTURAS selvagens vão pular em você!"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C980",
+  "en": "It's dangerous if you don't have\\nyour own POKéMON.",
+  "pt": "É perigoso se você não tiver uma CAPTURA sua."
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022C9B3",
+  "en": "Um, hi!\\pThere are scary POKéMON outside!\\nI can hear their cries!\\pI want to go see what's going on,\\nbut I don't have any POKéMON…\\pCan you go see what's happening\\nfor me?",
+  "pt": "Hum, oi!\\pTem CAPTURAS assustadoras lá fora! Dá pra ouvir os gritos delas!\\pEu queria ir ver o que está acontecendo, mas não tenho nenhuma CAPTURA…\\pVocê pode ir ver o que está acontecendo pra mim?"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022CA5C",
+  "en": "You saved PROF. BIRCH!\\nI'm so glad!",
+  "pt": "Você salvou o PROF. BIRCH! Que alívio!"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022CA80",
+  "en": "Are you going to catch POKéMON?\\nGood luck!",
+  "pt": "Você vai pegar CAPTURAS? Boa sorte!"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022CAAB",
+  "en": "LITTLEROOT TOWN\\n“A town that can't be shaded any hue.”",
+  "pt": "LITTLEROOT TOWN\\n“Uma cidade que cor nenhuma tinge.”"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022CAE2",
+  "en": "PROF. BIRCH'S POKéMON LAB",
+  "pt": "LABORATÓRIO DE CAPTURAS DO PROF. BIRCH"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022CAFC",
+  "en": "{PLAYER}'s HOUSE",
+  "pt": "CASA DO {PLAYER}"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022CB07",
+  "en": "PROF. BIRCH'S HOUSE",
+  "pt": "CASA DO PROF. BIRCH"
+ },
+ {
+  "map": "50.9 TOAD TOWN",
+  "offset": "022CB1B",
+  "en": "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\\nThat was good work out there!\\pI knew there was something special\\nabout you when I first saw you,\\lbut I never expected this.\\pOh, yes. Do you still have the POKéDEX\\nI gave you?\\pI have something to show you.\\nLet's go to my LAB.",
+  "pt": "PROF. BIRCH: Ora, ora, {PLAYER}{KUN}! Você mandou muito bem lá fora!\\pEu sabia que havia algo especial em você desde a primeira vez que te vi, mas nunca imaginei isso.\\pAh, sim. Você ainda está com a TATTLEDEX que eu te dei?\\pTenho uma coisa pra te mostrar. Vamos ao meu LABORATÓRIO."
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022CF39",
+  "en": "Hi!\\nI work at a POKéMON MART.\\pCan I get you to come with me?",
+  "pt": "Oi! Eu trabalho numa LOJA.\\pPosso pedir pra você vir comigo?"
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022CF76",
+  "en": "This is a POKéMON MART.\\nJust look for our blue roof.\\pWe sell a variety of goods including\\nPOKé BALLS for catching POKéMON.\\pHere, I'd like you to have this as\\na promotional item.",
+  "pt": "Esta é uma LOJA. É só procurar o nosso telhado azul.\\pVendemos vários produtos, incluindo CAPs para pegar CAPTURAS.\\pAqui, quero que você fique com isto como brinde promocional."
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022D028",
+  "en": "A POTION can be used anytime, so it's\\neven more useful than a POKéMON CENTER\\lin certain situations.",
+  "pt": "Um COGUMELO pode ser usado a qualquer hora, então, em certas situações, ele é ainda mais útil que um CENTRO CAPTURA."
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022D08C",
+  "en": "Aaaaah! Wait!\\nPlease don't come in here.\\pI just discovered the footprints of\\na rare POKéMON!\\pWait until I finish sketching\\nthem, okay?",
+  "pt": "Aaaaah! Espere! Por favor, não entre aqui.\\pAcabei de descobrir as pegadas de uma CAPTURA rara!\\pEspere até eu terminar de desenhá-las, tá?"
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022D113",
+  "en": "I just discovered the footprints of\\na rare POKéMON!\\pWait until I finish sketching\\nthem, okay?",
+  "pt": "Acabei de descobrir as pegadas de uma CAPTURA rara!\\pEspere até eu terminar de desenhá-las, tá?"
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022D171",
+  "en": "I finished sketching the footprints of\\na rare POKéMON.\\pBut it turns out they were only my\\nown footprints…",
+  "pt": "Terminei de desenhar as pegadas de uma CAPTURA rara.\\pMas no fim eram só as minhas próprias pegadas…"
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022D1DB",
+  "en": "MAY: {PLAYER}{KUN}!\\nOver here!\\lLet's hurry home!",
+  "pt": "MAY: {PLAYER}{KUN}! Aqui! Vamos correndo pra casa!"
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022D203",
+  "en": "BRENDAN: I'm heading back to my dad's\\nLAB now.\\l{PLAYER}, you should hustle back, too.",
+  "pt": "BRENDAN: Estou voltando pro LABORATÓRIO do meu pai agora. {PLAYER}, é melhor você voltar rapidinho também."
+ },
+ {
+  "map": "50.10 PEACH'S CASTLE",
+  "offset": "022D253",
+  "en": "OLDALE TOWN\\n“Where things start off scarce.”",
+  "pt": "OLDALE TOWN\\n“Onde tudo começa com pouco.”"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022D788",
+  "en": "DEWFORD TOWN\\n“A tiny island in the blue sea.”",
+  "pt": "DEWFORD TOWN\\n“Uma ilhota no mar azul.”"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022D7B6",
+  "en": "DEWFORD TOWN POKéMON GYM\\nLEADER: BRAWLY\\l“A big wave in fighting!”",
+  "pt": "GINÁSIO DE DEWFORD TOWN\\nLÍDER: BRAWLY\\l“Uma onda gigante de luta!”"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022D7F8",
+  "en": "DEWFORD HALL\\n“Everyone's information exchange!”",
+  "pt": "SALÃO DE DEWFORD\\n“A central de informações de todos!”"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022D89D",
+  "en": "MR. BRINEY: Have you delivered your\\nLETTER?\\pOr were you meaning to sail back to\\nPETALBURG?",
+  "pt": "SR. BRINEY: Você já entregou a sua CARTA?\\pOu estava querendo voltar de barco para PETALBURG?"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022D8F8",
+  "en": "MR. BRINEY: PETALBURG it is, then!\\pAnchors aweigh!\\nPEEKO, we're setting sail, my darling!",
+  "pt": "SR. BRINEY: Então é PETALBURG!\\pLevantar âncora! PEEKO, vamos zarpar, minha querida!"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022D952",
+  "en": "MR. BRINEY: Then you go on and deliver\\nthe LETTER. I'll be waiting.",
+  "pt": "SR. BRINEY: Então vá entregar a CARTA. Eu vou ficar esperando."
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DA03",
+  "en": "MR. BRINEY: Ahoy!\\nFor you, I'll go out to sea anytime!\\pNow, my friend, where are we bound?",
+  "pt": "SR. BRINEY: Ahoy! Por você, eu vou para o mar a qualquer hora!\\pAgora, meu amigo, para onde vamos?"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DA5E",
+  "en": "MR. BRINEY: PETALBURG, is it?\\pAnchors aweigh!\\nPEEKO, we're setting sail, my darling!",
+  "pt": "SR. BRINEY: PETALBURG, é?\\pLevantar âncora! PEEKO, vamos zarpar, minha querida!"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DAB3",
+  "en": "MR. BRINEY: SLATEPORT, is it?\\pAnchors aweigh!\\nPEEKO, we're setting sail, my darling!",
+  "pt": "SR. BRINEY: SLATEPORT, é?\\pLevantar âncora! PEEKO, vamos zarpar, minha querida!"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DB08",
+  "en": "MR. BRINEY: You just tell me whenever\\nyou need to set sail again!",
+  "pt": "SR. BRINEY: É só me avisar sempre que precisar zarpar de novo!"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DB4A",
+  "en": "This is a renowned fishing spot.\\nAre you getting the itch to fish?",
+  "pt": "Este é um famoso ponto de pesca. Está com vontade de pescar?"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DB8D",
+  "en": "I hear you, and I like what\\nyou're saying!\\pI'll give you one of my fishing RODS.",
+  "pt": "Gostei de ouvir isso! Falou a minha língua!\\pVou te dar uma das minhas VARAS de pesca."
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DBDE",
+  "en": "And, as an added bonus, I'll even throw\\nin a little fishing advice!\\pFirst, you want to face the water,\\nthen use the ROD.\\pFocus your mind…\\nIf you get a bite, pull on the ROD.\\pSometimes you can snag something\\nimmediately, but with bigger catches,\\lyou need to time the pulls on your ROD\\lto haul them in.",
+  "pt": "E, de bônus, ainda vou te dar uma dica de pesca!\\pPrimeiro, fique de frente para a água e use a VARA.\\pConcentre-se… Se algo morder a isca, puxe a VARA.\\pÀs vezes dá pra fisgar algo na hora, mas, com as presas maiores, você precisa acertar o tempo das puxadas na VARA pra trazê-las."
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DD0B",
+  "en": "Oh, is that so?\\nThat's too bad, then.",
+  "pt": "Ah, é mesmo? Que pena, então."
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DD31",
+  "en": "Yo!\\nHow's your fishing?",
+  "pt": "E aí! Como vai a pescaria?"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DD49",
+  "en": "Is that right! That's great!\\nHaul in some big ones!",
+  "pt": "É mesmo? Que ótimo! Vá fisgar uns peixões!"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DD7D",
+  "en": "Oh, hey, don't get down on yourself!\\nI'll give you a little fishing advice.\\pFirst, you want to face the water,\\nthen use the ROD.\\pFocus your mind…\\nIf you get a bite, pull the ROD.\\pSometimes you can snag something\\nimmediately, but with bigger catches,\\lyou need to time the pulls on your ROD\\lto haul them in.",
+  "pt": "Ei, não fique pra baixo! Vou te dar uma dica de pesca.\\pPrimeiro, fique de frente para a água e use a VARA.\\pConcentre-se… Se algo morder a isca, puxe a VARA.\\pÀs vezes dá pra fisgar algo na hora, mas, com as presas maiores, você precisa acertar o tempo das puxadas na VARA pra trazê-las."
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DEAF",
+  "en": "I like what's hip, happening, and trendy.\\nI'm always checking it out.\\pListen, have you heard about this new\\n“{STR_VAR_1}”?\\pThat's right!\\nOf course you know!\\pI mean, sheesh,\\n“{STR_VAR_1}”…\\lIt's the hottest thing in cool!\\pWherever you're from,\\n“{STR_VAR_1}”\\lis the biggest happening thing, right?",
+  "pt": "Eu curto tudo o que é moderno, badalado e da moda. Estou sempre de olho.\\pEscuta, você já ouviu falar da novidade “{STR_VAR_1}”?\\pIsso mesmo! Claro que você sabe!\\pQuer dizer, poxa, “{STR_VAR_1}”… É a coisa mais quente do momento!\\pDe onde quer que você seja, “{STR_VAR_1}” é a maior sensação, né?"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022DFBB",
+  "en": "Hunh?\\nIt's not the hip and happening thing?\\pWell, hey, you have to tell me,\\nwhat's new and what's “in”?",
+  "pt": "Hã? Não é a coisa mais badalada?\\pBom, então você tem que me contar: o que é novidade e o que está “na moda”?"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022E023",
+  "en": "Hunh?\\n“{STR_VAR_2}”?\\p… …\\p…Uh… Yeah! That's right!\\nYeah, I knew that! Knew it all along!\\pOf course I know about that!\\n“{STR_VAR_2},” right?\\pYeah, that's it, it's there!\\nIsn't “{STR_VAR_2}”\\lthe coolest, or what?\\pIt's the hippest thing in hip.\\nYou think I'd not know about it?\\p“{STR_VAR_1}”…\\nIt's, like, so five minutes ago.\\pNow, “{STR_VAR_2}” is\\nwhat's vital and in tune with the times!",
+  "pt": "Hã? “{STR_VAR_2}”?\\p… …\\p…Ah… É! Isso mesmo! É, eu sabia! Sabia o tempo todo!\\pClaro que eu sei disso! “{STR_VAR_2}”, né?\\pÉ, é isso aí, tá na crista da onda! “{STR_VAR_2}” não é a coisa mais legal que existe?\\pÉ o que há de mais moderno no moderno. Achou que eu não saberia?\\p“{STR_VAR_1}”… Isso é, tipo, coisa de cinco minutos atrás.\\pAgora, “{STR_VAR_2}” é o que está bombando e em sintonia com os tempos!"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022E177",
+  "en": "Hmm…\\n“{STR_VAR_2},” huh?\\pBut personally, I think\\n“{STR_VAR_1}”\\lis what's real in cool.",
+  "pt": "Hmm… “{STR_VAR_2}”, é?\\pMas, pessoalmente, eu acho que “{STR_VAR_1}” é que é legal de verdade."
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022E1BC",
+  "en": "Well, if you hear of any happening new\\ntrends, come share them with me, okay?",
+  "pt": "Bom, se souber de alguma tendência nova, venha me contar, tá?"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "022E20A",
+  "en": "Yeah, absolutely right!\\p“{STR_VAR_1}” is the\\ndefinition of “in” right now.",
+  "pt": "É, com certeza!\\p“{STR_VAR_1}” é a definição de “na moda” agora."
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "0232984",
+  "en": "MR. BRINEY: Ahoy!\\nWe've made land in SLATEPORT!\\pI suppose you're going to visit CAPT.\\nSTERN and deliver the DEVON GOODS?",
+  "pt": "SR. BRINEY: Ahoy! Chegamos a SLATEPORT!\\pImagino que você vá visitar o CAPITÃO STERN e entregar as MERCADORIAS DA DEVON?"
+ },
+ {
+  "map": "50.11 CLOUD CAP",
+  "offset": "0232B0E",
+  "en": "MR. BRINEY: Ahoy! We've made land in\\nSLATEPORT!\\pYou just go on and tell me whenever\\nyou want to set sail again!",
+  "pt": "SR. BRINEY: Ahoy! Chegamos a SLATEPORT!\\pÉ só me avisar sempre que quiser zarpar de novo!"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022E610",
+  "en": "MAY: With those GO-GOGGLES, you'll\\nhave no trouble getting through the\\ldesert near ROUTE 111.\\pBut, wow, {PLAYER}{KUN}…\\nChallenging GYMS…\\pYou're trying hard because you don't\\nwant to lose to me, I bet!\\p{PLAYER}{KUN}, I think I should challenge\\nyour dad in PETALBURG GYM.\\pSee you again!",
+  "pt": "MAY: Com esses GO-GOGGLES, você não vai ter problema pra atravessar o deserto perto da ROTA 111.\\pMas, uau, {PLAYER}{KUN}… Desafiando GINÁSIOS…\\pAposto que você está se esforçando porque não quer perder pra mim!\\p{PLAYER}{KUN}, acho que eu vou desafiar o seu pai no GINÁSIO de PETALBURG.\\pAté mais!"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022E71B",
+  "en": "BRENDAN: {PLAYER}, hey, it's been a while.\\nHow's it going?\\pHmm…\\nThat's a decent collection of BADGES.\\pAll right, then.\\nYou may as well have this.",
+  "pt": "BRENDAN: {PLAYER}, ei, quanto tempo. Como vão as coisas?\\pHmm… Que bela coleção de INSÍGNIAS.\\pTudo bem, então. É melhor você ficar com isto."
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022E7A7",
+  "en": "BRENDAN: Keep those with you if you're\\nplanning on going into that desert near\\lROUTE 111.\\pThere should be some POKéMON that\\nare exclusively desert-dwellers.\\lYou might look around for those.\\pAs for me…\\nI'm considering challenging NORMAN,\\lthe GYM LEADER of PETALBURG.\\pUnlike you, {PLAYER}, your dad looks like\\nhe really is tough.\\pSee you around!",
+  "pt": "BRENDAN: Leve isso com você se estiver pensando em entrar naquele deserto perto da ROTA 111.\\pDeve ter algumas CAPTURAS que só vivem no deserto. Vale a pena procurar por elas.\\pQuanto a mim… Estou pensando em desafiar o NORMAN, o LÍDER DE GINÁSIO de PETALBURG.\\pAo contrário de você, {PLAYER}, o seu pai parece ser durão de verdade.\\pAté mais!"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022E8F9",
+  "en": "I have here an EGG.\\pI'd hoped to hatch it by covering it in\\nhot sand by the hot springs.\\lBut that doesn't seem to be enough…\\pI've heard it would be best if it were\\nkept together with POKéMON and\\lcarried about.\\pYou are a TRAINER, yes?\\nAnd your POKéMON radiate vitality.\\pSo, what say you?\\nWill you take this EGG to hatch?",
+  "pt": "Tenho aqui um OVO.\\pEu esperava chocá-lo cobrindo-o com a areia quente perto das fontes termais. Mas isso não parece ser suficiente…\\pOuvi dizer que o melhor seria mantê-lo junto com CAPTURAS e carregá-lo por aí.\\pVocê é um TREINADOR, não é? E as suas CAPTURAS transbordam vitalidade.\\pEntão, o que me diz? Vai levar este OVO pra chocar?"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EA39",
+  "en": "Good! I hope you'll walk plenty with\\nthis here EGG!",
+  "pt": "Ótimo! Espero que você caminhe bastante com este OVO!"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EA6D",
+  "en": "{PLAYER} received the EGG.",
+  "pt": "{PLAYER} recebeu o OVO."
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EA82",
+  "en": "Oh? You've too many POKéMON.\\nThere's no room for this EGG…",
+  "pt": "Oh? Você está com CAPTURAS demais. Não há espaço para este OVO…"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EABD",
+  "en": "As you wish, then…\\pIf you have a change of heart about\\nhatching this EGG, I will be here.",
+  "pt": "Como quiser, então…\\pSe mudar de ideia sobre chocar este OVO, estarei aqui."
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EB17",
+  "en": "Every so often, an EGG will be found at\\nthe POKéMON DAY CARE.\\pOr at least that's how the rumor goes.",
+  "pt": "De vez em quando, aparece um OVO na CRECHE.\\pPelo menos é o que diz o boato."
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EB7C",
+  "en": "We draw as much hot water as we need,\\nand yet the hot springs never run dry.\\pIsn't it magical?\\pThese hot springs appear near active\\nvolcanoes. Veins of water under the\\lground are heated by magma to well up\\las hot springs.",
+  "pt": "A gente tira quanta água quente precisa, e mesmo assim as fontes termais nunca secam.\\pNão é mágico?\\pEssas fontes termais aparecem perto de vulcões ativos. Veios de água debaixo da terra são aquecidos pelo magma e brotam como fontes termais."
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EC5A",
+  "en": "Being buried in this hot sand is…\\nSigh…\\pSo warm and heavenly…\\pEh? Gyaah! Ouch!\\pA POKéMON nipped my backside!",
+  "pt": "Ficar enterrado nesta areia quente é… Ahhh…\\pTão quentinho e divino…\\pHã? Aaai! Ui!\\pUma CAPTURA beliscou o meu traseiro!"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022ECC7",
+  "en": "Oh, you like hot springs, do you?\\pThat's surprising for one as young\\nas you.",
+  "pt": "Oh, você gosta de fontes termais, é?\\pQue surpresa, alguém tão jovem quanto você."
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022ED14",
+  "en": "I bathe in the hot springs every day.\\pI want to become a beautiful and strong\\nGYM LEADER like FLANNERY.",
+  "pt": "Eu me banho nas fontes termais todos os dias.\\pQuero virar uma LÍDER DE GINÁSIO linda e forte como a FLANNERY."
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022ED7C",
+  "en": "If people put POKéMON in hot springs,\\nit might be seriously strange.\\pWhy, it might be an electric bath, or\\na bubble bath, or even a lava bath…",
+  "pt": "Se as pessoas colocassem CAPTURAS nas fontes termais, a coisa poderia ficar bem estranha.\\pOra, poderia virar um banho elétrico, um banho de espuma ou até um banho de lava…"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EE0B",
+  "en": "They're claiming that these hot springs\\nare good for calming nervous tension,\\lrelieving aching muscles, solving\\lromantic problems, and attracting\\lmoney…",
+  "pt": "Dizem que estas fontes termais são boas pra acalmar a tensão nervosa, aliviar dores musculares, resolver problemas amorosos e atrair dinheiro…"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EEA4",
+  "en": "LAVARIDGE TOWN\\p“POKéMON CENTER HOT SPRINGS\\nAn excellent place for relaxing!”",
+  "pt": "LAVARIDGE TOWN\\p“FONTES TERMAIS DO CENTRO CAPTURA\\nUm lugar excelente para relaxar!”"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EEF1",
+  "en": "LAVARIDGE TOWN POKéMON GYM\\nLEADER: FLANNERY\\l“One with a fiery passion that burns!”",
+  "pt": "GINÁSIO DE LAVARIDGE TOWN\\nLÍDER: FLANNERY\\l“Uma paixão ardente que queima!”"
+ },
+ {
+  "map": "50.12 LAVARIDGE TOWN",
+  "offset": "022EF44",
+  "en": "POKéMON HERB SHOP\\n“Bitter taste--better cure!”",
+  "pt": "LOJA DE ERVAS\\n“Gosto amargo, cura melhor!”"
+ },
+ {
+  "map": "50.13 TOSTARENA",
+  "offset": "022EFE4",
+  "en": "Something's happening,\\nand I don't like it!\\pI've seen shady characters wandering\\nin and out of PROF. COZMO's home…",
+  "pt": "Tem alguma coisa acontecendo, e eu não estou gostando nada disso!\\pVi umas figuras suspeitas entrando e saindo da casa do PROF. COZMO…"
+ },
+ {
+  "map": "50.13 TOSTARENA",
+  "offset": "022F057",
+  "en": "This region's been known for meteors\\nsince the olden days.\\pThey say METEOR FALLS was gouged out\\nby a falling meteorite long ago.",
+  "pt": "Esta região é conhecida pelos meteoros desde os tempos antigos.\\pDizem que as METEOR FALLS foram escavadas por um meteorito que caiu há muito tempo."
+ },
+ {
+  "map": "50.13 TOSTARENA",
+  "offset": "022F0D8",
+  "en": "See! Take a look!\\nThis is my precious AZURILL!\\pIt's slick and smooth and plushy, too!",
+  "pt": "Olha! Dá uma olhada! Este é o meu precioso AZURILL!\\pEle é lisinho, macio e fofinho também!"
+ },
+ {
+  "map": "50.13 TOSTARENA",
+  "offset": "022F12E",
+  "en": "AZURILL: Rooreelooo.",
+  "pt": "AZURILL: Ruriiluuu."
+ },
+ {
+  "map": "50.13 TOSTARENA",
+  "offset": "022F143",
+  "en": "Have you already challenged FLANNERY,\\nthe LEADER of LAVARIDGE GYM?\\pThe girl's grandfather was famous.\\nHe was one of the ELITE FOUR in the\\lPOKéMON LEAGUE at one point.\\pIt wouldn't surprise me to see FLANNERY\\nbecome a great TRAINER in her own\\lright.",
+  "pt": "Você já desafiou a FLANNERY, a LÍDER do GINÁSIO de LAVARIDGE?\\pO avô dela era famoso. Ele chegou a fazer parte da ELITE DOS QUATRO da LIGA CAPTURA.\\pNão me surpreenderia ver a FLANNERY se tornar uma grande TREINADORA por mérito próprio."
+ },
+ {
+  "map": "50.13 TOSTARENA",
+  "offset": "022F23B",
+  "en": "BATTLE TENT FALLARBOR SITE\\n“May the Greatest Teams Gather!”",
+  "pt": "TENDA DE BATALHA DE FALLARBOR\\n“Que as maiores equipes se reúnam!”"
+ },
+ {
+  "map": "50.13 TOSTARENA",
+  "offset": "022F277",
+  "en": "FALLARBOR TOWN\\n“A farm community with small gardens.”",
+  "pt": "FALLARBOR TOWN\\n“Vila rural de pequenas hortas.”"
+ },
+ {
+  "map": "50.13 TOSTARENA",
+  "offset": "022F2AD",
+  "en": "MOVE TUTOR'S HOUSE\\n“New moves taught to POKéMON.”",
+  "pt": "CASA DO TUTOR DE GOLPES\\n“Golpes novos ensinados às CAPTURAS.”"
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F459",
+  "en": "There was a man who dug a tunnel for\\na lady he loved.\\pI don't really get it, but hey!",
+  "pt": "Teve um homem que cavou um túnel por uma moça que ele amava.\\pEu não entendo muito bem, mas, enfim!"
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F4AF",
+  "en": "The way the winds blow, volcanic ash\\nis never blown in this direction.\\pThe air is clean and delicious here.\\nLiving here should do wonders for even\\lfrail and sickly people.",
+  "pt": "Pelo jeito que os ventos sopram, as cinzas vulcânicas nunca vêm para este lado.\\pO ar aqui é limpo e delicioso. Morar aqui deve fazer maravilhas até para pessoas frágeis e doentes."
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F55B",
+  "en": "My POKéMON and I, we've been riding\\na hot winning streak.\\pSo I decided to make my BATTLE TENT\\ndebut in this town.",
+  "pt": "Eu e as minhas CAPTURAS estamos numa sequência quente de vitórias.\\pEntão decidi fazer a minha estreia na TENDA DE BATALHA nesta cidade."
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F5CD",
+  "en": "Did you see the cave next to the\\nPOKéMON MART?\\pThere's a guy in there who's trying to\\nbust up boulders so he can bust out\\lthrough to the other side.\\pIt'd be great if we could go through…\\nIt'll make it easy to visit RUSTBORO.",
+  "pt": "Você viu a caverna ao lado da LOJA?\\pTem um cara lá dentro tentando quebrar umas rochas pra conseguir atravessar até o outro lado.\\pSeria ótimo se desse pra passar… Ficaria fácil visitar RUSTBORO."
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F6AE",
+  "en": "That cave next to the POKéMON MART\\nis now a tunnel to the other side.\\pIt's great--it's easy to go shop for\\nnew DEVON products in RUSTBORO now.",
+  "pt": "Aquela caverna ao lado da LOJA agora é um túnel até o outro lado.\\pÉ ótimo: agora ficou fácil ir até RUSTBORO comprar os produtos novos da DEVON."
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F73D",
+  "en": "VERDANTURF TOWN\\p“The windswept highlands with the\\nsweet fragrance of grass.”",
+  "pt": "VERDANTURF TOWN\\p“Os planaltos varridos pelo vento, com o doce perfume da grama.”"
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F78A",
+  "en": "WANDA'S HOUSE",
+  "pt": "CASA DA WANDA",
+  "max_width": 78
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F798",
+  "en": "BATTLE TENT VERDANTURF SITE\\n“Feast Your Eyes on Battles!”",
+  "pt": "TENDA DE BATALHA DE VERDANTURF\\n“Delicie os olhos com batalhas!”"
+ },
+ {
+  "map": "50.14 KONG KAPITAL",
+  "offset": "022F7D2",
+  "en": "RUSTURF TUNNEL\\n“Linking RUSTBORO and VERDANTURF\\p“The tunnel project has been\\ncanceled.”",
+  "pt": "RUSTURF TUNNEL\\n“Ligando RUSTBORO e VERDANTURF\\p“O projeto do túnel foi cancelado.”"
+ },
+ {
+  "map": "50.15 PACIFIDLOG TOWN",
+  "offset": "022F860",
+  "en": "The sea between PACIFIDLOG and\\nSLATEPORT has a fast-running tide.\\pIf you decide to SURF, you could end\\nup swept away somewhere else.",
+  "pt": "O mar entre PACIFIDLOG e SLATEPORT tem uma correnteza forte.\\pSe decidir usar SURFAR, você pode acabar sendo arrastado pra outro lugar."
+ },
+ {
+  "map": "50.15 PACIFIDLOG TOWN",
+  "offset": "022F8E5",
+  "en": "See, isn't it neat?\\nThese houses are on water!\\pI was born here!",
+  "pt": "Viu só, não é legal? Estas casas ficam em cima da água!\\pEu nasci aqui!"
+ },
+ {
+  "map": "50.15 PACIFIDLOG TOWN",
+  "offset": "022F925",
+  "en": "The SKY PILLAR?\\p…Oh, you must mean that tall, tall\\ntower a little further out.\\pIf you asked me, I wouldn't climb it.\\nIt's too scary to get up that high.\\pLife at sea level in PACIFIDLOG,\\nthat suits me fine.",
+  "pt": "O SKY PILLAR?\\p…Ah, você deve estar falando daquela torre altíssima um pouco mais adiante.\\pSe dependesse de mim, eu não subiria. É assustador demais chegar tão alto.\\pA vida ao nível do mar em PACIFIDLOG é o que me serve."
+ },
+ {
+  "map": "50.15 PACIFIDLOG TOWN",
+  "offset": "022F9F3",
+  "en": "PACIFIDLOG TOWN\\p“Where the morning sun smiles upon\\nthe waters.”",
+  "pt": "PACIFIDLOG TOWN\\p“Onde o sol da manhã sorri sobre as águas.”"
+ },
+ {
+  "map": "50.16 ROUTE 101",
+  "offset": "022FC08",
+  "en": "H-help me!",
+  "pt": "S-socorro!"
+ },
+ {
+  "map": "50.16 ROUTE 101",
+  "offset": "022FC13",
+  "en": "Hello! You over there!\\nPlease! Help!\\pIn my BAG!\\nThere's a POKé BALL!",
+  "pt": "Olá! Você aí! Por favor! Me ajude!\\pNa minha BOLSA! Tem um CAP!"
+ },
+ {
+  "map": "50.16 ROUTE 101",
+  "offset": "022FC58",
+  "en": "Wh-Where are you going?!\\nDon't leave me like this!",
+  "pt": "A-Aonde você vai?! Não me deixe assim!"
+ },
+ {
+  "map": "50.16 ROUTE 101",
+  "offset": "022FC8B",
+  "en": "PROF. BIRCH: Whew…\\pI was in the tall grass studying wild\\nPOKéMON when I was jumped.\\pYou saved me.\\nThanks a lot!\\pOh?\\pHi, you're {PLAYER}{KUN}!\\pThis is not the place to chat, so come\\nby my POKéMON LAB later, okay?",
+  "pt": "PROF. BIRCH: Ufa…\\pEu estava no mato alto estudando CAPTURAS selvagens quando fui atacado.\\pVocê me salvou. Muito obrigado!\\pOh?\\pOi, você é o {PLAYER}{KUN}!\\pAqui não é lugar pra conversar, então passe no meu LABORATÓRIO DE CAPTURAS mais tarde, tá?"
+ },
+ {
+  "map": "50.16 ROUTE 101",
+  "offset": "022FD56",
+  "en": "If POKéMON get tired, take them to\\na POKéMON CENTER.\\pThere's a POKéMON CENTER in OLDALE\\nTOWN right close by.",
+  "pt": "Se as suas CAPTURAS ficarem cansadas, leve-as a um CENTRO CAPTURA.\\pTem um CENTRO CAPTURA em OLDALE TOWN, bem pertinho daqui."
+ },
+ {
+  "map": "50.16 ROUTE 101",
+  "offset": "022FDC3",
+  "en": "Wild POKéMON will jump out at you in\\ntall grass.\\pIf you want to catch POKéMON, you have\\nto go into the tall grass and search.",
+  "pt": "CAPTURAS selvagens pulam em você no mato alto.\\pSe quiser pegar CAPTURAS, você tem que entrar no mato alto e procurar."
+ },
+ {
+  "map": "50.16 ROUTE 101",
+  "offset": "022FE41",
+  "en": "ROUTE 101\\n↑ OLDALE TOWN",
+  "pt": "ROTA 101\\n↑ OLDALE TOWN"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "0230039",
+  "en": "I'm…not very tall, so I sink right\\ninto tall grass.\\pThe grass goes up my nose and…\\nFwafwafwafwafwa…\\pFwatchoo!",
+  "pt": "Eu… não sou muito alto, então afundo no meio do mato alto.\\pO mato entra no meu nariz e… Fuáfuáfuáfuá…\\pAtchim!"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "02300A7",
+  "en": "I'm going to catch a whole bunch of\\nPOKéMON!",
+  "pt": "Eu vou pegar um montão de CAPTURAS!"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "02300D4",
+  "en": "ROUTE 102\\n→ OLDALE TOWN",
+  "pt": "ROTA 102\\n→ OLDALE TOWN"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "02300EC",
+  "en": "ROUTE 102\\n← PETALBURG CITY",
+  "pt": "ROTA 102\\n← PETALBURG CITY"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "0310F24",
+  "en": "If you have POKéMON with you, then\\nyou're an official POKéMON TRAINER!\\lYou can't say no to my challenge!",
+  "pt": "Se você tem CAPTURAS, então é um TREINADOR oficial! Não pode recusar o meu desafio!"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "0310F8D",
+  "en": "Arrgh, I lost…\\nI should have trained mine more…",
+  "pt": "Argh, perdi… Eu devia ter treinado mais as minhas…"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "0310FBD",
+  "en": "Listen, you. If you're strong,\\nyou should have told me before!",
+  "pt": "Escuta aqui. Se você é forte, devia ter me avisado antes!"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "0310FFC",
+  "en": "I've been working hard at this since\\nI saw you before.\\pI'd like to battle you again, so can\\nyou register me in your POKéNAV?",
+  "pt": "Eu tenho me esforçado muito desde que te vi da última vez.\\pQueria batalhar com você de novo, então pode me registrar no seu POKéNAV?"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "0311079",
+  "en": "I'd like to battle you again, so can\\nyou register me in your POKéNAV?",
+  "pt": "Queria batalhar com você de novo, então pode me registrar no seu POKéNAV?"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "031114D",
+  "en": "If you're going to get stronger,\\nI'll get stronger, too.",
+  "pt": "Se você vai ficar mais forte, eu também vou."
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "0311186",
+  "en": "Did you just become a TRAINER?\\nWe're both beginners!",
+  "pt": "Você acabou de virar TREINADOR? Nós dois somos iniciantes!"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "03111BB",
+  "en": "I called you because I thought\\nI could beat you…",
+  "pt": "Eu te chamei porque achei que conseguiria te vencer…"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "03111EC",
+  "en": "I haven't won once yet…\\nI wish I would win soon…",
+  "pt": "Ainda não ganhei nenhuma vez… Queria ganhar logo…"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "031126A",
+  "en": "If you lock eyes with a TRAINER,\\nyou have to challenge! It's a rule!",
+  "pt": "Se você cruzar olhares com um TREINADOR, tem que desafiar! É a regra!"
+ },
+ {
+  "map": "50.17 WORLD 1-2",
+  "offset": "0311327",
+  "en": "To keep winning my way up, I see that\\nI have to catch more POKéMON.",
+  "pt": "Pra continuar vencendo e subir, vejo que tenho que pegar mais CAPTURAS."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0230557",
+  "en": "Oh, hi, {PLAYER}{KUN}!\\p…Oh, I see, my dad gave you\\na POKéMON as a gift.\\pSince we're here, let's have a quick\\nbattle!\\pI'll give you a taste of what being\\na TRAINER is like.",
+  "pt": "Oh, oi, {PLAYER}{KUN}!\\p…Ah, entendi, o meu pai te deu uma CAPTURA de presente.\\pJá que estamos aqui, vamos fazer uma batalha rapidinha!\\pVou te mostrar como é ser TREINADOR."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0230627",
+  "en": "MAY: I think I know why my dad has\\nan eye out for you now.\\pI mean, you just got that POKéMON,\\nbut it already likes you.\\pYou might be able to befriend any\\nkind of POKéMON easily.\\pWell, it's time to head back to\\nthe LAB.",
+  "pt": "MAY: Acho que sei por que o meu pai está de olho em você.\\pQuer dizer, você acabou de ganhar essa CAPTURA, e ela já gosta de você.\\pTalvez você consiga fazer amizade facilmente com qualquer tipo de CAPTURA.\\pBom, hora de voltar pro LABORATÓRIO."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0230702",
+  "en": "BRENDAN: Okay, so it's this one and\\nthat one that live on ROUTE 103…",
+  "pt": "BRENDAN: Certo, então são esta e aquela que vivem na ROTA 103…"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0230747",
+  "en": "Hey, it's {PLAYER}!\\p…Oh, yeah, Dad gave you a POKéMON.\\pSince we're here, how about a little\\nbattle?\\pI'll teach you what being a TRAINER's\\nabout!",
+  "pt": "Ei, é o {PLAYER}!\\p…Ah, é, o papai te deu uma CAPTURA.\\pJá que estamos aqui, que tal uma batalhinha?\\pVou te ensinar o que é ser TREINADOR!"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "02307F2",
+  "en": "BRENDAN: I think I get it.\\nI think I know why my dad has his eye\\lout for you now.\\pLook, your POKéMON already likes you,\\neven though you just got it.\\p{PLAYER}, I get the feeling that you\\ncould befriend any POKéMON with ease.\\pWe should head back to the LAB.",
+  "pt": "BRENDAN: Acho que entendi. Acho que sei por que o meu pai está de olho em você.\\pOlha, a sua CAPTURA já gosta de você, mesmo você tendo acabado de ganhá-la.\\p{PLAYER}, tenho a impressão de que você conseguiria fazer amizade com qualquer CAPTURA com facilidade.\\pÉ melhor a gente voltar pro LABORATÓRIO."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "02308EC",
+  "en": "My POKéMON is staggeringly tired…\\nI should have brought a POTION…",
+  "pt": "A minha CAPTURA está cansada demais… Eu devia ter trazido um COGUMELO…"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "023092E",
+  "en": "If you cross the sea from here,\\nit'll be a shortcut to OLDALE TOWN.\\pFufufu, that's useful, isn't it?",
+  "pt": "Se você atravessar o mar a partir daqui, é um atalho pra OLDALE TOWN.\\pFufufu, útil, não é?"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0230993",
+  "en": "ROUTE 103\\n↓ OLDALE TOWN",
+  "pt": "ROTA 103\\n↓ OLDALE TOWN"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "03113C5",
+  "en": "Aromatherapy is a form of mental\\nhealing that works with fragrances.",
+  "pt": "A aromaterapia é uma forma de cura mental que funciona com fragrâncias."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311463",
+  "en": "AMY: You have to think about all\\nkinds of things when you're battling\\lagainst two TRAINERS.",
+  "pt": "AMY: Você tem que pensar em todo tipo de coisa quando está batalhando contra dois TREINADORES."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311551",
+  "en": "LIV: We work perfectly together,\\nme and my big sister…\\pBut we still lost…",
+  "pt": "LIV: A gente trabalha em perfeita sintonia, eu e a minha irmã mais velha…\\pMas mesmo assim a gente perdeu…"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "031159B",
+  "en": "LIV: Really, we're a lot better…\\nIt's true! We'll show you next time!",
+  "pt": "LIV: Sério, a gente é muito melhor… É verdade! Vamos te mostrar da próxima vez!"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "03116A4",
+  "en": "AMY: You have to think about all\\nkinds of things when you're battling\\lagainst two TRAINERS.",
+  "pt": "AMY: Você tem que pensar em todo tipo de coisa quando está batalhando contra dois TREINADORES."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "031179A",
+  "en": "LIV: We work perfectly together,\\nme and my big sister…\\pBut why did we lose again?",
+  "pt": "LIV: A gente trabalha em perfeita sintonia, eu e a minha irmã mais velha…\\pMas por que a gente perdeu de novo?"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311845",
+  "en": "Gah! My fishing line's all snarled up!\\nI'm getting frustrated and mean!\\lThat's it! Battle me!",
+  "pt": "Grr! A minha linha de pesca embolou toda! Estou ficando irritado e mal-humorado! Chega! Lute comigo!"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "03118A3",
+  "en": "Gah! Lost it!\\nI'm even more annoyed now!",
+  "pt": "Grr! Perdi! Agora estou mais irritado ainda!"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "03118CC",
+  "en": "Gah, I'm still boiling mad…\\nGrrrrr…",
+  "pt": "Grr, ainda estou fervendo de raiva… Grrrrr…"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311953",
+  "en": "My delightful POKéMON looks darling\\neven when it's fainted!",
+  "pt": "A minha CAPTURA encantadora fica uma graça até desmaiada!"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "031198F",
+  "en": "I'll get you to come out and look in\\non my delightful POKéMON again!",
+  "pt": "Vou fazer você vir dar uma olhada na minha CAPTURA encantadora de novo!"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311A2F",
+  "en": "The more I spend time with it,\\nthe more adorable my POKéMON becomes.",
+  "pt": "Quanto mais tempo eu passo com ela, mais adorável a minha CAPTURA fica."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311ABB",
+  "en": "Oh, I understand where you're coming\\nfrom now.\\pIf I had a POKéMON that trusty,\\nI'd want to SURF on it, too!",
+  "pt": "Ah, agora eu entendo o seu lado.\\pSe eu tivesse uma CAPTURA tão confiável assim, também ia querer SURFAR nela!"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311B5E",
+  "en": "I'm a poor swimmer so I was practicing…\\nSorry for almost crashing into you.",
+  "pt": "Eu nado mal, então estava treinando… Desculpe por quase trombar em você."
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311BAA",
+  "en": "Whoa!\\nHow'd you get into a space this small?",
+  "pt": "Opa! Como você entrou num espaço tão apertado?"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311BD7",
+  "en": "Whoa!\\nThe kid can rock!",
+  "pt": "Uau! O garoto detona!"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311BEF",
+  "en": "Do you like cramped quarters\\nlike this?",
+  "pt": "Você gosta de lugares apertados assim?"
+ },
+ {
+  "map": "50.18 CASTLE GARDENS",
+  "offset": "0311C57",
+  "en": "I was playing my guitar where few\\npeople were around, but a lot of fans\\lhave gathered.\\pHeh, maybe I should turn pro.",
+  "pt": "Eu estava tocando guitarra onde quase não tinha ninguém, mas um monte de fãs se juntou.\\pHeh, talvez eu devesse virar profissional."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "022D828",
+  "en": "MR. BRINEY: Ahoy!\\nWe've hit land in DEWFORD.\\pI suppose you're off to deliver that\\nLETTER to, who was it now, STEVEN!",
+  "pt": "SR. BRINEY: Ahoy! Chegamos a DEWFORD.\\pImagino que você vá entregar aquela CARTA pro… quem era mesmo… o STEVEN!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "022D996",
+  "en": "MR. BRINEY: Ahoy!\\nWe've hit land in DEWFORD!\\pYou just go on and tell me whenever\\nyou want to set sail again!",
+  "pt": "SR. BRINEY: Ahoy! Chegamos a DEWFORD!\\pÉ só me avisar sempre que quiser zarpar de novo!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "02313DB",
+  "en": "The sea, huh?\\pI wonder what it's like at the bottom\\nof the sea?",
+  "pt": "O mar, é?\\pComo será que é lá no fundo do mar?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "023141B",
+  "en": "If you're going to throw a POKé BALL,\\nweaken the wild POKéMON first.\\pIt will be easier to catch if it's been\\npoisoned, burned, or lulled to sleep.",
+  "pt": "Se você vai jogar um CAP, enfraqueça a CAPTURA selvagem primeiro.\\pVai ser mais fácil de pegar se ela estiver envenenada, queimada ou adormecida."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "02314AE",
+  "en": "You're a thief if you try to steal\\nsomeone else's POKéMON.\\pYou should throw POKé BALLS only at\\nwild POKéMON.",
+  "pt": "Você é um ladrão se tentar roubar a CAPTURA de outra pessoa.\\pVocê só deve jogar CAPs em CAPTURAS selvagens."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "023151B",
+  "en": "Oh, no, I'm not a TRAINER.\\pBut that's right, if TRAINERS lock eyes,\\nit's a challenge to battle.\\pIf you don't want to battle, stay out\\nof their sight.",
+  "pt": "Ah, não, eu não sou TREINADOR.\\pMas é isso mesmo: se os TREINADORES cruzam olhares, é um desafio pra batalha.\\pSe não quiser batalhar, fique longe da vista deles."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "02315B1",
+  "en": "I like filling my mouth with seeds,\\nthen spitting them out fast!\\pYou can have this, so you try it out!\\pUse it on a POKéMON, and it will learn\\na move for firing seeds rapidly.",
+  "pt": "Eu adoro encher a boca de sementes e depois cuspir tudo bem rápido!\\pPode ficar com isto, aí você experimenta!\\pUse numa CAPTURA, e ela vai aprender um golpe que dispara sementes sem parar."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231660",
+  "en": "A word of advice!\\pA TM, TECHNICAL MACHINE, is good only\\nfor one-time use.\\pOnce you use it, it's gone.\\nThink twice before using it!",
+  "pt": "Um conselho!\\pUm TM, ou MÁQUINA TÉCNICA, só serve para um único uso.\\pDepois de usada, ela some. Pense duas vezes antes de usar!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "02316E3",
+  "en": "This FLOWER SHOP started selling\\nsaplings recently.\\pIt made me so happy, I went overboard\\nshopping.\\pI don't need this WHITE HERB anymore.\\nWould you take it, please?",
+  "pt": "Esta FLORICULTURA começou a vender mudas faz pouco tempo.\\pFiquei tão feliz que exagerei nas compras.\\pNão preciso mais desta ERVA BRANCA. Você aceitaria, por favor?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231788",
+  "en": "This FLOWER SHOP started selling\\nsaplings recently.\\pIt made me so happy, I went overboard\\nshopping. Where should I put them?",
+  "pt": "Esta FLORICULTURA começou a vender mudas faz pouco tempo.\\pFiquei tão feliz que exagerei nas compras. Onde é que eu vou colocar tudo isso?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231805",
+  "en": "MR. BRINEY'S COTTAGE",
+  "pt": "CHALÉ DO SR. BRINEY"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "023181A",
+  "en": "ROUTE 1O4\\n→ PETALBURG CITY",
+  "pt": "ROTA 104\\n→ PETALBURG CITY"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231835",
+  "en": "ROUTE 1O4\\n↑ RUSTBORO CITY",
+  "pt": "ROTA 104\\n↑ RUSTBORO CITY"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "023184F",
+  "en": "PRETTY PETAL FLOWER SHOP",
+  "pt": "FLORICULTURA PRETTY PETAL"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231868",
+  "en": "TRAINER TIPS\\pIn the HOENN region there are pairs\\nof TRAINERS who challenge others\\lfor 2-on-2 POKéMON battles called\\lDOUBLE BATTLES.\\pIn a DOUBLE BATTLE, the TRAINER must\\nsend out two POKéMON, the one at the\\lleft of the list and the top one.\\lWatch how POKéMON are lined up.",
+  "pt": "DICAS DE TREINADOR\\pNa região de HOENN, existem duplas de TREINADORES que desafiam outros para batalhas de CAPTURAS 2 contra 2, chamadas BATALHAS DUPLAS.\\pNuma BATALHA DUPLA, o TREINADOR tem que enviar duas CAPTURAS: a da esquerda da lista e a de cima. Preste atenção na ordem das CAPTURAS."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231978",
+  "en": "MAY: Oh, hi, {PLAYER}{KUN}!\\pDEVON upgraded your POKéNAV with\\nthe MATCH CALL system, huh?\\pWe should register each other so we\\ncan get in contact anytime.",
+  "pt": "MAY: Oh, oi, {PLAYER}{KUN}!\\pA DEVON atualizou o seu POKéNAV com o sistema MATCH CALL, né?\\pA gente devia se registrar pra poder se falar a qualquer hora."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231A08",
+  "en": "{PLAYER} registered MAY\\nin the POKéNAV.",
+  "pt": "{PLAYER} registrou a MAY\\nno POKéNAV."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231A2A",
+  "en": "MAY: Oh, by the way, {PLAYER}{KUN},\\nhow's your POKéDEX coming along?",
+  "pt": "MAY: Ah, falando nisso, {PLAYER}{KUN}, como anda a sua TATTLEDEX?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231A66",
+  "en": "Mine's looking pretty decent.\\nSo…\\lHow about a little battle?",
+  "pt": "A minha está ficando bem legal. Então… Que tal uma batalhinha?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231AA3",
+  "en": "MAY: Oh, what's the matter?\\pHaven't you caught or raised your\\nPOKéMON very much?\\pThat's not very good for a TRAINER!",
+  "pt": "MAY: Ué, qual é o problema?\\pVocê não pegou nem treinou muitas CAPTURAS?\\pIsso não é nada bom pra um TREINADOR!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231B18",
+  "en": "MAY: So, what do you think?\\nHow about a little battle here?",
+  "pt": "MAY: E aí, o que acha? Que tal uma batalhinha aqui?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231B54",
+  "en": "MAY: You just became a TRAINER,\\n{PLAYER}{KUN}. I'm not going to lose!",
+  "pt": "MAY: Você acabou de virar TREINADOR, {PLAYER}{KUN}. Eu não vou perder!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231B91",
+  "en": "Yikes!\\nYou're better than I expected!",
+  "pt": "Caramba! Você é melhor do que eu esperava!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231BB7",
+  "en": "MAY: I can tell you've gotten pretty\\ngood with the way you handle POKéMON.\\pBut instead of only making them\\nbattle, you should be like MR. BRINEY.\\pIt's important to become friends with\\nPOKéMON, too.",
+  "pt": "MAY: Dá pra ver que você ficou bem bom em lidar com as CAPTURAS.\\pMas, em vez de só fazê-las batalhar, você devia ser como o SR. BRINEY.\\pTambém é importante ficar amigo das CAPTURAS."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231C7D",
+  "en": "BRENDAN: Oh, hey, {PLAYER}!\\pCool, you had DEVON install the MATCH\\nCALL system on your POKéNAV!\\pLet's register each other in our\\nPOKéNAVS so we can keep in touch.",
+  "pt": "BRENDAN: Ah, ei, {PLAYER}!\\pLegal, você pediu pra DEVON instalar o sistema MATCH CALL no seu POKéNAV!\\pVamos nos registrar nos nossos POKéNAVS pra manter contato."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231D19",
+  "en": "{PLAYER} registered BRENDAN\\nin the POKéNAV.",
+  "pt": "{PLAYER} registrou o BRENDAN\\nno POKéNAV."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231D3F",
+  "en": "BRENDAN: {PLAYER}, how's your POKéDEX?\\nHave you filled in any pages yet?",
+  "pt": "BRENDAN: {PLAYER}, como anda a sua TATTLEDEX? Já preencheu alguma página?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231D82",
+  "en": "Me, I'm doing great!\\pWant to check out how good I am with\\na battle?",
+  "pt": "Eu? Estou indo muito bem!\\pQuer ver como eu sou bom numa batalha?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231DC6",
+  "en": "BRENDAN: What's the matter? Don't have\\nany confidence in your POKéMON?",
+  "pt": "BRENDAN: Qual é o problema? Não confia nas suas CAPTURAS?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231E0D",
+  "en": "BRENDAN: What's up?\\nWant to have a battle with me?",
+  "pt": "BRENDAN: E aí? Quer batalhar comigo?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231E40",
+  "en": "BRENDAN: I know you just became\\na TRAINER, but I won't go easy!",
+  "pt": "BRENDAN: Sei que você acabou de virar TREINADOR, mas não vou pegar leve!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231E80",
+  "en": "Hmm…\\nYou're pretty good.",
+  "pt": "Hmm… Você é bem bom."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0231E99",
+  "en": "BRENDAN: You've gotten pretty decent\\nat handling POKéMON.\\pBut, you know, you shouldn't just be\\nmaking POKéMON battle.\\pLike MR. BRINEY, it's important to\\nbecome friends with your POKéMON.",
+  "pt": "BRENDAN: Você ficou bem bom em lidar com as CAPTURAS.\\pMas, sabe, você não devia só ficar botando as CAPTURAS pra batalhar.\\pComo o SR. BRINEY, é importante ficar amigo das suas CAPTURAS."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "02321CA",
+  "en": "Registered DAD NORMAN\\nin the POKéNAV.",
+  "pt": "PAI NORMAN registrado\\nno POKéNAV."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0311D0F",
+  "en": "GINA: You are strong!\\nWe have to train lots more!",
+  "pt": "GINA: Você é forte! A gente tem que treinar muito mais!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0311E1E",
+  "en": "MIA: We will train our POKéMON more\\nand be strong like you.",
+  "pt": "MIA: Vamos treinar mais as nossas CAPTURAS e ficar fortes como você."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0311F5F",
+  "en": "I got too into fishing.\\nI forgot I had to raise my POKéMON…",
+  "pt": "Fiquei tão envolvido com a pesca que esqueci que tinha que treinar as minhas CAPTURAS…"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0311FF9",
+  "en": "I want to leave my footprints in\\nthe sand everywhere, but they\\ldisappear quickly…",
+  "pt": "Eu queria deixar as minhas pegadas na areia por toda parte, mas elas somem rapidinho…"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "031204B",
+  "en": "Should I…\\nOr shouldn't I?\\pOkay, sure, I will battle!",
+  "pt": "Será que eu devo… Ou será que não?\\pTá bom, certo, eu vou batalhar!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0312080",
+  "en": "I shouldn't have battled…",
+  "pt": "Eu não devia ter batalhado…"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "031209A",
+  "en": "If you're faced with a decision and\\nyou let someone else choose for you,\\lyou will regret it, however things\\lturn out.",
+  "pt": "Se você está diante de uma decisão e deixa outra pessoa escolher por você, vai se arrepender, não importa como as coisas terminem."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0312110",
+  "en": "You're strong, but should I register\\nyou in my POKéNAV?\\lMaybe I shouldn't…\\pOkay, sure, I will register you!",
+  "pt": "Você é forte, mas será que eu devo te registrar no meu POKéNAV? Talvez não…\\pTá bom, certo, vou te registrar!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "031217C",
+  "en": "You're strong, but should I register\\nyou in my POKéNAV?\\lMaybe I shouldn't…\\pOkay, sure, I will register you!",
+  "pt": "Você é forte, mas será que eu devo te registrar no meu POKéNAV? Talvez não…\\pTá bom, certo, vou te registrar!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "031221D",
+  "en": "I made the decision to battle, so\\nI can accept this loss with grace.\\pI am still upset about losing!",
+  "pt": "Fui eu que decidi batalhar, então posso aceitar esta derrota com elegância.\\pMas ainda estou chateado por perder!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "03122D2",
+  "en": "There are some things money can't buy.\\nThat's POKéMON…",
+  "pt": "Tem coisas que o dinheiro não compra. Tipo as CAPTURAS…"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0312309",
+  "en": "Hm?\\nAh, you've obtained a POKéNAV.\\pI will gladly register you.\\nAfter all, I have plenty of money.",
+  "pt": "Hum? Ah, você conseguiu um POKéNAV.\\pVou te registrar com prazer. Afinal, dinheiro não me falta."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "031236B",
+  "en": "Hm?\\nAh, you've obtained a POKéNAV.\\pI will gladly register you.\\nAfter all, I have plenty of money.",
+  "pt": "Hum? Ah, você conseguiu um POKéNAV.\\pVou te registrar com prazer. Afinal, dinheiro não me falta."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "031242F",
+  "en": "I'm fabulously wealthy, but I can't\\nseem to win at POKéMON…\\pIt's so deep, the world of POKéMON…",
+  "pt": "Sou riquíssimo, mas não consigo ganhar com as minhas CAPTURAS…\\pÉ tão profundo, o mundo das CAPTURAS…"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "031248F",
+  "en": "We must have been fated to meet.\\nMay I ask you for a battle?",
+  "pt": "Estava escrito que a gente ia se encontrar. Posso te pedir uma batalha?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "03124CC",
+  "en": "Oh, my!",
+  "pt": "Oh, céus!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "03124D4",
+  "en": "“Hello” is the beginning of “good-bye.”\\nI hope we meet again.",
+  "pt": "“Olá” é o começo do “adeus”. Espero que a gente se encontre de novo."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0312512",
+  "en": "Hello, we meet again.\\pWe seem to be drawn together. Let's\\nregister each other in our POKéNAVS.",
+  "pt": "Olá, nos encontramos de novo.\\pParece que algo nos atrai. Vamos nos registrar nos nossos POKéNAVS."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0312571",
+  "en": "We should commemorate how we seem\\nto be drawn to each other.\\pLet's register each other in our\\nPOKéNAVS.",
+  "pt": "Devíamos celebrar o jeito como parecemos atraídos um pelo outro.\\pVamos nos registrar nos nossos POKéNAVS."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0312630",
+  "en": "“Hello” is the beginning of “good-bye.”\\nI hope we meet again.",
+  "pt": "“Olá” é o começo do “adeus”. Espero que a gente se encontre de novo."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "031266E",
+  "en": "I fished up a tough-looking POKéMON!\\pIt has this magical quality to it!\\nIt surely looks tough, yes it does!",
+  "pt": "Eu pesquei uma CAPTURA com cara de durona!\\pEla tem um quê mágico! Com certeza parece durona, ah, se parece!"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "03126DA",
+  "en": "What the…",
+  "pt": "Mas o quê…"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "03126E4",
+  "en": "Hey, MAGIKARP, you sure don't live up\\nto your name, do you?",
+  "pt": "Ei, MAGIKARP, você não faz jus ao seu nome, hein?"
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "0323937",
+  "en": "If you see BERRIES growing in loamy\\nsoil, feel free to take them.\\pBut make sure you plant a BERRY in the\\nsame spot. That's common courtesy.\\pHere, I'll share this with you.",
+  "pt": "Se você vir FRUTAS crescendo em solo fértil, fique à vontade para pegá-las.\\pMas não se esqueça de plantar uma FRUTA no mesmo lugar. É questão de educação.\\pAqui, vou dividir isto com você."
+ },
+ {
+  "map": "50.19 ROUTE 104",
+  "offset": "03239E3",
+  "en": "The way you look, you must be a\\nTRAINER, no?\\pTRAINERS often make POKéMON hold\\nBERRIES.\\pIt's up to you whether to grow BERRIES\\nor use them.",
+  "pt": "Pelo seu jeito, você deve ser TREINADOR, não?\\pOs TREINADORES costumam fazer as CAPTURAS segurarem FRUTAS.\\pCabe a você decidir se vai plantar as FRUTAS ou usá-las."
+ }
+]

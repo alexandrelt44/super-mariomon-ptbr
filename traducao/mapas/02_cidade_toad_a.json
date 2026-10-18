@@ -1,0 +1,704 @@
+[
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B8F4A",
+  "en": "PEACH",
+  "pt": "PEACH",
+  "max_width": 36
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B8F50",
+  "en": "MARIO! You've done wonderfully, thank\\nyou so much for defeating BOWSER!",
+  "pt": "MARIO! Você foi maravilhoso, muito obrigada por derrotar o BOWSER!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B8F98",
+  "en": "TOADSWORTH",
+  "pt": "TOADSWORTH",
+  "max_width": 66
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B8FA3",
+  "en": "How do we know about your deeds in the\\nMOLTEN KINGDOM?\\pHoho! Did you not hear the call of the\\nPOWER STARS once you collected all\\leight? All involved in the C.A.P.\\lCHALLENGE heard the call, MASTER MARIO.\\pAs such, we are off to MUSHROOM HILL,\\nposthaste!",
+  "pt": "Como sabemos dos seus feitos no MOLTEN KINGDOM?\\pHohoho! Não ouviu o chamado das ESTRELAS DE PODER quando reuniu todas as oito? Todos os participantes do DESAFIO C.A.P. ouviram o chamado, MESTRE MARIO.\\pPor isso, estamos de partida para COLINA COGUMELO, sem demora!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B909F",
+  "en": "That's right! Do you want to come with\\nus, MARIO? We have a boat prepared\\lalready.",
+  "pt": "Isso mesmo! Quer vir com a gente, MARIO? Já temos um barco preparado."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B90F2",
+  "en": "Then just follow us!",
+  "pt": "Então é só nos seguir!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9107",
+  "en": "SAILOR",
+  "pt": "MARUJO",
+  "max_width": 42
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B910E",
+  "en": "P-PRINCESS?! TOADSWORTH?! What brings\\nyou to my humble docks?",
+  "pt": "P-PRINCESA?! TOADSWORTH?! O que os traz às minhas humildes docas?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B914C",
+  "en": "Bring us to MUSHROOM HILL, young sailor.\\nPosthaste!",
+  "pt": "Leve-nos a COLINA COGUMELO, jovem marujo. Sem demora!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9180",
+  "en": "O-Of course, TOADSWORTH! Go right on\\nahead!",
+  "pt": "C-Claro, TOADSWORTH! Podem embarcar!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B91AC",
+  "en": "I get it, you want to prepare before\\ntaking on MUSHROOM HILL. Don't worry,\\lwe understand.",
+  "pt": "Entendi, você quer se preparar antes de encarar COLINA COGUMELO. Não se preocupe, nós entendemos."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9206",
+  "en": "Quite! MASTER MARIO, when you want to\\ngo to MUSHROOM HILL, just head to the\\lwest side of town.\\pThere, a ship will be waiting for you. We\\nshall await your arrival there!",
+  "pt": "Pois bem! MESTRE MARIO, quando quiser ir a COLINA COGUMELO, basta ir ao lado oeste da cidade.\\pLá, um navio estará à sua espera. Nós o aguardaremos lá!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B92B3",
+  "en": "MARIO, LUIGI! Over here!",
+  "pt": "MARIO, LUIGI! Aqui!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B92CC",
+  "en": "PROF. E. GADD",
+  "pt": "PROF. E. GADD",
+  "max_width": 72
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B92DA",
+  "en": "Finally, you've arrived! Now we can\\nstart the demonstration.",
+  "pt": "Finalmente vocês chegaram! Agora podemos começar a demonstração."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9317",
+  "en": "TOAD",
+  "pt": "TOAD",
+  "max_width": 30
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B931C",
+  "en": "What's this all about, PROFESSOR E.\\nGADD? We've been waiting forever.",
+  "pt": "Do que se trata tudo isso, PROFESSOR E. GADD? Estamos esperando há séculos."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9362",
+  "en": "Patience, friend. I'll get into it now.\\pToday I am here to help announce and\\npromote Princess Peach's new event!",
+  "pt": "Paciência, amigo. Já vou explicar.\\pHoje estou aqui para ajudar a anunciar e divulgar o novo evento da Princesa Peach!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B93D3",
+  "en": "Event? What could he be talking about?\\pTOAD: I hope it's something fun!",
+  "pt": "Evento? Do que será que ele está falando?\\pTOAD: Espero que seja algo divertido!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9421",
+  "en": "Any guesses, bro? I hope it's another\\nfun party!",
+  "pt": "Algum palpite, mano? Tomara que seja outra festa divertida!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9452",
+  "en": "Alright, everyone, quiet down! I'll\\nbriefly explain in just a moment.",
+  "pt": "Muito bem, pessoal, silêncio! Vou explicar rapidinho num instante."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9498",
+  "en": "As you may have noticed, behind me is a\\nPIRANHA PLANT, a BOB-OMB, and a\\lBLOOPER. Species such as these are an\\lintegral part of the event the\\lPRINCESS is putting on! I can only give\\la brief rundown here, as the PRINCESS\\lwill be explaining things later.\\lBasically though, contestants\\lthroughout the MUSHROOM KINGDOM are\\lgoing to assemble their own parties and\\lfight against one another for a\\lfabulous prize!",
+  "pt": "Como vocês devem ter notado, atrás de mim estão uma PIRANHA PLANT, um BOB-OMB e um BLOOPER. Espécies como essas são parte essencial do evento que a PRINCESA está organizando! Só posso dar um resumo aqui, pois a PRINCESA vai explicar tudo mais tarde. Mas, basicamente, participantes de todo o REINO DOS COGUMELOS vão montar suas próprias equipes e lutar uns contra os outros por um prêmio fabuloso!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B962E",
+  "en": "Did you hear that? There's prizes\\ninvolved!",
+  "pt": "Ouviu isso? Vai ter prêmios!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9666",
+  "en": "I wonder what he meant by fighting each\\nother though. Fighting's much too scary\\lfor me.",
+  "pt": "Mas fiquei pensando no que ele quis dizer com lutar uns contra os outros. Lutar é assustador demais pra mim."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B96BE",
+  "en": "Ah, no need to worry if you're not much\\nof a fighter yourself! Contestants are\\lto be split into two different\\lcategories. Think of said categories\\llike this; COMMANDERs and CAPTURES. One\\lperson gives orders, and the other\\lfights. In order to make things fair,\\lrewards will be given to both the\\lCOMMANDER AND their party. Here, why\\ldon't we have a demonstration of what\\lthese battles will look like. MARIO,\\lLUIGI, do you mind helping out?",
+  "pt": "Ah, não precisa se preocupar se você não é muito de lutar! Os participantes serão divididos em duas categorias diferentes. Pensem nelas assim: COMANDANTES e CAPTURAS. Um dá as ordens, e o outro luta. Para ser justo, as recompensas serão dadas tanto ao COMANDANTE QUANTO à sua equipe. Que tal fazermos uma demonstração de como serão essas batalhas? MARIO, LUIGI, vocês se importam de ajudar?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9874",
+  "en": "Of course, PROFESSOR! What do you need\\nus to do?",
+  "pt": "Claro, PROFESSOR! O que precisamos fazer?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B98A5",
+  "en": "Go ahead and choose the first member\\nof your party from those behind me.\\lPick any one you want!",
+  "pt": "Escolham o primeiro membro da sua equipe entre esses aqui atrás de mim. Podem pegar qualquer um!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9905",
+  "en": "You go ahead and choose first, bro. I\\ndon't mind.",
+  "pt": "Pode escolher primeiro, mano. Eu não me importo."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9937",
+  "en": "Alright LUIGI, your turn.",
+  "pt": "Muito bem, LUIGI, sua vez."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9951",
+  "en": "I'll choose this one. Let's make sure to\\nget along!",
+  "pt": "Vou escolher este. Vamos nos dar bem, hein!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9985",
+  "en": "LUIGI obtained a {STR_VAR_2}!",
+  "pt": "LUIGI obteve {STR_VAR_2}!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B999A",
+  "en": "I'll choose this one. Let's get along,\\nBlooey!",
+  "pt": "Vou escolher este. Vamos nos dar bem, Blooey!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B99C9",
+  "en": "LUIGI obtained a BLOOPER and\\nnicknamed it Blooey!",
+  "pt": "LUIGI obteve um BLOOPER e deu a ele o apelido de Blooey!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B99FB",
+  "en": "Right then, go ahead and stand in front\\nof each other.",
+  "pt": "Muito bem, agora fiquem um de frente para o outro."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9A32",
+  "en": "And now… begin!",
+  "pt": "E agora… comecem!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9A42",
+  "en": "Wow MARIO, you're already so good at\\nthis!",
+  "pt": "Uau, MARIO, você já é muito bom nisso!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9A6D",
+  "en": "I'll choose this one. Let's get along,\\nBitey!",
+  "pt": "Vou escolher este. Vamos nos dar bem, Bitey!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9A9B",
+  "en": "LUIGI obtained a PIRANHA PLANT and\\nnicknamed it Bitey!",
+  "pt": "LUIGI obteve uma PIRANHA PLANT e deu a ela o apelido de Bitey!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9AD2",
+  "en": "I'll choose this one. Let's get along,\\nJerry!",
+  "pt": "Vou escolher este. Vamos nos dar bem, Jerry!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9B00",
+  "en": "LUIGI obtained a BOB-OMB and\\nnicknamed it Jerry!",
+  "pt": "LUIGI obteve um BOB-OMB e deu a ele o apelido de Jerry!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9B31",
+  "en": "Ahaha… As expected, you're better at\\nthis than I am, MARIO.",
+  "pt": "Ahaha… Como esperado, você é melhor nisso do que eu, MARIO."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9B6D",
+  "en": "I… won?",
+  "pt": "Eu… ganhei?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9B75",
+  "en": "Um… what happens now? Both of our\\nparties fainted at the same time.",
+  "pt": "Hã… e agora? As nossas equipes desmaiaram ao mesmo tempo."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9BB9",
+  "en": "What an excellent battle!",
+  "pt": "Que batalha excelente!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9BD3",
+  "en": "Now then, in order for a party member to\\nbe marked as already in a party, they\\lneed to be wearing a specially designed\\lcap I've created!\\pThe members you chose already have\\nthem, but you're going to need more in\\lthe future.\\pHere, take some.",
+  "pt": "Pois bem, para que um membro seja marcado como já pertencente a uma equipe, ele precisa usar um boné especial que eu criei, o CAP!\\pOs membros que vocês escolheram já estão com o deles, mas vocês vão precisar de mais no futuro.\\pTomem, peguem alguns."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9CC3",
+  "en": "Received 20 CAPs!",
+  "pt": "Você recebeu 20 CAPs!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9CD5",
+  "en": "And for you too, LUIGI.",
+  "pt": "E pra você também, LUIGI."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9CED",
+  "en": "LUIGI: Thanks, Professor!",
+  "pt": "LUIGI: Valeu, Professor!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9D07",
+  "en": "These caps will also shrink down the\\nbodies of your party members, so they\\lcan easily travel alongside you without\\lany inconvenience! That goes for\\leveryone else here as well! I'll be\\lhanding out free samples all day.\\pStart assembling your team and head\\nfor the castle as soon as you can for\\lmore details!",
+  "pt": "Esses CAPs também encolhem o corpo dos membros da equipe, para que eles possam viajar com vocês sem nenhum incômodo! Isso vale para todos aqui também! Vou distribuir amostras grátis o dia todo.\\pComecem a montar suas equipes e sigam para o castelo assim que puderem para saber mais!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9E39",
+  "en": "You want {STR_VAR_1}?",
+  "pt": "Você quer {STR_VAR_1}?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9E46",
+  "en": "You want the GRASS type, PIRANHA\\nPLANT?",
+  "pt": "Você quer a PIRANHA PLANT, do tipo PLANTA?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9E6E",
+  "en": "MARIO received {STR_VAR_1}!",
+  "pt": "MARIO recebeu {STR_VAR_1}!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9E81",
+  "en": "Go ahead and give a nickname to\\n{STR_VAR_1}.",
+  "pt": "Agora dê um apelido para {STR_VAR_1}."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9EA5",
+  "en": "Would you like to give a nickname to\\n{STR_VAR_1}?",
+  "pt": "Quer dar um apelido para {STR_VAR_1}?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9ECE",
+  "en": "You want {STR_VAR_2}?",
+  "pt": "Você quer {STR_VAR_2}?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9EDB",
+  "en": "You want the FIRE type, BOB-OMB?",
+  "pt": "Você quer o BOB-OMB, do tipo FOGO?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9EFC",
+  "en": "You want {STR_VAR_3}?",
+  "pt": "Você quer {STR_VAR_3}?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9F09",
+  "en": "You want the WATER type, BLOOPER?",
+  "pt": "Você quer o BLOOPER, do tipo ÁGUA?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9F2B",
+  "en": "Go ahead and choose from one of these\\nthree, MARIO.",
+  "pt": "Pode escolher um desses três, MARIO."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9F5F",
+  "en": "{STR_VAR_1}: {STR_VAR_2} Type\\nAbility: {STR_VAR_3}",
+  "pt": "{STR_VAR_1}: Tipo {STR_VAR_2}\\nHabilidade: {STR_VAR_3}"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9F77",
+  "en": "Do you want the {STR_VAR_2} type,\\n{STR_VAR_1}?",
+  "pt": "Você quer {STR_VAR_1}, do tipo {STR_VAR_2}?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9F94",
+  "en": "Where are you going, MARIO? Don't just\\nwalk away!",
+  "pt": "Aonde você vai, MARIO? Não vá embora assim!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9FD2",
+  "en": "The sea…she calls to me…",
+  "pt": "O mar… ele me chama…"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B9FEB",
+  "en": "TOAD TOWN is my home, and will always be\\nmy home!",
+  "pt": "A CIDADE TOAD é o meu lar, e sempre vai ser o meu lar!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA027",
+  "en": "I wonder how many worlds are out there…\\p8 Worlds?! Wow…8 worlds…",
+  "pt": "Quantos mundos será que existem por aí…\\p8 mundos?! Uau… 8 mundos…"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA068",
+  "en": "BUGGY TOAD",
+  "pt": "TOAD INSETO",
+  "max_width": 63
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA073",
+  "en": "Different CAPTURES have different\\ntypes! I want to find all the BUG-type\\lones!",
+  "pt": "CAPTURAS diferentes têm tipos diferentes! Eu quero achar todas as do tipo INSETO!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA0D1",
+  "en": "Wahoo!\\nDid I do that right?",
+  "pt": "Wahoo!\\nFalei certo?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA0ED",
+  "en": "The breeze feels amazing!\\pMake sure to take a break whenever you\\ncan.",
+  "pt": "Essa brisa é uma delícia!\\pNão esqueça de fazer uma pausa sempre que puder."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA133",
+  "en": "I've been hearing rumors that BOWSER\\nJR. is now king of the MOLTEN KINGDOM!\\pThat can't be true, but I wonder how\\nBOWSER feels about that, hah!",
+  "pt": "Ando ouvindo boatos de que o BOWSER JR. agora é o rei do MOLTEN KINGDOM!\\pNão pode ser verdade, mas fico imaginando o que o BOWSER acha disso, hahá!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA1C2",
+  "en": "MUSHROOM MAKE\\nME HEALTHY",
+  "pt": "COGUMELO DEIXA\\nEU SAUDÁVEL"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA1DB",
+  "en": "TOAD TOWN - NORTH\\nMARIO's PAD - SOUTH",
+  "pt": "CIDADE TOAD - NORTE\\nCASA DO MARIO - SUL"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA201",
+  "en": "LUIGI: Come on bro, let's head into\\ntown!",
+  "pt": "LUIGI: Vamos lá, mano, vamos pra cidade!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA22B",
+  "en": "I wonder if the professor will have any\\noptions for us TOADS. I'd love to\\lcompete in this challenge!",
+  "pt": "Será que o professor vai ter alguma opção pra nós, TOADS? Eu adoraria competir nesse desafio!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA290",
+  "en": "I dunno about fighting… Even if I'll\\njust be giving orders, I don't wanna let\\lanyone down, especially teammates.",
+  "pt": "Sei não, esse negócio de lutar… Mesmo que eu só vá dar ordens, não quero decepcionar ninguém, ainda mais os colegas de equipe."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA301",
+  "en": "Which one do you think you're gonna\\npick, MARIO?",
+  "pt": "Qual você acha que vai escolher, MARIO?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA341",
+  "en": "Pick wisely, MARIO! I'm sure LUIGI is\\ngoing to outperform you regardless of\\lwho you pick though.",
+  "pt": "Escolha com sabedoria, MARIO! Mas tenho certeza de que o LUIGI vai se sair melhor que você, não importa quem você escolha."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA3A2",
+  "en": "Technology is incredible! We wouldn't be\\nhere without it!",
+  "pt": "A tecnologia é incrível! A gente não estaria aqui sem ela!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA3DC",
+  "en": "Hey MARIO! In need of some berries?",
+  "pt": "Oi, MARIO! Tá precisando de umas frutas?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA400",
+  "en": "Make sure to come back again soon! I'm\\nfully stocked!",
+  "pt": "Volte logo, hein! Meu estoque tá cheio!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA436",
+  "en": "Make sure to come back again soon!\\pI get more berries with each new POWER\\nSTAR!",
+  "pt": "Volte logo, hein!\\pEu consigo mais frutas a cada nova ESTRELA DE PODER!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA486",
+  "en": "Are you listening to me, dear? We still\\nhave a long ways to go today!",
+  "pt": "Está me ouvindo, querida? Ainda temos muito chão pela frente hoje!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA4CC",
+  "en": "Oh, MARIO! Talk some sense into this\\ngirl, will you? She has no respect for\\lher elders! I can't open up shop until\\lshe helps me gather ingredients!",
+  "pt": "Ah, MARIO! Ponha um pouco de juízo na cabeça dessa menina, sim? Ela não tem respeito pelos mais velhos! Não posso abrir a loja até ela me ajudar a juntar os ingredientes!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA560",
+  "en": "MARIO, please help me! I wanna try the\\nC.A.P. CHALLENGE as well, but my\\lgrandfather won't let me…",
+  "pt": "MARIO, me ajuda, por favor! Eu também quero participar do DESAFIO C.A.P., mas o meu avô não deixa…"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA5C2",
+  "en": "TOAD TOWN BATTLE SCHOOL",
+  "pt": "ESCOLA DE BATALHA"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA5DA",
+  "en": "TOAD TOWN TROUBLE CENTER",
+  "pt": "CENTRAL DE PROBLEMAS DA CIDADE TOAD"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA5F3",
+  "en": "Ah… the ocean is so nice this time of\\nyear…",
+  "pt": "Ah… o oceano é tão bom nesta época do ano…"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA61F",
+  "en": "I wonder if my head would let me float in\\nthe water…",
+  "pt": "Será que a minha cabeça me deixaria boiar na água…"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA654",
+  "en": "Hey MARIO! I hope that YOSHI WHISTLE\\nis serving you well!",
+  "pt": "Oi, MARIO! Espero que o APITO YOSHI esteja sendo útil!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA68E",
+  "en": "Hey MARIO! I hear you're taking part in\\nthe C.A.P. CHALLENGE! If you ever come\\lacross a YOSHI, would you mind showing\\lme? If you do, I'll even give you a\\lreward!",
+  "pt": "Oi, MARIO! Soube que você está participando do DESAFIO C.A.P.! Se algum dia encontrar um YOSHI, pode me mostrar? Se mostrar, eu até te dou uma recompensa!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA730",
+  "en": "Woah, a…YOSHI? I've never seen one\\nquite so big! I don't know if this will\\lactually work, but here, take this.",
+  "pt": "Uau, um… YOSHI? Nunca vi um tão grande assim! Não sei se isso vai funcionar mesmo, mas tome, fique com isto."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA79F",
+  "en": "That right there is a magic YOSHI\\nWHISTLE! Use it whenever you want to\\lride around on your YOSHI!\\pOh, and don't worry if you currently\\nhave a YOSHI in your party or not. Like\\lI said, it's magic!",
+  "pt": "Isso aí é um APITO YOSHI mágico! Use quando quiser andar montado no seu YOSHI!\\pAh, e não importa se você tem um YOSHI na equipe ou não. Como eu disse, é mágico!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA862",
+  "en": "Woah, a YOSHI! Thanks a bunch for\\nshowing me one, MARIO. Here, have this\\lreward, as promised.",
+  "pt": "Uau, um YOSHI! Muito obrigado por me mostrar um, MARIO. Tome, aqui está a recompensa, como prometido."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA8C0",
+  "en": "Hey there, MARIO.\\nHeading out to 1-2?\\pThere's something you might wanna know\\nif you're heading out there…\\pDo you know about QUESTs? You should\\nalways be keeping an eye out for\\ltroubled citizens of the MUSHROOM\\lKINGDOM. Make sure to help anyone out\\lif you see them!",
+  "pt": "Olá, MARIO. Indo para o 1-2?\\pTem uma coisa que você talvez queira saber, se está indo pra lá…\\pVocê sabe o que são MISSÕES? Fique sempre de olho nos cidadãos do REINO DOS COGUMELOS que estiverem com problemas. Ajude qualquer um que você encontrar!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA9C9",
+  "en": "Good luck on your journey, MARIO!",
+  "pt": "Boa sorte na sua jornada, MARIO!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BA9EB",
+  "en": "Hey there, MARIO.\\nHeading out to 1-2?\\pThere's something you might wanna know\\nif you're heading out there…",
+  "pt": "Olá, MARIO. Indo para o 1-2?\\pTem uma coisa que você talvez queira saber, se está indo pra lá…"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BAA55",
+  "en": "Oh! You already know about QUESTS?\\pThen don't mind me. I'll just get out of\\nyour way.",
+  "pt": "Ah! Você já sabe o que são MISSÕES?\\pEntão não se preocupe comigo. Vou sair do seu caminho."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BAAAB",
+  "en": "Have you heard about QUESTS yet?\\nThey're special tasks you can get while\\ltalking to the people of the MUSHROOM\\lKINGDOM.\\pIf you wanna know more about what\\nQUESTS you have, just check your START\\lMENU!",
+  "pt": "Já ouviu falar das MISSÕES? São tarefas especiais que você pode receber conversando com o povo do REINO DOS COGUMELOS.\\pSe quiser saber mais sobre as suas MISSÕES, é só abrir o MENU com START!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BAB72",
+  "en": "Another story for another day, me\\nfriend. I must be getting home, now.\\lCome back a little later.",
+  "pt": "Essa história fica pra outro dia, meu camarada. Preciso ir pra casa agora. Volte um pouco mais tarde."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BABD3",
+  "en": "I believe that's all the stories I have\\nto share here. I'm not long for this\\lworld, so I hope you can keep my stories\\lalive, or make your own to share.\\pTake care, MARIO.",
+  "pt": "Acho que essas são todas as histórias que eu tenho pra contar. Não me resta muito tempo neste mundo, então espero que você mantenha minhas histórias vivas, ou crie as suas pra contar.\\pCuide-se, MARIO."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BAC7D",
+  "en": "Aye, the salty breeze never fails to tug\\nat me heartstrings. Fancy a story from\\lan old seafarer like meself?",
+  "pt": "Arre, a brisa salgada nunca deixa de mexer com o meu coração. Quer ouvir uma história de um velho lobo do mar como eu?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BACEA",
+  "en": "Many moons ago, me ship, the 'Seabird,'\\nwas caught in the fiercest storm I'd\\lseen. The waves were mountains, and the\\lwind screamed. We fought tooth and nail\\lto keep the vessel afloat as the sea\\ltoyed with us.\\pJust when it seemed the sea was to take\\nus, we spotted a beacon of light\\lthrough the rain. It was a lighthouse,\\land it saved our hides that night.\\pWe moved to it like moths to a flame,\\nuntil we saw the lighthouse keeper\\lfrantically waving us away. He knew the\\ldangers of his rocky shore, and he was\\ltrying to save us from being skewered.\\pWe managed to steer clear of the jagged\\nrocks and found shelter in a cove. We\\lspent the night there, waiting out the\\lstorm.\\pThe next morning, when the skies\\ncleared, we went to thank the\\llighthouse keeper, but he had\\ldisappeared without a trace. We\\lcouldn't even find the lighthouse that\\lguided us the night before.",
+  "pt": "Há muitas luas, o meu navio, o 'Seabird', foi pego pela tempestade mais feroz que eu já vi. As ondas eram montanhas, e o vento gritava. Lutamos com unhas e dentes pra manter a embarcação flutuando enquanto o mar brincava com a gente.\\pQuando parecia que o mar ia nos levar, avistamos um facho de luz no meio da chuva. Era um farol, e ele salvou a nossa pele naquela noite.\\pFomos até ele como mariposas atrás da chama, até que vimos o faroleiro acenando desesperado pra nos afastar. Ele conhecia os perigos da sua costa rochosa e estava tentando evitar que fôssemos espetados.\\pConseguimos desviar das rochas afiadas e achamos abrigo numa enseada. Passamos a noite lá, esperando a tempestade passar.\\pNa manhã seguinte, quando o céu clareou, fomos agradecer ao faroleiro, mas ele tinha sumido sem deixar rastro. Não conseguimos achar nem o farol que nos guiou na noite anterior."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BB049",
+  "en": "Once, on the 'Seabird,' we set sail\\ntoward the Edge of the World, a place\\lwhispered about in seafaring legends.\\lThe very mention of it sent shivers\\ldown the spines of seasoned sailors,\\lbut we were a daring crew.\\pWe sailed west, further than any map\\ncharted. Like a weary bird returns to\\lland to roost, we thought the sun had a\\lplace to rest after it dipped below the\\lhorizon. We sought that land, as we\\lwanted a piece of the sun.\\pThe days turned into weeks, and weeks\\ninto months. Supplies dwindled, and\\ldesperation gripped the crew like a\\ltightening noose.\\pThen, out of the abyss, a colossal\\nBlooper emerged! It wrapped a tentacle\\laround the entire ship, stopping us\\lentirely. Picture the scene - a bunch of\\lus scurrying about like startled\\lchickens.\\pNow, here's the twist. While the crew saw\\na monstrous threat, our chef saw\\lsomething else entirely. She grabbed\\lthe biggest kitchen knife I've seen,\\land cut the tentacle clean off! We\\lfeasted on calamari for weeks, and our\\lspirits were lifted.",
+  "pt": "Certa vez, no 'Seabird', zarpamos rumo à Borda do Mundo, um lugar sussurrado nas lendas dos navegantes. Só de falar nele, os marinheiros mais experientes sentiam calafrios na espinha, mas a nossa tripulação era ousada.\\pNavegamos para o oeste, além de onde qualquer mapa chegava. Assim como um pássaro cansado volta à terra pra se empoleirar, achávamos que o sol tinha um lugar pra descansar depois de mergulhar no horizonte. Buscávamos essa terra, pois queríamos um pedaço do sol.\\pOs dias viraram semanas, e as semanas, meses. As provisões minguaram, e o desespero apertou a tripulação como uma forca.\\pEntão, do abismo, surgiu um Blooper colossal! Ele enrolou um tentáculo no navio inteiro e nos parou de vez. Imagine a cena: um bando de nós correndo pra lá e pra cá feito galinhas assustadas.\\pAgora, vem a reviravolta. Enquanto a tripulação via uma ameaça monstruosa, a nossa cozinheira viu outra coisa. Ela pegou a maior faca de cozinha que eu já vi e cortou o tentáculo fora de uma vez! Comemos lula por semanas, e o nosso ânimo voltou."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BB42D",
+  "en": "Ye want more of our Edge of the World\\ntale? Aye, we never did spot it, but the\\lsea, she began her tricks.\\pOne still night, when the wind barely\\nwhispered, we spied a ghostly sight. A\\lship, abandoned, drifted by like a\\lphantom. Tempted by treasure, I\\lboarded, and found skeletons\\lsurrounded by glistening riches.\\pI thought we'd stumbled upon the\\nfabled pieces of the sun, that our\\ljourney was nearing its end. Filling me\\lpockets with the gold, I felt something\\lstir in me soul.\\pIn the sick bay, I saw it - a skeleton\\nwearing my clothes, even had me\\lcompass. It was hunched over, frail,\\ldefeated by its malady.\\pI fled, shouting warnings to me mates.\\nBut the curse had its grip.\\pWithin hours, a fever seized me, a\\nsickness like no other. Me crew watched\\las I teetered on the brink of death.\\pMe mate says that they found the gold\\nin my coat and threw it into the sea.\\lMiraculously, I emerged from the brink\\lof death. Me thinks the sea granted me\\la mercy.",
+  "pt": "Quer mais da nossa história da Borda do Mundo? Arre, nunca chegamos a avistá-la, mas o mar, ele começou a pregar as suas peças.\\pNuma noite parada, com o vento mal sussurrando, avistamos uma cena fantasmagórica. Um navio abandonado passou à deriva feito um espectro. Tentado pelo tesouro, subi a bordo e encontrei esqueletos cercados de riquezas reluzentes.\\pAchei que tínhamos topado com os lendários pedaços do sol, que a nossa jornada estava chegando ao fim. Enchendo os bolsos de ouro, senti algo se agitar na minha alma.\\pNa enfermaria, eu vi: um esqueleto usando as minhas roupas, e até com a minha bússola. Estava curvado, frágil, derrotado pela doença.\\pFugi, gritando avisos pros meus companheiros. Mas a maldição já tinha me pegado.\\pEm poucas horas, uma febre me tomou, uma doença como nenhuma outra. A tripulação me viu balançar à beira da morte.\\pMeu imediato diz que acharam o ouro no meu casaco e o jogaram no mar. Por milagre, eu voltei da beira da morte. Acho que o mar teve piedade de mim."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BB7E4",
+  "en": "Ah, ye've been a fine audience. It warms\\nme heart to know there are still folks\\llike ye who appreciate the old stories.\\pTake this.",
+  "pt": "Ah, você foi uma bela plateia. Aquece o meu coração saber que ainda tem gente como você que aprecia as histórias antigas.\\pTome isto."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BB867",
+  "en": "Come back once you've grown some hair\\non your chest and I'll tell another tale.",
+  "pt": "Volte quando tiver mais barba na cara que eu conto outra história."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BB8B7",
+  "en": "Welcome to TOAD TOWN, MARIO. Looking\\nfor the PROFESSOR?\\pHe went on ahead to PRINCESS PEACH's\\nCASTLE already.\\pJust head east from here and you\\nshould eventually reach the castle.",
+  "pt": "Bem-vindo à CIDADE TOAD, MARIO. Procurando o PROFESSOR?\\pEle já foi na frente para o CASTELO DA PRINCESA PEACH.\\pÉ só seguir para o leste daqui que você vai acabar chegando ao castelo."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BB969",
+  "en": "Shaman has wares, for the right people.",
+  "pt": "Xamã tem mercadorias, para as pessoas certas."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BB991",
+  "en": "Hmm, you are not someone who can handle\\nmy wares. Come back when you have 1\\lPOWER STAR.",
+  "pt": "Hmm, você não é alguém capaz de lidar com as minhas mercadorias. Volte quando tiver 1 ESTRELA DE PODER."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BB9E9",
+  "en": "Sorry, the Battle School is closed at\\nthe moment. Come back when things are\\lready.",
+  "pt": "Desculpe, a Escola de Batalha está fechada no momento. Volte quando tudo estiver pronto."
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BBA3C",
+  "en": "Hey MARIO! Where would you like to go?",
+  "pt": "Oi, MARIO! Para onde você quer ir?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BBA63",
+  "en": "Super!",
+  "pt": "Ótimo!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BBA6A",
+  "en": "All aboard!",
+  "pt": "Todos a bordo!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BBA76",
+  "en": "MARIO! Did you hear? You've been\\ninvited to the prestigious GLITZ PIT!\\lYou have absoltely GOT to check it out!\\lI'll take you there right away!",
+  "pt": "MARIO! Já soube? Você foi convidado para o prestigiado GLITZ PIT! Você TEM que ir conferir! Eu te levo lá agora mesmo!"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BBB05",
+  "en": "MARIO! I heard from LUIGI, you've got\\nall eight POWER STARS!\\pWant a ride to MUSHROOM HILL?",
+  "pt": "MARIO! O LUIGI me contou que você tem as oito ESTRELAS DE PODER!\\pQuer uma carona até COLINA COGUMELO?"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02BBB60",
+  "en": "What's that? You wanna ride in this here\\nboat?\\pSorry, no can do. I have strict orders\\nfrom PRINCESS PEACH to only allow the\\lmost powerful of COMMANDERs aboard,\\land you don't have all eight POWER\\lSTARS!\\pI'll give ya a ride when you have all of\\nthem!",
+  "pt": "Como é? Você quer andar neste barco aqui?\\pDesculpe, não dá. Tenho ordens rigorosas da PRINCESA PEACH pra só deixar subir a bordo os COMANDANTES mais poderosos, e você não tem as oito ESTRELAS DE PODER!\\pEu te dou uma carona quando tiver todas elas!"
+ }
+]

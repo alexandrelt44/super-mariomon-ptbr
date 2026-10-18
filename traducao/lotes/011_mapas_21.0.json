@@ -1,0 +1,1310 @@
+[
+ {
+  "map": "21.0 TOSTARENA",
+  "offset": "0243C46",
+  "en": "SKITTY: Miyao?",
+  "pt": "SKITTY: Miau?"
+ },
+ {
+  "map": "21.0 TOSTARENA",
+  "offset": "0243C55",
+  "en": "This NUGGET I found here…\\nI suppose I'll have to sell it, seeing\\las how it has no other use.",
+  "pt": "Esta PEPITA que achei aqui… Acho que vou ter que vender, já que ela não serve pra mais nada."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0244150",
+  "en": "Fufufufufu.\\pI'm going to make everyone think\\nI'm just a kid and let them play down.\\pThen, I'll shock them and grab\\nthe title!",
+  "pt": "Hihihihihi.\\pVou fazer todo mundo pensar que eu sou só uma criança pra eles pegarem leve.\\pAí eu pego todo mundo de surpresa e levo o título!"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "02441CE",
+  "en": "You know how BATTLE TENTS offer\\ndifferent events in different towns?\\pMy favorite is definitely the BATTLE\\nTENT in FALLARBOR TOWN.\\pI think it's fantastic how TRAINERS\\ntry to win with all their faith in\\ltheir POKéMON.",
+  "pt": "Sabia que as TENDAS DE BATALHA têm eventos diferentes em cada cidade?\\pA minha favorita, sem dúvida, é a TENDA DE BATALHA de FALLARBOR TOWN.\\pAcho fantástico como os TREINADORES tentam vencer depositando toda a fé nas suas CAPTURAS."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "02442A6",
+  "en": "I heard something about some tent,\\nso I came to camp out.\\pI didn't know that tents these days\\nare so luxurious!\\pSince I'm here, I may as well try\\nmy hand at battling!",
+  "pt": "Ouvi falar de uma tal tenda e vim acampar.\\pNão sabia que as tendas de hoje em dia eram tão luxuosas!\\pJá que estou aqui, vou tentar a sorte numa batalha!"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "024434D",
+  "en": "SCOTT: Hi, {PLAYER}{KUN}!\\nSo you came out to this BATTLE TENT!\\pThe people in these parts tend to be\\neasygoing and laid-back.\\pBut, you see, what I'm looking for are\\npeople with…\\pHow should I say this?\\pSomeone bursting with the desire\\nand the drive to win.\\pIf there were a TRAINER like that,\\nI'd immediately…\\pWhoops! Never mind!\\nKeep working at it!",
+  "pt": "SCOTT: Oi, {PLAYER}{KUN}! Então você veio até esta TENDA DE BATALHA!\\pO pessoal desta região costuma ser tranquilo e sossegado.\\pMas, sabe, o que eu procuro são pessoas com…\\pComo posso dizer?\\pAlguém transbordando de vontade e de garra pra vencer.\\pSe existisse um TREINADOR assim, eu imediatamente…\\pOpa! Esquece!\\nContinue se esforçando!"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "024449F",
+  "en": "SCOTT: Instead of wasting your\\ntime with the likes of me, why not\\lmake a challenge?",
+  "pt": "SCOTT: Em vez de perder tempo com alguém como eu, por que não encara um desafio?"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "029ACFC",
+  "en": "The Set KO Tourney's rules are listed.",
+  "pt": "Estas são as regras do Torneio Nocaute."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "029AD23",
+  "en": "Which heading do you want to read?",
+  "pt": "Qual tópico você quer ler?"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "029AD46",
+  "en": "The Set KO Tourney has special rules,\\nunlike standard battles.\\pFirst, one battle lasts only\\nthree turns.\\pIf the outcome is not decided after\\nthree turns, it goes to judging.\\pThe REFEREE will choose the winner\\nbased on how the POKéMON battled.\\pAlso, a POKéMON cannot be switched out\\nuntil its battle's outcome is decided.",
+  "pt": "O Torneio Nocaute tem regras especiais, diferentes das batalhas comuns.\\pPrimeiro, cada batalha dura só três turnos.\\pSe o resultado não for decidido em três turnos, a batalha vai para o julgamento.\\pO JUIZ escolhe o vencedor com base em como as CAPTURAS lutaram.\\pAlém disso, uma CAPTURA não pode ser trocada até que a batalha dela seja decidida."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "029AE87",
+  "en": "The first judging factor is “Mind.”\\nThis factor evaluates how aggressive\\lthe battlers were.\\pThe judging is based on how often\\nthe TRAINERS ordered the use of\\loffensive moves.",
+  "pt": "O primeiro critério de julgamento é a “Mente”. Ele avalia o quanto os combatentes foram agressivos.\\pO julgamento se baseia em quantas vezes os TREINADORES mandaram usar golpes ofensivos."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "029AF36",
+  "en": "The second judging factor is “Skill.”\\nThis factor evaluates how effectively\\lPOKéMON moves were used.\\pIf a move worked successfully,\\nthe Skill rating goes up.\\pIf a move failed, the Skill rating\\nis lowered.\\pIf it was an offensive move, the Skill\\nrating goes up if the move was “super\\leffective” and goes down if it was\\l“not very effective.”\\pThe Skill rating will not go up for\\nmoves such as PROTECT and DETECT.\\pIf the opponent used PROTECT or\\nDETECT, and your POKéMON failed to\\lhit with a move, its Skill rating will not\\lgo down.",
+  "pt": "O segundo critério de julgamento é a “Técnica”. Ele avalia o quanto os golpes das CAPTURAS foram usados com eficácia.\\pSe um golpe funcionar, a nota de Técnica sobe.\\pSe um golpe falhar, a nota de Técnica cai.\\pSe for um golpe ofensivo, a nota de Técnica sobe se ele for “super efetivo” e cai se for “pouco efetivo”.\\pA nota de Técnica não sobe com golpes como PROTEÇÃO e DETECTAR.\\pSe o oponente usar PROTEÇÃO ou DETECTAR e o golpe da sua CAPTURA não acertar, a nota de Técnica dela não cai."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "029B146",
+  "en": "The third judging factor is “Body.”\\nThis factor is based on how much HP\\lremained at the end of a battle.\\pThe rating takes into account how much\\nHP a POKéMON had at the start of\\lbattle, and what remained at the end.",
+  "pt": "O terceiro critério de julgamento é o “Corpo”. Ele se baseia em quanto HP sobrou no fim da batalha.\\pA nota leva em conta quanto HP a CAPTURA tinha no começo da batalha e quanto restou no final."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "03413C8",
+  "en": "I welcome you to the BATTLE TENT\\nFALLARBOR SITE!\\pI am your guide to the Set KO Tourney!",
+  "pt": "Bem-vindo à TENDA DE BATALHA de FALLARBOR!\\pEu sou o seu guia no Torneio Nocaute!"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341420",
+  "en": "Now, do you wish to take the challenge\\nof a Set KO Tourney?",
+  "pt": "E então, deseja encarar o desafio do Torneio Nocaute?"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "034145C",
+  "en": "We await your challenge on\\nanother occasion!",
+  "pt": "Aguardamos o seu desafio numa outra ocasião!"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341489",
+  "en": "In the FALLARBOR BATTLE TENT,\\nwe undertake the Set KO Tourney.\\pAll participants enter with a team of\\nthree POKéMON.\\pThe three POKéMON must be lined up\\nin the order that they are to appear in.\\pDuring battle, the POKéMON will appear\\none at a time in the preset order.\\pOnce a POKéMON enters battle, it must\\nremain out until the match is decided.\\pIf a match remains undecided in\\nthree turns, it goes to judging.\\pIf you wish to interrupt your challenge,\\nplease save the game.\\pIf you don't save, you will not be able\\nto continue with your challenge.\\pIf you pull off the feat of beating\\nthree TRAINERS in succession,\\lwe will present you with a fine prize.",
+  "pt": "Na TENDA DE BATALHA de FALLARBOR, realizamos o Torneio Nocaute.\\pTodos os participantes entram com uma equipe de três CAPTURAS.\\pAs três CAPTURAS precisam ser organizadas na ordem em que vão entrar.\\pDurante a batalha, as CAPTURAS entram uma de cada vez, na ordem definida.\\pDepois que uma CAPTURA entra na batalha, ela precisa ficar até a luta ser decidida.\\pSe uma luta não for decidida em três turnos, ela vai para o julgamento.\\pSe quiser interromper o seu desafio, salve o jogo.\\pSe não salvar, você não vai poder continuar o seu desafio.\\pSe conseguir a façanha de vencer três TREINADORES seguidos, vamos te dar um belo prêmio."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341712",
+  "en": "Before showing you to the BATTLE\\nTENT, I must save. Is that okay?",
+  "pt": "Antes de te levar à TENDA DE BATALHA, preciso salvar o jogo. Tudo bem?"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "03417A5",
+  "en": "Very well, now select your\\nthree POKéMON, please.",
+  "pt": "Muito bem, agora escolha as suas três CAPTURAS, por favor."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "03417D7",
+  "en": "My dear challenger!\\pYou do not have the three POKéMON\\nrequired for entry.\\pThey also must not hold the same\\nkinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pWhen you have made your preparations,\\nplease do return.",
+  "pt": "Meu caro desafiante!\\pVocê não tem as três CAPTURAS necessárias para participar.\\pElas também não podem segurar o mesmo tipo de item.\\pOVOS{STR_VAR_1} proibidos.\\pQuando estiver preparado, volte, por favor."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "034189D",
+  "en": "My dear challenger!\\pYou do not have the three POKéMON\\nrequired for entry.\\pTo qualify, you must bring three\\ndifferent kinds of POKéMON.\\pThey also must not hold the same\\nkinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pWhen you have made your preparations,\\nplease do return.",
+  "pt": "Meu caro desafiante!\\pVocê não tem as três CAPTURAS necessárias para participar.\\pPara se qualificar, você precisa trazer três tipos diferentes de CAPTURAS.\\pElas também não podem segurar o mesmo tipo de item.\\pOVOS{STR_VAR_1} proibidos.\\pQuando estiver preparado, volte, por favor."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "03419A0",
+  "en": "I shall now guide you to\\nthe BATTLE TENT.",
+  "pt": "Agora vou te levar à TENDA DE BATALHA."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "03419CA",
+  "en": "My dear challenger!\\pYou did not save the game before\\nshutting down, did you?\\pIt is unfortunate, but that has\\nresulted in your disqualification\\lfrom your challenge.\\pYou may, of course, start with a fresh\\nchallenge.",
+  "pt": "Meu caro desafiante!\\pVocê não salvou o jogo antes de desligar, não é?\\pÉ uma pena, mas isso resultou na sua desclassificação do desafio.\\pÉ claro que você pode começar um desafio novo."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341AA0",
+  "en": "How splendid! You have beaten\\nthree TRAINERS in succession!",
+  "pt": "Que esplêndido! Você venceu três TREINADORES seguidos!"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341ADC",
+  "en": "Please wait while I save the game.",
+  "pt": "Aguarde enquanto eu salvo o jogo."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341AFF",
+  "en": "In commemoration of your 3-win streak,\\nwe present you with this prize.",
+  "pt": "Para celebrar a sua sequência de 3 vitórias, entregamos a você este prêmio."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341B46",
+  "en": "{PLAYER} received the prize\\n{STR_VAR_1}.",
+  "pt": "{PLAYER} recebeu o prêmio\\n{STR_VAR_1}."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341B60",
+  "en": "Oh?\\nYour BAG seems to be full.\\pI urge you to clear space and\\nreturn for your prize.",
+  "pt": "Oh?\\nParece que a sua BOLSA está cheia.\\pPeço que libere espaço e volte para buscar o seu prêmio."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341BB4",
+  "en": "Thank you so much for participating!\\pPlease wait while I save the game.",
+  "pt": "Muito obrigado por participar!\\pAguarde enquanto eu salvo o jogo."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341BFC",
+  "en": "We await your challenge on\\nanother occasion!",
+  "pt": "Aguardamos o seu desafio numa outra ocasião!"
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "0341C29",
+  "en": "We have been looking forward to\\nyour arrival.\\pBefore I show you to the BATTLE TENT,\\nI must save the game. Please wait.",
+  "pt": "Estávamos ansiosos pela sua chegada.\\pAntes de te levar à TENDA DE BATALHA, preciso salvar o jogo. Aguarde, por favor."
+ },
+ {
+  "map": "21.1 TOSTARENA",
+  "offset": "03433B5",
+  "en": "At this BATTLE TENT, the levels of\\nyour opponents will be adjusted to\\lmatch the levels of your POKéMON.\\pHowever, no TRAINER you face will\\nhave any POKéMON below Level 30.",
+  "pt": "Nesta TENDA DE BATALHA, os níveis dos seus oponentes são ajustados aos níveis das suas CAPTURAS.\\pMas nenhum TREINADOR que você enfrentar vai ter CAPTURAS abaixo do Nível 30."
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BBD7",
+  "en": "REFEREE: Set KO Tourney!\\nBegin!",
+  "pt": "JUIZ: Torneio Nocaute!\\nComecem!"
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BBF7",
+  "en": "REFEREE: The winner is {PLAYER}!",
+  "pt": "JUIZ: O vencedor é {PLAYER}!"
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BC12",
+  "en": "REFEREE: The winner is {STR_VAR_1}!",
+  "pt": "JUIZ: Quem vence é {STR_VAR_1}!"
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BC2D",
+  "en": "Your CAPTURE will be restored to\\nfull health.",
+  "pt": "A sua CAPTURA vai ser totalmente recuperada."
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BC5B",
+  "en": "Next up, your second opponent!\\nAre you ready to move on?",
+  "pt": "Agora vem o seu segundo oponente! Está pronto para continuar?"
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BC94",
+  "en": "Next up, your third opponent!\\nAre you ready to move on?",
+  "pt": "Agora vem o seu terceiro oponente! Está pronto para continuar?"
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BDAF",
+  "en": "Would you like to save the game and\\nshut down now?",
+  "pt": "Gostaria de salvar o jogo e desligar agora?"
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BDE2",
+  "en": "Would you like to retire from your\\nSet KO Tourney challenge?",
+  "pt": "Gostaria de desistir do seu desafio no Torneio Nocaute?"
+ },
+ {
+  "map": "21.3 TOSTARENA",
+  "offset": "029BE1F",
+  "en": "I am saving your game data.\\nPlease wait.",
+  "pt": "Estou salvando os dados do seu jogo. Aguarde, por favor."
+ },
+ {
+  "map": "21.4 TOSTARENA",
+  "offset": "0244C6E",
+  "en": "I wonder what POKéMON looked like\\nlong, long ago?\\pMaybe the FOSSIL MANIAC at the edge\\nof town will know.",
+  "pt": "Como será que as CAPTURAS eram há muito, muito tempo?\\pTalvez o MANÍACO POR FÓSSEIS que mora no limite da cidade saiba."
+ },
+ {
+  "map": "21.4 TOSTARENA",
+  "offset": "0244CD7",
+  "en": "In the fields of FALLARBOR, we plant\\nseedlings of hardy trees that thrive\\leven in volcanic ash.",
+  "pt": "Nos campos de FALLARBOR, plantamos mudas de árvores resistentes que crescem bem até nas cinzas vulcânicas."
+ },
+ {
+  "map": "21.6 TOSTARENA",
+  "offset": "0244EEE",
+  "en": "Oh!\\nHah?\\pThat item…\\pCould it be?\\pIs it the METEORITE that TEAM MAGMA\\ntook from METEOR FALLS?\\pPlease, may I have it?\\pI'm not asking for it for free.\\nHow about in exchange for this TM?",
+  "pt": "Oh!\\nHã?\\pEsse item…\\pSerá possível?\\pÉ o METEORITO que a EQUIPE MAGMA levou das METEOR FALLS?\\pPor favor, pode me dar?\\pNão estou pedindo de graça. Que tal em troca deste TM?"
+ },
+ {
+  "map": "21.6 TOSTARENA",
+  "offset": "0244FA5",
+  "en": "PROF. COZMO: This TM, it represents\\nmy feeling of gratitude.\\lPlease use it!",
+  "pt": "PROF. COZMO: Este TM representa a minha gratidão. Use, por favor!"
+ },
+ {
+  "map": "21.6 TOSTARENA",
+  "offset": "0244FF1",
+  "en": "PROF. COZMO: Oh, I can't believe it.\\nThis is really, really great!\\pThis is really going to help my research!",
+  "pt": "PROF. COZMO: Oh, não acredito. Isso é muito, muito bom!\\pIsso vai ajudar demais a minha pesquisa!"
+ },
+ {
+  "map": "21.6 TOSTARENA",
+  "offset": "024505E",
+  "en": "PROF. COZMO: Oh, but…\\nI'm crushed with disappointment…",
+  "pt": "PROF. COZMO: Oh, mas…\\nEstou arrasado de decepção…"
+ },
+ {
+  "map": "21.6 TOSTARENA",
+  "offset": "0245095",
+  "en": "PROF. COZMO: Please, may I have that\\nMETEORITE?\\pI'm not asking for it for free.\\nHow about in exchange for this TM?",
+  "pt": "PROF. COZMO: Por favor, pode me dar esse METEORITO?\\pNão estou pedindo de graça. Que tal em troca deste TM?"
+ },
+ {
+  "map": "21.6 TOSTARENA",
+  "offset": "0245108",
+  "en": "PROF. COZMO went off to METEOR FALLS\\non ROUTE 114 with some people from\\lTEAM MAGMA.",
+  "pt": "O PROF. COZMO foi para as METEOR FALLS, na ROTA 114, com umas pessoas da EQUIPE MAGMA."
+ },
+ {
+  "map": "21.6 TOSTARENA",
+  "offset": "024515C",
+  "en": "Poor PROF. COZMO…\\nHe's so depressed… I feel sorry for him.",
+  "pt": "Coitado do PROF. COZMO… Ele está tão deprimido… Fico com pena dele."
+ },
+ {
+  "map": "21.6 TOSTARENA",
+  "offset": "0245197",
+  "en": "Look at PROF. COZMO…\\nHe's so happy! I think it's cute.",
+  "pt": "Olha só o PROF. COZMO… Ele está tão feliz! Acho uma graça."
+ },
+ {
+  "map": "21.7 TOSTARENA",
+  "offset": "02452A8",
+  "en": "I'm the MOVE TUTOR.\\pI know all the moves that POKéMON\\nlearn--every one of them--and I can\\lteach POKéMON those moves.\\pI can teach a move to a POKéMON\\nof yours if you'd like.\\pI'll do it for a HEART SCALE.\\nI'm collecting those now.",
+  "pt": "Eu sou o TUTOR DE GOLPES.\\pConheço todos os golpes que as CAPTURAS aprendem, cada um deles, e sei ensinar esses golpes às CAPTURAS.\\pPosso ensinar um golpe a uma CAPTURA sua, se você quiser.\\pFaço isso em troca de uma ESCAMA CORAÇÃO. Estou colecionando essas agora."
+ },
+ {
+  "map": "21.7 TOSTARENA",
+  "offset": "024538D",
+  "en": "Oh! That's it! That's an honest to\\ngoodness HEART SCALE!\\pLet me guess, you want me to teach\\na move?",
+  "pt": "Oh! É isso! É uma ESCAMA CORAÇÃO de verdade!\\pDeixa eu adivinhar: você quer que eu ensine um golpe?"
+ },
+ {
+  "map": "21.7 TOSTARENA",
+  "offset": "02453F1",
+  "en": "Which POKéMON needs tutoring?",
+  "pt": "Qual CAPTURA precisa de aula?"
+ },
+ {
+  "map": "21.7 TOSTARENA",
+  "offset": "024540F",
+  "en": "Which move should I teach?",
+  "pt": "Qual golpe devo ensinar?"
+ },
+ {
+  "map": "21.7 TOSTARENA",
+  "offset": "024542A",
+  "en": "Sorry…\\pIt doesn't appear as if I have any move\\nI can teach that POKéMON.",
+  "pt": "Desculpe…\\pParece que não tenho nenhum golpe que possa ensinar a essa CAPTURA."
+ },
+ {
+  "map": "21.7 TOSTARENA",
+  "offset": "0245473",
+  "en": "{PLAYER} handed over one HEART SCALE\\nin exchange.",
+  "pt": "{PLAYER} entregou uma ESCAMA CORAÇÃO em troca."
+ },
+ {
+  "map": "21.7 TOSTARENA",
+  "offset": "024549F",
+  "en": "If your POKéMON need to learn a move,\\ncome back with a HEART SCALE.",
+  "pt": "Se as suas CAPTURAS precisarem aprender um golpe, volte com uma ESCAMA CORAÇÃO."
+ },
+ {
+  "map": "21.7 TOSTARENA",
+  "offset": "02454E3",
+  "en": "Hunh? There isn't a single move that\\nI can teach an EGG.",
+  "pt": "Hã? Não existe nenhum golpe que eu possa ensinar a um OVO."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0245A20",
+  "en": "If it doesn't like a certain move,\\na POKéMON will be reluctant to use it.\\pIt doesn't matter how strong it is,\\neither.\\pFor example, a POKéMON with a GENTLE\\nnature probably won't enjoy hurting\\lits opponents.\\pIf it can't seem to live up to its\\npotential, it's probably failing at\\lusing a disliked move against its will.",
+  "pt": "Se não gostar de um golpe, a CAPTURA vai relutar em usá-lo.\\pNão importa o quanto ele seja forte.\\pPor exemplo, uma CAPTURA de natureza GENTIL provavelmente não gosta de machucar os oponentes.\\pSe ela não parece render o que pode, provavelmente está se dando mal ao usar contra a vontade um golpe de que não gosta."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0245B5D",
+  "en": "My big sister is gentle usually.\\nBut when she gets angry,\\lshe's really, really scary!\\pI bet a gentle POKéMON will be scary\\nif it gets angry!",
+  "pt": "Minha irmã mais velha costuma ser gentil. Mas, quando fica brava, ela dá muito, muito medo!\\pAposto que uma CAPTURA gentil também dá medo quando fica brava!"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0245BEA",
+  "en": "My feelings toward my POKéMON…\\nThe attraction runs deep…\\pOh, hi, you didn't see that, did you?\\nWell, it doesn't matter.\\pHow would you like this TM for\\nyour POKéMON?",
+  "pt": "O que eu sinto pelas minhas CAPTURAS… É uma atração profunda…\\pOh, oi, você não viu isso, viu? Bom, tanto faz.\\pQue tal este TM para as suas CAPTURAS?"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0245C8F",
+  "en": "My feelings toward my POKéMON…\\nI'm sure the attraction is mutual!\\pThey battle exactly the way I want\\nthem to!",
+  "pt": "O que eu sinto pelas minhas CAPTURAS… Tenho certeza de que a atração é mútua!\\pElas batalham exatamente do jeito que eu quero!"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0245CFD",
+  "en": "What kind of moves have you taught\\nyour POKéMON?\\pI think you would give yourself\\nan advantage if they knew how to\\lheal or protect themselves.",
+  "pt": "Que tipo de golpe você ensinou às suas CAPTURAS?\\pAcho que você teria vantagem se elas soubessem se curar ou se proteger."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0245D8B",
+  "en": "SCOTT: Hey there, {PLAYER}{KUN}!\\nI thought I might see you here.\\pA BATTLE TENT's a place where\\nyou can meet tough TRAINERS.\\pIt doesn't matter what the rules are,\\nor how battles are waged, either.\\p{PLAYER}{KUN}, I expect you to do\\nthe best you can!",
+  "pt": "SCOTT: E aí, {PLAYER}{KUN}! Achei mesmo que ia te ver por aqui.\\pUma TENDA DE BATALHA é um lugar onde dá pra conhecer TREINADORES fortes.\\pNão importa quais são as regras, nem como as batalhas são travadas.\\p{PLAYER}{KUN}, espero que você dê o seu melhor!"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0245E71",
+  "en": "SCOTT: I visit here regularly in hopes\\nof seeing tough TRAINERS in action\\lin whatever the situation.",
+  "pt": "SCOTT: Venho aqui sempre, na esperança de ver TREINADORES fortes em ação, seja qual for a situação."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "028E497",
+  "en": "{PLAYER} received the prize\\n{STR_VAR_1}.",
+  "pt": "{PLAYER} recebeu o prêmio\\n{STR_VAR_1}."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "02924FE",
+  "en": "You seem to have no space for\\nour prize.\\pYou should return when you have\\norganized your BAG.",
+  "pt": "Parece que você não tem espaço para o nosso prêmio.\\pVolte quando tiver organizado a sua BOLSA."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "029255B",
+  "en": "We have been waiting for you…",
+  "pt": "Estávamos esperando por você…"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0292579",
+  "en": "I must save before I show you to\\nthe BATTLE HALL. Is that okay?",
+  "pt": "Preciso salvar o jogo antes de te levar ao SALÃO DE BATALHA. Tudo bem?"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "02925B9",
+  "en": "Sigh…\\pYou failed to save before you ended\\nyour challenge the last time.\\pAs a result, your challenge has been\\ndisqualified. It is most unfortunate.",
+  "pt": "Ai, ai…\\pVocê não salvou antes de encerrar o seu desafio da última vez.\\pPor isso, o seu desafio foi desclassificado. É uma grande pena."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0292F0B",
+  "en": "Which heading do you want to read?",
+  "pt": "Qual tópico você quer ler?"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0292F2E",
+  "en": "Here, POKéMON are required to think\\nand battle by themselves.\\pUnlike in the wild, POKéMON that live\\nwith people behave differently\\ldepending on their nature.",
+  "pt": "Aqui, as CAPTURAS precisam pensar e batalhar sozinhas.\\pDiferente das selvagens, as CAPTURAS que vivem com pessoas se comportam de jeitos diferentes, dependendo da sua natureza."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0292FCC",
+  "en": "Depending on its nature, a POKéMON\\nmay prefer to attack no matter what.\\pAnother POKéMON may prefer to protect\\nitself from any harm.\\pYet another may enjoy vexing or\\nconfounding its foes.\\pDue to its nature, a POKéMON\\nwill have favorite moves that it is good\\lat using.\\pIt may also dislike certain moves that\\nit has trouble using.",
+  "pt": "Dependendo da natureza, uma CAPTURA pode preferir atacar não importa o que aconteça.\\pOutra CAPTURA pode preferir se proteger de qualquer perigo.\\pE outra pode gostar de irritar ou confundir os inimigos.\\pPor causa da natureza, uma CAPTURA tem golpes favoritos que ela usa bem.\\pEla também pode não gostar de certos golpes que tem dificuldade em usar."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0293113",
+  "en": "There are offensive moves that inflict\\ndirect damage on the foe.\\pThere are defensive moves that are\\nused to prepare for enemy attacks or\\lused to heal HP and so on.\\pThere are also other somewhat-odd\\nmoves that may enfeeble the foes with\\lstat problems including poison and \\lparalysis.\\pPOKéMON will consider using moves in\\nthese three categories.",
+  "pt": "Existem golpes ofensivos, que causam dano direto ao inimigo.\\pExistem golpes defensivos, usados para se preparar contra ataques inimigos ou para recuperar HP, entre outras coisas.\\pE existem também outros golpes meio estranhos, que podem enfraquecer os inimigos com problemas de status, como veneno e paralisia.\\pAs CAPTURAS escolhem entre golpes dessas três categorias."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "029326B",
+  "en": "When not under command by its TRAINER,\\na POKéMON may be unable to effectively\\luse certain moves.\\pA POKéMON is not good at using any\\nmove that it dislikes.\\pIf a POKéMON only knows moves that\\ndo not match its nature, it will often\\lbe unable to live up to its potential.",
+  "pt": "Sem o comando do seu TREINADOR, uma CAPTURA pode não conseguir usar certos golpes com eficácia.\\pUma CAPTURA não é boa em usar golpes de que não gosta.\\pSe uma CAPTURA só souber golpes que não combinam com a natureza dela, muitas vezes não vai render o que pode."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0293377",
+  "en": "Depending on its nature, a POKéMON may\\nstart using moves that don't match its\\lnature when it is in trouble.\\pIf a POKéMON begins behaving oddly\\nin a pinch, watch it carefully.",
+  "pt": "Dependendo da natureza, uma CAPTURA pode começar a usar golpes que não combinam com ela quando está em apuros.\\pSe uma CAPTURA começar a agir de um jeito estranho num aperto, fique de olho nela."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0341CA0",
+  "en": "I welcome you to the BATTLE TENT\\nVERDANTURF SITE!\\pHere, the TRAINER's trust toward\\nPOKéMON is tested.",
+  "pt": "Bem-vindo à TENDA DE BATALHA de VERDANTURF!\\pAqui, a confiança do TREINADOR nas suas CAPTURAS é posta à prova."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0341D06",
+  "en": "Do you wish to take the VERDANTURF\\nBATTLE TENT challenge?",
+  "pt": "Deseja encarar o desafio da TENDA DE BATALHA de VERDANTURF?"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0341D40",
+  "en": "In the VERDANTURF BATTLE TENT,\\nthere is one crucial rule that must\\lbe obeyed.\\pTRAINERS are permitted only to switch\\ntheir POKéMON in and out.\\pTRAINERS are otherwise forbidden to\\ncommand their POKéMON.\\pThe POKéMON are to behave according\\nto their nature and battle on their own.\\pYou must put your trust in your\\nPOKéMON and watch over them.\\pIf you achieve the honor of beating\\nthree TRAINERS in succession,\\lwe will present you with a prize.\\pIf you want to interrupt your\\nchallenge, please save the game.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "Na TENDA DE BATALHA de VERDANTURF, existe uma regra fundamental que precisa ser obedecida.\\pOs TREINADORES só podem trocar as suas CAPTURAS.\\pFora isso, os TREINADORES estão proibidos de dar ordens às suas CAPTURAS.\\pAs CAPTURAS devem agir de acordo com a sua natureza e batalhar sozinhas.\\pVocê precisa confiar nas suas CAPTURAS e acompanhá-las.\\pSe tiver a honra de vencer três TREINADORES seguidos, vamos te dar um prêmio.\\pSe quiser interromper o seu desafio, salve o jogo.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0341F77",
+  "en": "When you have fortified your heart\\nand POKéMON, you must return.",
+  "pt": "Quando tiver fortalecido o seu coração e as suas CAPTURAS, volte."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "034201A",
+  "en": "Sigh…\\pYou do not have the three POKéMON\\nrequired for the challenge.\\pTo enter, you must provide three\\ndifferent kinds of POKéMON.\\pThey also must not be holding\\nthe same kinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pCome back when you have made\\nyour preparations.",
+  "pt": "Ai, ai…\\pVocê não tem as três CAPTURAS necessárias para o desafio.\\pPara participar, você precisa trazer três tipos diferentes de CAPTURAS.\\pElas também não podem estar segurando o mesmo tipo de item.\\pOVOS{STR_VAR_1} proibidos.\\pVolte quando estiver preparado."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0342115",
+  "en": "Sigh…\\pYou do not have the three POKéMON\\nrequired for the challenge.\\pTo enter, you must provide three\\ndifferent kinds of POKéMON.\\pThey also must not be holding\\nthe same kinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pCome back when you have made\\nyour preparations.",
+  "pt": "Ai, ai…\\pVocê não tem as três CAPTURAS necessárias para o desafio.\\pPara participar, você precisa trazer três tipos diferentes de CAPTURAS.\\pElas também não podem estar segurando o mesmo tipo de item.\\pOVOS{STR_VAR_1} proibidos.\\pVolte quando estiver preparado."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0342210",
+  "en": "Good. Now, you must select your\\nthree POKéMON.",
+  "pt": "Ótimo. Agora, escolha as suas três CAPTURAS."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "034223F",
+  "en": "I must save before I show you to\\nthe BATTLE TENT. Is that okay?",
+  "pt": "Preciso salvar o jogo antes de te levar à TENDA DE BATALHA. Tudo bem?"
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "034227F",
+  "en": "Good.\\nNow, follow me.",
+  "pt": "Ótimo.\\nAgora, me acompanhe."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0342295",
+  "en": "I feel privileged for having seen\\nyour POKéMON's exploits.\\pThe results will be recorded.\\nI must ask you to briefly wait.",
+  "pt": "Sinto-me honrado por ter visto os feitos das suas CAPTURAS.\\pOs resultados serão registrados. Peço que aguarde um instante."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "034230E",
+  "en": "To achieve a 3-win streak…\\pThe bonds that bind your heart with\\nyour POKéMON seem firm and true.",
+  "pt": "Conseguir uma sequência de 3 vitórias…\\pOs laços entre o seu coração e as suas CAPTURAS parecem firmes e verdadeiros."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "034236E",
+  "en": "Your feat will be recorded.\\nI must ask you to briefly wait.",
+  "pt": "O seu feito será registrado. Peço que aguarde um instante."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "03423AA",
+  "en": "For the feat of your 3-win streak,\\nwe present you with this prize.",
+  "pt": "Pelo feito da sua sequência de 3 vitórias, entregamos a você este prêmio."
+ },
+ {
+  "map": "22.0 KONG KAPITAL",
+  "offset": "0343460",
+  "en": "The VERDANTURF BATTLE TENT\\nrules are listed.",
+  "pt": "Estas são as regras da TENDA DE BATALHA de VERDANTURF."
+ },
+ {
+  "map": "22.2 KONG KAPITAL",
+  "offset": "0293EAB",
+  "en": "The 2nd opponent is next.\\nAre you prepared?",
+  "pt": "Agora vem o 2º oponente. Está preparado?"
+ },
+ {
+  "map": "22.2 KONG KAPITAL",
+  "offset": "0293ED7",
+  "en": "The 3rd opponent is next.\\nAre you prepared?",
+  "pt": "Agora vem o 3º oponente. Está preparado?"
+ },
+ {
+  "map": "22.2 KONG KAPITAL",
+  "offset": "0293FB3",
+  "en": "Would you like to save and quit\\nthe game?",
+  "pt": "Gostaria de salvar e sair do jogo?"
+ },
+ {
+  "map": "22.2 KONG KAPITAL",
+  "offset": "0293FDD",
+  "en": "Do you wish to quit your challenge?",
+  "pt": "Deseja desistir do seu desafio?"
+ },
+ {
+  "map": "22.2 KONG KAPITAL",
+  "offset": "0294001",
+  "en": "Saving the data.\\nHave patience…",
+  "pt": "Salvando os dados.\\nTenha paciência…"
+ },
+ {
+  "map": "22.3 KONG KAPITAL",
+  "offset": "0246498",
+  "en": "They don't seem to sell any winning\\nstrategy guides for the BATTLE TENT…\\pIt seems one must rely on one's\\nown wits after all…",
+  "pt": "Parece que não vendem nenhum guia de estratégia infalível para a TENDA DE BATALHA…\\pPelo jeito, cada um tem que contar com a própria cabeça mesmo…"
+ },
+ {
+  "map": "22.3 KONG KAPITAL",
+  "offset": "0246515",
+  "en": "The NEST BALL works better on\\nweakened POKéMON.\\pVERDANTURF is the only place you can\\nbuy it.",
+  "pt": "A NEST BALL funciona melhor em CAPTURAS enfraquecidas.\\pVERDANTURF é o único lugar onde dá pra comprar."
+ },
+ {
+  "map": "22.4 KONG KAPITAL",
+  "offset": "0246657",
+  "en": "The reason why anyone would visit\\nVERDANTURF…\\pIt's the BATTLE TENT. It goes without\\nsaying.\\pOr is there somebody here that you\\ncame to see?",
+  "pt": "O motivo pra alguém visitar VERDANTURF…\\pÉ a TENDA DE BATALHA, nem precisa dizer.\\pOu será que tem alguém aqui que você veio ver?"
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "024690A",
+  "en": "WALLY: Please watch me, {PLAYER}.\\nI'm going to get stronger than you.\\pWhen I do, I'm going to challenge you\\nto another battle.",
+  "pt": "WALLY: Fique de olho em mim, {PLAYER}. Vou ficar mais forte que você.\\pQuando isso acontecer, vou te desafiar pra outra batalha."
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246983",
+  "en": "UNCLE: Oh! {PLAYER}{KUN}!\\nWALLY's next door.\\pBut, boy, there's something I have to\\ntell you.\\pThis natural environment is doing\\nwonders for WALLY's health.\\pMaybe it's not just the environment.\\nIt could be POKéMON that are giving\\lthe boy hope.",
+  "pt": "TIO: Oh! {PLAYER}{KUN}! O WALLY está na casa ao lado.\\pMas, rapaz, tenho uma coisa pra te contar.\\pEste ambiente natural está fazendo maravilhas pela saúde do WALLY.\\pTalvez não seja só o ambiente. Podem ser as CAPTURAS que estão dando esperança ao garoto."
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246A6C",
+  "en": "WALLY's gone away…\\nHe slipped off on his own…",
+  "pt": "O WALLY foi embora…\\nEle saiu escondido, sozinho…"
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246A9A",
+  "en": "UNCLE: Is that right?\\nWALLY's gone away that far all by\\lhimself…\\pWell, I have to give him credit--he is\\nmy little brother's son.",
+  "pt": "TIO: É mesmo? O WALLY foi tão longe assim sozinho…\\pBom, tenho que dar o braço a torcer: ele é filho do meu irmão mais novo."
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246B1B",
+  "en": "WANDA: You are?\\nOh, right, I get it!\\pYou're the {PLAYER} who WALLY was\\ntelling me about.\\pI'm WALLY's cousin.\\nGlad to meet you!\\pI think WALLY's become a lot more lively\\nand healthy since he came here.",
+  "pt": "WANDA: Quem é você? Ah, claro, entendi!\\pVocê é o {PLAYER} de quem o WALLY me falou.\\pEu sou prima do WALLY. Prazer em te conhecer!\\pAcho que o WALLY ficou bem mais animado e saudável desde que chegou aqui."
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246BDD",
+  "en": "WANDA: Don't worry about WALLY.\\nHe'll be just fine.\\pI know my little cousin, and he has\\nPOKéMON with him, too.",
+  "pt": "WANDA: Não se preocupe com o WALLY. Ele vai ficar bem.\\pEu conheço o meu priminho, e ele também tem CAPTURAS com ele."
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246C4C",
+  "en": "Thanks to you, I can see my girlfriend\\nevery day.\\lHappy? You bet I am!",
+  "pt": "Graças a você, posso ver a minha namorada todo dia. Se estou feliz? Pode apostar que sim!"
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246C93",
+  "en": "My daughter's boyfriend is a very\\ndriven and passionate sort of person.\\pHe's been digging a tunnel nonstop\\njust so he can see my daughter.\\pMy daughter's a little concerned,\\nso she goes out to the tunnel a lot.",
+  "pt": "O namorado da minha filha é um rapaz muito determinado e apaixonado.\\pEle está cavando um túnel sem parar só pra poder ver a minha filha.\\pA minha filha fica um pouco preocupada, então vai muito até o túnel."
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246D65",
+  "en": "It's amazing. My daughter's boyfriend\\nwas digging the tunnel by hand!\\pIt's so incredible!",
+  "pt": "É incrível. O namorado da minha filha estava cavando o túnel com as próprias mãos!\\pÉ inacreditável!"
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246DBF",
+  "en": "If anything were to happen to WALLY,\\nI would never be able to look his\\lparents in PETALBURG in the eye…",
+  "pt": "Se alguma coisa acontecesse com o WALLY, eu nunca mais conseguiria olhar nos olhos dos pais dele, lá em PETALBURG…"
+ },
+ {
+  "map": "22.6 KONG KAPITAL",
+  "offset": "0246E27",
+  "en": "WALLY was in EVER GRANDE?\\pHis parents in PETALBURG would be\\nastonished to hear that!",
+  "pt": "O WALLY estava em EVER GRANDE?\\pOs pais dele, lá em PETALBURG, ficariam pasmos se soubessem disso!"
+ },
+ {
+  "map": "22.7 KONG KAPITAL",
+  "offset": "0246F8D",
+  "en": "It adores you.\\nIt can't possibly love you any more.\\lI even feel happy seeing it.",
+  "pt": "Ela te adora. Não tem como te amar mais do que isso. Fico até feliz de ver."
+ },
+ {
+  "map": "22.7 KONG KAPITAL",
+  "offset": "0246FDE",
+  "en": "It seems to be very happy.\\nIt obviously likes you a whole lot.",
+  "pt": "Ela parece muito feliz. Com certeza gosta muito de você."
+ },
+ {
+  "map": "22.7 KONG KAPITAL",
+  "offset": "024701D",
+  "en": "It likes you quite a lot.\\nIt seems to want to be babied a little.",
+  "pt": "Ela gosta bastante de você. Parece que quer ser um pouco paparicada."
+ },
+ {
+  "map": "22.7 KONG KAPITAL",
+  "offset": "024705F",
+  "en": "It's getting used to you.\\nIt seems to believe in you.",
+  "pt": "Ela está se acostumando com você. Parece que confia em você."
+ },
+ {
+  "map": "22.7 KONG KAPITAL",
+  "offset": "0247095",
+  "en": "It's not very used to you yet.\\nIt neither loves nor hates you.",
+  "pt": "Ela ainda não está muito acostumada com você. Não te ama nem te odeia."
+ },
+ {
+  "map": "22.7 KONG KAPITAL",
+  "offset": "02470D4",
+  "en": "It's very wary.\\nIt has scary viciousness in its eyes.\\lIt doesn't like you much at all.",
+  "pt": "Ela está muito desconfiada. Tem uma ferocidade assustadora nos olhos. Não gosta nem um pouco de você."
+ },
+ {
+  "map": "22.7 KONG KAPITAL",
+  "offset": "024712B",
+  "en": "This is a little hard for me to say…\\pYour POKéMON simply detests you.\\nDoesn't that make you uncomfortable?",
+  "pt": "É um pouco difícil pra mim dizer isso…\\pA sua CAPTURA simplesmente te detesta. Isso não te deixa desconfortável?"
+ },
+ {
+  "map": "22.7 KONG KAPITAL",
+  "offset": "0247196",
+  "en": "PIKACHU: Pika pika!",
+  "pt": "PIKACHU: Pika pika!"
+ },
+ {
+  "map": "22.8 KONG KAPITAL",
+  "offset": "024723A",
+  "en": "In the POKéMON LEAGUE, I think the\\nrules say that you have to battle the\\lELITE FOUR all in a row.\\pIf you lose to any of them, you have\\nto begin your challenge again from the\\lfirst one.",
+  "pt": "Na LIGA CAPTURA, acho que as regras dizem que você tem que enfrentar a ELITE DOS QUATRO toda em sequência.\\pSe perder pra qualquer um deles, você tem que recomeçar o desafio desde o primeiro."
+ },
+ {
+  "map": "23.0 PACIFIDLOG TOWN",
+  "offset": "024735B",
+  "en": "PACIFIDLOG TOWN floats on top of\\na colony of CORSOLA.\\pIf I told you that, would you believe\\nme?",
+  "pt": "PACIFIDLOG TOWN flutua em cima de uma colônia de CORSOLA.\\pSe eu te dissesse isso, você acreditaria?"
+ },
+ {
+  "map": "23.0 PACIFIDLOG TOWN",
+  "offset": "02473BB",
+  "en": "The ancestors of the people in\\nPACIFIDLOG were said to have been\\lborn on boats and then lived and died \\laboard them.\\pI understand that they lived that way\\nbecause they were searching for\\lsomething.",
+  "pt": "Dizem que os antepassados do povo de PACIFIDLOG nasciam em barcos e passavam a vida inteira a bordo deles, até morrer.\\pPelo que entendo, eles viviam assim porque estavam procurando alguma coisa."
+ },
+ {
+  "map": "23.2 PACIFIDLOG TOWN",
+  "offset": "0247586",
+  "en": "“Six dots open three doors.”\\pGrandpa used to say that, but I don't\\nknow what he meant.",
+  "pt": "“Seis pontos abrem três portas.”\\pO vovô vivia dizendo isso, mas eu não sei o que ele queria dizer."
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "02477A7",
+  "en": "Ah!\\nYour POKéMON…",
+  "pt": "Ah!\\nA sua CAPTURA…"
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "02477B9",
+  "en": "It clearly likes you very much.\\pA POKéMON that adoring and adorable\\ndeserves a TM like this, no?",
+  "pt": "Ela claramente gosta muito de você.\\pUma CAPTURA tão carinhosa e adorável merece um TM como este, não acha?"
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "024781A",
+  "en": "Hmm…\\nIt's not bad, but it's also not good.\\pYou, as the TRAINER, need to put in\\nsome more effort.",
+  "pt": "Hmm…\\nNão está ruim, mas também não está bom.\\pVocê, como TREINADOR, precisa se esforçar mais."
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "024787B",
+  "en": "It has a vicious look to it.\\pA frightening POKéMON like that\\ndeserves a TM like this.",
+  "pt": "Ela tem um olhar feroz.\\pUma CAPTURA assustadora assim merece um TM como este."
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "02478D1",
+  "en": "If a POKéMON likes you a lot, RETURN's\\npower is enhanced.\\pIf it doesn't like you, FRUSTRATION's\\npower goes up.",
+  "pt": "Se uma CAPTURA gosta muito de você, o poder de RETORNO aumenta.\\pSe ela não gosta de você, o poder de FRUSTRAÇÃO é que aumenta."
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "0247940",
+  "en": "Oh, yes. In about {STR_VAR_1} or so days,\\nI should be getting a good TM or two.\\pYou should come see me then.\\nI'll give you a TM that's suitable for\\lyour POKéMON.",
+  "pt": "Ah, sim. Daqui a uns {STR_VAR_1} dias, devo receber um ou dois TMs bons.\\pVenha me ver nessa época. Vou te dar um TM adequado para a sua CAPTURA."
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "02479D9",
+  "en": "AZURILL: Rurii.",
+  "pt": "AZURILL: Rurii."
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "02479E9",
+  "en": "It appears to be very friendly with the\\nTRAINER.",
+  "pt": "Parece se dar muito bem com o TREINADOR."
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "0247A1A",
+  "en": "AZURILL: Rururi!",
+  "pt": "AZURILL: Rururi!"
+ },
+ {
+  "map": "23.3 PACIFIDLOG TOWN",
+  "offset": "0247A2B",
+  "en": "It doesn't appear to like the TRAINER\\nvery much.",
+  "pt": "Parece não gostar muito do TREINADOR."
+ },
+ {
+  "map": "23.4 PACIFIDLOG TOWN",
+  "offset": "0247BD3",
+  "en": "Oh, so this is a {STR_VAR_1}?\\pIt's sort of like a {STR_VAR_2},\\nand yet it's subtly different.\\pThank you!",
+  "pt": "Ah, então isto é um {STR_VAR_1}?\\pÉ meio parecido com um {STR_VAR_2}, mas tem uma diferença sutil.\\pObrigado!"
+ },
+ {
+  "map": "23.4 PACIFIDLOG TOWN",
+  "offset": "0247C2A",
+  "en": "No, no, no! I won't accept any\\nless than a real {STR_VAR_1}!",
+  "pt": "Não, não, não! Não aceito nada menos que um {STR_VAR_1} de verdade!"
+ },
+ {
+  "map": "23.4 PACIFIDLOG TOWN",
+  "offset": "0247C5E",
+  "en": "Oh, so you're not going to go through\\nwith this?\\pThat's cool. I'm not desperate to make\\na trade or anything.",
+  "pt": "Ah, então você não vai levar isso adiante?\\pTudo bem. Não estou desesperado pra fazer troca nem nada."
+ },
+ {
+  "map": "23.4 PACIFIDLOG TOWN",
+  "offset": "0247CCB",
+  "en": "I know I could go looking for one\\non my own, but…\\pBut I really wanted to get a BAGON\\nthat another TRAINER caught…",
+  "pt": "Sei que eu poderia procurar um sozinho, mas…\\pMas eu queria muito um BAGON que outro TREINADOR tivesse pegado…"
+ },
+ {
+  "map": "23.4 PACIFIDLOG TOWN",
+  "offset": "0247D3D",
+  "en": "Is that a POKéDEX?\\pDid you get to meet a lot of different\\nPOKéMON?\\pI wish I was like you.",
+  "pt": "Isso aí é uma TATTLEDEX?\\pVocê conheceu um monte de CAPTURAS diferentes?\\pQueria ser como você."
+ },
+ {
+  "map": "23.5 PACIFIDLOG TOWN",
+  "offset": "0247E63",
+  "en": "A sky POKéMON!\\nA sky POKéMON!",
+  "pt": "Uma CAPTURA do céu!\\nUma CAPTURA do céu!"
+ },
+ {
+  "map": "23.5 PACIFIDLOG TOWN",
+  "offset": "0247E81",
+  "en": "Where did you come from?",
+  "pt": "De onde você veio?"
+ },
+ {
+  "map": "23.5 PACIFIDLOG TOWN",
+  "offset": "0247E9A",
+  "en": "Yes?\\nYES TOWN?\\pI've never heard of a place like that.",
+  "pt": "Sim?\\nCIDADE SIM?\\pNunca ouvi falar de um lugar assim."
+ },
+ {
+  "map": "23.5 PACIFIDLOG TOWN",
+  "offset": "0247ED0",
+  "en": "No? That doesn't make any sense.\\nYou have to come from somewhere.\\pOh! Wait! You're not going to say you\\nwere born at the bottom of the sea?",
+  "pt": "Não? Isso não faz sentido nenhum. Você tem que ter vindo de algum lugar.\\pOh! Espera! Não vai me dizer que você nasceu no fundo do mar?"
+ },
+ {
+  "map": "23.6 PACIFIDLOG TOWN",
+  "offset": "0247F8C",
+  "en": "I can't see MIRAGE ISLAND today…",
+  "pt": "Hoje não dá pra ver a MIRAGE ISLAND…"
+ },
+ {
+  "map": "23.6 PACIFIDLOG TOWN",
+  "offset": "0247FAD",
+  "en": "Oh! Oh my!\\nI can see MIRAGE ISLAND today!",
+  "pt": "Oh! Minha nossa!\\nHoje dá pra ver a MIRAGE ISLAND!"
+ },
+ {
+  "map": "23.6 PACIFIDLOG TOWN",
+  "offset": "0247FD7",
+  "en": "MIRAGE ISLAND…\\pIt must become visible and invisible\\ndepending on the weather conditions\\lthat make mirages appear.\\pOr is it really appearing and\\ndisappearing?",
+  "pt": "MIRAGE ISLAND…\\pEla deve ficar visível e invisível dependendo das condições do tempo que fazem as miragens aparecerem.\\pOu será que ela aparece e desaparece de verdade?"
+ },
+ {
+  "map": "24.0 DAISY'S CRUISER",
+  "offset": "0248299",
+  "en": "I wonder how our WALLY is doing?",
+  "pt": "Como será que o nosso WALLY está?"
+ },
+ {
+  "map": "24.0 DAISY'S CRUISER",
+  "offset": "02482BA",
+  "en": "{PLAYER}{KUN}! Please excuse us for\\ndragging you here this way.\\pBut our WALLY's become very healthy\\nsince he went to VERDANTURF TOWN.\\pWe owe it all to you!\\pWhen WALLY left town, you helped\\nhim catch a POKéMON, right?\\pI think that made WALLY really\\nhappy.\\pActually, not just WALLY.\\nIt made me, his father, happy too.\\pHappy that he's gained such a great\\nfriend as you.\\pThis isn't a bribe or anything, but\\nI'd really like you to have this.",
+  "pt": "{PLAYER}{KUN}! Desculpe por te arrastar até aqui desse jeito.\\pMas o nosso WALLY ficou muito mais saudável desde que foi para VERDANTURF TOWN.\\pDevemos tudo isso a você!\\pQuando o WALLY saiu da cidade, você o ajudou a pegar uma CAPTURA, não foi?\\pAcho que isso deixou o WALLY muito feliz.\\pNa verdade, não só o WALLY. Me deixou feliz também, como pai dele.\\pFeliz por ele ter ganhado um amigo tão bom quanto você.\\pIsto não é suborno nem nada, mas eu queria muito que você ficasse com isto."
+ },
+ {
+  "map": "24.0 DAISY'S CRUISER",
+  "offset": "0248466",
+  "en": "If your POKéMON can SURF, you'll be\\nable to go to all sorts of places.",
+  "pt": "Se a sua CAPTURA souber SURFAR, você vai poder ir a todo tipo de lugar."
+ },
+ {
+  "map": "24.0 DAISY'S CRUISER",
+  "offset": "02484AD",
+  "en": "WALLY's coming home soon.\\nI'm looking forward to that.",
+  "pt": "O WALLY vai voltar pra casa logo. Estou ansiosa por isso."
+ },
+ {
+  "map": "24.0 DAISY'S CRUISER",
+  "offset": "02484E4",
+  "en": "Oh? You met WALLY in\\nEVER GRANDE CITY?\\pOh, {PLAYER}{KUN}, don't be silly.\\pHe may have gotten healthy, but he\\ncan't go somewhere far away like\\lthat all by himself.",
+  "pt": "Oh? Você encontrou o WALLY em EVER GRANDE CITY?\\pAh, {PLAYER}{KUN}, deixe de bobagem.\\pEle pode ter ficado mais saudável, mas não consegue ir sozinho a um lugar tão longe assim."
+ },
+ {
+  "map": "24.0 DAISY'S CRUISER",
+  "offset": "024857E",
+  "en": "WALLY was really happy when he told\\nus that he caught a POKéMON.\\pIt's been ages since I've seen him\\nsmile like that.",
+  "pt": "O WALLY ficou muito feliz quando contou pra gente que tinha pegado uma CAPTURA.\\pFazia séculos que eu não o via sorrir daquele jeito."
+ },
+ {
+  "map": "24.0 DAISY'S CRUISER",
+  "offset": "02485F3",
+  "en": "I want you to keep this a secret\\nfrom my husband…\\pBut our WALLY left VERDANTURF TOWN\\nwithout telling anyone.\\pYou know, WALLY is frail, but\\nhe's surprisingly strong-willed.\\pI'm sure that he'll come back safe\\nand sound one day!",
+  "pt": "Quero que você guarde segredo do meu marido…\\pMas o nosso WALLY saiu de VERDANTURF TOWN sem avisar ninguém.\\pSabe, o WALLY é frágil, mas é surpreendentemente determinado.\\pTenho certeza de que um dia ele vai voltar são e salvo!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "02496FD",
+  "en": "Um… I…\\nI'd like to get a POKéMON, please…",
+  "pt": "Hum… Eu…\\nEu queria pegar uma CAPTURA, por favor…"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249727",
+  "en": "DAD: Hm? You're… Uh… Oh, right.\\nYou're WALLY, right?",
+  "pt": "PAI: Hum? Você é… Hã… Ah, claro. Você é o WALLY, não é?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024975C",
+  "en": "WALLY: I'm going to go stay with my\\nrelatives in VERDANTURF TOWN.\\pI thought I would be lonely by myself,\\nso I wanted to take a POKéMON along.\\pBut I've never caught a POKéMON before.\\nI don't know how…",
+  "pt": "WALLY: Vou ficar com os meus parentes em VERDANTURF TOWN.\\pAchei que ia me sentir sozinho, então queria levar uma CAPTURA comigo.\\pMas eu nunca peguei uma CAPTURA antes. Não sei como…"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249824",
+  "en": "DAD: Hm. I see.",
+  "pt": "PAI: Hum. Entendo."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249834",
+  "en": "DAD: {PLAYER}, you heard that,\\nright?\\pGo with WALLY and make sure that he\\nsafely catches a POKéMON.",
+  "pt": "PAI: {PLAYER}, você ouviu, não ouviu?\\pVá com o WALLY e garanta que ele pegue uma CAPTURA em segurança."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249892",
+  "en": "WALLY, here, I'll loan you my POKéMON.\\pWALLY received a ZIGZAGOON!",
+  "pt": "WALLY, tome, vou te emprestar a minha CAPTURA.\\pWALLY recebeu um ZIGZAGOON!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "02498D5",
+  "en": "WALLY: Oh, wow!\\nA POKéMON!\\pDAD: Hm. I'll give you a POKé BALL, too.\\nGo for it!\\pWALLY received a POKé BALL!",
+  "pt": "WALLY: Uau!\\nUma CAPTURA!\\pPAI: Hum. Vou te dar um CAP também. Vai fundo!\\pWALLY recebeu um CAP!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249940",
+  "en": "WALLY: Oh, wow!\\nThank you!",
+  "pt": "WALLY: Uau!\\nObrigado!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024995B",
+  "en": "{PLAYER}… Would you really come\\nwith me?",
+  "pt": "{PLAYER}… Você vem mesmo comigo?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024997E",
+  "en": "DAD: So, did it work out?",
+  "pt": "PAI: E então, deu certo?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249998",
+  "en": "WALLY: Thank you, yes, it did.\\nHere's your POKéMON back.\\p{PLAYER}, thank you for coming along\\nwith me.\\pYou two are why I was able to catch\\nmy POKéMON.\\pI promise I'll take really good\\ncare of it.\\pOh! My mom's waiting for me,\\nso I have to go!\\pBye, {PLAYER}!",
+  "pt": "WALLY: Deu sim, obrigado. Aqui está a sua CAPTURA de volta.\\p{PLAYER}, obrigado por ter vindo comigo.\\pFoi graças a vocês dois que eu consegui pegar a minha CAPTURA.\\pPrometo que vou cuidar muito bem dela.\\pOh! A minha mãe está me esperando, então eu tenho que ir!\\pTchau, {PLAYER}!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249A8C",
+  "en": "DAD: Now…\\p{PLAYER}, if you want to become a\\nstrong TRAINER, here's my advice.\\pHead for RUSTBORO CITY beyond this\\ntown.\\pThere, you should challenge\\nthe GYM LEADER, ROXANNE.\\pAfter her, go on to other POKéMON\\nGYMS and defeat their LEADERS.\\pCollect BADGES from them,\\nunderstood?\\pOf course, I'm a GYM LEADER, too.\\nWe'll battle one day, {PLAYER}.\\pBut that's only after you become\\nstronger.",
+  "pt": "PAI: Agora…\\p{PLAYER}, se você quer se tornar um TREINADOR forte, aqui vai o meu conselho.\\pVá para RUSTBORO CITY, depois desta cidade.\\pLá, você deve desafiar a LÍDER DE GINÁSIO, ROXANNE.\\pDepois dela, vá a outros GINÁSIOS e derrote os LÍDERES deles.\\pConquiste as INSÍGNIAS deles, entendido?\\pÉ claro que eu também sou um LÍDER DE GINÁSIO. Um dia vamos batalhar, {PLAYER}.\\pMas só depois que você ficar mais forte."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249C00",
+  "en": "DAD: Hm? Aren't you going to the\\nPOKéMON GYM in RUSTBORO CITY?\\pThere's no challenge for me to\\nbattle a greenhorn TRAINER.\\p{PLAYER}, I want you to challenge me\\nwhen you become a lot stronger.\\pI'll battle you, {PLAYER}, when you\\ncan show me four GYM BADGES, okay?",
+  "pt": "PAI: Hum? Você não vai ao GINÁSIO de RUSTBORO CITY?\\pNão tem graça nenhuma pra mim batalhar com um TREINADOR novato.\\p{PLAYER}, quero que você me desafie quando estiver muito mais forte.\\pVou batalhar com você, {PLAYER}, quando puder me mostrar quatro INSÍGNIAS, combinado?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249CFA",
+  "en": "DAD: I see… So, you've beaten\\nthe GYM LEADER in RUSTBORO CITY.\\pBut there are many more TRAINERS\\nwho are stronger than you, {PLAYER}.\\pAcross the sea in DEWFORD TOWN is a\\nGYM LEADER named BRAWLY.\\pYou should go challenge him.",
+  "pt": "PAI: Entendo… Então você venceu a LÍDER DE GINÁSIO de RUSTBORO CITY.\\pMas existem muitos outros TREINADORES mais fortes que você, {PLAYER}.\\pDo outro lado do mar, em DEWFORD TOWN, tem um LÍDER DE GINÁSIO chamado BRAWLY.\\pVocê devia ir desafiá-lo."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249DD3",
+  "en": "DAD: Hm… {PLAYER}, you have gotten\\nstronger.\\pI can tell by the number of BADGES\\nthat you've earned.",
+  "pt": "PAI: Hum… {PLAYER}, você ficou mais forte.\\pDá pra ver pelo número de INSÍGNIAS que você conquistou."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249E31",
+  "en": "DAD: Hm…\\nSo, you did get four GYM BADGES.\\pFine, as I promised, we will have\\na POKéMON battle.\\p{PLAYER}…\\pI'm so happy that I can have\\na real battle with my own child.\\pBut, a battle is a battle!\\pI will do everything in my power as\\na GYM LEADER to win.\\p{PLAYER}, you'd better give it your\\nbest shot, too!",
+  "pt": "PAI: Hum… Então você conseguiu mesmo as quatro INSÍGNIAS.\\pPois bem, como prometi, vamos ter uma batalha de CAPTURAS.\\p{PLAYER}…\\pEstou tão feliz por poder ter uma batalha de verdade com o meu próprio filho.\\pMas batalha é batalha!\\pVou fazer tudo o que puder, como LÍDER DE GINÁSIO, para vencer.\\p{PLAYER}, é bom você dar o seu melhor também!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249FAE",
+  "en": "{PLAYER} received the BALANCE BADGE\\nfrom DAD!",
+  "pt": "{PLAYER} recebeu a INSÍGNIA EQUILÍBRIO do PAI!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "0249FD6",
+  "en": "DAD: With that BADGE, the DEFENSE\\nof all your POKéMON will increase.\\pPOKéMON that know the HM move SURF\\nwill be able to travel over water.\\pThis is my gift to you. {PLAYER}, I'm\\nsure you can use it correctly.",
+  "pt": "PAI: Com essa INSÍGNIA, a DEFESA de todas as suas CAPTURAS vai aumentar.\\pAs CAPTURAS que souberem o golpe de HM SURFAR vão poder viajar pela água.\\pEste é o meu presente pra você. {PLAYER}, tenho certeza de que você vai saber usá-lo direito."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A0A0",
+  "en": "DAD: TM42 contains FACADE.\\pIt doubles the power of moves if\\nthe POKéMON is poisoned, paralyzed,\\lor burned.\\pIt might be able to turn a bad\\nsituation into an advantage.",
+  "pt": "PAI: O TM42 contém FACHADA.\\pEle dobra o poder do golpe se a CAPTURA estiver envenenada, paralisada ou queimada.\\pPode transformar uma situação ruim numa vantagem."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A147",
+  "en": "DAD: As the GYM LEADER, I can't\\nexpress how upset I am…\\pBut as a father, it makes me both\\nhappy and a little sad. It's odd…",
+  "pt": "PAI: Como LÍDER DE GINÁSIO, não consigo expressar o quanto estou chateado…\\pMas, como pai, isso me deixa feliz e um pouco triste ao mesmo tempo. É estranho…"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A1C3",
+  "en": "Ah, there you are, {PLAYER}{KUN}!\\pPlease come with me.\\nI have something I want you to have.",
+  "pt": "Ah, aí está você, {PLAYER}{KUN}!\\pVenha comigo, por favor. Tenho uma coisa que quero te dar."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A216",
+  "en": "NORMAN, you don't mind, do you?\\pLet me borrow your {PLAYER}{KUN} for\\na minute or two.",
+  "pt": "NORMAN, você não se importa, não é?\\pVou pegar o seu {PLAYER}{KUN} emprestado por um ou dois minutinhos."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A263",
+  "en": "DAD: {PLAYER}, you should go visit\\nyour mother every so often.\\pI'm going to stay here and redouble\\nmy training.\\pIt would bother me as a TRAINER to\\nnot avenge my loss to you, {PLAYER}!",
+  "pt": "PAI: {PLAYER}, você devia visitar a sua mãe de vez em quando.\\pEu vou ficar aqui e redobrar o meu treinamento.\\pComo TREINADOR, não ficaria em paz sem me vingar da derrota pra você, {PLAYER}!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A30F",
+  "en": "DAD: {PLAYER}, how are things going?\\pThe world of POKéMON is deep.\\pI honestly think that no amount of\\ntraining would ever be enough.",
+  "pt": "PAI: {PLAYER}, como vão as coisas?\\pO mundo das CAPTURAS é profundo.\\pSinceramente, acho que nenhum treino jamais seria suficiente."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A38E",
+  "en": "Hey, how's it going, CHAMPION-\\nbound {PLAYER}?\\pThe doors in this GYM open when you\\nbeat the awaiting TRAINERS.\\pWhoops! The doors in this room are\\nalready open, so don't attack me!\\pThe TRAINERS of PETALBURG GYM\\nuse all kinds of items.\\pThe door at the left leads to\\nthe SPEED ROOM.\\pThe door at the right leads to\\nthe ACCURACY ROOM.\\pThe room's name will be on\\nthe door, so choose carefully.\\pOnce you've chosen the door…\\nWell, hey, go for it!",
+  "pt": "E aí, como vai, futuro CAMPEÃO {PLAYER}?\\pAs portas deste GINÁSIO se abrem quando você vence os TREINADORES que estão esperando.\\pOpa! As portas desta sala já estão abertas, então não me ataque!\\pOs TREINADORES do GINÁSIO de PETALBURG usam todo tipo de item.\\pA porta da esquerda leva à SALA DA VELOCIDADE.\\pA porta da direita leva à SALA DA PRECISÃO.\\pO nome da sala fica escrito na porta, então escolha com cuidado.\\pDepois de escolher a porta… Bom, vai fundo!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A53F",
+  "en": "{PLAYER}! Whoa! You've overcome even\\nyour own father!\\pLike, whoa!\\nWhat a stunning turn of events!",
+  "pt": "{PLAYER}! Uau! Você superou até o seu próprio pai!\\pTipo, uau!\\nQue reviravolta impressionante!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A59B",
+  "en": "The ability to attack before the\\nopponent…\\pJust that alone puts me at a great\\nadvantage, don't you agree?",
+  "pt": "Poder atacar antes do oponente…\\pSó isso já me dá uma grande vantagem, não acha?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A605",
+  "en": "That was a magnificent battle!",
+  "pt": "Que batalha magnífica!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A624",
+  "en": "Go on to the next room where a new\\nchallenge awaits you.\\pAt the left is the CONFUSION ROOM.\\pThe right door leads to the DEFENSE\\nROOM.",
+  "pt": "Siga para a próxima sala, onde um novo desafio te aguarda.\\pÀ esquerda fica a SALA DA CONFUSÃO.\\pA porta da direita leva à SALA DA DEFESA."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A6AA",
+  "en": "Whomever you beat, and whomever you\\nmay lose to, you never shirk from\\ltraining yourself and your POKéMON.\\pThat's what I think being a\\nGYM LEADER is all about.",
+  "pt": "Não importa quem você vença ou para quem perca, você nunca deixa de treinar a si mesmo e às suas CAPTURAS.\\pÉ isso que eu acho que significa ser um LÍDER DE GINÁSIO."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A749",
+  "en": "This is the CONFUSION ROOM.\\pLet me see how well bonded you are\\nwith your POKéMON!",
+  "pt": "Esta é a SALA DA CONFUSÃO.\\pVamos ver o quanto você está ligado às suas CAPTURAS!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A79B",
+  "en": "I couldn't confuse your team enough…\\nYou share a strong bond together.",
+  "pt": "Não consegui confundir a sua equipe o bastante… Vocês têm um laço forte."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A7E2",
+  "en": "The next room is the STRENGTH ROOM.\\nCan you withstand brute force?",
+  "pt": "A próxima sala é a SALA DA FORÇA. Você aguenta força bruta?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A825",
+  "en": "After you beat our LEADER, the\\ntraining has become a lot tougher.",
+  "pt": "Depois que você venceu o nosso LÍDER, o treinamento ficou muito mais pesado."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A867",
+  "en": "Just when you think you're going to\\nwin, your opponent restores HP…\\pCan you just imagine how awful that\\nmust feel?\\pI'll show you exactly how awful it\\nfeels!",
+  "pt": "Bem quando você acha que vai vencer, o oponente recupera HP…\\pDá pra imaginar como isso deve ser horrível?\\pVou te mostrar direitinho como é horrível!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A904",
+  "en": "I couldn't restore HP enough…\\nWhat ATTACK power…",
+  "pt": "Não consegui recuperar HP o bastante… Que poder de ATAQUE…"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A935",
+  "en": "I should have expected no less from\\nour LEADER's kid.\\pNo, wait! A TRAINER's abilities are\\nearned only through effort.\\pI lost because my own efforts\\nweren't enough.\\pGo on! The ONE-HIT KO ROOM is next.",
+  "pt": "Eu não esperava menos do filho do nosso LÍDER.\\pNão, espera! As habilidades de um TREINADOR só vêm com esforço.\\pPerdi porque o meu próprio esforço não foi suficiente.\\pVá em frente! A próxima é a SALA DO NOCAUTE DIRETO."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024A9FD",
+  "en": "I'm going to keep training at GYMS.\\nOne day, I'll become a LEADER.",
+  "pt": "Vou continuar treinando em GINÁSIOS. Um dia, vou virar LÍDER."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AA40",
+  "en": "I'm not going to take it easy just\\nbecause you're our LEADER's kid.\\pI'll show you how horrid it is for\\na POKéMON to take a critical hit!",
+  "pt": "Não vou pegar leve só porque você é filho do nosso LÍDER.\\pVou te mostrar como é horrível para uma CAPTURA levar um golpe crítico!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AAC9",
+  "en": "Your power…\\nYou're the real deal.",
+  "pt": "Esse seu poder…\\nVocê é pra valer."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AAEB",
+  "en": "Your father really is strong.\\nHe's a TRAINER worth my respect.\\pAnd, I sense the same glow coming\\nfrom you as your father.\\pI hope that you'll stage a terrific\\nbattle with your father!",
+  "pt": "O seu pai é forte mesmo. É um TREINADOR digno do meu respeito.\\pE eu sinto o mesmo brilho vindo de você e do seu pai.\\pEspero que você faça uma batalha incrível com o seu pai!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024ABA2",
+  "en": "Since your dad became the LEADER,\\nthe TRAINERS of PETALBURG CITY have\\lbecome a lot tougher.",
+  "pt": "Desde que o seu pai virou LÍDER, os TREINADORES de PETALBURG CITY ficaram muito mais fortes."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024ABFE",
+  "en": "Giggle…\\nThis is the ACCURACY ROOM.\\pIt's pretty nasty when every attack\\nlands without fail.",
+  "pt": "Hihihi…\\nEsta é a SALA DA PRECISÃO.\\pÉ bem cruel quando todo ataque acerta sem falhar."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AC59",
+  "en": "You were a cut above me…",
+  "pt": "Você estava um nível acima de mim…"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AC72",
+  "en": "There are some even stronger\\nTRAINERS waiting for you.\\pThe left is the DEFENSE ROOM, and\\nthe right is the RECOVERY ROOM.\\pYour POKéMON's ATTACK power will be\\non trial either way.",
+  "pt": "Tem TREINADORES ainda mais fortes esperando por você.\\pÀ esquerda fica a SALA DA DEFESA, e à direita, a SALA DA RECUPERAÇÃO.\\pO poder de ATAQUE das suas CAPTURAS vai ser testado de qualquer jeito."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AD24",
+  "en": "Do you know what we're trying to\\nachieve as TRAINERS?\\pWe're striving to become soul mates\\nwith our POKéMON.",
+  "pt": "Sabe o que a gente tenta alcançar como TREINADORES?\\pA gente se esforça para virar almas gêmeas das nossas CAPTURAS."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AD90",
+  "en": "The higher the DEFENSE, the more\\nreckless I can be in attack.",
+  "pt": "Quanto maior a DEFESA, mais imprudente eu posso ser no ataque."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024ADCE",
+  "en": "Our defenses weren't enough…",
+  "pt": "A nossa defesa não foi suficiente…"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024ADEB",
+  "en": "I think you've taught me a valuable\\nlesson here.\\pNow, go on! The left door goes to\\nthe STRENGTH ROOM.\\pThe right door opens to\\nthe ONE-HIT KO ROOM.\\pBoth of them have TRAINERS who are\\nskilled at offense.",
+  "pt": "Acho que você me ensinou uma lição valiosa aqui.\\pAgora, vá em frente! A porta da esquerda vai para a SALA DA FORÇA.\\pA porta da direita abre para a SALA DO NOCAUTE DIRETO.\\pAs duas têm TREINADORES que são bons no ataque."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AEB5",
+  "en": "Hi! Have you tried using SURF?",
+  "pt": "Oi! Já tentou usar SURFAR?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AED4",
+  "en": "Our GYM LEADER told us to go all out\\nand beat you.\\pEven if you happen to be the\\nLEADER's kid!",
+  "pt": "O nosso LÍDER DE GINÁSIO mandou a gente dar tudo e te derrotar.\\pMesmo que você seja o filho do LÍDER!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AF32",
+  "en": "But… I went all out!",
+  "pt": "Mas… Eu dei tudo de mim!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AF47",
+  "en": "The way you use your POKéMON…\\nIt's like your father's style.\\pGo on through! The GYM LEADER, your\\nfather, is waiting!",
+  "pt": "O jeito que você usa as suas CAPTURAS… Parece o estilo do seu pai.\\pPode passar! O LÍDER DE GINÁSIO, o seu pai, está te esperando!"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024AFBC",
+  "en": "Sure, it's fine to make your POKéMON\\nstronger.\\pBut what decides the winner?\\pWhy, it's the feelings TRAINERS have\\nfor their POKéMON.",
+  "pt": "Claro, não tem problema deixar as suas CAPTURAS mais fortes.\\pMas o que decide o vencedor?\\pOra, são os sentimentos que os TREINADORES têm pelas suas CAPTURAS."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B040",
+  "en": "This door appears to be locked\\nright now…",
+  "pt": "Parece que esta porta está trancada no momento…"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B06A",
+  "en": "“SPEED ROOM,” the sign says.\\pDo you want to go through?",
+  "pt": "“SALA DA VELOCIDADE”, diz a placa.\\pQuer passar?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B0CC",
+  "en": "“ACCURACY ROOM,” the sign says.\\pDo you want to go through?",
+  "pt": "“SALA DA PRECISÃO”, diz a placa.\\pQuer passar?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B107",
+  "en": "“CONFUSION ROOM,” the sign says.\\pDo you want to go through?",
+  "pt": "“SALA DA CONFUSÃO”, diz a placa.\\pQuer passar?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B143",
+  "en": "“DEFENSE ROOM,” the sign says.\\pDo you want to go through?",
+  "pt": "“SALA DA DEFESA”, diz a placa.\\pQuer passar?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B17D",
+  "en": "“RECOVERY ROOM,” the sign says.\\pDo you want to go through?",
+  "pt": "“SALA DA RECUPERAÇÃO”, diz a placa.\\pQuer passar?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B1B8",
+  "en": "“STRENGTH ROOM,” the sign says.\\pDo you want to go through?",
+  "pt": "“SALA DA FORÇA”, diz a placa.\\pQuer passar?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B1F3",
+  "en": "“ONE-HIT KO ROOM,” the sign says.\\pDo you want to go through?",
+  "pt": "“SALA DO NOCAUTE DIRETO”, diz a placa.\\pQuer passar?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B230",
+  "en": "“GYM LEADER'S ROOM\\p“See for yourself what POKéMON await\\nyou!” the sign says.\\pDo you want to go through?",
+  "pt": "“SALA DO LÍDER DE GINÁSIO\\p“Veja com os próprios olhos as CAPTURAS que te aguardam!”, diz a placa.\\pQuer passar?"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B298",
+  "en": "PETALBURG CITY POKéMON GYM",
+  "pt": "GINÁSIO DE CAPTURAS DE PETALBURG CITY"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B2B3",
+  "en": "PETALBURG CITY POKéMON GYM\\pNORMAN'S CERTIFIED TRAINERS:\\n{PLAYER}",
+  "pt": "GINÁSIO DE CAPTURAS DE PETALBURG CITY\\pTREINADORES CERTIFICADOS POR NORMAN:\\n{PLAYER}"
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "024B443",
+  "en": "DAD: {PLAYER}…\\nWhat is your dream?\\pMy dream…\\nHahaha…\\lIt has already come true, actually.",
+  "pt": "PAI: {PLAYER}…\\nQual é o seu sonho?\\pO meu sonho…\\nHahaha…\\lNa verdade, ele já se realizou."
+ },
+ {
+  "map": "24.1 DAISY'S CRUISER",
+  "offset": "03238EE",
+  "en": "DAD: Hi, {PLAYER}!\\pI just received a very rare BERRY.\\nI'd like you to have it.",
+  "pt": "PAI: Oi, {PLAYER}!\\pAcabei de receber uma FRUTA muito rara. Queria que você ficasse com ela."
+ }
+]

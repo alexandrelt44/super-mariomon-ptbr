@@ -1,0 +1,67 @@
+[
+ {
+  "offset": "0887350",
+  "en": "YES",
+  "pt": "SIM",
+  "max_width": 40
+ },
+ {
+  "offset": "0887354",
+  "en": "NO",
+  "pt": "NÃO",
+  "max_width": 40
+ },
+ {
+  "offset": "082E903",
+  "en": "YES",
+  "pt": "SIM",
+  "max_width": 40
+ },
+ {
+  "offset": "082E9EC",
+  "en": "NO",
+  "pt": "NÃO",
+  "max_width": 40
+ },
+ {
+  "offset": "088B28B",
+  "en": "YES",
+  "pt": "SIM",
+  "max_width": 40
+ },
+ {
+  "offset": "088B28F",
+  "en": "NO",
+  "pt": "NÃO",
+  "max_width": 40
+ },
+ {
+  "offset": "088B30C",
+  "en": "YES",
+  "pt": "SIM",
+  "max_width": 40
+ },
+ {
+  "offset": "088B310",
+  "en": "NO",
+  "pt": "NÃO",
+  "max_width": 40
+ },
+ {
+  "offset": "03458B8",
+  "en": "So it's {PLAYER}{KUN}?",
+  "pt": "Então é {PLAYER}?"
+ },
+ {
+  "offset": "088B0FF",
+  "en": "YOUR NAME?",
+  "pt": "SEU NOME?",
+  "max_width": 75
+ },
+ {
+  "offset": "088AA91",
+  "en": "YES\\nNO",
+  "pt": "SIM\\nNÃO",
+  "max_width": 40
+ }
+]

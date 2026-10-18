@@ -1,0 +1,1576 @@
+[
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA567",
+  "en": "The front lines of POKéMON battling!\\nWelcome to the BATTLE FRONTIER!",
+  "pt": "A linha de frente das batalhas de CAPTURAS! Bem-vindo à FRONTEIRA DE BATALHA!"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA5AC",
+  "en": "For a first-time visitor, we issue\\nthe FRONTIER PASS.\\pIt's for use at all the facilities\\nin the BATTLE FRONTIER.\\pHere you are!",
+  "pt": "Para quem vem pela primeira vez, nós emitimos o PASSE DA FRONTEIRA.\\pEle serve para todas as instalações da FRONTEIRA DE BATALHA.\\pAqui está!"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA62B",
+  "en": "{PLAYER} obtained\\nthe FRONTIER PASS.",
+  "pt": "{PLAYER} obteve o PASSE DA FRONTEIRA."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA64A",
+  "en": "{PLAYER} placed the TRAINER CARD\\nin the FRONTIER PASS.",
+  "pt": "{PLAYER} colocou o CARTÃO DE TREINADOR no PASSE DA FRONTEIRA."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA67B",
+  "en": "We hope you enjoy all that the BATTLE\\nFRONTIER has to offer!",
+  "pt": "Esperamos que você aproveite tudo o que a FRONTEIRA DE BATALHA tem a oferecer!"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA6B8",
+  "en": "???: Well, if it isn't {PLAYER}{KUN}!\\nYou came out here!",
+  "pt": "???: Ora, se não é o {PLAYER}{KUN}! Você veio até aqui!"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA6E8",
+  "en": "GUIDE: Oh! MR. SCOTT, sir!\\nGood day to you, sir!",
+  "pt": "GUIA: Oh! SR. SCOTT! Muito bom dia, senhor!"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA719",
+  "en": "SCOTT: It's great to see you here,\\nit really is!\\pI hope you'll take your time and\\nexplore everywhere.\\pNaturally, I hope you'll also experience\\nthe pure essence of battling.\\pI also have my quarters here, so feel\\nfree to visit if you have time.",
+  "pt": "SCOTT: Que ótimo ver você aqui, de verdade!\\pEspero que você explore tudo com calma.\\pE, claro, espero também que você sinta a pura essência das batalhas.\\pMeus aposentos também ficam aqui, então fique à vontade para me visitar quando tiver tempo."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA80C",
+  "en": "I'm your guide to the various facilities\\nhere in the BATTLE FRONTIER.",
+  "pt": "Sou o guia das várias instalações aqui da FRONTEIRA DE BATALHA."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA852",
+  "en": "Which would you like to learn about?",
+  "pt": "Sobre qual você quer saber?"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA877",
+  "en": "It is the gigantic tower considered\\nto be the BATTLE FRONTIER's symbol.\\pThere are four kinds of BATTLE ROOMS\\nin the tower for SINGLE, DOUBLE, MULTI,\\land LINK MULTI BATTLES.",
+  "pt": "É a torre gigantesca considerada o símbolo da FRONTEIRA DE BATALHA.\\pHá quatro tipos de SALAS DE BATALHA na torre: para BATALHAS INDIVIDUAIS, DUPLAS, MÚLTIPLAS e MÚLTIPLAS EM LINK."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA924",
+  "en": "The BATTLE DOME is the large building\\nshaped like a huge egg.\\pEvents named Battle Tourneys are held\\nin this facility.\\pThe Battle Tourneys are offered in\\ntwo courses--for SINGLE and DOUBLE\\lBATTLES.",
+  "pt": "O DOMO DE BATALHA é o prédio grande com formato de um ovo enorme.\\pNessa instalação acontecem eventos chamados Torneios de Batalha.\\pOs Torneios de Batalha têm duas modalidades: BATALHAS INDIVIDUAIS e DUPLAS."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA9E9",
+  "en": "The BATTLE PALACE is the red building\\non the right of the BATTLE FRONTIER.\\pThere are two kinds of BATTLE HALLS\\nfor SINGLE and DOUBLE BATTLES.",
+  "pt": "O PALÁCIO DE BATALHA é o prédio vermelho à direita da FRONTEIRA DE BATALHA.\\pHá dois tipos de SALÕES DE BATALHA: para BATALHAS INDIVIDUAIS e DUPLAS."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AAA77",
+  "en": "The BATTLE ARENA is the dojo-like\\nbuilding at the center-right of\\lthe BATTLE FRONTIER.\\pAn event called the Set KO Tourney\\ntakes place at the BATTLE ARENA.",
+  "pt": "A ARENA DE BATALHA é o prédio parecido com um dojo, no centro-direita da FRONTEIRA DE BATALHA.\\pNa ARENA DE BATALHA acontece um evento chamado Torneio de Nocaute."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AAB12",
+  "en": "The BATTLE FACTORY is the large\\nbuilding that is the closest to us.\\pAn event called the Battle Swap\\nis conducted there.\\pThe Battle Swap event is offered in\\ntwo courses for SINGLE and DOUBLE\\lBATTLES.",
+  "pt": "A FÁBRICA DE BATALHA é o prédio grande mais perto daqui.\\pLá acontece um evento chamado Troca de Batalha.\\pA Troca de Batalha tem duas modalidades: BATALHAS INDIVIDUAIS e DUPLAS."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AABD9",
+  "en": "The BATTLE PIKE is the building shaped\\nlike a POKéMON at the center-left of\\lthe BATTLE FRONTIER.\\pAn event called the Battle Choice\\nis conducted there.",
+  "pt": "A TRILHA DE BATALHA é o prédio com formato de CAPTURA, no centro-esquerda da FRONTEIRA DE BATALHA.\\pLá acontece um evento chamado Escolha de Batalha."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AAC70",
+  "en": "The BATTLE PYRAMID is the enormous\\npyramid.\\pAn event called the Battle Quest\\nis conducted there.",
+  "pt": "A PIRÂMIDE DE BATALHA é aquela pirâmide enorme.\\pLá acontece um evento chamado Missão de Batalha."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AACD1",
+  "en": "The RANKING HALL is located near\\nthe BATTLE TOWER.\\pThere, you may see the most fantastic\\nrecords left by the TRAINERS that\\ltook on the many challenges of\\lthe BATTLE FRONTIER.",
+  "pt": "O SALÃO DO RANKING fica perto da TORRE DE BATALHA.\\pLá você pode ver os recordes mais fantásticos deixados pelos TREINADORES que encararam os muitos desafios da FRONTEIRA DE BATALHA."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AAD80",
+  "en": "The EXCHANGE SERVICE CORNER is near\\nthe BATTLE TOWER.\\pThe Battle Points you have earned in\\nthe BATTLE FRONTIER may be exchanged\\lfor fabulous prizes there.",
+  "pt": "O BALCÃO DE TROCAS fica perto da TORRE DE BATALHA.\\pLá, os Pontos de Batalha que você ganhar na FRONTEIRA DE BATALHA podem ser trocados por prêmios fabulosos."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AAE1B",
+  "en": "I'm your guide to the basic rules that\\nare common to all the challenges\\loffered by the facilities in the BATTLE\\lFRONTIER.",
+  "pt": "Sou o guia das regras básicas, comuns a todos os desafios oferecidos pelas instalações da FRONTEIRA DE BATALHA."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AAE95",
+  "en": "What would you like to learn about?",
+  "pt": "Sobre o que você quer saber?"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AAEB9",
+  "en": "All the challenges at the BATTLE\\nFRONTIER's facilities come in\\ltwo courses--Level 50 and Open Level.",
+  "pt": "Todos os desafios das instalações da FRONTEIRA DE BATALHA têm duas modalidades: Nível 50 e Nível Livre."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AAF1E",
+  "en": "The Level 50 course is open to POKéMON\\nup to and including Level 50.\\pPlease keep in mind, however, that\\nno TRAINER you face will have any\\lPOKéMON below Level 50.\\pThis course is the entry level for\\nbattles at the BATTLE FRONTIER.\\pTo begin, we hope you will challenge\\nthis course.",
+  "pt": "A modalidade Nível 50 é aberta a CAPTURAS de até Nível 50.\\pMas lembre-se de que nenhum TREINADOR que você enfrentar terá CAPTURAS abaixo do Nível 50.\\pEssa é a modalidade de entrada para as batalhas da FRONTEIRA DE BATALHA.\\pPara começar, recomendamos que você encare essa modalidade."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AB035",
+  "en": "The Open Level course places no limit\\non the levels of POKéMON entering\\lchallenges.\\pThe levels of your opponents will\\nbe adjusted to match the levels of\\lyour POKéMON.\\pHowever, no TRAINER you face will\\nhave any POKéMON below Level 60.",
+  "pt": "A modalidade Nível Livre não impõe limite ao nível das CAPTURAS que participam dos desafios.\\pO nível dos seus adversários será ajustado ao nível das suas CAPTURAS.\\pMas nenhum TREINADOR que você enfrentar terá CAPTURAS abaixo do Nível 60."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AB11F",
+  "en": "Virtually any kind of POKéMON may take\\non the challenges at all facilities.\\pEGGS and certain kinds of POKéMON,\\nhowever, are not permitted.\\pThe numbers of POKéMON required for\\nchallenges will depend on the facility.\\pAt all facilities, however, two or more\\nof the same kind of POKéMON are not\\lpermitted.",
+  "pt": "Praticamente qualquer CAPTURA pode encarar os desafios de todas as instalações.\\pMas OVOS e certos tipos de CAPTURAS não são permitidos.\\pO número de CAPTURAS exigido para os desafios depende da instalação.\\pEm todas as instalações, porém, não são permitidas duas ou mais CAPTURAS da mesma espécie."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AB24D",
+  "en": "When entering a challenge at a BATTLE\\nFRONTIER facility, POKéMON may not\\lbe holding the same kind of item.\\pPlease make sure that all POKéMON\\nentering a challenge are holding\\ldifferent items.",
+  "pt": "Ao entrar num desafio de uma instalação da FRONTEIRA DE BATALHA, as CAPTURAS não podem segurar itens iguais.\\pVerifique se todas as CAPTURAS do desafio estão segurando itens diferentes."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AB30C",
+  "en": "I'm your guide to the FRONTIER PASS.",
+  "pt": "Sou o guia do PASSE DA FRONTEIRA."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AB331",
+  "en": "Which would you like to learn about?",
+  "pt": "Sobre qual você quer saber?"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AB356",
+  "en": "There are seven facilities at\\nthe BATTLE FRONTIER.\\pTRAINERS who gain recognition for\\ntheir abilities may be rewarded with\\lsymbols from each of the facilities.\\pTo earn a symbol, TRAINERS may need\\nto defeat other TRAINERS in a row,\\land may need to win events repeatedly.\\pIt's certainly not easy to win symbols.\\nI wish you the best of luck!",
+  "pt": "Há sete instalações na FRONTEIRA DE BATALHA.\\pOs TREINADORES reconhecidos pelas suas habilidades podem ganhar os símbolos de cada instalação.\\pPara ganhar um símbolo, talvez seja preciso derrotar vários TREINADORES seguidos ou vencer eventos várias vezes.\\pNão é nada fácil ganhar símbolos. Desejo muita sorte a você!"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AB4A8",
+  "en": "It is possible to record one battle\\non your FRONTIER PASS.\\pYou may record a battle you had with\\na friend or friends.\\pOr you may record a battle conducted\\nat the BATTLE FRONTIER excluding\\lmatches at the BATTLE PIKE or\\lthe BATTLE PYRAMID.\\pYou may choose to record your match\\nat the end of a battle.",
+  "pt": "É possível gravar uma batalha no seu PASSE DA FRONTEIRA.\\pVocê pode gravar uma batalha que teve com um ou mais amigos.\\pOu pode gravar uma batalha disputada na FRONTEIRA DE BATALHA, exceto as da TRILHA DE BATALHA e da PIRÂMIDE DE BATALHA.\\pVocê pode escolher gravar a sua luta no fim de uma batalha."
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AB5D1",
+  "en": "Battle Points are rewards given to\\nTRAINERS who battled outstandingly\\lat the BATTLE FRONTIER.\\pYou may trade in your Battle Points\\nfor prizes at the EXCHANGE SERVICE\\lCORNER.",
+  "pt": "Os Pontos de Batalha são recompensas dadas aos TREINADORES que se destacaram nas batalhas da FRONTEIRA DE BATALHA.\\pVocê pode trocar os seus Pontos de Batalha por prêmios no BALCÃO DE TROCAS."
+ },
+ {
+  "map": "42.51 NEW DONK CITY",
+  "offset": "02AB751",
+  "en": "Do you know about the FRONTIER\\nBRAINS?\\pThat's what SCOTT calls the seven\\nspecial TRAINERS that run the seven\\lfacilities in the BATTLE FRONTIER.",
+  "pt": "Você conhece os CÉREBROS DA FRONTEIRA?\\pÉ assim que o SCOTT chama os sete TREINADORES especiais que comandam as sete instalações da FRONTEIRA DE BATALHA."
+ },
+ {
+  "map": "42.51 NEW DONK CITY",
+  "offset": "02AB7E1",
+  "en": "At the BATTLE TOWER, an older girl\\ntold me that I have a lot of talent\\lfor battling!\\pI like POKéMON CONTESTS more!\\pBut I'm no good at CONTESTS!\\pI guess having talent and liking\\nsomething aren't the same.",
+  "pt": "Na TORRE DE BATALHA, uma moça mais velha me disse que eu tenho muito talento pra batalhar!\\pMas eu gosto mais de CONCURSOS de CAPTURAS!\\pSó que eu mando muito mal nos CONCURSOS!\\pAcho que ter talento e gostar de uma coisa não são a mesma coisa."
+ },
+ {
+  "map": "42.53 NEW DONK CITY",
+  "offset": "02AB9A0",
+  "en": "Okay! Next stop, the BATTLE ARENA!\\nI'd better get the right POKéMON from\\lthe PC Storage System.",
+  "pt": "Certo! Próxima parada: ARENA DE BATALHA! É melhor eu pegar as CAPTURAS certas no Sistema de Armazenamento do PC."
+ },
+ {
+  "map": "42.53 NEW DONK CITY",
+  "offset": "02ABA00",
+  "en": "Giggle… I'm going to go through every\\nchallenge with just this baby!",
+  "pt": "Hihi… Vou encarar todos os desafios só com este bebê aqui!"
+ },
+ {
+  "map": "42.53 NEW DONK CITY",
+  "offset": "02ABA45",
+  "en": "SKITTY: Mya myaaah!",
+  "pt": "SKITTY: Miá miaaau!"
+ },
+ {
+  "map": "42.55 NEW DONK CITY",
+  "offset": "02ABB43",
+  "en": "Dear, what do you think of this?\\nWouldn't this make a nice gift?\\pIt's…PRO…TE…IN?\\nIt sounds delicious, doesn't it?",
+  "pt": "Querido, o que acha disto? Não seria um ótimo presente?\\pÉ… PRO…TE…Í…NA? Parece delicioso, não acha?"
+ },
+ {
+  "map": "42.55 NEW DONK CITY",
+  "offset": "02ABBB5",
+  "en": "A lot of the BATTLE FRONTIER's\\nfacilities don't allow the use of items\\lduring battles.\\pThat rule makes things tougher than\\nthey already are!",
+  "pt": "Muitas instalações da FRONTEIRA DE BATALHA não permitem usar itens durante as batalhas.\\pEssa regra deixa tudo ainda mais difícil do que já é!"
+ },
+ {
+  "map": "42.56 FARAWAY ISLAND",
+  "offset": "034372A",
+  "en": "CAPT. BRINEY can be so maddeningly\\nfickle…\\pDo you want to return to LILYCOVE?",
+  "pt": "O CAPT. BRINEY consegue ser tão irritantemente inconstante…\\pVocê quer voltar para LILYCOVE?"
+ },
+ {
+  "map": "42.56 FARAWAY ISLAND",
+  "offset": "0343942",
+  "en": "The writing is fading as if it was\\nwritten a long time ago…\\p“…ber, 6th day\\nIf any human…sets foot here…\\lagain…et it be a kindhearted pers…\\l…ith that hope, I depar…”",
+  "pt": "A escrita está desbotada, como se tivesse sido feita há muito tempo…\\p“…bro, dia 6. Se algum humano… pisar aqui… de novo… que seja uma pessoa de bom cora… …om essa esperança, eu par…”"
+ },
+ {
+  "map": "42.57 FARAWAY ISLAND",
+  "offset": "03439E7",
+  "en": "Myuu…",
+  "pt": "Myuu…"
+ },
+ {
+  "map": "42.59 BIRTH ISLAND",
+  "offset": "0343778",
+  "en": "What an oddly shaped island, eh?\\nDo you want to return to LILYCOVE?",
+  "pt": "Que ilha com um formato estranho, hein? Você quer voltar para LILYCOVE?"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC3E4",
+  "en": "This is the TRAINER HILL where\\nyou may enjoy tag battles with many\\lTRAINERS.\\pUnfortunately, we're still getting\\nthings ready. Please come back later!",
+  "pt": "Esta é a COLINA DOS TREINADORES, onde você pode curtir batalhas em dupla com muitos TREINADORES.\\pInfelizmente, ainda estamos preparando tudo. Por favor, volte mais tarde!"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC47A",
+  "en": "Welcome!\\pThis is the TRAINER HILL where\\nyou may enjoy tag battles with many\\lTRAINERS!",
+  "pt": "Bem-vindo!\\pEsta é a COLINA DOS TREINADORES, onde você pode curtir batalhas em dupla com muitos TREINADORES!"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC4D0",
+  "en": "Is this your first visit here?\\pBefore you enter, please save\\nyour game.",
+  "pt": "É a sua primeira visita?\\pAntes de entrar, por favor, salve o jogo."
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC518",
+  "en": "Let's see…\\nThe TRAINERS here now are…\\pUp to floor no. {STR_VAR_1}.",
+  "pt": "Vejamos… Os TREINADORES que estão aqui agora vão…\\pAté o andar {STR_VAR_1}."
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC552",
+  "en": "Let's see…\\nThe TRAINERS here now are…\\pThere appear to be TRAINERS gathered\\nin every room.",
+  "pt": "Vejamos… Os TREINADORES que estão aqui agora vão…\\pParece que há TREINADORES reunidos em todas as salas."
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC5AC",
+  "en": "Would you like to challenge the\\nwaiting TRAINERS?",
+  "pt": "Você gostaria de desafiar os TREINADORES que estão esperando?"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC5DE",
+  "en": "I will time your progress.\\nBest of luck!\\pOn your marks…\\pGet set…\\pGo!",
+  "pt": "Vou cronometrar o seu progresso. Boa sorte!\\pEm suas marcas…\\pPreparar…\\pJá!"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC623",
+  "en": "Please do visit us again!",
+  "pt": "Volte sempre!"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC63D",
+  "en": "That was too bad.\\pI think you put in a tremendous\\neffort in your battling.\\pPlease come back and try again!",
+  "pt": "Que pena.\\pAcho que você se esforçou muito nas batalhas.\\pPor favor, volte e tente de novo!"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC6A8",
+  "en": "I hope you give it your best.",
+  "pt": "Espero que você dê o seu melhor."
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC6C6",
+  "en": "When the TRAINERS switch places,\\nthe movement can be hectic.\\pTo avoid the stampede, we moved\\nthe reception counter here.\\pI'm sorry for the inconvenience.",
+  "pt": "Quando os TREINADORES trocam de lugar, a movimentação fica caótica.\\pPara evitar o tumulto, mudamos o balcão da recepção para cá.\\pDesculpe o incômodo."
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC760",
+  "en": "Thank you for playing!",
+  "pt": "Obrigado por jogar!"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02AC777",
+  "en": "Here at the TRAINER HILL, we conduct\\nan event called the Time Attack.\\pIt is a race that measures how long\\nyou take to reach our owner on\\lthe rooftop from this counter.\\pThe fastest times are posted on\\nthe Time Board--try competing with\\lyour friends.\\pIn TRAINER battles along the way,\\nneither Exp. Points nor money will\\lbe awarded.",
+  "pt": "Aqui na COLINA DOS TREINADORES, organizamos um evento chamado Contra o Relógio.\\pÉ uma corrida que mede quanto tempo você leva deste balcão até o nosso dono, lá no terraço.\\pOs melhores tempos ficam no Placar de Tempos. Tente competir com os seus amigos.\\pNas batalhas contra TREINADORES pelo caminho, você não ganha Pontos de Exp. nem dinheiro."
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02ACD0E",
+  "en": "Who knows what sort of TRAINERS\\nand POKéMON combos are ahead?\\pAll I know is that I'll knock aside\\nanyone that stands in my way!",
+  "pt": "Quem sabe que combinações de TREINADORES e CAPTURAS vêm pela frente?\\pSó sei que vou tirar do caminho qualquer um que ficar na minha frente!"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02ACD8E",
+  "en": "I heard tough TRAINERS come to this\\nTRAINER HILL from all over.\\pI can't wait to test the waters!\\pI'll knock aside anyone that stands\\nin my way!",
+  "pt": "Ouvi dizer que TREINADORES fortes do mundo todo vêm pra esta COLINA DOS TREINADORES.\\pMal posso esperar pra testar as águas!\\pVou tirar do caminho qualquer um que ficar na minha frente!"
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02ACE1E",
+  "en": "Do you see the Time Board over there?\\pMy friends and I are trying to see who\\ncan reach the top in the least time.",
+  "pt": "Tá vendo o Placar de Tempos ali?\\pEu e os meus amigos estamos vendo quem chega ao topo no menor tempo."
+ },
+ {
+  "map": "42.60 TRAINER HILL",
+  "offset": "02ACE90",
+  "en": "Do you know when they're opening\\nthis place up?\\pI'm waiting here to be the first\\nchallenger ever!",
+  "pt": "Você sabe quando vão abrir este lugar?\\pEstou esperando aqui pra ser a primeira pessoa a desafiar!"
+ },
+ {
+  "map": "42.65 TRAINER HILL",
+  "offset": "02AC93A",
+  "en": "Hm! Hm!\\pYou finally came!\\nYes, you have arrived!\\pWait! Don't say it!\\nI know why you came all the way\\lhere by yourself!\\pYou wanted to see me, the owner\\nof the TRAINER HILL, because…\\pYou want to form a tag team with me!\\nWa-hoo!\\p…Uh?\\nThat's not it?\\pAnyway, I watched you on your way up.\\nMarvelous battling! Bravo, indeed!",
+  "pt": "Hm! Hm!\\pVocê finalmente veio! Sim, você chegou!\\pEspere! Não diga nada! Eu sei por que você veio sozinho até aqui!\\pVocê queria me ver, o dono da COLINA DOS TREINADORES, porque…\\pVocê quer formar uma dupla comigo! Wa-hoo!\\p…Hã? Não é isso?\\pEnfim, eu vi você na subida. Batalhas maravilhosas! Bravo, de verdade!"
+ },
+ {
+  "map": "42.65 TRAINER HILL",
+  "offset": "02ACA79",
+  "en": "For a marvelous someone like you,\\nI have the most marvelous gift!",
+  "pt": "Para alguém maravilhoso como você, tenho o presente mais maravilhoso!"
+ },
+ {
+  "map": "42.65 TRAINER HILL",
+  "offset": "02ACABB",
+  "en": "Oh, no, full up with things!\\nYou'll be back later for this!",
+  "pt": "Ah, não, você está lotado de coisas! Volte depois para buscar isto!"
+ },
+ {
+  "map": "42.65 TRAINER HILL",
+  "offset": "02ACAF7",
+  "en": "Oh, hold on here! Did you possibly get\\nhere marvelously quickly?\\pHow splendid! You needn't have\\nhurried so to see me!\\pThat is so delightful. I'll have the Time\\nBoard at the reception updated!",
+  "pt": "Ah, espere aí! Será que você chegou aqui maravilhosamente rápido?\\pQue esplêndido! Não precisava ter tanta pressa para me ver!\\pIsso me deixa tão contente. Vou mandar atualizar o Placar de Tempos da recepção!"
+ },
+ {
+  "map": "42.65 TRAINER HILL",
+  "offset": "02ACBB7",
+  "en": "But, oh…\\nYou weren't very quick getting here.",
+  "pt": "Mas, ah… Você não foi muito rápido para chegar aqui."
+ },
+ {
+  "map": "42.65 TRAINER HILL",
+  "offset": "02ACBE5",
+  "en": "Perhaps it would please me more if you\\narrived zippier next time.\\pThen, I should be pleased to form\\na tag team with you!\\pUntil we meet again, amigo!",
+  "pt": "Talvez me agradasse mais se você chegasse mais ligeiro da próxima vez.\\pAí, eu ficaria feliz em formar uma dupla com você!\\pAté a próxima, amigo!"
+ },
+ {
+  "map": "42.67 NAVEL ROCK",
+  "offset": "03438CE",
+  "en": "Did… Did you hear that?\\nThat low growling from deep in there.\\pAre you sure it's safe?\\nDo you think we should leave?",
+  "pt": "Vo… Você ouviu isso? Aquele rosnado baixo lá do fundo.\\pTem certeza de que é seguro? Acha que a gente devia ir embora?"
+ },
+ {
+  "map": "42.88 TRAINER HILL",
+  "offset": "02ACEF2",
+  "en": "Would you like to return to\\nthe reception counter?",
+  "pt": "Você gostaria de voltar ao balcão da recepção?"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD5E9",
+  "en": "Show me some hot matches!\\pI run this SEASHORE HOUSE just for\\nthat reason alone!",
+  "pt": "Me mostre umas batalhas quentes!\\pEu cuido desta CASA DE PRAIA só por esse motivo!"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD639",
+  "en": "You're scorching hot!\\nThose battles blazed!\\lI'm more than just satisfied!\\pAs thanks for showing me your hot\\nstreak, I want you to take these.\\pIt's half a dozen bottles of SODA POP!",
+  "pt": "Você está pegando fogo! Essas batalhas foram escaldantes! Estou mais do que satisfeito!\\pComo agradecimento por mostrar essa sua fase quente, quero que você leve isto.\\pÉ meia dúzia de garrafas de REFRIGERANTE!"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD6EE",
+  "en": "Oh, but hey, your BAG's jammed full.\\nI'll hang on to these for you.",
+  "pt": "Ah, mas ei, a sua BOLSA está lotada. Eu guardo isto pra você."
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD732",
+  "en": "Want to buy some SODA POP?\\nPOKéMON love it!\\pJust ¥300 a bottle!\\nBuy some!",
+  "pt": "Quer comprar REFRIGERANTE? As CAPTURAS adoram!\\pSó ¥300 a garrafa! Compre umas!"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD77C",
+  "en": "Here you go!",
+  "pt": "Aqui está!"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD789",
+  "en": "You don't have the money.",
+  "pt": "Você não tem dinheiro suficiente."
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD7A3",
+  "en": "No?\\nThat's too bad.",
+  "pt": "Não? Que pena."
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD7B7",
+  "en": "If you're looking for a battle in the\\nSEASHORE HOUSE, you'll find no\\lhotter TRAINER than me, matey!",
+  "pt": "Se você procura uma batalha na CASA DE PRAIA, não vai achar TREINADOR mais quente do que eu, marujo!"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD81B",
+  "en": "That was a hot battle!\\nI can accept that loss, matey!",
+  "pt": "Foi uma batalha quente! Eu aceito essa derrota, marujo!"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD851",
+  "en": "Whenever I'm in SLATEPORT, I enjoy\\nhot battles and ice-cold SODA POP!",
+  "pt": "Sempre que estou em SLATEPORT, curto batalhas quentes e REFRIGERANTE geladinho!"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD907",
+  "en": "Whew, I'm all thirsty.\\nMaybe I'll have a SODA POP.",
+  "pt": "Ufa, que sede. Acho que vou tomar um REFRIGERANTE."
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD993",
+  "en": "If one of my POKéMON knew the move\\nfor carrying me across water on its\\lback, I could get rid of this inner tube.",
+  "pt": "Se uma das minhas CAPTURAS soubesse o golpe que me leva nas costas pela água, eu podia me livrar desta boia."
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE428",
+  "en": "You're being watched…",
+  "pt": "Você está sendo observado…"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE43E",
+  "en": "Hah? Grrr…\\pHow did you know I concealed myself\\nbeneath this desk? You're sharp!",
+  "pt": "Hã? Grrr…\\pComo você sabia que eu estava escondido debaixo desta mesa? Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE48E",
+  "en": "Hah? Grrr…\\pHow did you know I concealed myself\\nbehind this tree? You're sharp!",
+  "pt": "Hã? Grrr…\\pComo você sabia que eu estava escondido atrás desta árvore? Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE4DD",
+  "en": "Hah? Grrr…\\pHow did you know I concealed myself\\nin this dresser? You're sharp!",
+  "pt": "Hã? Grrr…\\pComo você sabia que eu estava escondido nesta cômoda? Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE52B",
+  "en": "Hah? Grrr…\\pHow did you know I concealed myself\\nbeyond this window? You're sharp!",
+  "pt": "Hã? Grrr…\\pComo você sabia que eu estava escondido do outro lado desta janela? Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE57C",
+  "en": "Hah? Grrr…\\pHow did you know I concealed myself\\nin this planter? You're sharp!",
+  "pt": "Hã? Grrr…\\pComo você sabia que eu estava escondido neste vaso de plantas? Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE5CA",
+  "en": "Hah? Grrr…\\pHow did you know I concealed myself\\nin this cupboard? You're sharp!",
+  "pt": "Hã? Grrr…\\pComo você sabia que eu estava escondido neste armário? Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE619",
+  "en": "Hah? Grrr…\\pHow did you know I concealed myself\\nbehind this window? You're sharp!",
+  "pt": "Hã? Grrr…\\pComo você sabia que eu estava escondido atrás desta janela? Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE66A",
+  "en": "Hah? Grrr…\\pHow did you know I concealed myself\\nbeneath this cushion? You're sharp!",
+  "pt": "Hã? Grrr…\\pComo você sabia que eu estava escondido debaixo desta almofada? Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE6BD",
+  "en": "Behold!\\pFor I am the greatest living mystery\\nof a man in all of HOENN!\\lThey call me…\\pThe TRICK MASTER!\\nWahahaha! Glad to meet you!",
+  "pt": "Contemple!\\pPois eu sou o maior mistério vivo em forma de homem de toda HOENN! Me chamam de…\\pO MESTRE DOS TRUQUES! Wahahaha! Prazer em conhecê-lo!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE740",
+  "en": "You, you've come to challenge\\nmy TRICK HOUSE, haven't you?\\pThat's why you're here, isn't it?\\nYes, it is!\\pConsider your challenge accepted!\\pEnter through the scroll there,\\nand let your challenge commence!\\pI shall be waiting in the back!",
+  "pt": "Você, você veio desafiar a minha CASA DOS TRUQUES, não veio?\\pÉ por isso que está aqui, não é? Sim, é!\\pConsidere o seu desafio aceito!\\pEntre pelo pergaminho ali e que o seu desafio comece!\\pEstarei esperando lá no fundo!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE82C",
+  "en": "It's a scroll.",
+  "pt": "É um pergaminho."
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE83B",
+  "en": "There is a big hole behind the scroll!\\pWant to go in?",
+  "pt": "Há um buraco enorme atrás do pergaminho!\\pQuer entrar?"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE871",
+  "en": "There is a note affixed to the scroll…\\p“I am leaving on a journey.\\nDon't look for me. TRICK MASTER”",
+  "pt": "Há um bilhete preso no pergaminho…\\p“Vou sair em viagem. Não me procure. MESTRE DOS TRUQUES”"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE8D5",
+  "en": "For the next time, I'll use this trick,\\nand that scheme, and those ruses…\\pMufufufu… If I may say so, it's\\nbrilliantly difficult, even for me!",
+  "pt": "Na próxima vez, vou usar este truque, e aquele esquema, e aquelas artimanhas…\\pMufufufu… Se me permite dizer, é brilhantemente difícil, até para mim!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AE963",
+  "en": "Hah? What?!\\nOh, it's you!\\pI'm in the midst of devising new tricky\\nchallenges!\\pIt's not too much to ask for a bit more\\ntime for me to think, is it now?\\lYou wouldn't begrudge me that?\\lCome back in a little while!",
+  "pt": "Hã? O quê?! Ah, é você!\\pEstou bolando novos desafios cheios de truques!\\pNão é pedir demais um pouquinho mais de tempo para eu pensar, é? Você não me negaria isso, negaria? Volte daqui a pouco!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEA36",
+  "en": "Ah, it's you! You're here to accept the\\nreward from before, isn't that right?\\lYes, right I am!\\pHere!\\nI'll give it to you now!",
+  "pt": "Ah, é você! Veio receber a recompensa de antes, não é isso? Sim, é isso mesmo!\\pAqui! Vou te dar agora!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEAB4",
+  "en": "Hah?\\nDid you not come to claim your reward?",
+  "pt": "Hã? Você não veio buscar a sua recompensa?"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEAE0",
+  "en": "MECHADOLL 5 I AM!\\nIF REWARD IS NOT TAKEN BY YOU,\\lTHEN TRICK MASTER YOU CANNOT FOLLOW.\\pRED TENT OR BLUE TENT,\\nWHICH DO YOU PREFER?",
+  "pt": "MECABONECO 5 EU SOU! SE A RECOMPENSA VOCÊ NÃO PEGAR, O MESTRE DOS TRUQUES SEGUIR NÃO PODERÁ.\\pTENDA VERMELHA OU TENDA AZUL, QUAL VOCÊ PREFERE?"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEB62",
+  "en": "THEN FAREWELL.",
+  "pt": "ENTÃO, ADEUS.",
+  "max_width": 84
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEB71",
+  "en": "YOUR PC STATUS: FULL AGAIN.\\nMEAN, YOU ARE.",
+  "pt": "STATUS DO SEU PC: CHEIO DE NOVO. MALVADO, VOCÊ É."
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEB9C",
+  "en": "{PLAYER} found a scroll.",
+  "pt": "{PLAYER} encontrou um pergaminho."
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEBAF",
+  "en": "{PLAYER} memorized the secret code\\nwritten on the scroll.",
+  "pt": "{PLAYER} memorizou o código secreto escrito no pergaminho."
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEBE3",
+  "en": "A secret code is written on it.",
+  "pt": "Há um código secreto escrito nele."
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AEC03",
+  "en": "The door is locked.\\p…On closer inspection, this is written\\non it: “Write the secret code here.”",
+  "pt": "A porta está trancada.\\p…Olhando bem, há isto escrito nela: “Escreva o código secreto aqui.”"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02B1614",
+  "en": "{PLAYER} wrote down the secret code\\non the door.\\p“TRICK MASTER is a genius.”\\n… … … … … … … …\\pThe lock clicked open!",
+  "pt": "{PLAYER} escreveu o código secreto na porta.\\p“O MESTRE DOS TRUQUES é um gênio.”\\n… … … … … … … …\\pA fechadura se abriu com um clique!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02B2818",
+  "en": "{PLAYER} wrote down the secret code\\non the door.\\p“TRICK MASTER I love.”\\n… … … … … … … …\\pThe lock clicked open!",
+  "pt": "{PLAYER} escreveu o código secreto na porta.\\p“O MESTRE DOS TRUQUES eu amo.”\\n… … … … … … … …\\pA fechadura se abriu com um clique!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF070",
+  "en": "It took me all night to plant all those\\ntrees…\\pYou're almost my equal in greatness by\\none, two, three, four, five, six places!",
+  "pt": "Levei a noite inteira para plantar todas aquelas árvores…\\pVocê está a um, dois, três, quatro, cinco, seis passos de se igualar à minha grandeza!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF0EF",
+  "en": "It took me all night to make the maze…\\pYou're almost my equal in greatness by\\none, two, three, four, five places!",
+  "pt": "Levei a noite inteira para fazer o labirinto…\\pVocê está a um, dois, três, quatro, cinco passos de se igualar à minha grandeza!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF161",
+  "en": "It took me all night to prepare\\nthe wall panels…\\pYou're almost my equal in greatness by\\none, two, three, four places!",
+  "pt": "Levei a noite inteira para preparar os painéis das paredes…\\pVocê está a um, dois, três, quatro passos de se igualar à minha grandeza!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF1D7",
+  "en": "It took me all night to shove in those\\nboulders…\\pYou're almost my equal in greatness by\\none, two, three places!",
+  "pt": "Levei a noite inteira para empurrar aquelas rochas para o lugar…\\pVocê está a um, dois, três passos de se igualar à minha grandeza!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF247",
+  "en": "It took me all night to make MECHADOLLS\\nand another to think up the quiz…\\pYou're almost my equal in greatness by\\none, two places!",
+  "pt": "Levei uma noite inteira para fazer os MECABONECOS e outra para bolar o quiz…\\pVocê está a um, dois passos de se igualar à minha grandeza!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF2C9",
+  "en": "It took me all night to install\\nthe doors…\\pYou're almost my equal in greatness!",
+  "pt": "Levei a noite inteira para instalar as portas…\\pVocê está quase à altura da minha grandeza!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF319",
+  "en": "It took me all night setting up arrows…\\pYou're my equal in greatness!",
+  "pt": "Levei a noite inteira montando as setas…\\pVocê está à altura da minha grandeza!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF35F",
+  "en": "It took me all night polishing floors…\\pYou're above me in greatness!\\nPossibly…",
+  "pt": "Levei a noite inteira polindo o chão…\\pVocê está acima de mim em grandeza! Talvez…"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF3AE",
+  "en": "Wh-what should I do?\\nMy fountain of ideas for tricks has\\lrun dry…\\pPerhaps it is time I toured the country\\non a quest to devise new tricks…",
+  "pt": "O-o que eu faço? A minha fonte de ideias para truques secou…\\pTalvez seja a hora de rodar o país numa missão para criar novos truques…"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF439",
+  "en": "I hate to admit defeat, but you have\\nbested me!\\pStill, you must have been reeled in by\\nmy charisma for you to visit me again\\land again. Yes, you must have!\\pBut that has nothing to do with my\\nlosing!\\pIn recognition of the friendship\\nbetween you, the driven, and the genius\\lthat is myself, I demand that you take\\lthis keepsake!\\pActually there are two--\\na RED TENT and a BLUE TENT.\\lWhich do you prefer?",
+  "pt": "Odeio admitir a derrota, mas você me superou!\\pAinda assim, você deve ter sido fisgado pelo meu carisma para me visitar de novo e de novo. Sim, deve ter sido!\\pMas isso não tem nada a ver com a minha derrota!\\pEm reconhecimento à amizade entre você, o determinado, e o gênio que sou eu, exijo que você aceite esta lembrança!\\pNa verdade, são duas: uma TENDA VERMELHA e uma TENDA AZUL. Qual você prefere?"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF5C9",
+  "en": "What? No room in your PC?\\nWhat am I to make of that?\\pI wish I could say that, but I am much\\ntoo kind and caring, so come back later!",
+  "pt": "O quê? Sem espaço no seu PC? Que absurdo é esse?\\pBem que eu queria reclamar, mas sou bondoso e atencioso demais, então volte mais tarde!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF64E",
+  "en": "… … … … … …\\pI am leaving on a journey of discovery.\\nA quest in search of new tricks.\\pI wish that you will one day visit and\\nentertain me again.\\pAnd now, farewell!",
+  "pt": "… … … … … …\\pVou partir numa jornada de descobertas. Uma missão em busca de novos truques.\\pEspero que um dia você me visite e me divirta de novo.\\pE agora, adeus!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF6F1",
+  "en": "Fine!\\nYou have earned this reward!",
+  "pt": "Muito bem! Você mereceu esta recompensa!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF714",
+  "en": "What? Have you no room for this?\\nWhat manner of items do you carry?\\pBut fine, since you've reached me,\\nyour reward will be with me till later.",
+  "pt": "O quê? Você não tem espaço para isto? Que tipo de itens você carrega?\\pMas tudo bem, já que você chegou até mim, a sua recompensa fica comigo até mais tarde."
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF7A3",
+  "en": "Scrub that smug smirk from your face!\\nIt's much too early to think you've won!\\pI'll make new tricks to stump you, I will.\\nYou may mock me only when you're done.\\pCome back for the next exciting\\ninstallment!",
+  "pt": "Tire esse sorrisinho convencido da cara! É cedo demais para cantar vitória!\\pVou criar novos truques para te deixar sem saída, ah, se vou. Só zombe de mim quando tudo acabar.\\pVolte para o próximo episódio emocionante!"
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF871",
+  "en": "Now, now! You're ignoring me now?\\nNow that, I consider heartbreaking!",
+  "pt": "Ora, ora! Agora você vai me ignorar? Isso, eu considero de partir o coração!"
+ },
+ {
+  "map": "45.3 B. CASTLE 1F",
+  "offset": "02AFA0B",
+  "en": "I never get tired of hacking\\nand slashing!",
+  "pt": "Nunca me canso de cortar e picar tudo!"
+ },
+ {
+  "map": "45.3 B. CASTLE 1F",
+  "offset": "02AFA77",
+  "en": "I lost my way, I lost a battle, and I'm\\nnow even more lost… I can't get out…",
+  "pt": "Perdi o caminho, perdi uma batalha e agora estou mais sem rumo ainda… Não consigo sair…"
+ },
+ {
+  "map": "45.3 B. CASTLE 1F",
+  "offset": "02AFAC4",
+  "en": "Just who is the TRICK MASTER?",
+  "pt": "Afinal, quem é o MESTRE DOS TRUQUES?"
+ },
+ {
+  "map": "45.3 B. CASTLE 1F",
+  "offset": "02AFAE2",
+  "en": "I lost while I was lost in thought!",
+  "pt": "Perdi enquanto viajava nos meus pensamentos!"
+ },
+ {
+  "map": "45.3 B. CASTLE 1F",
+  "offset": "02AFB06",
+  "en": "You're strong!\\nJust who are you?",
+  "pt": "Você é forte! Afinal, quem é você?"
+ },
+ {
+  "map": "45.4 B. CASTLE 1F",
+  "offset": "02AFD24",
+  "en": "Can I get you to push all the buttons\\nfor me?",
+  "pt": "Posso pedir pra você apertar todos os botões por mim?"
+ },
+ {
+  "map": "45.4 B. CASTLE 1F",
+  "offset": "02AFDA0",
+  "en": "The TRICK MASTER rigged all the tricks\\nin this house all by himself.",
+  "pt": "O MESTRE DOS TRUQUES montou sozinho todos os truques desta casa."
+ },
+ {
+  "map": "45.4 B. CASTLE 1F",
+  "offset": "02AFE4B",
+  "en": "You're strong, aren't you?\\nMaybe even enough to be a GYM LEADER!",
+  "pt": "Você é forte, não é? Talvez até o bastante pra ser um LÍDER DE GINÁSIO!"
+ },
+ {
+  "map": "45.5 B. CASTLE 1F",
+  "offset": "02B069A",
+  "en": "It's full of doors here!\\nIt's too small and dark in here! Help!",
+  "pt": "Aqui tá cheio de portas! É apertado e escuro demais aqui! Socorro!"
+ },
+ {
+  "map": "45.5 B. CASTLE 1F",
+  "offset": "02B072A",
+  "en": "I know I'm weak!\\nAnd, I have no sense of direction!",
+  "pt": "Eu sei que não tenho força! E nem senso de direção!"
+ },
+ {
+  "map": "45.5 B. CASTLE 1F",
+  "offset": "02B075E",
+  "en": "I don't get it. What would anyone want\\nwith a house this bizarre?",
+  "pt": "Não entendo. Pra que alguém ia querer uma casa tão bizarra?"
+ },
+ {
+  "map": "45.5 B. CASTLE 1F",
+  "offset": "02B07A0",
+  "en": "I don't get it.\\nHow did I lose?",
+  "pt": "Não entendo. Como eu perdi?"
+ },
+ {
+  "map": "45.5 B. CASTLE 1F",
+  "offset": "02B07C0",
+  "en": "I don't get it.\\nHow many traps are in this house?\\pYou may be the one to solve that.",
+  "pt": "Não entendo. Quantas armadilhas tem nesta casa?\\pTalvez você seja quem vai descobrir isso."
+ },
+ {
+  "map": "45.6 B. CASTLE 1F",
+  "offset": "02B08E1",
+  "en": "It's too much bother to think this out.\\nI only wanted to battle!",
+  "pt": "Dá trabalho demais pensar nisso. Eu só queria batalhar!"
+ },
+ {
+  "map": "45.6 B. CASTLE 1F",
+  "offset": "02B0922",
+  "en": "Even though I lost, I still like battling\\nthe best!",
+  "pt": "Mesmo perdendo, batalhar ainda é o que eu mais gosto!"
+ },
+ {
+  "map": "45.6 B. CASTLE 1F",
+  "offset": "02B0956",
+  "en": "Wouldn't you agree? You would go\\nanywhere if TRAINERS were there.",
+  "pt": "Não concorda? Você iria a qualquer lugar se lá tivesse TREINADORES."
+ },
+ {
+  "map": "45.6 B. CASTLE 1F",
+  "offset": "02B0A07",
+  "en": "It's not good enough to be brawny…\\nYou have to use your head. Be brainy!",
+  "pt": "Não basta ter força bruta… É preciso usar a cabeça. Seja astuto!"
+ },
+ {
+  "map": "45.6 B. CASTLE 1F",
+  "offset": "02B0A85",
+  "en": "Has anyone made it to the end?",
+  "pt": "Alguém já chegou até o fim?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1682",
+  "en": "CLICKETY-CLACK…\\nMECHADOLL 1 AM I!\\pIF YOU ANSWER QUIZZES CORRECTLY,\\nTHEN YOU WILL GO TO MECHADOLL 5.\\lTHEN YOU CAN OBTAIN THE SECRET CODE.",
+  "pt": "CLIQUE-CLAQUE… MECABONECO 1 EU SOU!\\pSE OS QUIZZES CORRETAMENTE VOCÊ RESPONDER, AO MECABONECO 5 VOCÊ IRÁ. ENTÃO O CÓDIGO SECRETO OBTER VOCÊ PODERÁ."
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B170B",
+  "en": "MECHADOLL 1 QUIZ.\\pOne of these POKéMON is not found\\non ROUTE 110. Which one is it?",
+  "pt": "QUIZ DO MECABONECO 1.\\pUma destas CAPTURAS não é encontrada na ROTA 110. Qual é?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B175E",
+  "en": "MECHADOLL 1 QUIZ.\\pOne of these POKéMON is not of the\\nWATER type. Which one is it?",
+  "pt": "QUIZ DO MECABONECO 1.\\pUma destas CAPTURAS não é do tipo ÁGUA. Qual é?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B17B0",
+  "en": "MECHADOLL 1 QUIZ.\\pOne of these POKéMON does not use\\nLEECH LIFE. Which one is it?",
+  "pt": "QUIZ DO MECABONECO 1.\\pUma destas CAPTURAS não usa SUGA-VIDAS. Qual é?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1801",
+  "en": "CONGRATULATIONS. CORRECT YOU ARE.\\nGO THROUGH. PLEASE.",
+  "pt": "PARABÉNS. CORRETO VOCÊ ESTÁ. PODE PASSAR. POR FAVOR."
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1837",
+  "en": "BZZZT. DISAPPOINTMENT.\\nERROR.",
+  "pt": "BZZZT. DECEPÇÃO. ERRO."
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1855",
+  "en": "WAHAHAHAHA! WAHAHAHAHA!\\nCLICKETY-CLACK!",
+  "pt": "WAHAHAHAHA! WAHAHAHAHA! CLIQUE-CLAQUE!"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B187D",
+  "en": "YOUR NEXT CHALLENGE WE WAIT FOR.",
+  "pt": "O SEU PRÓXIMO DESAFIO NÓS AGUARDAMOS."
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B189E",
+  "en": "CLICKETY-CLACK…\\nMECHADOLL 2 AM I!\\pMECHADOLL 1'S QUIZ DIFFICULTY LEVEL\\nIS SET TOO LOW.",
+  "pt": "CLIQUE-CLAQUE… MECABONECO 2 EU SOU!\\pA DIFICULDADE DO QUIZ DO MECABONECO 1 BAIXA DEMAIS ESTÁ."
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B18F4",
+  "en": "MECHADOLL 2 QUIZ.\\pWhich of these POKéMON did WALLY\\nborrow from your father?",
+  "pt": "QUIZ DO MECABONECO 2.\\pQual destas CAPTURAS o WALLY pegou emprestada do seu pai?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1940",
+  "en": "MECHADOLL 2 QUIZ.\\pWhich of these POKéMON was chasing\\nPROF. BIRCH?",
+  "pt": "QUIZ DO MECABONECO 2.\\pQual destas CAPTURAS estava perseguindo o PROF. BIRCH?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1982",
+  "en": "MECHADOLL 2 QUIZ.\\pWhich of these POKéMON did TEAM AQUA\\nuse in PETALBURG FOREST?",
+  "pt": "QUIZ DO MECABONECO 2.\\pQual destas CAPTURAS a EQUIPE AQUA usou na FLORESTA DE PETALBURG?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B19D2",
+  "en": "CLICKETY-CLACK…\\nMECHADOLL 3 AM I!\\pMATTERS OF MONEY ARE MY SOLE FOCUS.",
+  "pt": "CLIQUE-CLAQUE… MECABONECO 3 EU SOU!\\pASSUNTOS DE DINHEIRO O MEU ÚNICO FOCO SÃO."
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1A18",
+  "en": "MECHADOLL 3 QUIZ.\\pWhich costs more?\\nThree HARBOR MAILS or one BURN HEAL?",
+  "pt": "QUIZ DO MECABONECO 3.\\pO que custa mais? Três CARTAS PORTO ou um ANTIQUEIMA?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1A61",
+  "en": "MECHADOLL 3 QUIZ.\\pSell one GREAT BALL and buy\\none POTION. How much money remains?",
+  "pt": "QUIZ DO MECABONECO 3.\\pVenda uma GREAT BALL e compre um COGUMELO. Quanto dinheiro sobra?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1AB3",
+  "en": "MECHADOLL 3 QUIZ.\\pDo one REPEL and SODA POP cost\\nmore than one SUPER POTION?",
+  "pt": "QUIZ DO MECABONECO 3.\\pUm REPELENTE e um REFRIGERANTE custam mais do que um SUPERCOGUMELO?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1B00",
+  "en": "CLICKETY-CLACK…\\nMECHADOLL 4 THAT IS ME!\\pMY QUIZ IS AN OBJECT OF BEAUTY.",
+  "pt": "CLIQUE-CLAQUE… MECABONECO 4 ESSE SOU EU!\\pO MEU QUIZ UM OBJETO DE BELEZA É."
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1B48",
+  "en": "MECHADOLL 4 QUIZ.\\pIn SEASHORE HOUSE, were there more men\\nor women?",
+  "pt": "QUIZ DO MECABONECO 4.\\pNa CASA DE PRAIA, havia mais homens ou mulheres?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1B8B",
+  "en": "MECHADOLL 4 QUIZ.\\pIn LAVARIDGE TOWN, were there more\\nelderly men or elderly women?",
+  "pt": "QUIZ DO MECABONECO 4.\\pEm LAVARIDGE, havia mais senhores ou senhoras?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1BDE",
+  "en": "MECHADOLL 4 QUIZ.\\pIn the TRAINER'S SCHOOL, how many\\ngirl students were there?",
+  "pt": "QUIZ DO MECABONECO 4.\\pNa ESCOLA DE TREINADORES, quantas alunas havia?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1C2C",
+  "en": "CLICKETY-CLACK…\\nMECHADOLL 5 AM I!\\pTHE MASTER'S BEST AND PROUDEST\\nACHIEVEMENT AM I.",
+  "pt": "CLIQUE-CLAQUE… MECABONECO 5 EU SOU!\\pA MELHOR E MAIS ORGULHOSA CRIAÇÃO DO MESTRE EU SOU."
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1C7F",
+  "en": "MECHADOLL 5 QUIZ.\\pIn SLATEPORT's POKéMON FAN CLUB,\\nhow many POKéMON were there?",
+  "pt": "QUIZ DO MECABONECO 5.\\pNo FÃ-CLUBE DE CAPTURAS de SLATEPORT, quantas CAPTURAS havia?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1CCF",
+  "en": "MECHADOLL 5 QUIZ.\\pIn FORTREE CITY, how many\\ntree houses were there?",
+  "pt": "QUIZ DO MECABONECO 5.\\pEm FORTREE CITY, quantas casas na árvore havia?"
+ },
+ {
+  "map": "45.7 B. CASTLE 1F",
+  "offset": "02B1D13",
+  "en": "MECHADOLL 5 QUIZ.\\pOn the CYCLING ROAD, how many\\nTRIATHLETES were there?",
+  "pt": "QUIZ DO MECABONECO 5.\\pNa CICLOVIA, quantos TRIATLETAS havia?"
+ },
+ {
+  "map": "45.8 B. CASTLE 1F",
+  "offset": "02B1EA7",
+  "en": "I'm sure having a good time checking\\nthis place out.\\pIt's a challenge I've found worth\\nrepeating!",
+  "pt": "Estou me divertindo muito explorando este lugar.\\pÉ um desafio que vale a pena repetir!"
+ },
+ {
+  "map": "45.8 B. CASTLE 1F",
+  "offset": "02B1F54",
+  "en": "Ehehehe… I guess I lost because\\nI was trying to cheat.",
+  "pt": "Ehehehe… Acho que perdi porque tentei trapacear."
+ },
+ {
+  "map": "45.8 B. CASTLE 1F",
+  "offset": "02B1FFC",
+  "en": "You don't seem to be affected at all.\\nOr do you have your poker face on?",
+  "pt": "Você não parece nem um pouco abalado. Ou será que está fazendo cara de paisagem?"
+ },
+ {
+  "map": "45.9 B. CASTLE 1F",
+  "offset": "02B24A8",
+  "en": "I wish I could appear and disappear as\\nif I were smoke, too.",
+  "pt": "Queria poder aparecer e sumir como fumaça também."
+ },
+ {
+  "map": "45.9 B. CASTLE 1F",
+  "offset": "02B2533",
+  "en": "I've circled the same spot over ten\\ntimes now… It's ill fortune…",
+  "pt": "Já dei mais de dez voltas no mesmo lugar… Que azar…"
+ },
+ {
+  "map": "45.9 B. CASTLE 1F",
+  "offset": "02B25D2",
+  "en": "You're solving all the puzzles in the\\nTRICK HOUSE. That's the feeling I get.",
+  "pt": "Você está resolvendo todos os enigmas da CASA DOS TRUQUES. É o que eu sinto."
+ },
+ {
+  "map": "45.9 B. CASTLE 1F",
+  "offset": "02B261F",
+  "en": "Nufufufu, here at last!\\nLet's get right with it!",
+  "pt": "Nufufufu, finalmente aqui! Vamos direto ao que interessa!"
+ },
+ {
+  "map": "45.9 B. CASTLE 1F",
+  "offset": "02B2650",
+  "en": "You're so casual about winning!",
+  "pt": "Você vence com tanta naturalidade!"
+ },
+ {
+  "map": "45.9 B. CASTLE 1F",
+  "offset": "02B2670",
+  "en": "Humph! I'm not upset!\\nNot me!",
+  "pt": "Hunf! Isso não me incomodou! Nem um pouco!"
+ },
+ {
+  "map": "45.9 B. CASTLE 1F",
+  "offset": "02B26D6",
+  "en": "Well, anyway, we both picked a weird\\nplace to get acquainted.\\pAs one weirdo to another,\\nlet's do our best!",
+  "pt": "Bem, de qualquer forma, nós dois escolhemos um lugar esquisito pra nos conhecer.\\pDe esquisito pra esquisito, vamos dar o nosso melhor!"
+ },
+ {
+  "map": "45.9 B. CASTLE 1F",
+  "offset": "02B2778",
+  "en": "I was hoping to switch places with you\\nwhen I beat you, but…",
+  "pt": "Eu esperava trocar de lugar com você quando te vencesse, mas…"
+ },
+ {
+  "map": "45.10 B. CASTLE 1F",
+  "offset": "02B28CC",
+  "en": "You've beaten the POKéMON LEAGUE\\nCHAMPION? That's too much!",
+  "pt": "Você derrotou o CAMPEÃO da LIGA CAPTURA? Isso já é demais!"
+ },
+ {
+  "map": "45.10 B. CASTLE 1F",
+  "offset": "02B2908",
+  "en": "Consider yourself lucky to be\\nbattling me!",
+  "pt": "Considere-se com sorte por batalhar comigo!"
+ },
+ {
+  "map": "45.10 B. CASTLE 1F",
+  "offset": "02B2933",
+  "en": "This isn't right!\\nI can't lose!",
+  "pt": "Isso não está certo! Eu não posso perder!"
+ },
+ {
+  "map": "45.10 B. CASTLE 1F",
+  "offset": "02B2953",
+  "en": "It's a miracle that you beat me.\\nYou can brag about it.",
+  "pt": "É um milagre você ter me vencido. Pode se gabar disso."
+ },
+ {
+  "map": "45.10 B. CASTLE 1F",
+  "offset": "02B29F3",
+  "en": "Seeing someone like you should please\\nthe TRICK MASTER.",
+  "pt": "Ver alguém como você deve agradar o MESTRE DOS TRUQUES."
+ },
+ {
+  "map": "45.11 B. CASTLE 1F",
+  "offset": "02B2AFC",
+  "en": "Sorry, you can't walk on CYCLING\\nROAD. It's too dangerous.\\pPlease come back with a BIKE.",
+  "pt": "Desculpe, você não pode andar na CICLOVIA. É perigoso demais.\\pPor favor, volte com uma BICICLETA."
+ },
+ {
+  "map": "45.12 B. CASTLE 1F",
+  "offset": "02B2C5E",
+  "en": "Sorry, you can't walk on CYCLING\\nROAD. It's too dangerous.\\pPlease come back with a BIKE.",
+  "pt": "Desculpe, você não pode andar na CICLOVIA. É perigoso demais.\\pPor favor, volte com uma BICICLETA."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B3206",
+  "en": "Just take that SOOT SACK and walk\\nthrough piles of ash, huff-puff.\\pAnd it will fill up with the volcanic ash,\\nhuff-puff.\\pOnce you think you've collected a good\\namount, come see me, huff-puff.",
+  "pt": "É só pegar esse SACO DE FULIGEM e andar pelos montes de cinzas, uf-puf.\\pEle vai se encher de cinza vulcânica, uf-puf.\\pQuando achar que juntou uma boa quantidade, venha falar comigo, uf-puf."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B32C6",
+  "en": "Have you collected ashes, huff-puff?\\nLet me see, huff-puff.",
+  "pt": "Você juntou cinzas, uf-puf? Deixa eu ver, uf-puf."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B3302",
+  "en": "Hmmm…\\nThere's not enough ash here, huff-puff.\\lI can't make glass with this, huff-puff.\\pLet's see… {STR_VAR_1} is the number of steps\\nyou'll need to walk for me to make you\\la BLUE FLUTE, huff-puff.",
+  "pt": "Hummm… Não tem cinza suficiente aqui, uf-puf. Não dá pra fazer vidro com isso, uf-puf.\\pVejamos… {STR_VAR_1} é o número de passos que você vai precisar andar pra eu fazer uma FLAUTA AZUL, uf-puf."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B33BE",
+  "en": "Oh!\\nYou've got a lot of ashes, huff-puff!\\pI'll make you a glass item, huff-puff!\\nWhich one would you like, huff-puff?",
+  "pt": "Oh! Você juntou um monte de cinzas, uf-puf!\\pVou fazer um item de vidro pra você, uf-puf! Qual você quer, uf-puf?"
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B3434",
+  "en": "A {STR_VAR_1}, huff-puff?\\nIs that the one for you, huff-puff?",
+  "pt": "{STR_VAR_1}, uf-puf? É isso que você quer, uf-puf?"
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B3469",
+  "en": "Which one would you like, huff-puff?",
+  "pt": "Qual você quer, uf-puf?"
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B348E",
+  "en": "A {STR_VAR_1} it is, then, huff-puff!\\pOkay! I'll make it for you, huff-puff.\\nJust wait a little while, huff-puff.",
+  "pt": "{STR_VAR_1}, então, uf-puf!\\pCerto! Vou fazer pra você, uf-puf. Espere só um pouquinho, uf-puf."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B34F7",
+  "en": "A {STR_VAR_1}, huff-puff?\\pThere's not enough ash here to make\\nthat, though, huff-puff.\\pLet's see… {STR_VAR_2} is the number of steps\\nyou'll need to walk through volcanic ash\\lfor me to make that item, huff-puff.\\pWhich item would you rather have me\\nmake instead, huff-puff?",
+  "pt": "{STR_VAR_1}, uf-puf?\\pMas não tem cinza suficiente aqui pra fazer isso, uf-puf.\\pVejamos… {STR_VAR_2} é o número de passos que você vai precisar andar pela cinza vulcânica pra eu fazer esse item, uf-puf.\\pQual item você prefere que eu faça no lugar, uf-puf?"
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B35F5",
+  "en": "You've collected all that ash, but you\\ndon't want anything, huff-puff?",
+  "pt": "Você juntou toda essa cinza, mas não quer nada, uf-puf?"
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B363C",
+  "en": "Ah, I've finished your {STR_VAR_1}.\\nTake it, huff-puff.",
+  "pt": "Ah, terminei de fazer: {STR_VAR_1}. Pegue, uf-puf."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B366B",
+  "en": "Oh?\\nYou've no room in your BAG, huff-puff.\\pI'll hold on to it, so come back later,\\nhuff-puff.",
+  "pt": "Hã? Não tem espaço na sua BOLSA, uf-puf.\\pEu guardo pra você, então volte mais tarde, uf-puf."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B36C9",
+  "en": "Oh?\\nYou've no room in your PC, huff-puff?\\pI'll hold on to it, so come back later,\\nhuff-puff.",
+  "pt": "Hã? Não tem espaço no seu PC, uf-puf?\\pEu guardo pra você, então volte mais tarde, uf-puf."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B3726",
+  "en": "Hah? You haven't got your SOOT SACK\\nwith you, huff-puff.\\pYou have to keep it with you to collect\\nvolcanic ash, huff-puff.",
+  "pt": "Hã? Você não está com o seu SACO DE FULIGEM, uf-puf.\\pVocê precisa estar com ele pra juntar cinza vulcânica, uf-puf."
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B37A0",
+  "en": "It's fun to blow a glass flute while\\nmy boss is talking.\\pHuff-huff! Puff-puff!",
+  "pt": "É divertido tocar uma flauta de vidro enquanto o meu chefe está falando.\\pUf-uf! Puf-puf!"
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "0323F37",
+  "en": "You may call me the BERRY MASTER.\\pI dream of filling the world with\\nbeautiful flowers, so I raise BERRIES\\land hand them out to everyone.\\pYou're deserving of one!",
+  "pt": "Pode me chamar de MESTRE DAS FRUTAS.\\pSonho em encher o mundo de flores bonitas, então cultivo FRUTAS e distribuo para todo mundo.\\pVocê merece uma!"
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "0323FD9",
+  "en": "Why be stingy?\\nTake another!",
+  "pt": "Pra que ser mão de vaca? Pegue mais uma!"
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "0323FF6",
+  "en": "Be sure to visit the PRETTY PETAL\\nflower shop near RUSTBORO.\\pLet flowers fill the world!",
+  "pt": "Não deixe de visitar a floricultura PRETTY PETAL, perto de RUSTBORO.\\pQue as flores encham o mundo!"
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "032404F",
+  "en": "I'm done for today.\\nCome again another day.\\pLet flowers fill the world!",
+  "pt": "Por hoje é só. Volte outro dia.\\pQue as flores encham o mundo!"
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "0324097",
+  "en": "The way my husband grows BERRIES,\\noh, he's the best in the world.\\pHe makes me proud, that he does.\\pIncidentally, child, have you heard\\na good saying lately?",
+  "pt": "Do jeito que o meu marido cultiva FRUTAS… ah, ele é o melhor do mundo.\\pEle me enche de orgulho, isso enche.\\pA propósito, meu jovem, você ouviu algum ditado bom ultimamente?"
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "0324134",
+  "en": "Ah! What a remarkable saying!\\nInspirational, it is!\\pI want you to have this.",
+  "pt": "Ah! Que ditado notável! É inspirador, é sim!\\pQuero que você fique com isto."
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "0324181",
+  "en": "Oh! A good saying it is.\\nYou're quite remarkable.\\pI want you to have this.",
+  "pt": "Oh! É um bom ditado. Você é bem notável.\\pQuero que você fique com isto."
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "03241CC",
+  "en": "Our four grandchildren should become\\nmore accomplished than my husband.\\pJoy never goes out of my life!",
+  "pt": "Os nossos quatro netos vão ser ainda mais talentosos do que o meu marido.\\pA alegria nunca sai da minha vida!"
+ },
+ {
+  "map": "47.0 ROUTE 123",
+  "offset": "0324233",
+  "en": "Ah…",
+  "pt": "Ah…"
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3BA5",
+  "en": "Our BOSS knows everything.\\pBut I'm just a GRUNT. What would I know\\nabout what he's thinking?",
+  "pt": "O nosso CHEFE sabe de tudo.\\pMas eu sou só um RECRUTA. Como é que eu ia saber o que ele está pensando?"
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3C02",
+  "en": "Huh?\\nWhat's a kid doing here?",
+  "pt": "Hã? O que um pirralho tá fazendo aqui?"
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3C20",
+  "en": "Huh?\\nI lost?!",
+  "pt": "Hã? Eu perdi?!"
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3C2E",
+  "en": "Oh, no…\\nI'll catch an earful for losing to a kid…\\pI should just take a nap in the bed…",
+  "pt": "Ah, não… Vou levar uma bronca por perder pra um pirralho…\\pAcho melhor tirar um cochilo na cama…"
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3C85",
+  "en": "While I was sleeping, everyone went\\nupstairs!",
+  "pt": "Enquanto eu dormia, todo mundo subiu!"
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3CB3",
+  "en": "Wow, you're really strong!\\pI wish I could be a POKéMON TRAINER\\nlike you!",
+  "pt": "Nossa, você é forte mesmo!\\pQueria ser um TREINADOR assim como você!"
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3CFC",
+  "en": "The PROFESSOR loves rain.\\nThat's a fact.\\pBut if it keeps raining, people will be in\\ntrouble. That's another fact.\\pAnd thus, the PROFESSOR is studying\\nif the rain can be put to good use.",
+  "pt": "O PROFESSOR adora chuva. Isso é fato.\\pMas, se continuar chovendo, as pessoas vão ter problemas. Isso também é fato.\\pPor isso, o PROFESSOR está estudando se a chuva pode ser bem aproveitada."
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3DB6",
+  "en": "On the 2nd floor of the INSTITUTE,\\nwe study the weather patterns over\\lthe HOENN region.\\pWe've been noticing temporary and\\nisolated cases of droughts and\\lheavy rain lately…",
+  "pt": "No segundo andar do INSTITUTO, estudamos os padrões climáticos da região de HOENN.\\pUltimamente, temos notado casos temporários e isolados de secas e chuvas fortes…"
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3E62",
+  "en": "Hello!\\nWe've been saved by your actions!\\pWhat I don't understand is what on\\nearth the AQUAS were up to.",
+  "pt": "Olá! Fomos salvos graças a você!\\pO que eu não entendo é o que a EQUIPE AQUA estava tramando."
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3ECA",
+  "en": "There's a bed…\\nLet's take a rest.",
+  "pt": "Tem uma cama… Vamos descansar um pouco."
+ },
+ {
+  "map": "48.0 B. CASTLE 2F",
+  "offset": "02B3EEC",
+  "en": "Sorry, you are playing with\\nthe POKéCENTER challenge!",
+  "pt": "Desculpe, você está jogando com o desafio CENTRO CAPTURA!"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B426A",
+  "en": "If the POKéMON they made here can\\ncontrol the weather freely, then we of\\lTEAM AQUA definitely need it!",
+  "pt": "Se a CAPTURA que eles fizeram aqui controla o clima à vontade, então nós da EQUIPE AQUA precisamos dela de qualquer jeito!"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B42D1",
+  "en": "We're TEAM AQUA!\\nWe appear wherever anything rare is\\lfound!",
+  "pt": "Somos a EQUIPE AQUA! Aparecemos onde houver qualquer coisa rara!"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B430D",
+  "en": "You got me!",
+  "pt": "Você me pegou!"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B4319",
+  "en": "You don't have any idea what we of\\nTEAM AQUA are working towards!\\lYou stay out of our way!",
+  "pt": "Você não faz ideia do que nós da EQUIPE AQUA queremos alcançar! Fique fora do nosso caminho!"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B43FF",
+  "en": "Humph, so what?\\nWhat we want…\\pWhat we really want isn't here…\\nIhihihihi…",
+  "pt": "Hunf, e daí? O que a gente quer…\\pO que a gente quer de verdade não está aqui… Ihihihihi…"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B4523",
+  "en": "It's bad enough to have TEAM MAGMA\\nblunder about, but now there's you!\\pWhat makes you want to sniff around\\nin our business, anyway?",
+  "pt": "Já é ruim ter a EQUIPE MAGMA atrapalhando por aí, e agora ainda tem você!\\pPor que você quer ficar fuçando nos nossos assuntos, afinal?"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B45A7",
+  "en": "We have a situation here!\\pA TEAM MAGMA mob just passed\\nthe WEATHER INSTITUTE.\\pThey appear to be headed for\\nMT. PYRE!",
+  "pt": "Temos uma situação aqui!\\pUm bando da EQUIPE MAGMA acabou de passar pelo INSTITUTO DO CLIMA.\\pParece que eles estão indo para o MT. PYRE!"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B461C",
+  "en": "What?!\\pWe can't waste any more time here!\\nWe have to hurry to MT. PYRE, too!\\pAhahahaha!\\nTEAM MAGMA, just you wait!",
+  "pt": "O quê?!\\pNão podemos perder mais tempo aqui! Também temos que correr para o MT. PYRE!\\pAhahahaha! EQUIPE MAGMA, vocês me aguardem!"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B468F",
+  "en": "Thanks!\\nThanks to you, we're safe!\\pIt might be an odd way of thanking you,\\nbut take this POKéMON.",
+  "pt": "Obrigado! Graças a você, estamos a salvo!\\pPode ser um jeito estranho de agradecer, mas fique com esta CAPTURA."
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B4727",
+  "en": "{PLAYER} received CASTFORM!",
+  "pt": "{PLAYER} recebeu um CASTFORM!"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B473D",
+  "en": "That POKéMON changes shape according\\nto the weather conditions.\\pThere're plenty of them in the\\nINSTITUTE--go ahead and take it.",
+  "pt": "Essa CAPTURA muda de forma de acordo com o clima.\\pTem vários deles no INSTITUTO, pode levar."
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B47BD",
+  "en": "I've been researching rain for many\\nyears, but it's ridiculous to think that\\lhumans can freely change the weather.",
+  "pt": "Pesquiso a chuva há muitos anos, mas é ridículo achar que os humanos podem mudar o clima à vontade."
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B4830",
+  "en": "I track weather patterns over\\nthe HOENN region.\\pPresently, a drought has been recorded\\nin {STR_VAR_1}.\\pCould that mean, somewhere near\\n{STR_VAR_1}…",
+  "pt": "Eu acompanho os padrões climáticos da região de HOENN.\\pNo momento, foi registrada uma seca em {STR_VAR_1}.\\pSerá que isso significa que, em algum lugar perto de {STR_VAR_1}…"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B48B2",
+  "en": "I track weather patterns over\\nthe HOENN region.\\pPresently, heavy rainfall has been\\nrecorded over {STR_VAR_1}.\\pCould that mean, somewhere near\\n{STR_VAR_1}…",
+  "pt": "Eu acompanho os padrões climáticos da região de HOENN.\\pNo momento, foram registradas chuvas fortes em {STR_VAR_1}.\\pSerá que isso significa que, em algum lugar perto de {STR_VAR_1}…"
+ },
+ {
+  "map": "48.1 B. CASTLE 2F",
+  "offset": "02B493B",
+  "en": "Abnormal weather conditions are\\nno longer being reported.\\pThe occasional rainfall is a blessing,\\nreally.",
+  "pt": "Não há mais registros de clima anormal.\\pUma chuvinha de vez em quando é uma bênção, na verdade."
+ },
+ {
+  "map": "48.2 B. CASTLE 2F",
+  "offset": "02B4A56",
+  "en": "WINGULL: Pihyoh!",
+  "pt": "WINGULL: Pihyoh!"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5024",
+  "en": "Tell me, have you seen any SHARDS of\\ntools made in ancient times?",
+  "pt": "Me diga, você viu algum CACO de ferramentas feitas nos tempos antigos?"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5066",
+  "en": "You haven't got any treasures\\nfor me…\\pIf you see any SHARDS, like the RED\\nSHARD, you've got to trade it with me!",
+  "pt": "Você não tem nenhum tesouro pra mim…\\pSe vir algum CACO, como o CACO VERMELHO, tem que trocar comigo!"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B50D7",
+  "en": "Oh, hey! That…\\nThat's a SHARD! I'm looking for those!\\pOh, man, you've got to trade that\\nwith me! I'll give you something good!",
+  "pt": "Ah, ei! Isso… Isso é um CACO! Eu estou procurando esses!\\pAh, cara, você tem que trocar isso comigo! Te dou uma coisa boa!"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5156",
+  "en": "What do you want to trade?",
+  "pt": "O que você quer trocar?"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5171",
+  "en": "You'll trade your {STR_VAR_1} for\\nmy {STR_VAR_2}, then?",
+  "pt": "Você troca {STR_VAR_1} por {STR_VAR_2}, então?"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5197",
+  "en": "It's a done deal!\\nUse that wisely!",
+  "pt": "Negócio fechado! Use isso com sabedoria!"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B51BA",
+  "en": "Do you want to trade something else?",
+  "pt": "Quer trocar mais alguma coisa?"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B51DF",
+  "en": "Whoops, your BAG's full.\\nGet rid of some items, friend!",
+  "pt": "Opa, a sua BOLSA está cheia. Livre-se de alguns itens, amigo!"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5217",
+  "en": "No? That's a downer.\\nWell, if you change your mind, come back.",
+  "pt": "Não? Que balde de água fria. Bom, se mudar de ideia, volte aqui."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5256",
+  "en": "{CLEAR_TO 0A}Wanted item{CLEAR_TO 7C}Trade item\\n{CLEAR_TO 0F}RED SHARD{CLEAR_TO 59}←→{CLEAR_TO 7B}FIRE STONE{CLEAR_TO C8}\\p{CLEAR_TO 0A}Wanted item{CLEAR_TO 7C}Trade item\\n{CLEAR_TO 06}YELLOW SHARD{CLEAR_TO 59}←→{CLEAR_TO 73}THUNDERSTONE{CLEAR_TO C8}\\p{CLEAR_TO 0A}Wanted item{CLEAR_TO 7C}Trade item\\n{CLEAR_TO 0C}BLUE SHARD{CLEAR_TO 59}←→{CLEAR_TO 79}WATER STONE{CLEAR_TO C8}\\p{CLEAR_TO 0A}Wanted item{CLEAR_TO 7C}Trade item\\n{CLEAR_TO 08}GREEN SHARD{CLEAR_TO 59}←→{CLEAR_TO 7B}LEAF STONE",
+  "pt": "{CLEAR_TO 0A}Item pedido{CLEAR_TO 74}Item de troca\\n{CLEAR_TO 03}CACO VERMELHO{CLEAR_TO 59}←→{CLEAR_TO 7B}PEDRA FOGO{CLEAR_TO C8}\\p{CLEAR_TO 0A}Item pedido{CLEAR_TO 74}Item de troca\\n{CLEAR_TO 06}CACO AMARELO{CLEAR_TO 59}←→{CLEAR_TO 75}PEDRA TROVÃO{CLEAR_TO C8}\\p{CLEAR_TO 0A}Item pedido{CLEAR_TO 74}Item de troca\\n{CLEAR_TO 0F}CACO AZUL{CLEAR_TO 59}←→{CLEAR_TO 7B}PEDRA ÁGUA{CLEAR_TO C8}\\p{CLEAR_TO 0A}Item pedido{CLEAR_TO 74}Item de troca\\n{CLEAR_TO 0C}CACO VERDE{CLEAR_TO 59}←→{CLEAR_TO 78}PEDRA FOLHA"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5994",
+  "en": "Feature unavailable!\\nPlease define a usable flag in:\\l'include/config/overworld.h'!",
+  "pt": "Recurso indisponível!\\nDefina uma flag utilizável em:\\l'include/config/overworld.h'!"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5ABD",
+  "en": "SaveBlock2 size: {STR_VAR_1}b/{STR_VAR_2}b.\\nFree space: {STR_VAR_3}b.",
+  "pt": "SaveBlock2: {STR_VAR_1}b/{STR_VAR_2}b.\\nEspaço livre: {STR_VAR_3}b."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5AE8",
+  "en": "{PK}{MN}Storage size: {STR_VAR_1}b/{STR_VAR_2}b.\\nFree space: {STR_VAR_3}b.",
+  "pt": "Armaz. {PK}{MN}: {STR_VAR_1}b/{STR_VAR_2}b.\\nEspaço livre: {STR_VAR_3}b."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5B58",
+  "en": "You have no Pokémon nor Eggs.",
+  "pt": "Você não tem CAPTURAS nem OVOS."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5B76",
+  "en": "That's not a Pokémon Egg.",
+  "pt": "Isso não é um OVO de CAPTURA."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5BCE",
+  "en": "You have only one Pokémon at Daycare.",
+  "pt": "Você só tem uma CAPTURA na CRECHE."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5BF4",
+  "en": "Your Pokémon at Daycare can't\\nhave babies together!",
+  "pt": "As suas CAPTURAS na CRECHE não podem ter filhotes juntas!"
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "022065D",
+  "en": "Hiya! Are you maybe…\\nA rookie TRAINER?\\pDo you know what POKéMON TRAINERS\\ndo when they reach a new town?\\pThey first check what kind of GYM\\nis in the town.",
+  "pt": "Oi! Por acaso você é… Um TREINADOR novato?\\pSabe o que os TREINADORES fazem quando chegam numa cidade nova?\\pPrimeiro, eles conferem que tipo de GINÁSIO tem na cidade."
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "02206F7",
+  "en": "See? This is PETALBURG CITY's GYM.",
+  "pt": "Viu? Este é o GINÁSIO de PETALBURG CITY."
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "022071A",
+  "en": "This is the GYM's sign. Look for it\\nwhenever you're looking for a GYM.",
+  "pt": "Esta é a placa do GINÁSIO. Procure por ela sempre que estiver atrás de um GINÁSIO."
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "0220761",
+  "en": "My face is reflected in the water.\\pIt's a shining grin full of hope…\\pOr it could be a look of somber silence\\nstruggling with fear…\\pWhat do you see reflected in your face?",
+  "pt": "O meu rosto está refletido na água.\\pÉ um sorriso brilhante, cheio de esperança…\\pOu talvez seja um olhar de silêncio sombrio, lutando contra o medo…\\pO que você vê refletido no seu rosto?"
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "022080C",
+  "en": "Let's say you have six POKéMON.\\nIf you catch another one…\\pIt is automatically sent to a STORAGE\\nBOX over a PC connection.",
+  "pt": "Digamos que você tem seis CAPTURAS. Se pegar mais uma…\\pEla é enviada automaticamente para uma CAIXA DE ARMAZENAMENTO por uma conexão de PC."
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "0220886",
+  "en": "PETALBURG CITY POKéMON GYM\\nLEADER: NORMAN\\l“A man in pursuit of power!”",
+  "pt": "GINÁSIO DE PETALBURG CITY\\nLÍDER: NORMAN\\l“Um homem em busca de poder!”"
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "02208CD",
+  "en": "PETALBURG CITY\\n“Where people mingle with nature.”",
+  "pt": "PETALBURG CITY\\n“Onde gente e natureza se encontram.”"
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "02208FF",
+  "en": "WALLY'S HOUSE",
+  "pt": "CASA DO WALLY",
+  "max_width": 78
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "022090D",
+  "en": "Excuse me!\\pLet me guess, from the way you're\\ndressed, are you a POKéMON TRAINER?",
+  "pt": "Com licença!\\pDeixa eu adivinhar: pelo jeito que você se veste, você é um TREINADOR?"
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "022095E",
+  "en": "… … … … … …\\pWell, maybe not.\\nYour clothes aren't all that dirty.\\pYou're either a rookie TRAINER,\\nor maybe you're just an ordinary kid.",
+  "pt": "… … … … … …\\pBom, talvez não. As suas roupas não estão tão sujas assim.\\pOu você é um TREINADOR novato, ou talvez seja só um garoto comum."
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "02209E5",
+  "en": "I'm roaming the land in search of\\ntalented TRAINERS.\\pI'm sorry to have taken your time.",
+  "pt": "Estou viajando pelo mundo em busca de TREINADORES talentosos.\\pDesculpe por tomar o seu tempo."
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "022FFEA",
+  "en": "WALLY: I did it… It's my…\\nMy POKéMON!",
+  "pt": "WALLY: Consegui… É a minha… A minha CAPTURA!"
+ },
+ {
+  "map": "50.0 DAISY'S CRUISER",
+  "offset": "0230010",
+  "en": "{PLAYER}, thank you!\\nLet's go back to the GYM!",
+  "pt": "{PLAYER}, obrigado! Vamos voltar ao GINÁSIO!"
+ }
+]

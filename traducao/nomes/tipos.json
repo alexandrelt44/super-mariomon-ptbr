@@ -1,0 +1,135 @@
+[
+ {
+  "offset": "042ADD4",
+  "en": "Normal",
+  "pt": "Normal",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042ADDB",
+  "en": "Fight",
+  "pt": "Luta",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042ADE2",
+  "en": "Flying",
+  "pt": "Voador",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042ADE9",
+  "en": "Poison",
+  "pt": "Veneno",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042ADF0",
+  "en": "Ground",
+  "pt": "Terra",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042ADF7",
+  "en": "Rock",
+  "pt": "Pedra",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042ADFE",
+  "en": "Bug",
+  "pt": "Inseto",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE05",
+  "en": "Ghost",
+  "pt": "Fant.",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE0C",
+  "en": "Steel",
+  "pt": "Aço",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE13",
+  "en": "???",
+  "pt": "",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE1A",
+  "en": "Fire",
+  "pt": "Fogo",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE21",
+  "en": "Water",
+  "pt": "Água",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE28",
+  "en": "Grass",
+  "pt": "Planta",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE2F",
+  "en": "Electr",
+  "pt": "Elétr.",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE36",
+  "en": "Psychc",
+  "pt": "Psíq.",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE3D",
+  "en": "Ice",
+  "pt": "Gelo",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE44",
+  "en": "Dragon",
+  "pt": "Dragão",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE4B",
+  "en": "Dark",
+  "pt": "Sombr.",
+  "max_bytes": 7,
+  "max_width": 36
+ },
+ {
+  "offset": "042AE52",
+  "en": "Fairy",
+  "pt": "Fada",
+  "max_bytes": 7,
+  "max_width": 36
+ }
+]

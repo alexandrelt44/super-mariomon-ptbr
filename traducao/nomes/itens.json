@@ -1,0 +1,5056 @@
+[
+ {
+  "offset": "080C8DC",
+  "en": "????????",
+  "pt": "",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080C904",
+  "en": "Plumber Cap",
+  "pt": "Cap Encanador",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080C92C",
+  "en": "Baseball Cap",
+  "pt": "Cap Beisebol",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080C954",
+  "en": "Helmet Cap",
+  "pt": "Cap Capacete",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080C97C",
+  "en": "Crown Cap",
+  "pt": "Cap Coroa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080C9A4",
+  "en": "Employee Cap",
+  "pt": "Cap Empregado",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080C9CC",
+  "en": "Chef Cap",
+  "pt": "Cap Chef",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080C9F4",
+  "en": "Pirate Cap",
+  "pt": "Cap Pirata",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CA1C",
+  "en": "Party Cap",
+  "pt": "Cap Festa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CA44",
+  "en": "Scuba Cap",
+  "pt": "Cap Mergulho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CA6C",
+  "en": "Fedora Cap",
+  "pt": "Cap Fedora",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CA94",
+  "en": "Sombrero Cap",
+  "pt": "Cap Sombrero",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CABC",
+  "en": "Football Cap",
+  "pt": "Cap Futebol",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CAE4",
+  "en": "Cowboy Cap",
+  "pt": "Cap Caubói",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CB0C",
+  "en": "Top Cap",
+  "pt": "Cap Cartola",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CB34",
+  "en": "Level Ball",
+  "pt": "Level Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CB5C",
+  "en": "Lure Ball",
+  "pt": "Lure Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CB84",
+  "en": "Moon Ball",
+  "pt": "Moon Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CBAC",
+  "en": "Friend Ball",
+  "pt": "Friend Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CBD4",
+  "en": "Love Ball",
+  "pt": "Love Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CBFC",
+  "en": "Fast Ball",
+  "pt": "Fast Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CC24",
+  "en": "Heavy Ball",
+  "pt": "Heavy Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CC4C",
+  "en": "Dream Ball",
+  "pt": "Dream Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CC74",
+  "en": "Explorer Cap",
+  "pt": "Cap Explorador",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CC9C",
+  "en": "Sport Ball",
+  "pt": "Sport Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CCC4",
+  "en": "Park Ball",
+  "pt": "Park Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CCEC",
+  "en": "Beast Ball",
+  "pt": "Beast Ball",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CD14",
+  "en": "Legacy Cap",
+  "pt": "Cap Legado",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CD3C",
+  "en": "Mushroom",
+  "pt": "Cogumelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CD64",
+  "en": "Super Shroom",
+  "pt": "Supercogumelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CD8C",
+  "en": "Ultra Shroom",
+  "pt": "Ultracogumelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CDB4",
+  "en": "Max Mushroom",
+  "pt": "Cogumelo Máx.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CDDC",
+  "en": "Golden Shroom",
+  "pt": "Cogumelo Ouro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CE04",
+  "en": "1-Up Mushroom",
+  "pt": "Cogumelo 1-Up",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CE2C",
+  "en": "1-Up DX",
+  "pt": "1-Up DX",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CE54",
+  "en": "Nut",
+  "pt": "Noz",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CE7C",
+  "en": "Super Nut",
+  "pt": "Supernoz",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CEA4",
+  "en": "Ultra Nut",
+  "pt": "Ultranoz",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CECC",
+  "en": "Max Nut",
+  "pt": "Noz Máx.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CEF4",
+  "en": "Energy Powder",
+  "pt": "Pó Energético",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CF1C",
+  "en": "Energy Root",
+  "pt": "Raiz Energia",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CF44",
+  "en": "Heal Powder",
+  "pt": "Pó Curativo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CF6C",
+  "en": "Revival Herb",
+  "pt": "Erva Reviver",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CF94",
+  "en": "Antidote",
+  "pt": "Antídoto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CFBC",
+  "en": "Paralyze Heal",
+  "pt": "Antiparalisia",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080CFE4",
+  "en": "Burn Heal",
+  "pt": "Antiqueima",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D00C",
+  "en": "Ice Heal",
+  "pt": "Antigelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D034",
+  "en": "Awakening",
+  "pt": "Despertar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D05C",
+  "en": "Full Heal",
+  "pt": "Cura Total",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D084",
+  "en": "Syrup",
+  "pt": "Xarope",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D0AC",
+  "en": "Super Syrup",
+  "pt": "Superxarope",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D0D4",
+  "en": "Ultra Syrup",
+  "pt": "Ultraxarope",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D0FC",
+  "en": "Max Syrup",
+  "pt": "Xarope Máx.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D124",
+  "en": "Berry Juice",
+  "pt": "Suco de Fruta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D14C",
+  "en": "Sacred Ash",
+  "pt": "Cinza Sagrada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D174",
+  "en": "Sweet Heart",
+  "pt": "Coração Doce",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D19C",
+  "en": "Max Honey",
+  "pt": "Mel Máx.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D1C4",
+  "en": "PewtrCrnches",
+  "pt": "Croc. Pewter",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D1EC",
+  "en": "RageCandyBar",
+  "pt": "Barra Fúria",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D214",
+  "en": "Yoshi Cookie",
+  "pt": "Biscoito Yoshi",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D23C",
+  "en": "Old Gateau",
+  "pt": "Gâteau Antigo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D264",
+  "en": "Casteliacone",
+  "pt": "Cone Castelia",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D28C",
+  "en": "LumioseGlete",
+  "pt": "Galete Lumiose",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D2B4",
+  "en": "ShalourSable",
+  "pt": "Sablé Shalour",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D2DC",
+  "en": "Big Malasada",
+  "pt": "Malasadona",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D304",
+  "en": "HP Bean",
+  "pt": "Feijão HP",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D32C",
+  "en": "Atk. Bean",
+  "pt": "Feijão Atq.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D354",
+  "en": "Def. Bean",
+  "pt": "Feijão Def.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D37C",
+  "en": "SpA. Bean",
+  "pt": "Feijão At.Esp.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D3A4",
+  "en": "SpD. Bean",
+  "pt": "Feijão Df.Esp.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D3CC",
+  "en": "Speed Bean",
+  "pt": "Feijão Vel.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D3F4",
+  "en": "Bros. Bean",
+  "pt": "Feijão Bros.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D41C",
+  "en": "Max Bean",
+  "pt": "Feijão Máx.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D444",
+  "en": "HealthFeather",
+  "pt": "Pena Saúde",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D46C",
+  "en": "MuscleFeather",
+  "pt": "Pena Músculo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D494",
+  "en": "ResistFeather",
+  "pt": "Pena Resist.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D4BC",
+  "en": "GeniusFeather",
+  "pt": "Pena Gênio",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D4E4",
+  "en": "CleverFeather",
+  "pt": "Pena Esperta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D50C",
+  "en": "SwiftFeather",
+  "pt": "Pena Veloz",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D534",
+  "en": "AbilityCapsle",
+  "pt": "Cápsula Habil.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D55C",
+  "en": "AbilityPatch",
+  "pt": "Adesivo Habil.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D584",
+  "en": "Lonely Mint",
+  "pt": "Menta Sozinha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D5AC",
+  "en": "Adamant Mint",
+  "pt": "Menta Firme",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D5D4",
+  "en": "Naughty Mint",
+  "pt": "Menta Levada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D5FC",
+  "en": "Brave Mint",
+  "pt": "Menta Brava",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D624",
+  "en": "Bold Mint",
+  "pt": "Menta Ousada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D64C",
+  "en": "Impish Mint",
+  "pt": "Menta Marota",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D674",
+  "en": "Lax Mint",
+  "pt": "Menta Relapsa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D69C",
+  "en": "Relaxed Mint",
+  "pt": "Menta Folgada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D6C4",
+  "en": "Modest Mint",
+  "pt": "Menta Modesta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D6EC",
+  "en": "Mild Mint",
+  "pt": "Menta Branda",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D714",
+  "en": "Rash Mint",
+  "pt": "Menta Afoita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D73C",
+  "en": "Quiet Mint",
+  "pt": "Menta Quieta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D764",
+  "en": "Calm Mint",
+  "pt": "Menta Calma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D78C",
+  "en": "Gentle Mint",
+  "pt": "Menta Gentil",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D7B4",
+  "en": "Careful Mint",
+  "pt": "Menta Zelosa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D7DC",
+  "en": "Sassy Mint",
+  "pt": "Menta Abusada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D804",
+  "en": "Timid Mint",
+  "pt": "Menta Tímida",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D82C",
+  "en": "Hasty Mint",
+  "pt": "Menta Afobada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D854",
+  "en": "Jolly Mint",
+  "pt": "Menta Alegre",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D87C",
+  "en": "Naive Mint",
+  "pt": "Menta Ingênua",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D8A4",
+  "en": "Serious Mint",
+  "pt": "Menta Séria",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D8CC",
+  "en": "Rare Candy",
+  "pt": "Doce Raro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D8F4",
+  "en": "Exp.Candy XS",
+  "pt": "Doce Exp. XS",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D91C",
+  "en": "Exp.Candy S",
+  "pt": "Doce Exp. P",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D944",
+  "en": "Exp.Candy M",
+  "pt": "Doce Exp. M",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D96C",
+  "en": "Exp.Candy L",
+  "pt": "Doce Exp. G",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D994",
+  "en": "Exp.Candy XL",
+  "pt": "Doce Exp. GG",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D9BC",
+  "en": "DynamaxCandy",
+  "pt": "Doce Dynamax",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080D9E4",
+  "en": "Blue Flute",
+  "pt": "Flauta Azul",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DA0C",
+  "en": "Yellow Flute",
+  "pt": "Flauta Amarela",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DA34",
+  "en": "Red Flute",
+  "pt": "Flauta Verm.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DA5C",
+  "en": "Black Flute",
+  "pt": "Flauta Preta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DA84",
+  "en": "White Flute",
+  "pt": "Flauta Branca",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DAAC",
+  "en": "Repel",
+  "pt": "Repelente",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DAD4",
+  "en": "Super Repel",
+  "pt": "Super Repel.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DAFC",
+  "en": "Max Repel",
+  "pt": "Repelente Máx.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DB24",
+  "en": "Lure",
+  "pt": "Isca",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DB4C",
+  "en": "Super Lure",
+  "pt": "Superisca",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DB74",
+  "en": "Max Lure",
+  "pt": "Isca Máx.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DB9C",
+  "en": "Escape Rope",
+  "pt": "Corda de Fuga",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DBC4",
+  "en": "X Attack",
+  "pt": "Ataque X",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DBEC",
+  "en": "X Defense",
+  "pt": "Defesa X",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DC14",
+  "en": "X Sp. Atk",
+  "pt": "At. Esp. X",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DC3C",
+  "en": "X Sp. Def",
+  "pt": "Def. Esp. X",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DC64",
+  "en": "X Speed",
+  "pt": "Velocidade X",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DC8C",
+  "en": "X Accuracy",
+  "pt": "Precisão X",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DCB4",
+  "en": "Dire Hit",
+  "pt": "Golpe Crítico",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DCDC",
+  "en": "Guard Spec.",
+  "pt": "Guarda Esp.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DD04",
+  "en": "Poké Doll",
+  "pt": "Boneca Poké",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DD2C",
+  "en": "Fluffy Tail",
+  "pt": "Cauda Fofa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DD54",
+  "en": "Poké Toy",
+  "pt": "Brinq. Poké",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DD7C",
+  "en": "MaxMushrooms",
+  "pt": "Cogumelos Máx.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DDA4",
+  "en": "Bottle Cap",
+  "pt": "Tampinha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DDCC",
+  "en": "GoldBottlCap",
+  "pt": "Tampinha Ouro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DDF4",
+  "en": "Nugget",
+  "pt": "Pepita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DE1C",
+  "en": "Big Nugget",
+  "pt": "Pepita Grande",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DE44",
+  "en": "Tiny Mushroom",
+  "pt": "Cogumelinho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DE6C",
+  "en": "Big Mushroom",
+  "pt": "Cogumelão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DE94",
+  "en": "Balm Mushroom",
+  "pt": "Cogum. Bálsamo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DEBC",
+  "en": "Pearl",
+  "pt": "Pérola",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DEE4",
+  "en": "Big Pearl",
+  "pt": "Pérola Grande",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DF0C",
+  "en": "Pearl String",
+  "pt": "Colar Pérolas",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DF34",
+  "en": "Stardust",
+  "pt": "Pó Estelar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DF5C",
+  "en": "Star Piece",
+  "pt": "Peça Estelar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DF84",
+  "en": "Comet Shard",
+  "pt": "Lasca Cometa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DFAC",
+  "en": "Shoal Salt",
+  "pt": "Sal Shoal",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DFD4",
+  "en": "Shoal Shell",
+  "pt": "Concha Shoal",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080DFFC",
+  "en": "Red Shard",
+  "pt": "Caco Vermelho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E024",
+  "en": "Blue Shard",
+  "pt": "Caco Azul",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E04C",
+  "en": "Yellow Shard",
+  "pt": "Caco Amarelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E074",
+  "en": "Green Shard",
+  "pt": "Caco Verde",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E09C",
+  "en": "Heart Scale",
+  "pt": "Esc. Coração",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E0C4",
+  "en": "Honey",
+  "pt": "Mel",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E0EC",
+  "en": "Rare Bone",
+  "pt": "Osso Raro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E114",
+  "en": "Odd Keystone",
+  "pt": "Pedra-Chave",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E13C",
+  "en": "PrettyFeather",
+  "pt": "Pena Bonita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E164",
+  "en": "Relic Copper",
+  "pt": "Cobre Antigo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E18C",
+  "en": "Relic Silver",
+  "pt": "Prata Antiga",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E1B4",
+  "en": "Relic Gold",
+  "pt": "Ouro Antigo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E1DC",
+  "en": "Relic Vase",
+  "pt": "Vaso Antigo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E204",
+  "en": "Relic Band",
+  "pt": "Faixa Antiga",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E22C",
+  "en": "Relic Statue",
+  "pt": "Estátua Ant.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E254",
+  "en": "Relic Crown",
+  "pt": "Coroa Antiga",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E27C",
+  "en": "StrngeSouvnr",
+  "pt": "Suvenir Raro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E2A4",
+  "en": "Helix Fossil",
+  "pt": "Fóssil Hélice",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E2CC",
+  "en": "Dome Fossil",
+  "pt": "Fóssil Domo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E2F4",
+  "en": "Old Amber",
+  "pt": "Âmbar Antigo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E31C",
+  "en": "Root Fossil",
+  "pt": "Fóssil Raiz",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E344",
+  "en": "Claw Fossil",
+  "pt": "Fóssil Garra",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E36C",
+  "en": "Armor Fossil",
+  "pt": "Fóssil Couraça",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E394",
+  "en": "Skull Fossil",
+  "pt": "Fóssil Crânio",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E3BC",
+  "en": "Cover Fossil",
+  "pt": "Fóssil Escudo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E3E4",
+  "en": "Plume Fossil",
+  "pt": "Fóssil Pluma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E40C",
+  "en": "Jaw Fossil",
+  "pt": "Fóssil Maxilar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E434",
+  "en": "Sail Fossil",
+  "pt": "Fóssil Vela",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E45C",
+  "en": "FosslzedBird",
+  "pt": "Ave Fóssil",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E484",
+  "en": "FosslzedFish",
+  "pt": "Peixe Fóssil",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E4AC",
+  "en": "FosslzedDrke",
+  "pt": "Dragão Fóssil",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E4D4",
+  "en": "FosslzedDino",
+  "pt": "Dino Fóssil",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E4FC",
+  "en": "Growth Mulch",
+  "pt": "Adubo Rápido",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E524",
+  "en": "Damp Mulch",
+  "pt": "Adubo Úmido",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E54C",
+  "en": "Stable Mulch",
+  "pt": "Adubo Estável",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E574",
+  "en": "Gooey Mulch",
+  "pt": "Adubo Gosma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E59C",
+  "en": "Rich Mulch",
+  "pt": "Adubo Rico",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E5C4",
+  "en": "SurprseMulch",
+  "pt": "Adubo Surpr.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E5EC",
+  "en": "Boost Mulch",
+  "pt": "Adubo Impulso",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E614",
+  "en": "Amaze Mulch",
+  "pt": "Adubo Incrív.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E63C",
+  "en": "Red Apricorn",
+  "pt": "Apricorn Verm.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E664",
+  "en": "Blue Apricorn",
+  "pt": "Apricorn Azul",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E68C",
+  "en": "YellwApricorn",
+  "pt": "Apricorn Amar.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E6B4",
+  "en": "GreenApricorn",
+  "pt": "Apricorn Verde",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E6DC",
+  "en": "Pink Apricorn",
+  "pt": "Apricorn Rosa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E704",
+  "en": "WhiteApricorn",
+  "pt": "Apricorn Bran.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E72C",
+  "en": "BlackApricorn",
+  "pt": "Apricorn Preto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E754",
+  "en": "WishingPiece",
+  "pt": "Peça do Desejo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E77C",
+  "en": "GalaricaTwig",
+  "pt": "Galho Galarica",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E7A4",
+  "en": "Armorite Ore",
+  "pt": "Min. Armorite",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E7CC",
+  "en": "Dynite Ore",
+  "pt": "Minério Dynite",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E7F4",
+  "en": "Orange Mail",
+  "pt": "Carta Laranja",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E81C",
+  "en": "Harbor Mail",
+  "pt": "Carta Porto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E844",
+  "en": "Glitter Mail",
+  "pt": "Carta Brilho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E86C",
+  "en": "Mech Mail",
+  "pt": "Carta Máquina",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E894",
+  "en": "Wood Mail",
+  "pt": "Carta Madeira",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E8BC",
+  "en": "Wave Mail",
+  "pt": "Carta Onda",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E8E4",
+  "en": "Bead Mail",
+  "pt": "Carta Miçanga",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E90C",
+  "en": "Shadow Mail",
+  "pt": "Carta Sombra",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E934",
+  "en": "Tropic Mail",
+  "pt": "Carta Tropical",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E95C",
+  "en": "Dream Mail",
+  "pt": "Carta Sonho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E984",
+  "en": "Fab Mail",
+  "pt": "Carta Chique",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E9AC",
+  "en": "Retro Mail",
+  "pt": "Carta Retrô",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E9D4",
+  "en": "Red Shell",
+  "pt": "Casco Verm.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080E9FC",
+  "en": "Blue Shell",
+  "pt": "Casco Azul",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EA24",
+  "en": "Yellow Shell",
+  "pt": "Casco Amarelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EA4C",
+  "en": "Green Shell",
+  "pt": "Casco Verde",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EA74",
+  "en": "Ice Stone",
+  "pt": "Pedra Gelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EA9C",
+  "en": "Sun Stone",
+  "pt": "Pedra Solar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EAC4",
+  "en": "Moon Stone",
+  "pt": "Pedra Lunar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EAEC",
+  "en": "Shiny Stone",
+  "pt": "Pedra Brilhosa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EB14",
+  "en": "Dusk Stone",
+  "pt": "Pedra Ocaso",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EB3C",
+  "en": "Dawn Stone",
+  "pt": "Pedra Aurora",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EB64",
+  "en": "Sweet Apple",
+  "pt": "Maçã Doce",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EB8C",
+  "en": "Tart Apple",
+  "pt": "Maçã Azeda",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EBB4",
+  "en": "Cracked Pot",
+  "pt": "Bule Rachado",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EBDC",
+  "en": "Chipped Pot",
+  "pt": "Bule Lascado",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EC04",
+  "en": "GalaricaCuff",
+  "pt": "Pulseira Galar.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EC2C",
+  "en": "GalrcaWreath",
+  "pt": "Coroa Galarica",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EC54",
+  "en": "Dragon Scale",
+  "pt": "Escama Dragão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EC7C",
+  "en": "Upgrade",
+  "pt": "Upgrade",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080ECA4",
+  "en": "Protector",
+  "pt": "Protetor",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080ECCC",
+  "en": "Electirizer",
+  "pt": "Eletrizador",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080ECF4",
+  "en": "Magmarizer",
+  "pt": "Magmarizador",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080ED1C",
+  "en": "Dubious Disc",
+  "pt": "Disco Duvidoso",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080ED44",
+  "en": "Reaper Cloth",
+  "pt": "Pano Ceifador",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080ED6C",
+  "en": "Prism Scale",
+  "pt": "Escama Prisma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080ED94",
+  "en": "Whipped Dream",
+  "pt": "Creme Batido",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EDBC",
+  "en": "Sachet",
+  "pt": "Sachê",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EDE4",
+  "en": "Oval Stone",
+  "pt": "Pedra Oval",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EE0C",
+  "en": "StrwbrySweet",
+  "pt": "Doce Morango",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EE34",
+  "en": "Love Sweet",
+  "pt": "Doce Amor",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EE5C",
+  "en": "Berry Sweet",
+  "pt": "Doce Fruta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EE84",
+  "en": "Clover Sweet",
+  "pt": "Doce Trevo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EEAC",
+  "en": "Flower Sweet",
+  "pt": "Doce Flor",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EED4",
+  "en": "Star Sweet",
+  "pt": "Doce Estrela",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EEFC",
+  "en": "Ribbon Sweet",
+  "pt": "Doce Fita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EF24",
+  "en": "Everstone",
+  "pt": "Pedra Eterna",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EF4C",
+  "en": "Red Nectar",
+  "pt": "Néctar Verm.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EF74",
+  "en": "Yellow Nectar",
+  "pt": "Néctar Amarelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EF9C",
+  "en": "Pink Nectar",
+  "pt": "Néctar Rosa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EFC4",
+  "en": "Purple Nectar",
+  "pt": "Néctar Roxo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080EFEC",
+  "en": "Flame Plate",
+  "pt": "Placa Chama",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F014",
+  "en": "Splash Plate",
+  "pt": "Placa Respingo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F03C",
+  "en": "Zap Plate",
+  "pt": "Placa Faísca",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F064",
+  "en": "Meadow Plate",
+  "pt": "Placa Prado",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F08C",
+  "en": "Icicle Plate",
+  "pt": "Placa Pingente",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F0B4",
+  "en": "Fist Plate",
+  "pt": "Placa Punho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F0DC",
+  "en": "Toxic Plate",
+  "pt": "Placa Tóxica",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F104",
+  "en": "Earth Plate",
+  "pt": "Placa Terra",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F12C",
+  "en": "Sky Plate",
+  "pt": "Placa Céu",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F154",
+  "en": "Mind Plate",
+  "pt": "Placa Mente",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F17C",
+  "en": "Insect Plate",
+  "pt": "Placa Inseto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F1A4",
+  "en": "Stone Plate",
+  "pt": "Placa Pedra",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F1CC",
+  "en": "Spooky Plate",
+  "pt": "Placa Sinistra",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F1F4",
+  "en": "Draco Plate",
+  "pt": "Placa Draco",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F21C",
+  "en": "Dread Plate",
+  "pt": "Placa Pavor",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F244",
+  "en": "Iron Plate",
+  "pt": "Placa Ferro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F26C",
+  "en": "Pixie Plate",
+  "pt": "Placa Fada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F294",
+  "en": "Douse Drive",
+  "pt": "Drive Água",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F2BC",
+  "en": "Shock Drive",
+  "pt": "Drive Choque",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F2E4",
+  "en": "Burn Drive",
+  "pt": "Drive Fogo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F30C",
+  "en": "Chill Drive",
+  "pt": "Drive Gelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F334",
+  "en": "Fire Memory",
+  "pt": "Memória Fogo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F35C",
+  "en": "Water Memory",
+  "pt": "Memória Água",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F384",
+  "en": "ElectrcMemory",
+  "pt": "Mem. Elétrica",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F3AC",
+  "en": "Grass Memory",
+  "pt": "Memória Planta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F3D4",
+  "en": "Ice Memory",
+  "pt": "Memória Gelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F3FC",
+  "en": "FightngMemory",
+  "pt": "Mem. Lutadora",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F424",
+  "en": "Poison Memory",
+  "pt": "Mem. Venenosa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F44C",
+  "en": "Ground Memory",
+  "pt": "Mem. Terrestre",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F474",
+  "en": "Flying Memory",
+  "pt": "Mem. Voadora",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F49C",
+  "en": "PsychicMemory",
+  "pt": "Mem. Psíquica",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F4C4",
+  "en": "Bug Memory",
+  "pt": "Mem. Inseto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F4EC",
+  "en": "Rock Memory",
+  "pt": "Memória Pedra",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F514",
+  "en": "Ghost Memory",
+  "pt": "Mem. Fantasma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F53C",
+  "en": "Dragon Memory",
+  "pt": "Memória Dragão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F564",
+  "en": "Dark Memory",
+  "pt": "Mem. Sombria",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F58C",
+  "en": "Steel Memory",
+  "pt": "Memória Aço",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F5B4",
+  "en": "Fairy Memory",
+  "pt": "Memória Fada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F5DC",
+  "en": "RustedSword",
+  "pt": "Espada Gasta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F604",
+  "en": "RustedShield",
+  "pt": "Escudo Gasto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F62C",
+  "en": "Red Orb",
+  "pt": "Orbe Vermelho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F654",
+  "en": "Blue Orb",
+  "pt": "Orbe Azul",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F67C",
+  "en": "Venusaurite",
+  "pt": "Venusaurita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F6A4",
+  "en": "CharizarditeX",
+  "pt": "Charizardita X",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F6CC",
+  "en": "CharizarditeY",
+  "pt": "Charizardita Y",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F6F4",
+  "en": "Blastoisinite",
+  "pt": "Blastoisinita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F71C",
+  "en": "Beedrillite",
+  "pt": "Beedrillita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F744",
+  "en": "Pidgeotite",
+  "pt": "Pidgeotita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F76C",
+  "en": "Alakazite",
+  "pt": "Alakazita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F794",
+  "en": "Slowbronite",
+  "pt": "Slowbronita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F7BC",
+  "en": "Gengarite",
+  "pt": "Gengarita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F7E4",
+  "en": "Kangaskhanite",
+  "pt": "Kangaskhanita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F80C",
+  "en": "Pinsirite",
+  "pt": "Pinsirita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F834",
+  "en": "Gyaradosite",
+  "pt": "Gyaradosita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F85C",
+  "en": "Aerodactylite",
+  "pt": "Aerodactylita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F884",
+  "en": "Mewtwonite X",
+  "pt": "Mewtwonita X",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F8AC",
+  "en": "Mewtwonite Y",
+  "pt": "Mewtwonita Y",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F8D4",
+  "en": "Ampharosite",
+  "pt": "Ampharosita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F8FC",
+  "en": "Steelixite",
+  "pt": "Steelixita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F924",
+  "en": "Scizorite",
+  "pt": "Scizorita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F94C",
+  "en": "Heracronite",
+  "pt": "Heracronita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F974",
+  "en": "Houndoominite",
+  "pt": "Houndoominita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F99C",
+  "en": "Tyranitarite",
+  "pt": "Tyranitarita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F9C4",
+  "en": "Sceptilite",
+  "pt": "Sceptilita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080F9EC",
+  "en": "Blazikenite",
+  "pt": "Blazikenita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FA14",
+  "en": "Swampertite",
+  "pt": "Swampertita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FA3C",
+  "en": "Gardevoirite",
+  "pt": "Gardevoirita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FA64",
+  "en": "Sablenite",
+  "pt": "Sablenita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FA8C",
+  "en": "Mawilite",
+  "pt": "Mawilita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FAB4",
+  "en": "Aggronite",
+  "pt": "Aggronita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FADC",
+  "en": "Medichamite",
+  "pt": "Medichamita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FB04",
+  "en": "Manectite",
+  "pt": "Manectita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FB2C",
+  "en": "Sharpedonite",
+  "pt": "Sharpedonita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FB54",
+  "en": "Cameruptite",
+  "pt": "Cameruptita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FB7C",
+  "en": "Altarianite",
+  "pt": "Altarianita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FBA4",
+  "en": "Banettite",
+  "pt": "Banettita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FBCC",
+  "en": "Absolite",
+  "pt": "Absolita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FBF4",
+  "en": "Glalitite",
+  "pt": "Glalitita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FC1C",
+  "en": "Salamencite",
+  "pt": "Salamencita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FC44",
+  "en": "Metagrossite",
+  "pt": "Metagrossita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FC6C",
+  "en": "Latiasite",
+  "pt": "Latiasita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FC94",
+  "en": "Latiosite",
+  "pt": "Latiosita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FCBC",
+  "en": "Lopunnite",
+  "pt": "Lopunnita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FCE4",
+  "en": "Garchompite",
+  "pt": "Garchompita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FD0C",
+  "en": "Lucarionite",
+  "pt": "Lucarionita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FD34",
+  "en": "Abomasite",
+  "pt": "Abomasita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FD5C",
+  "en": "Galladite",
+  "pt": "Galladita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FD84",
+  "en": "Audinite",
+  "pt": "Audinita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FDAC",
+  "en": "Diancite",
+  "pt": "Diancita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FDD4",
+  "en": "Normal Gem",
+  "pt": "Joia Normal",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FDFC",
+  "en": "Fire Gem",
+  "pt": "Joia Fogo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FE24",
+  "en": "Water Gem",
+  "pt": "Joia Água",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FE4C",
+  "en": "Electric Gem",
+  "pt": "Joia Elétrica",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FE74",
+  "en": "Grass Gem",
+  "pt": "Joia Planta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FE9C",
+  "en": "Ice Gem",
+  "pt": "Joia Gelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FEC4",
+  "en": "Fighting Gem",
+  "pt": "Joia Lutadora",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FEEC",
+  "en": "Poison Gem",
+  "pt": "Joia Venenosa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FF14",
+  "en": "Ground Gem",
+  "pt": "Joia Terrestre",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FF3C",
+  "en": "Flying Gem",
+  "pt": "Joia Voadora",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FF64",
+  "en": "Psychic Gem",
+  "pt": "Joia Psíquica",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FF8C",
+  "en": "Bug Gem",
+  "pt": "Joia Inseto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FFB4",
+  "en": "Rock Gem",
+  "pt": "Joia Pedra",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "080FFDC",
+  "en": "Ghost Gem",
+  "pt": "Joia Fantasma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810004",
+  "en": "Dragon Gem",
+  "pt": "Joia Dragão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081002C",
+  "en": "Dark Gem",
+  "pt": "Joia Sombria",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810054",
+  "en": "Steel Gem",
+  "pt": "Joia Aço",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081007C",
+  "en": "Fairy Gem",
+  "pt": "Joia Fada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08100A4",
+  "en": "Normalium Z",
+  "pt": "Normalium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08100CC",
+  "en": "Firium Z",
+  "pt": "Firium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08100F4",
+  "en": "Waterium Z",
+  "pt": "Waterium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081011C",
+  "en": "Electrium Z",
+  "pt": "Electrium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810144",
+  "en": "Grassium Z",
+  "pt": "Grassium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081016C",
+  "en": "Icium Z",
+  "pt": "Icium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810194",
+  "en": "Fightinium Z",
+  "pt": "Fightinium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08101BC",
+  "en": "Poisonium Z",
+  "pt": "Poisonium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08101E4",
+  "en": "Groundium Z",
+  "pt": "Groundium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081020C",
+  "en": "Flyinium Z",
+  "pt": "Flyinium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810234",
+  "en": "Psychium Z",
+  "pt": "Psychium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081025C",
+  "en": "Buginium Z",
+  "pt": "Buginium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810284",
+  "en": "Rockium Z",
+  "pt": "Rockium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08102AC",
+  "en": "Ghostium Z",
+  "pt": "Ghostium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08102D4",
+  "en": "Dragonium Z",
+  "pt": "Dragonium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08102FC",
+  "en": "Darkinium Z",
+  "pt": "Darkinium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810324",
+  "en": "Steelium Z",
+  "pt": "Steelium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081034C",
+  "en": "Fairium Z",
+  "pt": "Fairium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810374",
+  "en": "Pikanium Z",
+  "pt": "Pikanium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081039C",
+  "en": "Eevium Z",
+  "pt": "Eevium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08103C4",
+  "en": "Snorlium Z",
+  "pt": "Snorlium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08103EC",
+  "en": "Mewnium Z",
+  "pt": "Mewnium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810414",
+  "en": "Decidium Z",
+  "pt": "Decidium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081043C",
+  "en": "Incinium Z",
+  "pt": "Incinium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810464",
+  "en": "Primarium Z",
+  "pt": "Primarium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081048C",
+  "en": "Lycanium Z",
+  "pt": "Lycanium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08104B4",
+  "en": "Mimikium Z",
+  "pt": "Mimikium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08104DC",
+  "en": "Kommonium Z",
+  "pt": "Kommonium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810504",
+  "en": "Tapunium Z",
+  "pt": "Tapunium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081052C",
+  "en": "Solganium Z",
+  "pt": "Solganium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810554",
+  "en": "Lunalium Z",
+  "pt": "Lunalium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081057C",
+  "en": "Marshadium Z",
+  "pt": "Marshadium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08105A4",
+  "en": "Aloraichium Z",
+  "pt": "Aloraichium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08105CC",
+  "en": "Pikashunium Z",
+  "pt": "Pikashunium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08105F4",
+  "en": "U-Necrozium Z",
+  "pt": "U-Necrozium Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081061C",
+  "en": "Light Ball",
+  "pt": "Bola de Luz",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810644",
+  "en": "Leek",
+  "pt": "Alho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081066C",
+  "en": "Thick Club",
+  "pt": "Osso Grosso",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810694",
+  "en": "Lucky Punch",
+  "pt": "Soco da Sorte",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08106BC",
+  "en": "Metal Powder",
+  "pt": "Pó Metálico",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08106E4",
+  "en": "Quick Powder",
+  "pt": "Pó Rápido",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081070C",
+  "en": "DeepSeaScale",
+  "pt": "Escama Abissal",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810734",
+  "en": "DeepSeaTooth",
+  "pt": "Dente Abissal",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081075C",
+  "en": "Soul Dew",
+  "pt": "Orvalho Alma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810784",
+  "en": "Adamant Orb",
+  "pt": "Orbe Adamante",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08107AC",
+  "en": "Lustrous Orb",
+  "pt": "Orbe Lustroso",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08107D4",
+  "en": "Griseous Orb",
+  "pt": "Orbe Gríseo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08107FC",
+  "en": "Sea Incense",
+  "pt": "Incenso Mar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810824",
+  "en": "Lax Incense",
+  "pt": "Incenso Leve",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081084C",
+  "en": "Odd Incense",
+  "pt": "Incenso Raro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810874",
+  "en": "Rock Incense",
+  "pt": "Incenso Rocha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081089C",
+  "en": "Full Incense",
+  "pt": "Incenso Cheio",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08108C4",
+  "en": "Wave Incense",
+  "pt": "Incenso Onda",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08108EC",
+  "en": "Rose Incense",
+  "pt": "Incenso Rosa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810914",
+  "en": "Luck Incense",
+  "pt": "Incenso Sorte",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081093C",
+  "en": "Pure Incense",
+  "pt": "Incenso Puro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810964",
+  "en": "Red Scarf",
+  "pt": "Lenço Verm.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081098C",
+  "en": "Blue Scarf",
+  "pt": "Lenço Azul",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08109B4",
+  "en": "Pink Scarf",
+  "pt": "Lenço Rosa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08109DC",
+  "en": "Green Scarf",
+  "pt": "Lenço Verde",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810A04",
+  "en": "Yellow Scarf",
+  "pt": "Lenço Amarelo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810A2C",
+  "en": "Macho Brace",
+  "pt": "Cinta Macho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810A54",
+  "en": "Power Weight",
+  "pt": "Peso Poder",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810A7C",
+  "en": "Power Bracer",
+  "pt": "Pulseira Poder",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810AA4",
+  "en": "Power Belt",
+  "pt": "Cinto Poder",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810ACC",
+  "en": "Power Lens",
+  "pt": "Lente Poder",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810AF4",
+  "en": "Power Band",
+  "pt": "Faixa Poder",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810B1C",
+  "en": "Power Anklet",
+  "pt": "Tornoz. Poder",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810B44",
+  "en": "Silk Scarf",
+  "pt": "Lenço de Seda",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810B6C",
+  "en": "Charcoal",
+  "pt": "Carvão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810B94",
+  "en": "Mystic Water",
+  "pt": "Água Mística",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810BBC",
+  "en": "Magnet",
+  "pt": "Ímã",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810BE4",
+  "en": "Miracle Seed",
+  "pt": "Sem. Milagre",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810C0C",
+  "en": "Never-MeltIce",
+  "pt": "Gelo Eterno",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810C34",
+  "en": "Black Belt",
+  "pt": "Faixa Preta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810C5C",
+  "en": "Poison Barb",
+  "pt": "Ferrão Tóxico",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810C84",
+  "en": "Soft Sand",
+  "pt": "Areia Macia",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810CAC",
+  "en": "Sharp Beak",
+  "pt": "Bico Afiado",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810CD4",
+  "en": "Twisted Spoon",
+  "pt": "Colher Torta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810CFC",
+  "en": "Silver Powder",
+  "pt": "Pó Prateado",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810D24",
+  "en": "Hard Stone",
+  "pt": "Pedra Dura",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810D4C",
+  "en": "Spell Tag",
+  "pt": "Selo Maldito",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810D74",
+  "en": "Dragon Fang",
+  "pt": "Presa Dragão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810D9C",
+  "en": "Black Glasses",
+  "pt": "Óculos Pretos",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810DC4",
+  "en": "Metal Coat",
+  "pt": "Capa Metálica",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810DEC",
+  "en": "Choice Band",
+  "pt": "Faixa Escolha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810E14",
+  "en": "Choice Specs",
+  "pt": "Óculos Escolha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810E3C",
+  "en": "Choice Scarf",
+  "pt": "Lenço Escolha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810E64",
+  "en": "Flame Orb",
+  "pt": "Orbe Chama",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810E8C",
+  "en": "Toxic Orb",
+  "pt": "Orbe Tóxico",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810EB4",
+  "en": "Damp Rock",
+  "pt": "Rocha Úmida",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810EDC",
+  "en": "Heat Rock",
+  "pt": "Rocha Quente",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810F04",
+  "en": "Smooth Rock",
+  "pt": "Rocha Lisa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810F2C",
+  "en": "Icy Rock",
+  "pt": "Rocha Gelada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810F54",
+  "en": "Electric Seed",
+  "pt": "Semente Elétr.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810F7C",
+  "en": "Psychic Seed",
+  "pt": "Semente Psíq.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810FA4",
+  "en": "Misty Seed",
+  "pt": "Semente Névoa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810FCC",
+  "en": "Grassy Seed",
+  "pt": "Semente Grama",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0810FF4",
+  "en": "Absorb Bulb",
+  "pt": "Bulbo Absorv.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081101C",
+  "en": "Cell Battery",
+  "pt": "Bateria",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811044",
+  "en": "Luminous Moss",
+  "pt": "Musgo Brilho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081106C",
+  "en": "Snowball",
+  "pt": "Bola de Neve",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811094",
+  "en": "Bright Powder",
+  "pt": "Pó Brilhante",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08110BC",
+  "en": "White Herb",
+  "pt": "Erva Branca",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08110E4",
+  "en": "Exp. Share",
+  "pt": "Compart. Exp.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081110C",
+  "en": "Quick Claw",
+  "pt": "Garra Rápida",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811134",
+  "en": "Soothe Bell",
+  "pt": "Sino Calmante",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081115C",
+  "en": "Mental Herb",
+  "pt": "Erva Mental",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811184",
+  "en": "King's Rock",
+  "pt": "Pedra do Rei",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08111AC",
+  "en": "Amulet Coin",
+  "pt": "Moeda Amuleto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08111D4",
+  "en": "Cleanse Tag",
+  "pt": "Selo Purific.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08111FC",
+  "en": "Smoke Ball",
+  "pt": "Bola de Fumaça",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811224",
+  "en": "Focus Band",
+  "pt": "Faixa Foco",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081124C",
+  "en": "Lucky Egg",
+  "pt": "Ovo da Sorte",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811274",
+  "en": "Scope Lens",
+  "pt": "Lente de Mira",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081129C",
+  "en": "Leftovers",
+  "pt": "Restos",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08112C4",
+  "en": "Shell Bell",
+  "pt": "Sino Concha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08112EC",
+  "en": "Wide Lens",
+  "pt": "Lente Ampla",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811314",
+  "en": "Muscle Band",
+  "pt": "Faixa Músculo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081133C",
+  "en": "Wise Glasses",
+  "pt": "Óculos Sábios",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811364",
+  "en": "Expert Belt",
+  "pt": "Cinto Perito",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081138C",
+  "en": "Light Clay",
+  "pt": "Argila Leve",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08113B4",
+  "en": "Life Orb",
+  "pt": "Orbe Vital",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08113DC",
+  "en": "Power Herb",
+  "pt": "Erva Poder",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811404",
+  "en": "Focus Sash",
+  "pt": "Cinta Foco",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081142C",
+  "en": "Zoom Lens",
+  "pt": "Lente Zoom",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811454",
+  "en": "Metronome",
+  "pt": "Metrônomo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081147C",
+  "en": "Iron Ball",
+  "pt": "Bola de Ferro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08114A4",
+  "en": "Lagging Tail",
+  "pt": "Cauda Lenta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08114CC",
+  "en": "Destiny Knot",
+  "pt": "Laço Destino",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08114F4",
+  "en": "Black Sludge",
+  "pt": "Lodo Negro",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081151C",
+  "en": "Grip Claw",
+  "pt": "Garra Firme",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811544",
+  "en": "Sticky Barb",
+  "pt": "Farpa Adesiva",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081156C",
+  "en": "Shed Shell",
+  "pt": "Casca Muda",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811594",
+  "en": "Big Root",
+  "pt": "Raiz Grande",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08115BC",
+  "en": "Razor Claw",
+  "pt": "Garra Afiada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08115E4",
+  "en": "Razor Fang",
+  "pt": "Presa Afiada",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081160C",
+  "en": "Eviolite",
+  "pt": "Eviolita",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811634",
+  "en": "Float Stone",
+  "pt": "Pedra-pomes",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081165C",
+  "en": "Rocky Helmet",
+  "pt": "Elmo Rochoso",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811684",
+  "en": "Air Balloon",
+  "pt": "Balão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08116AC",
+  "en": "Red Card",
+  "pt": "Cartão Verm.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08116D4",
+  "en": "Ring Target",
+  "pt": "Alvo Anel",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08116FC",
+  "en": "Binding Band",
+  "pt": "Faixa Aperto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811724",
+  "en": "Eject Button",
+  "pt": "Botão Ejetar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081174C",
+  "en": "WeaknssPolicy",
+  "pt": "Seguro Fraq.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811774",
+  "en": "Assault Vest",
+  "pt": "Colete Assalto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081179C",
+  "en": "SafetyGoggles",
+  "pt": "Óculos Prot.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08117C4",
+  "en": "AdrenalineOrb",
+  "pt": "Orbe Adrenal.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08117EC",
+  "en": "TerainExtendr",
+  "pt": "Extens. Campo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811814",
+  "en": "ProtectvePads",
+  "pt": "Protetores",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081183C",
+  "en": "Throat Spray",
+  "pt": "Spray Vocal",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811864",
+  "en": "Eject Pack",
+  "pt": "Mochila Ejetar",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081188C",
+  "en": "Heavy-DtyBts",
+  "pt": "Botas Pesadas",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08118B4",
+  "en": "BlundrPolicy",
+  "pt": "Seguro Falha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08118DC",
+  "en": "Room Service",
+  "pt": "Serviço Quarto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811904",
+  "en": "UtltyUmbrlla",
+  "pt": "Guarda-Chuva",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081192C",
+  "en": "Cheri Berry",
+  "pt": "Fruta Cheri",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811954",
+  "en": "Chesto Berry",
+  "pt": "Fruta Chesto",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081197C",
+  "en": "Pecha Berry",
+  "pt": "Fruta Pecha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08119A4",
+  "en": "Rawst Berry",
+  "pt": "Fruta Rawst",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08119CC",
+  "en": "Aspear Berry",
+  "pt": "Fruta Aspear",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08119F4",
+  "en": "Leppa Berry",
+  "pt": "Fruta Leppa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811A1C",
+  "en": "Oran Berry",
+  "pt": "Fruta Oran",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811A44",
+  "en": "Persim Berry",
+  "pt": "Fruta Persim",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811A6C",
+  "en": "Lum Berry",
+  "pt": "Fruta Lum",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811A94",
+  "en": "Sitrus Berry",
+  "pt": "Fruta Sitrus",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811ABC",
+  "en": "Figy Berry",
+  "pt": "Fruta Figy",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811AE4",
+  "en": "Wiki Berry",
+  "pt": "Fruta Wiki",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811B0C",
+  "en": "Mago Berry",
+  "pt": "Fruta Mago",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811B34",
+  "en": "Aguav Berry",
+  "pt": "Fruta Aguav",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811B5C",
+  "en": "Iapapa Berry",
+  "pt": "Fruta Iapapa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811B84",
+  "en": "Razz Berry",
+  "pt": "Fruta Razz",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811BAC",
+  "en": "Bluk Berry",
+  "pt": "Fruta Bluk",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811BD4",
+  "en": "Nanab Berry",
+  "pt": "Fruta Nanab",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811BFC",
+  "en": "Wepear Berry",
+  "pt": "Fruta Wepear",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811C24",
+  "en": "Pinap Berry",
+  "pt": "Fruta Pinap",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811C4C",
+  "en": "Pomeg Berry",
+  "pt": "Fruta Pomeg",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811C74",
+  "en": "Kelpsy Berry",
+  "pt": "Fruta Kelpsy",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811C9C",
+  "en": "Qualot Berry",
+  "pt": "Fruta Qualot",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811CC4",
+  "en": "Hondew Berry",
+  "pt": "Fruta Hondew",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811CEC",
+  "en": "Grepa Berry",
+  "pt": "Fruta Grepa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811D14",
+  "en": "Tamato Berry",
+  "pt": "Fruta Tamato",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811D3C",
+  "en": "Cornn Berry",
+  "pt": "Fruta Cornn",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811D64",
+  "en": "Magost Berry",
+  "pt": "Fruta Magost",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811D8C",
+  "en": "Rabuta Berry",
+  "pt": "Fruta Rabuta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811DB4",
+  "en": "Nomel Berry",
+  "pt": "Fruta Nomel",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811DDC",
+  "en": "Spelon Berry",
+  "pt": "Fruta Spelon",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811E04",
+  "en": "Pamtre Berry",
+  "pt": "Fruta Pamtre",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811E2C",
+  "en": "Watmel Berry",
+  "pt": "Fruta Watmel",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811E54",
+  "en": "Durin Berry",
+  "pt": "Fruta Durin",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811E7C",
+  "en": "Belue Berry",
+  "pt": "Fruta Belue",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811EA4",
+  "en": "Chilan Berry",
+  "pt": "Fruta Chilan",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811ECC",
+  "en": "Occa Berry",
+  "pt": "Fruta Occa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811EF4",
+  "en": "Passho Berry",
+  "pt": "Fruta Passho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811F1C",
+  "en": "Wacan Berry",
+  "pt": "Fruta Wacan",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811F44",
+  "en": "Rindo Berry",
+  "pt": "Fruta Rindo",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811F6C",
+  "en": "Yache Berry",
+  "pt": "Fruta Yache",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811F94",
+  "en": "Chople Berry",
+  "pt": "Fruta Chople",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811FBC",
+  "en": "Kebia Berry",
+  "pt": "Fruta Kebia",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0811FE4",
+  "en": "Shuca Berry",
+  "pt": "Fruta Shuca",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081200C",
+  "en": "Coba Berry",
+  "pt": "Fruta Coba",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812034",
+  "en": "Payapa Berry",
+  "pt": "Fruta Payapa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081205C",
+  "en": "Tanga Berry",
+  "pt": "Fruta Tanga",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812084",
+  "en": "Charti Berry",
+  "pt": "Fruta Charti",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08120AC",
+  "en": "Kasib Berry",
+  "pt": "Fruta Kasib",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08120D4",
+  "en": "Haban Berry",
+  "pt": "Fruta Haban",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08120FC",
+  "en": "Colbur Berry",
+  "pt": "Fruta Colbur",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812124",
+  "en": "Babiri Berry",
+  "pt": "Fruta Babiri",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081214C",
+  "en": "Roseli Berry",
+  "pt": "Fruta Roseli",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812174",
+  "en": "Liechi Berry",
+  "pt": "Fruta Liechi",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081219C",
+  "en": "Ganlon Berry",
+  "pt": "Fruta Ganlon",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08121C4",
+  "en": "Salac Berry",
+  "pt": "Fruta Salac",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08121EC",
+  "en": "Petaya Berry",
+  "pt": "Fruta Petaya",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812214",
+  "en": "Apicot Berry",
+  "pt": "Fruta Apicot",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081223C",
+  "en": "Lansat Berry",
+  "pt": "Fruta Lansat",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812264",
+  "en": "Starf Berry",
+  "pt": "Fruta Starf",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081228C",
+  "en": "Enigma Berry",
+  "pt": "Fruta Enigma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08122B4",
+  "en": "Micle Berry",
+  "pt": "Fruta Micle",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08122DC",
+  "en": "Custap Berry",
+  "pt": "Fruta Custap",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812304",
+  "en": "Jaboca Berry",
+  "pt": "Fruta Jaboca",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081232C",
+  "en": "Rowap Berry",
+  "pt": "Fruta Rowap",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812354",
+  "en": "Kee Berry",
+  "pt": "Fruta Kee",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081237C",
+  "en": "Maranga Berry",
+  "pt": "Fruta Maranga",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08123A4",
+  "en": "Enigma Berry",
+  "pt": "Fruta Enigma",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08123CC",
+  "en": "TM01",
+  "pt": "TM01",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08123F4",
+  "en": "TM02",
+  "pt": "TM02",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081241C",
+  "en": "TM03",
+  "pt": "TM03",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812444",
+  "en": "TM04",
+  "pt": "TM04",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081246C",
+  "en": "TM05",
+  "pt": "TM05",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812494",
+  "en": "TM06",
+  "pt": "TM06",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08124BC",
+  "en": "TM07",
+  "pt": "TM07",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08124E4",
+  "en": "TM08",
+  "pt": "TM08",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081250C",
+  "en": "TM09",
+  "pt": "TM09",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812534",
+  "en": "TM10",
+  "pt": "TM10",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081255C",
+  "en": "TM11",
+  "pt": "TM11",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812584",
+  "en": "TM12",
+  "pt": "TM12",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08125AC",
+  "en": "TM13",
+  "pt": "TM13",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08125D4",
+  "en": "TM14",
+  "pt": "TM14",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08125FC",
+  "en": "TM15",
+  "pt": "TM15",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812624",
+  "en": "TM16",
+  "pt": "TM16",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081264C",
+  "en": "TM17",
+  "pt": "TM17",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812674",
+  "en": "TM18",
+  "pt": "TM18",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081269C",
+  "en": "TM19",
+  "pt": "TM19",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08126C4",
+  "en": "TM20",
+  "pt": "TM20",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08126EC",
+  "en": "TM21",
+  "pt": "TM21",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812714",
+  "en": "TM22",
+  "pt": "TM22",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081273C",
+  "en": "TM23",
+  "pt": "TM23",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812764",
+  "en": "TM24",
+  "pt": "TM24",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081278C",
+  "en": "TM25",
+  "pt": "TM25",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08127B4",
+  "en": "TM26",
+  "pt": "TM26",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08127DC",
+  "en": "TM27",
+  "pt": "TM27",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812804",
+  "en": "TM28",
+  "pt": "TM28",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081282C",
+  "en": "TM29",
+  "pt": "TM29",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812854",
+  "en": "TM30",
+  "pt": "TM30",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081287C",
+  "en": "TM31",
+  "pt": "TM31",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08128A4",
+  "en": "TM32",
+  "pt": "TM32",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08128CC",
+  "en": "TM33",
+  "pt": "TM33",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08128F4",
+  "en": "TM34",
+  "pt": "TM34",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081291C",
+  "en": "TM35",
+  "pt": "TM35",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812944",
+  "en": "TM36",
+  "pt": "TM36",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081296C",
+  "en": "TM37",
+  "pt": "TM37",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812994",
+  "en": "TM38",
+  "pt": "TM38",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08129BC",
+  "en": "TM39",
+  "pt": "TM39",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08129E4",
+  "en": "TM40",
+  "pt": "TM40",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812A0C",
+  "en": "TM41",
+  "pt": "TM41",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812A34",
+  "en": "TM42",
+  "pt": "TM42",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812A5C",
+  "en": "TM43",
+  "pt": "TM43",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812A84",
+  "en": "TM44",
+  "pt": "TM44",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812AAC",
+  "en": "TM45",
+  "pt": "TM45",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812AD4",
+  "en": "TM46",
+  "pt": "TM46",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812AFC",
+  "en": "TM47",
+  "pt": "TM47",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812B24",
+  "en": "TM48",
+  "pt": "TM48",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812B4C",
+  "en": "TM49",
+  "pt": "TM49",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812B74",
+  "en": "TM50",
+  "pt": "TM50",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812B9C",
+  "en": "TM51",
+  "pt": "TM51",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812BC4",
+  "en": "TM52",
+  "pt": "TM52",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812BEC",
+  "en": "TM53",
+  "pt": "TM53",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812C14",
+  "en": "TM54",
+  "pt": "TM54",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812C3C",
+  "en": "TM55",
+  "pt": "TM55",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812C64",
+  "en": "TM56",
+  "pt": "TM56",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812C8C",
+  "en": "TM57",
+  "pt": "TM57",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812CB4",
+  "en": "TM58",
+  "pt": "TM58",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812CDC",
+  "en": "TM59",
+  "pt": "TM59",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812D04",
+  "en": "TM60",
+  "pt": "TM60",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812D2C",
+  "en": "TM61",
+  "pt": "TM61",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812D54",
+  "en": "TM62",
+  "pt": "TM62",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812D7C",
+  "en": "TM63",
+  "pt": "TM63",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812DA4",
+  "en": "TM64",
+  "pt": "TM64",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812DCC",
+  "en": "TM65",
+  "pt": "TM65",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812DF4",
+  "en": "TM66",
+  "pt": "TM66",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812E1C",
+  "en": "TM67",
+  "pt": "TM67",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812E44",
+  "en": "TM68",
+  "pt": "TM68",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812E6C",
+  "en": "TM69",
+  "pt": "TM69",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812E94",
+  "en": "TM70",
+  "pt": "TM70",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812EBC",
+  "en": "TM71",
+  "pt": "TM71",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812EE4",
+  "en": "TM72",
+  "pt": "TM72",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812F0C",
+  "en": "TM73",
+  "pt": "TM73",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812F34",
+  "en": "TM74",
+  "pt": "TM74",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812F5C",
+  "en": "TM75",
+  "pt": "TM75",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812F84",
+  "en": "TM76",
+  "pt": "TM76",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812FAC",
+  "en": "TM77",
+  "pt": "TM77",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812FD4",
+  "en": "TM78",
+  "pt": "TM78",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0812FFC",
+  "en": "TM79",
+  "pt": "TM79",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813024",
+  "en": "TM80",
+  "pt": "TM80",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081304C",
+  "en": "TM81",
+  "pt": "TM81",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813074",
+  "en": "TM82",
+  "pt": "TM82",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081309C",
+  "en": "TM83",
+  "pt": "TM83",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08130C4",
+  "en": "TM84",
+  "pt": "TM84",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08130EC",
+  "en": "TM85",
+  "pt": "TM85",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813114",
+  "en": "TM86",
+  "pt": "TM86",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081313C",
+  "en": "TM87",
+  "pt": "TM87",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813164",
+  "en": "TM88",
+  "pt": "TM88",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081318C",
+  "en": "TM89",
+  "pt": "TM89",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08131B4",
+  "en": "TM90",
+  "pt": "TM90",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08131DC",
+  "en": "TM91",
+  "pt": "TM91",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813204",
+  "en": "TM92",
+  "pt": "TM92",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081322C",
+  "en": "TM93",
+  "pt": "TM93",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813254",
+  "en": "TM94",
+  "pt": "TM94",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081327C",
+  "en": "TM95",
+  "pt": "TM95",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08132A4",
+  "en": "TM96",
+  "pt": "TM96",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08132CC",
+  "en": "TM97",
+  "pt": "TM97",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08132F4",
+  "en": "TM98",
+  "pt": "TM98",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081331C",
+  "en": "TM99",
+  "pt": "TM99",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813344",
+  "en": "TM100",
+  "pt": "TM100",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081336C",
+  "en": "HM01",
+  "pt": "HM01",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813394",
+  "en": "HM02",
+  "pt": "HM02",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08133BC",
+  "en": "HM03",
+  "pt": "HM03",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08133E4",
+  "en": "HM04",
+  "pt": "HM04",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081340C",
+  "en": "HM05",
+  "pt": "HM05",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813434",
+  "en": "HM06",
+  "pt": "HM06",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081345C",
+  "en": "HM07",
+  "pt": "HM07",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813484",
+  "en": "HM08",
+  "pt": "HM08",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08134AC",
+  "en": "Oval Charm",
+  "pt": "Amuleto Oval",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08134D4",
+  "en": "Shiny Charm",
+  "pt": "Amuleto Brilho",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08134FC",
+  "en": "CatchngCharm",
+  "pt": "Amul. Captura",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813524",
+  "en": "Exp. Charm",
+  "pt": "Amuleto Exp.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081354C",
+  "en": "RotomCatalog",
+  "pt": "Catál. Rotom",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813574",
+  "en": "Gracidea",
+  "pt": "Gracídea",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081359C",
+  "en": "Reveal Glass",
+  "pt": "Espelho Revel.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08135C4",
+  "en": "DNA Splicers",
+  "pt": "Fusor de DNA",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08135EC",
+  "en": "Zygarde Cube",
+  "pt": "Cubo Zygarde",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813614",
+  "en": "Prison Bottle",
+  "pt": "Garrafa Prisão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081363C",
+  "en": "N-Solarizer",
+  "pt": "N-Solarizador",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813664",
+  "en": "N-Lunarizer",
+  "pt": "N-Lunarizador",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081368C",
+  "en": "ReinsOfUnity",
+  "pt": "Rédeas União",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08136B4",
+  "en": "Mega Ring",
+  "pt": "Mega-Anel",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08136DC",
+  "en": "Z-Power Ring",
+  "pt": "Anel Poder Z",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813704",
+  "en": "Dynamax Band",
+  "pt": "Banda Dynamax",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081372C",
+  "en": "Bicycle",
+  "pt": "Bicicleta",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813754",
+  "en": "Standard Kart",
+  "pt": "Kart Padrão",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081377C",
+  "en": "Yoshi Whistle",
+  "pt": "Apito Yoshi",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08137A4",
+  "en": "Old Rod",
+  "pt": "Vara Velha",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08137CC",
+  "en": "Good Rod",
+  "pt": "Vara Boa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08137F4",
+  "en": "Super Rod",
+  "pt": "Supervara",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081381C",
+  "en": "Dowsing MCHN",
+  "pt": "Detector",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813844",
+  "en": "Town Map",
+  "pt": "Mapa da Cidade",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081386C",
+  "en": "Vs. Seeker",
+  "pt": "Buscador Vs.",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813894",
+  "en": "TM Case",
+  "pt": "Estojo de TM",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08138BC",
+  "en": "Berry Pouch",
+  "pt": "Bolsa Frutas",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "08138E4",
+  "en": "{PK}{MN} Box Link",
+  "pt": "Link da Caixa",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081390C",
+  "en": "Coin Case",
+  "pt": "Porta-Moedas",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813934",
+  "en": "Powder Jar",
+  "pt": "Pote de Pó",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "081395C",
+  "en": "Wailmer Pail",
+  "pt": "Regador",
+  "max_bytes": 20,
+  "max_width": 77
+ },
+ {
+  "offset": "0813984",
+  "en": "Poké Radar",
+  "pt": "Poké Radar",
+  "max_bytes": 20,
+  "max_width": 77
+ }
+]

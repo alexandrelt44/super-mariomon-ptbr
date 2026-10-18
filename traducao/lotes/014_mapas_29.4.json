@@ -1,0 +1,1490 @@
+[
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EB55",
+  "en": "Congratulations!\\pI did a painting of your POKéMON to\\ncommemorate its victory…\\pWell, your POKéMON's appeals were\\nso fantastic, it spurred me into\\lpainting better than I usually do.\\lLook, see?",
+  "pt": "Parabéns!\\pFiz uma pintura da sua CAPTURA para comemorar a vitória dela…\\pSabe, as apresentações da sua CAPTURA foram tão fantásticas que me inspiraram a pintar melhor do que de costume. Olha, viu?"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EC14",
+  "en": "What do you think? I'm confident in\\nwhat I've done, but do you like it?\\pA work of this caliber, it wouldn't look\\nout of place in an art museum.\\pHuh? An art museum really is looking\\nfor paintings?\\pDo you think I should take this there?",
+  "pt": "O que você acha? Estou confiante no que fiz, mas você gostou?\\pUma obra desse nível não ficaria nada mal num museu de arte.\\pHã? Um museu de arte está mesmo procurando pinturas?\\pVocê acha que eu devo levar isto até lá?"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025ECFF",
+  "en": "What, really? Then, sure, I will take\\nthis painting there right now.\\pI'll give it a proper title, too.\\pI hope they'll like it and consider\\nexhibiting this.\\pPlease check if they did accept this.\\nThank you!",
+  "pt": "Sério mesmo? Então tá, vou levar esta pintura lá agora mesmo.\\pVou dar um título à altura também.\\pEspero que gostem e pensem em expor a obra.\\pPor favor, depois confira se aceitaram. Valeu!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EDCC",
+  "en": "Oh, that's right!\\pAs a memento of me painting your\\nPOKéMON, please take this.",
+  "pt": "Ah, é mesmo!\\pComo lembrança por eu ter pintado a sua CAPTURA, aceite isto, por favor."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EE1A",
+  "en": "{PLAYER} received a RIBBON.",
+  "pt": "{PLAYER} recebeu uma FITA."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EE30",
+  "en": "{PLAYER} put the RIBBON on\\n{STR_VAR_1}.",
+  "pt": "{PLAYER} colocou a FITA em {STR_VAR_1}."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EE49",
+  "en": "Okay, see you!",
+  "pt": "Tá bom, até mais!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EE58",
+  "en": "Oh… Then, I guess I'll just take\\nthis home with me…\\pBut, you know, I would like to take\\nthis to the art museum… Okay?",
+  "pt": "Ah… Então acho que vou levar isto pra casa…\\pMas, sabe, eu gostaria de levar isto ao museu de arte… Pode ser?"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EECE",
+  "en": "Oh, fine, that's the way it is.\\nI will hang this in my own house.\\pI'll just have to try harder next time.\\nWell, be seeing you.",
+  "pt": "Ah, tudo bem, se é assim que tem que ser. Vou pendurar isto na minha casa.\\pVou ter que me esforçar mais da próxima vez. Bom, até logo."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EF4D",
+  "en": "Hoo, boy… Master Rank CONTESTS,\\nhere I come.\\pThe world will know that my dearest\\nPOKéMON is the cutest being in all\\lexistence. The time has come!\\lUheheheh.",
+  "pt": "Uhuu… CONCURSOS de nível MESTRE, lá vou eu.\\pO mundo vai saber que a minha querida CAPTURA é a criatura mais fofa de toda a existência. Chegou a hora! Uhehehe."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025EFE9",
+  "en": "You can see a whole variety of\\nPOKéMON here.\\pThat's why I make this place a regular\\npart of my daily stroll.",
+  "pt": "Dá pra ver uma variedade enorme de CAPTURAS aqui.\\pÉ por isso que este lugar faz parte da minha caminhada diária."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025F056",
+  "en": "Wow, coming out to a CONTEST is\\na feast for these eyes!\\pWould you look at all the POKéMON\\nthat just scream to be painted?",
+  "pt": "Uau, vir a um CONCURSO é um banquete para os olhos!\\pOlha só quantas CAPTURAS implorando para serem pintadas!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025F0D0",
+  "en": "The TOUGHNESS CONTEST is like\\nextreme, man!\\pThose muscular appeals…\\nCascading sweat… I swoon!",
+  "pt": "O CONCURSO DE GARRA é tipo radical, cara!\\pAquelas apresentações musculosas… O suor escorrendo… Eu desmaio!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "025F12E",
+  "en": "Day in and day out, I lavished my care\\non this POKéMON.\\pIts condition is peaking.\\nToday, victory is mine!",
+  "pt": "Dia após dia, dei todo o meu carinho a esta CAPTURA.\\pEla está na melhor forma. Hoje, a vitória é minha!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8127",
+  "en": "Please come in through here.\\nGood luck!",
+  "pt": "Por favor, entre por aqui. Boa sorte!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F87EB",
+  "en": "Before entering a CONTEST, your\\nprogress will be saved.",
+  "pt": "Antes de entrar num CONCURSO, o seu progresso será salvo."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F89CE",
+  "en": "Transmission error…",
+  "pt": "Erro de transmissão…"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F89E2",
+  "en": "You may have chosen a different\\nCONTEST than another player.",
+  "pt": "Talvez você tenha escolhido um CONCURSO diferente do de outro jogador."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8A1F",
+  "en": "You may have made a different\\nchoice than another player.",
+  "pt": "Talvez você tenha feito uma escolha diferente da de outro jogador."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8A59",
+  "en": "Please wait.\\n… … B Button: Cancel",
+  "pt": "Aguarde, por favor.\\n… … Botão B: Cancelar"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8ACC",
+  "en": "Your POKéMON will be entered in\\nthe CONTEST.\\pYour POKéMON is Entry No. {STR_VAR_2}.",
+  "pt": "Sua CAPTURA será inscrita no CONCURSO.\\pSua CAPTURA é a inscrição número {STR_VAR_2}."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8B37",
+  "en": "Welcome! This is the POKéMON CONTEST\\nlink reception counter.\\pYou may enter CONTESTS together with\\none or more friends.",
+  "pt": "Bem-vindo! Este é o balcão de inscrição em rede dos CONCURSOS DE CAPTURAS.\\pVocê pode participar de CONCURSOS junto com um ou mais amigos."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8BAE",
+  "en": "Which topic would you like?",
+  "pt": "Sobre qual assunto você quer saber?"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8BCA",
+  "en": "Would you like to enter a CONTEST?",
+  "pt": "Gostaria de participar de um CONCURSO?"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8BED",
+  "en": "Which CONTEST would you like to enter?",
+  "pt": "Em qual CONCURSO gostaria de se inscrever?"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8C14",
+  "en": "Your POKéMON appears to be in no\\ncondition to take part in a CONTEST…",
+  "pt": "Parece que a sua CAPTURA não está em condições de participar de um CONCURSO…"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8C5A",
+  "en": "I'm sorry, but an EGG cannot take part\\nin a POKéMON CONTEST.",
+  "pt": "Sinto muito, mas um OVO não pode participar de um CONCURSO DE CAPTURAS."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8C97",
+  "en": "Which POKéMON would you like to enter?",
+  "pt": "Qual CAPTURA gostaria de inscrever?"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8D28",
+  "en": "At least one player has entered using\\nthe 4-player reception counter.\\pThere must be four players connected\\nusing a GBA Game Link cable.\\pWhen the four players are ready,\\nselect G-MODE (GLOBAL MODE),\\lthen register to enter again, please.",
+  "pt": "Pelo menos um jogador se inscreveu pelo balcão de inscrição para 4 jogadores.\\pÉ preciso haver quatro jogadores conectados com o cabo Game Link do GBA.\\pQuando os quatro jogadores estiverem prontos, selecionem o MODO-G (MODO GLOBAL) e façam a inscrição de novo, por favor."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F8E14",
+  "en": "This is a CONTEST for two to four\\nplayers linked using a Wireless\\lAdapter or a GBA Game Link cable.\\pParticipants are first asked to choose\\nthe mode they wish to enter.\\pThere are two different modes.\\pE-MODE (EMERALD MODE) is for\\ntwo to four players, each with a\\lPOKéMON Emerald Game Pak.\\pG-MODE (GLOBAL MODE) is only for\\nfour players, each with a POKéMON\\lEmerald, Ruby, or Sapphire Game Pak.\\pThe players should discuss which mode\\nthey want, then choose the same mode.\\pOnce all the players have chosen\\nthe same CONTEST in the same mode,\\lthe entry registration is complete.\\pAfter that, a CONTEST will start in\\nthe usual manner.",
+  "pt": "Este é um CONCURSO para dois a quatro jogadores conectados com um Adaptador Wireless ou com o cabo Game Link do GBA.\\pPrimeiro, os participantes escolhem o modo em que desejam participar.\\pExistem dois modos diferentes.\\pO MODO-E (MODO EMERALD) é para dois a quatro jogadores, cada um com um cartucho de POKéMON Emerald.\\pO MODO-G (MODO GLOBAL) é só para quatro jogadores, cada um com um cartucho de POKéMON Emerald, Ruby ou Sapphire.\\pOs jogadores devem combinar qual modo querem e escolher o mesmo modo.\\pQuando todos os jogadores tiverem escolhido o mesmo CONCURSO no mesmo modo, a inscrição estará completa.\\pDepois disso, o CONCURSO começa normalmente."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F9085",
+  "en": "In E-MODE (EMERALD MODE),\\na LINK CONTEST can be held with\\ltwo to four players. Each player must\\lhave a POKéMON Emerald Game Pak.\\pThe players must be linked with each\\nother using Wireless Adapters or\\lGBA Game Link cables.\\pIf there are fewer than four players,\\nTRAINERS in the hall will join to fill\\lthe 4-player CONTEST lineup.\\pPlease be aware that E-MODE is not\\navailable in POKéMON Ruby or Sapphire.",
+  "pt": "No MODO-E (MODO EMERALD), um CONCURSO EM REDE pode ser realizado com dois a quatro jogadores. Cada jogador precisa ter um cartucho de POKéMON Emerald.\\pOs jogadores precisam estar conectados entre si com Adaptadores Wireless ou cabos Game Link do GBA.\\pSe houver menos de quatro jogadores, TREINADORES do salão vão completar a formação de 4 jogadores do CONCURSO.\\pAtenção: o MODO-E não está disponível em POKéMON Ruby ou Sapphire."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F9216",
+  "en": "G-MODE (GLOBAL MODE) is specifically\\nfor four players who are linked using\\lGBA Game Link cables.\\pEach player must have a POKéMON\\nEmerald, Ruby, or Sapphire Game Pak.\\pThe CONTEST starts after all players\\nchoose G-MODE (POKéMON Emerald) or\\lenter through the 4-player reception\\lcounter (POKéMON Ruby or Sapphire).",
+  "pt": "O MODO-G (MODO GLOBAL) é exclusivo para quatro jogadores conectados com cabos Game Link do GBA.\\pCada jogador precisa ter um cartucho de POKéMON Emerald, Ruby ou Sapphire.\\pO CONCURSO começa depois que todos os jogadores escolherem o MODO-G (POKéMON Emerald) ou se inscreverem pelo balcão de inscrição para 4 jogadores (POKéMON Ruby ou Sapphire)."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F934D",
+  "en": "I'm terribly sorry.\\pG-MODE does not function\\nwith Wireless Adapters.\\pPlease select E-MODE or try\\nagain using a GBA Game Link cable.",
+  "pt": "Sinto muitíssimo.\\pO MODO-G não funciona com Adaptadores Wireless.\\pPor favor, selecione o MODO-E ou tente de novo usando um cabo Game Link do GBA."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "02F93D1",
+  "en": "Which CONTEST MODE would you like\\nto enter?",
+  "pt": "Em qual MODO DE CONCURSO você gostaria de participar?"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "030FBBB",
+  "en": "Let's get blending already!",
+  "pt": "Bora misturar logo!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "0341228",
+  "en": "Whoa!\\nAwesome!",
+  "pt": "Uau!\\nIncrível!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "0341237",
+  "en": "Wickedly fast!",
+  "pt": "Rápido demais!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "0341246",
+  "en": "What an expert!",
+  "pt": "Que especialista!"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "034128E",
+  "en": "Eyes that track the arrow with\\nmachinelike intensity…\\pA hand that taps the A Button\\nwith clockwork-like precision…\\pPossessing these qualities makes\\nthe BLEND MASTER truly great.",
+  "pt": "Olhos que seguem a seta com intensidade de máquina…\\pUma mão que aperta o Botão A com precisão de relógio…\\pSão essas qualidades que fazem do BLEND MASTER alguém realmente grandioso."
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "0341340",
+  "en": "The BLEND MASTER's supposed to work\\non his skills deep in the mountains.\\pSometimes, he comes to LILYCOVE\\nto blend BERRIES all day long.",
+  "pt": "Dizem que o BLEND MASTER aprimora as suas habilidades lá no fundo das montanhas.\\pÀs vezes, ele vem a LILYCOVE para misturar FRUTAS o dia inteiro."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025F573",
+  "en": "I've entered a bunch of CONTESTS,\\nso I'm seeing how things work.\\pIf you're in a COOLNESS CONTEST,\\ncool moves go over as appeals.\\pBut smart moves and cute moves\\ndon't go over well, for instance.",
+  "pt": "Já participei de um monte de CONCURSOS, então estou entendendo como as coisas funcionam.\\pSe você está num CONCURSO DE ESTILO, golpes estilosos contam como boas apresentações.\\pMas golpes inteligentes e golpes fofos, por exemplo, não fazem muito sucesso."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025F6AD",
+  "en": "Whoa, isn't this place humongous!\\pThe tension in the air… It's not\\nlike a CONTEST hall in the sticks.",
+  "pt": "Uau, este lugar não é gigantesco?!\\pA tensão no ar… Não é como um salão de CONCURSOS do interior."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025F713",
+  "en": "MC: Okay, SMART POKéMON and their\\nTRAINERS, are you ready?!\\pGive it your best showing!\\nLet's appeal!",
+  "pt": "LOCUTOR: Muito bem, CAPTURAS INTELIGENTES e seus TREINADORES, estão prontos?!\\pDeem o melhor de si! Vamos às apresentações!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025F778",
+  "en": "JUDGE: Are you enjoying this CONTEST?\\pCome back with three friends, and\\nall of you may enter a CONTEST!",
+  "pt": "JUIZ: Está curtindo este CONCURSO?\\pVolte com três amigos, e todos vocês poderão participar de um CONCURSO!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025F7E0",
+  "en": "Ayayayay…\\nI entered the wrong CONTEST.\\pI entered this tough POKéMON in\\nthe SMARTNESS CONTEST…\\pCome on, wow them with a smart-looking\\nROCK SMASH.",
+  "pt": "Ai, ai, ai…\\nEntrei no CONCURSO errado.\\pInscrevi esta CAPTURA durona no CONCURSO DE INTELIGÊNCIA…\\pVamos lá, impressione todo mundo com um ESMAGA PEDRAS bem inteligente."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025F871",
+  "en": "I've spent many a year, and all my\\nwisdom besides, raising this POKéMON\\lto be smart.\\pIt won't be easily bested by some\\nyoung pup's POKéMON.\\pMy dear wife, are you seeing this?",
+  "pt": "Passei muitos anos, e gastei toda a minha sabedoria, criando esta CAPTURA para ser inteligente.\\pEla não vai ser derrotada facilmente pela CAPTURA de um novato qualquer.\\pMinha querida esposa, você está vendo isto?"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025F920",
+  "en": "There it is!\\pIf my POKéMON pulls a smart move next,\\nthe audience's excitement will peak!",
+  "pt": "É agora!\\pSe a minha CAPTURA usar um golpe inteligente agora, a empolgação da plateia vai chegar ao auge!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025F979",
+  "en": "Oh, dear, no!\\pMy darling ZUBAT's LEECH LIFE is so\\ncute I kept using it over and over!\\pBut these mean people don't appreciate\\nit at all!",
+  "pt": "Ai, não, minha nossa!\\pO SUGA-VIDAS do meu querido ZUBAT é tão fofo que eu usei sem parar!\\pMas essas pessoas malvadas não dão o menor valor!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FA01",
+  "en": "Kiyaaah! You're beautiful, Grandpa!",
+  "pt": "Kiyaaah! Você está lindo, Vovô!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FA25",
+  "en": "Even when TRAINERS enter the same\\nkind of POKéMON, they all seem to use\\ldifferent moves for appeals.\\pIt's just like the way people have\\ndifferent styles for battling.",
+  "pt": "Mesmo quando TREINADORES inscrevem o mesmo tipo de CAPTURA, todos parecem usar golpes diferentes nas apresentações.\\pÉ igualzinho a como as pessoas têm estilos diferentes de batalhar."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FACC",
+  "en": "I think the POKéMON look smarter\\nthan their TRAINERS. By a lot.",
+  "pt": "Acho que as CAPTURAS parecem mais inteligentes que os TREINADORES delas. E muito."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FB0C",
+  "en": "When all's said and done, I still love\\nSMARTNESS CONTESTS.\\pThat intellectual green color…\\nIt's so… So… Cool.",
+  "pt": "No fim das contas, eu ainda amo os CONCURSOS DE INTELIGÊNCIA.\\pAquela cor verde intelectual… É tão… Tão… Estilosa."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FB79",
+  "en": "MC: Are you entering the BEAUTY\\nCONTEST, too? Good luck!",
+  "pt": "LOCUTOR: Você também vai participar do CONCURSO DE BELEZA? Boa sorte!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FBB2",
+  "en": "JUDGE: Ah, every POKéMON here is\\na model of pristine beauty!\\pWhy, I almost forgot to score them!",
+  "pt": "JUIZ: Ah, todas as CAPTURAS aqui são um modelo de beleza impecável!\\pPuxa, quase me esqueci de dar as notas!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FC13",
+  "en": "A POKéMON this beautiful…\\nThere isn't another one like it.\\pEveryone's eyes will be glued to\\nmy beauty.",
+  "pt": "Uma CAPTURA tão bonita assim… Não existe outra igual.\\pOs olhos de todos vão ficar grudados na minha beldade."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FC7A",
+  "en": "Waaaah!\\pI brushed and groomed my POKéMON\\ncarefully for this CONTEST…\\pBut I overdid it…\\nMy POKéMON's coat turned all scraggly…\\pWhat should I do?",
+  "pt": "Buááá!\\pEscovei e arrumei a minha CAPTURA com todo o cuidado para este CONCURSO…\\pMas eu exagerei… A pelagem da minha CAPTURA ficou toda desgrenhada…\\pO que eu faço?"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FD0A",
+  "en": "This AURORA BEAM is so dazzling,\\nthe JUDGE won't be able to see it.\\pUh, wait a second…\\nThat'll be meaningless, then!",
+  "pt": "Este RAIO AURORA é tão deslumbrante que o JUIZ nem vai conseguir enxergar.\\pÉ, espera aí… Então não vai adiantar nada!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FD7F",
+  "en": "This pretty POKéMON looks just like\\nme when I was younger.\\pRight when I said that, my husband\\nspewed the coffee he was drinking.\\pDid I say something funny?",
+  "pt": "Esta CAPTURA bonita é a minha cara quando eu era mais nova.\\pNa hora que eu disse isso, o meu marido cuspiu o café que estava bebendo.\\pEu disse algo engraçado?"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FE1B",
+  "en": "You know, if I win at a BEAUTY\\nCONTEST, sure it makes me\\lhappy. More than usual, anyway.",
+  "pt": "Sabe, quando eu ganho num CONCURSO DE BELEZA, é claro que fico feliz. Mais do que o normal, pelo menos."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FE74",
+  "en": "Wahahahah!\\pWill you take a gander at all those\\npretty POKéMON!\\lI just love this sort of glitz!",
+  "pt": "Uahahahah!\\pDá só uma olhada em todas essas CAPTURAS bonitas! Eu adoro esse tipo de glamour!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FED3",
+  "en": "You can't always win on just beauty\\nalone.\\pYou have to groom your POKéMON so\\nit's nice and glossy like mine.",
+  "pt": "Nem sempre dá pra ganhar só com beleza.\\pVocê precisa cuidar da sua CAPTURA pra ela ficar bem lustrosa como a minha."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FF40",
+  "en": "MC: Uh-oh! Hello!\\nWe're in the middle of a CONTEST!\\pPlease enter at our registration\\ncounter and come out, okay?",
+  "pt": "LOCUTOR: Opa! Olá! Estamos no meio de um CONCURSO!\\pPor favor, faça a inscrição no nosso balcão e depois venha, tá bom?"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "025FFB1",
+  "en": "JUDGE: Oh, such charming and cute\\nappeals!\\pOh, my goodness! What a perfectly\\nadorable WATER SPORT appeal!",
+  "pt": "JUIZ: Ah, que apresentações encantadoras e fofas!\\pAi, minha nossa! Que apresentação de BRINCAR NA ÁGUA mais adorável!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "026001B",
+  "en": "Oh, no… My sweet AZURILL was\\ndistracted by another POKéMON.",
+  "pt": "Ah, não… Meu querido AZURILL se distraiu com outra CAPTURA."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "0260057",
+  "en": "My POKéMON has never won in a battle,\\nbut put it in a CONTEST and look out!",
+  "pt": "Minha CAPTURA nunca venceu uma batalha, mas coloque ela num CONCURSO e você vai ver só!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "02600A3",
+  "en": "My POKéMON's PETAL DANCE is a marvel\\nof elegance.\\pI won't let anyone disturb its\\nperformance.",
+  "pt": "A DANÇA DAS PÉTALAS da minha CAPTURA é uma maravilha de elegância.\\pNão vou deixar ninguém atrapalhar a apresentação dela."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "0260101",
+  "en": "Everyone's POKéMON are very cute.\\pHowever, if my POKéMON were to make\\na cute appeal…\\pI'm sure that it would be so much \\ncuter than the others.",
+  "pt": "As CAPTURAS de todo mundo são muito fofas.\\pMas, se a minha CAPTURA fizesse uma apresentação fofa…\\pTenho certeza de que ela seria muito mais fofa que as outras."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "0260190",
+  "en": "My child is in this CONTEST.",
+  "pt": "Meu filho está neste CONCURSO."
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "02601AD",
+  "en": "Come on, dear. Go for it!\\nYour POKéMON is the best!",
+  "pt": "Vai, querido! Vai fundo! A sua CAPTURA é a melhor!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "02601E1",
+  "en": "I think that girl over there is\\nthe cutest of the lot.\\pWhat's that? They're judging\\nPOKéMON by their looks?",
+  "pt": "Acho que aquela menina ali é a mais fofa de todas.\\pComo assim? Eles estão julgando as CAPTURAS pela aparência?"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "026024D",
+  "en": "Ohh, seeing all these cute POKéMON,\\nthey make we want to get my own!\\pI'm going to go catch some!",
+  "pt": "Ahh, ver todas essas CAPTURAS fofas me dá vontade de ter as minhas!\\pVou sair pra pegar algumas!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "02602AE",
+  "en": "BEAUTY CONTEST STAGE\\nBE ALLURED BY BEAUTIFUL POKéMON!",
+  "pt": "PALCO DO CONCURSO DE BELEZA\\nENCANTE-SE COM CAPTURAS BELAS!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "02602E4",
+  "en": "CUTENESS CONTEST STAGE\\nBE CHARMED BY CUTE POKéMON!",
+  "pt": "PALCO DO CONCURSO DE FOFURA\\nAPAIXONE-SE POR CAPTURAS FOFAS!"
+ },
+ {
+  "map": "29.5 LILYCOVE CITY",
+  "offset": "0260317",
+  "en": "SMARTNESS CONTEST STAGE\\nBE IMPRESSED BY SMART POKéMON!",
+  "pt": "PALCO DO CONCURSO DE INTELIGÊNCIA\\nVEJA CAPTURAS INTELIGENTES!"
+ },
+ {
+  "map": "29.6 LILYCOVE CITY",
+  "offset": "0260439",
+  "en": "I've been hearing about some rotten\\nscoundrels who steal POKéMON and rip\\loff METEORITES.",
+  "pt": "Ando ouvindo falar de uns canalhas que roubam CAPTURAS e surrupiam METEORITOS."
+ },
+ {
+  "map": "29.6 LILYCOVE CITY",
+  "offset": "0260492",
+  "en": "Those rotten scoundrels who steal\\nPOKéMON and rip off METEORITES…\\pI haven't seen them around recently.",
+  "pt": "Aqueles canalhas que roubam CAPTURAS e surrupiam METEORITOS…\\pNão tenho visto eles por aí ultimamente."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0260C9C",
+  "en": "Oh, wow!\\nIt's {PLAYER}!",
+  "pt": "Uau!\\nÉ o {PLAYER}!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0260CAE",
+  "en": "I've heard the news!\\nYou're really strong, aren't you?\\pWe always argue about who is the\\nstrongest of all TRAINERS here.\\pSo when I heard about you, I decided\\nto be your fan!\\pI hope you'll keep on battling other\\ntough TRAINERS.\\pThat way, we'll be able to see more\\nof your hot, hot battles.\\pThat will make the others here see\\nexactly how great you are.\\pRemember, I'm cheering for you,\\n{PLAYER}!",
+  "pt": "Fiquei sabendo das notícias! Você é muito forte, né?\\pA gente sempre discute sobre quem é o TREINADOR mais forte de todos aqui.\\pEntão, quando ouvi falar de você, decidi virar seu fã!\\pEspero que continue batalhando com outros TREINADORES fortes.\\pAssim, a gente vai poder ver mais das suas batalhas eletrizantes.\\pE isso vai fazer os outros daqui verem como você é incrível.\\pLembre-se: estou torcendo por você, {PLAYER}!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0260E30",
+  "en": "Yo, {PLAYER}!\\nYou're the one we want to win!",
+  "pt": "E aí, {PLAYER}! Você é quem a gente quer que vença!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0260E57",
+  "en": "The others, they don't know that\\nyou're the best of the best!\\pIsn't that right, {PLAYER}?\\nShow them you've got guts!",
+  "pt": "Os outros não sabem que você é o melhor dos melhores!\\pNão é verdade, {PLAYER}? Mostre pra eles que você tem coragem!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0260EC6",
+  "en": "I hate to say this, but the TRAINER\\neverybody's talking about is\\l{STR_VAR_1}, no question about it!\\pThat TRAINER's power…\\nIt's out of the ordinary.",
+  "pt": "Odeio dizer isso, mas o TREINADOR de quem todo mundo está falando é {STR_VAR_1}, sem dúvida nenhuma!\\pO poder desse TREINADOR… É fora do comum."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0260F51",
+  "en": "Darn it… I've been telling people\\nthat {STR_VAR_1} is the best now…\\pBut no one wants to listen…",
+  "pt": "Droga… Ando dizendo pra todo mundo que {STR_VAR_1} é o melhor agora…\\pMas ninguém quer ouvir…"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0260FA8",
+  "en": "I've been hearing things about\\na tough new TRAINER.\\pThis TRAINER's supposed to be beating\\nGYM LEADERS, even.\\pDo you know anything about this\\nnew TRAINER?",
+  "pt": "Ando ouvindo coisas sobre um novo TREINADOR durão.\\pDizem que esse TREINADOR está derrotando até LÍDERES DE GINÁSIO.\\pVocê sabe alguma coisa sobre esse novo TREINADOR?"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261042",
+  "en": "Oh!\\n{PLAYER}!\\pGo for it!\\nI'm pulling for you!",
+  "pt": "Ah! {PLAYER}!\\pVai fundo! Estou torcendo por você!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "026106A",
+  "en": "Sigh…\\nBRAWLY…\\pOh, no! Wait!\\nThat's not right! No, no, no!\\pI'm your fan through and through!\\pSo make me proud!\\nGo for it!",
+  "pt": "Ai…\\nBRAWLY…\\pAh, não! Espera! Não é isso! Não, não, não!\\pSou seu fã de corpo e alma!\\pEntão me deixe orgulhoso! Vai fundo!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02610E3",
+  "en": "I can't help it, I can only get to\\nlike BRAWLY…",
+  "pt": "Não tem jeito, eu só consigo gostar do BRAWLY…"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261113",
+  "en": "Nobody understands the charm of\\nBRAWLY…\\pI don't care!\\pEven if I'm the only one, I'm going\\nto keep cheering for BRAWLY!",
+  "pt": "Ninguém entende o charme do BRAWLY…\\pNão ligo!\\pMesmo que mais ninguém torça, eu vou continuar torcendo pelo BRAWLY!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "026118A",
+  "en": "Whatever anyone says, my favorite\\nTRAINER is DEWFORD's GYM LEADER\\lBRAWLY!",
+  "pt": "Digam o que quiserem, o meu TREINADOR favorito é o LÍDER DE GINÁSIO de DEWFORD, o BRAWLY!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02611D4",
+  "en": "You've surpassed your own father in\\nevery regard!\\pI'm telling you, so there's no question\\nabout it at all!",
+  "pt": "Você superou o seu próprio pai em todos os aspectos!\\pSou eu que estou dizendo, então não há dúvida nenhuma!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "026123F",
+  "en": "Even when things turned bleak,\\nyour father never gave up.\\pThis I know to be true.\\pYou never give up even if you lose!\\nSo keep on battling!",
+  "pt": "Mesmo quando as coisas ficavam difíceis, o seu pai nunca desistia.\\pIsso eu sei que é verdade.\\pVocê nunca desiste, mesmo quando perde! Então continue batalhando!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02612CA",
+  "en": "NORMAN battled with more power,\\ncharisma, and showmanship than you.\\pEven though people may say that\\nyou're strong…\\pYou've still got a long way to go\\ncompared to your father.",
+  "pt": "O NORMAN batalhava com mais poder, carisma e espetáculo do que você.\\pMesmo que as pessoas digam que você é forte…\\pVocê ainda tem um longo caminho pela frente comparado ao seu pai."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261378",
+  "en": "You're beginning to get the same\\nair of awe NORMAN exudes.\\pBut there's something conclusively\\ndifferent between you and NORMAN.\\pI can't tell you what that is.\\nYou'll have to find it yourself.",
+  "pt": "Você está começando a ter a mesma aura imponente que o NORMAN transmite.\\pMas há algo definitivamente diferente entre você e o NORMAN.\\pNão posso te dizer o que é. Você vai ter que descobrir sozinho."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261438",
+  "en": "Everyone here, we're all huge fans\\nof POKéMON battles.\\pWe discuss who we consider to be\\nthe strongest of all TRAINERS.\\pIf you were to become famous,\\nwe might even become your fans!",
+  "pt": "Todo mundo aqui é muito fã de batalhas de CAPTURAS.\\pA gente discute quem consideramos o TREINADOR mais forte de todos.\\pSe você ficasse famoso, a gente poderia até virar seus fãs!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02614ED",
+  "en": "Oh, woweee! It's {PLAYER}!\\nFor real, too!\\pPlease, shake my hand, shake my hand!",
+  "pt": "Ai, uauuu! É o {PLAYER}! E de verdade!\\pPor favor, aperta a minha mão, aperta a minha mão!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261537",
+  "en": "I'll always cheer for you, {PLAYER}!\\nAlways, always!\\pI don't want to see you lose ever,\\n{PLAYER}.\\pBecause I know you're really,\\nreally strong, {PLAYER}!",
+  "pt": "Vou sempre torcer por você, {PLAYER}! Sempre, sempre!\\pNão quero te ver perder nunca, {PLAYER}.\\pPorque eu sei que você é muito, muito forte, {PLAYER}!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02615BE",
+  "en": "{STR_VAR_1} is really cool…\\pEveryone thinks so, right, right?",
+  "pt": "{STR_VAR_1} é muito legal…\\pTodo mundo acha isso, né, né?"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02615F3",
+  "en": "{STR_VAR_1} really is cool, don't\\nyou think so?\\pEven if it's just me, I'm going to keep\\ncheering my favorite TRAINER.",
+  "pt": "{STR_VAR_1} é muito legal mesmo, não acha?\\pMesmo que seja só eu, vou continuar torcendo pelo meu TREINADOR favorito."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261660",
+  "en": "My favorite TRAINER is…\\pCool…\\pStrong…\\pAnd really nice…\\pI wish there was a TRAINER like that…",
+  "pt": "O meu TREINADOR favorito é…\\pLegal…\\pForte…\\pE muito gentil…\\pQueria que existisse um TREINADOR assim…"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02616BD",
+  "en": "Whoa! It's {PLAYER}!\\nWicked!\\pWhen I grow up, I want to be strong\\nlike you, {PLAYER}!",
+  "pt": "Uau! É o {PLAYER}! Irado!\\pQuando eu crescer, quero ser forte como você, {PLAYER}!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261706",
+  "en": "Even if I'm the only one…\\pYou'll always be the only one\\nI cheer for, {PLAYER}!\\pBecause I believe in you, {PLAYER}!",
+  "pt": "Mesmo que seja só eu…\\pVocê sempre vai ser o único pra quem eu torço, {PLAYER}!\\pPorque eu acredito em você, {PLAYER}!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "026176D",
+  "en": "{STR_VAR_1} is so wickedly cool…\\nI want to shake hands with my hero.",
+  "pt": "{STR_VAR_1} é legal demais… Quero apertar a mão do meu herói."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02617A9",
+  "en": "Even if I'm the only one…\\pI'm never going to stop being\\n{STR_VAR_1}'s fan!\\pBecause I've heard, {STR_VAR_1}\\nnever loses!",
+  "pt": "Mesmo que seja só eu…\\pNunca vou deixar de ser fã de {STR_VAR_1}!\\pPorque ouvi dizer que {STR_VAR_1} nunca perde!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "026180F",
+  "en": "{PLAYER}!\\nYou are amazing after all!\\pEver since I set eyes on you,\\nI knew that you were great.\\pIt looks like my eyes didn't deceive me.",
+  "pt": "{PLAYER}! Você é incrível mesmo!\\pDesde a primeira vez que te vi, eu sabia que você era demais.\\pParece que os meus olhos não me enganaram."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261891",
+  "en": "Who cares about the others.\\nI'm in your corner!\\pYou don't need to worry. Just get\\nout there and battle like always.",
+  "pt": "Esquece os outros. Eu estou do seu lado!\\pNão precisa se preocupar. É só ir lá e batalhar como sempre."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261905",
+  "en": "You're a pretty decent TRAINER,\\nI think.\\pBut I also think that {STR_VAR_1}\\nis number one right now.\\pThat's just my opinion.\\nDon't worry about it too much.",
+  "pt": "Acho que você é um TREINADOR bem razoável.\\pMas também acho que {STR_VAR_1} é o número um agora.\\pÉ só a minha opinião. Não esquenta muito com isso."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261997",
+  "en": "Wow, you really are strong.\\nMaybe even stronger than {STR_VAR_1}.\\pBut {STR_VAR_1} needs me.\\pIf I don't cheer for {STR_VAR_1},\\nwho will?",
+  "pt": "Uau, você é forte mesmo. Talvez até mais forte que {STR_VAR_1}.\\pMas {STR_VAR_1} precisa de mim.\\pSe eu não torcer por {STR_VAR_1}, quem vai torcer?"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261A04",
+  "en": "You've changed my mind!\\nYou are strong, aren't you?\\pI'd like you to tell me how you managed\\nto get so strong!",
+  "pt": "Você me fez mudar de ideia! Você é forte mesmo, né?\\pQueria que você me contasse como conseguiu ficar tão forte!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261A72",
+  "en": "The tougher the situation, the more\\nattractively you battle.\\pI can't wait for your next battle!",
+  "pt": "Quanto mais difícil a situação, mais bonito é o seu jeito de batalhar.\\pMal posso esperar pela sua próxima batalha!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261AD2",
+  "en": "Among the recently hot TRAINERS,\\n{STR_VAR_1} is the standout.\\pThat toughness, it's simply not normal.\\pYou're doing okay, but you're not in\\nthe same class as {STR_VAR_1}.",
+  "pt": "Entre os TREINADORES em alta, {STR_VAR_1} é o destaque.\\pAquela força… Simplesmente não é normal.\\pVocê está indo bem, mas não está no mesmo nível de {STR_VAR_1}."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261B6A",
+  "en": "You are really popular…\\pYou're strong, and you're caring to\\nPOKéMON. No one can knock you.\\pBut, you know, I believe in {STR_VAR_1}.\\p{STR_VAR_1} is definitely stronger!\\nI'm positive!",
+  "pt": "Você é muito popular…\\pVocê é forte e cuida bem das CAPTURAS. Ninguém pode te criticar.\\pMas, sabe, eu acredito em {STR_VAR_1}.\\p{STR_VAR_1} é definitivamente mais forte! Tenho certeza!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261C0E",
+  "en": "You…\\pImpressive!",
+  "pt": "Você…\\pImpressionante!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261C1F",
+  "en": "Your true worth, it is fine if only\\nI recognized it.\\pThe others I doubt will understand\\nthe hidden power that beats within.",
+  "pt": "O seu verdadeiro valor… Basta que só eu o reconheça.\\pDuvido que os outros vão entender o poder oculto que pulsa dentro de você."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261C9B",
+  "en": "Yes, I see strength in your eyes.\\pBut!\\pYou still haven't realized your\\npotential.",
+  "pt": "Sim, vejo força nos seus olhos.\\pMas!\\pVocê ainda não percebeu todo o seu potencial."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "0261CED",
+  "en": "It is true that you are tremendously\\npowerful.\\pBut!\\nI can tell…\\pThat strength cannot be considered\\ntrue strength yet!\\pTrue strength is…!\\n… …\\pActually, I have no idea, either.",
+  "pt": "É verdade que você é tremendamente poderoso.\\pMas!\\nEu percebo…\\pEssa força ainda não pode ser considerada força verdadeira!\\pA verdadeira força é…!\\n… …\\pNa verdade, eu também não faço ideia."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE69F",
+  "en": "Hi, there!\\pI'm a big fan of {STR_VAR_1}.\\nWhat's your opinion of {STR_VAR_1}?",
+  "pt": "Oi!\\pSou muito fã de {STR_VAR_1}. Qual é a sua opinião sobre {STR_VAR_1}?"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE6DA",
+  "en": "I see, I see. That's what you think\\nabout the TRAINER.",
+  "pt": "Entendi, entendi. Então é isso que você acha desse TREINADOR."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE711",
+  "en": "Have you completely forgotten\\nabout {STR_VAR_1}?",
+  "pt": "Você se esqueceu completamente de {STR_VAR_1}?"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE739",
+  "en": "I'm a big fan of {STR_VAR_1}.\\nWhat's your opinion of {STR_VAR_1}?",
+  "pt": "Sou muito fã de {STR_VAR_1}. Qual é a sua opinião sobre {STR_VAR_1}?"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE769",
+  "en": "How strong would you rate {STR_VAR_1}\\non a scale of one hundred?",
+  "pt": "De um a cem, quanto você daria para a força de {STR_VAR_1}?"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE7A1",
+  "en": "Have you completely forgotten\\nabout {STR_VAR_1}?",
+  "pt": "Você se esqueceu completamente de {STR_VAR_1}?"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE7C9",
+  "en": "Oh, I see!\\nYou should meet {STR_VAR_1} sometime.\\lI'm sure you'll become a fan, too!",
+  "pt": "Ah, entendi! Você devia conhecer {STR_VAR_1} um dia. Tenho certeza de que você também vai virar fã!"
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE814",
+  "en": "I see, I see.\\pThank you!\\nThat's very useful to know.\\pI'll share this information with other\\n{STR_VAR_1} fans and discuss it.",
+  "pt": "Entendi, entendi.\\pValeu! Isso é muito útil de saber.\\pVou compartilhar essa informação com outros fãs de {STR_VAR_1} e debater o assunto."
+ },
+ {
+  "map": "29.9 LILYCOVE CITY",
+  "offset": "02FE888",
+  "en": "There's going to be a TV special on\\n{STR_VAR_1} very soon.\\pI hope you catch it!",
+  "pt": "Vai ter um especial na TV sobre {STR_VAR_1} muito em breve.\\pEspero que você assista!"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0262480",
+  "en": "ÑÎùÑ{MN}\\nÑÑÑÌÑ{MN}\\nI beg your pardon?\\nYou're looking for a ship?\\pI'm sorry, the ferry service isn't\\navailable at present…",
+  "pt": ""
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "02624F4",
+  "en": "Hello, are you here for the ferry?\\nMay I see your TICKET?",
+  "pt": "Olá, veio pegar a balsa? Posso ver o seu BILHETE?"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "026252E",
+  "en": "{PLAYER} doesn't have the TICKET…\\pI'm terribly sorry.\\pYou must have a TICKET to board\\nthe ferry.",
+  "pt": "{PLAYER} não tem o BILHETE…\\pSinto muitíssimo.\\pÉ preciso ter um BILHETE para embarcar na balsa."
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0262589",
+  "en": "{PLAYER} flashed the TICKET.\\pPerfect! That's all you need!\\pAnd where would you like to go?",
+  "pt": "{PLAYER} mostrou o BILHETE.\\pPerfeito! É tudo de que você precisa!\\pE para onde gostaria de ir?"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "02625DE",
+  "en": "Please sail with us another time!",
+  "pt": "Viaje conosco outra vez!"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0262600",
+  "en": "SLATEPORT CITY it is, then!",
+  "pt": "SLATEPORT CITY, então!"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "026261C",
+  "en": "BATTLE FRONTIER it is, then!",
+  "pt": "FRONTEIRA DE BATALHA, então!"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0262639",
+  "en": "Please board the ferry and wait for\\ndeparture.",
+  "pt": "Embarque na balsa e aguarde a partida, por favor."
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0262668",
+  "en": "Then, where would you like to go?",
+  "pt": "Então, para onde gostaria de ir?"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "026268A",
+  "en": "Until they finish making the ferry,\\nwe sailors have nothing to do…\\pI wish they'd get a move on, the folks\\nat the SHIPYARD in SLATEPORT.",
+  "pt": "Até terminarem de construir a balsa, nós, marinheiros, não temos nada pra fazer…\\pQueria que o pessoal do ESTALEIRO de SLATEPORT se apressasse."
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0262712",
+  "en": "The ferry S.S. TIDAL is finally in\\noperation.\\pThe folks at the SHIPYARD in SLATEPORT\\nmust've worked extra hard.\\pWell, it's my turn to get busy now!",
+  "pt": "A balsa S.S. TIDAL finalmente está em operação.\\pO pessoal do ESTALEIRO de SLATEPORT deve ter trabalhado dobrado.\\pBom, agora é a minha vez de pegar no batente!"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "03233F9",
+  "en": "The ferry to SLATEPORT is…\\pI beg your pardon?\\nCan we sail to this place on the map?\\pI know someone who will help you better.\\nPlease wait.",
+  "pt": "A balsa para SLATEPORT é…\\pComo disse? Dá pra navegar até este lugar do mapa?\\pConheço alguém que pode te ajudar melhor. Aguarde, por favor."
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0323483",
+  "en": "The ferry to SLATEPORT is…\\pOh?\\nThat PASS…",
+  "pt": "A balsa para SLATEPORT é…\\pOh? Esse PASSE…"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "03234AD",
+  "en": "Aye, mate, are you the one who brought\\nthat mighty odd PASS?\\pI'll tell you, you're trying to reach a\\ntiny spit of an island far in the south.\\pThere's no telling what we'll encounter\\nonce we reach there, aye.\\lThat shivers my timbers!\\pAll aboard!",
+  "pt": "Arre, marujo, é você quem trouxe aquele PASSE pra lá de estranho?\\pVou te dizer, você está tentando chegar a uma ilhota minúscula lá longe, no sul.\\pNão dá pra saber o que vamos encontrar quando chegarmos lá, arre. Raios me partam!\\pTodos a bordo!"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0323633",
+  "en": "Aye, right, as you like, then.",
+  "pt": "Arre, certo, como quiser, então."
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "034348D",
+  "en": "What's up, youngster?\\pWhat, it's you who's supposed to have\\na tattered old map?\\pLet's have a look.\\n… … … … … …\\pBoy, this is quite a ways away.\\nI'm afraid I can't help you…",
+  "pt": "E aí, jovem?\\pO quê? É você que tem um mapa velho e esfarrapado?\\pDeixa eu dar uma olhada.\\n… … … … … …\\pPuxa, isso fica bem longe. Acho que não posso te ajudar…"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0343539",
+  "en": "BRINEY: Hold on a second!\\pWhat's the idea of turning down\\nsomeone that I owe so much to?",
+  "pt": "BRINEY: Espere um pouco!\\pQue ideia é essa de recusar alguém a quem eu devo tanto?"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0343592",
+  "en": "{PLAYER}{KUN}, I'm terribly sorry.\\pYou came to me seeking my help,\\nand we almost turned you away.\\pWell, let me make things right.\\pWe'll sail right away, of course!\\pLet's find this island on\\nthis OLD SEA MAP!",
+  "pt": "{PLAYER}{KUN}, sinto muitíssimo.\\pVocê veio pedir a minha ajuda, e nós quase te mandamos embora.\\pBom, deixe-me consertar as coisas.\\pVamos zarpar agora mesmo, é claro!\\pVamos encontrar essa ilha com este MAPA MARÍTIMO ANTIGO!"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "0343659",
+  "en": "Is it you who brought that odd\\nticket?\\pWhere you're trying to go is an island\\nthat's far, far away.\\pNo one knows what awaits there…\\pThe very thought excites my blood\\nas a sailing man!\\pGet on board, youngster!",
+  "pt": "É você quem trouxe aquele bilhete estranho?\\pO lugar aonde você quer ir é uma ilha muito, muito distante.\\pNinguém sabe o que espera por lá…\\pSó de pensar, o meu sangue de marinheiro ferve!\\pSuba a bordo, jovem!"
+ },
+ {
+  "map": "29.10 LILYCOVE CITY",
+  "offset": "03437BC",
+  "en": "Is it you who brought those\\nodd tickets?\\p… … …Hm.\\pThese tickets will get you to islands\\nthat are far, far away.\\pNo one knows what awaits there,\\nor what may happen there.\\pThe very thought excites my blood\\nas a sailing man!\\pGet on board, youngster!\\nWhere shall we sail first?",
+  "pt": "É você quem trouxe aqueles bilhetes estranhos?\\p… … …Hum.\\pEstes bilhetes vão te levar a ilhas muito, muito distantes.\\pNinguém sabe o que espera por lá, nem o que pode acontecer.\\pSó de pensar, o meu sangue de marinheiro ferve!\\pSuba a bordo, jovem! Para onde vamos navegar primeiro?"
+ },
+ {
+  "map": "29.11 LILYCOVE CITY",
+  "offset": "0262901",
+  "en": "Which POKéMON should forget a move?",
+  "pt": "Qual CAPTURA deve esquecer um golpe?"
+ },
+ {
+  "map": "29.11 LILYCOVE CITY",
+  "offset": "0262925",
+  "en": "Which move should be forgotten?",
+  "pt": "Qual golpe deve ser esquecido?"
+ },
+ {
+  "map": "29.11 LILYCOVE CITY",
+  "offset": "0262945",
+  "en": "{STR_VAR_1} knows only one move\\nso it can't be forgotten…",
+  "pt": "{STR_VAR_1} só conhece um golpe, então não dá pra esquecê-lo…"
+ },
+ {
+  "map": "29.11 LILYCOVE CITY",
+  "offset": "0262976",
+  "en": "Hm! {STR_VAR_1}'s {STR_VAR_2}?\\nThat move should be forgotten?",
+  "pt": "Hum! {STR_VAR_2} de {STR_VAR_1}? Esse golpe deve ser esquecido?"
+ },
+ {
+  "map": "29.11 LILYCOVE CITY",
+  "offset": "02629A2",
+  "en": "It worked to perfection!\\p{STR_VAR_1} has forgotten\\n{STR_VAR_2} completely.",
+  "pt": "Funcionou com perfeição!\\p{STR_VAR_1} esqueceu {STR_VAR_2} completamente."
+ },
+ {
+  "map": "29.11 LILYCOVE CITY",
+  "offset": "02629DB",
+  "en": "Come again if there are moves that\\nneed to be forgotten.",
+  "pt": "Volte sempre que houver golpes que precisem ser esquecidos."
+ },
+ {
+  "map": "29.11 LILYCOVE CITY",
+  "offset": "0262A14",
+  "en": "What?\\nNo EGG should know any moves.",
+  "pt": "O quê? Nenhum OVO deveria conhecer golpes."
+ },
+ {
+  "map": "29.11 LILYCOVE CITY",
+  "offset": "0262A38",
+  "en": "Hm!\\pYour {STR_VAR_1} doesn't seem willing\\nto forget SURF.",
+  "pt": "Hum!\\p{STR_VAR_1} não parece disposto a esquecer SURFAR."
+ },
+ {
+  "map": "29.12 LILYCOVE CITY",
+  "offset": "0262AFF",
+  "en": "KECLEON: Ruroro?",
+  "pt": "KECLEON: Ruroro?"
+ },
+ {
+  "map": "29.13 LILYCOVE CITY",
+  "offset": "0262B95",
+  "en": "Yawn…\\pSleep is essential for good health…\\nSleep and regain health…",
+  "pt": "Uaaah…\\pDormir é essencial pra ter uma boa saúde… Durma e recupere a saúde…"
+ },
+ {
+  "map": "29.14 LILYCOVE CITY",
+  "offset": "0262E45",
+  "en": "Oh? Are you sure?\\pYou shouldn't always try to do\\neverything by yourself, dear!",
+  "pt": "Oh? Tem certeza?\\pVocê não devia tentar fazer tudo sozinho sempre, querido!"
+ },
+ {
+  "map": "29.14 LILYCOVE CITY",
+  "offset": "02631CC",
+  "en": "When my wife gave birth to quadruplets,\\nyou bet I was shocked.\\pBut, now, seeing them play together,\\nit makes me happy.",
+  "pt": "Quando a minha esposa teve quadrigêmeos, pode apostar que eu levei um susto.\\pMas agora, vendo eles brincando juntos, fico feliz."
+ },
+ {
+  "map": "29.14 LILYCOVE CITY",
+  "offset": "0263243",
+  "en": "We're having MULTI BATTLES, but I know\\nI'm going to win.",
+  "pt": "Estamos fazendo BATALHAS MÚLTIPLAS, mas eu sei que vou ganhar."
+ },
+ {
+  "map": "29.14 LILYCOVE CITY",
+  "offset": "026327C",
+  "en": "We like mixing stuff at\\nthe RECORD CORNER.\\pBut what gets mixed up?",
+  "pt": "A gente gosta de misturar coisas no CANTO DOS RECORDES.\\pMas o que é que se mistura?"
+ },
+ {
+  "map": "29.14 LILYCOVE CITY",
+  "offset": "02632F6",
+  "en": "I want to brag about how tough my\\nPOKéMON is, so we're going to enter\\la CONTEST together.",
+  "pt": "Quero me gabar de como a minha CAPTURA é forte, então vamos participar de um CONCURSO juntos."
+ },
+ {
+  "map": "29.15 LILYCOVE CITY",
+  "offset": "02633C7",
+  "en": "There's a deep underwater trench\\nbetween MOSSDEEP and SOOTOPOLIS.\\pThat's what someone told me, anyway.",
+  "pt": "Existe uma fossa submarina profunda entre MOSSDEEP e SOOTOPOLIS.\\pPelo menos foi o que me disseram."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0263628",
+  "en": "Whenever I come to the DEPARTMENT\\nSTORE, I always end up buying all sorts\\lof things because it's so fun.",
+  "pt": "Sempre que venho à LOJA DE DEPARTAMENTOS, acabo comprando um monte de coisas, porque é muito divertido."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0263691",
+  "en": "Today, my mom is going to buy me some\\nnice furniture.",
+  "pt": "Hoje a minha mãe vai me comprar uns móveis bonitos."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "02636C7",
+  "en": "I'm buying something for my AZUMARILL\\nas a reward for winning a CONTEST.",
+  "pt": "Vou comprar algo para o meu AZUMARILL como prêmio por ter vencido um CONCURSO."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0263710",
+  "en": "AZUMARILL: Maririroo!",
+  "pt": "AZUMARILL: Maririroo!"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0263726",
+  "en": "1F: SERVICE COUNTER\\n    LOTTERY CORNER\\p2F: TRAINER'S ZONE\\p3F: BATTLE COLLECTION\\p4F: TM CORNER\\p5F: POKé DOLL FLOOR\\pROOFTOP: ROOFTOP PLAZA",
+  "pt": "1A: BALCÃO DE ATENDIMENTO\\n    SETOR DA LOTERIA\\p2A: ZONA DO TREINADOR\\p3A: COLEÇÃO DE BATALHA\\p4A: SETOR DE TMs\\p5A: ANDAR DAS BONECAS POKé\\pCOBERTURA: PRAÇA DA COBERTURA"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0322F47",
+  "en": "This is the C.A.P. LOTTERY CORNER.\\pAll shoppers at our DEPARTMENT STORE\\nget to draw a C.A.P. LOTO TICKET.\\pIf the LOTO TICKET's number matches\\nthe ID number of any of your CAPTURES,\\lyou will receive a fabulous gift.\\pWould you like to draw a C.A.P.\\nLOTO TICKET?",
+  "pt": "Este é o SETOR DA LOTERIA C.A.P.\\pTodos os clientes da nossa LOJA DE DEPARTAMENTOS podem tirar um BILHETE DA LOTO C.A.P.\\pSe o número do BILHETE DA LOTO for igual ao número de ID de alguma das suas CAPTURAS, você vai receber um prêmio fabuloso.\\pGostaria de tirar um BILHETE DA LOTO C.A.P.?"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "032304B",
+  "en": "Please do visit again.",
+  "pt": "Volte sempre."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0323062",
+  "en": "Please do visit again.",
+  "pt": "Volte sempre."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0323079",
+  "en": "Please pick a LOTO TICKET.\\n…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}",
+  "pt": "Por favor, escolha um BILHETE DA LOTO.\\n…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}…{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}{PAUSE 0F}"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "03230BC",
+  "en": "The LOTO TICKET number is {STR_VAR_1}.\\pI need to run a check on this number\\nto see if it matches any of your\\lCAPTURES' ID numbers. Please wait.",
+  "pt": "O número do BILHETE DA LOTO é {STR_VAR_1}.\\pPreciso verificar se este número é igual ao número de ID de alguma das suas CAPTURAS. Aguarde, por favor."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0323143",
+  "en": "Congratulations!\\pThe ID number of your team's\\n{STR_VAR_1} matches your\\lLOTO TICKET's number!",
+  "pt": "Parabéns!\\pO número de ID de {STR_VAR_1}, da sua equipe, é igual ao número do seu BILHETE DA LOTO!"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0323197",
+  "en": "Congratulations!\\pThe ID number of your PC-boxed\\n{STR_VAR_1} matches your\\lLOTO TICKET's number!",
+  "pt": "Parabéns!\\pO número de ID de {STR_VAR_1}, guardado no PC, é igual ao número do seu BILHETE DA LOTO!"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "03231ED",
+  "en": "I'm sorry.\\nNone of the numbers matched.",
+  "pt": "Sinto muito. Nenhum dos números bateu."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0323215",
+  "en": "Two digits matched, so you win the\\nthird prize!\\lYou've won the {STR_VAR_1}!",
+  "pt": "Dois dígitos bateram, então você ganhou o terceiro prêmio! Você ganhou {STR_VAR_1}!"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0323258",
+  "en": "Three digits matched, so you win the\\nsecond prize!\\lYou've won the {STR_VAR_1}!",
+  "pt": "Três dígitos bateram, então você ganhou o segundo prêmio! Você ganhou {STR_VAR_1}!"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "032329E",
+  "en": "Four digits matched, so you win the\\nfirst prize!\\lYou've won the {STR_VAR_1}!",
+  "pt": "Quatro dígitos bateram, então você ganhou o primeiro prêmio! Você ganhou {STR_VAR_1}!"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "03232E2",
+  "en": "Oh, my goodness, all five digits\\nmatched!\\pYou've won the jackpot prize!\\nYou've won the {STR_VAR_1}!",
+  "pt": "Ai, minha nossa, todos os cinco dígitos bateram!\\pVocê ganhou o prêmio máximo! Você ganhou {STR_VAR_1}!"
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "032333D",
+  "en": "Oh?\\nYou seem to have no room for this.\\pPlease make room in your BAG and\\nlet me know.",
+  "pt": "Hã? Parece que você não tem espaço para isto.\\pAbra espaço na sua BOLSA e me avise."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "0323392",
+  "en": "{PLAYER}?\\nYes, I've been expecting you.\\pThis is the prize we've been holding\\nfor you.",
+  "pt": "{PLAYER}? Sim, eu estava esperando você.\\pEste é o prêmio que estávamos guardando para você."
+ },
+ {
+  "map": "29.16 LILYCOVE CITY",
+  "offset": "03233E2",
+  "en": "Please do visit again.",
+  "pt": "Volte sempre."
+ },
+ {
+  "map": "29.17 LILYCOVE CITY",
+  "offset": "0263948",
+  "en": "Learn to use items properly.\\nThat's basic, really.",
+  "pt": "Aprenda a usar os itens direito. Isso é o básico, sério."
+ },
+ {
+  "map": "29.17 LILYCOVE CITY",
+  "offset": "026397B",
+  "en": "My husband is waiting at home.\\nWhat would make a good gift for him?",
+  "pt": "Meu marido está me esperando em casa. O que seria um bom presente pra ele?"
+ },
+ {
+  "map": "29.17 LILYCOVE CITY",
+  "offset": "02639BF",
+  "en": "I'm leaving on a long journey soon.\\nI need to stock up on items.",
+  "pt": "Vou partir numa longa viagem em breve. Preciso estocar itens."
+ },
+ {
+  "map": "29.18 LILYCOVE CITY",
+  "offset": "0263AD7",
+  "en": "I want my POKéMON to have more\\nendurance.\\pI'm trying to decide whether to raise\\nDEFENSE with IRON, or SP. DEF with ZINC.",
+  "pt": "Quero que a minha CAPTURA tenha mais resistência.\\pEstou tentando decidir se aumento a DEFESA com FERRO ou a DEF. ESP. com ZINCO."
+ },
+ {
+  "map": "29.18 LILYCOVE CITY",
+  "offset": "0263B50",
+  "en": "I gave a CARBOS to my POKéMON,\\nand its SPEED went up.",
+  "pt": "Dei um CARBOS para a minha CAPTURA, e a VELOCIDADE dela aumentou."
+ },
+ {
+  "map": "29.19 LILYCOVE CITY",
+  "offset": "0263BEC",
+  "en": "Hmm…\\pAn attacking move…\\nOr a defensive move…\\pIt's no easy matter to decide which TM\\nmoves should be taught to POKéMON…",
+  "pt": "Hum…\\pUm golpe de ataque… Ou um golpe de defesa…\\pNão é nada fácil decidir quais golpes de TM ensinar às CAPTURAS…"
+ },
+ {
+  "map": "29.19 LILYCOVE CITY",
+  "offset": "0263C63",
+  "en": "There are so many different kinds of\\nTM moves.\\pA catalog I read said there are fifty\\ndifferent kinds.",
+  "pt": "Existem muitos tipos diferentes de golpes de TM.\\pUm catálogo que li dizia que são cinquenta tipos diferentes."
+ },
+ {
+  "map": "29.19 LILYCOVE CITY",
+  "offset": "0263CC9",
+  "en": "I'd like to get all the different TMs,\\nbut a POKéMON learns only four moves.",
+  "pt": "Eu queria ter todos os TMs diferentes, mas uma CAPTURA só aprende quatro golpes."
+ },
+ {
+  "map": "29.20 LILYCOVE CITY",
+  "offset": "0263EBE",
+  "en": "I'm not big enough to raise POKéMON,\\nso I'm getting a cute DOLL instead.",
+  "pt": "Não tenho idade pra criar CAPTURAS, então vou comprar um BONECO fofo no lugar."
+ },
+ {
+  "map": "29.20 LILYCOVE CITY",
+  "offset": "0263F07",
+  "en": "They sell many cute MATS here.\\pI wonder which one I should get?\\nMaybe I'll buy them all…",
+  "pt": "Eles vendem muitos TAPETES fofos aqui.\\pQual será que eu levo? Talvez eu compre todos…"
+ },
+ {
+  "map": "29.20 LILYCOVE CITY",
+  "offset": "0263F60",
+  "en": "I think they closed the rooftop\\nbecause the weather is wild today.",
+  "pt": "Acho que fecharam a cobertura porque o tempo está doido hoje."
+ },
+ {
+  "map": "29.21 LILYCOVE CITY",
+  "offset": "0264265",
+  "en": "Yes! I've been waiting a long time for\\nthis clear-out sale.\\pThey have items that you can only get\\nhere. I'm going to load up, that I am!",
+  "pt": "Isso! Faz tempo que espero por esta liquidação.\\pTem itens que só dá pra conseguir aqui. Vou fazer a festa, ah, se vou!"
+ },
+ {
+  "map": "29.21 LILYCOVE CITY",
+  "offset": "02642EE",
+  "en": "Ohh… I'm bone-dry thirsty!",
+  "pt": "Ahh… Estou morrendo de sede!"
+ },
+ {
+  "map": "29.21 LILYCOVE CITY",
+  "offset": "0264309",
+  "en": "It's a VENDING MACHINE.\\nWhich snack would you like?",
+  "pt": "É uma MÁQUINA DE LANCHES. Qual lanche você gostaria?"
+ },
+ {
+  "map": "29.21 LILYCOVE CITY",
+  "offset": "026433D",
+  "en": "Clang!\\pA {STR_VAR_1} dropped down.",
+  "pt": "Clang!\\p{STR_VAR_1} caiu da máquina."
+ },
+ {
+  "map": "29.21 LILYCOVE CITY",
+  "offset": "0264357",
+  "en": "Clang!\\pScore! An extra {STR_VAR_1}\\ndropped down!",
+  "pt": "Clang!\\pIsso! Caiu mais uma unidade de {STR_VAR_1}!"
+ },
+ {
+  "map": "29.21 LILYCOVE CITY",
+  "offset": "026437F",
+  "en": "Not enough money…",
+  "pt": "Dinheiro insuficiente…"
+ },
+ {
+  "map": "29.21 LILYCOVE CITY",
+  "offset": "0264391",
+  "en": "Decided against buying some snacks.",
+  "pt": "Você desistiu de comprar lanches."
+ },
+ {
+  "map": "29.21 LILYCOVE CITY",
+  "offset": "02EC5F8",
+  "en": "The BAG is full…",
+  "pt": "A BOLSA está cheia…"
+ },
+ {
+  "map": "29.22 DIAMOND CITY",
+  "offset": "02EC7F3",
+  "en": "Welcome to the DEPARTMENT STORE.\\pWhich floor would you like?",
+  "pt": "Bem-vindo à LOJA DE DEPARTAMENTOS.\\pPara qual andar você gostaria de ir?"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0264BBC",
+  "en": "Wow, you're astounding!\\nYou're one great TRAINER!",
+  "pt": "Uau, você é impressionante! Você é um grande TREINADOR!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0264C65",
+  "en": "The indecisive lose.\\nThat's my warning to you.",
+  "pt": "Quem hesita perde. Esse é o meu aviso pra você."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0264C94",
+  "en": "Let me see your talent!",
+  "pt": "Mostre o seu talento!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0264CAC",
+  "en": "You possess spectacular talent!",
+  "pt": "Você tem um talento espetacular!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0264CCC",
+  "en": "If there are prodigies in the world,\\nthen our GYM LEADERS are them!\\pHowever, you may be even more talented\\nthan them…",
+  "pt": "Se existem prodígios no mundo, são os nossos LÍDERES DE GINÁSIO!\\pMas talvez você seja ainda mais talentoso que eles…"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0264DE7",
+  "en": "A POKé BALL was too heavy to lift\\npsychically. But this dust bunny…\\pWhoooooooooooooooh!\\n… … … … … …\\pNo, I'm not cheating!\\nI didn't blow on it! Honestly!",
+  "pt": "Um CAP era pesado demais pra levantar com a mente. Mas esta bolinha de poeira…\\pUuuuuuuuuuuuuuuh!\\n… … … … … …\\pNão, não estou trapaceando! Eu não soprei! Juro!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0264EFC",
+  "en": "I'm not going to get down on myself for\\nlosing. I just need to train harder.\\pPositive thinking--that's my strong\\npoint!",
+  "pt": "Não vou ficar pra baixo por ter perdido. Só preciso treinar mais.\\pPensamento positivo é o meu ponto forte!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0264FCF",
+  "en": "You will wage a terrifically intense\\nbattle with our GYM LEADERS…\\pThe result…\\nYou won't hear it from me!",
+  "pt": "Você vai travar uma batalha intensíssima com os nossos LÍDERES DE GINÁSIO…\\pO resultado… Você não vai ouvir de mim!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265038",
+  "en": "The roads you have traveled…\\nWhat you have experienced…\\pCome at me with everything you've\\nlearned!",
+  "pt": "Os caminhos que você percorreu… O que você viveu…\\pVenha pra cima de mim com tudo o que aprendeu!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "026509B",
+  "en": "You've traveled a path of greatness!",
+  "pt": "Você trilhou um caminho de grandeza!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "02650C0",
+  "en": "A bright future awaits those who have\\nworked diligently.\\pFor those who lazed idly, there is\\nonly despair at the end.\\pWhat goes around comes around…",
+  "pt": "Um futuro brilhante espera quem trabalhou com dedicação.\\pPara quem ficou de preguiça, só há desespero no final.\\pAqui se faz, aqui se paga…"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "02651A4",
+  "en": "How dare you beat me…\\pIt won't be my fault if something\\nhorrible befalls you…",
+  "pt": "Como você ousa me derrotar…\\pNão vai ser culpa minha se algo horrível acontecer com você…"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265265",
+  "en": "I… I don't let defeat rattle m-me,\\nhowever b-badly.",
+  "pt": "Eu… Eu não deixo a d-derrota me abalar, por p-pior que seja."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "02652D7",
+  "en": "Your vitality is contagious!\\nGet away from me quickly!",
+  "pt": "A sua vitalidade é contagiosa! Saia de perto de mim, rápido!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "026530E",
+  "en": "I may be past my prime, but I suggest\\nyou not patronize me.",
+  "pt": "Posso já ter passado do meu auge, mas sugiro que você não me subestime."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "026534A",
+  "en": "Ah, you overflow with the power\\nof youth!",
+  "pt": "Ah, você transborda o poder da juventude!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265374",
+  "en": "It seems that I could not overcome\\nyour youthful energy.",
+  "pt": "Parece que eu não consegui superar a sua energia jovem."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265412",
+  "en": "Humph! You may be strong, but you're\\nnot suitable for the PSYCHIC type!\\pThe way you battle is somehow brutal!",
+  "pt": "Hunf! Você pode ser forte, mas não combina com o tipo PSÍQUICO!\\pO seu jeito de batalhar é meio brutal!"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "02654CC",
+  "en": "All right! I think I'll develop a special\\ninvincible POKéMON power next.",
+  "pt": "Muito bem! Acho que agora vou desenvolver um poder especial e invencível de CAPTURA."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265515",
+  "en": "TATE: Hehehe… Were you surprised?\\pLIZA: Fufufu… Were you surprised?\\pTATE: That there are two GYM LEADERS?\\nLIZA: That there are two GYM LEADERS?\\pTATE: We're twins!\\nLIZA: We're twins!\\pTATE: We don't need to talk because…\\nLIZA: We can each determine what…\\pTATE: The other is thinking…\\nLIZA: All in our minds!\\pTATE: This combination of ours…\\nLIZA: Can you beat it?",
+  "pt": "TATE: Hehehe… Ficou surpreso?\\pLIZA: Fufufu… Ficou surpreso?\\pTATE: Por sermos dois LÍDERES?\\nLIZA: Por sermos dois LÍDERES?\\pTATE: Somos gêmeos!\\nLIZA: Somos gêmeos!\\pTATE: Nem precisamos falar, porque…\\nLIZA: Cada um sabe o que…\\pTATE: O outro está pensando…\\nLIZA: Tudo na nossa mente!\\pTATE: Esta nossa combinação…\\nLIZA: Você consegue vencê-la?"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "026567E",
+  "en": "TATE: What?! Our combination…\\nLIZA: Was shattered!\\pTATE: It can't be helped. You've won…\\nLIZA: So, in recognition, take this.",
+  "pt": "TATE: O quê?! A nossa combinação…\\nLIZA: Foi destruída!\\pTATE: Não tem jeito. Você venceu…\\nLIZA: Então, como prêmio, tome isto."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "02656FC",
+  "en": "{PLAYER} received the MIND BADGE\\nfrom TATE and LIZA.",
+  "pt": "{PLAYER} recebeu a INSÍGNIA MENTE de TATE e LIZA."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "026572B",
+  "en": "TATE: The MIND BADGE enhances the\\nSP. ATK and SP. DEF of POKéMON.\\pLIZA: It also lets you use the HM move\\nDIVE outside of battle.\\pTATE: You should also take this, too.",
+  "pt": "TATE: A INSÍGNIA MENTE aumenta o AT. ESP. e a DEF. ESP. das CAPTURAS.\\pLIZA: Ela também permite usar o golpe de HM MERGULHO fora das batalhas.\\pTATE: Você também deve levar isto."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "02657D2",
+  "en": "TATE: That TM04 contains…\\nLIZA: CALM MIND!\\pTATE: It raises SP. ATK and…\\nLIZA: It raises SP. DEF!\\pTATE: It's a move that's perfect…\\nLIZA: For PSYCHIC POKéMON!\\p… … … … … …",
+  "pt": "TATE: Esse TM04 contém…\\nLIZA: MENTE CALMA!\\pTATE: Ela aumenta o AT. ESP. e…\\nLIZA: Também aumenta a DEF. ESP.!\\pTATE: É um golpe perfeito…\\nLIZA: Para CAPTURAS PSÍQUICAS!\\p… … … … … …"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "026587C",
+  "en": "Registered GYM LEADERS TATE & LIZA\\nin the POKéNAV.",
+  "pt": "Os LÍDERES DE GINÁSIO TATE e LIZA foram registrados no POKéNAV."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "02658AF",
+  "en": "TATE: Looks like the bond between you\\nand your POKéMON is far stronger than\\lthe bond that we share as twins.\\pLIZA: You will become even stronger!\\nWe've battled you, so we know.",
+  "pt": "TATE: Parece que o laço entre você e as suas CAPTURAS é muito mais forte que o laço que nós temos como gêmeos.\\pLIZA: Você vai ficar ainda mais forte! Nós batalhamos com você, então sabemos."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265960",
+  "en": "TATE: Hehehe… Were you surprised?\\pLIZA: That there are two GYM LEADERS?\\pTATE: Oops, you have only one…\\nLIZA: POKéMON that can battle.\\pTATE: We can't battle that way!\\pLIZA: If you want to challenge us,\\nbring some more POKéMON.",
+  "pt": "TATE: Hehehe… Ficou surpreso?\\pLIZA: Por sermos dois LÍDERES DE GINÁSIO?\\pTATE: Opa, você só tem uma…\\nLIZA: CAPTURA que pode batalhar.\\pTATE: Assim não dá pra batalhar!\\pLIZA: Se quiser nos desafiar, traga mais CAPTURAS."
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265A42",
+  "en": "MOSSDEEP CITY POKéMON GYM",
+  "pt": "GINÁSIO DE MOSSDEEP CITY"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265A5C",
+  "en": "MOSSDEEP CITY POKéMON GYM\\pLIZA AND TATE'S CERTIFIED TRAINERS:\\n{PLAYER}",
+  "pt": "GINÁSIO DE MOSSDEEP CITY\\pCERTIFICADOS POR LIZA E TATE:\\n{PLAYER}"
+ },
+ {
+  "map": "30.0 COMET OBSERVATORY",
+  "offset": "0265BD7",
+  "en": "TATE: You can knock us down,\\nbut we'll never stay down!\\pLIZA: Because the two of us,\\nwe always support each other!",
+  "pt": "TATE: Você pode até nos derrubar, mas a gente nunca fica no chão!\\pLIZA: Porque nós dois sempre apoiamos um ao outro!"
+ },
+ {
+  "map": "30.1 COMET OBSERVATORY",
+  "offset": "0265DAF",
+  "en": "It likes {STR_VAR_1}S,\\ndoesn't it?\\pNo, I'm positive of it! It definitely\\nlikes {STR_VAR_1}S!",
+  "pt": "Ele gosta de {STR_VAR_1}, não é?\\pNão, tenho certeza! Ele gosta mesmo de {STR_VAR_1}!"
+ },
+ {
+  "map": "30.2 COMET OBSERVATORY",
+  "offset": "0265ED8",
+  "en": "My little sister exchanges MAIL with\\nher boyfriend in FORTREE.\\pI don't envy her one bit at all.",
+  "pt": "Minha irmãzinha troca CARTAS com o namorado dela em FORTREE.\\pNão tenho nem um pingo de inveja dela."
+ },
+ {
+  "map": "30.2 COMET OBSERVATORY",
+  "offset": "0265F38",
+  "en": "Even though I can't see my friend in\\nFORTREE, my POKéMON carries MAIL\\lback and forth for us.\\pI'm not lonesome, even though we're\\napart.",
+  "pt": "Mesmo sem poder ver meu amigo em FORTREE, a minha CAPTURA leva e traz CARTAS para nós.\\pNão me sinto só, mesmo estando longe."
+ },
+ {
+  "map": "30.2 COMET OBSERVATORY",
+  "offset": "0265FC0",
+  "en": "WINGULL: Pihyoh!",
+  "pt": "WINGULL: Pihyoh!"
+ },
+ {
+  "map": "30.3 COMET OBSERVATORY",
+  "offset": "0266000",
+  "en": "The GYM LEADERS in this town are\\na formidable duo.\\pTheir combination attacks are, like,\\nexcellent and wow!",
+  "pt": "Os LÍDERES DE GINÁSIO desta cidade são uma dupla formidável.\\pOs ataques combinados deles são, tipo, excelentes e uau!"
+ },
+ {
+  "map": "30.3 COMET OBSERVATORY",
+  "offset": "026606B",
+  "en": "Depending on the special abilities of\\nPOKéMON, some moves might change\\lor not work at all.",
+  "pt": "Dependendo das habilidades especiais das CAPTURAS, alguns golpes podem mudar ou nem funcionar."
+ },
+ {
+  "map": "30.5 COMET OBSERVATORY",
+  "offset": "0266234",
+  "en": "MAX REPEL keeps all weak POKéMON away.\\pOut of all the REPEL sprays, it lasts\\nthe longest.",
+  "pt": "O REPELENTE MÁXIMO mantém todas as CAPTURAS fracas longe.\\pDe todos os sprays de REPELENTE, é o que dura mais."
+ },
+ {
+  "map": "30.5 COMET OBSERVATORY",
+  "offset": "026628E",
+  "en": "The NET and DIVE BALLS are rare POKé\\nBALLS that are only made in MOSSDEEP.\\pA NET BALL is effective against\\nBUG-type and WATER-type POKéMON.\\pA DIVE BALL works best on POKéMON\\nat the bottom of the sea.",
+  "pt": "A NET BALL e a DIVE BALL são CAPs raros que só são feitos em MOSSDEEP.\\pA NET BALL é eficaz contra CAPTURAS dos tipos INSETO e ÁGUA.\\pA DIVE BALL funciona melhor em CAPTURAS do fundo do mar."
+ },
+ {
+  "map": "30.6 COMET OBSERVATORY",
+  "offset": "026644A",
+  "en": "You bet, you bet!\\nAfter all, a SUPER ROD is really super!",
+  "pt": "Pode apostar, pode apostar! Afinal, uma SUPERVARA é super mesmo!"
+ },
+ {
+  "map": "30.6 COMET OBSERVATORY",
+  "offset": "0266484",
+  "en": "If there's any water, try dropping in\\nyour ROD and see what bites!",
+  "pt": "Se houver água, jogue a sua VARA e veja o que morde a isca!"
+ },
+ {
+  "map": "30.6 COMET OBSERVATORY",
+  "offset": "02664C7",
+  "en": "Hunh?\\nDon't you like to fish?",
+  "pt": "Hã? Você não gosta de pescar?"
+ },
+ {
+  "map": "30.6 COMET OBSERVATORY",
+  "offset": "02664E5",
+  "en": "Go after the seafloor POKéMON with\\nyour SUPER ROD.",
+  "pt": "Vá atrás das CAPTURAS do fundo do mar com a sua SUPERVARA."
+ },
+ {
+  "map": "30.7 COMET OBSERVATORY",
+  "offset": "02667DD",
+  "en": "STEVEN: While you're using SURF, you\\nshould notice dark patches of water.\\pUse DIVE if you come to deep water\\nlike it. You'll drop to the seafloor.\\pWhen you want to come back up, use\\nDIVE again.\\pIn some places, it won't be possible\\nfor you to surface, though.",
+  "pt": "STEVEN: Enquanto estiver usando SURFAR, você vai notar manchas escuras na água.\\pUse MERGULHO quando chegar a águas profundas assim. Você vai descer até o fundo do mar.\\pQuando quiser voltar à superfície, use MERGULHO de novo.\\pEm alguns lugares, porém, não vai ser possível subir à superfície."
+ },
+ {
+  "map": "30.7 COMET OBSERVATORY",
+  "offset": "02668E0",
+  "en": "STEVEN: Apparently, there's an\\nunderwater cavern between\\lMOSSDEEP and SOOTOPOLIS.\\pYou know, the one that CAPT. STERN\\nfound in his submarine.",
+  "pt": "STEVEN: Pelo jeito, existe uma caverna submarina entre MOSSDEEP e SOOTOPOLIS.\\pSabe, aquela que o CAPITÃO STERN encontrou com o submarino dele."
+ },
+ {
+  "map": "30.7 COMET OBSERVATORY",
+  "offset": "026696D",
+  "en": "{PLAYER} checked the POKé BALL.\\pIt contained the POKéMON\\nBELDUM.\\pTake the POKé BALL?",
+  "pt": "{PLAYER} examinou o CAP.\\pEle continha a CAPTURA BELDUM.\\pPegar o CAP?"
+ },
+ {
+  "map": "30.7 COMET OBSERVATORY",
+  "offset": "02669BC",
+  "en": "{PLAYER} obtained a BELDUM.",
+  "pt": "{PLAYER} obteve um BELDUM."
+ },
+ {
+  "map": "30.7 COMET OBSERVATORY",
+  "offset": "02669F9",
+  "en": "{PLAYER} left the POKé BALL where\\nit was.",
+  "pt": "{PLAYER} deixou o CAP onde estava."
+ },
+ {
+  "map": "30.7 COMET OBSERVATORY",
+  "offset": "0266A1D",
+  "en": "It's a letter.\\p… … … … … …\\pTo {PLAYER}{KUN}…\\pI've decided to do a little soul-\\nsearching and train on the road.\\pI don't plan to return home for some\\ntime.\\pI have a favor to ask of you.\\pI want you to take the POKé BALL on\\nthe desk.\\pInside it is a BELDUM, my favorite\\nPOKéMON.\\pI'm counting on you.\\pMay our paths cross someday.\\pSTEVEN STONE",
+  "pt": "É uma carta.\\p… … … … … …\\pPara {PLAYER}{KUN}…\\pDecidi fazer uma pequena busca interior e treinar pela estrada.\\pNão pretendo voltar para casa por um tempo.\\pTenho um favor a te pedir.\\pQuero que você fique com o CAP que está na mesa.\\pDentro dele está um BELDUM, a minha CAPTURA favorita.\\pConto com você.\\pQue os nossos caminhos se cruzem algum dia.\\pSTEVEN STONE"
+ },
+ {
+  "map": "30.7 COMET OBSERVATORY",
+  "offset": "0266B66",
+  "en": "It's a collection of rare rocks and\\nstones assembled by STEVEN.",
+  "pt": "É uma coleção de rochas e pedras raras reunida pelo STEVEN."
+ }
+]

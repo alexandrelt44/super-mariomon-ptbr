@@ -1,0 +1,717 @@
+[
+ {
+  "offset": "032F5A7",
+  "en": "WATTSON: Wahahahaha!\\pYou've really done it, haven't you?\\nI've been getting word about you!\\pIt seems I need to retrain some\\nmore still.\\pI'd say I could use a wee bit more\\ntime to reopen my GYM.\\pYou'll have to wait till then!\\nWahahahaha!",
+  "pt": "WATTSON: Wahahahaha!\\pVocê conseguiu mesmo, hein? Tenho ouvido falar de você!\\pParece que ainda preciso treinar mais um pouco.\\pEu diria que preciso de só mais um tempinho pra reabrir o meu GINÁSIO.\\pVocê vai ter que esperar até lá! Wahahahaha!"
+ },
+ {
+  "offset": "032F693",
+  "en": "WATTSON: Oh, it's you!\\nMy GYM's ready!\\pVisit MAUVILLE anytime!\\nWahahahaha!",
+  "pt": "WATTSON: Ah, é você! O meu GINÁSIO está pronto!\\pVisite MAUVILLE quando quiser! Wahahahaha!"
+ },
+ {
+  "offset": "032F6DE",
+  "en": "WATTSON: Wahahaha!\\pA battle with you is always charged\\nwith shocking power!",
+  "pt": "WATTSON: Wahahaha!\\pUma batalha com você está sempre carregada de energia eletrizante!"
+ },
+ {
+  "offset": "032F72A",
+  "en": "FLANNERY: {PLAYER}…\\pWhen we battled, I learned exactly\\nhow immature I was.\\pBut I'm not done yet!\\pI'm going to redo my training and\\nreopen the GYM.\\pWhen the time comes, {PLAYER},\\nplease challenge us again.",
+  "pt": "FLANNERY: {PLAYER}…\\pQuando batalhamos, aprendi o quanto eu ainda era imatura.\\pMas eu ainda não terminei!\\pVou refazer o meu treinamento e reabrir o GINÁSIO.\\pQuando chegar a hora, {PLAYER}, por favor, nos desafie de novo."
+ },
+ {
+  "offset": "032F7EB",
+  "en": "FLANNERY: Hello, {PLAYER}?\\nCongratulations!\\pWord of your success has reached\\nus like the heat of a volcano!\\pOur training is coming along very\\nwell here.\\pWhen the GYM's ready, a mark will\\nappear beside my name in the\\lMATCH CALL list.",
+  "pt": "FLANNERY: Alô, {PLAYER}? Parabéns!\\pA notícia do seu sucesso chegou até nós como o calor de um vulcão!\\pO nosso treinamento está indo muito bem por aqui.\\pQuando o GINÁSIO estiver pronto, vai aparecer uma marca ao lado do meu nome na lista do MATCH CALL."
+ },
+ {
+  "offset": "032F8CE",
+  "en": "FLANNERY: Oh, {PLAYER}?\\nOur GYM's ready!\\pCome to LAVARIDGE for a soak\\nin the hot spring and a challenge!",
+  "pt": "FLANNERY: Ah, {PLAYER}? O nosso GINÁSIO está pronto!\\pVenha a LAVARIDGE pra um banho na fonte termal e um desafio!"
+ },
+ {
+  "offset": "032F931",
+  "en": "FLANNERY: {PLAYER}…\\nI'm positive that you keep getting\\lbetter at training every time.",
+  "pt": "FLANNERY: {PLAYER}… Tenho certeza de que você treina cada vez melhor."
+ },
+ {
+  "offset": "032F981",
+  "en": "WINONA: Hello, {PLAYER}!\\pThanks to our battle, I've come\\nto understand my weak points!\\pWhen I reopen the GYM, I won't go\\ndown in defeat again!",
+  "pt": "WINONA: Olá, {PLAYER}!\\pGraças à nossa batalha, passei a entender os meus pontos fracos!\\pQuando eu reabrir o GINÁSIO, não vou ser derrotada de novo!"
+ },
+ {
+  "offset": "032FA0A",
+  "en": "WINONA: You've done it, {PLAYER}!\\pNews about the new CHAMPION\\nhas reached us in FORTREE!\\pBut… The next time we battle,\\nit's not going to end the same way.",
+  "pt": "WINONA: Você conseguiu, {PLAYER}!\\pA notícia sobre o novo CAMPEÃO chegou até nós em FORTREE!\\pMas… Da próxima vez que batalharmos, não vai terminar do mesmo jeito."
+ },
+ {
+  "offset": "032FA9F",
+  "en": "WINONA: Is this {PLAYER}?\\nOur GYM is back in operation!\\pWe're waiting for you in FORTREE!",
+  "pt": "WINONA: É o {PLAYER}? O nosso GINÁSIO voltou a funcionar!\\pEstamos esperando você em FORTREE!"
+ },
+ {
+  "offset": "032FAF3",
+  "en": "WINONA: {PLAYER}…\\nThough I have lost, my wings will\\lnever break.\\pYes, in exactly the same way that\\nyou never lost sight of your dream.",
+  "pt": "WINONA: {PLAYER}… Mesmo tendo perdido, as minhas asas nunca vão se quebrar.\\pSim, exatamente do mesmo jeito que você nunca perdeu o seu sonho de vista."
+ },
+ {
+  "offset": "032FB74",
+  "en": "TATE: Oh! You're…\\nLIZA: {PLAYER}!\\pTATE: We're in training again…\\nLIZA: So we can reopen our GYM!\\pTATE: When our GYM is ready…\\nLIZA: When our GYM is ready…\\pTATE: A mark'll appear by our name…\\nLIZA: On the MATCH CALL list.",
+  "pt": "TATE: Oh! Você é…\\nLIZA: {PLAYER}!\\pTATE: Estamos treinando de novo…\\nLIZA: Pra reabrir o nosso GINÁSIO!\\pTATE: Com o GINÁSIO pronto…\\nLIZA: Com o GINÁSIO pronto…\\pTATE: Vai surgir uma marca no nome…\\nLIZA: Na lista do MATCH CALL."
+ },
+ {
+  "offset": "032FC4B",
+  "en": "TATE: {PLAYER}, congratulations!\\nLIZA: {PLAYER}, congratulations!\\pTATE: The two of us are…\\nLIZA: Still in training!\\pTATE: We need some more time, but…\\nLIZA: When our GYM is ready…\\pTATE: A mark'll appear by our name…\\nLIZA: On the MATCH CALL list.",
+  "pt": "TATE: {PLAYER}, parabéns!\\nLIZA: {PLAYER}, parabéns!\\pTATE: Nós dois ainda estamos…\\nLIZA: Treinando!\\pTATE: Precisamos de mais tempo, mas…\\nLIZA: Com o GINÁSIO pronto…\\pTATE: Vai surgir uma marca no nome…\\nLIZA: Na lista do MATCH CALL."
+ },
+ {
+  "offset": "032FD35",
+  "en": "TATE: {PLAYER}!\\nLIZA: {PLAYER}!\\pTATE: Our GYM is ready!\\nLIZA: Our GYM is ready!\\pTATE: Please come visit…\\nLIZA: MOSSDEEP anytime!",
+  "pt": "TATE: {PLAYER}!\\nLIZA: {PLAYER}!\\pTATE: O nosso GINÁSIO está pronto!\\nLIZA: O nosso GINÁSIO está pronto!\\pTATE: Venha visitar…\\nLIZA: MOSSDEEP quando quiser!"
+ },
+ {
+  "offset": "032FDAA",
+  "en": "TATE: {PLAYER}, the battle we had…\\nLIZA: Is an invaluable experience.\\pTATE: It would be nice if…\\nLIZA: We could all battle again!",
+  "pt": "TATE: {PLAYER}, a nossa batalha…\\nLIZA: Foi uma experiência valiosíssima.\\pTATE: Seria bom se…\\nLIZA: Pudéssemos batalhar de novo!"
+ },
+ {
+  "offset": "032FE26",
+  "en": "JUAN: Hmm…\\n{PLAYER}{KUN}… Was it?\\pOur battle together--it brought\\nto me memories of when I first\\lencountered WALLACE.\\pPerhaps you are a genius who may\\nyet surpass WALLACE!",
+  "pt": "JUAN: Hmm… {PLAYER}{KUN}, não é?\\pA nossa batalha me trouxe lembranças de quando encontrei o WALLACE pela primeira vez.\\pTalvez você seja um gênio que ainda vai superar o WALLACE!"
+ },
+ {
+  "offset": "032FEC9",
+  "en": "JUAN: Fufu… {PLAYER}{KUN}…\\nYou've finally achieved your goal.\\pMy eye for appraising talent wasn't\\nmistaken…\\pI wish for another chance to meet\\nyou, for you have scaled the peak\\lof power and prestige.",
+  "pt": "JUAN: Fufu… {PLAYER}{KUN}… Você finalmente alcançou o seu objetivo.\\pO meu olho para avaliar talentos não se enganou…\\pDesejo ter outra chance de encontrá-lo, pois você escalou o pico do poder e do prestígio."
+ },
+ {
+  "offset": "032FF87",
+  "en": "JUAN: Hoho… {PLAYER}{KUN}…\\pOur SOOTOPOLIS GYM has finally\\nreopened.\\pIf you wish to see me, you are\\nwelcome to visit anytime.",
+  "pt": "JUAN: Hoho… {PLAYER}{KUN}…\\pO nosso GINÁSIO de SOOTOPOLIS finalmente reabriu.\\pSe desejar me ver, será bem-vindo a qualquer momento."
+ },
+ {
+  "offset": "032FFFB",
+  "en": "JUAN: {PLAYER}{KUN}…\\pLike the finest music, the battles\\nwe wage together strike chords\\lof inspiration in my heart…\\pWhen I close my eyes, I see visions\\nof you soaring with the melody…",
+  "pt": "JUAN: {PLAYER}{KUN}…\\pComo a mais refinada música, as batalhas que travamos juntos tocam acordes de inspiração no meu coração…\\pQuando fecho os olhos, vejo visões de você voando alto com a melodia…"
+ },
+ {
+  "offset": "03300A9",
+  "en": "SIDNEY: Yo, {PLAYER}!\\pIf you want to battle with me\\nagain, you come on back whenever\\lyou like to the POKéMON LEAGUE.\\pI'll always be here!\\nI'll be waiting!",
+  "pt": "SIDNEY: E aí, {PLAYER}!\\pSe quiser batalhar comigo de novo, é só voltar à LIGA CAPTURA quando quiser.\\pEu vou estar sempre aqui! Vou ficar esperando!"
+ },
+ {
+  "offset": "033013E",
+  "en": "PHOEBE: Hi, {PLAYER}!\\pHow about coming back here again\\nsometime?\\pI'd like to see how much tighter\\nyour bond has grown with your\\lPOKéMON.",
+  "pt": "PHOEBE: Oi, {PLAYER}!\\pQue tal voltar aqui de novo qualquer dia?\\pQuero ver o quanto o seu laço com as suas CAPTURAS ficou mais forte."
+ },
+ {
+  "offset": "03301C1",
+  "en": "GLACIA: Hello, {PLAYER}.\\pI trust you haven't become\\ncomplacent with your power?\\pIf you feel the need to cool your\\nhot emotions just a little, do come\\lto the POKéMON LEAGUE…",
+  "pt": "GLACIA: Olá, {PLAYER}.\\pEspero que você não tenha se acomodado com o seu poder.\\pSe sentir necessidade de esfriar um pouquinho essas emoções ardentes, venha à LIGA CAPTURA…"
+ },
+ {
+  "offset": "0330268",
+  "en": "DRAKE: That voice… {PLAYER}, is it?\\nYou sound well…\\pI understand that there is now\\na facility called the BATTLE\\lFRONTIER that tests the skills of\\lTRAINERS.\\pHowever, if you wish to have real\\nbattles, there is no substitute for\\lthe POKéMON LEAGUE!\\pDon't you agree, {PLAYER}?",
+  "pt": "DRAKE: Essa voz… É o {PLAYER}? Parece que você está bem…\\pSoube que agora existe uma instalação chamada FRONTEIRA DE BATALHA, que testa as habilidades dos TREINADORES.\\pMas, se você quer batalhas de verdade, nada substitui a LIGA CAPTURA!\\pNão concorda, {PLAYER}?"
+ },
+ {
+  "offset": "033036D",
+  "en": "WALLACE: Hello, {PLAYER}{KUN}.\\nHave you met STEVEN?\\pHe is…\\nActually incredibly skilled.\\pHowever, he's an odd soul who\\nrarely battles.\\pInstead, he would rather look for\\nrare stones.\\pI'm sure he's digging in a cave or\\na craggy mountain somewhere.\\pBut what is a rare stone exactly?\\nAll I can think of is a METEORITE…",
+  "pt": "WALLACE: Olá, {PLAYER}{KUN}. Você já conheceu o STEVEN?\\pEle é… Na verdade, incrivelmente habilidoso.\\pMas é uma alma excêntrica, que raramente batalha.\\pEm vez disso, prefere procurar pedras raras.\\pAposto que ele está cavando numa caverna ou numa montanha escarpada por aí.\\pMas o que é uma pedra rara, exatamente? Só consigo pensar num METEORITO…"
+ },
+ {
+  "offset": "0330690",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\pMR. BRINEY retired as a SAILOR,\\nbut I still see him out on the sea\\lwith his pet PEEKO sometimes.\\pHe must love the sea still.",
+  "pt": "MAY: Oi, {PLAYER}{KUN}!\\pO SR. BRINEY se aposentou como MARINHEIRO, mas às vezes ainda vejo ele no mar com a PEEKO, o bichinho de estimação dele.\\pEle ainda deve amar o mar."
+ },
+ {
+  "offset": "033071C",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\pYou know how little towns like\\nPETALBURG and DEWFORD have GYMS?\\pFor some reason, the big port of\\nSLATEPORT doesn't have a GYM.\\pWhen they finally build a GYM there,\\nI should apply to be the LEADER.",
+  "pt": "MAY: Oi, {PLAYER}{KUN}!\\pSabe como cidadezinhas tipo PETALBURG e DEWFORD têm GINÁSIOS?\\pPor algum motivo, o grande porto de SLATEPORT não tem um GINÁSIO.\\pQuando finalmente construírem um GINÁSIO lá, acho que vou me candidatar a LÍDER."
+ },
+ {
+  "offset": "03307F0",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\pDo you remember a man named\\nthe CUTTER in RUSTBORO?\\lHe had a house there, remember?\\pWell, I found out his younger\\nbrother lives in MAUVILLE.\\pCan you guess his name?\\p… … … … … …\\n… … … … … …\\pThe ROCK SMASH GUY!",
+  "pt": "MAY: Oi, {PLAYER}{KUN}!\\pVocê se lembra de um homem chamado CUTTER, em RUSTBORO? Ele tinha uma casa lá, lembra?\\pPois é, descobri que o irmão mais novo dele mora em MAUVILLE.\\pConsegue adivinhar o nome dele?\\p… … … … … …\\n… … … … … …\\pO CARA DO ESMAGA PEDRAS!"
+ },
+ {
+  "offset": "03308D0",
+  "en": "MAY: {PLAYER}{KUN}?\\pRUSTURF TUNNEL…\\nThey named it that because it\\ljoins RUSTBORO and VERDANTURF.",
+  "pt": "MAY: {PLAYER}{KUN}?\\pRUSTURF TUNNEL… Deram esse nome porque ele liga RUSTBORO e VERDANTURF."
+ },
+ {
+  "offset": "0330928",
+  "en": "MAY: {PLAYER}{KUN}, how are you?\\pI'm out on ROUTE 111 now.\\pI'm going to get a rest at an old\\nlady's house.\\pShe lives just north of\\nthe desert.",
+  "pt": "MAY: {PLAYER}{KUN}, como vai?\\pAgora estou na ROTA 111.\\pVou descansar na casa de uma senhora.\\pEla mora logo ao norte do deserto."
+ },
+ {
+  "offset": "03309AE",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\pDid you know about the MIRAGE\\nTOWER in the desert?\\pThey say, like a mirage, it seems\\nto mysteriously come and go.\\pI wish I could see it.",
+  "pt": "MAY: Oi, {PLAYER}{KUN}!\\pVocê sabia da TORRE MIRAGEM no deserto?\\pDizem que, como uma miragem, ela parece aparecer e sumir misteriosamente.\\pQueria tanto poder vê-la."
+ },
+ {
+  "offset": "0330A46",
+  "en": "MAY: {PLAYER}{KUN}, yahoo!\\nI'm on ROUTE 119 now.\\pThere's a big river here, and\\nit often rains.\\pI got soaked!",
+  "pt": "MAY: {PLAYER}{KUN}, uhuu! Agora estou na ROTA 119.\\pTem um rio grande aqui, e chove muito.\\pFiquei encharcada!"
+ },
+ {
+  "offset": "0330AAA",
+  "en": "MAY: {PLAYER}{KUN}, hi.\\pMT. PYRE is a memorial to POKéMON\\nwhose lives have ended.\\pMaybe as a result, it's infested\\nwith many GHOST-type POKéMON!",
+  "pt": "MAY: {PLAYER}{KUN}, oi.\\pO MT. PYRE é um memorial às CAPTURAS cujas vidas chegaram ao fim.\\pTalvez por isso ele esteja infestado de CAPTURAS do tipo FANTASMA!"
+ },
+ {
+  "offset": "0330B32",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\pI was thinking of going to the hot\\nspring in LAVARIDGE.\\pBut on the way, around JAGGED\\nPASS, I ran into some bad-looking\\lcharacters. The mood was ugly!",
+  "pt": "MAY: Oi, {PLAYER}{KUN}!\\pEu estava pensando em ir à fonte termal de LAVARIDGE.\\pMas, no caminho, perto do JAGGED PASS, dei de cara com uns tipos mal-encarados. O clima ficou feio!"
+ },
+ {
+  "offset": "0330BD8",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\nDid you see the news?\\pThey say CAPT. STERN discovered\\nthe SEAFLOOR CAVERN while on his\\lsubmarine expedition.",
+  "pt": "MAY: Oi, {PLAYER}{KUN}! Você viu o noticiário?\\pDizem que o CAPITÃO STERN descobriu a SEAFLOOR CAVERN durante a expedição de submarino dele."
+ },
+ {
+  "offset": "0330C54",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\nDon't you think it's neat?\\pEven if you don't have a boat,\\nyou can cross the sea using\\la POKéMON's move.\\pDid you know there's more?\\pThere's a POKéMON move that lets\\nyou go to the bottom of the sea.",
+  "pt": "MAY: Oi, {PLAYER}{KUN}! Não acha isso demais?\\pMesmo sem ter um barco, dá pra atravessar o mar usando um golpe de CAPTURA.\\pSabia que tem mais?\\pExiste um golpe de CAPTURA que te leva até o fundo do mar."
+ },
+ {
+  "offset": "0330D28",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\nHope things are okay!\\pHave you been on the sea and\\nfound your way to the other side\\lblocked?\\pTry diving deep underwater and\\nfollowing trenches.\\pWhen you get to the other side,\\ncome up to the surface. Easy!",
+  "pt": "MAY: Oi, {PLAYER}{KUN}! Espero que esteja tudo bem!\\pVocê já estava no mar e encontrou o caminho pro outro lado bloqueado?\\pTente mergulhar fundo e seguir as fossas submarinas.\\pQuando chegar do outro lado, volte à superfície. Fácil!"
+ },
+ {
+  "offset": "0330E05",
+  "en": "MAY: Hi, {PLAYER}{KUN}!\\pHow's it going?\\nAre you filling your POKéDEX?\\pI heard a rumor that there are\\nsuper-ancient POKéMON out there.\\lAnd there are three of them!\\pI would love to see even one…",
+  "pt": "MAY: Oi, {PLAYER}{KUN}!\\pComo vão as coisas? Está completando a sua TATTLEDEX?\\pOuvi um boato de que existem CAPTURAS superantigas por aí. E são três!\\pEu adoraria ver pelo menos uma…"
+ },
+ {
+  "offset": "0330EBD",
+  "en": "MAY: {PLAYER}{KUN}!\\nI heard the rumors!\\pYou beat the SOOTOPOLIS GYM\\nLEADER?\\pThat means you don't have far\\nto go, do you?",
+  "pt": "MAY: {PLAYER}{KUN}! Fiquei sabendo!\\pVocê venceu o LÍDER DE GINÁSIO de SOOTOPOLIS?\\pIsso quer dizer que falta pouco, não é?"
+ },
+ {
+  "offset": "0330F2D",
+  "en": "MAY: There isn't a single TRAINER\\nleft in HOENN who doesn't know who\\lyou are, {PLAYER}{KUN}!\\pWhen I tell people that I'm friends\\nwith you, {PLAYER}{KUN}, they're all\\lsurprised!",
+  "pt": "MAY: Não sobrou um único TREINADOR em HOENN que não saiba quem você é, {PLAYER}{KUN}!\\pQuando eu conto pras pessoas que sou sua amiga, {PLAYER}{KUN}, todo mundo fica surpreso!"
+ },
+ {
+  "offset": "0330FCC",
+  "en": "BRENDAN: Hey, {PLAYER}!\\pMR. BRINEY retired as a SAILOR,\\nbut I still see him out on the sea\\lwith his pet PEEKO sometimes.\\pI guess he must love\\nthe sea still.",
+  "pt": "BRENDAN: Ei, {PLAYER}!\\pO SR. BRINEY se aposentou como MARINHEIRO, mas às vezes ainda vejo ele no mar com a PEEKO, o bichinho de estimação dele.\\pAcho que ele ainda deve amar o mar."
+ },
+ {
+  "offset": "0331063",
+  "en": "BRENDAN: Hey, {PLAYER}!\\pI don't get how little towns like\\nPETALBURG and DEWFORD have GYMS.\\pI mean, not when the big port of\\nSLATEPORT doesn't have a GYM.\\pWhen they finally build a GYM there,\\nI should apply to be the LEADER.",
+  "pt": "BRENDAN: Ei, {PLAYER}!\\pNão entendo como cidadezinhas tipo PETALBURG e DEWFORD têm GINÁSIOS.\\pQuer dizer, ainda mais quando o grande porto de SLATEPORT não tem um GINÁSIO.\\pQuando finalmente construírem um GINÁSIO lá, acho que vou me candidatar a LÍDER."
+ },
+ {
+  "offset": "033113D",
+  "en": "BRENDAN: Yo, {PLAYER}!\\pDo you remember a guy named\\nthe CUTTER in RUSTBORO?\\lHe had a house there, right?\\pWell, it turns out his little\\nbrother lives in MAUVILLE.\\pCan you guess his name?\\p… … … … … …\\n… … … … … …\\pThe ROCK SMASH GUY!",
+  "pt": "BRENDAN: E aí, {PLAYER}!\\pLembra de um cara chamado CUTTER, em RUSTBORO? Ele tinha uma casa lá, né?\\pPois é, parece que o irmão caçula dele mora em MAUVILLE.\\pConsegue adivinhar o nome dele?\\p… … … … … …\\n… … … … … …\\pO CARA DO ESMAGA PEDRAS!"
+ },
+ {
+  "offset": "033121C",
+  "en": "BRENDAN: This voice… {PLAYER}?\\pThey gave RUSTURF TUNNEL its name\\nbecause it joins RUSTBORO and\\lVERDANTURF.\\pDid you know that?",
+  "pt": "BRENDAN: Essa voz… {PLAYER}?\\pO RUSTURF TUNNEL ganhou esse nome porque liga RUSTBORO e VERDANTURF.\\pVocê sabia?"
+ },
+ {
+  "offset": "0331294",
+  "en": "BRENDAN: {PLAYER}, what's up?\\pHey, I'm out on ROUTE 111 now.\\pI'm going to rest up at an old\\nlady's house north of the desert.\\pIf you're in the area, you should\\nvisit her, too.",
+  "pt": "BRENDAN: {PLAYER}, e aí?\\pEi, agora estou na ROTA 111.\\pVou descansar na casa de uma senhora ao norte do deserto.\\pSe estiver pela área, você também devia visitá-la."
+ },
+ {
+  "offset": "033133E",
+  "en": "BRENDAN: Hey, {PLAYER}!\\pDid you know about the MIRAGE\\nTOWER in the desert?\\pThey say, like a mirage, it can be\\nseen only sometimes.\\pI'd like to see that!",
+  "pt": "BRENDAN: Ei, {PLAYER}!\\pVocê sabia da TORRE MIRAGEM no deserto?\\pDizem que, como uma miragem, ela só pode ser vista de vez em quando.\\pEu queria ver isso!"
+ },
+ {
+  "offset": "03313D1",
+  "en": "BRENDAN: Who's this? Oh, {PLAYER}?\\nGuess what? I'm on ROUTE 119 now.\\pThere's a big river here, and\\nit rains all the time.\\pI got soaked to the bone!",
+  "pt": "BRENDAN: Quem é? Ah, {PLAYER}? Adivinha só? Agora estou na ROTA 119.\\pTem um rio grande aqui, e chove o tempo todo.\\pFiquei encharcado até os ossos!"
+ },
+ {
+  "offset": "033145F",
+  "en": "BRENDAN: {PLAYER}!\\pMT. PYRE is a memorial to POKéMON\\nwhose lives have ended.\\pThat's probably why it's infested\\nwith many GHOST-type POKéMON!",
+  "pt": "BRENDAN: {PLAYER}!\\pO MT. PYRE é um memorial às CAPTURAS cujas vidas chegaram ao fim.\\pDeve ser por isso que ele está infestado de CAPTURAS do tipo FANTASMA!"
+ },
+ {
+  "offset": "03314E6",
+  "en": "BRENDAN: Hey there, {PLAYER}.\\pI was on my way back to the hot\\nspring in LAVARIDGE.\\pBut around JAGGED PASS, I ran into\\nsome nasty-looking characters.\\pThose creeps…\\nI think they were TEAM MAGMA.",
+  "pt": "BRENDAN: E aí, {PLAYER}.\\pEu estava voltando pra fonte termal de LAVARIDGE.\\pMas, perto do JAGGED PASS, dei de cara com uns tipos mal-encarados.\\pAqueles sujeitos… Acho que eram da EQUIPE MAGMA."
+ },
+ {
+  "offset": "03315A1",
+  "en": "BRENDAN: Hi, {PLAYER}!\\nDid you catch the news?\\pThey say CAPT. STERN discovered\\nthe SEAFLOOR CAVERN while on his\\lsubmarine expedition.",
+  "pt": "BRENDAN: Oi, {PLAYER}! Viu o noticiário?\\pDizem que o CAPITÃO STERN descobriu a SEAFLOOR CAVERN durante a expedição de submarino dele."
+ },
+ {
+  "offset": "0331621",
+  "en": "BRENDAN: Hey there, {PLAYER}!\\nDon't you think it's awesome?\\pEven if you don't have a boat,\\nyou can cross the sea using\\la POKéMON's move.\\pAnd, there's a move that lets you\\ntravel to the bottom of the sea.\\pMan, POKéMON can do anything!",
+  "pt": "BRENDAN: E aí, {PLAYER}! Não acha isso incrível?\\pMesmo sem ter um barco, dá pra atravessar o mar usando um golpe de CAPTURA.\\pE tem um golpe que te leva até o fundo do mar.\\pCara, as CAPTURAS fazem de tudo!"
+ },
+ {
+  "offset": "0331705",
+  "en": "BRENDAN: Howdy, {PLAYER}!\\nHow are you holding up?\\pEver found your way to the other\\nside blocked while on the sea?\\pTry diving deep underwater and\\nfollowing trenches at the bottom.\\pWhen you get to the other side,\\ncome up to the surface. Simple!",
+  "pt": "BRENDAN: Fala, {PLAYER}! Como você está?\\pJá encontrou o caminho pro outro lado bloqueado enquanto estava no mar?\\pTente mergulhar fundo e seguir as fossas lá no fundo.\\pQuando chegar do outro lado, volte à superfície. Simples!"
+ },
+ {
+  "offset": "03317F2",
+  "en": "BRENDAN: Hey there, {PLAYER}!\\pHow's it going? Filling up your\\nPOKéDEX successfully?\\pI heard a rumor that there are\\nsuper-ancient POKéMON out there.\\lAnd not just one--three!\\pI'd love to catch even one…",
+  "pt": "BRENDAN: E aí, {PLAYER}!\\pComo vão as coisas? Está conseguindo completar a sua TATTLEDEX?\\pOuvi um boato de que existem CAPTURAS superantigas por aí. E não é só uma--são três!\\pEu adoraria pegar pelo menos uma…"
+ },
+ {
+  "offset": "03318B5",
+  "en": "BRENDAN: {PLAYER}!\\nI heard the rumors!\\pYou beat the SOOTOPOLIS GYM\\nLEADER? Awesome!\\pYou're getting awful close now!",
+  "pt": "BRENDAN: {PLAYER}! Fiquei sabendo!\\pVocê venceu o LÍDER DE GINÁSIO de SOOTOPOLIS? Incrível!\\pVocê está chegando bem perto agora!"
+ },
+ {
+  "offset": "0331923",
+  "en": "BRENDAN: There isn't a TRAINER in\\nall of HOENN who doesn't know who\\lyou are, {PLAYER}!\\pWhen I tell people that I'm friends\\nwith you, {PLAYER}, they get pretty\\lenvious!",
+  "pt": "BRENDAN: Não existe um TREINADOR em toda HOENN que não saiba quem você é, {PLAYER}!\\pQuando conto pras pessoas que sou seu amigo, {PLAYER}, elas ficam morrendo de inveja!"
+ },
+ {
+  "offset": "03319BF",
+  "en": "WALLY: Oh, {PLAYER}!\\pI've been getting healthier and\\nmore physically fit.\\pI hope I can become a TRAINER like\\nyou soon, {PLAYER}!",
+  "pt": "WALLY: Ah, {PLAYER}!\\pEstou ficando mais saudável e com o corpo mais em forma.\\pEspero me tornar um TREINADOR como você logo, {PLAYER}!"
+ },
+ {
+  "offset": "0331A34",
+  "en": "WALLY: {PLAYER}, hello!\\pAfter RUSTURF TUNNEL went\\nthrough, WANDA's been very happy!",
+  "pt": "WALLY: {PLAYER}, olá!\\pDepois que o RUSTURF TUNNEL foi aberto, a WANDA anda muito feliz!"
+ },
+ {
+  "offset": "0331A82",
+  "en": "WALLY: Oh, {PLAYER}!\\pI… I left my uncle's place in\\nVERDANTURF without telling anyone.\\pI wonder if he's furious with me…\\p{PLAYER}, you understand how\\nI feel, don't you?",
+  "pt": "WALLY: Ah, {PLAYER}!\\pEu… Eu saí da casa do meu tio em VERDANTURF sem avisar ninguém.\\pSerá que ele está furioso comigo…\\p{PLAYER}, você entende como eu me sinto, não entende?"
+ },
+ {
+  "offset": "0331B1E",
+  "en": "WALLY: {PLAYER}?\\nIt's me, WALLY!\\pThe world of TRAINERS is amazing!\\pWhen I have my POKéMON with me,\\nall sorts of people say hi!\\pIt's as if everyone's getting\\nconnected through POKéMON!",
+  "pt": "WALLY: {PLAYER}? Sou eu, o WALLY!\\pO mundo dos TREINADORES é incrível!\\pQuando estou com as minhas CAPTURAS, todo tipo de gente vem dizer oi!\\pÉ como se todo mundo estivesse se conectando através das CAPTURAS!"
+ },
+ {
+  "offset": "0331BD0",
+  "en": "WALLY: {PLAYER}? It's awesome!\\nThat RALTS we caught together?\\lIt evolved, {PLAYER}!\\pMaybe I'm talented…\\pOh, but I shouldn't get a big head\\nlike that!\\pAfter all, it's the POKéMON that\\nshould be praised!",
+  "pt": "WALLY: {PLAYER}? É incrível! Sabe aquele RALTS que pegamos juntos? Ele evoluiu, {PLAYER}!\\pTalvez eu tenha talento…\\pAh, mas eu não devia ficar convencido desse jeito!\\pAfinal, quem merece os elogios é a CAPTURA!"
+ },
+ {
+  "offset": "0331C8E",
+  "en": "… … … … … …\\n… … … … … …\\pWALLY appears to be out of\\nthe POKéNAV's service area…",
+  "pt": "… … … … … …\\n… … … … … …\\pParece que o WALLY está fora da área de serviço do POKéNAV…"
+ },
+ {
+  "offset": "0331CDD",
+  "en": "WALLY: Oh, {PLAYER}!\\pBefore I met you, I hardly ever\\nleft my house…\\pBut now, I'm on an adventure with\\nmy very own POKéMON…\\p{PLAYER}…\\nThank you…",
+  "pt": "WALLY: Ah, {PLAYER}!\\pAntes de te conhecer, eu quase nunca saía de casa…\\pMas agora estou numa aventura com as minhas próprias CAPTURAS…\\p{PLAYER}… Obrigado…"
+ },
+ {
+  "offset": "0331D61",
+  "en": "SCOTT: Howdy, {PLAYER}{KUN}!\\pYou know how POKéMON can be found\\neverywhere?\\pLike in the mountains, in the sea,\\nin tall grass anywhere?\\pJust like POKéMON, you can find\\nTRAINERS everywhere, too.\\pAs a result, I have to hurry\\neverywhere, too. Busy, busy!",
+  "pt": "SCOTT: Olá, {PLAYER}{KUN}!\\pSabe como dá pra encontrar CAPTURAS em todo lugar?\\pTipo nas montanhas, no mar, no mato alto de qualquer lugar?\\pAssim como as CAPTURAS, dá pra encontrar TREINADORES em todo lugar também.\\pPor isso, eu também tenho que correr pra todo lado. Que correria!"
+ },
+ {
+  "offset": "0331E52",
+  "en": "SCOTT: I'm on ROUTE 119 right now.\\nIt's teeming with TRAINERS!\\pIt's also overgrown with tall grass\\neverywhere, it seems.\\pWalking around in shorts here\\nmakes me all ticklish!",
+  "pt": "SCOTT: Estou na ROTA 119 agora. Está cheia de TREINADORES!\\pE parece que também está tomada de mato alto por todo lado.\\pAndar de bermuda por aqui me dá cócegas!"
+ },
+ {
+  "offset": "0331F00",
+  "en": "SCOTT: Hi, hi, {PLAYER}{KUN}!\\pHave you had the chance to climb\\nMT. PYRE?\\pThe place is a memorial to POKéMON\\nthat have passed away.\\pIt's somewhere every TRAINER\\nshould climb to the top of once.",
+  "pt": "SCOTT: Oi, oi, {PLAYER}{KUN}!\\pVocê já teve a chance de escalar o MT. PYRE?\\pO lugar é um memorial às CAPTURAS que já partiram.\\pÉ um lugar que todo TREINADOR deveria escalar até o topo pelo menos uma vez."
+ },
+ {
+  "offset": "0331FB8",
+  "en": "SCOTT: Hi, {PLAYER}{KUN}!\\pI've been hearing about these odd\\ngangs being a nuisance.\\pTEAM MAGMA and TEAM AQUA,\\nI think they were.\\pI would think there'd be some\\nskilled TRAINERS among them.\\p…But if they're thugs…",
+  "pt": "SCOTT: Oi, {PLAYER}{KUN}!\\pAndo ouvindo falar de umas gangues estranhas causando confusão.\\pEQUIPE MAGMA e EQUIPE AQUA, acho que eram esses os nomes.\\pImagino que tenha alguns TREINADORES habilidosos entre eles.\\p…Mas, se forem bandidos…"
+ },
+ {
+  "offset": "0332082",
+  "en": "SCOTT: Oh, hi, {PLAYER}{KUN}.\\pMight there be tough TRAINERS\\nat the bottom of the sea?\\pI can't go check for myself.\\nI can't swim, for one.\\lAnd I don't raise POKéMON…",
+  "pt": "SCOTT: Ah, oi, {PLAYER}{KUN}.\\pSerá que tem TREINADORES fortes no fundo do mar?\\pNão posso ir conferir pessoalmente. Pra começar, eu não sei nadar. E também não crio CAPTURAS…"
+ },
+ {
+  "offset": "033211E",
+  "en": "SCOTT: Hi, hi, {PLAYER}{KUN}!\\pYou know that you can challenge\\nthe POKéMON LEAGUE when you've\\lcollected all the GYM BADGES?\\pWith your talent, becoming the\\nCHAMPION isn't a pipe dream.\\pBut did you know?\\nThere's somewhere even better.\\pBut, that's all I'm willing to say\\nfor the time being.\\pIt's something you can look\\nforward to.\\pWhen you've won your way through\\nthe POKéMON LEAGUE into the HALL\\lOF FAME!",
+  "pt": "SCOTT: Oi, oi, {PLAYER}{KUN}!\\pSabia que você pode desafiar a LIGA CAPTURA depois de juntar todas as INSÍGNIAS DE GINÁSIO?\\pCom o seu talento, virar CAMPEÃO não é um sonho impossível.\\pMas sabia? Existe um lugar ainda melhor.\\pMas é só isso que estou disposto a dizer por enquanto.\\pÉ algo pelo que você pode esperar ansioso.\\pQuando tiver vencido a LIGA CAPTURA e entrado no HALL DA FAMA!"
+ },
+ {
+  "offset": "03322A7",
+  "en": "… … … … … …\\n… … … … … …\\pSCOTT appears to be out of\\nthe POKéNAV's service area…",
+  "pt": "… … … … … …\\n… … … … … …\\pParece que o SCOTT está fora da área de serviço do POKéNAV…"
+ },
+ {
+  "offset": "03322F6",
+  "en": "DAD: In RUSTBORO, there's a man\\nthat goes by the odd name of\\lthe CUTTER.\\pIf you're in the area, you should\\npay him a visit.",
+  "pt": "PAI: Em RUSTBORO, tem um homem que atende pelo nome estranho de CUTTER.\\pSe estiver pela área, você devia fazer uma visita a ele."
+ },
+ {
+  "offset": "0332372",
+  "en": "DAD: Hm… Little by little, but also\\nvery surely, you're getting\\ltougher, {PLAYER}.\\pThe stronger you get, the farther\\nand higher you soar from Mother\\land me…\\pThis feeling is hard to explain.",
+  "pt": "PAI: Hum… Pouco a pouco, mas com muita firmeza, você está ficando mais forte, {PLAYER}.\\pQuanto mais forte você fica, mais longe e mais alto você voa, para longe da sua mãe e de mim…\\pÉ um sentimento difícil de explicar."
+ },
+ {
+  "offset": "033242A",
+  "en": "DAD: I see…\\nYou've collected four GYM BADGES…\\pThere's no avoiding it now.\\nWe will battle like I promised.\\pCome anytime.\\nWe'll all be waiting for you!",
+  "pt": "PAI: Entendo… Você reuniu quatro INSÍGNIAS DE GINÁSIO…\\pAgora não tem mais como evitar. Vamos batalhar, como prometi.\\pVenha quando quiser. Vamos todos estar esperando por você!"
+ },
+ {
+  "offset": "03324C0",
+  "en": "DAD: {PLAYER}! You'd better go visit\\nMother every so often.\\pI'm going to remain here and\\nredouble my training.\\pThe way of battling is deep\\nand unforgiving!",
+  "pt": "PAI: {PLAYER}! É bom você visitar a sua mãe de vez em quando.\\pEu vou ficar aqui e redobrar o meu treinamento.\\pO caminho das batalhas é profundo e implacável!"
+ },
+ {
+  "offset": "0332556",
+  "en": "DAD: Oh, hi, {PLAYER}!\\pWhat's that? MAGMA EMBLEM?\\nI don't know what that's about.\\pBut with a name like that, it may\\nbe somehow linked to a volcano!",
+  "pt": "PAI: Ah, oi, {PLAYER}!\\pComo é? EMBLEMA MAGMA? Não sei do que se trata.\\pMas, com um nome desses, deve ter alguma ligação com um vulcão!"
+ },
+ {
+  "offset": "03325E4",
+  "en": "DAD: Hiyah! Haah! Dwah!\\p…Oh? {PLAYER}!\\pYou caught me right in the middle\\nof a POKéMON training session!",
+  "pt": "PAI: Hiyah! Haah! Dwah!\\p…Hã? {PLAYER}!\\pVocê me pegou bem no meio de uma sessão de treino de CAPTURAS!"
+ },
+ {
+  "offset": "0332646",
+  "en": "DAD: {PLAYER}!\\pWho would've thought you'd become\\nthe POKéMON LEAGUE CHAMPION…\\pOkay!\\nI won't be left behind!",
+  "pt": "PAI: {PLAYER}!\\pQuem diria que você ia se tornar o CAMPEÃO da LIGA CAPTURA…\\pMuito bem! Eu não vou ficar para trás!"
+ },
+ {
+  "offset": "03326AC",
+  "en": "DAD: Hm? {PLAYER}?\\nWhat good timing!\\pThis time, I'm going to challenge\\nyou to battle.\\pI'm waiting in the PETALBURG GYM.\\nAccept my challenge anytime!",
+  "pt": "PAI: Hum? {PLAYER}? Que ótimo momento!\\pDesta vez, sou eu que vou te desafiar para uma batalha.\\pEstou esperando no GINÁSIO de PETALBURG. Aceite o meu desafio quando quiser!"
+ },
+ {
+  "offset": "033273B",
+  "en": "DAD: …You amaze me, {PLAYER}.\\nHow much higher will you soar?",
+  "pt": "PAI: …Você me surpreende, {PLAYER}. Até onde você ainda vai voar?"
+ },
+ {
+  "offset": "0332772",
+  "en": "STEVEN: Hi, {PLAYER}{KUN}!\\pHave you been to MAUVILLE\\nalready?\\pYou should visit the BIKE SHOP\\nand get a MACH BIKE.\\pThen, try exploring the GRANITE\\nCAVE thoroughly.\\pYou may make a new discovery\\nthere.",
+  "pt": "STEVEN: Oi, {PLAYER}{KUN}!\\pVocê já foi a MAUVILLE?\\pVocê devia visitar a LOJA DE BICICLETAS e pegar uma BICICLETA MACH.\\pDepois, tente explorar a GRANITE CAVE a fundo.\\pTalvez você faça uma nova descoberta lá."
+ },
+ {
+  "offset": "0332830",
+  "en": "STEVEN: Hi, {PLAYER}{KUN}!\\pI've met a lot of different\\nTRAINERS so far.\\pBut you're one of a kind.\\nYou're not like anyone else.",
+  "pt": "STEVEN: Oi, {PLAYER}{KUN}!\\pAté agora, conheci muitos TREINADORES diferentes.\\pMas você é único. Não é igual a ninguém."
+ },
+ {
+  "offset": "03328A6",
+  "en": "STEVEN: Hi, {PLAYER}{KUN}!\\pWhen you're on an adventure with\\nyour POKéMON, what do you think?\\pDo you consider them to be strong\\npartners?\\pDo you think of them as fun\\ncompanions?\\pDepending on how you think, your\\nadventure's significance changes.",
+  "pt": "STEVEN: Oi, {PLAYER}{KUN}!\\pQuando você está numa aventura com as suas CAPTURAS, o que você pensa delas?\\pVocê as considera parceiras fortes?\\pVocê as vê como companheiras divertidas?\\pDependendo de como você pensa, o significado da sua aventura muda."
+ },
+ {
+  "offset": "0332991",
+  "en": "STEVEN: Hello?\\n{PLAYER}{KUN}?\\pI'm involved in a spot of trouble\\nat the SPACE CENTER.\\pI'm sorry, but I can't talk now.\\nBye!",
+  "pt": "STEVEN: Alô? {PLAYER}{KUN}?\\pEstou metido numa encrenca no CENTRO ESPACIAL.\\pDesculpe, mas não posso falar agora. Tchau!"
+ },
+ {
+  "offset": "0332A03",
+  "en": "STEVEN: Oh!\\n{PLAYER}{KUN}!\\pThere's no need to talk.\\nIt's past time for talking.\\pYou have to believe in yourself\\nand do what's right.",
+  "pt": "STEVEN: Oh! {PLAYER}{KUN}!\\pNão precisamos conversar. O tempo das conversas já passou.\\pVocê tem que acreditar em si mesmo e fazer o que é certo."
+ },
+ {
+  "offset": "0332A7F",
+  "en": "… … … … … …\\pSTEVEN appears not to be getting\\nthe call…",
+  "pt": "… … … … … …\\pParece que o STEVEN não está recebendo a ligação…"
+ },
+ {
+  "offset": "0332AB6",
+  "en": "STEVEN: {PLAYER}{KUN}… Congratulations\\nfor entering the HALL OF FAME.\\p… … … … … …\\n… … … … … …\\pI hope we can meet again\\nsomewhere!",
+  "pt": "STEVEN: {PLAYER}{KUN}… Parabéns por entrar no HALL DA FAMA.\\p… … … … … …\\n… … … … … …\\pEspero que a gente possa se encontrar de novo em algum lugar!"
+ },
+ {
+  "offset": "0332C9D",
+  "en": "MR. STONE: Oh? {PLAYER}{KUN}!\\pSince you called me, the POKéNAV\\nmust be working properly!\\pOther people will be registered,\\nso try calling them up, too!\\pGood! Good!\\nYou seem to be quite happy!\\pHm…\\nHow could I know that?\\pIt's because I'm looking down at\\nyou from my office window!\\pWahahaha!\\nSee you again!",
+  "pt": "SR. STONE: Hã? {PLAYER}{KUN}!\\pSe você me ligou, então o POKéNAV deve estar funcionando direitinho!\\pOutras pessoas vão ser registradas, então tente ligar pra elas também!\\pÓtimo! Ótimo! Você parece bem feliz!\\pHum… Como eu poderia saber disso?\\pÉ porque estou te olhando lá de cima, da janela do meu escritório!\\pWahahaha! Até a próxima!"
+ },
+ {
+  "offset": "0332DC3",
+  "en": "MR. STONE: Oh? {PLAYER}{KUN}!\\pWhat's wrong? Have you forgotten\\nabout that little errand of mine?\\pI need you to deliver my letter\\nto STEVEN in DEWFORD.\\pAfter that, deliver our parcel to\\nCAPT. STERN in SLATEPORT.\\pYou remember, don't you?\\pNow, since I am a busy PRESIDENT,\\nI have to go! Bye-bye!",
+  "pt": "SR. STONE: Hã? {PLAYER}{KUN}!\\pO que houve? Esqueceu aquela minha tarefinha?\\pPreciso que você entregue a minha carta ao STEVEN, em DEWFORD.\\pDepois disso, entregue o nosso pacote ao CAPITÃO STERN, em SLATEPORT.\\pVocê se lembra, não é?\\pAgora, como sou um PRESIDENTE ocupado, tenho que ir! Tchauzinho!"
+ },
+ {
+  "offset": "0332EDF",
+  "en": "MR. STONE: Oh! {PLAYER}{KUN}!\\pAh, so you've met STEVEN!\\nI'd better reward you, then!\\pWhen you visit RUSTBORO again,\\ncome see me at my office.\\pI'll be waiting for you!",
+  "pt": "SR. STONE: Oh! {PLAYER}{KUN}!\\pAh, então você encontrou o STEVEN! Então é melhor eu te recompensar!\\pQuando visitar RUSTBORO de novo, venha me ver no meu escritório.\\pVou estar esperando por você!"
+ },
+ {
+  "offset": "0332F7D",
+  "en": "MR. STONE: Oh! {PLAYER}{KUN}!\\pDid you know that DEVON was\\ndigging the RUSTURF TUNNEL?\\pBut we shut down the operation to\\nprotect the POKéMON in the area.\\pIt's a no-brainer, really.\\pIt's more important to let POKéMON\\nlive in peace than worry about our\\lown convenience.",
+  "pt": "SR. STONE: Oh! {PLAYER}{KUN}!\\pVocê sabia que a DEVON estava escavando o RUSTURF TUNNEL?\\pMas encerramos a obra para proteger as CAPTURAS da região.\\pNa verdade, nem precisava pensar duas vezes.\\pÉ mais importante deixar as CAPTURAS viverem em paz do que nos preocupar com a nossa própria conveniência."
+ },
+ {
+  "offset": "033307F",
+  "en": "MR. STONE: Hello, hello, {PLAYER}{KUN}!\\pI heard from someone in PETALBURG\\nthat you're NORMAN's child!\\pNo wonder you're such a capable\\nbeing!",
+  "pt": "SR. STONE: Olá, olá, {PLAYER}{KUN}!\\pOuvi de alguém em PETALBURG que você é filho do NORMAN!\\pNão é à toa que você é tão capaz!"
+ },
+ {
+  "offset": "0333103",
+  "en": "MR. STONE: What's that?\\pYou battled your own father and\\ndefeated him?\\pThat's astounding!\\pI had no idea that I befriended\\nsomeone so special! Wahaha!",
+  "pt": "SR. STONE: Como é?\\pVocê batalhou com o seu próprio pai e o derrotou?\\pIsso é espantoso!\\pEu não fazia ideia de que tinha feito amizade com alguém tão especial! Wahaha!"
+ },
+ {
+  "offset": "0333198",
+  "en": "Hello!\\nThis is DEVON CORPORATI…\\lOh, hello, {PLAYER}!\\pOur PRESIDENT was here a little\\nwhile ago, but he's gone out.\\pOur PRESIDENT is busy, but you\\nseem to be just as busy, {PLAYER}.",
+  "pt": "Alô! Aqui é da CORPORAÇÃO DEVO… Ah, olá, {PLAYER}!\\pO nosso PRESIDENTE esteve aqui há pouco, mas saiu.\\pO nosso PRESIDENTE é ocupado, mas você parece ser tão ocupado quanto ele, {PLAYER}."
+ },
+ {
+  "offset": "0333241",
+  "en": "…Huh? …What's that?\\pGROU… Yes? …DON?\\pYou're breaking up…\\n…can't hear…\\pBZZZZ…",
+  "pt": "…Hã? …Como é?\\pGROU… Sim? …DON?\\pVocê está cortando…\\n…não dá pra ouvir…\\pBZZZZ…"
+ },
+ {
+  "offset": "033328E",
+  "en": "…Huh? …What's that?\\pSeaflo… Yes? …Caver…?\\pYou're breaking up…\\n…can't hear…\\pBZZZZ…",
+  "pt": "…Hã? …Como é?\\pSeaflo… Sim? …Caver…?\\pVocê está cortando…\\n…não dá pra ouvir…\\pBZZZZ…"
+ },
+ {
+  "offset": "03332E0",
+  "en": "MR. STONE: {PLAYER}{KUN}! It's me!\\pYou were apparently involved in all\\nsorts of things, but I, being busy,\\lhaven't a clue exactly what!\\pHowever, I urge you to take\\nthe road you believe in and walk it.\\pI'll always be in your corner!\\nTake care!",
+  "pt": "SR. STONE: {PLAYER}{KUN}! Sou eu!\\pParece que você se envolveu em todo tipo de coisa, mas eu, ocupado como sou, não faço a menor ideia do quê!\\pMesmo assim, peço que você escolha o caminho em que acredita e siga por ele.\\pVou estar sempre do seu lado! Cuide-se!"
+ },
+ {
+  "offset": "03333CA",
+  "en": "MR. STONE: … … … … … …\\nIs this maybe {PLAYER}{KUN}?\\pYour voice is so full of confidence,\\nI didn't recognize you right off!\\pHm! You must come visit us at DEVON\\nsometime!",
+  "pt": "SR. STONE: … … … … … …\\nSerá que é o {PLAYER}{KUN}?\\pA sua voz está tão cheia de confiança que não te reconheci de cara!\\pHum! Você tem que vir nos visitar na DEVON um dia desses!"
+ },
+ {
+  "offset": "0333AC9",
+  "en": "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nHere we come!",
+  "pt": "Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}! Lá vamos nós!"
+ },
+ {
+  "offset": "0333AF3",
+  "en": "I'm the no. {STR_VAR_2} apprentice of {STR_VAR_1}!\\nAccept my challenge!",
+  "pt": "Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}! Aceite o meu desafio!"
+ },
+ {
+  "offset": "0333B29",
+  "en": "Um… I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice…\\nDo you think someone like me can win?",
+  "pt": "Hã… Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}… Alguém como eu pode vencer?"
+ },
+ {
+  "offset": "0333B6F",
+  "en": "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nI'll let you challenge me!",
+  "pt": "Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}! Vou deixar você me desafiar!"
+ },
+ {
+  "offset": "0333BA6",
+  "en": "I'm horribly busy, but I also happen\\nto be {STR_VAR_1}'s no. {STR_VAR_2} apprentice.",
+  "pt": "Vivo sem tempo, mas por acaso sou\\naprendiz número {STR_VAR_2} de {STR_VAR_1}."
+ },
+ {
+  "offset": "0333BE9",
+  "en": "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\nGlad to meet you!",
+  "pt": "Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}. Prazer em conhecer você!"
+ },
+ {
+  "offset": "0333C17",
+  "en": "I serve as {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\nMay I begin?",
+  "pt": "Sirvo como aprendiz número {STR_VAR_2}\\nde {STR_VAR_1}. Posso começar?"
+ },
+ {
+  "offset": "0333C47",
+  "en": "Eek! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nI'll do my best!",
+  "pt": "Iii! Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}! Vou dar o meu melhor!"
+ },
+ {
+  "offset": "0333C79",
+  "en": "Yeehaw! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nPut 'em up!",
+  "pt": "Iarrú! Sou aprendiz número {STR_VAR_2}\\nde {STR_VAR_1}! Em guarda!"
+ },
+ {
+  "offset": "0333CA9",
+  "en": "I'm {STR_VAR_1}'s 1,000th apprentice!\\nActually, I'm no. {STR_VAR_2}! Here goes!",
+  "pt": "Sou aprendiz número 1.000 de {STR_VAR_1}!\\nNa real, sou o número {STR_VAR_2}! Lá vai!"
+ },
+ {
+  "offset": "0333CE7",
+  "en": "Yeah, I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!\\nLet's get rockin' and a-rollin'!",
+  "pt": "Aê! Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}! Bora botar pra quebrar!"
+ },
+ {
+  "offset": "0333D2A",
+  "en": "Yippee-yahoo! I'm what you call\\n{STR_VAR_1}'s no. {STR_VAR_2} apprentice!",
+  "pt": "Iupii-iahuu! Eu sou o que chamam de\\naprendiz número {STR_VAR_2} de {STR_VAR_1}!"
+ },
+ {
+  "offset": "0333D62",
+  "en": "Cough! I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\nGood to meet you! Cough!",
+  "pt": "Cof! Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}. Prazer em te conhecer! Cof!"
+ },
+ {
+  "offset": "0333D9E",
+  "en": "This is nerve-racking…\\nI'm the no. {STR_VAR_2} apprentice of {STR_VAR_1}.",
+  "pt": "Que nervoso… Sou aprendiz número\\n{STR_VAR_2} de {STR_VAR_1}."
+ },
+ {
+  "offset": "0333DD6",
+  "en": "I am {STR_VAR_1}'s no. {STR_VAR_2} apprentice,\\nand that's no lie.",
+  "pt": "Sou aprendiz número {STR_VAR_2} de\\n{STR_VAR_1}, e isso não é mentira."
+ },
+ {
+  "offset": "0333E06",
+  "en": "Are you… {PLAYER}?\\nOh! Sniff…sob…\\pOh! S-sorry…\\nI'm so nervous, I can't help crying…\\pI'm {STR_VAR_1}, and I really look up\\nto you, {PLAYER}.\\pI… I had this dream of one day meeting\\nyou and asking you about POKéMON.\\pPlease, please, {PLAYER}!\\nPlease teach me about POKéMON!",
+  "pt": "Você é… o {PLAYER}? Oh! Snif… buá…\\pOh! D-desculpa… O nervosismo é tanto que não consigo parar de chorar…\\pEu me chamo {STR_VAR_1} e admiro muito você, {PLAYER}.\\pEu… Eu sonhava em um dia te conhecer e te perguntar sobre CAPTURAS.\\pPor favor, por favor, {PLAYER}! Me ensine sobre CAPTURAS!"
+ },
+ {
+  "offset": "0333EF9",
+  "en": "Oh… B-but…\\nSnivel… Waaaaaaah!\\pPlease!\\nI'm begging you, please!",
+  "pt": "Oh… M-mas… Snif… Buáááááá!\\pPor favor! Estou implorando, por favor!"
+ },
+ {
+  "offset": "0333F38",
+  "en": "Oh, really? You will?\\nAwesome! Wicked! Awoooh!\\pOh… I'm sorry…\\nI'm so happy, I'm crying…\\pUm… Then please tell me!\\nIt's about the BATTLE TOWER.\\pWhich would be better for me: Level 50\\nor the Open Level?",
+  "pt": "Ah, sério? Vai mesmo? Demais! Incrível! Uhuuuu!\\pOh… Desculpa… É tanta felicidade que estou chorando…\\pHã… Então, por favor, me diga! É sobre a TORRE DE BATALHA.\\pO que seria melhor pra mim: o Nível 50 ou o Nível Livre?"
+ },
+ {
+  "offset": "0334000",
+  "en": "{STR_VAR_1}?\\nWaaaaah!\\pOh! I'm so sorry!\\nYou've made me happy by choosing\\lthe level for me, and it's made me cry…\\pSnivel…\\nThank you so much!\\lPlease talk with me again!",
+  "pt": "{STR_VAR_1}? Buááááá!\\pOh! Me desculpe! Você me deixou tão feliz escolhendo o nível pra mim que acabei chorando…\\pSnif… Agradeço demais! Por favor, converse comigo de novo!"
+ },
+ {
+  "offset": "033409E",
+  "en": "Wowee! You're {PLAYER}, aren't you?\\nYou're awesomely strong, aren't you?\\pI'm {STR_VAR_1}!\\nI just became a TRAINER!\\pPlease, {PLAYER}!\\nCan you be my teacher and tell me\\llots about being a TRAINER?",
+  "pt": "Uau! Você é o {PLAYER}, não é? Você é forte pra caramba, não é?\\pEu sou {STR_VAR_1}! Acabei de virar TREINADOR!\\pPor favor, {PLAYER}! Pode ser meu professor e me ensinar um monte de coisas sobre ser TREINADOR?"
+ },
+ {
+  "offset": "033414C",
+  "en": "Aww, why?\\nOh, please? Pretty please?\\lPlease be my teacher, please!",
+  "pt": "Aaah, por quê? Ah, por favor? Por favorzinho? Seja meu professor, por favor!"
+ },
+ {
+  "offset": "033418F",
+  "en": "Yay! Great!\\pThe first thing I wanted to ask you is\\nabout the BATTLE TOWER!\\pThe Level 50 and Open Level Rooms…\\nWhich would be perfect for me?",
+  "pt": "Eba! Que ótimo!\\pA primeira coisa que eu queria te perguntar é sobre a TORRE DE BATALHA!\\pAs Salas de Nível 50 e de Nível Livre… Qual seria perfeita pra mim?"
+ },
+ {
+  "offset": "033421C",
+  "en": "{STR_VAR_1}, huh? That's true!\\nI'll do my best there!\\pIf we meet here again, please teach\\nme something else, teacher!",
+  "pt": "{STR_VAR_1}, é? É verdade! Vou dar o meu melhor lá!\\pSe a gente se encontrar aqui de novo, me ensine outra coisa, professor!"
+ },
+ {
+  "offset": "0334289",
+  "en": "Um… Are you {PLAYER}?\\nMy name is {STR_VAR_1}.\\pI want to become a POKéMON TRAINER,\\nbut I don't know what to do…\\pSo I thought maybe I could ask you for\\nadvice because you're so famous.\\p{PLAYER}, could you give me advice?",
+  "pt": "Hã… Você é o {PLAYER}? Meu nome é {STR_VAR_1}.\\pQuero virar TREINADOR, mas não sei o que fazer…\\pEntão pensei que talvez pudesse te pedir conselhos, já que você é tão famoso.\\p{PLAYER}, você poderia me dar conselhos?"
+ },
+ {
+  "offset": "033434F",
+  "en": "Oh, but…\\pI sincerely want to become a POKéMON\\nTRAINER!\\pPlease, can you answer my questions?",
+  "pt": "Ah, mas…\\pEu quero de verdade virar TREINADOR!\\pPor favor, pode responder às minhas perguntas?"
+ },
+ {
+  "offset": "03343AB",
+  "en": "Thank you!\\nHere's my first question right away!\\pThe BATTLE TOWER has two levels,\\nLevel 50 and Open Level, right?\\pWhich level do you think is more\\nsuitable for me?",
+  "pt": "Agradeço muito! Já vai a minha primeira pergunta!\\pA TORRE DE BATALHA tem dois níveis, o Nível 50 e o Nível Livre, certo?\\pQual nível você acha mais adequado pra mim?"
+ },
+ {
+  "offset": "033444E",
+  "en": "Oh, the {STR_VAR_1} challenge?\\nUnderstood!\\pIf I have another question, I'll come\\nback here for your advice!",
+  "pt": "Ah, o desafio de {STR_VAR_1}? Entendido!\\pSe eu tiver outra pergunta, volto aqui pra pedir o seu conselho!"
+ },
+ {
+  "offset": "03344B1",
+  "en": "Oh? Huh? You're…\\nNo, that can't be true.\\pThere isn't any way that someone\\nlike me could meet {PLAYER}.\\p…You really are {PLAYER}?\\nI can't believe I'm talking to you!\\pWhen something this good happens,\\nonly terrible things will happen to me\\lnow, I just know it…\\p…I'm sorry…\\nI'm… {STR_VAR_1}…\\pThere isn't anything special about\\nme that I can be proud of…\\pI shouldn't even say anything about\\nmyself because you'll forget…\\pI had this dream that if I ever met\\nyou, {PLAYER}, that maybe I could ask\\lyou for advice as a TRAINER.\\pBut I don't think you would agree\\nto that.\\p…Or will you be so kind as to give\\nme advice?",
+  "pt": "Hã? Quê? Você é… Não, não pode ser.\\pNão tem como alguém como eu conhecer o {PLAYER}.\\p…Você é mesmo o {PLAYER}? Não acredito que estou falando com você!\\pQuando acontece uma coisa boa assim, só coisas terríveis vão me acontecer depois, eu sei disso…\\p…Desculpa… Eu sou… {STR_VAR_1}…\\pNão tenho nada de especial de que possa me orgulhar…\\pEu nem devia falar nada de mim, porque você vai esquecer…\\pEu sonhava que, se um dia te conhecesse, {PLAYER}, talvez pudesse te pedir conselhos como TREINADOR.\\pMas acho que você não aceitaria.\\p…Ou será que você teria a bondade de me dar conselhos?"
+ },
+ {
+  "offset": "03346F7",
+  "en": "I knew it…\\pIt had to happen because I'm such\\na really boring nobody…\\pBut I thought just maybe…\\nYou won't reconsider, will you?\\pBut I can't give up just like that.\\nI'll ask you while I'm still lucky!\\pPlease, will you be so kind as to give\\nme advice?",
+  "pt": "Eu sabia…\\pTinha que ser, porque eu sou uma pessoa sem graça nenhuma…\\pMas eu pensei que, quem sabe… Você não vai reconsiderar, vai?\\pMas não posso desistir assim. Vou pedir enquanto ainda estou com sorte!\\pPor favor, você teria a bondade de me dar conselhos?"
+ },
+ {
+  "offset": "03347F0",
+  "en": "Really? I can't believe it!\\nI can't believe you'll advise me!\\lI… I'm so happy…\\pWhat I want to ask you is really\\ntrivial, but I can't decide…\\pAt the BATTLE TOWER, they let you\\nchoose Level 50 or Open Level.\\pWhich course do you think even I may\\nhave a chance at?",
+  "pt": "Sério? Não acredito! Não acredito que você vai me aconselhar! Eu… Estou tão feliz…\\pO que quero te perguntar é bem bobo, mas não consigo decidir…\\pNa TORRE DE BATALHA, dá pra escolher o Nível 50 ou o Nível Livre.\\pEm qual modalidade você acha que até eu teria alguma chance?"
+ },
+ {
+  "offset": "03348F5",
+  "en": "{STR_VAR_1}? Okay!\\nBut do you really think someone like\\lme would have a chance?\\pI'll do my best, even though I don't\\nthink it will work.\\pThank you very much for spending\\ntime with someone like me.",
+  "pt": "{STR_VAR_1}? Certo! Mas você acha mesmo que alguém como eu teria alguma chance?\\pVou dar o meu melhor, mesmo achando que não vai dar certo.\\pAgradeço muito por perder tempo com alguém como eu."
+ },
+ {
+  "offset": "03349B1",
+  "en": "Oh! You're {PLAYER}{KUN}, aren't you?\\pI've heard that you're tough at\\nPOKéMON!\\pI'm {STR_VAR_1}!\\nI'll be your friend!\\pDid you know?\\pYou can't win at the BATTLE FRONTIER\\nif all you know is what they teach at\\lthe TRAINER'S SCHOOL.\\pI'm willing to listen to your advice.\\nYou'll agree, of course?",
+  "pt": "Oh! Você é o {PLAYER}{KUN}, não é?\\pOuvi dizer que você é fera com CAPTURAS!\\pEu sou {STR_VAR_1}! Vamos fazer amizade!\\pSabia?\\pNão dá pra vencer na FRONTEIRA DE BATALHA se você só sabe o que ensinam na ESCOLA DE TREINADORES.\\pTopo ouvir os seus conselhos. Você vai aceitar, é claro?"
+ },
+ {
+  "offset": "0334AC2",
+  "en": "Huh? Why are you refusing me?\\nIt's me who's asking you!\\lYou have to reconsider!",
+  "pt": "Hã? Por que você está me recusando? Sou eu que estou pedindo! Você tem que reconsiderar!"
+ },
+ {
+  "offset": "0334B12",
+  "en": "Okay, so there is this something.\\nI want you to decide it for me.\\pYou know that the BATTLE TOWER has\\nLevel 50 and Open Level Rooms?\\pWhich do you think would be good\\nfor me, {PLAYER}{KUN}?",
+  "pt": "Certo, então tem uma coisa. Quero que você decida por mim.\\pSabe que a TORRE DE BATALHA tem Salas de Nível 50 e de Nível Livre?\\pQual você acha que seria boa pra mim, {PLAYER}{KUN}?"
+ },
+ {
+  "offset": "0334BC5",
+  "en": "Okay, {STR_VAR_1} is suitable for me?\\nThank you!\\pKnowing that you made the decision,\\n{PLAYER}{KUN}, I won't be so upset if\\lI lose.\\pOkay, I'll look to you for advice again.\\nBye!",
+  "pt": "Certo, {STR_VAR_1} combina comigo? Valeu!\\pSabendo que foi você que decidiu, {PLAYER}{KUN}, não vou me chatear tanto se eu perder.\\pCerto, vou te pedir conselhos de novo. Tchau!"
+ },
+ {
+  "offset": "0334C64",
+  "en": "Oh, hi, there! {PLAYER}{KUN}!\\nI know you because you're famous!\\lCall me {STR_VAR_1}! Glad to meet you!\\pI'm a TRIATHLETE, so I keep myself\\nfit even while I raise POKéMON.\\pI'm also involved with other things\\nlike work, napping, ballroom dancing…\\pBeing this busy, it's not so easy for\\nme to become a decent TRAINER.\\pSo, I have a proposition!\\pThere must be a reason why we met.\\nSo, {PLAYER}{KUN}, how about sharing your\\lwisdom with me every so often?",
+  "pt": "Ah, olá! {PLAYER}{KUN}! Eu te conheço porque você é famoso! Pode me chamar de {STR_VAR_1}! Prazer em te conhecer!\\pSou TRIATLETA, então me mantenho em forma mesmo enquanto crio CAPTURAS.\\pTambém me envolvo com outras coisas, tipo trabalho, cochilos, dança de salão…\\pCom tanta coisa pra fazer, não é tão fácil eu me tornar um TREINADOR decente.\\pEntão, tenho uma proposta!\\pDeve haver um motivo pra gente ter se conhecido. Então, {PLAYER}{KUN}, que tal compartilhar a sua sabedoria comigo de vez em quando?"
+ },
+ {
+  "offset": "0334E08",
+  "en": "Oh, but, please?\\nA guy like me needs someone like\\lyou, {PLAYER}{KUN}!\\pHonestly, I need your advice!",
+  "pt": "Ah, mas, por favor? Um cara como eu precisa de alguém como você, {PLAYER}{KUN}!\\pSério, eu preciso dos seus conselhos!"
+ },
+ {
+  "offset": "0334E63",
+  "en": "Thank you! That's more like it!\\nSo, let's start with an easy one!\\pYou know about the BATTLE TOWER's\\ntwo courses, right?\\lYou know, Level 50 and Open Level.\\pMe being a busy guy, which one should\\nI gear up for?",
+  "pt": "Obrigado! Assim é que se fala! Então, vamos começar com uma fácil!\\pVocê conhece as duas modalidades da TORRE DE BATALHA, né? Sabe, o Nível 50 e o Nível Livre.\\pComo eu sou um cara ocupado, pra qual delas eu devo me preparar?"
+ },
+ {
+  "offset": "0334F33",
+  "en": "{STR_VAR_1}, huh? Okay, gotcha.\\nI'll find time somehow and give it a go!\\p…Whoops, I'd better go to work!\\nThanks! See you around!",
+  "pt": "{STR_VAR_1}, é? Certo, entendi. Vou arrumar tempo de algum jeito e tentar!\\p…Opa, é melhor eu ir trabalhar! Valeu! Até mais!"
+ },
+ {
+  "offset": "0334FAB",
+  "en": "No way! Uh-uh!\\nAre you maybe the real {PLAYER}?\\pA-hah! Awesome! I'm {STR_VAR_1},\\nso pleased to meet you!\\p{PLAYER}, you're very strong,\\naren't you?\\pEveryone's talking about you!\\pOh! I just had this great idea!\\nI'll get advice off you, {PLAYER}!\\lI'm sure it will make me tougher!\\pIsn't it a great idea?\\nPlease, I want your advice!",
+  "pt": "Não acredito! Nem a pau! Será que você é o {PLAYER} de verdade?\\pA-há! Demais! Eu sou {STR_VAR_1}, que prazer te conhecer!\\p{PLAYER}, você é muito forte, não é?\\pTodo mundo está falando de você!\\pOh! Acabei de ter uma ideia ótima! Vou pegar uns conselhos com você, {PLAYER}! Tenho certeza de que isso vai me deixar mais forte!\\pNão é uma ideia ótima? Por favor, quero os seus conselhos!"
+ },
+ {
+  "offset": "03350D9",
+  "en": "Ahahaha, you can pretend to be mean,\\nbut you can't fool me!\\lYou really mean okay, don't you?",
+  "pt": "Ahahaha, você pode fingir que é malvado, mas não me engana! No fundo você quer dizer sim, não é?"
+ },
+ {
+  "offset": "0335136",
+  "en": "Yay! I knew you'd have a big heart,\\n{PLAYER}!\\pWhat should I ask you first?\\n…Oh, I thought of something!\\pDrum roll, please!\\nThe question I have is…\\pIf I were to take a BATTLE TOWER\\nchallenge, which way should I go?\\pLevel 50 or Open Level?\\nWhich suits me more?",
+  "pt": "Eba! Eu sabia que você tinha um coração enorme, {PLAYER}!\\pO que eu devo perguntar primeiro? …Ah, já sei!\\pRufem os tambores, por favor! A minha pergunta é…\\pSe eu fosse encarar um desafio da TORRE DE BATALHA, que caminho eu deveria seguir?\\pNível 50 ou Nível Livre? Qual combina mais comigo?"
+ },
+ {
+  "offset": "0335233",
+  "en": "Oh-oh-oh!\\n{STR_VAR_1}, you say!\\lThank you for a totally cool reply!\\pI guess that's about all I wanted\\nto ask you today.\\pLet's meet here again, okay?\\nThanks!",
+  "pt": "Oh-oh-oh! {STR_VAR_1}, você diz! Valeu pela resposta superlegal!\\pAcho que era só isso que eu queria te perguntar hoje.\\pVamos nos encontrar aqui de novo, tá? Valeu!"
+ },
+ {
+  "offset": "03352C7",
+  "en": "I beg your pardon, but…\\nAre you {PLAYER}?\\pI'm {STR_VAR_1}, and I am delighted to\\nmake your acquaintance.\\pI have long been an admirer\\nof yours…\\p… … … … … …\\pUm… I hope you don't find this\\nrequest too much of a burden, but…\\pMay I become your apprentice,\\n{PLAYER}?",
+  "pt": "Perdão, mas… Você é o {PLAYER}?\\pMeu nome é {STR_VAR_1}, e é um enorme prazer conhecê-lo.\\pHá muito tempo eu admiro você…\\p… … … … … …\\pHã… Espero que este pedido não seja um fardo grande demais, mas…\\pPosso me tornar seu aprendiz, {PLAYER}?"
+ },
+ {
+  "offset": "03353B7",
+  "en": "Oh…!\\p… … … … … …\\n… … … … … …\\p…I must have fainted from shock.\\nI'm sorry, I must have misheard you.\\pPlease! Please say that you will\\naccept me as your apprentice!",
+  "pt": "Oh…!\\p… … … … … …\\n… … … … … …\\p…Devo ter desmaiado com o choque. Desculpe, devo ter ouvido errado.\\pPor favor! Por favor, diga que vai me aceitar como seu aprendiz!"
+ },
+ {
+  "offset": "0335459",
+  "en": "Oh… I'm delighted!\\pI don't wish to waste your time,\\nso please advise me on this.\\pI plan to take a BATTLE TOWER\\nchallenge soon.\\pHowever, there are two levels…\\pWhich would be most suitable for me?\\nLevel 50 or Open Level?",
+  "pt": "Oh… Que alegria!\\pNão quero desperdiçar o seu tempo, então, por favor, me aconselhe sobre isto.\\pPretendo encarar um desafio da TORRE DE BATALHA em breve.\\pPorém, existem dois níveis…\\pQual seria o mais adequado para mim? Nível 50 ou Nível Livre?"
+ },
+ {
+  "offset": "0335534",
+  "en": "{STR_VAR_1} is your choice!\\nI see. I will do my best!\\pThank you, {PLAYER}.\\nI hope I can count on you again.\\lPlease take care!",
+  "pt": "A sua escolha é {STR_VAR_1}! Entendo. Vou dar o meu melhor!\\pAgradeço, {PLAYER}. Espero poder contar com você de novo. Cuide-se!"
+ },
+ {
+  "offset": "03355A3",
+  "en": "Eek! Eek! {PLAYER}!\\nYou spoke to me!\\lI… I'm overjoyed!\\pMe! My name is {STR_VAR_1}!\\nI just became a TRAINER!\\pI'm delighted I met you, {PLAYER},\\nthe big name in POKéMON circles!\\pOh-oh-oh, I know!\\nMay I ask a huge favor, {PLAYER}?\\pPlease take me in as your apprentice!\\nI want to learn from you!",
+  "pt": "Iii! Iii! {PLAYER}! Você falou comigo! Eu… Eu estou nas nuvens!\\pEu! Meu nome é {STR_VAR_1}! Acabei de virar TREINADOR!\\pQue alegria te conhecer, {PLAYER}, o grande nome do mundo das CAPTURAS!\\pOh-oh-oh, já sei! Posso te pedir um favorzão, {PLAYER}?\\pPor favor, me aceite como seu aprendiz! Quero aprender com você!"
+ }
+]

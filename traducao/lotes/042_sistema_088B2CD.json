@@ -1,0 +1,4370 @@
+[
+ {
+  "offset": "088B2CD",
+  "en": "Select CAPTURE to accept.",
+  "pt": "Escolha a CAPTURA a aceitar.",
+  "max_width": 160
+ },
+ {
+  "offset": "088B2E7",
+  "en": "SWAP",
+  "pt": "TROCA",
+  "max_width": 30
+ },
+ {
+  "offset": "088B2EC",
+  "en": "SUMMARY",
+  "pt": "RESUMO",
+  "max_width": 48
+ },
+ {
+  "offset": "088B2F4",
+  "en": "RECHOOSE",
+  "pt": "REFAZER",
+  "max_width": 54
+ },
+ {
+  "offset": "088B2FD",
+  "en": "Quit swapping?",
+  "pt": "Parar a troca?",
+  "max_width": 101
+ },
+ {
+  "offset": "088B313",
+  "en": "{PK}{MN} FOR SWAP",
+  "pt": "{PK}{MN} P/ TROCA",
+  "max_width": 70
+ },
+ {
+  "offset": "088B31F",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "088B332",
+  "en": "Accept this CAPTURE?",
+  "pt": "Aceitar esta CAPTURA?",
+  "max_width": 136
+ },
+ {
+  "offset": "088B34C",
+  "en": "Same {PK}{MN} in party already.",
+  "pt": "Já há esse {PK}{MN} na equipe.",
+  "max_width": 157
+ },
+ {
+  "offset": "088B36F",
+  "en": "PLAYER",
+  "pt": "JOGADOR",
+  "max_width": 42
+ },
+ {
+  "offset": "088B376",
+  "en": "STARS",
+  "pt": "ESTR.",
+  "max_width": 36
+ },
+ {
+  "offset": "088B37C",
+  "en": "TATTLEDEX",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "088B386",
+  "en": "TIME",
+  "pt": "TEMPO",
+  "max_width": 30
+ },
+ {
+  "offset": "088B38B",
+  "en": "Wireless Communication Status",
+  "pt": "Status da Comunicação Sem Fio"
+ },
+ {
+  "offset": "088B3A9",
+  "en": "People trading:",
+  "pt": "Trocando:",
+  "max_width": 103
+ },
+ {
+  "offset": "088B3B9",
+  "en": "People battling:",
+  "pt": "Batalhando:",
+  "max_width": 108
+ },
+ {
+  "offset": "088B3CA",
+  "en": "People in the UNION ROOM:",
+  "pt": "Na SALA DA UNIÃO:",
+  "max_width": 155
+ },
+ {
+  "offset": "088B3E4",
+  "en": "People communicating:",
+  "pt": "Comunicando:",
+  "max_width": 138
+ },
+ {
+  "offset": "088B3FA",
+  "en": "{F7 00} players",
+  "pt": "{F7 00} jogadores",
+  "max_width": 78
+ },
+ {
+  "offset": "088B405",
+  "en": "{F7 01} players",
+  "pt": "{F7 01} jogadores",
+  "max_width": 78
+ },
+ {
+  "offset": "088B410",
+  "en": "{F7 02} players",
+  "pt": "{F7 02} jogadores",
+  "max_width": 78
+ },
+ {
+  "offset": "088B41B",
+  "en": "{F7 03} players",
+  "pt": "{F7 03} jogadores",
+  "max_width": 78
+ },
+ {
+  "offset": "088B438",
+  "en": "WONDER CARDS",
+  "pt": "CART. MÁGICOS",
+  "max_width": 75
+ },
+ {
+  "offset": "088B448",
+  "en": "WONDER NEWS",
+  "pt": "NOT. MÁGICAS",
+  "max_width": 69
+ },
+ {
+  "offset": "088B454",
+  "en": "WIRELESS COMMUNICATION",
+  "pt": "COMUNICAÇÃO SEM FIO",
+  "max_width": 153
+ },
+ {
+  "offset": "088B46C",
+  "en": "FRIEND",
+  "pt": "AMIGO",
+  "max_width": 42
+ },
+ {
+  "offset": "088B474",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "088B47C",
+  "en": "RECEIVE",
+  "pt": "RECEBER",
+  "max_width": 48
+ },
+ {
+  "offset": "088B484",
+  "en": "SEND",
+  "pt": "ENVIO",
+  "max_width": 30
+ },
+ {
+  "offset": "088B48C",
+  "en": "TOSS",
+  "pt": "JOGAR",
+  "max_width": 30
+ },
+ {
+  "offset": "088B494",
+  "en": "A variety of events will be imported\\nover Wireless Communication.",
+  "pt": "Vários eventos serão importados\\npela Comunicação Sem Fio.",
+  "max_lines": 2,
+  "max_width": 196
+ },
+ {
+  "offset": "088B4D8",
+  "en": "Read the WONDER CARDS in your\\npossession.",
+  "pt": "Leia os CARTÕES MÁGICOS que\\nvocê possui.",
+  "max_lines": 2,
+  "max_width": 166
+ },
+ {
+  "offset": "088B504",
+  "en": "Read the NEWS that arrived.",
+  "pt": "Leia as NOTÍCIAS recebidas.",
+  "max_width": 167
+ },
+ {
+  "offset": "088B520",
+  "en": "Return to the title screen.",
+  "pt": "Voltar à tela de título.",
+  "max_width": 165
+ },
+ {
+  "offset": "088B53C",
+  "en": "You don't have a WONDER CARD,\\nso a new CARD will be input.",
+  "pt": "Você não tem CARTÃO MÁGICO,\\nentão um novo será inserido.",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "088B578",
+  "en": "You don't have any WONDER NEWS,\\nso new NEWS will be input.",
+  "pt": "Você não tem NOTÍCIA MÁGICA,\\nentão uma nova será inserida.",
+  "max_lines": 2,
+  "max_width": 175
+ },
+ {
+  "offset": "088B5B4",
+  "en": "Where should the WONDER CARD\\nbe accessed?",
+  "pt": "De onde acessar o\\nCARTÃO MÁGICO?",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "088B5E0",
+  "en": "Where should the WONDER NEWS\\nbe accessed?",
+  "pt": "De onde acessar a\\nNOTÍCIA MÁGICA?",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "088B634",
+  "en": "Communicating…",
+  "pt": "Comunicando…",
+  "max_width": 104
+ },
+ {
+  "offset": "088B644",
+  "en": "Communication completed.",
+  "pt": "Comunicação concluída.",
+  "max_width": 156
+ },
+ {
+  "offset": "088B660",
+  "en": "Communication error.",
+  "pt": "Erro de comunicação.",
+  "max_width": 131
+ },
+ {
+  "offset": "088B678",
+  "en": "Communication has been canceled.",
+  "pt": "A comunicação foi cancelada."
+ },
+ {
+  "offset": "088B69C",
+  "en": "Throw away the WONDER CARD\\nand input a new CARD?",
+  "pt": "Descartar o CARTÃO MÁGICO\\ne inserir um novo?",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "088B6D0",
+  "en": "You haven't received the CARD's gift\\nyet. Input a new CARD anyway?",
+  "pt": "Você não recebeu o presente do\\nCARTÃO. Inserir outro mesmo assim?",
+  "max_lines": 2,
+  "max_width": 200
+ },
+ {
+  "offset": "088B714",
+  "en": "A WONDER CARD has been received\\nfrom {STR_VAR_1}.",
+  "pt": "Você recebeu um CARTÃO MÁGICO\\nde {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 178
+ },
+ {
+  "offset": "088B740",
+  "en": "A WONDER NEWS item has been\\nreceived from {STR_VAR_1}.",
+  "pt": "Você recebeu uma NOTÍCIA\\nMÁGICA de {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "088B770",
+  "en": "A new WONDER CARD has been\\nreceived.",
+  "pt": "Você recebeu um novo\\nCARTÃO MÁGICO.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "088B798",
+  "en": "A new WONDER NEWS item has been\\nreceived.",
+  "pt": "Você recebeu uma nova\\nNOTÍCIA MÁGICA.",
+  "max_lines": 2,
+  "max_width": 176
+ },
+ {
+  "offset": "088B7C4",
+  "en": "A new STAMP has been received.",
+  "pt": "Você recebeu um novo SELO."
+ },
+ {
+  "offset": "088B7E4",
+  "en": "A new TRAINER has arrived.",
+  "pt": "Um novo TREINADOR chegou.",
+  "max_width": 161
+ },
+ {
+  "offset": "088B800",
+  "en": "You already had that\\nWONDER CARD.",
+  "pt": "Você já tinha esse\\nCARTÃO MÁGICO.",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "088B824",
+  "en": "You already had that\\nWONDER NEWS item.",
+  "pt": "Você já tinha essa\\nNOTÍCIA MÁGICA.",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "088B84C",
+  "en": "You already had that\\nSTAMP.",
+  "pt": "Você já tinha esse\\nSELO.",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "088B868",
+  "en": "There's no more room for adding\\nSTAMPS.",
+  "pt": "Não há mais espaço para\\nadicionar SELOS.",
+  "max_lines": 2,
+  "max_width": 172
+ },
+ {
+  "offset": "088B890",
+  "en": "Your record has been uploaded via\\nWIRELESS COMMUNICATION.",
+  "pt": "Seu recorde foi enviado pela\\nCOMUNICAÇÃO SEM FIO.",
+  "max_lines": 2,
+  "max_width": 186
+ },
+ {
+  "offset": "088B8CC",
+  "en": "You can't accept a WONDER CARD\\nfrom this TRAINER.",
+  "pt": "Você não pode aceitar CARTÃO\\nMÁGICO deste TREINADOR.",
+  "max_lines": 2,
+  "max_width": 172
+ },
+ {
+  "offset": "088B900",
+  "en": "You can't accept WONDER NEWS\\nfrom this TRAINER.",
+  "pt": "Você não pode aceitar NOTÍCIA\\nMÁGICA deste TREINADOR.",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "088B930",
+  "en": "Nothing was sent over…",
+  "pt": "Nada foi enviado…",
+  "max_width": 144
+ },
+ {
+  "offset": "088B948",
+  "en": "What would you like to do\\nwith the WONDER CARDS?",
+  "pt": "O que deseja fazer com\\nos CARTÕES MÁGICOS?",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "088B97C",
+  "en": "What would you like to do\\nwith the WONDER NEWS?",
+  "pt": "O que deseja fazer com\\nas NOTÍCIAS MÁGICAS?",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "088B9AC",
+  "en": "Sending your WONDER CARD…",
+  "pt": "Enviando o CARTÃO MÁGICO…",
+  "max_width": 162
+ },
+ {
+  "offset": "088B9C8",
+  "en": "Sending your WONDER NEWS item…",
+  "pt": "Enviando a NOTÍCIA MÁGICA…"
+ },
+ {
+  "offset": "088B9E8",
+  "en": "Your WONDER CARD has been sent\\nto {STR_VAR_1}.",
+  "pt": "Seu CARTÃO MÁGICO foi enviado\\npara {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "088BA10",
+  "en": "Your WONDER NEWS item has been\\nsent to {STR_VAR_1}.",
+  "pt": "Sua NOTÍCIA MÁGICA foi enviada\\npara {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 172
+ },
+ {
+  "offset": "088BA3C",
+  "en": "A STAMP has been sent to {STR_VAR_1}.",
+  "pt": "Um SELO foi enviado para {STR_VAR_1}."
+ },
+ {
+  "offset": "088BA5C",
+  "en": "A GIFT has been sent to {STR_VAR_1}.",
+  "pt": "Um PRESENTE foi enviado para {STR_VAR_1}."
+ },
+ {
+  "offset": "088BA78",
+  "en": "The other TRAINER has the same\\nWONDER CARD already.",
+  "pt": "O outro TREINADOR já tem\\nesse CARTÃO MÁGICO.",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "088BAAC",
+  "en": "The other TRAINER has the same\\nWONDER NEWS already.",
+  "pt": "O outro TREINADOR já tem\\nessa NOTÍCIA MÁGICA.",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "088BAE0",
+  "en": "The other TRAINER has the same\\nSTAMP already.",
+  "pt": "O outro TREINADOR já tem\\nesse SELO.",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "088BB10",
+  "en": "The other TRAINER canceled\\ncommunication.",
+  "pt": "O outro TREINADOR cancelou\\na comunicação.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "088BB3C",
+  "en": "You can't send a MYSTERY GIFT to\\nthis TRAINER.",
+  "pt": "Não é possível enviar PRESENTE\\nMISTERIOSO a este TREINADOR.",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "088BB6C",
+  "en": "If you throw away the CARD,\\nits event won't happen. Okay?",
+  "pt": "Descartando o CARTÃO, o evento\\nnão vai acontecer. Tudo bem?",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "088BBA8",
+  "en": "Is it okay to discard this\\nNEWS item?",
+  "pt": "Tudo bem descartar esta\\nNOTÍCIA?",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "088BBD0",
+  "en": "You haven't received the\\nGIFT. Is it okay to discard?",
+  "pt": "Você não recebeu o PRESENTE.\\nTudo bem descartar?",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "088BC08",
+  "en": "Data will be saved.\\nPlease wait.",
+  "pt": "Salvando os dados.\\nAguarde.",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "088BC2C",
+  "en": "Save completed.\\nPlease press the A Button.",
+  "pt": "Jogo salvo.\\nAperte o Botão A.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "088BC58",
+  "en": "The WONDER CARD was thrown away.",
+  "pt": "O CARTÃO MÁGICO foi descartado."
+ },
+ {
+  "offset": "088BC7C",
+  "en": "The WONDER NEWS was thrown away.",
+  "pt": "A NOTÍCIA MÁGICA foi descartada."
+ },
+ {
+  "offset": "088BCA0",
+  "en": "MYSTERY GIFT",
+  "pt": "PRESENTE",
+  "max_width": 75
+ },
+ {
+  "offset": "088BCB0",
+  "en": "{F8 0A}PICK {F8 00}OK {F8 01}EXIT",
+  "pt": "{F8 0A}MOVER {F8 00}OK {F8 01}SAIR",
+  "max_width": 108
+ },
+ {
+  "offset": "088BCC4",
+  "en": "{F8 0A}PICK {F8 00}OK {F8 01}CANCEL",
+  "pt": "{F8 0A}MOVER {F8 00}OK {F8 01}VOLTAR",
+  "max_width": 120
+ },
+ {
+  "offset": "088BCD9",
+  "en": "{PLAYER}'s BATTLE RESULTS",
+  "pt": "RESULTADOS DE {PLAYER}",
+  "max_width": 159
+ },
+ {
+  "offset": "088BCED",
+  "en": "TOTAL RECORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}",
+  "pt": "TOTAL V:{STR_VAR_1} D:{STR_VAR_2} E:{STR_VAR_3}"
+ },
+ {
+  "offset": "088BD09",
+  "en": "{CLEAR_TO 53}WIN{CLEAR_TO 80}LOSE{CLEAR_TO B0}DRAW",
+  "pt": "{CLEAR_TO 53}VIT.{CLEAR_TO 80}DER.{CLEAR_TO B0}EMP.",
+  "max_width": 72
+ },
+ {
+  "offset": "088BD1E",
+  "en": "Communication standby…",
+  "pt": "Aguardando comunicação…",
+  "max_width": 149
+ },
+ {
+  "offset": "088BD35",
+  "en": "Quit the game?",
+  "pt": "Sair do jogo?",
+  "max_width": 100
+ },
+ {
+  "offset": "088BD44",
+  "en": "You've got 9,999 COINS.",
+  "pt": "Você tem 9.999 MOEDAS.",
+  "max_width": 144
+ },
+ {
+  "offset": "088BD5C",
+  "en": "You've run out of COINS.\\nGame over!",
+  "pt": "Suas MOEDAS acabaram.\\nFim de jogo!",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "088BD80",
+  "en": "You don't have three COINS.",
+  "pt": "Você não tem três MOEDAS.",
+  "max_width": 167
+ },
+ {
+  "offset": "088BD9C",
+  "en": "REEL TIME\\nHere's your chance to take\\naim and nail marks!\\nReel Time continues for the\\nawarded number of spins.\\nIt all ends on a Big Bonus.",
+  "pt": "REEL TIME\\nSua chance de mirar e\\nacertar os símbolos!\\nO REEL TIME dura o número\\nde giros ganhos.\\nTudo acaba num bônus grande.",
+  "max_lines": 6,
+  "max_width": 153
+ },
+ {
+  "offset": "088BE26",
+  "en": "The two seem to get along\\nvery well.",
+  "pt": "Os dois parecem se dar\\nmuito bem.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "088BE4B",
+  "en": "The two seem to get along.",
+  "pt": "Os dois parecem se dar bem.",
+  "max_width": 160
+ },
+ {
+  "offset": "088BE66",
+  "en": "The two don't seem to like\\neach other much.",
+  "pt": "Os dois não parecem gostar\\nmuito um do outro.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "088BE92",
+  "en": "The two prefer to play with other\\nCAPTURES than each other.",
+  "pt": "Os dois preferem brincar com\\noutras CAPTURAS.",
+  "max_lines": 2,
+  "max_width": 183
+ },
+ {
+  "offset": "088BED0",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "088BED7",
+  "en": "TIME BOARD",
+  "pt": "PLACAR",
+  "max_width": 63
+ },
+ {
+  "offset": "088BEE2",
+  "en": "TIME CLEARED ",
+  "pt": "TEMPO FINAL ",
+  "max_width": 78
+ },
+ {
+  "offset": "088BEF0",
+  "en": "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.",
+  "pt": "{STR_VAR_1} min. {STR_VAR_2},{STR_VAR_3} seg."
+ },
+ {
+  "offset": "088BF0F",
+  "en": "Teach which move to {STR_VAR_1}?",
+  "pt": "Ensinar qual golpe a {STR_VAR_1}?"
+ },
+ {
+  "offset": "088BF27",
+  "en": "Teach {STR_VAR_2}?",
+  "pt": "Ensinar {STR_VAR_2}?",
+  "max_width": 105
+ },
+ {
+  "offset": "088BF31",
+  "en": "{STR_VAR_1} learned\\n{STR_VAR_2}!",
+  "pt": "{STR_VAR_1} aprendeu\\n{STR_VAR_2}!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "088BF40",
+  "en": "{STR_VAR_1} is trying to learn\\n{STR_VAR_2}.\\pBut {STR_VAR_1} can't learn more\\nthan four moves.\\pDelete an older move to make\\nroom for {STR_VAR_2}?",
+  "pt": "{STR_VAR_1} está tentando aprender {STR_VAR_2}.\\pMas {STR_VAR_1} não pode aprender mais de quatro golpes.\\pEsquecer um golpe antigo para dar lugar a {STR_VAR_2}?"
+ },
+ {
+  "offset": "088BFAD",
+  "en": "Stop trying to teach\\n{STR_VAR_2}?",
+  "pt": "Desistir de ensinar\\n{STR_VAR_2}?",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "088BFF3",
+  "en": "{STR_VAR_1} forgot {STR_VAR_3}.\\pAnd…\\p{STR_VAR_1} learned {STR_VAR_2}.",
+  "pt": "{STR_VAR_1} esqueceu {STR_VAR_3}.\\pE…\\p{STR_VAR_1} aprendeu {STR_VAR_2}."
+ },
+ {
+  "offset": "088C033",
+  "en": "Give up trying to teach a new\\nmove to {STR_VAR_1}?",
+  "pt": "Desistir de ensinar um novo\\ngolpe a {STR_VAR_1}?",
+  "max_lines": 2,
+  "max_width": 161
+ },
+ {
+  "offset": "088C05D",
+  "en": "Which move should be\\nforgotten?\\p",
+  "pt": "Qual golpe deve ser\\nesquecido?\\p"
+ },
+ {
+  "offset": "088C07E",
+  "en": "BATTLE MOVES",
+  "pt": "GOLPES BAT.",
+  "max_width": 75
+ },
+ {
+  "offset": "088C08B",
+  "en": "CONTEST MOVES",
+  "pt": "GOLPES CONC.",
+  "max_width": 81
+ },
+ {
+  "offset": "088C09F",
+  "en": "PP/",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "088C0A3",
+  "en": "POWER/",
+  "pt": "PODER/",
+  "max_width": 42
+ },
+ {
+  "offset": "088C0AA",
+  "en": "ACCURACY/",
+  "pt": "PRECISÃO/",
+  "max_width": 60
+ },
+ {
+  "offset": "088C0B4",
+  "en": "APPEAL",
+  "pt": "APELO",
+  "max_width": 42
+ },
+ {
+  "offset": "088C0BB",
+  "en": "JAM",
+  "pt": "ATR.",
+  "max_width": 24
+ },
+ {
+  "offset": "088C0BF",
+  "en": "KIRA",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088C0C4",
+  "en": "AMY",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "088C0C8",
+  "en": "JOHN",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088C0CD",
+  "en": "ROY",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "088C0D1",
+  "en": "GABBY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088C0D7",
+  "en": "ANNA",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088C0DC",
+  "en": "Clear all save data areas?",
+  "pt": "Apagar todos os dados salvos?",
+  "max_width": 160
+ },
+ {
+  "offset": "088C0F7",
+  "en": "Clearing data…\\nPlease wait.",
+  "pt": "Apagando…\\nAguarde.",
+  "max_lines": 2,
+  "max_width": 86
+ },
+ {
+  "offset": "088C113",
+  "en": "Is this the correct time?",
+  "pt": "Este é o horário certo?",
+  "max_width": 156
+ },
+ {
+  "offset": "088C12D",
+  "en": "CONFIRM",
+  "pt": "OK",
+  "max_width": 48
+ },
+ {
+  "offset": "088C135",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "088C13C",
+  "en": "DEVON PRES",
+  "pt": "PRES. DEVON",
+  "max_width": 63
+ },
+ {
+  "offset": "088C147",
+  "en": "MR. STONE",
+  "pt": "SR. STONE",
+  "max_width": 54
+ },
+ {
+  "offset": "088C151",
+  "en": "HARD AS ROCK",
+  "pt": "PURA ROCHA",
+  "max_width": 72
+ },
+ {
+  "offset": "088C15E",
+  "en": "STEVEN",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088C165",
+  "en": "RAD NEIGHBOR",
+  "pt": "VIZINHO TOP",
+  "max_width": 75
+ },
+ {
+  "offset": "088C172",
+  "en": "RELIABLE ONE",
+  "pt": "CONFIÁVEL",
+  "max_width": 75
+ },
+ {
+  "offset": "088C17F",
+  "en": "CALM & KIND",
+  "pt": "CALMA & BOA",
+  "max_width": 67
+ },
+ {
+  "offset": "088C18B",
+  "en": "{PK}{MN} LOVER",
+  "pt": "FÃ DE {PK}{MN}",
+  "max_width": 55
+ },
+ {
+  "offset": "088C194",
+  "en": "LUIGI",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088C19A",
+  "en": "LUIGI",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088C1A0",
+  "en": "ELUSIVE EYES",
+  "pt": "OLHAR ARISCO",
+  "max_width": 75
+ },
+ {
+  "offset": "088C1AD",
+  "en": "SCOTT",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088C1B3",
+  "en": "ROCKIN' WHIZ",
+  "pt": "GÊNIO DO ROCK",
+  "max_width": 72
+ },
+ {
+  "offset": "088C1C0",
+  "en": "THE BIG HIT",
+  "pt": "O SUCESSO",
+  "max_width": 66
+ },
+ {
+  "offset": "088C1CC",
+  "en": "SWELL SHOCK",
+  "pt": "CHOQUE TOP",
+  "max_width": 69
+ },
+ {
+  "offset": "088C1D8",
+  "en": "PASSION BURN",
+  "pt": "PURA PAIXÃO",
+  "max_width": 75
+ },
+ {
+  "offset": "088C1E5",
+  "en": "SKY TAMER",
+  "pt": "DOMA-CÉU",
+  "max_width": 57
+ },
+ {
+  "offset": "088C1EF",
+  "en": "MYSTIC DUO",
+  "pt": "DUO MÍSTICO",
+  "max_width": 63
+ },
+ {
+  "offset": "088C1FA",
+  "en": "DANDY CHARM",
+  "pt": "CHARME FINO",
+  "max_width": 69
+ },
+ {
+  "offset": "088C206",
+  "en": "ELITE FOUR",
+  "pt": "ELITE 4",
+  "max_width": 63
+ },
+ {
+  "offset": "088C211",
+  "en": "CHAMPION",
+  "pt": "CAMPEÃO",
+  "max_width": 54
+ },
+ {
+  "offset": "088C21A",
+  "en": "{PK}{MN} PROF.",
+  "pt": "PROF. {PK}{MN}",
+  "max_width": 52
+ },
+ {
+  "offset": "088C223",
+  "en": "Communication standby…\\nAwaiting another player to choose.",
+  "pt": "Aguardando comunicação…\\nEsperando o outro jogador escolher.",
+  "max_lines": 2,
+  "max_width": 191
+ },
+ {
+  "offset": "088C25D",
+  "en": "The battle was refused.{PAUSE 3C}",
+  "pt": "A batalha foi recusada.{PAUSE 3C}",
+  "max_width": 147
+ },
+ {
+  "offset": "088C278",
+  "en": "Refused the battle.{PAUSE 3C}",
+  "pt": "Você recusou a batalha.{PAUSE 3C}",
+  "max_width": 127
+ },
+ {
+  "offset": "088C306",
+  "en": "DEL. ALL",
+  "pt": "LIMPAR",
+  "max_width": 48
+ },
+ {
+  "offset": "088C30F",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "088C316",
+  "en": "OK",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "088C319",
+  "en": "QUIZ",
+  "pt": "QUIZ",
+  "max_width": 30
+ },
+ {
+  "offset": "088C31E",
+  "en": "ANSWER",
+  "pt": "RESP.",
+  "max_width": 42
+ },
+ {
+  "offset": "088C325",
+  "en": "CAPS",
+  "pt": "CAPS",
+  "max_width": 30
+ },
+ {
+  "offset": "088C32A",
+  "en": "BERRY",
+  "pt": "FRUTA",
+  "max_width": 36
+ },
+ {
+  "offset": "088C330",
+  "en": "BERRIES",
+  "pt": "FRUTAS",
+  "max_width": 48
+ },
+ {
+  "offset": "088C338",
+  "en": "TM CASE",
+  "pt": "ESTOJO",
+  "max_width": 45
+ },
+ {
+  "offset": "088C346",
+  "en": "The TM CASE will be\\nput away.",
+  "pt": "O ESTOJO DE TM\\nserá guardado.",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "088C374",
+  "en": "{F8 00}TOGGLE   {F8 0A}MOVES",
+  "pt": "{F8 00}TROCAR  {F8 0A}GOLPES",
+  "max_width": 105
+ },
+ {
+  "offset": "088C39A",
+  "en": "HP",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "088C39D",
+  "en": "ATK",
+  "pt": "ATQ",
+  "max_width": 24
+ },
+ {
+  "offset": "088C3A1",
+  "en": "DEF",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "088C3A5",
+  "en": "SPE",
+  "pt": "VEL",
+  "max_width": 24
+ },
+ {
+  "offset": "088C3A9",
+  "en": "SP.A",
+  "pt": "A.ESP",
+  "max_width": 27
+ },
+ {
+  "offset": "088C3AE",
+  "en": "SP.D",
+  "pt": "D.ESP",
+  "max_width": 27
+ },
+ {
+  "offset": "088C3CF",
+  "en": "LVL",
+  "pt": "NV",
+  "max_width": 24
+ },
+ {
+  "offset": "088C3FF",
+  "en": "CATCH%: ",
+  "pt": "CAPT%: ",
+  "max_width": 48
+ },
+ {
+  "offset": "088C408",
+  "en": "LEGENDARY",
+  "pt": "LENDÁRIO",
+  "max_width": 60
+ },
+ {
+  "offset": "088C412",
+  "en": "VERY HARD",
+  "pt": "MUITO DIF.",
+  "max_width": 57
+ },
+ {
+  "offset": "088C41C",
+  "en": "DIFFICULT",
+  "pt": "DIFÍCIL",
+  "max_width": 60
+ },
+ {
+  "offset": "088C426",
+  "en": "MEDIUM",
+  "pt": "MÉDIO",
+  "max_width": 42
+ },
+ {
+  "offset": "088C42D",
+  "en": "RELAXED",
+  "pt": "SUAVE",
+  "max_width": 48
+ },
+ {
+  "offset": "088C435",
+  "en": "EASY",
+  "pt": "FÁCIL",
+  "max_width": 30
+ },
+ {
+  "offset": "088C43A",
+  "en": "EXP YIELD: ",
+  "pt": "EXP BASE: ",
+  "max_width": 63
+ },
+ {
+  "offset": "088C446",
+  "en": "HATCH STEPS:",
+  "pt": "PASSOS OVO:",
+  "max_width": 72
+ },
+ {
+  "offset": "088C45C",
+  "en": "{F7 F7}{F7 FF}GROW: ",
+  "pt": "{F7 F7}{F7 FF}CRESC: ",
+  "max_width": 60
+ },
+ {
+  "offset": "088C460",
+  "en": "GROW: ",
+  "pt": "CRESC: ",
+  "max_width": 36
+ },
+ {
+  "offset": "088C467",
+  "en": "FRIENDSHIP:",
+  "pt": "AMIZADE:",
+  "max_width": 69
+ },
+ {
+  "offset": "088C47F",
+  "en": "MED. FAST",
+  "pt": "MÉD. VELOZ",
+  "max_width": 54
+ },
+ {
+  "offset": "088C489",
+  "en": "ERRATIC",
+  "pt": "ERRÁTICO",
+  "max_width": 48
+ },
+ {
+  "offset": "088C491",
+  "en": "FLUCTUATING",
+  "pt": "FLUTUANTE",
+  "max_width": 72
+ },
+ {
+  "offset": "088C49D",
+  "en": "MED. SLOW",
+  "pt": "MÉD. LENTO",
+  "max_width": 54
+ },
+ {
+  "offset": "088C4A7",
+  "en": "FAST",
+  "pt": "VELOZ",
+  "max_width": 30
+ },
+ {
+  "offset": "088C4AC",
+  "en": "SLOW",
+  "pt": "LENTO",
+  "max_width": 30
+ },
+ {
+  "offset": "088C4C3",
+  "en": "MONSTER",
+  "pt": "MONSTRO",
+  "max_width": 48
+ },
+ {
+  "offset": "088C4CB",
+  "en": "WATER {F9 0A}",
+  "pt": "ÁGUA {F9 0A}",
+  "max_width": 51
+ },
+ {
+  "offset": "088C4D4",
+  "en": "BUG",
+  "pt": "INS.",
+  "max_width": 24
+ },
+ {
+  "offset": "088C4D8",
+  "en": "FLYING",
+  "pt": "VOADOR",
+  "max_width": 42
+ },
+ {
+  "offset": "088C4DF",
+  "en": "FIELD",
+  "pt": "CAMPO",
+  "max_width": 36
+ },
+ {
+  "offset": "088C4E5",
+  "en": "FAIRY",
+  "pt": "FADA",
+  "max_width": 36
+ },
+ {
+  "offset": "088C4EB",
+  "en": "GRASS",
+  "pt": "PLANTA",
+  "max_width": 36
+ },
+ {
+  "offset": "088C4F1",
+  "en": "HUMANE",
+  "pt": "HUMANO",
+  "max_width": 42
+ },
+ {
+  "offset": "088C4F8",
+  "en": "WATER {F9 0C}",
+  "pt": "ÁGUA {F9 0C}",
+  "max_width": 51
+ },
+ {
+  "offset": "088C501",
+  "en": "MINERAL",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "088C509",
+  "en": "AMORPHOUS",
+  "pt": "AMORFO",
+  "max_width": 60
+ },
+ {
+  "offset": "088C513",
+  "en": "WATER {F9 0B}",
+  "pt": "ÁGUA {F9 0B}",
+  "max_width": 51
+ },
+ {
+  "offset": "088C51C",
+  "en": "DITTO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088C522",
+  "en": "DRAGON",
+  "pt": "DRAGÃO",
+  "max_width": 42
+ },
+ {
+  "offset": "088C556",
+  "en": "{F8 0A}EVOs  {F8 00}CHECK  {F8 04}FORMs",
+  "pt": "{F8 0A}EVOs  {F8 00}VER  {F8 04}FORMAS",
+  "max_width": 156
+ },
+ {
+  "offset": "088C58C",
+  "en": "{STR_VAR_1} evolves from {STR_VAR_2}",
+  "pt": "{STR_VAR_1} evolui de {STR_VAR_2}"
+ },
+ {
+  "offset": "088C59F",
+  "en": "{STR_VAR_1} mega evolves with {STR_VAR_2}",
+  "pt": "{STR_VAR_1} megaevolui com {STR_VAR_2}"
+ },
+ {
+  "offset": "088C5B7",
+  "en": "LvlUp, high friendship",
+  "pt": "Nível, amizade alta",
+  "max_width": 138
+ },
+ {
+  "offset": "088C5CE",
+  "en": "LvlUp, high friendship, day",
+  "pt": "Nível, amizade alta, dia",
+  "max_width": 162
+ },
+ {
+  "offset": "088C5EA",
+  "en": "Lvlup, high friendship, night",
+  "pt": "Nível, amizade alta, noite",
+  "max_width": 172
+ },
+ {
+  "offset": "088C608",
+  "en": "LvlUp to {STR_VAR_2}",
+  "pt": "Nível {STR_VAR_2}",
+  "max_width": 112
+ },
+ {
+  "offset": "088C614",
+  "en": "Trading",
+  "pt": "Troca",
+  "max_width": 63
+ },
+ {
+  "offset": "088C61C",
+  "en": "Trading, holding {STR_VAR_2}",
+  "pt": "Troca, segurando {STR_VAR_2}",
+  "max_width": 152
+ },
+ {
+  "offset": "088C630",
+  "en": "{STR_VAR_2} is used",
+  "pt": "Usar {STR_VAR_2}",
+  "max_width": 106
+ },
+ {
+  "offset": "088C63B",
+  "en": "LvlUp to {STR_VAR_2}, Atk > Def",
+  "pt": "Nível {STR_VAR_2}, Atq > Def",
+  "max_width": 166
+ },
+ {
+  "offset": "088C652",
+  "en": "LvlUp to {STR_VAR_2}, Atk = Def",
+  "pt": "Nível {STR_VAR_2}, Atq = Def",
+  "max_width": 168
+ },
+ {
+  "offset": "088C669",
+  "en": "LvlUp to {STR_VAR_2}, Atk < Def",
+  "pt": "Nível {STR_VAR_2}, Atq < Def",
+  "max_width": 166
+ },
+ {
+  "offset": "088C680",
+  "en": "LvlUp to {STR_VAR_2}, Silcoon persona",
+  "pt": "Nível {STR_VAR_2}, perfil Silcoon"
+ },
+ {
+  "offset": "088C69D",
+  "en": "LvlUp to {STR_VAR_2}, Cascoon persona",
+  "pt": "Nível {STR_VAR_2}, perfil Cascoon"
+ },
+ {
+  "offset": "088C6BA",
+  "en": "LvlUp to {STR_VAR_2}",
+  "pt": "Nível {STR_VAR_2}",
+  "max_width": 112
+ },
+ {
+  "offset": "088C6C6",
+  "en": "LvlUp to {STR_VAR_2}, party<6, 1x PlmbCap",
+  "pt": "Nível {STR_VAR_2}, equipe<6, 1x CapEncan."
+ },
+ {
+  "offset": "088C6E7",
+  "en": "LvlUp, high beauty",
+  "pt": "Nível, beleza alta",
+  "max_width": 119
+ },
+ {
+  "offset": "088C6FA",
+  "en": "LvlUp to {STR_VAR_2}, is female",
+  "pt": "Nível {STR_VAR_2}, fêmea",
+  "max_width": 165
+ },
+ {
+  "offset": "088C711",
+  "en": "LvlUp to {STR_VAR_2}, is male",
+  "pt": "Nível {STR_VAR_2}, macho",
+  "max_width": 153
+ },
+ {
+  "offset": "088C726",
+  "en": "LvlUp to {STR_VAR_2}, night",
+  "pt": "Nível {STR_VAR_2}, noite",
+  "max_width": 146
+ },
+ {
+  "offset": "088C739",
+  "en": "LvlUp to {STR_VAR_2}, day",
+  "pt": "Nível {STR_VAR_2}, dia",
+  "max_width": 136
+ },
+ {
+  "offset": "088C74A",
+  "en": "LvlUp to {STR_VAR_2}, dusk (5-6PM)",
+  "pt": "Nível {STR_VAR_2}, crepúsculo (17-18h)"
+ },
+ {
+  "offset": "088C764",
+  "en": "LvlUp, holds {STR_VAR_2}, day",
+  "pt": "Nível, segura {STR_VAR_2}, dia",
+  "max_width": 155
+ },
+ {
+  "offset": "088C779",
+  "en": "LvlUp, holds {STR_VAR_2}, night",
+  "pt": "Nível, segura {STR_VAR_2}, noite",
+  "max_width": 165
+ },
+ {
+  "offset": "088C790",
+  "en": "LvlUp, knows {STR_VAR_2}",
+  "pt": "Nível, sabe {STR_VAR_2}",
+  "max_width": 133
+ },
+ {
+  "offset": "088C7A0",
+  "en": "LvlUp, knows {STR_VAR_2} move",
+  "pt": "Nível, golpe tipo {STR_VAR_2}",
+  "max_width": 160
+ },
+ {
+  "offset": "088C7B5",
+  "en": "LvlUp on {STR_VAR_2}",
+  "pt": "Nível em {STR_VAR_2}",
+  "max_width": 112
+ },
+ {
+  "offset": "088C7C1",
+  "en": "{STR_VAR_2} used on male",
+  "pt": "{STR_VAR_2} em macho",
+  "max_width": 133
+ },
+ {
+  "offset": "088C7D1",
+  "en": "{STR_VAR_2} used on female",
+  "pt": "{STR_VAR_2} em fêmea",
+  "max_width": 145
+ },
+ {
+  "offset": "088C7E3",
+  "en": "LvlUp to {STR_VAR_2} while raining",
+  "pt": "Nível {STR_VAR_2} com chuva"
+ },
+ {
+  "offset": "088C7FD",
+  "en": "LvlUp with {STR_VAR_2} in party",
+  "pt": "Nível com {STR_VAR_2} na equipe",
+  "max_width": 167
+ },
+ {
+  "offset": "088C814",
+  "en": "LvlUp with dark type in party",
+  "pt": "Nível com tipo Sombrio na equipe"
+ },
+ {
+  "offset": "088C832",
+  "en": "Traded for {STR_VAR_2}",
+  "pt": "Trocado por {STR_VAR_2}",
+  "max_width": 124
+ },
+ {
+  "offset": "088C840",
+  "en": "LvlUp on {STR_VAR_2}",
+  "pt": "Nível em {STR_VAR_2}",
+  "max_width": 112
+ },
+ {
+  "offset": "088C84C",
+  "en": "Method unknown",
+  "pt": "Desconhecido",
+  "max_width": 105
+ },
+ {
+  "offset": "088C85B",
+  "en": "{STR_VAR_1} has no evolution.",
+  "pt": "{STR_VAR_1} não evolui.",
+  "max_width": 158
+ },
+ {
+  "offset": "088C870",
+  "en": "{F8 00}FORM MODE  {F8 04}EVOs",
+  "pt": "{F8 00}MODO FORMA  {F8 04}EVOs",
+  "max_width": 129
+ },
+ {
+  "offset": "088C88B",
+  "en": "{F8 0C}FORMs {F8 00}CHECK {F8 04}EVOs",
+  "pt": "{F8 0C}FORMAS {F8 00}VER {F8 04}EVOs",
+  "max_width": 150
+ },
+ {
+  "offset": "088C8A9",
+  "en": "{STR_VAR_1} has no alternate forms.",
+  "pt": "{STR_VAR_1} não tem formas alternativas."
+ },
+ {
+  "offset": "088C8C4",
+  "en": "You have already used your encounter\\nfor this area!{PAUSE_UNTIL_PRESS}",
+  "pt": "Você já usou o seu encontro\\nnesta área!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 206
+ },
+ {
+  "offset": "088C8FA",
+  "en": "You have already caught a POKéMON\\nin this evolution line!{PAUSE_UNTIL_PRESS}",
+  "pt": "Você já pegou uma CAPTURA\\ndesta linha evolutiva!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 190
+ },
+ {
+  "offset": "088C936",
+  "en": "You have already caught this POKéMON!{PAUSE_UNTIL_PRESS}",
+  "pt": "Você já pegou esta CAPTURA!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "088C95E",
+  "en": "One Type Challenge active, capture blocked!{PAUSE_UNTIL_PRESS}",
+  "pt": "Desafio TIPO ÚNICO: captura barrada!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "088C9B5",
+  "en": "The Exp. Share has been turned on.{PAUSE_UNTIL_PRESS}",
+  "pt": "O Compart. Exp. foi ativado.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "088C9DA",
+  "en": "The Exp. Share has been turned off.{PAUSE_UNTIL_PRESS}",
+  "pt": "O Compart. Exp. foi desativado.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "088CA2A",
+  "en": "TOADETTE's Battle School",
+  "pt": "Escola da TOADETTE",
+  "max_width": 155
+ },
+ {
+  "offset": "088CA43",
+  "en": "TOADETTE's Challenge Battles",
+  "pt": "Desafios da TOADETTE"
+ },
+ {
+  "offset": "088CA60",
+  "en": "Lost in the Pipes",
+  "pt": "Perdido nos Canos",
+  "max_width": 113
+ },
+ {
+  "offset": "088CA72",
+  "en": "Secret of the Tower",
+  "pt": "Segredo da Torre",
+  "max_width": 127
+ },
+ {
+  "offset": "088CA86",
+  "en": "Parasol Predicament",
+  "pt": "Guarda-Chuva Sumido",
+  "max_width": 129
+ },
+ {
+  "offset": "088CA9A",
+  "en": "WarioWare Inc.",
+  "pt": "",
+  "max_width": 98
+ },
+ {
+  "offset": "088CAA9",
+  "en": "Yoshi Lover",
+  "pt": "Fã de Yoshi",
+  "max_width": 84
+ },
+ {
+  "offset": "088CAB5",
+  "en": "Toadsworth's Lessons",
+  "pt": "Aulas do Toadsworth",
+  "max_width": 137
+ },
+ {
+  "offset": "088CACA",
+  "en": "PYORO the CAPTURE",
+  "pt": "PYORO, a CAPTURA",
+  "max_width": 120
+ },
+ {
+  "offset": "088CADC",
+  "en": "Trouble at SMILE SQUARE",
+  "pt": "Treta na PRAÇA SORRISO",
+  "max_width": 150
+ },
+ {
+  "offset": "088CAF4",
+  "en": "Nightmares",
+  "pt": "Pesadelos",
+  "max_width": 81
+ },
+ {
+  "offset": "088CAFF",
+  "en": "A Small Loan",
+  "pt": "Um Empréstimo",
+  "max_width": 86
+ },
+ {
+  "offset": "088CB0C",
+  "en": "Lost in the Clouds",
+  "pt": "Perdido nas Nuvens",
+  "max_width": 119
+ },
+ {
+  "offset": "088CB1F",
+  "en": "Monkeying Around",
+  "pt": "Macaquices",
+  "max_width": 114
+ },
+ {
+  "offset": "088CB30",
+  "en": "Tourists Trapped",
+  "pt": "Turistas Presos",
+  "max_width": 113
+ },
+ {
+  "offset": "088CB41",
+  "en": "Silver Stars Galaxy",
+  "pt": "Estrelas de Prata",
+  "max_width": 124
+ },
+ {
+  "offset": "088CB55",
+  "en": "Bowser's Castle",
+  "pt": "Castelo do Bowser",
+  "max_width": 105
+ },
+ {
+  "offset": "088CB65",
+  "en": "SUPER MARIO Plumber",
+  "pt": "SUPER MARIO Encanador",
+  "max_width": 129
+ },
+ {
+  "offset": "088CB79",
+  "en": "E. GADD's Trial.",
+  "pt": "Teste do E. GADD.",
+  "max_width": 100
+ },
+ {
+  "offset": "088CB8A",
+  "en": "Lava Fishing",
+  "pt": "Pesca na Lava",
+  "max_width": 89
+ },
+ {
+  "offset": "088CB97",
+  "en": "SHINY GALAXY",
+  "pt": "G. BRILHANTE",
+  "max_width": 75
+ },
+ {
+  "offset": "088CBA4",
+  "en": "MINIONS!",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "088CBAD",
+  "en": "Final Nightmare",
+  "pt": "Último Pesadelo",
+  "max_width": 104
+ },
+ {
+  "offset": "088CBBD",
+  "en": "POWER STAR Holder Rematches!",
+  "pt": "Revanches das ESTRELAS DE PODER!"
+ },
+ {
+  "offset": "088CBDA",
+  "en": "ELITE FOUR Rematches!",
+  "pt": "Revanche da ELITE!",
+  "max_width": 142
+ },
+ {
+  "offset": "088CBF0",
+  "en": "Catchy Phrases",
+  "pt": "Frases de Efeito",
+  "max_width": 104
+ },
+ {
+  "offset": "088CBFF",
+  "en": "Gotta recruit 'em all!",
+  "pt": "Temos que recrutar!",
+  "max_width": 134
+ },
+ {
+  "offset": "088CC16",
+  "en": "MUSHROOM KINGDOM Dragons",
+  "pt": "Dragões do REINO",
+  "max_width": 161
+ },
+ {
+  "offset": "088CC2F",
+  "en": "SMITHY GANG Boss",
+  "pt": "Chefe da SMITHY GANG",
+  "max_width": 114
+ },
+ {
+  "offset": "088CC40",
+  "en": "The Blue Blur",
+  "pt": "O Borrão Azul",
+  "max_width": 91
+ },
+ {
+  "offset": "088CC4E",
+  "en": "It seems TOADETTE is running a battle\\nschool in TOAD TOWN meant to test you\\non your C.A.P. battling skills!",
+  "pt": "Parece que a TOADETTE tem uma escola\\nde batalha na CIDADE TOAD para testar\\nsuas habilidades de batalha no C.A.P.!",
+  "max_lines": 3,
+  "max_width": 207
+ },
+ {
+  "offset": "088CCBA",
+  "en": "TOADETTE offers tough battle challenges\\nthat can be taken on whenever you want.\\nDo you have what it takes to win?",
+  "pt": "A TOADETTE oferece desafios difíceis\\nque podem ser encarados quando quiser.\\nVocê tem o que é preciso para vencer?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088CD2C",
+  "en": "It seems a Toad has gotten lost\\nsomewhere in 1-2. Better go make\\nsure he's alright!",
+  "pt": "Parece que um Toad se perdeu\\nem algum lugar do 1-2. Melhor ir\\nver se ele está bem!",
+  "max_lines": 3,
+  "max_width": 180
+ },
+ {
+  "offset": "088CD80",
+  "en": "A strange tower in Tostarena seems\\nto have no way to the top, though\\nthere are strange clues on the rocks.",
+  "pt": "Uma torre estranha em Tostarena não\\nparece ter caminho até o topo, mas\\nhá pistas curiosas nas pedras.",
+  "max_lines": 3,
+  "max_width": 205
+ },
+ {
+  "offset": "088CDEB",
+  "en": "You've been asked by a citizen of\\nTostarena to help find their Umbrella.\\nWhy would you need one in this weather?",
+  "pt": "Alguém de Tostarena pediu sua ajuda\\npara achar um Guarda-Chuva. Para que\\nprecisaria de um com esse tempo?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088CE5C",
+  "en": "It seems a passcode is needed to\\nenter WARIOWARE INC. Seems you'll\\nhave to search DIAMOND CITY for it.",
+  "pt": "Parece que é preciso uma senha para\\nentrar na WARIOWARE INC. Procure\\npor ela em DIAMOND CITY.",
+  "max_lines": 3,
+  "max_width": 195
+ },
+ {
+  "offset": "088CEC3",
+  "en": "A TOAD who's a fan of YOSHIs has\\nasked you to bring him one to see.\\nThere's a reward promised if you do!",
+  "pt": "Um TOAD fã de YOSHIs pediu para\\nvocê levar um para ele ver. Há uma\\nrecompensa prometida se conseguir!",
+  "max_lines": 3,
+  "max_width": 195
+ },
+ {
+  "offset": "088CF2C",
+  "en": "TOADSWORTH has taken up a teaching\\nposition at DIAMOND ACADEMY, and\\nneeds your help to teach his class!",
+  "pt": "TOADSWORTH virou professor na\\nDIAMOND ACADEMY e precisa da sua\\najuda para dar aula para a turma!",
+  "max_lines": 3,
+  "max_width": 197
+ },
+ {
+  "offset": "088CF94",
+  "en": "DIAMOND ACADEMY has changed their\\ncourses to be on CAPTURE battles, but\\na teacher needs a PYORO for his lesson!",
+  "pt": "A DIAMOND ACADEMY passou a ensinar\\nbatalhas de CAPTURAS, mas um professor\\nprecisa de um PYORO para a aula!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088D004",
+  "en": "It seems a Goomba and Koopa Troopa\\nare causing an issue over at SMILE\\nSQUARE. What's their problem?",
+  "pt": "Parece que um Goomba e um Koopa\\nTroopa estão causando confusão na\\nPRAÇA SORRISO. Qual é o problema?",
+  "max_lines": 3,
+  "max_width": 195
+ },
+ {
+  "offset": "088D068",
+  "en": "A toad from MAIN STREET has come\\ndown with some serious nightmares.\\nGLITTERING CAVE seems suspicious!",
+  "pt": "Um toad da RUA PRINCIPAL anda\\ntendo pesadelos terríveis. A GRUTA\\nCINTILANTE parece suspeita!",
+  "max_lines": 3,
+  "max_width": 193
+ },
+ {
+  "offset": "088D0CE",
+  "en": "You got 5,000 PURPLE COINS from a\\nnice gentleman in MAIN STREET! Surely\\nnothing bad will come from this.",
+  "pt": "Você ganhou 5.000 MOEDAS ROXAS de\\num senhor gentil na RUA PRINCIPAL!\\nCom certeza nada de ruim vai acontecer.",
+  "max_lines": 3,
+  "max_width": 206
+ },
+ {
+  "offset": "088D137",
+  "en": "A toad calling themselves CAPTAIN\\nTOAD is stuck in CLOUD CAP! Maybe a\\nLAKITU or an airship can help?",
+  "pt": "Um toad que se diz CAPTAIN TOAD\\nestá preso em CLOUD CAP! Talvez um\\nLAKITU ou uma aeronave ajude?",
+  "max_lines": 3,
+  "max_width": 193
+ },
+ {
+  "offset": "088D19C",
+  "en": "Go to CRANKY KONG's COMEDY CLUB.\\nI know you want to.",
+  "pt": "Vá ao CLUBE DE COMÉDIA do CRANKY\\nKONG. Eu sei que você quer.",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "088D1D1",
+  "en": "TOADSWORTH and a group of TOADs\\nwere heading to METRO KINGDOM, but got\\nstuck in TOSTARENA! Help them out!",
+  "pt": "TOADSWORTH e um grupo de TOADs iam\\npara o METRO KINGDOM, mas ficaram\\npresos em TOSTARENA! Ajude-os!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088D23B",
+  "en": "ROSALINA has tasked you with\\nfinding 5 SILVER STARS in order to form\\nher POWER STAR! Get looking!",
+  "pt": "ROSALINA pediu que você achasse 5\\nESTRELAS DE PRATA para formar a\\nESTRELA DE PODER dela! Mãos à obra!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088D29D",
+  "en": "BOWSER is holed up in his throne room!\\nFind the 3 keys hidden throughout his\\ncastle to get to and defeat him!",
+  "pt": "BOWSER está trancado na sala do trono!\\nAche as 3 chaves escondidas no castelo\\npara chegar até ele e derrotá-lo!",
+  "max_lines": 3,
+  "max_width": 207
+ },
+ {
+  "offset": "088D30B",
+  "en": "Seems PAULINE won't fight without her\\nMICROPHONE. It's lost in the sewers\\nwhich are on the west side of town.",
+  "pt": "Parece que a PAULINE não luta sem o\\nMICROFONE. Ele sumiu nos esgotos do\\nlado oeste da cidade.",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088D379",
+  "en": "Now that you've finished the\\nTATTLEDEX, the PROFESSOR wants a\\nbattle with you!",
+  "pt": "Agora que você completou a\\nTATTLEDEX, o PROFESSOR quer\\nbatalhar com você!",
+  "max_lines": 3,
+  "max_width": 187
+ },
+ {
+  "offset": "088D3C8",
+  "en": "A TOAD in BOWSER's CASTLE has\\nasked you to fish up a LAVA DROP!\\nBetter cast your rod in the lava!",
+  "pt": "Um TOAD no CASTELO DO BOWSER\\npediu para você pescar um LAVA\\nDROP! Jogue a vara na lava!",
+  "max_lines": 3,
+  "max_width": 183
+ },
+ {
+  "offset": "088D42A",
+  "en": "LUIGI told you about a secret\\nthird galaxy at the OBSERVATORY.\\nGo check it out!",
+  "pt": "LUIGI falou de uma terceira\\ngaláxia secreta no OBSERVATÓRIO.\\nVá conferir!",
+  "max_lines": 3,
+  "max_width": 182
+ },
+ {
+  "offset": "088D47A",
+  "en": "An eccentric PIANTA needs to\\ngrow an army of MINIONS for a\\ndespicable scheme. Help him out!",
+  "pt": "Um PIANTA excêntrico precisa de\\num exército de MINIONS para um\\nplano malvado. Ajude-o!",
+  "max_lines": 3,
+  "max_width": 177
+ },
+ {
+  "offset": "088D4D6",
+  "en": "A red LUMA told you about\\nsomeone strong in SHINY GALAXY\\nVOLCANO! Go and find them!",
+  "pt": "Um LUMA vermelho falou de\\nalguém forte no VULCÃO da GAL.\\nBRILHANTE! Vá procurar!",
+  "max_lines": 3,
+  "max_width": 175
+ },
+ {
+  "offset": "088D52A",
+  "en": "All of the MUSHROOM KINGDOM's POWER\\nSTAR holders are itching for rematches!\\nHead to their worlds to fight them!",
+  "pt": "Os donos de ESTRELAS DE PODER do REINO\\nDOS COGUMELOS querem revanche!\\nVá aos mundos deles enfrentá-los!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088D59A",
+  "en": "LUIGI wants a rematch! You should get\\nto MUSHROOM HILL and show him that\\nyou're the CHAMPION for a reason!",
+  "pt": "LUIGI quer revanche! Vá à COLINA\\nCOGUMELO e mostre que você não é\\no CAMPEÃO à toa!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088D605",
+  "en": "The QUESTIONNAIRE form holds a lot of\\nsecrets. Can you uncover all 13\\nphrases like 'IT'S A ME MARIO'?",
+  "pt": "O QUESTIONÁRIO guarda muitos\\nsegredos. Consegue descobrir as 13\\nfrases como 'IT'S A ME MARIO'?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088D66B",
+  "en": "PROFESSOR E. GADD wants you to\\ncomplete his TATTLEDEX! Get out\\nthere and recruit 'em all!",
+  "pt": "O PROFESSOR E. GADD quer que\\nvocê complete a TATTLEDEX! Vá\\nlá e recrute todas!",
+  "max_lines": 3,
+  "max_width": 178
+ },
+ {
+  "offset": "088D6C5",
+  "en": "There's dragons around!\\nCatch them all to show them who's boss!",
+  "pt": "Há dragões por aí! Capture\\ntodos e mostre quem manda!",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "088D705",
+  "en": "A red LUMA told you about\\nsomeone strong in SHINY GALAXY!\\nGo try and find them!",
+  "pt": "Um LUMA vermelho falou de\\nalguém forte na GALÁXIA\\nBRILHANTE! Tente encontrar!",
+  "max_lines": 3,
+  "max_width": 179
+ },
+ {
+  "offset": "088D755",
+  "en": "You saw a weird blue hedgehog(?)\\noutside your house! It ran off to\\n1-1, go see what's going on!",
+  "pt": "Você viu um ouriço(?) azul estranho\\nperto de casa! Ele correu para o\\n1-1, vá ver o que está havendo!",
+  "max_lines": 3,
+  "max_width": 184
+ },
+ {
+  "offset": "088D7B5",
+  "en": "TOADETTE proved to be quite a\\nchallenge, maybe you should come\\nback and take her on again?",
+  "pt": "A TOADETTE foi um belo desafio.\\nQue tal voltar e enfrentá-la\\nde novo?",
+  "max_lines": 3,
+  "max_width": 181
+ },
+ {
+  "offset": "088D810",
+  "en": "You've completed all of TOADETTE's\\nchallenges!",
+  "pt": "Você completou todos os desafios\\nda TOADETTE!",
+  "max_lines": 2,
+  "max_width": 190
+ },
+ {
+  "offset": "088D83F",
+  "en": "You found the Toad through a specific\\npipe on 1-2.",
+  "pt": "Você achou o Toad passando por um\\ncano específico no 1-2.",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "088D872",
+  "en": "After solving a brief puzzle, the way\\nup the tower has opened! What\\nmysteries await at the top?",
+  "pt": "Depois de um breve enigma, o caminho\\npara o alto da torre se abriu! Que\\nmistérios esperam lá no topo?",
+  "max_lines": 3,
+  "max_width": 201
+ },
+ {
+  "offset": "088D8D2",
+  "en": "Turns out the umbrella was a UTILITY\\nUMBRELLA! And they've given you one\\nas a reward as well!",
+  "pt": "O guarda-chuva era um GUARDA-CHUVA\\nespecial! E você ganhou um de\\nrecompensa também!",
+  "max_lines": 3,
+  "max_width": 202
+ },
+ {
+  "offset": "088D930",
+  "en": "After finally finding out the passcode\\nto WARIO WARE INC., you've managed\\nto defeat WARIO!",
+  "pt": "Depois de enfim descobrir a senha da\\nWARIO WARE INC., você conseguiu\\nderrotar o WARIO!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088D98B",
+  "en": "The TOAD gave you a magical YOSHI\\nWHISTLE! It lets you summon a\\nYOSHI no matter where you are!",
+  "pt": "O TOAD deu a você um APITO YOSHI\\nmágico! Com ele, você chama um\\nYOSHI onde quer que esteja!",
+  "max_lines": 3,
+  "max_width": 186
+ },
+ {
+  "offset": "088D9EA",
+  "en": "TOADSWORTH has been hired to work\\nat MUSHROOM HILL. Perhaps you'll\\nfight him there?",
+  "pt": "TOADSWORTH foi contratado para\\ntrabalhar na COLINA COGUMELO.\\nSerá que vai enfrentá-lo lá?",
+  "max_lines": 3,
+  "max_width": 189
+ },
+ {
+  "offset": "088DA3E",
+  "en": "After finding a PYORO in DIAMOND\\nCITY and trading it with a professor,\\nthe students should be in good hands.",
+  "pt": "Depois de achar um PYORO em DIAMOND\\nCITY e trocá-lo com um professor, os\\nalunos devem estar em boas mãos.",
+  "max_lines": 3,
+  "max_width": 207
+ },
+ {
+  "offset": "088DAAB",
+  "en": "You've dealt with the dispute between\\nCORPORAL PARAPLONK and PRIVATE GOOMP!\\nSMILE SQUARE should be safe now.",
+  "pt": "Você resolveu a briga entre o\\nCORPORAL PARAPLONK e o PRIVATE GOOMP!\\nA PRAÇA SORRISO deve estar segura.",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088DB18",
+  "en": "Turns out ANTASMA was behind the\\nnightmares in MAIN STREET. Hopefully\\nthat's the last you see of him.",
+  "pt": "O ANTASMA estava por trás dos\\npesadelos na RUA PRINCIPAL. Tomara\\nque você nunca mais o veja.",
+  "max_lines": 3,
+  "max_width": 202
+ },
+ {
+  "offset": "088DB7E",
+  "en": "Well that was scary.",
+  "pt": "Bom, isso deu medo.",
+  "max_width": 127
+ },
+ {
+  "offset": "088DB93",
+  "en": "You saved CAPTAIN TOAD from\\nbeing stuck in the clouds forever!\\nMaybe you'll meet again in WORLD 5?",
+  "pt": "Você salvou o CAPTAIN TOAD de\\nficar preso nas nuvens para sempre!\\nTalvez se reencontrem no MUNDO 5?",
+  "max_lines": 3,
+  "max_width": 191
+ },
+ {
+  "offset": "088DBF6",
+  "en": "See? I knew you wanted to.",
+  "pt": "Viu? Eu sabia que você queria.",
+  "max_width": 162
+ },
+ {
+  "offset": "088DC11",
+  "en": "You helped TOADSWORTH rescue his\\ntour group from the harsh desert.\\nHe's as grateful as ever to you.",
+  "pt": "Você ajudou TOADSWORTH a resgatar\\nseu grupo do deserto implacável.\\nEle está mais grato do que nunca.",
+  "max_lines": 3,
+  "max_width": 185
+ },
+ {
+  "offset": "088DC75",
+  "en": "Completed Quest 16",
+  "pt": "Missão 16 concluída",
+  "max_width": 124
+ },
+ {
+  "offset": "088DC88",
+  "en": "You rescued LUIGI from BOWSER's\\nclutches and got your final POWER STAR!\\nTime to head to MUSHROOM HILL!",
+  "pt": "Você salvou o LUIGI das garras do\\nBOWSER e pegou a última ESTRELA DE\\nPODER! Hora de ir à COLINA COGUMELO!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088DCEF",
+  "en": "You've obtained your sixth POWER STAR!\\nBetter head on out and see how you\\ncan get your seventh!",
+  "pt": "Você obteve a sexta ESTRELA DE PODER!\\nMelhor sair por aí e descobrir como\\nconseguir a sétima!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088DD4F",
+  "en": "The PROFESSOR was one of your\\ntoughest opponents yet, but you\\nmanaged to get a win!",
+  "pt": "O PROFESSOR foi um dos seus\\nadversários mais duros, mas\\nvocê conseguiu vencer!",
+  "max_lines": 3,
+  "max_width": 181
+ },
+ {
+  "offset": "088DDA3",
+  "en": "You now know how to properly\\nfish in lava!",
+  "pt": "Agora você sabe pescar\\nna lava do jeito certo!",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "088DDCE",
+  "en": "A green LUMA took you to the\\nSHINY GALAXY! Explore and jump\\nto your heart's content!",
+  "pt": "Um LUMA verde levou você à\\nGALÁXIA BRILHANTE! Explore e\\npule à vontade!",
+  "max_lines": 3,
+  "max_width": 172
+ },
+ {
+  "offset": "088DE23",
+  "en": "FELONIUS's plans to take the moon\\nmay have been halted, but soon\\nhe'll steal it with his MINIONS!",
+  "pt": "Os planos de FELONIUS de roubar a\\nlua podem ter parado, mas logo ele\\nvai roubá-la com seus MINIONS!",
+  "max_lines": 3,
+  "max_width": 188
+ },
+ {
+  "offset": "088DE85",
+  "en": "ANTASMA was hiding out in SHINY\\nGALAXY VOLCANO, but you\\nmanaged to catch him.",
+  "pt": "ANTASMA se escondia no VULCÃO\\nda GALÁXIA BRILHANTE, mas\\nvocê conseguiu capturá-lo.",
+  "max_lines": 3,
+  "max_width": 175
+ },
+ {
+  "offset": "088DED3",
+  "en": "You've defeated each WORLD's\\nPOWER STAR HOLDERs again! Wonder\\nwhat's left to do now?",
+  "pt": "Você derrotou de novo os donos\\nde ESTRELA DE PODER de cada\\nMUNDO! O que falta agora?",
+  "max_lines": 3,
+  "max_width": 185
+ },
+ {
+  "offset": "088DF28",
+  "en": "You've triumphed over the\\nELITE FOUR at MUSHROOM HILL again!",
+  "pt": "Você venceu a ELITE DOS QUATRO\\nna COLINA COGUMELO outra vez!",
+  "max_lines": 2,
+  "max_width": 195
+ },
+ {
+  "offset": "088DF65",
+  "en": "What a super sleuth!\\nLet's see if those items are\\nuseful in new playthroughs!",
+  "pt": "Que super detetive!\\nVamos ver se esses itens\\najudam em novas partidas!",
+  "max_lines": 3,
+  "max_width": 155
+ },
+ {
+  "offset": "088DFB3",
+  "en": "You've caught all 150 CAPTURES!\\nBut...Could there be one more out there?",
+  "pt": "Você pegou as 150 CAPTURAS!\\nMas... Será que há mais uma por aí?",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "088DFFC",
+  "en": "You've caught all of the\\ndragons of the MUSHROOM KINGDOM!\\nYou should go tell the PROFESSOR!",
+  "pt": "Você pegou todos os dragões\\ndo REINO DOS COGUMELOS!\\nVá contar ao PROFESSOR!",
+  "max_lines": 3,
+  "max_width": 187
+ },
+ {
+  "offset": "088E058",
+  "en": "EXOR was waiting for you\\nin SHINY GALAXY, and you\\ncaught him!",
+  "pt": "EXOR esperava por você\\nna GALÁXIA BRILHANTE,\\ne você o pegou!",
+  "max_lines": 3,
+  "max_width": 137
+ },
+ {
+  "offset": "088E096",
+  "en": "SONIC THE HEDGEHOG?!",
+  "pt": "",
+  "max_width": 136
+ },
+ {
+  "offset": "088E0AB",
+  "en": "TOAD TOWN BATTLE SCHOOL",
+  "pt": "ESCOLA DE BATALHA",
+  "max_width": 153
+ },
+ {
+  "offset": "088E0C3",
+  "en": "TOAD TOWN BATTLE SCHOOL",
+  "pt": "ESCOLA DE BATALHA",
+  "max_width": 153
+ },
+ {
+  "offset": "088E0DB",
+  "en": "WORLD 1-1",
+  "pt": "MUNDO 1-1",
+  "max_width": 57
+ },
+ {
+  "offset": "088E0E5",
+  "en": "TOSTARENA TOWER",
+  "pt": "TORRE TOSTARENA",
+  "max_width": 93
+ },
+ {
+  "offset": "088E0F5",
+  "en": "TOSTARENA",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "088E0FF",
+  "en": "DIAMOND CITY",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "088E10C",
+  "en": "TOAD TOWN",
+  "pt": "C. TOAD",
+  "max_width": 57
+ },
+ {
+  "offset": "088E116",
+  "en": "DIAMOND ACADEMY",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "088E126",
+  "en": "DIAMOND CITY",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "088E133",
+  "en": "WORLD 4-1",
+  "pt": "MUNDO 4-1",
+  "max_width": 57
+ },
+ {
+  "offset": "088E13D",
+  "en": "MAIN STREET",
+  "pt": "RUA PRINC.",
+  "max_width": 69
+ },
+ {
+  "offset": "088E149",
+  "en": "EVERYWHERE",
+  "pt": "TODO LUGAR",
+  "max_width": 66
+ },
+ {
+  "offset": "088E154",
+  "en": "CLOUD CAP",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "088E15E",
+  "en": "KONG KAPITAL",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "088E16B",
+  "en": "TOSTARENA",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "088E175",
+  "en": "SPACE",
+  "pt": "ESPAÇO",
+  "max_width": 36
+ },
+ {
+  "offset": "088E17B",
+  "en": "BOWSER'S CASTLE",
+  "pt": "C. DO BOWSER",
+  "max_width": 90
+ },
+ {
+  "offset": "088E18B",
+  "en": "NEW DONK CITY HALL",
+  "pt": "PREF. NEW DONK CITY",
+  "max_width": 123
+ },
+ {
+  "offset": "088E19E",
+  "en": "E. GADD's LAB",
+  "pt": "LAB. DO E. GADD",
+  "max_width": 90
+ },
+ {
+  "offset": "088E1AC",
+  "en": "BOWSER'S CASTLE",
+  "pt": "C. DO BOWSER",
+  "max_width": 90
+ },
+ {
+  "offset": "088E1BC",
+  "en": "COMET OBSERVATORY",
+  "pt": "OBSERV. COMETA",
+  "max_width": 123
+ },
+ {
+  "offset": "088E1CE",
+  "en": "DIAMOND CITY",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "088E1DB",
+  "en": "SHINY GALAXY VOLCANO",
+  "pt": "VULCÃO G. BRILHANTE",
+  "max_width": 138
+ },
+ {
+  "offset": "088E1F0",
+  "en": "MUSHROOM KINGDOM",
+  "pt": "REINO COGUMELO",
+  "max_width": 99
+ },
+ {
+  "offset": "088E201",
+  "en": "MUSHROOM HILL",
+  "pt": "COL. COGUMELO",
+  "max_width": 81
+ },
+ {
+  "offset": "088E20F",
+  "en": "TOAD TOWN MART",
+  "pt": "LOJA C. TOAD",
+  "max_width": 84
+ },
+ {
+  "offset": "088E21E",
+  "en": "E. GADD's LAB",
+  "pt": "LAB. DO E. GADD",
+  "max_width": 90
+ },
+ {
+  "offset": "088E22C",
+  "en": "E. GADD's LAB",
+  "pt": "LAB. DO E. GADD",
+  "max_width": 90
+ },
+ {
+  "offset": "088E23A",
+  "en": "SHINY GALAXY",
+  "pt": "G. BRILHANTE",
+  "max_width": 75
+ },
+ {
+  "offset": "088E2FA",
+  "en": "A Letter From the PRINCESS",
+  "pt": "Uma Carta da PRINCESA",
+  "max_width": 166
+ },
+ {
+  "offset": "088E315",
+  "en": "The PRINCESS's letter said to meet\\nthe PROFESSOR on 1-1 so you can\\nlearn about her party!",
+  "pt": "A carta da PRINCESA dizia para\\nencontrar o PROFESSOR no 1-1 para\\nsaber sobre a festa dela!",
+  "max_lines": 3,
+  "max_width": 191
+ },
+ {
+  "offset": "088E36F",
+  "en": "MARIO's PAD",
+  "pt": "CASA DO MARIO",
+  "max_width": 84
+ },
+ {
+  "offset": "088E37B",
+  "en": "Your First Partner",
+  "pt": "Seu 1º Parceiro",
+  "max_width": 120
+ },
+ {
+  "offset": "088E38E",
+  "en": "PROFESSOR E.GADD taught you and\\nLUIGI about the C.A.P. CHALLENGE!\\nNext up, PEACH's CASTLE!",
+  "pt": "O PROFESSOR E.GADD ensinou você e\\no LUIGI sobre o DESAFIO C.A.P.!\\nPróxima parada: CASTELO DA PEACH!",
+  "max_lines": 3,
+  "max_width": 185
+ },
+ {
+  "offset": "088E3E9",
+  "en": "WORLD 1-1",
+  "pt": "MUNDO 1-1",
+  "max_width": 57
+ },
+ {
+  "offset": "088E3F3",
+  "en": "POWER STAR Challenge!",
+  "pt": "Desafio da ESTRELA!",
+  "max_width": 138
+ },
+ {
+  "offset": "088E409",
+  "en": "The PRINCESS has tasked you with defeating\\ntwo of her Guards before you can challenge\\nher for her POWER STAR! Good luck!",
+  "pt": "A PRINCESA pediu que você vença dois\\nde seus Guardas antes de desafiá-la\\npela ESTRELA DE PODER! Boa sorte!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088E482",
+  "en": "PEACH's CASTLE",
+  "pt": "CASTELO DA PEACH",
+  "max_width": 102
+ },
+ {
+  "offset": "088E491",
+  "en": "Royal Guard",
+  "pt": "Guarda Real",
+  "max_width": 84
+ },
+ {
+  "offset": "088E49D",
+  "en": "You managed to defeat the PRINCESS's Guards.\\nSeems like TOADSWORTH is waiting to give you\\none more challenge though!",
+  "pt": "Você derrotou os Guardas da PRINCESA.\\nMas parece que TOADSWORTH espera para\\nlhe dar mais um desafio!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088E512",
+  "en": "PEACH's CASTLE",
+  "pt": "CASTELO DA PEACH",
+  "max_width": 102
+ },
+ {
+  "offset": "088E521",
+  "en": "Master Toadsworth",
+  "pt": "Mestre Toadsworth",
+  "max_width": 121
+ },
+ {
+  "offset": "088E533",
+  "en": "Toadsworth implemented some tricky tactics,\\nbut they were no match for you. The\\nPRINCESS is waiting!",
+  "pt": "Toadsworth usou táticas ardilosas, mas\\nelas não foram páreo para você. A\\nPRINCESA está esperando!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088E598",
+  "en": "PEACH's CASTLE",
+  "pt": "CASTELO DA PEACH",
+  "max_width": 102
+ },
+ {
+  "offset": "088E5A7",
+  "en": "First POWER STAR",
+  "pt": "Primeira ESTRELA",
+  "max_width": 111
+ },
+ {
+  "offset": "088E5B8",
+  "en": "After defeating BOWSER, PRINCESS PEACH was\\nall that was left before getting the\\nfirst POWER STAR! Better go to WORLD 2!",
+  "pt": "Depois de vencer o BOWSER, só faltava a\\nPRINCESA PEACH para a primeira ESTRELA\\nDE PODER! Melhor ir ao MUNDO 2!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088E630",
+  "en": "PEACH's CASTLE",
+  "pt": "CASTELO DA PEACH",
+  "max_width": 102
+ },
+ {
+  "offset": "088E63F",
+  "en": "Beginner 3v3",
+  "pt": "Iniciante 3v3",
+  "max_width": 90
+ },
+ {
+  "offset": "088E64C",
+  "en": "Beginner VGC",
+  "pt": "Iniciante VGC",
+  "max_width": 90
+ },
+ {
+  "offset": "088E659",
+  "en": "Intermediate 6v6",
+  "pt": "Intermediário 6v6",
+  "max_width": 114
+ },
+ {
+  "offset": "088E66A",
+  "en": "WILD BATTLE",
+  "pt": "SELVAGEM",
+  "max_width": 69
+ },
+ {
+  "offset": "088E676",
+  "en": "Difficult 3v3",
+  "pt": "Difícil 3v3",
+  "max_width": 93
+ },
+ {
+  "offset": "088E684",
+  "en": "Difficult VGC",
+  "pt": "Difícil VGC",
+  "max_width": 93
+ },
+ {
+  "offset": "088E692",
+  "en": "Difficult 6v6",
+  "pt": "Difícil 6v6",
+  "max_width": 93
+ },
+ {
+  "offset": "088E72D",
+  "en": "JIMMY T.",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "088E736",
+  "en": "PENNY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088E73C",
+  "en": "ASHLEY",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088E743",
+  "en": "WARIO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088E749",
+  "en": "First Lesson",
+  "pt": "Primeira Aula",
+  "max_width": 90
+ },
+ {
+  "offset": "088E756",
+  "en": "TOADSWORTH asked you to assist him\\nwith a lesson at DIAMOND ACADEMY,\\nwhich was on hidden abilities.",
+  "pt": "TOADSWORTH pediu sua ajuda numa\\naula na DIAMOND ACADEMY, que\\nfoi sobre habilidades ocultas.",
+  "max_lines": 3,
+  "max_width": 195
+ },
+ {
+  "offset": "088E7BA",
+  "en": "DIAMOND ACADEMY",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "088E7CA",
+  "en": "Second Lesson",
+  "pt": "Segunda Aula",
+  "max_width": 99
+ },
+ {
+  "offset": "088E7D8",
+  "en": "TOADSWORTH asked you to assist him\\nwith a lesson at DIAMOND ACADEMY,\\nwhich was on WILD BATTLES.",
+  "pt": "TOADSWORTH pediu sua ajuda numa\\naula na DIAMOND ACADEMY, que\\nfoi sobre BATALHAS SELVAGENS.",
+  "max_lines": 3,
+  "max_width": 195
+ },
+ {
+  "offset": "088E838",
+  "en": "DIAMOND ACADEMY",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "088E848",
+  "en": "Third Lesson",
+  "pt": "Terceira Aula",
+  "max_width": 90
+ },
+ {
+  "offset": "088E855",
+  "en": "TOADSWORTH asked you to assist him\\nwith a lesson at DIAMOND ACADEMY,\\nwhich was the toughest one yet.",
+  "pt": "TOADSWORTH pediu sua ajuda numa\\naula na DIAMOND ACADEMY, a mais\\ndifícil até agora.",
+  "max_lines": 3,
+  "max_width": 195
+ },
+ {
+  "offset": "088E8BA",
+  "en": "DIAMOND ACADEMY",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "088E92A",
+  "en": "Green Toad",
+  "pt": "Toad Verde",
+  "max_width": 80
+ },
+ {
+  "offset": "088E935",
+  "en": "You rescued a green toad from\\nthe quicksand.",
+  "pt": "Você salvou um toad verde\\nda areia movediça.",
+  "max_lines": 2,
+  "max_width": 166
+ },
+ {
+  "offset": "088E962",
+  "en": "TOSTARENA SAND PIT",
+  "pt": "AREIA DE TOSTARENA",
+  "max_width": 126
+ },
+ {
+  "offset": "088E975",
+  "en": "Blue Toad",
+  "pt": "Toad Azul",
+  "max_width": 73
+ },
+ {
+  "offset": "088E97F",
+  "en": "You rescued a blue toad out in 5-2.",
+  "pt": "Você salvou um toad azul no 5-2."
+ },
+ {
+  "offset": "088E9A3",
+  "en": "WORLD 6-2",
+  "pt": "MUNDO 6-2",
+  "max_width": 57
+ },
+ {
+  "offset": "088E9AD",
+  "en": "Yellow Toad",
+  "pt": "Toad Amarelo",
+  "max_width": 83
+ },
+ {
+  "offset": "088E9B9",
+  "en": "You rescued a yellow toad from\\nthe chilly TOSTARENA TOWER.",
+  "pt": "Você salvou um toad amarelo da\\ngelada TORRE TOSTARENA.",
+  "max_lines": 2,
+  "max_width": 169
+ },
+ {
+  "offset": "088E9F4",
+  "en": "TOSTARENA TOWER",
+  "pt": "TORRE TOSTARENA",
+  "max_width": 93
+ },
+ {
+  "offset": "088EA04",
+  "en": "Silver Star 1",
+  "pt": "Estrela Prata 1",
+  "max_width": 90
+ },
+ {
+  "offset": "088EA12",
+  "en": "Green Luma.",
+  "pt": "Luma Verde.",
+  "max_width": 83
+ },
+ {
+  "offset": "088EA1E",
+  "en": "GALAXY 7-1",
+  "pt": "GALÁXIA 7-1",
+  "max_width": 63
+ },
+ {
+  "offset": "088EA29",
+  "en": "Silver Star 2",
+  "pt": "Estrela Prata 2",
+  "max_width": 90
+ },
+ {
+  "offset": "088EA37",
+  "en": "Green Luma.",
+  "pt": "Luma Verde.",
+  "max_width": 83
+ },
+ {
+  "offset": "088EA43",
+  "en": "GALAXY 7-1",
+  "pt": "GALÁXIA 7-1",
+  "max_width": 63
+ },
+ {
+  "offset": "088EA4E",
+  "en": "Silver Star 3",
+  "pt": "Estrela Prata 3",
+  "max_width": 90
+ },
+ {
+  "offset": "088EA5C",
+  "en": "Green Luma.",
+  "pt": "Luma Verde.",
+  "max_width": 83
+ },
+ {
+  "offset": "088EA68",
+  "en": "GALAXY 7-2",
+  "pt": "GALÁXIA 7-2",
+  "max_width": 63
+ },
+ {
+  "offset": "088EA73",
+  "en": "Silver Star 4",
+  "pt": "Estrela Prata 4",
+  "max_width": 90
+ },
+ {
+  "offset": "088EA81",
+  "en": "Green Luma.",
+  "pt": "Luma Verde.",
+  "max_width": 83
+ },
+ {
+  "offset": "088EA8D",
+  "en": "GALAXY 7-2",
+  "pt": "GALÁXIA 7-2",
+  "max_width": 63
+ },
+ {
+  "offset": "088EA98",
+  "en": "Silver Star 5",
+  "pt": "Estrela Prata 5",
+  "max_width": 90
+ },
+ {
+  "offset": "088EAA6",
+  "en": "Green Luma.",
+  "pt": "Luma Verde.",
+  "max_width": 83
+ },
+ {
+  "offset": "088EAB2",
+  "en": "GALAXY 7-2",
+  "pt": "GALÁXIA 7-2",
+  "max_width": 63
+ },
+ {
+  "offset": "088EABD",
+  "en": "Hooktail",
+  "pt": "",
+  "max_width": 68
+ },
+ {
+  "offset": "088EAC6",
+  "en": "In the depths of GLITTERING CAVE, you\\nfound and caught HOOKTAIL!",
+  "pt": "Nas profundezas da GRUTA CINTILANTE,\\nvocê achou e pegou o HOOKTAIL!",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "088EB07",
+  "en": "GLITTERING CAVE",
+  "pt": "GRUTA CINTILANTE",
+  "max_width": 93
+ },
+ {
+  "offset": "088EB17",
+  "en": "Gloomtail",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "088EB21",
+  "en": "In TOAD TOWN's secret SEWER SYSTEM,\\nyou found GLOOMTAIL!",
+  "pt": "No ESGOTO secreto da CIDADE TOAD,\\nvocê achou o GLOOMTAIL!",
+  "max_lines": 2,
+  "max_width": 198
+ },
+ {
+  "offset": "088EB5A",
+  "en": "TOAD TOWN",
+  "pt": "C. TOAD",
+  "max_width": 57
+ },
+ {
+  "offset": "088EB64",
+  "en": "Bonetail",
+  "pt": "",
+  "max_width": 68
+ },
+ {
+  "offset": "088EB6D",
+  "en": "At the deepest level of the PIT,\\nyou found BONETAIL!",
+  "pt": "No nível mais fundo do POÇO,\\nvocê achou o BONETAIL!",
+  "max_lines": 2,
+  "max_width": 177
+ },
+ {
+  "offset": "088EBA2",
+  "en": "THE PIT",
+  "pt": "O POÇO",
+  "max_width": 45
+ },
+ {
+  "offset": "088EBAA",
+  "en": "BULLET KEY",
+  "pt": "CH. BULLET",
+  "max_width": 63
+ },
+ {
+  "offset": "088EBB5",
+  "en": "CORPORAL PARAPLONK was guarding the\\nBULLET KEY. Isn't there a door with this\\nkeyhole somewhere in 1F?",
+  "pt": "O CORPORAL PARAPLONK guardava a\\nCHAVE BULLET. Não há uma porta com\\nessa fechadura em algum lugar do 1A?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088EC1B",
+  "en": "BOWSER'S CASTLE",
+  "pt": "C. DO BOWSER",
+  "max_width": 90
+ },
+ {
+  "offset": "088EC2B",
+  "en": "BUBBLE KEY",
+  "pt": "CH. BOLHA",
+  "max_width": 63
+ },
+ {
+  "offset": "088EC36",
+  "en": "PRIVATE GOOMP was guarding the\\nBUBBLE KEY. Isn't there a door with this\\nkeyhole somewhere in 2F?",
+  "pt": "O PRIVATE GOOMP guardava a\\nCHAVE BOLHA. Não há uma porta com\\nessa fechadura em algum lugar do 2A?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088EC97",
+  "en": "BOWSER'S CASTLE",
+  "pt": "C. DO BOWSER",
+  "max_width": 90
+ },
+ {
+  "offset": "088ECA7",
+  "en": "BOWSER KEY",
+  "pt": "CH. BOWSER",
+  "max_width": 63
+ },
+ {
+  "offset": "088ECB2",
+  "en": "SERGEANT GUY was guarding the\\nBOWSER KEY. This is it! Take the key\\nback to the start and defeat BOWSER!",
+  "pt": "O SERGEANT GUY guardava a CHAVE\\nDO BOWSER. É agora! Leve a chave\\nao início e derrote o BOWSER!",
+  "max_lines": 3,
+  "max_width": 205
+ },
+ {
+  "offset": "088ED1A",
+  "en": "BOWSER'S CASTLE",
+  "pt": "C. DO BOWSER",
+  "max_width": 90
+ },
+ {
+  "offset": "088ED2A",
+  "en": "CAPTAIN TOAD's Battle",
+  "pt": "Batalha do CAPTAIN TOAD",
+  "max_width": 139
+ },
+ {
+  "offset": "088ED40",
+  "en": "PRINCESS PEACH is busy as an ELITE\\nFOUR member at MUSHROOM HILL, so\\nCAPTAIN TOAD fought you instead!",
+  "pt": "A PRINCESA PEACH está na ELITE DOS\\nQUATRO na COLINA COGUMELO, então\\no CAPTAIN TOAD lutou no lugar dela!",
+  "max_lines": 3,
+  "max_width": 194
+ },
+ {
+  "offset": "088EDA5",
+  "en": "PEACH'S CASTLE",
+  "pt": "C. DA PEACH",
+  "max_width": 84
+ },
+ {
+  "offset": "088EDB4",
+  "en": "DAISY Rematch",
+  "pt": "Revanche: DAISY",
+  "max_width": 99
+ },
+ {
+  "offset": "088EDC2",
+  "en": "PRINCESS DAISY wanted a rematch!\\nHer team was much stronger than before,\\nbut you still won!",
+  "pt": "A PRINCESA DAISY quis uma revanche!\\nA equipe dela estava muito mais forte,\\nmas você venceu de novo!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088EE1E",
+  "en": "DAISY'S CRUISER",
+  "pt": "CRUZ. DA DAISY",
+  "max_width": 90
+ },
+ {
+  "offset": "088EE2E",
+  "en": "WARIO Rematch",
+  "pt": "Revanche: WARIO",
+  "max_width": 99
+ },
+ {
+  "offset": "088EE3C",
+  "en": "WARIO wanted a rematch!\\nHis team was much stronger than before,\\nbut you still won!",
+  "pt": "O WARIO quis uma revanche!\\nA equipe dele estava muito mais forte,\\nmas você venceu de novo!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088EE8F",
+  "en": "DIAMOND CITY",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "088EE9C",
+  "en": "WALUIGI Rematch",
+  "pt": "Revanche: WALUIGI",
+  "max_width": 111
+ },
+ {
+  "offset": "088EEAC",
+  "en": "WALUIGI wanted a rematch!\\nHis team was much stronger than before,\\nbut you still won!",
+  "pt": "O WALUIGI quis uma revanche!\\nA equipe dele estava muito mais forte,\\nmas você venceu de novo!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088EF01",
+  "en": "MAIN STREET",
+  "pt": "RUA PRINC.",
+  "max_width": 69
+ },
+ {
+  "offset": "088EF0D",
+  "en": "DONKEY KONG Rematch",
+  "pt": "Revanche: DONKEY KONG",
+  "max_width": 132
+ },
+ {
+  "offset": "088EF21",
+  "en": "DONKEY KONG wanted a rematch!\\nHis team was much stronger than before,\\nbut you still won!",
+  "pt": "O DONKEY KONG quis uma revanche!\\nA equipe dele estava muito mais forte,\\nmas você venceu de novo!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088EF7A",
+  "en": "JUNGLE CITY",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "088EF86",
+  "en": "PAULINE Rematch",
+  "pt": "Revanche: PAULINE",
+  "max_width": 111
+ },
+ {
+  "offset": "088EF96",
+  "en": "PAULINE wanted a rematch!\\nHer team was much stronger than before,\\nbut you still won!",
+  "pt": "A PAULINE quis uma revanche!\\nA equipe dela estava muito mais forte,\\nmas você venceu de novo!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088EFEB",
+  "en": "NEW DONK CITY",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "088EFF9",
+  "en": "ROSALINA Rematch",
+  "pt": "Revanche: ROSALINA",
+  "max_width": 117
+ },
+ {
+  "offset": "088F00A",
+  "en": "PRINCESS ROSALINA wanted a rematch!\\nHer team was much stronger than before,\\nbut you still won!",
+  "pt": "A PRINCESA ROSALINA quis revanche!\\nA equipe dela estava muito mais forte,\\nmas você venceu de novo!",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088F069",
+  "en": "COMET OBSERVATORY",
+  "pt": "OBSERV. COMETA",
+  "max_width": 123
+ },
+ {
+  "offset": "088F07B",
+  "en": "BOWSER JUNIOR's Battle",
+  "pt": "Batalha do BOWSER JUNIOR",
+  "max_width": 145
+ },
+ {
+  "offset": "088F092",
+  "en": "Turns out BOWSER is still upset about\\nlosing to you, so his son JUNIOR\\nfought you instead!",
+  "pt": "O BOWSER ainda está chateado por ter\\nperdido para você, então o filho dele,\\nJUNIOR, lutou no lugar!",
+  "max_lines": 3,
+  "max_width": 205
+ },
+ {
+  "offset": "088F0ED",
+  "en": "BOWSER'S CASTLE",
+  "pt": "C. DO BOWSER",
+  "max_width": 90
+ },
+ {
+  "offset": "088F0FD",
+  "en": "Step 1: Recruitment",
+  "pt": "Passo 1: Recrutar",
+  "max_width": 126
+ },
+ {
+  "offset": "088F111",
+  "en": "FELONIUS only needs 1 MINION\\nto put his evil plan in motion.\\nWhat will become of them now?",
+  "pt": "FELONIUS só quer 1 MINION para\\npôr seu plano malvado em ação.\\nO que será deles agora?",
+  "max_lines": 3,
+  "max_width": 164
+ },
+ {
+  "offset": "088F16C",
+  "en": "DIAMOND CITY",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "088F179",
+  "en": "Step 2: Materials",
+  "pt": "Passo 2: Materiais",
+  "max_width": 112
+ },
+ {
+  "offset": "088F18B",
+  "en": "FELONIUS is back and needs your help!\\nHe needs you to find 3 special\\nitems from the NEW DONK SEWERS!",
+  "pt": "FELONIUS voltou e precisa de ajuda!\\nEle quer que você ache 3 itens\\nespeciais nos ESGOTOS NEW DONK!",
+  "max_lines": 3,
+  "max_width": 207
+ },
+ {
+  "offset": "088F1F0",
+  "en": "NEW DONK CITY",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "088F1FE",
+  "en": "A Long Thingy-Thing",
+  "pt": "Um Treco Comprido",
+  "max_width": 128
+ },
+ {
+  "offset": "088F212",
+  "en": "This is sure to be what FELONIUS\\nneeds, right?\\nWhat exactly is he planning?",
+  "pt": "Com certeza é disso que FELONIUS\\nprecisa, certo?\\nO que será que ele planeja?",
+  "max_lines": 3,
+  "max_width": 179
+ },
+ {
+  "offset": "088F25E",
+  "en": "NEW DONK SEWERS",
+  "pt": "ESGOTOS NEW DONK",
+  "max_width": 90
+ },
+ {
+  "offset": "088F26E",
+  "en": "A Short Gizmo-Gadget",
+  "pt": "Uma Geringonça Curta",
+  "max_width": 135
+ },
+ {
+  "offset": "088F283",
+  "en": "This is sure to be what FELONIUS\\nneeds, right?\\nWhat exactly is he planning?",
+  "pt": "Com certeza é disso que FELONIUS\\nprecisa, certo?\\nO que será que ele planeja?",
+  "max_lines": 3,
+  "max_width": 179
+ },
+ {
+  "offset": "088F2CF",
+  "en": "NEW DONK SEWERS",
+  "pt": "ESGOTOS NEW DONK",
+  "max_width": 90
+ },
+ {
+  "offset": "088F2DF",
+  "en": "A Secret Ingredient",
+  "pt": "Ingrediente Secreto",
+  "max_width": 128
+ },
+ {
+  "offset": "088F2F3",
+  "en": "This is sure to be what FELONIUS\\nneeds, right?\\nWhat exactly is he planning?",
+  "pt": "Com certeza é disso que FELONIUS\\nprecisa, certo?\\nO que será que ele planeja?",
+  "max_lines": 3,
+  "max_width": 179
+ },
+ {
+  "offset": "088F33F",
+  "en": "NEW DONK SEWERS",
+  "pt": "ESGOTOS NEW DONK",
+  "max_width": 90
+ },
+ {
+  "offset": "088F35B",
+  "en": "FELONIUS has run off with his MINIONS\\nonce again. Now with all 3 parts,\\nwill he be found in space?",
+  "pt": "FELONIUS fugiu com seus MINIONS\\nde novo. Agora, com as 3 peças, será\\nque ele vai estar no espaço?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088F3C2",
+  "en": "TOADETTE's first challenge was a tough\\n3v3 singles battle. What could she\\npossibly have for her next challenge?",
+  "pt": "O primeiro desafio da TOADETTE foi uma\\nbatalha individual 3v3 dura. O que ela\\nterá para o próximo desafio?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088F432",
+  "en": "TOADETTE's second challenge was a\\n4v4 doubles battle. I wonder what VGC\\nstands for?",
+  "pt": "O segundo desafio da TOADETTE foi\\numa batalha dupla 4v4. O que será\\nque significa VGC?",
+  "max_lines": 3,
+  "max_width": 206
+ },
+ {
+  "offset": "088F486",
+  "en": "TOADETTE's third challenge was a tough\\n6v6 singles battle. What could be\\nharder than fighting a full team?",
+  "pt": "O terceiro desafio da TOADETTE foi uma\\nbatalha individual 6v6 dura. O que seria\\npior que enfrentar uma equipe cheia?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088F4F1",
+  "en": "TOADETTE's fourth challenge was about\\nWILD BATTLES. I thought it was\\nsupposed to be called VGC?",
+  "pt": "O quarto desafio da TOADETTE foi sobre\\nBATALHAS SELVAGENS. Não era para\\nse chamar VGC?",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088F551",
+  "en": "TOADETTE's fifth challenge was her\\nOVER USED team? Though she only fought\\nwith 3 CAPTURES.",
+  "pt": "O quinto desafio da TOADETTE foi a\\nequipe OVER USED dela? Mas ela só\\nlutou com 3 CAPTURAS.",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088F5AC",
+  "en": "TOADETTE's sixth challenge was a\\nvery difficult VGC battle. What\\nhappened to WILD BATTLES?",
+  "pt": "O sexto desafio da TOADETTE foi\\numa batalha VGC muito difícil.\\nCadê as BATALHAS SELVAGENS?",
+  "max_lines": 3,
+  "max_width": 181
+ },
+ {
+  "offset": "088F607",
+  "en": "TOADETTE's final challenge was an\\nall-out 6v6 battle! She was no match\\nfor you, though!",
+  "pt": "O último desafio da TOADETTE foi\\numa batalha 6v6 com tudo! Mas ela\\nnão foi páreo para você!",
+  "max_lines": 3,
+  "max_width": 200
+ },
+ {
+  "offset": "088F7BD",
+  "en": "After defeating JIMMY T. both on and\\noff the dance floor, he told you the\\nfirst word of the passcode: WARIO",
+  "pt": "Depois de vencer o JIMMY T. dentro e\\nfora da pista, ele contou a primeira\\npalavra da senha: WARIO",
+  "max_lines": 3,
+  "max_width": 202
+ },
+ {
+  "offset": "088F829",
+  "en": "PENNY has turned DIAMOND CITY ACADEMY\\ninto a center for unique battles!\\nShe also gave you this word: GONNA",
+  "pt": "PENNY transformou a DIAMOND CITY\\nACADEMY num centro de batalhas únicas!\\nEla também lhe deu a palavra: VENCE",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088F894",
+  "en": "ASHLEY wasn't too keen on being\\ninvolved in your affairs. After a quick\\nbattle, she gave you this word: WIN",
+  "pt": "ASHLEY não queria se envolver nos\\nseus assuntos. Depois de uma batalha\\nrápida, ela lhe deu a palavra: TUDO",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "088F900",
+  "en": "You defeated WARIO! Time to\\nmove onto the next world.",
+  "pt": "Você derrotou o WARIO! Agora\\nsiga para o próximo mundo.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "088F936",
+  "en": "CLUB SUGAR",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "088F941",
+  "en": "DIAMOND ACADEMY",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "088F951",
+  "en": "ASHLEY'S HOUSE",
+  "pt": "CASA DA ASHLEY",
+  "max_width": 84
+ },
+ {
+  "offset": "088F960",
+  "en": "WARIO WARE",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "088F96B",
+  "en": "RELEARN",
+  "pt": "LEMBRAR",
+  "max_width": 48
+ },
+ {
+  "offset": "088F973",
+  "en": "NICKNAME",
+  "pt": "APELIDO",
+  "max_width": 54
+ },
+ {
+  "offset": "088F97C",
+  "en": "This TM contains\\n{STR_VAR_1}.",
+  "pt": "Este TM contém\\n{STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "088F991",
+  "en": "Red Pill",
+  "pt": "Pílula Verm.",
+  "max_width": 63
+ },
+ {
+  "offset": "088F99A",
+  "en": "Yellow Pill",
+  "pt": "Pílula Amarela",
+  "max_width": 77
+ },
+ {
+  "offset": "088F9A6",
+  "en": "Blue Pill",
+  "pt": "Pílula Azul",
+  "max_width": 67
+ },
+ {
+  "offset": "088F9CE",
+  "en": "Who am I",
+  "pt": "Quem sou eu",
+  "max_width": 66
+ },
+ {
+  "offset": "088F9D7",
+  "en": "Development",
+  "pt": "Bastidores",
+  "max_width": 88
+ },
+ {
+  "offset": "088F9E3",
+  "en": "Fun Fact",
+  "pt": "Curiosidade",
+  "max_width": 69
+ },
+ {
+  "offset": "088F9EC",
+  "en": "Rematch",
+  "pt": "Revanche",
+  "max_width": 66
+ },
+ {
+  "offset": "088F9F4",
+  "en": "Diploma",
+  "pt": "Diploma",
+  "max_width": 62
+ },
+ {
+  "offset": "088F9FC",
+  "en": "1 Space Vertical",
+  "pt": "1 Espaço Vertical",
+  "max_width": 109
+ },
+ {
+  "offset": "088FA0D",
+  "en": "1 Space Diagonal",
+  "pt": "1 Espaço Diagonal",
+  "max_width": 110
+ },
+ {
+  "offset": "088FA34",
+  "en": "Would you like to view your last\\nrecorded battle?",
+  "pt": "Quer ver a última batalha\\ngravada?",
+  "max_lines": 2,
+  "max_width": 173
+ },
+ {
+  "offset": "088FA68",
+  "en": "\\n\\nDirector\\n\\n\\n\\n",
+  "pt": "\\n\\nDireção\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 54
+ },
+ {
+  "offset": "088FA78",
+  "en": "\\n\\n\\nJacob Alpharad\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 88
+ },
+ {
+  "offset": "088FA90",
+  "en": "\\nArt Directors\\n\\n\\n",
+  "pt": "\\nDireção de Arte\\n\\n\\n",
+  "max_lines": 5,
+  "max_width": 80
+ },
+ {
+  "offset": "088FAA4",
+  "en": "\\n\\nJacob Alpharad\\n\\nLux 'CannonsCreative' Thornton\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 174
+ },
+ {
+  "offset": "088FAD8",
+  "en": "Program Leader\\n\\nPlanning Leaders\\n\\n",
+  "pt": "Líder de Prog.\\n\\nLíderes de Plan.\\n\\n",
+  "max_lines": 5,
+  "max_width": 98
+ },
+ {
+  "offset": "088FAFC",
+  "en": "\\nAlaina 'Kobazco' Robsahm\\n\\nAlaina 'Kobazco' Robsahm\\nLux 'CannonsCreative' Thornton\\n",
+  "pt": "",
+  "max_lines": 6,
+  "max_width": 174
+ },
+ {
+  "offset": "088FB50",
+  "en": "Programmers\\n\\n\\n\\n\\n",
+  "pt": "Programação\\n\\n\\n\\n\\n",
+  "max_lines": 6,
+  "max_width": 73
+ },
+ {
+  "offset": "088FB64",
+  "en": "\\nAlaina 'Kobazco' Robsahm\\nPez\\n\\n",
+  "pt": "",
+  "max_lines": 5,
+  "max_width": 138
+ },
+ {
+  "offset": "088FB84",
+  "en": "System Programmers\\n\\n\\n\\n\\n\\n",
+  "pt": "Prog. de Sistema\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 112
+ },
+ {
+  "offset": "088FBA0",
+  "en": "\\nOriginal GAMEFREAK Programmers\\nRHH\\n\\n",
+  "pt": "\\nProg. originais da GAMEFREAK\\nRHH\\n\\n",
+  "max_lines": 5,
+  "max_width": 174
+ },
+ {
+  "offset": "088FBC8",
+  "en": "Sprite Artists\\n\\n\\n\\n\\n\\n",
+  "pt": "Arte de Sprites\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 85
+ },
+ {
+  "offset": "088FBE0",
+  "en": "\\nJordan 'Jordanos' Baker\\nAnima Nel\\nMuno\\nPez\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 133
+ },
+ {
+  "offset": "088FC10",
+  "en": "Midi Sources cont.\\n\\n\\n\\n\\n\\n",
+  "pt": "Fontes Midi (cont.)\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 104
+ },
+ {
+  "offset": "088FC2C",
+  "en": "\\nIngolme\\ntahutoa\\nKing Meteor\\nClaire Ellis\\nMrsonic999\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 70
+ },
+ {
+  "offset": "088FC64",
+  "en": "\\nMidi Sources - Original/Game Rips\\n\\n\\n\\n\\n",
+  "pt": "\\nFontes Midi - Originais/Rips\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 182
+ },
+ {
+  "offset": "088FC8C",
+  "en": "\\n\\nMimi\\nAlaina 'Kobazco' Robsahm\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 138
+ },
+ {
+  "offset": "088FCB0",
+  "en": "Midi Sources taken from vgmusic.com.\\n\\n\\n\\n\\n\\n",
+  "pt": "Fontes Midi tiradas de vgmusic.com.\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 200
+ },
+ {
+  "offset": "088FCDC",
+  "en": "\\nTurret 3471\\nShadrow\\nDave Harris\\nKeith Kosh\\nNerdBoy628\\npsy-commando\\n",
+  "pt": "",
+  "max_lines": 8,
+  "max_width": 82
+ },
+ {
+  "offset": "088FD24",
+  "en": "\\nGame Designers\\n\\n\\n\\n\\n",
+  "pt": "\\nDesign do Jogo\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 88
+ },
+ {
+  "offset": "088FD3C",
+  "en": "\\n\\nLux 'CannonsCreative' Thornton\\nAlaina 'Kobazco' Robsahm\\nPez\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 174
+ },
+ {
+  "offset": "088FD7C",
+  "en": "Midi Sources cont.\\n\\n\\n\\n\\n\\n",
+  "pt": "Fontes Midi (cont.)\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 104
+ },
+ {
+  "offset": "088FD98",
+  "en": "\\nToast\\nDentelle\\nShadow Yoshi\\nMiDi-D\\nAlex Rentz\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 77
+ },
+ {
+  "offset": "088FDC8",
+  "en": "\\nGame Scenario\\n\\n\\n\\n\\n",
+  "pt": "\\nRoteiro\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 82
+ },
+ {
+  "offset": "088FDDC",
+  "en": "\\n\\nLux 'CannonsCreative' Thornton\\nAlaina 'Kobazco' Robsahm\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 174
+ },
+ {
+  "offset": "088FE1C",
+  "en": "Script Designers\\n\\n\\nMap Designers\\n\\n",
+  "pt": "Design de Scripts\\n\\n\\nDesign de Mapas\\n\\n",
+  "max_lines": 6,
+  "max_width": 97
+ },
+ {
+  "offset": "088FE40",
+  "en": "\\nAlaina 'Kobazco' Robsahm\\nLux 'CannonsCreative' Thornton\\n\\nLux 'CannonsCreative' Thornton\\nAlaina 'Kobazco' Robsahm\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 174
+ },
+ {
+  "offset": "088FEB4",
+  "en": "Midi Sources cont.\\n\\n\\n\\n\\n\\n",
+  "pt": "Fontes Midi (cont.)\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 104
+ },
+ {
+  "offset": "088FED0",
+  "en": "\\nWobuffet3\\nCrispy Yoshi\\nJay Reichard\\nYoshimaster\\nSteve1\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 76
+ },
+ {
+  "offset": "088FF0C",
+  "en": "\\n\\nTATTLEDEX Text\\n\\n\\n\\n",
+  "pt": "\\n\\nTexto TATTLEDEX\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 91
+ },
+ {
+  "offset": "088FF24",
+  "en": "\\n\\n\\nLux 'CannonsCreative' Thornton\\nMuno\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 174
+ },
+ {
+  "offset": "088FF50",
+  "en": "CAPTURE Designers\\n\\n\\n\\n\\n\\n",
+  "pt": "Design de CAPTURAS\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 106
+ },
+ {
+  "offset": "088FF68",
+  "en": "\\nJacob Alpharad\\nCaptain Kidd\\nMuno\\nPez\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 88
+ },
+ {
+  "offset": "088FF90",
+  "en": "CAPTURE Designers\\n\\n\\n\\n\\n\\n",
+  "pt": "Design de CAPTURAS\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 106
+ },
+ {
+  "offset": "088FFA8",
+  "en": "\\nJordan 'Jordanos' Baker\\nAlaina 'Kobazco' Robsahm\\nLux 'CannonsCreative' Thornton\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 174
+ },
+ {
+  "offset": "088FFFC",
+  "en": "Midi Sources cont.\\n\\n\\n\\n\\n\\n",
+  "pt": "Fontes Midi (cont.)\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 104
+ },
+ {
+  "offset": "0890018",
+  "en": "\\nlezg-g(Luis712-Zerovolt0v)\\nSam Wolff\\nMysteryMan\\nShadedUmbreon\\nLink75\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 155
+ },
+ {
+  "offset": "0890060",
+  "en": "Supporting Programmers\\n\\n\\n\\n",
+  "pt": "Programação de Apoio\\n\\n\\n\\n",
+  "max_lines": 5,
+  "max_width": 133
+ },
+ {
+  "offset": "089007C",
+  "en": "\\nHaxxi\\nNyxTheShield\\nJay 'iswimfly' Zeller\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 113
+ },
+ {
+  "offset": "08900AC",
+  "en": "\\n\\nPlaytesters\\n\\n\\n\\n",
+  "pt": "\\n\\nTestadores\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 73
+ },
+ {
+  "offset": "08900C0",
+  "en": "\\n\\n\\nPlaytesters\\n\\n\\n",
+  "pt": "\\n\\n\\nTestadores\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 73
+ },
+ {
+  "offset": "08900D4",
+  "en": "Playtesters\\n\\n\\n\\n\\n\\n",
+  "pt": "Testadores\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 73
+ },
+ {
+  "offset": "08900E8",
+  "en": "\\nHelix\\nAbsolBlogsPokemon\\nFiggies\\nPuzzle\\n",
+  "pt": "",
+  "max_lines": 6,
+  "max_width": 108
+ },
+ {
+  "offset": "0890114",
+  "en": "Playtesters\\n\\n\\n\\n\\n\\n",
+  "pt": "Testadores\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 73
+ },
+ {
+  "offset": "0890128",
+  "en": "\\nStrider\\nillumise\\nLilypad\\nEm7ber\\nmangooze\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 58
+ },
+ {
+  "offset": "0890154",
+  "en": "Playtesters\\n\\n\\n\\n\\n\\n",
+  "pt": "Testadores\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 73
+ },
+ {
+  "offset": "0890168",
+  "en": "\\nbrant\\nItsHayden\\nMikey\\nMiniKitty\\nruby\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 64
+ },
+ {
+  "offset": "0890190",
+  "en": "Playtesters\\n\\n\\n\\n\\n\\n",
+  "pt": "Testadores\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 73
+ },
+ {
+  "offset": "08901A4",
+  "en": "\\nthunderscott\\nToastieV\\nsamythril\\nBobbyWasabi\\nCaptain Kidd\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 81
+ },
+ {
+  "offset": "08901E0",
+  "en": "Playtesters\\n\\n\\n\\n\\n\\n",
+  "pt": "Testadores\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 73
+ },
+ {
+  "offset": "08901F4",
+  "en": "\\njaitea\\nDshap\\nVinnyTheKing\\nZack Klein\\nLuis Rivera\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 78
+ },
+ {
+  "offset": "0890228",
+  "en": "Midi Sources cont.\\n\\n\\n\\n\\n\\n",
+  "pt": "Fontes Midi (cont.)\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 104
+ },
+ {
+  "offset": "0890244",
+  "en": "\\nDarkSB24\\nChocolateJake\\ndemon2warrior\\nRainbow Hedgehog\\nGoateeMan\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 101
+ },
+ {
+  "offset": "0890288",
+  "en": "Midi Sources cont.\\n\\n\\n\\n\\n\\n",
+  "pt": "Fontes Midi (cont.)\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 104
+ },
+ {
+  "offset": "08902A4",
+  "en": "\\nSword-Bolt\\nPaper-Luigi\\nAlex Lee\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 71
+ },
+ {
+  "offset": "08902C8",
+  "en": "\\nProducers\\n\\n\\n\\n\\n",
+  "pt": "\\nProdução\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 62
+ },
+ {
+  "offset": "08902D8",
+  "en": "\\n\\nHiroyuki Jinnai\\nTakehiro Izushi\\nHiroaki Tsuru\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 92
+ },
+ {
+  "offset": "089030C",
+  "en": "\\n\\nExecutive Director\\n\\n\\n\\n",
+  "pt": "\\n\\nDireção Executiva\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 109
+ },
+ {
+  "offset": "0890328",
+  "en": "\\n\\n\\nSatoshi Tajiri\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 83
+ },
+ {
+  "offset": "0890340",
+  "en": "\\n\\nExecutive Producer\\n\\n\\n\\n",
+  "pt": "\\n\\nProdução Executiva\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 111
+ },
+ {
+  "offset": "089035C",
+  "en": "\\n\\n\\nJacob Alpharad\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 88
+ },
+ {
+  "offset": "0890374",
+  "en": "\\n\\nExecutive Producer\\n\\n\\n\\n",
+  "pt": "\\n\\nProdução Executiva\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 111
+ },
+ {
+  "offset": "0890390",
+  "en": "\\n\\n\\nTsunekaz Ishihara\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 106
+ },
+ {
+  "offset": "08903A8",
+  "en": "\\nBattle Frontier Testers & Designers\\n\\n\\n\\n\\n",
+  "pt": "\\nTestes e Design da FRONTEIRA\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 199
+ },
+ {
+  "offset": "08903D4",
+  "en": "\\n\\nTerra\\nMintea Sweet\\nEternalnacho\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 79
+ },
+ {
+  "offset": "08903F8",
+  "en": "\\nTranslator\\n\\nText Editor\\n\\n\\n",
+  "pt": "\\nTradução\\n\\nRevisão\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 70
+ },
+ {
+  "offset": "0890414",
+  "en": "\\n\\nNob Ogasawara\\n\\nTeresa Lillygren\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 95
+ },
+ {
+  "offset": "0890438",
+  "en": "Programmers\\n\\n\\n\\n\\n\\n",
+  "pt": "Programação\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 73
+ },
+ {
+  "offset": "089044C",
+  "en": "\\nTeruki Murakawa\\nSouichi Yamamoto\\nYuichiro Ito\\nAkira Kinashi\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 99
+ },
+ {
+  "offset": "089048C",
+  "en": "\\nEnvironment & Tool Programmers\\n\\n\\n\\n\\n",
+  "pt": "\\nProg. de Ambiente e Ferramentas\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 174
+ },
+ {
+  "offset": "08904B4",
+  "en": "\\n\\nTeruki Murakawa\\nSouichi Yamamoto\\nKimiko Nakamichi\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 99
+ },
+ {
+  "offset": "08904EC",
+  "en": "Special Thanks - Sprite Art References\\n\\n\\n\\n\\n\\n",
+  "pt": "Agradecimentos - Ref. de Sprites\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 208
+ },
+ {
+  "offset": "089051C",
+  "en": "\\nHGResinDesigns\\n\\n\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 90
+ },
+ {
+  "offset": "0890534",
+  "en": "Braille Code Check\\n\\n\\n\\n\\n\\n",
+  "pt": "Revisão do Braille\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 105
+ },
+ {
+  "offset": "0890550",
+  "en": "\\nNational Federation\\n{CLEAR_TO 13}of the Blind\\nPatricia A. Maurer\\nJapan Braille Library\\nEuropean Blind Union\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 119
+ },
+ {
+  "offset": "08905B4",
+  "en": "\\nBraille Code Check\\n\\n\\n\\n\\n",
+  "pt": "\\nRevisão do Braille\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 105
+ },
+ {
+  "offset": "08905D0",
+  "en": "\\n\\nNational Information Library\\n{CLEAR_TO 2D}Service\\nMargaret Campion\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 161
+ },
+ {
+  "offset": "0890610",
+  "en": "Special Thanks\\n\\n\\n\\n\\n\\n",
+  "pt": "Agradecimentos\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 87
+ },
+ {
+  "offset": "0890628",
+  "en": "\\nPokeemerald feature devs\\nPokeemerald Decomp\\nbrin\\nAudrey Helen Berlin\\nAbby Canton\\n",
+  "pt": "\\nDevs Pokeemerald\\nPokeemerald Decomp\\nbrin\\nAudrey Helen Berlin\\nAbby Canton\\n",
+  "max_lines": 7,
+  "max_width": 144
+ },
+ {
+  "offset": "089067C",
+  "en": "Special Thanks\\n\\n\\n\\n\\n\\n",
+  "pt": "Agradecimentos\\n\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 87
+ },
+ {
+  "offset": "0890694",
+  "en": "\\nAlec Silverman & Chloe\\nbigogan\\nahumanpersonwho\\nK32trel\\nVivillain\\ntoxiquid",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 125
+ },
+ {
+  "offset": "08906E0",
+  "en": "\\nBraille Code Check\\n\\n\\n\\n\\n",
+  "pt": "\\nRevisão do Braille\\n\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 105
+ },
+ {
+  "offset": "08906FC",
+  "en": "\\n\\nThe Royal New Zealand\\nFoundation of the Blind\\nGreg Moran\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 133
+ },
+ {
+  "offset": "089073C",
+  "en": "\\n\\nGraphic Designer\\n\\n\\n\\n",
+  "pt": "\\n\\nDesign Gráfico\\n\\n\\n\\n",
+  "max_lines": 7,
+  "max_width": 97
+ },
+ {
+  "offset": "0890754",
+  "en": "\\n\\n\\nAkira Kinashi\\n\\n\\n",
+  "pt": "",
+  "max_lines": 7,
+  "max_width": 78
+ },
+ {
+  "offset": "0890769",
+  "en": "SUPER MARIOMON",
+  "pt": "",
+  "max_width": 87
+ },
+ {
+  "offset": "0895EAC",
+  "en": "Œî    yj l",
+  "pt": "",
+  "max_width": 68
+ },
+ {
+  "offset": "08C85A4",
+  "en": "SELECT",
+  "pt": "ESCOLHA",
+  "max_width": 42
+ },
+ {
+  "offset": "08C85AB",
+  "en": "LIST",
+  "pt": "LISTA",
+  "max_width": 30
+ },
+ {
+  "offset": "08C85B0",
+  "en": "Name",
+  "pt": "Nome",
+  "max_width": 48
+ },
+ {
+  "offset": "08C85B5",
+  "en": "Type",
+  "pt": "Tipo",
+  "max_width": 48
+ },
+ {
+  "offset": "08C85BA",
+  "en": "Amount",
+  "pt": "Quantia",
+  "max_width": 60
+ },
+ {
+  "offset": "08C8AD8",
+  "en": "There's nothing to sort!",
+  "pt": "Não há nada para ordenar!",
+  "max_width": 150
+ },
+ {
+  "offset": "08C8AF1",
+  "en": "You already have too\\nmany items registered!",
+  "pt": "Você já registrou\\nitens demais!",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "08C8B35",
+  "en": "Sort items how?",
+  "pt": "Ordenar como?",
+  "max_width": 105
+ },
+ {
+  "offset": "08C8B45",
+  "en": "name",
+  "pt": "nome",
+  "max_width": 48
+ },
+ {
+  "offset": "08C8B4A",
+  "en": "type",
+  "pt": "tipo",
+  "max_width": 48
+ },
+ {
+  "offset": "08C8B4F",
+  "en": "amount",
+  "pt": "quantia",
+  "max_width": 60
+ },
+ {
+  "offset": "08C8B56",
+  "en": "Items sorted by {STR_VAR_1}!",
+  "pt": "Itens ordenados por {STR_VAR_1}!",
+  "max_width": 156
+ },
+ {
+  "offset": "08CB9D4",
+  "en": "{STR_VAR_1}'s base points\\nwere all reset to zero!{PAUSE_UNTIL_PRESS}",
+  "pt": "Os pontos base de\\n{STR_VAR_1} foram zerados!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "08CBABE",
+  "en": "Would you like to change {STR_VAR_1}'s\\nability to {STR_VAR_2}?",
+  "pt": "Quer mudar a habilidade de\\n{STR_VAR_1} para {STR_VAR_2}?",
+  "max_lines": 2,
+  "max_width": 190
+ },
+ {
+  "offset": "08CBAEB",
+  "en": "{STR_VAR_1}'s ability became\\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}",
+  "pt": "A habilidade de {STR_VAR_1}\\nvirou {STR_VAR_2}!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08CBB05",
+  "en": "Would you like to change {STR_VAR_1}'s\\nability to {STR_VAR_2}?",
+  "pt": "Quer mudar a habilidade de\\n{STR_VAR_1} para {STR_VAR_2}?",
+  "max_lines": 2,
+  "max_width": 190
+ },
+ {
+  "offset": "08CBB32",
+  "en": "{STR_VAR_1}'s ability became\\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}",
+  "pt": "A habilidade de {STR_VAR_1}\\nvirou {STR_VAR_2}!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08CBB4C",
+  "en": "It might affect {STR_VAR_1}'s stats.\\nAre you sure you want to use it?",
+  "pt": "Isso pode afetar os atributos de\\n{STR_VAR_1}. Quer mesmo usar?",
+  "max_lines": 2,
+  "max_width": 182
+ },
+ {
+  "offset": "08CBB89",
+  "en": "{STR_VAR_1}'s stats may have changed due\\nto the effects of the {STR_VAR_2}!{PAUSE_UNTIL_PRESS}",
+  "pt": "Os atributos de {STR_VAR_1} podem ter\\nmudado pelo efeito de {STR_VAR_2}!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "08CDAF8",
+  "en": "Berry Program Update",
+  "pt": "Atualizar Frutas",
+  "max_width": 134
+ },
+ {
+  "offset": "08CDB0D",
+  "en": "Ruby/Sapphire",
+  "pt": "",
+  "max_width": 99
+ },
+ {
+  "offset": "08CDB1B",
+  "en": "Emerald",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "08CDB23",
+  "en": "The Berry Program on your POKéMON\\nRuby/Sapphire Game Pak will be updated.\\n{COLOR 04}{SHADOW 05}Press the A Button.",
+  "pt": "O Programa de Frutas do seu Game Pak\\nPOKéMON Ruby/Sapphire será atualizado.\\n{COLOR 04}{SHADOW 05}Aperte o Botão A.",
+  "max_lines": 3,
+  "max_width": 208
+ },
+ {
+  "offset": "08CDB87",
+  "en": "Please ensure the connection of your\\nGame Boy Advance system matches this.\\n{COLOR 04}{SHADOW 05}YES: Press the A Button.\\nNO: Turn off the power and try again.",
+  "pt": "Confira se a conexão do seu Game Boy\\nAdvance está igual a esta.\\n{COLOR 04}{SHADOW 05}SIM: Aperte o Botão A.\\nNÃO: Desligue e tente de novo.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "08CDC17",
+  "en": "Please turn on the power of POKéMON\\nRuby/Sapphire while holding START and\\nSELECT simultaneously. Then, ensure\\nthe picture above appears.",
+  "pt": "Ligue o POKéMON Ruby/Sapphire\\nsegurando START e SELECT ao mesmo\\ntempo. Depois, confira se a imagem\\nacima aparece.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "08CDCA0",
+  "en": "Transmitting. Please wait.\\n{COLOR 04}{SHADOW 05}Please do not turn off the power or\\nunplug the Game Boy Advance Game\\nLink Cable.",
+  "pt": "Transmitindo. Aguarde.\\n{COLOR 04}{SHADOW 05}Não desligue o aparelho nem\\ndesconecte o Cabo Game Link do\\nGame Boy Advance.",
+  "max_lines": 4,
+  "max_width": 194
+ },
+ {
+  "offset": "08CDD12",
+  "en": "Please follow the instructions on your\\nPOKéMON Ruby/Sapphire screen.",
+  "pt": "Siga as instruções na tela do\\nseu POKéMON Ruby/Sapphire.",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "08CDD57",
+  "en": "Transmission failure.\\n{COLOR 04}{SHADOW 05}Please try again.",
+  "pt": "Falha na transmissão.\\n{COLOR 04}{SHADOW 05}Tente de novo.",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "08CDE5D",
+  "en": "Pounds the foe with\\nforelegs or tail.",
+  "pt": "Golpeia o alvo com\\npatas ou cauda.",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "08CDE83",
+  "en": "A chopping attack with a\\nhigh critical-hit ratio.",
+  "pt": "Golpe cortante com\\nalta taxa de crítico.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "08CDEB5",
+  "en": "Repeatedly slaps the foe\\n2 to 5 times.",
+  "pt": "Estapeia o alvo de\\n2 a 5 vezes seguidas.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08CDEDC",
+  "en": "Repeatedly punches the foe\\n2 to 5 times.",
+  "pt": "Soca o alvo de 2 a 5\\nvezes seguidas.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08CDF05",
+  "en": "A strong punch thrown with\\nincredible power.",
+  "pt": "Um soco forte, dado com\\nincrível poder.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08CDF32",
+  "en": "Throws coins at the foe.\\nMoney is recovered after.",
+  "pt": "Joga moedas no alvo.\\nO dinheiro é recuperado.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08CDF65",
+  "en": "A fiery punch that may burn\\nthe foe.",
+  "pt": "Soco flamejante que pode\\nqueimar o alvo.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08CDF8A",
+  "en": "An icy punch that may\\nleave the foe with frostbite.",
+  "pt": "Soco gélido que pode\\ncausar geladura no alvo.",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "08CDFBE",
+  "en": "An electrified punch that\\nmay paralyze the foe.",
+  "pt": "Soco elétrico que pode\\nparalisar o alvo.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08CDFEE",
+  "en": "Scratches the foe with\\nsharp claws.",
+  "pt": "Arranha o alvo com\\ngarras afiadas.",
+  "max_lines": 2,
+  "max_width": 130
+ },
+ {
+  "offset": "08CE012",
+  "en": "Grips the foe with large and\\npowerful pincers.",
+  "pt": "Prende o alvo com pinças\\ngrandes e poderosas.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08CE041",
+  "en": "A powerful pincer attack\\nthat may cause fainting.",
+  "pt": "Pinçada poderosa que\\npode nocautear.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08CE073",
+  "en": "A 2-turn move that strikes\\nthe foe on the 2nd turn.",
+  "pt": "Golpe de 2 turnos; ataca\\nno segundo turno.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08CE0A7",
+  "en": "A fighting dance that\\nsharply raises Attack.",
+  "pt": "Dança de luta que\\naumenta muito o Ataque.",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "08CE0D4",
+  "en": "Cuts the foe with sharp\\nscythes, claws, etc.",
+  "pt": "Corta o alvo com foices,\\ngarras etc.",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "08CE101",
+  "en": "Strikes the foe with a gust\\nof wind whipped up by wings.",
+  "pt": "Atinge o alvo com uma\\nrajada de vento das asas.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08CE13A",
+  "en": "Strikes the foe with wings\\nspread wide.",
+  "pt": "Atinge o alvo com as\\nasas bem abertas.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08CE162",
+  "en": "Blows away the foe with\\nwind and ends the battle.",
+  "pt": "Sopra o alvo para longe\\ne encerra a batalha.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08CE194",
+  "en": "Flies up on the first turn,\\nthen strikes the next turn.",
+  "pt": "Voa num turno e ataca\\nno turno seguinte.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08CE1CC",
+  "en": "Binds and squeezes the foe\\nfor 4 or 5 turns.",
+  "pt": "Prende e aperta o alvo\\npor 4 ou 5 turnos.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "08CE1F9",
+  "en": "Slams the foe with a long\\ntail, vine, etc.",
+  "pt": "Golpeia o alvo com cauda\\nlonga, cipó etc.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08CE224",
+  "en": "Strikes the foe with\\nslender, whiplike vines.",
+  "pt": "Açoita o alvo com\\ncipós finos.",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "08CE252",
+  "en": "Stomps the enemy with a big\\nfoot. May cause flinching.",
+  "pt": "Pisa no alvo com um pé\\nenorme. Pode fazer recuar.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08CE289",
+  "en": "A double-kicking attack\\nthat strikes the foe twice.",
+  "pt": "Chute duplo que atinge\\no alvo duas vezes.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "08CE2BD",
+  "en": "An extremely powerful kick\\nwith intense force.",
+  "pt": "Um chute poderosíssimo\\ne muito intenso.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08CE2EC",
+  "en": "A strong jumping kick. May\\nmiss and hurt the kicker.",
+  "pt": "Chute com salto forte.\\nSe errar, fere o usuário.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08CE321",
+  "en": "A fast kick delivered from\\na rapid spin.",
+  "pt": "Chute rápido dado\\nnum giro veloz.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08CE34A",
+  "en": "Reduces the foe's accuracy\\nby hurling sand in its face.",
+  "pt": "Joga areia na cara do\\nalvo e reduz a precisão.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08CE382",
+  "en": "A ramming attack that may\\ncause flinching.",
+  "pt": "Investida que pode\\nfazer o alvo recuar.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08CE3AD",
+  "en": "Jabs the foe with sharp\\nhorns.",
+  "pt": "Fere o alvo com\\nchifres afiados.",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "08CE3CC",
+  "en": "Jabs the foe 2 to 5 times\\nwith sharp horns, etc.",
+  "pt": "Fere o alvo de 2 a 5\\nvezes com chifres etc.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08CE3FD",
+  "en": "A one-hit KO attack that\\nuses a horn like a drill.",
+  "pt": "Nocaute num só golpe\\ncom chifre-broca.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08CE430",
+  "en": "Charges the foe with a full-\\nbody tackle.",
+  "pt": "Investe contra o alvo\\ncom o corpo todo.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08CE45A",
+  "en": "A full-body slam that may\\ncause paralysis.",
+  "pt": "Golpe com o corpo todo\\nque pode paralisar.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08CE485",
+  "en": "Wraps and squeezes the foe\\n4 or 5 times with vines, etc.",
+  "pt": "Enrola e aperta o alvo\\n4 ou 5 vezes com cipós.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08CE4BE",
+  "en": "A reckless charge attack\\nthat also hurts the user.",
+  "pt": "Investida imprudente que\\ntambém fere o usuário.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08CE4F1",
+  "en": "A rampage of 2 to 3 turns\\nthat confuses the user.",
+  "pt": "Fúria de 2 a 3 turnos\\nque confunde o usuário.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08CE523",
+  "en": "A life-risking tackle that\\nalso hurts the user.",
+  "pt": "Investida arriscada que\\ntambém fere o usuário.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08CE553",
+  "en": "Wags the tail to lower the\\nfoe's Defense.",
+  "pt": "Abana a cauda para\\nreduzir a Defesa do alvo.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08CE57D",
+  "en": "A toxic attack with barbs,\\netc., that may poison.",
+  "pt": "Ataque tóxico com ferrões\\nque pode envenenar.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08CE5AF",
+  "en": "Stingers on the forelegs\\njab the foe twice.",
+  "pt": "Ferrões nas patas furam\\no alvo duas vezes.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08CE5DB",
+  "en": "Sharp pins are fired to\\nstrike 2 to 5 times.",
+  "pt": "Dispara agulhas que\\natingem de 2 a 5 vezes.",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "08CE608",
+  "en": "Frightens the foe with a\\nleer to lower Defense.",
+  "pt": "Assusta o alvo com um\\nolhar e reduz a Defesa.",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "08CE638",
+  "en": "Bites with vicious fangs.\\nMay cause flinching.",
+  "pt": "Morde com presas cruéis.\\nPode fazer recuar.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08CE667",
+  "en": "Growls cutely to reduce the\\nfoe's Attack.",
+  "pt": "Rosna de modo fofo para\\nreduzir o Ataque do alvo.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08CE691",
+  "en": "Makes the foe flee to end\\nthe battle.",
+  "pt": "Faz o alvo fugir e\\nencerra a batalha.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08CE6B7",
+  "en": "A soothing song lulls the\\nfoe into a deep slumber.",
+  "pt": "Uma canção suave faz o\\nalvo dormir profundamente.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08CE6EA",
+  "en": "Emits bizarre sound waves\\nthat may confuse the foe.",
+  "pt": "Emite ondas sonoras\\nque podem confundir.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08CE71E",
+  "en": "Launches shock waves that\\nalways inflict 20 HP damage.",
+  "pt": "Lança ondas de choque que\\nsempre causam 20 de dano.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08CE755",
+  "en": "Psychically disables one of\\nthe foe's moves.",
+  "pt": "Bloqueia com a mente um\\ndos golpes do alvo.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08CE782",
+  "en": "Sprays a hide-melting acid.\\nMay lower Defense.",
+  "pt": "Borrifa um ácido corrosivo.\\nPode reduzir a Defesa.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08CE7B1",
+  "en": "A weak fire attack that may\\ninflict a burn.",
+  "pt": "Ataque de fogo fraco\\nque pode queimar.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08CE7DD",
+  "en": "A powerful fire attack that\\nmay inflict a burn.",
+  "pt": "Ataque de fogo forte\\nque pode queimar.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08CE80D",
+  "en": "Creates a mist that stops\\nreduction of abilities.",
+  "pt": "Cria uma névoa que impede\\na redução de atributos.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08CE83F",
+  "en": "Squirts water to attack\\nthe foe.",
+  "pt": "Esguicha água para\\natacar o alvo.",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "08CE860",
+  "en": "Blasts water at high power\\nto strike the foe.",
+  "pt": "Dispara água com muita\\nforça contra o alvo.",
+  "max_lines": 2,
+  "max_width": 148
+ }
+]

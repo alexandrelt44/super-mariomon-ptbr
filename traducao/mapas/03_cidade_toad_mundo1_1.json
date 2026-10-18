@@ -1,0 +1,733 @@
+[
+ {
+  "map": "2.1 TOAD TOWN",
+  "offset": "02BBCAC",
+  "en": "That PC in the corner there is\\nfor any POKéMON TRAINER to use.\\pNaturally, that means you're welcome\\nto use it, too.",
+  "pt": "Aquele PC ali no canto é para qualquer TREINADOR usar.\\pOu seja, você também pode usar, claro."
+ },
+ {
+  "map": "2.1 TOAD TOWN",
+  "offset": "02BBD20",
+  "en": "POKéMON CENTERS are great!\\pYou can use their services as much\\nas you like, and it's all for free.\\lYou never have to worry!",
+  "pt": "Os CENTROS CAPTURA são ótimos!\\pVocê pode usar os serviços quanto quiser, e é tudo de graça. Nunca precisa se preocupar!"
+ },
+ {
+  "map": "2.1 TOAD TOWN",
+  "offset": "02BBD9B",
+  "en": "The POKéMON WIRELESS CLUB on\\nthe second floor was built recently.\\pBut they say they're still making\\nadjustments.",
+  "pt": "O CLUBE SEM FIO do segundo andar foi construído há pouco tempo.\\pMas dizem que ainda estão fazendo ajustes."
+ },
+ {
+  "map": "2.1 TOAD TOWN",
+  "offset": "02BBE0C",
+  "en": "The POKéMON WIRELESS CLUB on\\nthe second floor was built recently.\\pI traded POKéMON right away.",
+  "pt": "O CLUBE SEM FIO do segundo andar foi construído há pouco tempo.\\pEu troquei CAPTURAS na mesma hora."
+ },
+ {
+  "map": "2.2 TOAD TOWN",
+  "offset": "02BBF27",
+  "en": "I'm going to buy a bunch of POKé BALLS\\nand catch a bunch of POKéMON!",
+  "pt": "Vou comprar um monte de CAPs e pegar um monte de CAPTURAS!"
+ },
+ {
+  "map": "2.2 TOAD TOWN",
+  "offset": "02BBF6C",
+  "en": "If a POKéMON gets hurt and loses its HP\\nand faints, it won't be able to battle.\\pTo prevent your POKéMON from fainting,\\nrestore its HP with a POTION.",
+  "pt": "Se uma CAPTURA se machucar, perder o HP e desmaiar, ela não vai poder batalhar.\\pPara evitar que suas CAPTURAS desmaiem, recupere o HP delas com um COGUMELO."
+ },
+ {
+  "map": "2.2 TOAD TOWN",
+  "offset": "02EC590",
+  "en": "Welcome!\\pHow may I serve you?",
+  "pt": "Bem-vindo!\\pEm que posso ajudar?"
+ },
+ {
+  "map": "2.2 TOAD TOWN",
+  "offset": "02EC5AE",
+  "en": "Please come again!",
+  "pt": "Volte sempre!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCD3A",
+  "en": "It seems this pipe is currently\\nundergoing maintenance.",
+  "pt": "Parece que este cano está em manutenção."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCD72",
+  "en": "This WARP PIPE will take you to WORLD 2.\\nTake it?",
+  "pt": "Este CANO WARP leva ao MUNDO 2. Quer entrar?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCDA4",
+  "en": "This WARP PIPE will take you to WORLD 5.\\nTake it?",
+  "pt": "Este CANO WARP leva ao MUNDO 5. Quer entrar?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCDDC",
+  "en": "Where's the leak, ma'am?",
+  "pt": "Cadê o vazamento, senhora?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCDF5",
+  "en": "This WARP PIPE will take you to WORLD 6.\\nTake it?",
+  "pt": "Este CANO WARP leva ao MUNDO 6. Quer entrar?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCE27",
+  "en": "You probably shouldn't try to use this\\npipe…",
+  "pt": "Acho melhor não tentar usar este cano…"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCE54",
+  "en": "This WARP PIPE will take you to WORLD 7.\\nTake it?",
+  "pt": "Este CANO WARP leva ao MUNDO 7. Quer entrar?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCE86",
+  "en": "This WARP PIPE will take you to BOWSER'S\\nCASTLE. Take it?",
+  "pt": "Este CANO WARP leva ao CASTELO DO BOWSER. Quer entrar?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCEC0",
+  "en": "Under construction",
+  "pt": "Em obras"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCED3",
+  "en": "This WARP PIPE will take you to WORLD 3.\\nTake it?",
+  "pt": "Este CANO WARP leva ao MUNDO 3. Quer entrar?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCF05",
+  "en": "There's a rock blocking the pipe's\\nentrance.",
+  "pt": "Tem uma pedra bloqueando a entrada do cano."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCF32",
+  "en": "This WARP PIPE will take you to WORLD 4.\\nTake it?",
+  "pt": "Este CANO WARP leva ao MUNDO 4. Quer entrar?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCF64",
+  "en": "There's a rock blocking this pipe's\\nentrance.",
+  "pt": "Tem uma pedra bloqueando a entrada deste cano."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCF96",
+  "en": "MARIO, there you are!",
+  "pt": "MARIO, aí está você!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCFAC",
+  "en": "E. GADD",
+  "pt": "E. GADD",
+  "max_width": 42
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCFB4",
+  "en": "Whew… Caught up to you again. You're\\nreally making quick work of these\\lWORLDS, eh boy? At least I know I can\\lalways catch you at a WARP ZONE.\\lSpeaking of, the topic of WARP ZONEs is\\lprecisely why I'm here! I want you to\\lhave this, MARIO.",
+  "pt": "Ufa… Alcancei você de novo. Você está passando por esses MUNDOS num piscar de olhos, hein, rapaz? Pelo menos sei que sempre posso te encontrar numa ZONA WARP. Por falar nisso, é justamente por causa das ZONAS WARP que eu vim! Quero que fique com isto, MARIO."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD0A2",
+  "en": "That right there is a PORTABLE WARP\\nPIPE! It'll take you to the WARP ZONE of\\lany place that has one! Not only that,\\lbut it can even take you to places\\lwithout a WARP ZONE! Aren't my\\linventions just wonderful?",
+  "pt": "Isso aí é um CANO WARP PORTÁTIL! Ele leva você à ZONA WARP de qualquer lugar que tenha uma! E não é só isso: ele leva até a lugares sem ZONA WARP! Minhas invenções não são maravilhosas?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD173",
+  "en": "Anyways, do you know where you're going\\nnext? I hear the warps for both WORLD 3\\lAND 4 are up and running! Choose\\lwhichever you like!",
+  "pt": "Enfim, já sabe aonde vai agora? Ouvi dizer que os warps do MUNDO 3 E do 4 estão funcionando! Escolha o que preferir!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD200",
+  "en": "WORLD 4",
+  "pt": "MUNDO 4",
+  "max_width": 45
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD20F",
+  "en": "So MARIO thinks he can beat us by going\\nto {STR_VAR_2} first?\\pHA! He doesn't know that\\n{STR_VAR_3} is quicker to go\\lthrough! He's going to be mighty\\lsurprised when he returns!\\pKAMEK!",
+  "pt": "Então o MARIO acha que pode nos vencer indo primeiro para {STR_VAR_2}?\\pHA! Ele não sabe que {STR_VAR_3} é mais rápido de atravessar! Ele vai ter uma bela surpresa quando voltar!\\pKAMEK!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD2B4",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD2BA",
+  "en": "Yes, your ugliness?",
+  "pt": "Sim, Vossa Feiura?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD2CE",
+  "en": "Destroy this warp pipe!",
+  "pt": "Destrua este cano warp!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD2E6",
+  "en": "With gusto, my liege!",
+  "pt": "Com todo o prazer, meu soberano!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD2FC",
+  "en": "BOTH",
+  "pt": "AMBOS",
+  "max_width": 30
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD301",
+  "en": "BAHAHAHAHA!",
+  "pt": "BAHAHAHAHA!",
+  "max_width": 70
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD30D",
+  "en": "KAMEK! Onwards to {STR_VAR_3}!",
+  "pt": "KAMEK! Rumo a {STR_VAR_3}!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD323",
+  "en": "…KAMEK?",
+  "pt": "…KAMEK?",
+  "max_width": 48
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD32B",
+  "en": "Yes, my horridness?",
+  "pt": "Sim, Vossa Medonhice?"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD33F",
+  "en": "Prepare the airship for\\n{STR_VAR_3}…",
+  "pt": "Prepare a aeronave para {STR_VAR_3}…"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD35B",
+  "en": "Welcome to the WARP ZONE! Please see\\nthe signs next to the pipes for\\linformation on where they lead.",
+  "pt": "Bem-vindo à ZONA WARP! Veja as placas ao lado dos canos para saber aonde cada um leva."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD3C0",
+  "en": "← CLOUD CAP {F9 D1} PEACH'S CASTLE →",
+  "pt": "← CLOUD CAP {F9 D1} CASTELO DA PEACH →"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD3E0",
+  "en": "← COMET OBSERVATORY {F9 D1} CLOUD CAP →",
+  "pt": "← COMET OBSERVATORY {F9 D1} CLOUD CAP →"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD403",
+  "en": "← WORLD 2 {F9 D1} WORLD 3 →",
+  "pt": "← MUNDO 2 {F9 D1} MUNDO 3 →"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD41A",
+  "en": "← WORLD 3 {F9 D1} WORLD 4 →",
+  "pt": "← MUNDO 3 {F9 D1} MUNDO 4 →"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD431",
+  "en": "← WORLD 4 {F9 D1} WORLD 5 →",
+  "pt": "← MUNDO 4 {F9 D1} MUNDO 5 →"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD448",
+  "en": "← WORLD 5 {F9 D1} WORLD 6 →",
+  "pt": "← MUNDO 5 {F9 D1} MUNDO 6 →"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD45F",
+  "en": "← WORLD 6 {F9 D1} WORLD 8 →",
+  "pt": "← MUNDO 6 {F9 D1} MUNDO 8 →"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD476",
+  "en": "← TOWNS",
+  "pt": "← VILAS",
+  "max_width": 46
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD47E",
+  "en": "TOWNS →",
+  "pt": "VILAS →",
+  "max_width": 46
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD4C0",
+  "en": "Hey, bro, wait up!",
+  "pt": "Ei, mano, espera aí!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD4D9",
+  "en": "Whew, I finally caught up to you.\\pMARIO, let's have a friendly battle\\nbefore heading to WORLD 2!",
+  "pt": "Ufa, finalmente te alcancei.\\pMARIO, vamos fazer uma batalha amistosa antes de ir pro MUNDO 2!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD5A1",
+  "en": "I'm not surprised I didn't win this time,\\nbro. You're always super good at PARTY\\lGAMES! That just means I need to find\\lsome more friends to train up! I'll\\lcatch you later!",
+  "pt": "Não me surpreende eu não ter ganhado dessa vez, mano. Você sempre manda muito bem em jogos de festa! Isso só quer dizer que preciso achar mais amigos pra treinar! Até mais!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD64D",
+  "en": "Sorry, the warp is closed for now.",
+  "pt": "Desculpe, a passagem está fechada por enquanto."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD670",
+  "en": "MARIO! Boy, am I glad to see you! I've\\njust about finished up here. You should\\lbe able to go to {STR_VAR_1} in just\\la moment.",
+  "pt": "MARIO! Rapaz, que bom te ver! Estou quase terminando aqui. Daqui a pouquinho você vai poder ir para {STR_VAR_1}."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD6E5",
+  "en": "Hey MARIO. We're trying to get the warp\\nto {STR_VAR_2} fixed, but it may\\ltake a while… Why don't you go explore\\lthe other world and we'll hopefully be\\ldone when you get back.",
+  "pt": "Oi, MARIO. Estamos tentando consertar o warp para {STR_VAR_2}, mas pode demorar… Por que não vai explorar o outro mundo? Com sorte, vamos ter terminado quando você voltar."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD78B",
+  "en": "WAIT JUST A MINUTE!!!",
+  "pt": "ESPERE AÍ UM MINUTO!!!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD7A1",
+  "en": "Huff… puff…",
+  "pt": "Arf… arf…"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD7AD",
+  "en": "I, KAMEK, can't allow you to do that!\\pLORD BOWSER has tasked me with\\nensuring you don't repair this warp\\lpipe, and I won't let HIS BURLINESS\\ldown!",
+  "pt": "Eu, KAMEK, não posso permitir isso!\\pO LORDE BOWSER me encarregou de garantir que você não conserte este cano warp, e eu não vou decepcionar SUA PARRUDEZ!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD84D",
+  "en": "No way… LORD BOWSER is going to kill me…",
+  "pt": "Não acredito… O LORDE BOWSER vai me matar…"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD876",
+  "en": "Don't think this is over, MARIO! I'll let\\nyou go this time, as I need to think up\\lof an excuse to tell LORD BOWSER so I\\ldon't get into trouble!",
+  "pt": "Não pense que acabou, MARIO! Vou deixar você ir desta vez, porque preciso inventar uma desculpa pro LORDE BOWSER pra não me meter em encrenca!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD906",
+  "en": "Well that was… weird.",
+  "pt": "Bom, isso foi… estranho."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD91C",
+  "en": "Let me just get this warp pipe all fixed\\nup then.",
+  "pt": "Deixa só eu terminar de consertar este cano warp, então."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD94E",
+  "en": "There you go, MARIO! That warp pipe\\nshould be all fixed up. Good luck out\\lthere!",
+  "pt": "Prontinho, MARIO! Esse cano warp já deve estar consertado. Boa sorte lá fora!"
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD99F",
+  "en": "MARIO!",
+  "pt": "MARIO!",
+  "max_width": 40
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BD9A6",
+  "en": "Before you go, I should let you know\\nthat the WARP PIPE isn't working\\lproperly.\\pInstead of going to the METRO KINGDOM,\\nit's currently going to the SAND\\lKINGDOM. I have some other plumbers\\lcoming over to fix it because I know\\lyou're busy with the C.A.P. CHALLENGE.\\pYou can still get to the METRO KINGDOM\\nby passing through SAND KINGDOM, but\\lyou'll have to cross the desert first.\\pGood luck!",
+  "pt": "Antes de você ir, preciso avisar que o CANO WARP não está funcionando direito.\\pEm vez de ir para o METRO KINGDOM, ele está indo para o SAND KINGDOM. Chamei outros encanadores pra consertar, porque sei que você está ocupado com o DESAFIO C.A.P.\\pVocê ainda pode chegar ao METRO KINGDOM passando pelo SAND KINGDOM, mas vai ter que atravessar o deserto antes.\\pBoa sorte!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1B46",
+  "en": "C.A.P. battles sure are intense, aren't\\nthey, MARIO?",
+  "pt": "As batalhas C.A.P. são bem intensas, né, MARIO?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1BBF",
+  "en": "If you run out of CAPs, you can\\npurchase more at the SHOP in town!",
+  "pt": "Se seus CAPs acabarem, você pode comprar mais na LOJA da cidade!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1C35",
+  "en": "I can't believe you're talking to me! In\\n1-2! Ok TOAD, calm down…",
+  "pt": "Não acredito que você está falando comigo! Na 1-2! Calma, TOAD, calma…"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1CAF",
+  "en": "There are 18 TYPES out there, so don't\\nlet people make you believe there are\\lmore!",
+  "pt": "Existem 18 TIPOS por aí, então não deixe ninguém te convencer de que tem mais!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1D19",
+  "en": "Already defeated",
+  "pt": "Já derrotado"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1D61",
+  "en": "Wanna know where you can get my\\nCAPTURES? Check your TATTLEDEX!",
+  "pt": "Quer saber onde achar minhas CAPTURAS? Confira a sua TATTLEDEX!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1DA1",
+  "en": "It seems you can go down this pipe.\\nWould you like to take it?",
+  "pt": "Parece que dá pra descer por este cano. Quer entrar?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1DE0",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1DE6",
+  "en": "Alright bro, let's get going!",
+  "pt": "Muito bem, mano, vamos nessa!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1E04",
+  "en": "Once we get through here, we'll be in\\nTOAD TOWN. It should take no time at\\lall!",
+  "pt": "Depois que passarmos por aqui, vamos estar na CIDADE TOAD. Não vai demorar nada!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1E60",
+  "en": "PROFESSOR E. GADD!\\nWe were just on our way to TOAD TOWN to\\lsee you!\\pWhat's up with the letter the PRINCESS\\nsent us?",
+  "pt": "PROFESSOR E. GADD! A gente estava indo pra CIDADE TOAD falar com você!\\pQue história é essa da carta que a PRINCESA mandou pra gente?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1ED4",
+  "en": "E. GADD",
+  "pt": "E. GADD",
+  "max_width": 42
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1EDC",
+  "en": "Patience, my friend… I'm a bit out of\\nbreath from running here…",
+  "pt": "Paciência, meu amigo… Estou meio sem fôlego de vir correndo até aqui…"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1F1C",
+  "en": "Whew, okay!",
+  "pt": "Ufa, pronto!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1F28",
+  "en": "I WAS going to wait for you two to\\narrive in TOAD TOWN before I explained,\\lbut then I remembered this path was\\lhere!\\pI can't have you two stomping on…\\nKOOPAs and GOOMBAs and the such who\\lare participating in the game!\\pNow then, today,\\nby request of the PRINCESS,\\lI will be introducing you two to the\\lC.A.P. CHALLENGE!\\pIt's a game that has you build a party\\nof allies, or CAPTURES to battle each\\lother!",
+  "pt": "Eu IA esperar vocês dois chegarem à CIDADE TOAD para explicar, mas aí lembrei que este caminho estava aqui!\\pNão posso deixar vocês dois pisando em… KOOPAs, GOOMBAs e companhia que estão participando do jogo!\\pPois bem, hoje, a pedido da PRINCESA, vou apresentar a vocês dois o DESAFIO C.A.P.!\\pÉ um jogo em que você monta uma equipe de aliados, ou CAPTURAS, para batalharem entre si!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C20BA",
+  "en": "Like baseball!",
+  "pt": "Igual beisebol!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C20C9",
+  "en": "Yes LUIGI, just like baseball!\\pLet's go ahead and get you and your\\nbrother started.",
+  "pt": "Isso, LUIGI, igualzinho ao beisebol!\\pVamos logo começar com você e o seu irmão."
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C211D",
+  "en": "Behind me is a {STR_VAR_1},\\n{STR_VAR_2}, and {STR_VAR_3}.\\pSpecies such as these are an integral\\npart of the event the PRINCESS is\\lputting on!\\pI can only give a brief rundown here,\\nbut the PRINCESS will be explaining\\lmore at her castle!",
+  "pt": "Atrás de mim estão {STR_VAR_1}, {STR_VAR_2} e {STR_VAR_3}.\\pEspécies como essas são parte essencial do evento que a PRINCESA está organizando!\\pAqui só posso dar um resumo rápido, mas a PRINCESA vai explicar melhor no castelo dela!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C21EE",
+  "en": "Behind me is a PIRANHA PLANT, BOB-OMB,\\nand BLOOPER.\\pSpecies such as these are an integral\\npart of the event the PRINCESS is\\lputting on!\\pI can only give a brief rundown here,\\nbut the PRINCESS will be explaining\\lmore at her castle!",
+  "pt": "Atrás de mim estão PIRANHA PLANT, BOB-OMB e BLOOPER.\\pEspécies como essas são parte essencial do evento que a PRINCESA está organizando!\\pAqui só posso dar um resumo rápido, mas a PRINCESA vai explicar melhor no castelo dela!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C22D4",
+  "en": "Why should we play, PROFESSOR?",
+  "pt": "Por que a gente deveria jogar, PROFESSOR?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C22F3",
+  "en": "If not because it will be lots of fun,\\nbut because the winner will be granted\\la wish!",
+  "pt": "Se não for porque vai ser muito divertido, que seja porque o vencedor vai ganhar um desejo!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2349",
+  "en": "Did you hear that MARIO? A WISH!",
+  "pt": "Ouviu isso, MARIO? Um DESEJO!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C236A",
+  "en": "But what do the {STR_VAR_1} and\\nothers have to do with this, PROFESSOR?",
+  "pt": "Mas o que {STR_VAR_1} e os outros têm a ver com isso, PROFESSOR?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C23A9",
+  "en": "But what do the PIRANHA PLANT and\\nothers have to do with this, PROFESSOR?",
+  "pt": "Mas o que PIRANHA PLANT e os outros têm a ver com isso, PROFESSOR?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C23F3",
+  "en": "I'm glad you asked, LUIGI.\\pContestants will be splitting\\nthemselves into two categories: those\\lwho command and those who move!\\pYou'll be competing in battles of\\nstrategy, utilizing your CAPTURE's\\lattacks called MOVES!\\pHere, the best way to learn is to just\\njump right into it.\\pGo ahead, pick whichever one you'd like!",
+  "pt": "Que bom que perguntou, LUIGI.\\pOs participantes vão se dividir em duas categorias: os que comandam e os que se movem!\\pVocês vão competir em batalhas de estratégia, usando os ataques das suas CAPTURAS, chamados GOLPES!\\pBom, o melhor jeito de aprender é pondo a mão na massa.\\pVamos, escolha o que você quiser!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2531",
+  "en": "You-a go ahead and choose first, bro. I\\ndon't mind.",
+  "pt": "Pode-a escolher primeiro, mano. Eu não me importo."
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2565",
+  "en": "MARIO! Where are you going?",
+  "pt": "MARIO! Aonde você vai?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2581",
+  "en": "Blooey",
+  "pt": "Blooey"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2594",
+  "en": "You did amazing, {STR_VAR_1}!",
+  "pt": "Você foi incrível, {STR_VAR_1}!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C25A9",
+  "en": "What an excellent battle!",
+  "pt": "Que batalha excelente!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C25C3",
+  "en": "Now then, in order for someone to be a\\npart of your party, they need to wear a\\lspecially designed CAP I've created!\\pThe members you chose already have\\nthem, but you're going to need some\\lmore in the future.\\pHere, they're in this care package.",
+  "pt": "Pois bem, para alguém fazer parte da sua equipe, precisa usar um CAP especial que eu criei!\\pOs membros que vocês escolheram já têm o deles, mas vocês vão precisar de mais no futuro.\\pTomem, estão neste kit de suprimentos."
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C26B6",
+  "en": "MARIO received the care package!\\pInside it…",
+  "pt": "MARIO recebeu o kit de suprimentos!\\pDentro dele…"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C26E2",
+  "en": "These caps will also shrink down your\\nCAPTURES so that they may travel\\lalongside you more easily.\\pInside the care package is also my\\npatent pending TATTLEDEX, where an\\lelite group of researchers and\\lscientists have compiled every\\lCAPTURES strengths, as well as a quippy\\lexcerpt about them!",
+  "pt": "Esses CAPs também encolhem as suas CAPTURAS, para que elas possam viajar com vocês com mais facilidade.\\pNo kit também está a minha TATTLEDEX, com patente pendente, em que um grupo de elite de pesquisadores e cientistas reuniu os pontos fortes de cada CAPTURA, além de um comentário espirituoso sobre elas!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2804",
+  "en": "MARIO also found the TATTLEDEX and the\\nEXP. SHARE!",
+  "pt": "MARIO também encontrou a TATTLEDEX e o COMPARTILHAR EXP.!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2837",
+  "en": "Now then, I suggest you two start\\nheading for the castle as soon as you\\lcan!",
+  "pt": "Bom, sugiro que vocês dois sigam para o castelo assim que puderem!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2884",
+  "en": "Well bro, I'm gonna head off to TOAD\\nTOWN.\\pMaybe I'll see you along the way!",
+  "pt": "Bom, mano, vou indo pra CIDADE TOAD.\\pTalvez a gente se veja pelo caminho!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C28D1",
+  "en": "You can now run around by holding the B\\nbutton!",
+  "pt": "Agora você pode correr segurando o botão B!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2901",
+  "en": "Nicely done, bro!\\pI see you already have a handle on how\\nto use your HAMMER.\\pDon't forget to use it on QUESTION MARK\\nblocks as well!",
+  "pt": "Mandou bem, mano!\\pVejo que você já pegou o jeito de usar o seu MARTELO.\\pNão se esqueça de usá-lo nos blocos de INTERROGAÇÃO também!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2986",
+  "en": "Hey bro, you have your HAMMER on you?",
+  "pt": "Ei, mano, você está com o seu MARTELO aí?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C29AC",
+  "en": "If you do…",
+  "pt": "Se estiver…"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C29B7",
+  "en": "LUIGI used the HAMMER!",
+  "pt": "LUIGI usou o MARTELO!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C29CE",
+  "en": "You can break cracked bricks like\\nthose!\\nPretty neat, huh?\\pWell then, now that I've done my\\nbrotherly duty, I'll be heading onto\\lTOAD TOWN.\\pOh, and don't forget to use your HAMMER\\non QUESTION MARK blocks as well!",
+  "pt": "Dá pra quebrar tijolos rachados assim! Legal, né?\\pBom, agora que cumpri meu dever de irmão, vou seguir pra CIDADE TOAD.\\pAh, e não se esqueça de usar o MARTELO nos blocos de INTERROGAÇÃO também!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2AA3",
+  "en": "1-1 is rather small, don't you think?\\pBut at least things are peaceful…",
+  "pt": "A 1-1 é bem pequena, não acha?\\pMas pelo menos tudo anda tranquilo…"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2AEB",
+  "en": "{FONT 00}yawn",
+  "pt": "{FONT 00}uaaah"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2AF3",
+  "en": "Guarding this entrance is so relaxing…\\pThanks to you of course, MARIO!\\pNobody would ever cause trouble given\\nyour home is right past 1-1!",
+  "pt": "Vigiar esta entrada é tão relaxante…\\pGraças a você, claro, MARIO!\\pNinguém ia arrumar confusão sabendo que a sua casa fica logo depois da 1-1!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2B7D",
+  "en": "I'm out here collecting flowers to sell\\nback at TOAD TOWN's market!",
+  "pt": "Estou colhendo flores pra vender no mercado da CIDADE TOAD!"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2BC1",
+  "en": "OH YEAH\\nLUIGI TIME",
+  "pt": ""
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2BD4",
+  "en": "Jump the block?",
+  "pt": "Pular o bloco?"
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2BE4",
+  "en": "An EXCLAMATION POINT block!\\pSeems like this one doesn't do anything,\\nthough.",
+  "pt": "Um bloco de EXCLAMAÇÃO!\\pMas parece que este não faz nada."
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C2C31",
+  "en": "Seems like this warp pipe isn't working.",
+  "pt": "Parece que este cano warp não está funcionando."
+ },
+ {
+  "map": "2.5 W. 1 UNDERGROUND",
+  "offset": "02C2D6F",
+  "en": "You're… MARIO? Why are you here?",
+  "pt": "Você é… o MARIO? O que está fazendo aqui?"
+ },
+ {
+  "map": "2.5 W. 1 UNDERGROUND",
+  "offset": "02C2D90",
+  "en": "Ah, that doesn't matter. Here, if I heal\\nyour party will you leave me alone?",
+  "pt": "Ah, tanto faz. Olha, se eu curar a sua equipe, você me deixa em paz?"
+ },
+ {
+  "map": "2.5 W. 1 UNDERGROUND",
+  "offset": "02C2DDD",
+  "en": "What's up, MARIO? Need your party\\nhealed again?",
+  "pt": "E aí, MARIO? Quer que eu cure a sua equipe de novo?"
+ },
+ {
+  "map": "2.5 W. 1 UNDERGROUND",
+  "offset": "02C2E0D",
+  "en": "MARIO? What are you doing here?",
+  "pt": "MARIO? O que você está fazendo aqui?"
+ },
+ {
+  "map": "2.5 W. 1 UNDERGROUND",
+  "offset": "02C2E2D",
+  "en": "…What? My grandfather told you I was\\nlost out here? That's ridiculous, how\\lwould anyone get lost in such a small\\lspace?!",
+  "pt": "…Quê? Meu avô disse que eu estava perdido aqui? Que absurdo, como alguém ia se perder num lugar tão pequeno?!"
+ },
+ {
+  "map": "2.5 W. 1 UNDERGROUND",
+  "offset": "02C2EA6",
+  "en": "Oh I get it… They were probably\\nwondering where I wandered off to\\lagain… Here, if I heal your party, will\\lyou leave me alone?",
+  "pt": "Ah, entendi… Devem estar se perguntando pra onde eu fugi de novo… Olha, se eu curar a sua equipe, você me deixa em paz?"
+ }
+]

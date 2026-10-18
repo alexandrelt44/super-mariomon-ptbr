@@ -1,0 +1,683 @@
+[
+ {
+  "offset": "0E95EF2",
+  "en": "RANDOMIZER",
+  "pt": "RANDOMIZADOR",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95EFD",
+  "en": "STARTER CAPTURES",
+  "pt": "INICIAIS",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95F0E",
+  "en": "WILD CAPTURES",
+  "pt": "SELVAGENS",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95F1C",
+  "en": "TRAINER",
+  "pt": "TREINADORES",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95F24",
+  "en": "STATIC CAPTURES",
+  "pt": "FIXOS",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95F34",
+  "en": "BALANCE ON TIERS",
+  "pt": "EQUILÍBRIO",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95F45",
+  "en": "LEGENDARIES",
+  "pt": "LENDÁRIOS",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95F99",
+  "en": "NEXT",
+  "pt": "AVANÇAR",
+  "max_width": 60
+ },
+ {
+  "offset": "0E95F9E",
+  "en": "SAVE",
+  "pt": "SALVAR",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95FCD",
+  "en": "DUPES CLAUSE",
+  "pt": "REGRA REPETIDOS",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95FDA",
+  "en": "SHINY CLAUSE",
+  "pt": "REGRA SHINY",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95FE7",
+  "en": "NICKNAMES",
+  "pt": "APELIDOS",
+  "max_width": 93
+ },
+ {
+  "offset": "0E95FF1",
+  "en": "FAINTING",
+  "pt": "DESMAIO",
+  "max_width": 93
+ },
+ {
+  "offset": "0E96014",
+  "en": "DIFFICULTY",
+  "pt": "DIFICULDADE",
+  "max_width": 93
+ },
+ {
+  "offset": "0E96037",
+  "en": "LEVEL CAP",
+  "pt": "LIMITE NÍVEL",
+  "max_width": 93
+ },
+ {
+  "offset": "0E96041",
+  "en": "LEVEL SCALING",
+  "pt": "AJUSTE NÍVEL",
+  "max_width": 93
+ },
+ {
+  "offset": "0E9605E",
+  "en": "PLAYER ITEMS",
+  "pt": "ITENS JOGADOR",
+  "max_width": 93
+ },
+ {
+  "offset": "0E96079",
+  "en": "PLAYER EVs",
+  "pt": "EVs JOGADOR",
+  "max_width": 93
+ },
+ {
+  "offset": "0E96090",
+  "en": "TRAINER EVs",
+  "pt": "EVs TREINADOR",
+  "max_width": 93
+ },
+ {
+  "offset": "0E9609C",
+  "en": "CAPTURE CENTER",
+  "pt": "CENTRO CAPTURA",
+  "max_width": 93
+ },
+ {
+  "offset": "0E960AB",
+  "en": "AUTOSAVE",
+  "pt": "AUTOSALVAR",
+  "max_width": 93
+ },
+ {
+  "offset": "0E960D8",
+  "en": "EVO LIMIT",
+  "pt": "LIMITE EVO",
+  "max_width": 93
+ },
+ {
+  "offset": "0E960E2",
+  "en": "ONE TYPE ONLY",
+  "pt": "TIPO ÚNICO",
+  "max_width": 93
+ },
+ {
+  "offset": "0E960F0",
+  "en": "STAT EQUALIZER",
+  "pt": "STATS IGUAIS",
+  "max_width": 93
+ },
+ {
+  "offset": "0E960FF",
+  "en": "MIRROR MODE",
+  "pt": "MODO ESPELHO",
+  "max_width": 93
+ },
+ {
+  "offset": "0E9610B",
+  "en": "MIRROR THIEF",
+  "pt": "LADRÃO ESPELHO",
+  "max_width": 93
+ },
+ {
+  "offset": "0E97638",
+  "en": "{F8 02}BACK",
+  "pt": "{F8 02}VOLTAR",
+  "max_width": 110
+ },
+ {
+  "offset": "0E9763F",
+  "en": "{F8 03}NEXT",
+  "pt": "{F8 03}AVANÇAR",
+  "max_width": 110
+ },
+ {
+  "offset": "0E97646",
+  "en": "RANDOMIZER",
+  "pt": "RANDOMIZADOR",
+  "max_width": 110
+ },
+ {
+  "offset": "0E9765A",
+  "en": "DIFFICULTY",
+  "pt": "DIFICULDADE",
+  "max_width": 110
+ },
+ {
+  "offset": "0E97665",
+  "en": "CHALLENGES",
+  "pt": "DESAFIOS",
+  "max_width": 110
+ },
+ {
+  "offset": "0E97697",
+  "en": "OFF",
+  "pt": "NÃO",
+  "max_width": 60
+ },
+ {
+  "offset": "0E9769B",
+  "en": "ON",
+  "pt": "SIM",
+  "max_width": 60
+ },
+ {
+  "offset": "0E9769E",
+  "en": "NONE",
+  "pt": "NENHUM",
+  "max_width": 60
+ },
+ {
+  "offset": "0E976A3",
+  "en": "DEFAULT",
+  "pt": "PADRÃO",
+  "max_width": 60
+ },
+ {
+  "offset": "0E976AB",
+  "en": "RANDOM",
+  "pt": "ALEATÓRIO",
+  "max_width": 60
+ },
+ {
+  "offset": "0E976BE",
+  "en": "CEMETERY",
+  "pt": "CEMITÉRIO",
+  "max_width": 60
+ },
+ {
+  "offset": "0E976C7",
+  "en": "RELEASE",
+  "pt": "SOLTAR",
+  "max_width": 60
+ },
+ {
+  "offset": "0E976CF",
+  "en": "YES",
+  "pt": "SIM",
+  "max_width": 60
+ },
+ {
+  "offset": "0E976D3",
+  "en": "NO",
+  "pt": "NÃO",
+  "max_width": 60
+ },
+ {
+  "offset": "0E976D6",
+  "en": "ON",
+  "pt": "SIM",
+  "max_width": 60
+ },
+ {
+  "offset": "0E976F4",
+  "en": "CHALLENGE",
+  "pt": "DESAFIO",
+  "max_width": 60
+ },
+ {
+  "offset": "0E97705",
+  "en": "CLOSED",
+  "pt": "FECHADO",
+  "max_width": 60
+ },
+ {
+  "offset": "0E9770C",
+  "en": "OPEN",
+  "pt": "ABERTO",
+  "max_width": 60
+ },
+ {
+  "offset": "0E9771B",
+  "en": "ON",
+  "pt": "SIM",
+  "max_width": 60
+ },
+ {
+  "offset": "0E97748",
+  "en": "FIRST",
+  "pt": "PRIMEIRA",
+  "max_width": 60
+ },
+ {
+  "offset": "0E9774E",
+  "en": "ALL",
+  "pt": "TODAS",
+  "max_width": 60
+ },
+ {
+  "offset": "0E96139",
+  "en": "Save choices and continue...",
+  "pt": "Salvar escolhas e continuar...",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96156",
+  "en": "Game will not be randomized.",
+  "pt": "O jogo não será randomizado.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96173",
+  "en": "Play the game randomized.\\nSettings below!",
+  "pt": "Jogue com o jogo randomizado.\\nOpções abaixo!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9619D",
+  "en": "Standard starter CAPTURES.",
+  "pt": "CAPTURAS iniciais padrão.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E961B8",
+  "en": "Randomize starter CAPTURES.",
+  "pt": "Randomiza as CAPTURAS iniciais.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E961D4",
+  "en": "Same wild encounter as in the\\nbase game.",
+  "pt": "Encontros selvagens iguais aos do jogo original.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E961FD",
+  "en": "Randomize wild CAPTURES.",
+  "pt": "Randomiza as CAPTURAS selvagens.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96216",
+  "en": "Trainer will have their expected\\nparty.",
+  "pt": "Os treinadores terão a equipe original.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9623E",
+  "en": "Randomize enemy trainer parties.",
+  "pt": "Randomiza as equipes dos treinadores.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9625F",
+  "en": "Static encounter will be the same\\nas in the base game.",
+  "pt": "Encontros fixos serão iguais aos do jogo original.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96296",
+  "en": "Randomize static encounter CAPTURES.",
+  "pt": "Randomiza as CAPTURAS de encontros fixos.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E962BB",
+  "en": "Distribution of CAPTURES {COLOR 07}{COLOR 08}not balanced{COLOR 01}{COLOR 02}\\naround their strength!",
+  "pt": "CAPTURAS distribuídas {COLOR 07}{COLOR 08}sem equilíbrio{COLOR 01}{COLOR 02}\\nde força!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96304",
+  "en": "CAPTURES replaced with similar ones.\\nBased off of BST ranges & evo stage.",
+  "pt": "CAPTURAS trocadas por similares, por\\nfaixa de BST e estágio de evolução.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9634E",
+  "en": "Legendary CAPTURES will not be\\nincluded and randomized.",
+  "pt": "CAPTURAS lendárias não entram na randomização.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96386",
+  "en": "Rarely include legendary CAPTURES in\\nrandomization! Ignores balance!",
+  "pt": "Inclui CAPTURAS lendárias raramente na randomização! Ignora o equilíbrio!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E966D6",
+  "en": "Continue to Nuzlocke options.",
+  "pt": "Continuar para as opções de Nuzlocke.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96764",
+  "en": "Nuzlocke mode is disabled.",
+  "pt": "O modo Nuzlocke está desativado.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9677F",
+  "en": "One catch per route! Fainted CAPTURES\\ncan't be used anymore.",
+  "pt": "Uma captura por rota! CAPTURAS desmaiadas não podem mais ser usadas.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E967BC",
+  "en": "Same rules as NORMAL but also\\n{COLOR 07}{COLOR 08}deletes SAVE on battle loss!",
+  "pt": "Mesmas regras do NORMAL, mas também\\n{COLOR 07}{COLOR 08}apaga o SAVE se perder uma batalha!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E967FD",
+  "en": "The player always has to catch the\\nfirst CAPTURES per route.",
+  "pt": "O jogador sempre deve capturar a\\nprimeira CAPTURA de cada rota.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9683A",
+  "en": "Only not prior caught CAPTURES count\\nas first encounter. {COLOR 07}{COLOR 08}RECOMMENDED!",
+  "pt": "Só CAPTURAS ainda não pegas contam\\ncomo 1º encontro. {COLOR 07}{COLOR 08}RECOMENDADO!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96886",
+  "en": "The player can only catch a shiny\\nCAPTURES if it's the first encounter.",
+  "pt": "Só é possível pegar uma CAPTURA shiny\\nse for o primeiro encontro.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E968CE",
+  "en": "The player can always catch shiny\\nCAPTURES. {COLOR 07}{COLOR 08}RECOMMENDED!",
+  "pt": "O jogador sempre pode pegar CAPTURAS\\nshiny. {COLOR 07}{COLOR 08}RECOMENDADO!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9690D",
+  "en": "Nicknames are optional.",
+  "pt": "Apelidos são opcionais.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96925",
+  "en": "Forces the player to nickname every\\nCAPTURES. {COLOR 07}{COLOR 08}RECOMMENDED!",
+  "pt": "Obriga o jogador a apelidar toda\\nCAPTURA. {COLOR 07}{COLOR 08}RECOMENDADO!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96966",
+  "en": "Fainted CAPTURES are send to the PC\\nafter battle and can't be retrieved.",
+  "pt": "CAPTURAS desmaiadas vão para o PC\\napós a batalha e não podem voltar.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E969AF",
+  "en": "Fainted CAPTURES are {COLOR 07}{COLOR 08}released{COLOR 01}{COLOR 02} after\\nbattle!",
+  "pt": "CAPTURAS desmaiadas são {COLOR 07}{COLOR 08}soltas{COLOR 01}{COLOR 02}\\napós a batalha!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E969E7",
+  "en": "Continue to randomizer options.",
+  "pt": "Continuar para as opções de randomizador.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96A68",
+  "en": "Challenge mode! Based on challenge\\nromhacks (B. Black, I. Emerald, etc.).",
+  "pt": "Modo desafio! Baseado em romhacks de\\ndesafio (B. Black, I. Emerald, etc.).",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96B27",
+  "en": "No level cap. Overleveling possible.\\n",
+  "pt": "Sem limite de nível. Upe à vontade.\\n",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96B4D",
+  "en": "Maximum level is based on the\\nnext gym's highest CAPTURES level.",
+  "pt": "O nível máximo é o da CAPTURA mais\\nforte do próximo ginásio.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96BD4",
+  "en": "Enemy trainer levels are their default.\\n",
+  "pt": "Os treinadores usam os níveis padrão.\\n",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96BFD",
+  "en": "lvl = (highest level - 3) + party slot.\\nCapped at your highest level.",
+  "pt": "nv = (maior nível - 3) + posição.\\nLimitado ao seu maior nível.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96CD5",
+  "en": "The player can use battle items.",
+  "pt": "O jogador pode usar itens em batalha.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96CF6",
+  "en": "The player can {COLOR 07}{COLOR 08}NOT use battle items.\\nHold items are allowed!",
+  "pt": "O jogador {COLOR 07}{COLOR 08}NÃO pode usar itens de\\nbatalha. Pode equipar itens!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96D8B",
+  "en": "The player can visit various locations\\nto heal their party.",
+  "pt": "O jogador pode visitar vários locais\\npara curar a equipe.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96DC7",
+  "en": "The player {COLOR 07}{COLOR 08}CAN'T visit various\\nlocations to heal their party.",
+  "pt": "O jogador {COLOR 07}{COLOR 08}NÃO pode visitar locais\\npara curar a equipe.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96E0B",
+  "en": "The players CAPTURES gain effort\\nvalues as expected.",
+  "pt": "As CAPTURAS do jogador ganham EVs\\nnormalmente.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96E40",
+  "en": "The players CAPTURES do {COLOR 07}{COLOR 08}NOT{COLOR 01}{COLOR 02} gain\\nany effort values!",
+  "pt": "As CAPTURAS do jogador {COLOR 07}{COLOR 08}NÃO{COLOR 01}{COLOR 02}\\nganham nenhum EV!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96F09",
+  "en": "The CAPTURES of enemy Trainers have\\nthe expected EVs.",
+  "pt": "As CAPTURAS dos treinadores têm\\nos EVs normais.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96F3F",
+  "en": "The CAPTURES of enemy Trainers have\\nno EVs.",
+  "pt": "As CAPTURAS dos treinadores não\\ntêm EVs.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E96FC3",
+  "en": "Continue to Nuzlocke options.",
+  "pt": "Continuar para as opções de Nuzlocke.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E97058",
+  "en": "This feature is not supported\\nat this time.",
+  "pt": "Este recurso ainda não é\\nsuportado.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E97084",
+  "en": "Will be available in LUIGIMON\\nat a later date!",
+  "pt": "Estará disponível no LUIGIMON\\nfuturamente!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E970B3",
+  "en": "Automatically save after important\\nevents. Toggleable in options.",
+  "pt": "Salva automaticamente após eventos\\nimportantes. Ajustável nas opções.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E970F5",
+  "en": "Don't Autosave unless required.\\nToggleable in options.",
+  "pt": "Só salva automaticamente se\\nnecessário. Ajustável nas opções.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E971D9",
+  "en": "CAPTURES can only evolve into\\ntheir first evolution.",
+  "pt": "CAPTURAS só evoluem até a\\nprimeira evolução.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9720E",
+  "en": "CAPTURES can {COLOR 07}{COLOR 08}NOT evolve at all!",
+  "pt": "CAPTURAS {COLOR 07}{COLOR 08}NÃO podem evoluir!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9729E",
+  "en": "CAPTURES stats are calculated with\\n100 of each base stat.",
+  "pt": "Os stats das CAPTURAS usam\\n100 em cada stat base.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E972D8",
+  "en": "CAPTURES stats are calculated with\\n255 of each base stat.",
+  "pt": "Os stats das CAPTURAS usam\\n255 em cada stat base.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E97312",
+  "en": "CAPTURES stats are calculated with\\n500 of each base stat.",
+  "pt": "Os stats das CAPTURAS usam\\n500 em cada stat base.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E9736D",
+  "en": "In Trainer battles the player gets\\na copy of the enemies party!",
+  "pt": "Em batalhas de treinador, o jogador\\nrecebe uma cópia da equipe rival!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E97423",
+  "en": "The player keeps the enemies party\\nafter battle!",
+  "pt": "O jogador fica com a equipe rival\\napós a batalha!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E974B4",
+  "en": "Only usable with random starter,\\nTrainer, wild or static CAPTURES.",
+  "pt": "Só com CAPTURAS iniciais, de treinador,\\nselvagens ou fixas aleatórias.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E974F7",
+  "en": "Only usable with random starter,\\nTrainer, wild or static CAPTURES.",
+  "pt": "Só com CAPTURAS iniciais, de treinador,\\nselvagens ou fixas aleatórias.",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E975A8",
+  "en": "Only usable with Nuzlocke!",
+  "pt": "Só pode ser usado com Nuzlocke!",
+  "max_width": 202,
+  "max_lines": 2
+ },
+ {
+  "offset": "0E97600",
+  "en": "Only usable with Mirror Mode!",
+  "pt": "Só pode ser usado com Modo Espelho!",
+  "max_width": 202,
+  "max_lines": 2
+ }
+]

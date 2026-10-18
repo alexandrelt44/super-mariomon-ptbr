@@ -1,0 +1,2258 @@
+[
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1892",
+  "en": "Welcome to my POKéMON LAB.\\pI carry out research on battling in\\nsecrecy.\\pWould you like to see how strong I am?",
+  "pt": "Bem-vindo ao meu LABORATÓRIO DE CAPTURAS.\\pAqui eu faço pesquisas sobre batalhas em segredo.\\pQuer ver o quanto eu sou forte?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1901",
+  "en": "I'm going to go all out!",
+  "pt": "Vou dar tudo de mim!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F191A",
+  "en": "Oh.\\nSome other time, then!",
+  "pt": "Ah.\\nFica pra outra vez, então!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1973",
+  "en": "Thanks for battling with me.\\nPlease come back again tomorrow.",
+  "pt": "Valeu pela batalha. Volte amanhã, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F19B1",
+  "en": "Welcome to my POKéMON LAB.\\pI carry out research on battling in\\nsecrecy.",
+  "pt": "Bem-vindo ao meu LABORATÓRIO DE CAPTURAS.\\pAqui eu faço pesquisas sobre batalhas em segredo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F19F9",
+  "en": "A big mansion is nice, but I like this\\nsort of place more.\\pI like it because all kinds of people\\ncome visit me.\\pSo, how would you like a battle?",
+  "pt": "Uma mansão grande é legal, mas eu prefiro um lugar assim.\\pGosto daqui porque vem gente de todo tipo me visitar.\\pE aí, que tal uma batalha?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1A8A",
+  "en": "That's the way!",
+  "pt": "É assim que se faz!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1A9A",
+  "en": "When you're ready, give me a shout!",
+  "pt": "Quando estiver pronto, é só me chamar!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1AEA",
+  "en": "Well, anyway, I should go buy some\\ndecorations and furniture.\\pI want my SECRET BASE to be a place\\nother people can enjoy.",
+  "pt": "Bom, de qualquer forma, preciso ir comprar umas decorações e móveis.\\pQuero que a minha BASE SECRETA seja um lugar que todo mundo curta."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1B64",
+  "en": "A big mansion is nice, but I like this\\nsort of place more.\\pI like it because all kinds of people\\ncome visit me.",
+  "pt": "Uma mansão grande é legal, mas eu prefiro um lugar assim.\\pGosto daqui porque vem gente de todo tipo me visitar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1BD4",
+  "en": "I simply adore shopping for decorations\\nand furniture.\\pI also love raising POKéMON just\\nas much.\\pIf you would be so kind, will you battle\\nwith my POKéMON?",
+  "pt": "Eu simplesmente adoro comprar decorações e móveis.\\pE amo criar CAPTURAS na mesma medida.\\pSe não for incômodo, você batalharia com as minhas CAPTURAS?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1C6F",
+  "en": "Thank you.\\nShall we begin?",
+  "pt": "Agradeço.\\nVamos começar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1C8A",
+  "en": "Oh.\\nHow disappointing…",
+  "pt": "Ah.\\nQue decepção…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1CAC",
+  "en": "That was all in good fun!\\nI should go enjoy shopping now.",
+  "pt": "Foi muito divertido! Agora vou aproveitar umas compras."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1CE6",
+  "en": "I simply adore shopping for decorations\\nand furniture.\\pI also love raising POKéMON just\\nas much.",
+  "pt": "Eu simplesmente adoro comprar decorações e móveis.\\pE amo criar CAPTURAS na mesma medida."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1D47",
+  "en": "Some people make their SECRET BASES in\\nhard-to-find places.\\lDo they want to just lie low?\\pBut since you found me, how about we\\nhave a battle?",
+  "pt": "Tem gente que faz a BASE SECRETA em lugares difíceis de achar. Será que querem ficar escondidos?\\pMas já que você me achou, que tal uma batalha?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1DD5",
+  "en": "I'm not going down easily!",
+  "pt": "Não vou cair fácil!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1DF0",
+  "en": "Oh… Are you maybe tired from searching\\nfor this place?",
+  "pt": "Ah… Será que você cansou de procurar este lugar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1E34",
+  "en": "Where's your SECRET BASE?\\nI should go visit you there.",
+  "pt": "Onde fica a sua BASE SECRETA? Vou te fazer uma visita lá."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1E6B",
+  "en": "Some people make their SECRET BASES in\\nhard-to-find places.\\lDo they want to just lie low?",
+  "pt": "Tem gente que faz a BASE SECRETA em lugares difíceis de achar. Será que querem ficar escondidos?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1EC5",
+  "en": "People have told me that you can get\\ndecorations in several ways.\\pWe should have a race to see who can\\nget nicer decorations and furniture!\\pIn the meantime, want to battle?",
+  "pt": "Me disseram que dá pra conseguir decorações de vários jeitos.\\pVamos apostar uma corrida pra ver quem consegue as decorações e os móveis mais legais!\\pEnquanto isso, quer batalhar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1F72",
+  "en": "This is my SECRET BASE.\\nI can't lose!",
+  "pt": "Esta é a minha BASE SECRETA. Não posso perder!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1F98",
+  "en": "I'll battle with you anytime.",
+  "pt": "Topo batalhar com você quando quiser."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1FCC",
+  "en": "I won't lose at collecting decorations.\\nCome visit again!",
+  "pt": "Em juntar decorações eu não perco. Volte pra me visitar!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2006",
+  "en": "People have told me that you can get\\ndecorations in several ways.\\pWe should have a race to see who can\\nget nicer decorations and furniture!",
+  "pt": "Me disseram que dá pra conseguir decorações de vários jeitos.\\pVamos apostar uma corrida pra ver quem consegue as decorações e os móveis mais legais!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2092",
+  "en": "I found a spot I liked, and I did it up\\nwith my favorite decorations.\\pI raise my favorite POKéMON and grow\\nstronger with it.\\pThat's what I do.\\nWant to battle with me?",
+  "pt": "Achei um cantinho de que gostei e enfeitei com as minhas decorações favoritas.\\pCrio a minha CAPTURA favorita e fico mais forte junto com ela.\\pÉ isso que eu faço. Quer batalhar comigo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2139",
+  "en": "Show me what you're made of!",
+  "pt": "Mostre do que você é capaz!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2156",
+  "en": "I guess there are times when you're not\\ninto it.",
+  "pt": "Acho que tem horas que a gente não está no clima."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F21AF",
+  "en": "We can both become stronger.\\nLet's keep at it!",
+  "pt": "Nós dois podemos ficar mais fortes. Vamos continuar firmes!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F21DE",
+  "en": "I found a spot I liked, and I did it up\\nwith my favorite decorations.\\pI raise my favorite POKéMON and grow\\nstronger with it.\\pEvery day is a great day.",
+  "pt": "Achei um cantinho de que gostei e enfeitei com as minhas decorações favoritas.\\pCrio a minha CAPTURA favorita e fico mais forte junto com ela.\\pTodo dia é um ótimo dia."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2275",
+  "en": "You can learn a lot about the taste\\nand sense of people by the kinds of\\ldecorations they have, and how they\\ldisplay them.\\pWhat do you think of my taste?\\nAre you speechless?\\pWant to see my taste in battling?",
+  "pt": "Dá pra aprender muito sobre o gosto e a sensibilidade das pessoas pelo tipo de decoração que elas têm e pelo jeito que expõem.\\pO que achou do meu gosto? Ficou sem palavras?\\pQuer ver o meu gosto pra batalhas?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2344",
+  "en": "There's no holding back!",
+  "pt": "Não vou pegar leve!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F235D",
+  "en": "I'll be happy to demonstrate my style\\nanytime.",
+  "pt": "Vou adorar mostrar o meu estilo quando você quiser."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F23C9",
+  "en": "What did you think of my style?\\nI'll keep on polishing it!",
+  "pt": "O que achou do meu estilo? Vou continuar aperfeiçoando!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2404",
+  "en": "You can learn a lot about the taste\\nand sense of people by the kinds of\\ldecorations they have, and how they\\ldisplay them.\\pWhat do you think of my taste?\\nAre you speechless?",
+  "pt": "Dá pra aprender muito sobre o gosto e a sensibilidade das pessoas pelo tipo de decoração que elas têm e pelo jeito que expõem.\\pO que achou do meu gosto? Ficou sem palavras?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2E2E",
+  "en": "Find a big tree that looks like it might\\ndrop some vines.\\pUse SECRET POWER in front of the tree.\\nSome vines should get free and drop\\ldown, so you can climb the tree.\\pYou'll find a lot of space for putting\\nyour favorite things.\\pIt'll be your own secret room…\\nA SECRET BASE!\\pYou should make one, too.\\pAnother thing, you don't always have\\nto make your SECRET BASE in a tree.\\pTry using SECRET POWER on rock walls\\nthat have small indents in them.\\pI'm going to look for other places, too.\\nOkay, bye!",
+  "pt": "Procure uma árvore grande que pareça ter cipós pra soltar.\\pUse PODER SECRETO na frente da árvore. Alguns cipós devem se soltar e descer, aí você consegue subir na árvore.\\pVocê vai achar bastante espaço pra colocar as suas coisas favoritas.\\pVai ser o seu próprio quarto secreto… Uma BASE SECRETA!\\pVocê devia fazer uma também.\\pOutra coisa: a sua BASE SECRETA não precisa ser sempre numa árvore.\\pTente usar PODER SECRETO em paredes de pedra que tenham pequenas cavidades.\\pEu também vou procurar outros lugares. Tchau!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F301C",
+  "en": "Oh, you don't want this?\\nIf you change your mind, tell me, okay?",
+  "pt": "Ah, você não quer isto? Se mudar de ideia, me avisa, tá?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F305D",
+  "en": "Oh, you don't have any room for this.\\pI'll hold on to it, so come back for it\\nanother time, okay?",
+  "pt": "Ah, você não tem espaço pra isto.\\pEu guardo pra você, então volte pra buscar outra hora, tá?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F34FD",
+  "en": "You may only make one SECRET BASE.\\pWould you like to move from the SECRET\\nBASE near {STR_VAR_1}?",
+  "pt": "Você só pode ter uma BASE SECRETA.\\pQuer se mudar da BASE SECRETA perto de {STR_VAR_1}?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F3555",
+  "en": "Moving completed.\\pWould you like to use the SECRET POWER?",
+  "pt": "Mudança concluída.\\pQuer usar o PODER SECRETO?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4978",
+  "en": "Welcome to the CAPTURE CABLE\\nCLUB.\\pWhich of our services do you wish\\nto use?",
+  "pt": "Bem-vindo ao CLUBE DO CABO CAPTURA.\\pQual dos nossos serviços deseja usar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F49C5",
+  "en": "Which of our services do you wish\\nto use?",
+  "pt": "Qual dos nossos serviços deseja usar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4AC2",
+  "en": "For a DOUBLE BATTLE, you must\\nhave at least two CAPTURE.",
+  "pt": "Para uma BATALHA DUPLA, você precisa ter pelo menos duas CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4AFB",
+  "en": "For trading, you must have at\\nleast two CAPTURE with you.",
+  "pt": "Para trocar, você precisa ter pelo menos duas CAPTURAS com você."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4B35",
+  "en": "A CAPTURE holding the {STR_VAR_1}\\nBERRY can't be traded.",
+  "pt": "Uma CAPTURA segurando a FRUTA {STR_VAR_1} não pode ser trocada."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4B65",
+  "en": "Please wait.\\n… … B Button: Cancel",
+  "pt": "Aguarde, por favor.\\n… … Botão B: Cancelar"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4C6B",
+  "en": "Please enter.",
+  "pt": "Pode entrar, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4C9B",
+  "en": "Someone is not ready to link.\\pPlease come back after everyone\\nhas made preparations.",
+  "pt": "Alguém não está pronto para o link.\\pVolte depois que todos estiverem preparados."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4CF0",
+  "en": "Sorry, we have a link error…\\nPlease reset and try again.",
+  "pt": "Desculpe, houve um erro no link… Reinicie e tente de novo, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4D29",
+  "en": "The link partners appear to have\\nmade different selections.",
+  "pt": "Parece que os parceiros do link fizeram escolhas diferentes."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4D65",
+  "en": "Please do visit again.",
+  "pt": "Volte sempre."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4D7C",
+  "en": "The number of participants is\\nincorrect.",
+  "pt": "O número de participantes está incorreto."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4DA5",
+  "en": "The SINGLE BATTLE Mode can't be\\nplayed by {STR_VAR_1} players.",
+  "pt": "O modo BATALHA INDIVIDUAL não pode ser jogado por {STR_VAR_1} jogadores."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4DDB",
+  "en": "The DOUBLE BATTLE Mode can't be\\nplayed by {STR_VAR_1} players.",
+  "pt": "O modo BATALHA DUPLA não pode ser jogado por {STR_VAR_1} jogadores."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4E11",
+  "en": "There must be four players to play\\nthis Battle Mode.",
+  "pt": "São necessários quatro jogadores para este Modo de Batalha."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4E46",
+  "en": "Please confirm the number of\\nplayers and start again.",
+  "pt": "Confirme o número de jogadores e comece de novo, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4E7C",
+  "en": "The link will be terminated if you\\nleave the room. Is that okay?",
+  "pt": "O link será encerrado se você sair da sala. Tudo bem?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4F02",
+  "en": "This TRAINER is too busy to\\nnotice…",
+  "pt": "Este TREINADOR está ocupado demais para notar…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4F26",
+  "en": "Score! Got to look at {STR_VAR_1}'s\\nTRAINER CARD!",
+  "pt": "Isso! Deu pra ver o CARTÃO DE TREINADOR de {STR_VAR_1}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4F4F",
+  "en": "Score! Got to look at {STR_VAR_1}'s\\nTRAINER CARD!\\pIt's a {STR_VAR_2} card!",
+  "pt": "Isso! Deu pra ver o CARTÃO DE TREINADOR de {STR_VAR_1}!\\pÉ um cartão {STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4F88",
+  "en": "Please take your place and start\\nyour battle.",
+  "pt": "Ocupe o seu lugar e comece a batalha, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4FB6",
+  "en": "Please take your seat and start\\nyour trade.",
+  "pt": "Sente-se e comece a troca, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4FE2",
+  "en": "Thanks for coming.",
+  "pt": "Obrigado pela visita."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F4FF5",
+  "en": "The TRAINER CARD data will\\nbe overwritten.",
+  "pt": "Os dados do CARTÃO DE TREINADOR serão substituídos."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5020",
+  "en": "I hope to see you again!",
+  "pt": "Espero ver você de novo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5039",
+  "en": "I'm awfully sorry.\\pWe're not set up to conduct trades\\nwith TRAINERS far away in another\\lregion yet…",
+  "pt": "Sinto muitíssimo.\\pAinda não estamos preparados para fazer trocas com TREINADORES de outras regiões distantes…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F509D",
+  "en": "The other TRAINER is not ready.",
+  "pt": "O outro TREINADOR não está pronto."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F50BD",
+  "en": "You have at least one CAPTURE\\nthat can't be taken.",
+  "pt": "Você tem pelo menos uma CAPTURA que não pode ser levada."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F50F0",
+  "en": "Please take your seat and wait.",
+  "pt": "Sente-se e aguarde, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5110",
+  "en": "{STR_VAR_1} sent over one\\n{STR_VAR_2}.",
+  "pt": "{STR_VAR_1} enviou um {STR_VAR_2}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5125",
+  "en": "Sorry, there is a transmission error.\\pYou may not mix records with  \\nJapanese Ruby or Sapphire games.\\pAlso, you can't mix records with\\nJapanese Emerald and overseas Ruby\\lor Sapphire games at the same time.",
+  "pt": "Desculpe, houve um erro de transmissão.\\pNão é possível misturar recordes com jogos japoneses de Ruby ou Sapphire.\\pTambém não é possível misturar recordes com Emerald japonês e Ruby ou Sapphire estrangeiros ao mesmo tempo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F51F3",
+  "en": "The Wireless Adapter is not\\nconnected properly.",
+  "pt": "O Adaptador Sem Fio não está conectado corretamente."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5223",
+  "en": "Participants are asked to step up\\nto the reception counter.",
+  "pt": "Pedimos que os participantes se dirijam ao balcão de recepção."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F53D0",
+  "en": "To use the BERRY CRUSH service,\\nyou must have at least one BERRY.",
+  "pt": "Para usar o serviço ESMAGA-FRUTAS, você precisa ter pelo menos uma FRUTA."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5412",
+  "en": "To enter the UNION ROOM, you must\\nhave at least two CAPTURE.",
+  "pt": "Para entrar na SALA DA UNIÃO, você precisa ter pelo menos duas CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F544F",
+  "en": "No CAPTURE holding the {STR_VAR_1}\\nBERRY may enter the UNION ROOM.",
+  "pt": "Nenhuma CAPTURA segurando a FRUTA {STR_VAR_1} pode entrar na SALA DA UNIÃO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5489",
+  "en": "This is the CAPTURE WIRELESS CLUB\\nUNION ROOM.\\pUnfortunately, your Wireless\\nAdapter is not connected properly.\\pPlease do come again.",
+  "pt": "Esta é a SALA DA UNIÃO do CLUBE SEM FIO CAPTURA.\\pInfelizmente, o seu Adaptador Sem Fio não está conectado corretamente.\\pVolte outra vez, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F551C",
+  "en": "It appears as if {STR_VAR_1} is playing\\nright now.\\lGo for it!",
+  "pt": "Parece que {STR_VAR_1} está jogando agora mesmo. Vai fundo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5551",
+  "en": "I can explain game rules to you,\\nif you'd like.\\pWhich game should I describe?",
+  "pt": "Posso explicar as regras dos jogos, se quiser.\\pQual jogo devo explicar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F559F",
+  "en": "“CAPTURE JUMP”\\pMake your CAPTURE skip the VINE WHIP\\nrope with the A Button.\\pOnly mini CAPTURE around 28 inches\\nor less may participate.\\pCAPTURE that only swim, burrow,\\nor fly are not good at jumping.\\pAs a result, those CAPTURE may not\\nparticipate.\\pGood things happen if everyone\\njumps in time.",
+  "pt": "“PULO DAS CAPTURAS”\\pFaça a sua CAPTURA pular a corda de CHICOTE DE VINHA com o Botão A.\\pSó CAPTURAS mini, de uns 70 cm ou menos, podem participar.\\pCAPTURAS que só nadam, cavam ou voam não são boas de pulo.\\pPor isso, essas CAPTURAS não podem participar.\\pCoisas boas acontecem se todo mundo pular no ritmo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F56C5",
+  "en": "“DODRIO BERRY-PICKING”\\pCommand DODRIO's three heads to\\ncatch falling BERRIES.\\pPress right, up, or left on the\\n{F9 04} Control Pad to move the heads.\\pTo play this game, you must have\\na DODRIO.",
+  "pt": "“COLHEITA DE FRUTAS DODRIO”\\pComande as três cabeças do DODRIO para pegar as FRUTAS que caem.\\pAperte direita, cima ou esquerda no {F9 04} Direcional para mover as cabeças.\\pPara jogar, você precisa ter um DODRIO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5780",
+  "en": "If you want to play a game,\\nplease tell the old man beside me.",
+  "pt": "Se quiser jogar, fale com o senhor aqui do meu lado."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F57BF",
+  "en": "Hi, welcome!\\nAre you here to play games using\\lWireless Communication?\\pCan you wait just a little bit?",
+  "pt": "Oi, bem-vindo! Veio jogar usando a Comunicação Sem Fio?\\pPode esperar só um pouquinho?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5825",
+  "en": "All right, come again!",
+  "pt": "Tudo bem, volte sempre!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F583C",
+  "en": "The Wireless Adapter isn't connected.\\nCome back when it's hooked up!",
+  "pt": "O Adaptador Sem Fio não está conectado. Volte quando ele estiver ligado!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5881",
+  "en": "All right, which game did you want\\nto play?",
+  "pt": "Muito bem, qual jogo você queria jogar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F58AD",
+  "en": "Which CAPTURE would you like to\\nenter?",
+  "pt": "Qual CAPTURA você gostaria de inscrever?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5934",
+  "en": "It doesn't look like you have any\\nCAPTURE that you can enter…\\pWould you like me to explain what\\nkinds of CAPTURE can enter?",
+  "pt": "Parece que você não tem nenhuma CAPTURA que possa ser inscrita…\\pQuer que eu explique que tipos de CAPTURA podem participar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F59B0",
+  "en": "“CAPTURE JUMP” is open to CAPTURE\\naround 28 inches or less.\\pWhat you can't enter are those\\nCAPTURE that can't jump.\\pYou know, like CAPTURE that only\\nswim, burrow, or fly.\\pThat's all you need to know.",
+  "pt": "O “PULO DAS CAPTURAS” é aberto a CAPTURAS de uns 70 cm ou menos.\\pAs que não podem participar são as CAPTURAS que não sabem pular.\\pSabe, tipo as CAPTURAS que só nadam, cavam ou voam.\\pÉ só isso que você precisa saber."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5A78",
+  "en": "DODRIO BERRY-PICKING is a game that \\nonly DODRIO may enter.",
+  "pt": "A COLHEITA DE FRUTAS DODRIO é um jogo em que só DODRIO pode participar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5AE7",
+  "en": "Welcome to the CAPTURE WIRELESS\\nCLUB DIRECT CORNER.\\pYou may interact directly with\\nyour friends here.\\pWhich room would you like to\\nenter?",
+  "pt": "Bem-vindo ao CANTO DIRETO do CLUBE SEM FIO CAPTURA.\\pAqui você pode interagir diretamente com os seus amigos.\\pEm qual sala gostaria de entrar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5B71",
+  "en": "Would you like to trade CAPTURE?",
+  "pt": "Gostaria de trocar CAPTURAS?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5B92",
+  "en": "Which Battle Mode would you like\\nto play?",
+  "pt": "Qual Modo de Batalha gostaria de jogar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5BBC",
+  "en": "Would you like to access\\nthe RECORD CORNER?",
+  "pt": "Gostaria de acessar o CANTO DOS RECORDES?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5BE8",
+  "en": "Would you like to use the\\nBERRY CRUSH System?",
+  "pt": "Gostaria de usar o Sistema ESMAGA-FRUTAS?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5C16",
+  "en": "There are three Battle Modes.\\pSINGLE BATTLE is for two TRAINERS\\nwith one or more CAPTURE each.\\pEach TRAINER can have one CAPTURE\\nin battle at a time.\\pDOUBLE BATTLE is for two TRAINERS\\nwith two or more CAPTURE each.\\pEach TRAINER will send out two\\nCAPTURE in battle at a time.\\pMULTI BATTLE is for four TRAINERS\\nwith one or more CAPTURE each.\\pEach TRAINER can have one CAPTURE\\nin battle at a time.",
+  "pt": "Existem três Modos de Batalha.\\pA BATALHA INDIVIDUAL é para dois TREINADORES com uma ou mais CAPTURAS cada.\\pCada TREINADOR pode ter uma CAPTURA em batalha por vez.\\pA BATALHA DUPLA é para dois TREINADORES com duas ou mais CAPTURAS cada.\\pCada TREINADOR manda duas CAPTURAS para a batalha de cada vez.\\pA BATALHA MÚLTIPLA é para quatro TREINADORES com uma ou mais CAPTURAS cada.\\pCada TREINADOR pode ter uma CAPTURA em batalha por vez."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5DA1",
+  "en": "Please decide which of you two\\nwill become the LEADER.\\pThe other player must then choose\\n“JOIN GROUP.”",
+  "pt": "Decidam qual de vocês dois será o LÍDER.\\pO outro jogador deve então escolher “ENTRAR NO GRUPO.”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5E08",
+  "en": "Please decide which of you four\\nwill become the GROUP LEADER.\\pThe other players must then choose\\n“JOIN GROUP.”",
+  "pt": "Decidam qual de vocês quatro será o LÍDER DO GRUPO.\\pOs outros jogadores devem então escolher “ENTRAR NO GRUPO.”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5E77",
+  "en": "Please decide which of you will\\nbecome the GROUP LEADER.\\pThe other players must then choose\\n“JOIN GROUP.”",
+  "pt": "Decidam qual de vocês será o LÍDER DO GRUPO.\\pOs outros jogadores devem então escolher “ENTRAR NO GRUPO.”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5EE1",
+  "en": "Welcome to the CAPTURE WIRELESS\\nCLUB UNION ROOM.\\pYou may interact directly with\\nother TRAINERS here, some of\\lwhom you may not even know.\\pWould you like to enter the ROOM?",
+  "pt": "Bem-vindo à SALA DA UNIÃO do CLUBE SEM FIO CAPTURA.\\pAqui você pode interagir diretamente com outros TREINADORES, alguns que você talvez nem conheça.\\pGostaria de entrar na SALA?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F5F8C",
+  "en": "The TRAINERS in the UNION ROOM\\nwill be those players around you\\lwho have also entered the ROOM.\\pYou may do all sorts of things\\nhere, such as exchanging greetings.\\pYou may enter two CAPTURE up to\\nLv. 30 for a one-on-one battle.\\pYou may take part in a chat with\\ntwo to five people.\\pOr, you may register a CAPTURE for\\ntrade.\\pWould you like to enter the ROOM?",
+  "pt": "Os TREINADORES na SALA DA UNIÃO serão os jogadores perto de você que também entraram na SALA.\\pAqui você pode fazer todo tipo de coisa, como trocar cumprimentos.\\pVocê pode inscrever duas CAPTURAS de até o nível 30 para uma batalha um contra um.\\pPode participar de um bate-papo com duas a cinco pessoas.\\pOu pode registrar uma CAPTURA para troca.\\pGostaria de entrar na SALA?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F60F0",
+  "en": "I hope you enjoy your time in\\nthe UNION ROOM.",
+  "pt": "Espero que aproveite o seu tempo na SALA DA UNIÃO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F611E",
+  "en": "Hello!\\nMy name is TEALA.\\pThis must be your first time\\nup here.\\pI'll show you how the Wireless\\nCommunication System works.\\pFirst, I need to show you this\\nfloor of our CAPTURE CENTER.\\pRight this way, please.",
+  "pt": "Olá! Meu nome é TEALA.\\pDeve ser a sua primeira vez aqui em cima.\\pVou mostrar como funciona o Sistema de Comunicação Sem Fio.\\pPrimeiro, preciso mostrar este andar do nosso CENTRO CAPTURA.\\pPor aqui, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F61EC",
+  "en": "On the top floor, there are two\\nrooms.\\pFirst, the room on the left.\\nIt's the UNION ROOM.\\pYou may link up with TRAINERS\\naround you who have also entered\\lthe UNION ROOM.\\pWith them, you may do things like\\nchat, battle, and trade.\\pSecond, the room on the right is\\nthe DIRECT CORNER.\\pYou may trade or battle CAPTURE\\nwith your friends in this room.\\pIf the Wireless Adapter isn't\\nconnected, you may still link up\\lusing a GBA Game Link cable.\\pIf that is the case, you must go\\nto the DIRECT CORNER.\\pI hope you enjoy the Wireless \\nCommunication System.",
+  "pt": "No último andar, há duas salas.\\pPrimeiro, a sala da esquerda. É a SALA DA UNIÃO.\\pVocê pode se conectar com TREINADORES perto de você que também entraram na SALA DA UNIÃO.\\pCom eles, você pode fazer coisas como conversar, batalhar e trocar.\\pDepois, a sala da direita é o CANTO DIRETO.\\pNesta sala, você pode trocar ou batalhar CAPTURAS com os seus amigos.\\pSe o Adaptador Sem Fio não estiver conectado, você ainda pode se conectar usando um Cabo Game Link do GBA.\\pNesse caso, você deve ir ao CANTO DIRETO.\\pEspero que aproveite o Sistema de Comunicação Sem Fio."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F640B",
+  "en": "Hello, {PLAYER}!\\pIt's me, TEALA, the CAPTURE\\nCENTER 2F attendant.\\pIs there something you needed to\\nask me about linking?",
+  "pt": "Olá, {PLAYER}!\\pSou eu, a TEALA, atendente do segundo andar do CENTRO CAPTURA.\\pPrecisa me perguntar alguma coisa sobre conexões?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F647E",
+  "en": "Let me explain how the CAPTURE\\nWIRELESS CLUB works.\\pOn this, the top floor, there are\\ntwo rooms.\\pFirst, the room on the left.\\nIt's the UNION ROOM.\\pYou may link up with TRAINERS\\naround you who have also entered\\lthe UNION ROOM.\\pWith them, you may do things like\\nchat, battle, and trade.\\pSecond, the room on the right is\\nthe DIRECT CORNER.\\pYou may trade or battle CAPTURE\\nwith your friends in this room.\\pSometimes, you may not be able to\\nfind your friends in the UNION ROOM\\lor the DIRECT CORNER.\\pIn that case, please move closer\\nto your friends.\\pIf the Wireless Adapter isn't\\nconnected, you may still link up\\lusing a GBA Game Link cable.\\pIf that is the case, you must go\\nto the DIRECT CORNER.\\pI hope you enjoy the Wireless \\nCommunication System.",
+  "pt": "Vou explicar como funciona o CLUBE SEM FIO CAPTURA.\\pAqui, no último andar, há duas salas.\\pPrimeiro, a sala da esquerda. É a SALA DA UNIÃO.\\pVocê pode se conectar com TREINADORES perto de você que também entraram na SALA DA UNIÃO.\\pCom eles, você pode fazer coisas como conversar, batalhar e trocar.\\pDepois, a sala da direita é o CANTO DIRETO.\\pNesta sala, você pode trocar ou batalhar CAPTURAS com os seus amigos.\\pÀs vezes, você pode não conseguir achar os seus amigos na SALA DA UNIÃO ou no CANTO DIRETO.\\pNesse caso, chegue mais perto dos seus amigos.\\pSe o Adaptador Sem Fio não estiver conectado, você ainda pode se conectar usando um Cabo Game Link do GBA.\\pNesse caso, você deve ir ao CANTO DIRETO.\\pEspero que aproveite o Sistema de Comunicação Sem Fio."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F6765",
+  "en": "I hope you enjoy the Wireless\\nCommunication System.",
+  "pt": "Espero que aproveite o Sistema de Comunicação Sem Fio."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F791B",
+  "en": "Okay, now that we've cleared that\\nup…\\pHello!\\pThis is the reception counter for\\nPOKéMON CONTESTS.",
+  "pt": "Muito bem, agora que esclarecemos isso…\\pOlá!\\pEste é o balcão de inscrições dos CONCURSOS DE CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F797C",
+  "en": "Hello!\\pThis is the reception counter for\\nPOKéMON CONTESTS.",
+  "pt": "Olá!\\pEste é o balcão de inscrições dos CONCURSOS DE CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F79FC",
+  "en": "Would you like to enter your POKéMON\\nin our CONTESTS?",
+  "pt": "Gostaria de inscrever a sua CAPTURA nos nossos CONCURSOS?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7A32",
+  "en": "Which topic would you like?",
+  "pt": "Sobre qual assunto você quer saber?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7A4E",
+  "en": "A POKéMON CONTEST involves four\\nTRAINERS entering one POKéMON each\\lin competitive judging.\\pA CONTEST has two stages of judging,\\nprimary and secondary.\\pPrimary judging is a popularity poll\\ninvolving the audience.\\pSecondary judging features appeals\\nby the POKéMON using their moves.\\pPlan appeals carefully to earn the\\nmost attention of the JUDGE and\\lexcite the audience.\\lDo your best to stand out.\\pThe primary and secondary scores are\\nadded at the end.\\pThe POKéMON garnering the highest\\nscore is declared the winner.",
+  "pt": "Num CONCURSO DE CAPTURAS, quatro TREINADORES inscrevem uma CAPTURA cada para uma avaliação competitiva.\\pO CONCURSO tem duas etapas de avaliação: a primária e a secundária.\\pA avaliação primária é uma votação de popularidade feita pela plateia.\\pNa avaliação secundária, as CAPTURAS fazem apresentações usando os seus golpes.\\pPlaneje bem as apresentações para chamar o máximo de atenção do JUIZ e empolgar a plateia. Faça de tudo para se destacar.\\pNo fim, as notas das duas etapas são somadas.\\pA CAPTURA com a maior pontuação é declarada a vencedora."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7C51",
+  "en": "There are five kinds of CONTESTS.\\pCOOL, BEAUTY, CUTE, SMART, and\\nTOUGH are the five categories.\\pChoose the CONTEST that is right for\\nthe POKéMON you plan to enter.",
+  "pt": "Existem cinco tipos de CONCURSO.\\pESTILO, BELEZA, FOFURA, INTELIGÊNCIA e GARRA são as cinco categorias.\\pEscolha o CONCURSO certo para a CAPTURA que você pretende inscrever."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7CF5",
+  "en": "There are four ranks of POKéMON\\nCONTESTS.\\pNORMAL, SUPER, HYPER, and MASTER\\nare the four ranks.\\pIn the NORMAL Rank, any POKéMON may\\nenter.\\pAny POKéMON that won a NORMAL Rank\\nCONTEST may move up to the SUPER Rank\\lin the same category.\\pIn the same way, a SUPER Rank winner\\ncan move up to the HYPER Rank, and\\la HYPER Rank winner can advance to\\lthe MASTER Rank in the same category.\\pA POKéMON that won in the MASTER Rank\\nmay compete in the MASTER Rank as\\loften as its TRAINER wants.",
+  "pt": "Existem quatro níveis de CONCURSOS DE CAPTURAS.\\pNORMAL, SUPER, HIPER e MESTRE são os quatro níveis.\\pNo nível NORMAL, qualquer CAPTURA pode se inscrever.\\pQualquer CAPTURA que vencer um CONCURSO de nível NORMAL pode subir para o nível SUPER na mesma categoria.\\pDo mesmo jeito, quem vence no nível SUPER pode subir para o nível HIPER, e quem vence no nível HIPER pode avançar para o nível MESTRE na mesma categoria.\\pUma CAPTURA que venceu no nível MESTRE pode competir no nível MESTRE quantas vezes o seu TREINADOR quiser."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7ED3",
+  "en": "Which Rank would you like to enter?",
+  "pt": "Em qual nível gostaria de se inscrever?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7EF7",
+  "en": "Which CONTEST would you like to enter?",
+  "pt": "Em qual CONCURSO gostaria de se inscrever?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7F1E",
+  "en": "Which POKéMON would you like to enter?",
+  "pt": "Qual CAPTURA gostaria de inscrever?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7F45",
+  "en": "I'm terribly sorry, but your POKéMON\\nis not qualified to compete at this\\lRank yet…",
+  "pt": "Sinto muitíssimo, mas a sua CAPTURA ainda não está qualificada para competir neste nível…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7F98",
+  "en": "I'm sorry, but an EGG cannot take part\\nin a POKéMON CONTEST.",
+  "pt": "Sinto muito, mas um OVO não pode participar de um CONCURSO DE CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F7FD5",
+  "en": "Your POKéMON appears to be in no\\ncondition to take part in a CONTEST…",
+  "pt": "Parece que a sua CAPTURA não está em condições de participar de um CONCURSO…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F801B",
+  "en": "Oh, but that RIBBON…\\pYour POKéMON has won this CONTEST\\nbefore, hasn't it?\\pWould you like to enter it in this\\nCONTEST anyway?",
+  "pt": "Ah, mas essa FITA…\\pA sua CAPTURA já venceu este CONCURSO antes, não é?\\pGostaria de inscrevê-la neste CONCURSO mesmo assim?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8098",
+  "en": "Is that your CONTEST POKéMON?",
+  "pt": "Esta é a CAPTURA que vai participar do CONCURSO?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F80B6",
+  "en": "Okay, your POKéMON will be entered\\nin this CONTEST.\\pYour POKéMON is Entry No. 4.\\nThe CONTEST will begin shortly.",
+  "pt": "Certo, a sua CAPTURA será inscrita neste CONCURSO.\\pA sua CAPTURA é a Participante número 4. O CONCURSO vai começar em breve."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F814F",
+  "en": "Congratulations! Your POKéMON is the\\nCONTEST winner!\\pWe have your prize right here.\\nPlease, right this way!",
+  "pt": "Parabéns! A sua CAPTURA é a vencedora do CONCURSO!\\pO seu prêmio está bem aqui. Por aqui, por favor!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F81BB",
+  "en": "Please come back for your prize\\nlater on.",
+  "pt": "Volte mais tarde para pegar o seu prêmio, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F81E5",
+  "en": "MC: Hello! We're just getting started\\nwith a {STR_VAR_3} Rank POKéMON\\l{STR_VAR_2}!\\pThe participating TRAINERS and their\\nPOKéMON are as follows:",
+  "pt": "LOCUTOR: Olá! Estamos começando agora: {STR_VAR_2} de CAPTURAS, nível {STR_VAR_3}!\\pOs TREINADORES participantes e as suas CAPTURAS são:"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8263",
+  "en": "MC: Hello! We're just getting started\\nwith a 4-player linked POKéMON\\l{STR_VAR_2}!\\pThe participating TRAINERS and their\\nPOKéMON are as follows:",
+  "pt": "LOCUTOR: Olá! Estamos começando agora: {STR_VAR_2} de CAPTURAS com link para 4 jogadores!\\pOs TREINADORES participantes e as suas CAPTURAS são:"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F82E9",
+  "en": "MC: Entry No. {STR_VAR_2}!\\n{STR_VAR_1}'s {STR_VAR_3}!",
+  "pt": "LOCUTOR: Participante número {STR_VAR_2}! {STR_VAR_3} de {STR_VAR_1}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8304",
+  "en": "MC: We've just seen the four POKéMON\\ncontestants.\\pNow it's time for primary judging!\\pThe audience will vote on their\\nfavorite POKéMON contestants.\\pWithout any further ado, let the\\nvoting begin!",
+  "pt": "LOCUTOR: Acabamos de conhecer as quatro CAPTURAS participantes.\\pAgora é hora da avaliação primária!\\pA plateia vai votar nas suas CAPTURAS participantes favoritas.\\pSem mais delongas, que comece a votação!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F83C6",
+  "en": "Voting under way…",
+  "pt": "Votação em andamento…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F83D8",
+  "en": "Voting is now complete!\\pWhile the votes are being tallied,\\nlet's move on to secondary judging!\\pThe second stage of judging is the\\nmuch anticipated appeal time!\\pMay the contestants amaze us with\\nsuperb appeals of dazzling moves!\\pLet's see a little enthusiasm!\\nLet's appeal!",
+  "pt": "A votação terminou!\\pEnquanto os votos são contados, vamos passar para a avaliação secundária!\\pA segunda etapa da avaliação é a tão esperada hora das apresentações!\\pQue os participantes nos impressionem com apresentações incríveis de golpes deslumbrantes!\\pQuero ver empolgação! Vamos às apresentações!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F84E9",
+  "en": "MC: That's it for judging!",
+  "pt": "LOCUTOR: Isso encerra a avaliação!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8504",
+  "en": "Thank you all for a most wonderful\\ndisplay of quality appeals!\\pThis concludes all judging!\\nThank you for your fine efforts!",
+  "pt": "Obrigado a todos pela maravilhosa exibição de apresentações de qualidade!\\pAssim concluímos toda a avaliação! Obrigado pelo ótimo esforço!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8580",
+  "en": "Now, all that remains is the pulse-\\npounding proclamation of the winner.\\pThe JUDGE looks ready to make\\nthe announcement!",
+  "pt": "Agora só falta o anúncio de tirar o fôlego do vencedor.\\pO JUIZ parece pronto para fazer o anúncio!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F85F9",
+  "en": "JUDGE: We will now declare the winner!",
+  "pt": "JUIZ: Vamos agora anunciar o vencedor!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8620",
+  "en": "MC: Entry No. {STR_VAR_2}!\\p{STR_VAR_3} and {STR_VAR_1},\\ncongratulations!",
+  "pt": "LOCUTOR: Participante número {STR_VAR_2}!\\p{STR_VAR_3} e {STR_VAR_1}, parabéns!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F864E",
+  "en": "MC: Congratulations!\\nPlease do compete again!",
+  "pt": "LOCUTOR: Parabéns! Participe de novo, por favor!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F867C",
+  "en": "MC: Here you are!\\nPlease accept your prize!",
+  "pt": "LOCUTOR: Aqui está! Aceite o seu prêmio, por favor!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F86A8",
+  "en": "We confer on you this RIBBON\\nas your prize!",
+  "pt": "Concedemos a você esta FITA como prêmio!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F86D4",
+  "en": "{PLAYER} received a RIBBON.",
+  "pt": "{PLAYER} recebeu uma FITA."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F86EA",
+  "en": "{PLAYER} put the RIBBON on\\n{STR_VAR_1}.",
+  "pt": "{PLAYER} colocou a FITA em {STR_VAR_1}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8703",
+  "en": "Please pick up your prize at\\nthe reception counter later.\\lPlease do compete again!",
+  "pt": "Retire o seu prêmio no balcão de recepção mais tarde, por favor. Participe de novo, por favor!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8823",
+  "en": "We hope you will participate another\\ntime.",
+  "pt": "Esperamos que você participe outra vez."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F8CBE",
+  "en": "Please decide which of you will\\nbecome the GROUP LEADER.\\pThe other players must then choose\\n“JOIN GROUP.”",
+  "pt": "Decidam qual de vocês será o LÍDER DO GRUPO.\\pOs outros jogadores devem então escolher “ENTRAR NO GRUPO.”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F9483",
+  "en": "MC: We've just seen the four POKéMON\\ncontestants.\\pNow it's time for primary judging!",
+  "pt": "LOCUTOR: Acabamos de conhecer as quatro CAPTURAS participantes.\\pAgora é hora da avaliação primária!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F9545",
+  "en": "Voting is now complete!\\pWhile the votes are being tallied,\\nlet's move on to secondary judging!",
+  "pt": "A votação terminou!\\pEnquanto os votos são contados, vamos passar para a avaliação secundária!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FBABB",
+  "en": "Oh, you will?\\nThank you.\\pBriefly, how would you describe the\\nCONTEST you just entered?",
+  "pt": "Ah, você topa? Obrigado.\\pResumindo, como você descreveria o CONCURSO de que acabou de participar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FBB12",
+  "en": "Ah, I see.\\nThat's a very edifying comment.\\pYou get a good feel for what\\nthe CONTEST was like.\\pI've got one last question.\\pWhen you hear the word “{STR_VAR_2},”\\nwhat image do you get?",
+  "pt": "Ah, entendi. Que comentário instrutivo.\\pDá pra sentir bem como foi o CONCURSO.\\pTenho só mais uma pergunta.\\pQuando você ouve a palavra “{STR_VAR_2},” que imagem vem à sua cabeça?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FBBC0",
+  "en": "I see!\\pSo that's how you imagine the concept\\nof “{STR_VAR_2}” to be.\\pThank you!\\nYou've given me some good ideas.\\pI think I can write a good story on\\nPOKéMON CONTESTS now.\\pMaybe, just maybe, this story will even\\nmake it to television.\\lI hope you'll look forward to it!",
+  "pt": "Entendi!\\pEntão é assim que você imagina o conceito de “{STR_VAR_2}”.\\pObrigado! Você me deu ótimas ideias.\\pAcho que agora consigo escrever uma boa matéria sobre os CONCURSOS DE CAPTURAS.\\pTalvez, só talvez, essa matéria até chegue à televisão. Espero que você fique de olho!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FBCC3",
+  "en": "Oh, too bad…\\pWell, if you come across a good story,\\nplease do share it with me.",
+  "pt": "Ah, que pena…\\pBom, se você souber de uma boa história, me conta, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FBD13",
+  "en": "I'll be looking forward to your next\\nPOKéMON CONTEST.",
+  "pt": "Vou ficar esperando o seu próximo CONCURSO DE CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC1D8",
+  "en": "Hello! You're the TRAINER who just had\\na battle, right?\\pI'm gathering interviews with TRAINERS\\nall over the place.\\pMay I get a few words from you about\\nyour impressions on battling?",
+  "pt": "Olá! Você é o TREINADOR que acabou de batalhar, né?\\pEstou fazendo entrevistas com TREINADORES de todo canto.\\pPosso ouvir umas palavrinhas suas sobre o que achou da batalha?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC28E",
+  "en": "You will? Really?\\nThank you!\\lThen, uh…\\pHow did things turn out in\\nthe BATTLE TOWER today?\\pWere you satisfied with the battle?\\nOr are you unhappy?",
+  "pt": "Topa? Sério? Obrigado! Então, hã…\\pComo foram as coisas na TORRE DE BATALHA hoje?\\pVocê ficou satisfeito com a batalha? Ou ficou chateado?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC320",
+  "en": "Oh…\\nSorry we disturbed you.\\pPlease give us an interview the next\\ntime you visit the BATTLE TOWER.",
+  "pt": "Ah… Desculpe incomodar.\\pDê uma entrevista pra gente da próxima vez que visitar a TORRE DE BATALHA, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC382",
+  "en": "Well, of course!\\pThat unmistakable look of satisfaction\\non your face…\\pIt's obvious that you've had a great\\nbattle.",
+  "pt": "Ora, claro!\\pEsse olhar de satisfação inconfundível no seu rosto…\\pDá pra ver que você teve uma batalha incrível."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC3F5",
+  "en": "Oh, I see…\\pWell, it certainly is difficult to make a\\nbattle turn out exactly as planned.",
+  "pt": "Ah, entendi…\\pBom, realmente é difícil fazer uma batalha sair exatamente como o planejado."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC44E",
+  "en": "Oh, oh, may I ask one more question?\\pIf you were to describe your\\nimpressions about this battle with\\lone saying, what would it be?",
+  "pt": "Ah, ah, posso fazer mais uma pergunta?\\pSe você tivesse que descrever o que achou desta batalha com uma frase, qual seria?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC4D1",
+  "en": "Oh, that is stunningly cool!\\pThat's a great line!\\nI hope you'll do great next time, too.\\pI hope to see you again!",
+  "pt": "Nossa, que coisa mais estilosa!\\pQue frase ótima! Espero que você se saia muito bem da próxima vez também.\\pEspero ver você de novo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC543",
+  "en": "Oh, I see…\\pStill, being the silent type is also\\ncool, isn't it?\\pI hope you'll give me the opportunity\\nto share your thoughts again!",
+  "pt": "Ah, entendi…\\pMesmo assim, ser do tipo calado também é estiloso, não é?\\pEspero que você me dê a chance de ouvir o que pensa outra vez!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FC5C7",
+  "en": "I'll be looking forward to your\\nnext battle!",
+  "pt": "Vou ficar esperando a sua próxima batalha!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FCD44",
+  "en": "Wow!\\pIt's plain to see that you lavish your\\nlove on your {STR_VAR_1}.\\pOkay, it's named {STR_VAR_2}.\\pCan I ask you a favor?\\pI'm a TV reporter, and I'm running\\na survey on POKéMON.\\pWould you be willing to answer a few\\nsimple questions for me?",
+  "pt": "Uau!\\pDá pra ver que você enche o seu {STR_VAR_1} de carinho.\\pCerto, o nome dele é {STR_VAR_2}.\\pPosso te pedir um favor?\\pSou repórter de TV e estou fazendo uma pesquisa sobre CAPTURAS.\\pVocê toparia responder umas perguntas simples pra mim?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FCE23",
+  "en": "Great! Thank you!\\pOkay, here goes.\\nI just need quick answers, okay?",
+  "pt": "Ótimo! Obrigado!\\pCerto, lá vai. Só preciso de respostas rápidas, tá?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FCE67",
+  "en": "When you first met {STR_VAR_1},\\nwhat did you feel?\\pHow would you describe your feelings\\nat the time?",
+  "pt": "Quando você conheceu {STR_VAR_1}, o que sentiu?\\pComo você descreveria o que sentiu naquele momento?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FCEC3",
+  "en": "Your {STR_VAR_1} is cared for lovingly.\\pIf you were to liken it to something\\nthat you like, what would it be?",
+  "pt": "O seu {STR_VAR_1} é tratado com muito carinho.\\pSe tivesse que comparar com algo de que você gosta, o que seria?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FCF28",
+  "en": "This question also relates to your\\nbeloved {STR_VAR_1}.\\pWhat was it about {STR_VAR_1} that\\nattracted you?",
+  "pt": "Esta pergunta também é sobre o seu querido {STR_VAR_1}.\\pO que foi que te atraiu em {STR_VAR_1}?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FCF80",
+  "en": "Okay, that makes sense.\\pThe next question might be a little\\non the tough side.\\pHere goes…\\pWhat do POKéMON mean to you?",
+  "pt": "Certo, faz sentido.\\pA próxima pergunta pode ser um pouco mais difícil.\\pLá vai…\\pO que as CAPTURAS significam pra você?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FCFF7",
+  "en": "I see!\\pHmhm…\\pOkay!\\nThanks for helping me out.\\pIt was fun and enlightening\\nchatting with you.\\pIt's possible that our interview will\\nend up on TV. Tune in and check!\\pOkay, that's all.\\nBye-bye!",
+  "pt": "Entendi!\\pHmhm…\\pCerto! Obrigado pela ajuda.\\pFoi divertido e esclarecedor conversar com você.\\pPode ser que a nossa entrevista vá parar na TV. Sintonize e confira!\\pCerto, é só isso. Tchauzinho!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FD0B6",
+  "en": "Oh, okay…\\pWell, if you get the urge to tell me\\nabout POKéMON, I'll be here!",
+  "pt": "Ah, tudo bem…\\pBom, se der vontade de me contar sobre CAPTURAS, vou estar aqui!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FD102",
+  "en": "I enjoy this job--you get to learn\\nabout POKéMON by doing interviews.",
+  "pt": "Eu curto este trabalho: dá pra aprender sobre CAPTURAS fazendo entrevistas."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FD148",
+  "en": "Hi, you seem to be very close to your\\n{STR_VAR_1}.\\pDo you know what?\\nI'm a TV reporter.\\pI travel around interviewing people\\nabout POKéMON.\\pI'm wondering if you'd be willing to tell\\nme a little about your {STR_VAR_1}?",
+  "pt": "Oi, você parece ser muito próximo do seu {STR_VAR_1}.\\pSabe de uma coisa? Eu sou repórter de TV.\\pViajo por aí entrevistando as pessoas sobre CAPTURAS.\\pSerá que você toparia me contar um pouco sobre o seu {STR_VAR_1}?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FD20F",
+  "en": "Wow, thank you!\\pOkay, then, please tell me anything\\nyou'd like about your {STR_VAR_1}.",
+  "pt": "Uau, obrigado!\\pCerto, então me conte o que quiser sobre o seu {STR_VAR_1}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FD25D",
+  "en": "Wow…\\nThat's an interesting account.\\pYou really are tight with {STR_VAR_1},\\naren't you?\\pI get the feeling that your account\\nwill make a great TV story.\\pI promise that I'll turn this into\\nan entertaining show.\\lKeep your eyes out for it.\\pOkay, that's all.\\nBye-bye!",
+  "pt": "Uau… Que relato interessante.\\pVocê é unha e carne com {STR_VAR_1}, né?\\pTenho a sensação de que o seu relato vai virar uma ótima matéria de TV.\\pPrometo transformar isso num programa divertido. Fique de olho.\\pCerto, é só isso. Tchauzinho!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FDC74",
+  "en": "Oh?\\nDo you perhaps like POKéMON?\\pI'm on assignment with the TV network.\\pI'm gathering stories on POKéMON and\\nTRAINERS that occurred recently.\\pIf you don't mind, could you tell me\\nsomething about yourself?",
+  "pt": "Hã? Por acaso você gosta de CAPTURAS?\\pEstou numa pauta pra emissora de TV.\\pEstou juntando histórias recentes sobre CAPTURAS e TREINADORES.\\pSe não se importar, pode me contar alguma coisa sobre você?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FDD41",
+  "en": "I'm gathering stories on POKéMON and\\nTRAINERS that occurred recently.\\pIf you don't mind, could you tell me\\nsomething about yourself?",
+  "pt": "Estou juntando histórias recentes sobre CAPTURAS e TREINADORES.\\pSe não se importar, pode me contar alguma coisa sobre você?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FDDC6",
+  "en": "Oh, you will?\\nThank you!\\pThen, please, tell me anything of\\ninterest that you experienced recently\\linvolving POKéMON.",
+  "pt": "Ah, você topa? Obrigado!\\pEntão, por favor, me conte qualquer coisa interessante que você viveu recentemente envolvendo CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FDE3B",
+  "en": "Oh, I see…\\pWell, if you do have an interesting\\nstory to tell, please let me know.",
+  "pt": "Ah, entendi…\\pBom, se tiver uma história interessante pra contar, me avisa, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FDE8D",
+  "en": "Oh, what an uplifting story!\\pI'll be sure to get your story told\\non television.\\pIt should be aired sometime, I think,\\nso please look forward to it.",
+  "pt": "Ah, que história mais inspiradora!\\pPode deixar que a sua história vai passar na televisão.\\pAcho que deve ir ao ar algum dia, então fique de olho."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FDF21",
+  "en": "Hmmm…\\nI've got a good story for a TV program.\\pI'd better write it up in a hurry!",
+  "pt": "Hmmm… Tenho uma ótima história pra um programa de TV.\\pÉ melhor eu escrever correndo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03079D9",
+  "en": "GABBY: Oh! We've just spotted a tough-\\nlooking TRAINER here of all places!\\pOkay, roll camera!\\nLet's get this interview.",
+  "pt": "GABBY: Ah! Acabamos de avistar um TREINADOR com cara de durão logo aqui!\\pCerto, rodando a câmera! Vamos fazer essa entrevista."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307A51",
+  "en": "GABBY: Oh! You're {PLAYER}! Hi!\\nDo you remember us from last time?\\pCan you show us how much stronger\\nyou've become? Okay, cue interview!",
+  "pt": "GABBY: Ah! Você é o {PLAYER}! Oi! Lembra da gente da última vez?\\pPode mostrar pra gente o quanto você ficou mais forte? Certo, valendo a entrevista!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307AD4",
+  "en": "GABBY: My eyes didn't lie!\\nI did discover an astonishing TRAINER!",
+  "pt": "GABBY: Meus olhos não mentiram! Descobri mesmo um TREINADOR impressionante!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307B16",
+  "en": "GABBY: Awesome! Awesome!\\nWho are you?!\\pI knew we were onto something wild\\nwhen we spotted you!\\pOh, please let me explain. We travel\\naround everywhere interviewing all\\lsorts of TRAINERS.\\pSo, would you give us a bit of your time\\nfor an interview?",
+  "pt": "GABBY: Incrível! Incrível! Quem é você?!\\pEu sabia que tinha algo de especial quando vimos você!\\pAh, deixa eu explicar. A gente viaja por todo canto entrevistando todo tipo de TREINADOR.\\pEntão, você pode ceder um pouquinho do seu tempo pra uma entrevista?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307C0B",
+  "en": "GABBY: “{STR_VAR_1}!”\\pRemember? That's the quote you gave\\nus as the battle clincher last time.\\pI never, ever forget stuff like that!",
+  "pt": "GABBY: “{STR_VAR_1}!”\\pLembra? Essa foi a frase que você deu pra gente como fechamento da batalha da última vez.\\pEu nunca, jamais esqueço coisas assim!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307C87",
+  "en": "The last time we battled, you stomped\\nus before we could brace ourselves…\\pAnyway, what do you think?\\nDo you want to be interviewed again?",
+  "pt": "Da última vez que batalhamos, você acabou com a gente antes que a gente conseguisse se preparar…\\pEnfim, o que acha? Quer ser entrevistado de novo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307D11",
+  "en": "The last time we battled, didn't you\\nthrow a POKé BALL at us?\\pWe were shocked! So we told everyone,\\njust everyone, about it!\\pAnyway, what do you think?\\nDo you want to be interviewed again?",
+  "pt": "Da última vez que batalhamos, você não jogou um CAP na gente?\\pFicamos chocados! Aí contamos pra todo mundo, todo mundo mesmo!\\pEnfim, o que acha? Quer ser entrevistado de novo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307DCE",
+  "en": "The last time we battled, your item\\nskills cleverly did us in.\\pAnyway, what do you think?\\nDo you want to be interviewed again?",
+  "pt": "Da última vez que batalhamos, a sua habilidade com itens acabou com a gente direitinho.\\pEnfim, o que acha? Quer ser entrevistado de novo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307E4D",
+  "en": "The last time we battled, we managed\\nto look respectable.\\pAnyway, what do you think?\\nDo you want to be interviewed again?",
+  "pt": "Da última vez que batalhamos, a gente até conseguiu fazer bonito.\\pEnfim, o que acha? Quer ser entrevistado de novo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307EC7",
+  "en": "Anyway, what do you think?\\nDo you want to be interviewed again?",
+  "pt": "Enfim, o que acha? Quer ser entrevistado de novo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307F07",
+  "en": "You will?\\nThank you!\\pOkay, I need you to describe your\\nfeelings about our battle, but it\\lhas to be short and sweet. Go!",
+  "pt": "Topa? Obrigada!\\pCerto, preciso que você descreva o que sentiu na nossa batalha, mas tem que ser curto e direto. Vai!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0307F7F",
+  "en": "GABBY: Mmm, yeah!\\nThat's the perfect clincher!\\pI get the feeling that this will make\\na great TV show.\\pThere's a chance that they'll air this\\non TV, so make sure to look for us!\\pOkay!\\nWe'll be seeing you!",
+  "pt": "GABBY: Hmm, isso!\\nEsse é o fechamento perfeito!\\pTenho a sensação de que isso vai dar um ótimo programa de TV.\\pPode ser que passem isso na TV, então fique de olho na gente!\\pCerto!\\nA gente se vê!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030804B",
+  "en": "GABBY: Oh…\\pOkay, but don't give up!\\nWe'll be keeping an eye out for you!",
+  "pt": "GABBY: Ah…\\pTudo bem, mas não desista! A gente vai ficar de olho em você!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0308094",
+  "en": "GABBY: We'll be keeping an eye out\\nfor you!",
+  "pt": "GABBY: A gente vai ficar de olho em você!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03080C0",
+  "en": "GABBY: Is there a strong TRAINER\\nanywhere with a lot of POKéMON?",
+  "pt": "GABBY: Será que tem algum TREINADOR forte por aqui com um monte de CAPTURAS?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0308101",
+  "en": "GABBY: Wow, you are something!\\pYou've gotten a lot stronger--a lot--\\nsince we last battled.\\pWe were right about you when we\\nspotted you as a hot TRAINER.\\pSo, anyway, what do you think?\\nAre you willing to give us an interview\\lthis time?",
+  "pt": "GABBY: Uau, você é demais!\\pVocê ficou bem mais forte (mas muito mesmo) desde a nossa última batalha.\\pA gente acertou em cheio quando viu você como um TREINADOR promissor.\\pEntão, enfim, o que acha? Topa dar uma entrevista pra gente desta vez?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03081ED",
+  "en": "GABBY: That was an intense battle!\\nDid you get all that on camera?",
+  "pt": "GABBY: Que batalha intensa! Você gravou tudo isso?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0308230",
+  "en": "TY: Hey, lookie here! A tough-looking\\nTRAINER here, of all places!\\lCamera's rolling!",
+  "pt": "TY: Ei, olha só! Um TREINADOR com cara de durão logo aqui! A câmera tá rodando!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0308285",
+  "en": "TY: Hey, lookie here!\\nI remember you!\\pI'll get this battle all on this\\nhere camera!",
+  "pt": "TY: Ei, olha só! Eu lembro de você!\\pVou gravar essa batalha todinha nesta câmera aqui!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03082D9",
+  "en": "TY: You're a natural!\\nGot me some prime footage right here!",
+  "pt": "TY: Você é um talento nato! Consegui umas imagens de primeira aqui!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0308315",
+  "en": "TY: Do you only have the one POKéMON\\nand that's it?\\pIf you had more POKéMON, it'd make for\\nbetter footage, but…",
+  "pt": "TY: Você só tem essa CAPTURA e pronto?\\pSe você tivesse mais CAPTURAS, as imagens iam ficar melhores, mas…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0308385",
+  "en": "TY: Yep, we sure spotted a hot TRAINER.\\nThis is a huge scoop for us!",
+  "pt": "TY: É, a gente achou mesmo um TREINADOR promissor. Isso é um furo enorme pra gente!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03083CA",
+  "en": "TY: Yep, I got it all.\\nThat whole battle's on camera.",
+  "pt": "TY: É, gravei tudo. A batalha inteira tá na câmera."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030ACBC",
+  "en": "Oh…\\nYou've left me feeling the blues…",
+  "pt": "Ah… Você me deixou tristinho…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030ACE2",
+  "en": "But we've traded decorations already,\\nyou and I.",
+  "pt": "Mas a gente já trocou decorações, você e eu."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AD13",
+  "en": "If you see any decorative item that\\nyou want of mine, speak up.",
+  "pt": "Se vir alguma decoração minha que você queira, é só falar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AD53",
+  "en": "You don't want anything?\\nI feel unwanted…",
+  "pt": "Não quer nada? Eu me sinto rejeitado…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AD7D",
+  "en": "That decorative item once belonged\\nto {STR_VAR_1}.\\pDo you want it?",
+  "pt": "Essa decoração já pertenceu a {STR_VAR_1}.\\pVocê quer?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030ADB7",
+  "en": "Uh… Wait a second. You don't have a\\nsingle piece of decoration!",
+  "pt": "Hã… Espera aí. Você não tem nenhuma decoração!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030ADF7",
+  "en": "Okay, pick the decoration that you'll\\ntrade to me.",
+  "pt": "Certo, escolha a decoração que você vai trocar comigo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AE2A",
+  "en": "You won't trade with me?\\nI feel unwanted…",
+  "pt": "Não vai trocar comigo? Eu me sinto rejeitado…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AE54",
+  "en": "You've got all the {STR_VAR_2}S that can\\nbe stored. You've no room for this.",
+  "pt": "Você já tem o máximo de {STR_VAR_2} que dá pra guardar. Não tem espaço pra isto."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AE98",
+  "en": "Okay, so we'll trade my {STR_VAR_3}\\nfor your {STR_VAR_2}?",
+  "pt": "Certo, então vamos trocar o meu {STR_VAR_3} pelo seu {STR_VAR_2}?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AEC0",
+  "en": "That piece of decoration is in use.\\nYou can't trade it.",
+  "pt": "Essa decoração está em uso. Você não pode trocá-la."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AEF8",
+  "en": "Then we'll trade!\\nI'll send my decoration to your PC.",
+  "pt": "Então vamos trocar! Vou mandar a minha decoração pro seu PC."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AF2E",
+  "en": "Oops! Sorry! That's a really rare\\npiece of decoration.\\lI can't trade that one away!\\pCan I interest you in something else?",
+  "pt": "Opa! Desculpe! Essa decoração é raríssima. Essa eu não posso trocar!\\pPosso te oferecer outra coisa?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B121",
+  "en": "Oh…\\nYou've left me feeling the blues…",
+  "pt": "Ah… Você me deixou tristinho…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B147",
+  "en": "I know of these legends.\\nWhich tale will you have me tell?",
+  "pt": "Conheço estas lendas. Qual história você quer que eu conte?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B182",
+  "en": "But, I know of no legendary TRAINERS.\\nHence, I know no tales.\\pWhere does one find a TRAINER worthy\\nof a legendary tale?",
+  "pt": "Mas não conheço nenhum TREINADOR lendário. Portanto, não conheço história alguma.\\pOnde é que se encontra um TREINADOR digno de uma história lendária?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B1FA",
+  "en": "What's that?!\\nYou… You…\\p{STR_VAR_2}\\n{STR_VAR_1} time(s)?!\\pThat is indeed magnificent!\\nIt's the birth of a new legend!",
+  "pt": "O que é isso?! Você… Você…\\p{STR_VAR_2}\\n{STR_VAR_1} vez(es)?!\\pIsso é mesmo magnífico! É o nascimento de uma nova lenda!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B25E",
+  "en": "It gets me thinking, could there be\\nother TRAINERS with more impressive\\llegends awaiting discovery?",
+  "pt": "Isso me faz pensar: será que existem outros TREINADORES com lendas ainda mais impressionantes esperando para ser descobertas?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B2C2",
+  "en": "Are you a TRAINER?\\pThen tell me, have you any tales that\\nare even remotely legendary?",
+  "pt": "Você é um TREINADOR?\\pEntão me diga: tem alguma história que seja minimamente lendária?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B355",
+  "en": "Hmm…\\nI'm not satisfied…\\pI wish you would bring me news worthy\\nof being called a legend.",
+  "pt": "Hmm… Não estou satisfeito…\\pQueria que você me trouxesse notícias dignas de serem chamadas de lenda."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B3AD",
+  "en": "I wish more people would be interested\\nin hearing my epic tales of legendary\\lTRAINERS.",
+  "pt": "Queria que mais gente se interessasse em ouvir as minhas histórias épicas de TREINADORES lendários."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CD55",
+  "en": "Oh…\\nYou've left me feeling the blues…",
+  "pt": "Ah… Você me deixou tristinho…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CD7B",
+  "en": "Also, I was thinking…",
+  "pt": "Ah, eu estava pensando também…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CD91",
+  "en": "That's about it, I think…\\pWe should chat again!\\nBye-bye!",
+  "pt": "Acho que é isso…\\pVamos conversar de novo! Tchauzinho!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CE94",
+  "en": "Oh…\\nYou've left me feeling the blues…",
+  "pt": "Ah… Você me deixou tristinho…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CEBA",
+  "en": "Oh, what a moving song…\\nI wish I could play it for others…",
+  "pt": "Ah, que música emocionante… Queria poder tocá-la para outras pessoas…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CEF5",
+  "en": "So?\\nHow do you like my song?\\pBut I'm none too happy about\\nthe lyrics.\\pHow would you like to write some\\nnew lyrics for me?",
+  "pt": "E aí? Gostou da minha música?\\pMas não estou nada feliz com a letra.\\pQue tal escrever uma letra nova pra mim?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CF6F",
+  "en": "Oh…\\nYou've left me feeling the blues…",
+  "pt": "Ah… Você me deixou tristinho…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CF95",
+  "en": "Thank you kindly!\\nLet me sing it for you.",
+  "pt": "Muito obrigado! Deixa eu cantar pra você."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CFBF",
+  "en": "Was that how you wanted your song\\nto go?",
+  "pt": "Era assim que você queria que a música ficasse?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CFE8",
+  "en": "Okay! That's it, then.\\nI'll sing this song for a while.",
+  "pt": "Beleza! Então é isso. Vou cantar essa música por um tempo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D020",
+  "en": "Hey, yo! They call me the HIPSTER.\\nI'll teach you what's hip and happening.",
+  "pt": "E aí, yo! Me chamam de DESCOLADO. Vou te ensinar o que está bombando."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D06C",
+  "en": "But, hey, I taught you what's hip and\\nhappening already.\\pI'd like to spread the good word to\\nother folks.",
+  "pt": "Mas, ei, eu já te ensinei o que está bombando.\\pQuero espalhar a boa nova pra outras pessoas."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D0D6",
+  "en": "But, hey, you already know a lot about\\nwhat's hip and happening.\\pI've got nothing new to teach you!",
+  "pt": "Mas, ei, você já sabe um monte sobre o que está bombando.\\pNão tenho nada de novo pra te ensinar!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D13A",
+  "en": "Hey, have you heard about\\n“{STR_VAR_1}”?\\pWhat's it mean? Well…\\nAsk your daddy or mommy, okay?",
+  "pt": "Ei, já ouviu falar de “{STR_VAR_1}”?\\pO que significa? Bom… Pergunte pro seu pai ou pra sua mãe, tá?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D1E0",
+  "en": "{PLAYER} used the AXE!",
+  "pt": "{PLAYER} usou o MACHADO!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D1F1",
+  "en": "This tree looks like it can be\\nCUT down!",
+  "pt": "Parece que dá pra CORTAR esta árvore!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D37A",
+  "en": "It's now possible to move boulders\\naround.",
+  "pt": "Agora é possível mover pedregulhos."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D3A5",
+  "en": "MARIO used the POWER GLOVE!",
+  "pt": "MARIO usou a LUVA DE PODER!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D3C1",
+  "en": "CAPTAIN TOAD used the POWER GLOVE!",
+  "pt": "CAPTAIN TOAD usou a LUVA DE PODER!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D444",
+  "en": "MARIO climbed the waterfall!",
+  "pt": "MARIO escalou a cachoeira!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D511",
+  "en": "{PLAYER} put on the DIVING SUIT!",
+  "pt": "{PLAYER} vestiu a ROUPA DE MERGULHO!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D52C",
+  "en": "{PLAYER} surfaced!",
+  "pt": "{PLAYER} voltou à superfície!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D539",
+  "en": "Light is filtering down from above.",
+  "pt": "Tem luz entrando lá de cima."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D62C",
+  "en": "{STR_VAR_1} used {STR_VAR_2}!",
+  "pt": "{STR_VAR_1} usou {STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E092",
+  "en": "So, how about it?\\nMay I see your profile?",
+  "pt": "E aí, topa? Posso ver o seu perfil?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E0BC",
+  "en": "You make your own profile by putting\\ntogether four words or phrases.\\pHere, I'll show you an example of a\\nprofile using four pieces of text.\\pYou can switch those four pieces with\\nother text pieces any which way you\\llike to make your own profile.\\pThere are a lot of text pieces that\\nyou can use.\\pThey are arranged in groups like\\nCAPTURE, lifestyles, and hobbies so\\lit is easier to look them up.\\pSo, first, choose the group of text\\npieces to display a list of choices.\\pThen, pick the choice you want.\\pRepeat for the remaining text choices,\\nand you'll have your very own profile.",
+  "pt": "Você monta o seu perfil juntando quatro palavras ou expressões.\\pVou te mostrar um exemplo de perfil usando quatro pedaços de texto.\\pVocê pode trocar esses quatro pedaços por outros do jeito que quiser pra montar o seu perfil.\\pTem um monte de pedaços de texto que você pode usar.\\pEles ficam organizados em grupos como CAPTURAS, estilos de vida e passatempos, pra ficar mais fácil de procurar.\\pEntão, primeiro, escolha o grupo de pedaços de texto pra ver uma lista de opções.\\pDepois, escolha a opção que você quer.\\pRepita com os outros pedaços e você vai ter o seu próprio perfil."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E2FC",
+  "en": "Yes! Thank you!\\nSo, let's see it, then.",
+  "pt": "Isso! Obrigado! Então vamos ver."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E324",
+  "en": "Oh, no, really?\\pI imagine someone like you would have\\na wonderful profile…",
+  "pt": "Ah, não, sério?\\pImagino que alguém como você teria um perfil maravilhoso…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E36F",
+  "en": "Oh? You're not into it right now?\\pWell, anytime is good by me!",
+  "pt": "Hã? Não está no clima agora?\\pBom, por mim qualquer hora está ótimo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E3AE",
+  "en": "Hello there, TRAINER!\\nYou've got a wonderful smile.",
+  "pt": "Olá, TREINADOR! Que sorriso maravilhoso você tem."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E3E2",
+  "en": "May I see your new profile?",
+  "pt": "Posso ver o seu perfil novo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E3FE",
+  "en": "Yes! Thank you!\\pI hope it's even better than the profile\\nyou showed me before.",
+  "pt": "Isso! Obrigado!\\pEspero que seja ainda melhor que o perfil que você me mostrou antes."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E44D",
+  "en": "Oh, you like your profile the way it is.\\pI don't blame you--it's a wonderful\\nprofile the way it is now.",
+  "pt": "Ah, você gosta do seu perfil do jeito que está.\\pNão te culpo: ele está maravilhoso do jeito que está."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E4B5",
+  "en": "F-fantastic!\\pYour profile, it's wonderful!\\nIt really says what you're about.\\pWhy, anyone hearing this profile would\\nbe captivated by you!\\pThank you!",
+  "pt": "F-fantástico!\\pO seu perfil é maravilhoso! Diz mesmo quem você é.\\pOra, qualquer pessoa que ouvir esse perfil vai ficar encantada com você!\\pObrigado!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E96C",
+  "en": "I'm the DAY-CARE MAN.\\pI help take care of your\\nCAPTURES.\\pIf you'd like me to raise your CAPTURES,\\nhave a word with the woman inside.",
+  "pt": "Eu sou o HOMEM DA CRECHE.\\pEu ajudo a cuidar das suas CAPTURAS.\\pSe quiser que eu crie as suas CAPTURAS, fale com a moça lá dentro."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E9F1",
+  "en": "Ah, it's you!\\pWe were raising your CAPTURE,\\nand my goodness, were we surprised!\\pYour CAPTURE had an EGG!\\pWe don't know how it got there,\\nand we're not going ask questions.\\pYou do want it, yes?",
+  "pt": "Ah, é você!\\pEstávamos criando a sua CAPTURA e, minha nossa, que surpresa!\\pA sua CAPTURA tinha um OVO!\\pNão sabemos como ele foi parar lá, e não vamos fazer perguntas.\\pVocê quer ficar com ele, não quer?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EAB2",
+  "en": "Ah, it's you! Good to see you.\\nYour {STR_VAR_1}'s doing fine.",
+  "pt": "Ah, é você! Que bom te ver. O seu {STR_VAR_1} está bem."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EAE7",
+  "en": "Well then, I'll keep it.\\nThanks!",
+  "pt": "Bom, então eu fico com ele. Obrigado!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EB08",
+  "en": "You have no room for it…\\nCome back when you've made room.",
+  "pt": "Você não tem espaço pra ele… Volte quando abrir espaço."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EB42",
+  "en": "MARIO received the EGG from\\nthe DAY-CARE MAN.",
+  "pt": "MARIO recebeu o OVO do HOMEM DA CRECHE."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EB70",
+  "en": "Take good care of it.",
+  "pt": "Cuide bem dele."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EB86",
+  "en": "By the way, about your {STR_VAR_1},\\nit seemed to be friendly with\\l{STR_VAR_2}'s {STR_VAR_3}.\\pI may even have seen it receiving\\na piece of MAIL.",
+  "pt": "A propósito, o seu {STR_VAR_1} parecia estar bem amigo do {STR_VAR_3} de {STR_VAR_2}.\\pAcho até que vi ele recebendo uma CARTA."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EC43",
+  "en": "Ah, it's you! Your {STR_VAR_1} and\\n{STR_VAR_2} are doing fine.",
+  "pt": "Ah, é você! O seu {STR_VAR_1} e o seu {STR_VAR_2} estão bem."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EC70",
+  "en": "I really will keep it.\\nYou do want this, yes?",
+  "pt": "Eu vou ficar com ele mesmo, viu? Você quer, não quer?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EC9E",
+  "en": "I'm the DAY-CARE LADY.\\pWe can raise CAPTURES for you.\\pWould you like us to raise one?",
+  "pt": "Eu sou a SENHORA DA CRECHE.\\pPodemos criar CAPTURAS pra você.\\pQuer que a gente crie uma?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030ECF4",
+  "en": "Which CAPTURE should we raise for\\nyou?",
+  "pt": "Qual CAPTURA devemos criar pra você?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030ED1B",
+  "en": "Fine, we'll raise your {STR_VAR_1}\\nfor a while.\\pCome back for it later.",
+  "pt": "Tudo bem, vamos criar o seu {STR_VAR_1} por um tempo.\\pVolte pra buscar mais tarde."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030ED5A",
+  "en": "We can raise two of your CAPTURES.\\nWould you like us to raise one more?",
+  "pt": "Podemos criar duas das suas CAPTURAS. Quer que a gente crie mais uma?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EDA2",
+  "en": "My husband was looking for you.",
+  "pt": "O meu marido estava te procurando."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EDC2",
+  "en": "Oh, fine, then.\\nCome again.",
+  "pt": "Ah, tudo bem, então. Volte sempre."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EDDE",
+  "en": "You don't have enough money…",
+  "pt": "Você não tem dinheiro suficiente…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EDFB",
+  "en": "Will you take back the other one,\\ntoo?",
+  "pt": "Vai levar a outra de volta também?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EE22",
+  "en": "Fine.\\nCome again.",
+  "pt": "Tudo bem. Volte sempre."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EE34",
+  "en": "Ah, it's you! Good to see you.\\nYour CAPTURE can only be doing good!",
+  "pt": "Ah, é você! Que bom te ver. A sua CAPTURA só pode estar ótima!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EE78",
+  "en": "By level, your {STR_VAR_1} has\\ngrown by {STR_VAR_2}.",
+  "pt": "O seu {STR_VAR_1} subiu {STR_VAR_2} nível(is)."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EE9B",
+  "en": "Your team is full.\\nMake room, then come see me.",
+  "pt": "A sua equipe está cheia. Abra espaço e depois venha falar comigo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EEED",
+  "en": "If you want your {STR_VAR_1} back,\\nit will cost ¥{STR_VAR_2}.",
+  "pt": "Se quiser o seu {STR_VAR_1} de volta, vai custar ¥{STR_VAR_2}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EF19",
+  "en": "Perfect!\\nHere's your CAPTURE.",
+  "pt": "Perfeito! Aqui está a sua CAPTURA."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EF37",
+  "en": "MARIO took back {STR_VAR_1} from\\nthe DAY-CARE LADY.",
+  "pt": "MARIO pegou {STR_VAR_1} de volta com a SENHORA DA CRECHE."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EF62",
+  "en": "Oh? But you have just one\\nCAPTURE.\\pCome back another time.",
+  "pt": "Hã? Mas você só tem uma CAPTURA.\\pVolte outra hora."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EF9D",
+  "en": "Will you take your CAPTURE back?",
+  "pt": "Vai levar a sua CAPTURA de volta?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030EFBE",
+  "en": "If you leave me that CAPTURE,\\nwhat will you battle with?\\pCome back another time.",
+  "pt": "Se deixar essa CAPTURA comigo, vai batalhar com o quê?\\pVolte outra hora."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030F00F",
+  "en": "Huh?",
+  "pt": "Hã?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030F014",
+  "en": "Huh?\\nNow, now.\\pIf you leave that CAPTURE with\\nme, you'll be left with just one.\\pYou will be better off if you catch\\nsome more, I dare say.",
+  "pt": "Hã? Calma, calma.\\pSe deixar essa CAPTURA comigo, você vai ficar com uma só.\\pSeria melhor pegar mais algumas, se me permite dizer."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030F839",
+  "en": "Excellent!",
+  "pt": "Excelente!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030F844",
+  "en": "Oh…\\nYou've made this old-timer sad…",
+  "pt": "Ah… Você deixou este velhote triste…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030F889",
+  "en": "Let's get started, then!\\pLet's BERRY BLENDER!",
+  "pt": "Então vamos começar!\\pVamos de LIQUIDIFICADOR DE FRUTAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030F8B7",
+  "en": "Okay, a little explanation, then.\\pOh, don't worry, it's quite simple.\\pWhen the BLENDER's arrow comes to\\nyour marker, just press the A Button.\\pThat's all you have to do.\\nYou'll see how easy it is when you try.",
+  "pt": "Certo, então uma explicaçãozinha.\\pAh, não se preocupe, é bem simples.\\pQuando a seta do LIQUIDIFICADOR chegar no seu marcador, é só apertar o Botão A.\\pÉ só isso que você tem que fazer. Quando tentar, vai ver como é fácil."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FA8E",
+  "en": "If I had some BERRIES left over,\\nI'd gladly give you one…\\pBut, I don't have any to spare today.\\nWe'll have to do this another time.",
+  "pt": "Se eu tivesse umas FRUTAS sobrando, te daria uma com prazer…\\pMas hoje não tenho nenhuma pra dar. Vamos ter que fazer isso outra hora."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FC48",
+  "en": "Okay!",
+  "pt": "Certo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FC4E",
+  "en": "That's too bad…\\pBut we'll always be around whenever\\nyou get the urge to blend!",
+  "pt": "Que pena…\\pMas a gente sempre vai estar por aqui quando der vontade de bater umas frutas!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FCD4",
+  "en": "Let's get started, then!\\pLet's BERRY BLENDER!",
+  "pt": "Então vamos começar!\\pVamos de LIQUIDIFICADOR DE FRUTAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FD02",
+  "en": "Okay!\\nLet me explain it to you!\\pWhen the spinning BLENDER's arrow\\nreaches your marker, just press\\lthe A Button.\\pThat's all it takes.\\nPretty easy, don't you think?",
+  "pt": "Certo! Deixa eu te explicar!\\pQuando a seta giratória do LIQUIDIFICADOR chegar no seu marcador, é só apertar o Botão A.\\pSó isso. Bem fácil, não acha?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FF5F",
+  "en": "Oh, dear!",
+  "pt": "Minha nossa!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FF69",
+  "en": "Oh, dear me…\\pYou've left us in shock!",
+  "pt": "Ai, ai, minha nossa…\\pVocê deixou a gente em choque!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FFC2",
+  "en": "Okay, dear!\\nLet's get started!\\pLet's BERRY BLENDER!",
+  "pt": "Certo, meu bem! Vamos começar!\\pVamos de LIQUIDIFICADOR DE FRUTAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030FFF6",
+  "en": "Oh, dear!\\pThen, I'll explain it to you nicely.\\pWhen the BLENDER's arrow spins to\\nyour marker, press the A Button.\\pThat's all it takes.\\nIsn't it simple?",
+  "pt": "Ah, meu bem!\\pEntão vou te explicar direitinho.\\pQuando a seta do LIQUIDIFICADOR girar até o seu marcador, aperte o Botão A.\\pSó isso. Não é simples?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "031020A",
+  "en": "Okay! Today's going to be the day that\\nI set a new BLENDER speed record!",
+  "pt": "Certo! Hoje vai ser o dia em que eu bato um novo recorde de velocidade no LIQUIDIFICADOR!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0310253",
+  "en": "Oh, dear!\\nYou look as if you're good at blending.\\lWould you like to join us?",
+  "pt": "Ah, meu bem! Você parece ser bom em bater frutas. Quer se juntar a nós?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0310366",
+  "en": "Searching for your friends…\\n… … B Button: Cancel",
+  "pt": "Procurando os seus amigos…\\n… … Botão B: Cancelar"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0310397",
+  "en": "{STR_VAR_1} arrived.",
+  "pt": "{STR_VAR_1} chegou."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03103A3",
+  "en": "{STR_VAR_1} and {STR_VAR_2} arrived.",
+  "pt": "{STR_VAR_1} e {STR_VAR_2} chegaram."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03103B6",
+  "en": "{STR_VAR_1}, {STR_VAR_2}, and\\n{STR_VAR_3} arrived.",
+  "pt": "{STR_VAR_1}, {STR_VAR_2} e {STR_VAR_3} chegaram."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03103CE",
+  "en": "You have no BERRIES.\\nThe BERRY BLENDER can't be used.",
+  "pt": "Você não tem FRUTAS. O LIQUIDIFICADOR DE FRUTAS não pode ser usado."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0310501",
+  "en": "Oh?\\nYou don't have any BERRIES?\\pWell, that won't do at all now, will it?\\pIf you don't mind leftovers, you can\\nhave one of my BERRIES.",
+  "pt": "Hã? Você não tem nenhuma FRUTA?\\pBom, assim não dá, né?\\pSe não se importar com sobras, pode ficar com uma das minhas FRUTAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03105C5",
+  "en": "Oh?\\nYou don't have any BERRIES?\\pIf I had some left over, I'd gladly\\ngive you one…\\pBut, I don't have any to spare today.\\nSorry about that.",
+  "pt": "Hã? Você não tem nenhuma FRUTA?\\pSe eu tivesse alguma sobrando, te daria uma com prazer…\\pMas hoje não tenho nenhuma pra dar. Desculpe."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032169A",
+  "en": "REPEL's effect wore off!\\nUse another?",
+  "pt": "O efeito do REPELENTE acabou! Usar outro?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03216C0",
+  "en": "Lure's effect wore off…",
+  "pt": "O efeito da Isca acabou…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03216D8",
+  "en": "Lure's effect wore off!\\nUse another?",
+  "pt": "O efeito da Isca acabou! Usar outra?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03216FD",
+  "en": "MARIO used the\\n{STR_VAR_2}.",
+  "pt": "MARIO usou {STR_VAR_2}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03217B8",
+  "en": "Would you like to exit the SAFARI\\nZONE right now?",
+  "pt": "Gostaria de sair da ZONA SAFÁRI agora?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03217EA",
+  "en": "Ding-dong! Time's up!\\nYour SAFARI Game is over.",
+  "pt": "Ding-dong! Acabou o tempo! O seu Jogo do SAFÁRI terminou."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032181A",
+  "en": "You've run out of SAFARI BALLS.\\nYour SAFARI Game is over.",
+  "pt": "Suas SAFARI BALLS acabaram. O seu Jogo do SAFÁRI terminou."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0321889",
+  "en": "The {STR_VAR_1} you left\\nbefore is still here.",
+  "pt": "O {STR_VAR_1} que você deixou antes ainda está aqui."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0322860",
+  "en": "PROF. BIRCH: Ah, {PLAYER}{KUN}!\\pAre you curious about how your\\nPOKéDEX is coming along?",
+  "pt": "PROF. BIRCH: Ah, {PLAYER}{KUN}!\\pEstá curioso pra saber como anda o seu TATTLEDEX?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03228AF",
+  "en": "Hm? Oh, you haven't caught enough\\nPOKéMON to make it worthwhile.",
+  "pt": "Hm? Ah, você ainda não pegou CAPTURAS suficientes pra valer a pena."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03228F0",
+  "en": "Hmhm…\\pSo, you've seen {STR_VAR_1} POKéMON,\\nand you've caught {STR_VAR_2} POKéMON…",
+  "pt": "Hmhm…\\pEntão você viu {STR_VAR_1} CAPTURAS e pegou {STR_VAR_2} CAPTURAS…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0322EF4",
+  "en": "Hmhm…\\nOn a nationwide basis…\\pYou've seen {STR_VAR_1} POKéMON,\\nand you've caught {STR_VAR_2} POKéMON…",
+  "pt": "Hmhm… Em âmbito nacional…\\pVocê viu {STR_VAR_1} CAPTURAS e pegou {STR_VAR_2} CAPTURAS…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0324D96",
+  "en": "There's a set of picture books.",
+  "pt": "Tem uma coleção de livros ilustrados."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0324DB6",
+  "en": "It's filled with all sorts of books.",
+  "pt": "Está cheia de livros de todo tipo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0324DDB",
+  "en": "POKéMON magazines!\\nPOKéMON PAL…\\pPOKéMON HANDBOOK…\\nADORABLE POKéMON…",
+  "pt": "Revistas de CAPTURAS! AMIGO CAPTURA…\\pMANUAL DAS CAPTURAS… CAPTURAS ADORÁVEIS…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0324E1F",
+  "en": "This vase looks expensive…\\nPeered inside…\\pBut, it was empty.",
+  "pt": "Este vaso parece caro… Você espiou lá dentro…\\pMas estava vazio."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0324E5C",
+  "en": "MARIO rummages through the trash...\\pNothing but half-eaten MUSHROOMS...",
+  "pt": "MARIO revira o lixo...\\pNada além de COGUMELOS comidos pela metade..."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0324EA4",
+  "en": "The shelves brim with all sorts of\\nmerchandise.",
+  "pt": "As prateleiras estão lotadas de mercadorias de todo tipo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0324ED4",
+  "en": "A blueprint of some sort?\\nIt's too complicated!",
+  "pt": "Uma planta de alguma coisa? É complicado demais!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032565A",
+  "en": "I've recently developed an obsession\\nfor {STR_VAR_1} things…",
+  "pt": "Ultimamente fiquei obcecado por coisas {STR_VAR_1}…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032568E",
+  "en": "Oh…\\nThank you for last time…",
+  "pt": "Ah… Obrigado pela última vez…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03256AB",
+  "en": "Before, I think it was {STR_VAR_3}…\\p{STR_VAR_3} gave me one {STR_VAR_2},\\nsaying it was {STR_VAR_1}.\\pBut it wasn't {STR_VAR_1}.\\nNot in the least bit.",
+  "pt": "Antes, acho que foi {STR_VAR_3}…\\p{STR_VAR_3} me deu um {STR_VAR_2}, dizendo que era {STR_VAR_1}.\\pMas não era {STR_VAR_1}. Nem um pouco."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325713",
+  "en": "Before, {STR_VAR_3} gave me a very\\n{STR_VAR_1} {STR_VAR_2}.\\pI cherish it now.",
+  "pt": "Antes, {STR_VAR_3} me deu um {STR_VAR_2} muito {STR_VAR_1}.\\pAgora eu guardo com carinho."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325746",
+  "en": "Listen, if you have anything that\\nis {STR_VAR_1}, will you share it\\lwith me?",
+  "pt": "Escuta, se você tiver alguma coisa {STR_VAR_1}, divide comigo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032578A",
+  "en": "…Really?\\nWhat will you give me?",
+  "pt": "…Sério? O que você vai me dar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03257AA",
+  "en": "Is that so?\\nThen, it's good-bye…",
+  "pt": "É mesmo? Então, adeus…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03257CB",
+  "en": "Oh…\\nYou're not willing to share?",
+  "pt": "Ah… Não quer dividir?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03257EC",
+  "en": "Oh?\\nThat {STR_VAR_2} is {STR_VAR_1}?\\p…Oh, is that right?\\pWell, I owe you a thanks anyway.\\nI'll try to cherish it…",
+  "pt": "Hã? Esse {STR_VAR_2} é {STR_VAR_1}?\\p…Ah, é mesmo?\\pBom, de qualquer forma, te devo um obrigado. Vou tentar guardar com carinho…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032584C",
+  "en": "Oh…\\pThat's a quite {STR_VAR_1}\\n{STR_VAR_2}…\\pIsn't it nice?\\nIt's so dreamy…\\pThank you…\\nI will cherish this…",
+  "pt": "Ah…\\pQue {STR_VAR_2} mais {STR_VAR_1}…\\pNão é lindo? É tão sonhador…\\pObrigado… Vou guardar com carinho…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03258A5",
+  "en": "…Oh, oh, oh…\\pThis is amazing!\\nThis really is {STR_VAR_1}!\\pI never knew that one {STR_VAR_2}\\ncould be this {STR_VAR_1}!\\pThank you!\\pI will treasure this for the rest\\nof my life!",
+  "pt": "…Ah, ah, ah…\\pIsso é incrível! É mesmo {STR_VAR_1}!\\pEu nunca imaginei que um {STR_VAR_2} pudesse ser tão {STR_VAR_1}!\\pObrigado!\\pVou guardar isto com carinho pelo resto da vida!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032593A",
+  "en": "I'll give you this wonderful item in\\nreturn for your fabulous gift.\\pI hope you will cherish it…",
+  "pt": "Vou te dar este item maravilhoso em troca do seu presente fabuloso.\\pEspero que você guarde com carinho…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032599A",
+  "en": "Oh, you can't have it if you don't have\\nthe space for it.\\pPlease come see me when you get\\nyour BAG organized…",
+  "pt": "Ah, você não pode ficar com ele se não tiver espaço.\\pVenha me ver quando arrumar a sua BOLSA, por favor…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325A08",
+  "en": "I'm the QUIZ LADY!\\nI love quizzes!",
+  "pt": "Eu sou a MOÇA DO QUIZ! Eu amo quizzes!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325A2B",
+  "en": "Oh?\\pI'm waiting for a challenger to answer\\nthe quiz you made.\\pWe can chat another time, okay?",
+  "pt": "Hã?\\pEstou esperando um desafiante responder o quiz que você fez.\\pA gente conversa outra hora, tá?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325A89",
+  "en": "I'm waiting for someone to challenge\\na quiz this {STR_VAR_1} thought up!",
+  "pt": "Estou esperando alguém pra encarar um quiz que {STR_VAR_1} inventou!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325AC9",
+  "en": "If you answer correctly, you can win\\nfabulous prizes!\\pWould you like to take the quiz\\nchallenge?",
+  "pt": "Se acertar a resposta, você pode ganhar prêmios fabulosos!\\pQuer encarar o desafio do quiz?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325B42",
+  "en": "Oh, how boring!\\nBye-bye!",
+  "pt": "Ah, que sem graça! Tchauzinho!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325B5B",
+  "en": "Awww!\\nYou're going to quit?",
+  "pt": "Aaah! Vai desistir?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325B77",
+  "en": "Please take the quiz challenge\\nanother time!",
+  "pt": "Encare o desafio do quiz outra hora, por favor!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325BA4",
+  "en": "You're amazing! You've got it right!\\nYou're one sharp customer!",
+  "pt": "Você é demais! Acertou! Você é muito esperto!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325BE4",
+  "en": "Congratulations!\\nYou've got the quiz right!\\pYou've won a prize provided by\\n{STR_VAR_1}!",
+  "pt": "Parabéns! Você acertou o quiz!\\pVocê ganhou um prêmio oferecido por {STR_VAR_1}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325C47",
+  "en": "Oh? Your BAG is filled up!\\nCome see me when you have room.",
+  "pt": "Hã? A sua BOLSA está cheia! Venha me ver quando tiver espaço."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325C82",
+  "en": "Hmm… Wrong!\\nThe correct answer is “{STR_VAR_3}”!",
+  "pt": "Hmm… Errou! A resposta certa é “{STR_VAR_3}”!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325CAA",
+  "en": "Too bad!\\pI get to keep the quiz prize\\n{STR_VAR_1} now!",
+  "pt": "Que pena!\\pAgora o prêmio do quiz, {STR_VAR_1}, fica comigo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325CD8",
+  "en": "Listen, listen!\\nWould you like to make your own quiz?",
+  "pt": "Escuta, escuta! Quer criar o seu próprio quiz?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325D0E",
+  "en": "Oh, I see…\\nWell, maybe next time!",
+  "pt": "Ah, entendi… Bom, quem sabe da próxima vez!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325D30",
+  "en": "Okay, the first thing you have to do\\nis pick the prize for the person that\\lanswers your quiz correctly.\\pBut beware, if the person taking\\nthe quiz can't get it right, I get to\\lkeep the prize!",
+  "pt": "Certo, a primeira coisa que você tem que fazer é escolher o prêmio pra quem acertar o seu quiz.\\pMas cuidado: se a pessoa que responder o quiz errar, eu fico com o prêmio!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325DEF",
+  "en": "If you don't choose a prize,\\nyour quiz can't be made.\\pAre you going to quit making\\nyour quiz?",
+  "pt": "Se não escolher um prêmio, o seu quiz não pode ser criado.\\pVai desistir de criar o seu quiz?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325E4D",
+  "en": "Oh, how nice!\\nThat's a wonderful prize!\\pNext, you need to write your quiz\\nquestion and its answer.",
+  "pt": "Ah, que legal! Que prêmio maravilhoso!\\pAgora você precisa escrever a pergunta do seu quiz e a resposta."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325EB0",
+  "en": "Are you going to quit writing\\nyour quiz question?",
+  "pt": "Vai desistir de escrever a pergunta do seu quiz?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325F13",
+  "en": "Thank you!\\nYou've put together a nice quiz.\\pI'll go look for someone who'll take\\nyour quiz challenge right away.",
+  "pt": "Obrigada! Você montou um quiz muito bom.\\pVou procurar agora mesmo alguém que encare o desafio do seu quiz."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325F84",
+  "en": "I'm the CONTEST LADY!\\nI sure do love CONTESTS!",
+  "pt": "Eu sou a MOÇA DOS CONCURSOS! Eu adoro CONCURSOS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325FD1",
+  "en": "This is my friend {STR_VAR_1}!\\nIt's the epitome of {STR_VAR_2}!\\pBut I think that it will display\\neven more {STR_VAR_2}!",
+  "pt": "Este é o meu amigo {STR_VAR_1}! Ele é a personificação de {STR_VAR_2}!\\pMas acho que ele pode mostrar ainda mais {STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0326133",
+  "en": "Sheesh!\\nWhat a cheapskate!",
+  "pt": "Puxa! Que pão-duro!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "032618A",
+  "en": "…It doesn't seem to have changed\\nin any way at all…\\pHmm…\\pOh, well!\\nThank you very much!",
+  "pt": "…Parece que não mudou nada…\\pHmm…\\pAh, tudo bem! Muito obrigada!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03261E2",
+  "en": "Oh, yay!\\nIt's really delighted!\\pI think it really improved {STR_VAR_1}'s\\n{STR_VAR_2} quality, too.\\pThank you so much!",
+  "pt": "Oba! Ficou muito feliz!\\pAcho que melhorou muito a qualidade de {STR_VAR_2} de {STR_VAR_1} também.\\pMuito obrigada!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0326246",
+  "en": "Hmm…\\pI think we may be ready to enter\\nsome CONTESTS.\\pIf you see us in one somewhere,\\nI hope you'll cheer for us.",
+  "pt": "Hmm…\\pAcho que já estamos prontos pra participar de alguns CONCURSOS.\\pSe nos vir em algum por aí, espero que torça pela gente."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03262B7",
+  "en": "{STR_VAR_1}: Guguuh!",
+  "pt": "{STR_VAR_1}: Guguuh!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03262C3",
+  "en": "{STR_VAR_1}: Igigigiiih!",
+  "pt": "{STR_VAR_1}: Igigigiiih!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03262D3",
+  "en": "{STR_VAR_1}: Baaarun…",
+  "pt": "{STR_VAR_1}: Baaarun…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03262E0",
+  "en": "{STR_VAR_1}: Pikka!",
+  "pt": "{STR_VAR_1}: Pikka!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03262EB",
+  "en": "{STR_VAR_1}: Umyaaaan!",
+  "pt": "{STR_VAR_1}: Umyaaaan!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0340ED1",
+  "en": "BLEND MASTER: Hmmm! So, you wish to\\nsee my mastery in action?",
+  "pt": "MESTRE DO LIQUIDIFICADOR: Hmmm! Então você deseja ver a minha maestria em ação?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0340F0F",
+  "en": "Hmmm!\\pSo, you are too busy now, I see!\\pBut fear not!\\nI shall be here all day!\\lHurry back from your errand!",
+  "pt": "Hmmm!\\pEntão você está ocupado demais agora, entendo!\\pMas não tema! Estarei aqui o dia inteiro! Volte logo do seu compromisso!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0340F7A",
+  "en": "Hmmm!\\pYou haven't got a single BERRY!\\pI shall be here all day!\\nHurry back with some BERRIES!",
+  "pt": "Hmmm!\\pVocê não tem nem uma FRUTA!\\pEstarei aqui o dia inteiro! Volte logo com algumas FRUTAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0341029",
+  "en": "Hmmm!\\pAh, but it is a simple process!\\pWhen the BLENDER's arrow comes to\\nyour marker, just press the A Button.\\pThat's all you have to do.\\pWhen you see how precisely I press\\nthe A Button, you will understand.",
+  "pt": "Hmmm!\\pAh, mas é um processo simples!\\pQuando a seta do LIQUIDIFICADOR chegar no seu marcador, é só apertar o Botão A.\\pÉ só isso que você tem que fazer.\\pQuando vir a precisão com que eu aperto o Botão A, você vai entender."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03410F8",
+  "en": "Fine!\\pLet's get started, then!\\pAll together with the BLEND MASTER,\\nlet's BERRY BLENDER!",
+  "pt": "Ótimo!\\pEntão vamos começar!\\pTodos juntos com o MESTRE DO LIQUIDIFICADOR, vamos de LIQUIDIFICADOR DE FRUTAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03426E1",
+  "en": "Before you begin your challenge,\\nI need to save data. Is that okay?",
+  "pt": "Antes de começar o seu desafio, preciso salvar os dados. Tudo bem?"
+ }
+]

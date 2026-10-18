@@ -1,0 +1,3982 @@
+[
+ {
+  "offset": "034058F",
+  "en": "Emphasizes HP.",
+  "pt": "Prioriza HP."
+ },
+ {
+  "offset": "034059E",
+  "en": "Emphasizes ATTACK.",
+  "pt": "Prioriza ATAQUE."
+ },
+ {
+  "offset": "03405B1",
+  "en": "Emphasizes DEFENSE.",
+  "pt": "Prioriza DEFESA."
+ },
+ {
+  "offset": "03405C5",
+  "en": "Emphasizes SPEED.",
+  "pt": "Prioriza VELOCIDADE."
+ },
+ {
+  "offset": "03405D7",
+  "en": "Emphasizes SP. ATTACK.",
+  "pt": "Prioriza AT. ESP."
+ },
+ {
+  "offset": "03405EE",
+  "en": "Emphasizes SP. DEFENSE.",
+  "pt": "Prioriza DEF. ESP."
+ },
+ {
+  "offset": "0340606",
+  "en": "Neglects HP and ATTACK.",
+  "pt": "Ignora HP e ATAQUE."
+ },
+ {
+  "offset": "034061E",
+  "en": "Neglects HP and DEFENSE.",
+  "pt": "Ignora HP e DEFESA."
+ },
+ {
+  "offset": "0340637",
+  "en": "Neglects HP and SPEED.",
+  "pt": "Ignora HP e VELOCIDADE."
+ },
+ {
+  "offset": "034064E",
+  "en": "Neglects HP and SP. ATTACK.",
+  "pt": "Ignora HP e AT. ESP."
+ },
+ {
+  "offset": "034066A",
+  "en": "Neglects HP and SP. DEFENSE.",
+  "pt": "Ignora HP e DEF. ESP."
+ },
+ {
+  "offset": "0340687",
+  "en": "Neglects ATTACK and DEFENSE.",
+  "pt": "Ignora ATAQUE e DEFESA."
+ },
+ {
+  "offset": "03406A4",
+  "en": "Neglects ATTACK and SPEED.",
+  "pt": "Ignora ATAQUE e VELOCIDADE."
+ },
+ {
+  "offset": "03406BF",
+  "en": "Neglects ATTACK and SP. ATTACK.",
+  "pt": "Ignora ATAQUE e AT. ESP."
+ },
+ {
+  "offset": "03406DF",
+  "en": "Neglects ATTACK and SP. DEFENSE.",
+  "pt": "Ignora ATAQUE e DEF. ESP."
+ },
+ {
+  "offset": "0340700",
+  "en": "Neglects DEFENSE and SPEED.",
+  "pt": "Ignora DEFESA e VELOCIDADE."
+ },
+ {
+  "offset": "034071C",
+  "en": "Neglects DEFENSE and SP. ATTACK.",
+  "pt": "Ignora DEFESA e AT. ESP."
+ },
+ {
+  "offset": "034073D",
+  "en": "Neglects DEFENSE and SP. DEFENSE.",
+  "pt": "Ignora DEFESA e DEF. ESP."
+ },
+ {
+  "offset": "034075F",
+  "en": "Neglects SPEED and SP. ATTACK.",
+  "pt": "Ignora VELOCIDADE e AT. ESP."
+ },
+ {
+  "offset": "034077E",
+  "en": "Neglects SPEED and SP. DEFENSE.",
+  "pt": "Ignora VELOCIDADE e DEF. ESP."
+ },
+ {
+  "offset": "034079E",
+  "en": "Neglects SP. ATTACK and SP. DEFENSE.",
+  "pt": "Ignora AT. ESP. e DEF. ESP."
+ },
+ {
+  "offset": "03407C3",
+  "en": "Neglects HP.",
+  "pt": "Ignora HP."
+ },
+ {
+  "offset": "03407D0",
+  "en": "Neglects ATTACK.",
+  "pt": "Ignora ATAQUE."
+ },
+ {
+  "offset": "03407E1",
+  "en": "Neglects DEFENSE.",
+  "pt": "Ignora DEFESA."
+ },
+ {
+  "offset": "03407F3",
+  "en": "Neglects SPEED.",
+  "pt": "Ignora VELOCIDADE."
+ },
+ {
+  "offset": "0340803",
+  "en": "Neglects SP. ATTACK.",
+  "pt": "Ignora AT. ESP."
+ },
+ {
+  "offset": "0340818",
+  "en": "Neglects SP. DEFENSE.",
+  "pt": "Ignora DEF. ESP."
+ },
+ {
+  "offset": "034082E",
+  "en": "Raises POKéMON in a well-balanced way.",
+  "pt": "Treina CAPTURAS de forma equilibrada."
+ },
+ {
+  "offset": "0340855",
+  "en": "Let the battle begin!",
+  "pt": "Que comece a batalha!"
+ },
+ {
+  "offset": "034086B",
+  "en": "{STR_VAR_1} won using {STR_VAR_2}!",
+  "pt": "{STR_VAR_1} venceu usando {STR_VAR_2}!"
+ },
+ {
+  "offset": "034087C",
+  "en": "{STR_VAR_1} became the champ!",
+  "pt": "{STR_VAR_1} conquistou o título!"
+ },
+ {
+  "offset": "0340891",
+  "en": "{STR_VAR_1} won by default!",
+  "pt": "{STR_VAR_1} venceu por W.O.!"
+ },
+ {
+  "offset": "03408A4",
+  "en": "{STR_VAR_1} won outright by default!",
+  "pt": "{STR_VAR_1} venceu direto por W.O.!"
+ },
+ {
+  "offset": "03408C0",
+  "en": "{STR_VAR_1} won without using a move!",
+  "pt": "{STR_VAR_1} venceu sem usar golpes!"
+ },
+ {
+  "offset": "03408DD",
+  "en": "{STR_VAR_1} won outright with no moves!",
+  "pt": "{STR_VAR_1} venceu direto sem golpes!"
+ },
+ {
+  "offset": "03408FC",
+  "en": "Round 1, Match 1",
+  "pt": "Rodada 1, Luta 1"
+ },
+ {
+  "offset": "034090D",
+  "en": "Round 1, Match 2",
+  "pt": "Rodada 1, Luta 2"
+ },
+ {
+  "offset": "034091E",
+  "en": "Round 1, Match 3",
+  "pt": "Rodada 1, Luta 3"
+ },
+ {
+  "offset": "034092F",
+  "en": "Round 1, Match 4",
+  "pt": "Rodada 1, Luta 4"
+ },
+ {
+  "offset": "0340940",
+  "en": "Round 1, Match 5",
+  "pt": "Rodada 1, Luta 5"
+ },
+ {
+  "offset": "0340951",
+  "en": "Round 1, Match 6",
+  "pt": "Rodada 1, Luta 6"
+ },
+ {
+  "offset": "0340962",
+  "en": "Round 1, Match 7",
+  "pt": "Rodada 1, Luta 7"
+ },
+ {
+  "offset": "0340973",
+  "en": "Round 1, Match 8",
+  "pt": "Rodada 1, Luta 8"
+ },
+ {
+  "offset": "0340984",
+  "en": "Round 2, Match 1",
+  "pt": "Rodada 2, Luta 1"
+ },
+ {
+  "offset": "0340995",
+  "en": "Round 2, Match 2",
+  "pt": "Rodada 2, Luta 2"
+ },
+ {
+  "offset": "03409A6",
+  "en": "Round 2, Match 3",
+  "pt": "Rodada 2, Luta 3"
+ },
+ {
+  "offset": "03409B7",
+  "en": "Round 2, Match 4",
+  "pt": "Rodada 2, Luta 4"
+ },
+ {
+  "offset": "03409C8",
+  "en": "Semifinal Match 1",
+  "pt": "Semifinal, Luta 1"
+ },
+ {
+  "offset": "03409DA",
+  "en": "Semifinal Match 2",
+  "pt": "Semifinal, Luta 2"
+ },
+ {
+  "offset": "03409EC",
+  "en": "Final Match",
+  "pt": "Luta Final"
+ },
+ {
+  "offset": "03439ED",
+  "en": "This move can be learned only\\nonce. Is that okay?",
+  "pt": "Este golpe só pode ser aprendido uma vez. Tudo bem?"
+ },
+ {
+  "offset": "0343A1F",
+  "en": "Heh! My POKéMON totally rules!\\nIt's cooler than any POKéMON!\\pI was lipping off with a swagger in\\nmy step like that when the CHAIRMAN\\lchewed me out.\\pThat took the swagger out of my step.\\pIf you'd like, I'll teach the move\\nSWAGGER to a POKéMON of yours.",
+  "pt": "Hehe! Minha CAPTURA é demais! É mais legal que qualquer outra CAPTURA!\\pEu tava me gabando todo cheio de pose quando o PRESIDENTE me deu uma bronca.\\pAí a pose murchou.\\pSe quiser, eu ensino o golpe ARROGÂNCIA pra uma CAPTURA sua."
+ },
+ {
+  "offset": "0343B1B",
+  "en": "What, no? Can't you get into\\nthe spirit of things?",
+  "pt": "Como assim, não? Não sabe entrar no clima?"
+ },
+ {
+  "offset": "0343B4E",
+  "en": "All right, which POKéMON wants to\\nlearn how to SWAGGER?",
+  "pt": "Beleza, qual CAPTURA quer aprender a ARROGÂNCIA?"
+ },
+ {
+  "offset": "0343B86",
+  "en": "I'll just praise my POKéMON from now\\non without the swagger.",
+  "pt": "De agora em diante, vou elogiar minha CAPTURA sem arrogância."
+ },
+ {
+  "offset": "0343BC3",
+  "en": "Did you know that you can go from\\nhere a long way in that direction\\lwithout changing direction?\\pI might even be able to roll\\nthat way.\\pDo you think your POKéMON will\\nwant to roll, too?\\pI can teach one the move ROLLOUT\\nif you'd like.",
+  "pt": "Sabia que daqui dá pra ir bem longe naquela direção sem mudar de direção?\\pEu talvez até conseguisse rolar até lá.\\pSerá que as suas CAPTURAS também querem rolar?\\pSe quiser, posso ensinar o golpe ROLAGEM pra uma delas."
+ },
+ {
+  "offset": "0343CAC",
+  "en": "You don't need to be shy about it.\\nLet's roll!",
+  "pt": "Não precisa ficar com vergonha. Vamos rolar!"
+ },
+ {
+  "offset": "0343CDB",
+  "en": "Ehehe, sure thing! It'd be great if\\nthe POKéMON looked like me.",
+  "pt": "Hehe, claro! Seria ótimo se a CAPTURA ficasse parecida comigo."
+ },
+ {
+  "offset": "0343D1B",
+  "en": "Rolling around in the grass makes me\\nhappy. Come on, let's roll!",
+  "pt": "Rolar na grama me deixa feliz. Vamos lá, vamos rolar!"
+ },
+ {
+  "offset": "0343D5C",
+  "en": "There's a move that gets stronger\\nwhen you keep using it in a row.\\pIt's a BUG-type move, and it is\\nwickedly cool.\\pIt's called FURY CUTTER.\\nWant me to teach it to a POKéMON?",
+  "pt": "Existe um golpe que fica mais forte quando você usa ele várias vezes seguidas.\\pÉ um golpe do tipo INSETO e é muito maneiro.\\pSe chama CORTADOR FÚRIA. Quer que eu ensine pra uma CAPTURA?"
+ },
+ {
+  "offset": "0343E09",
+  "en": "We're not on the same wavelength.",
+  "pt": "A gente não tá na mesma sintonia."
+ },
+ {
+  "offset": "0343E2B",
+  "en": "Yay!\\nShow me which POKéMON I should teach.",
+  "pt": "Eba! Me mostra qual CAPTURA eu devo ensinar."
+ },
+ {
+  "offset": "0343E56",
+  "en": "I get a thrill watching to see if\\nthe move keeps hitting in succession!",
+  "pt": "Eu fico empolgado vendo se o golpe continua acertando em sequência!"
+ },
+ {
+  "offset": "0343E9E",
+  "en": "Ah, young one!\\pI am also a young one, but I mimic\\nthe styles and speech of the elderly\\lfolks of this town.\\pWhat do you say, young one?\\nWould you agree to it if I were to\\loffer to teach the move MIMIC?",
+  "pt": "Ah, jovem!\\pEu também sou jovem, mas imito o jeito e a fala dos velhinhos desta cidade.\\pO que me diz, jovem? Aceitaria se eu oferecesse ensinar o golpe MÍMICA?"
+ },
+ {
+  "offset": "0343F67",
+  "en": "Oh, boo! I wanted to teach MIMIC\\nto your POKéMON!",
+  "pt": "Ah, que pena! Eu queria ensinar MÍMICA pra sua CAPTURA!"
+ },
+ {
+  "offset": "0343F99",
+  "en": "Fwofwo! And so I shall!\\nLet me see the POKéMON\\lyou wish me to teach.",
+  "pt": "Hohoho! Então assim será! Mostre-me a CAPTURA que deseja que eu ensine."
+ },
+ {
+  "offset": "0343FDE",
+  "en": "MIMIC is a move of great depth.\\pCould you execute it to perfection\\nas well as me…?",
+  "pt": "MÍMICA é um golpe de grande profundidade.\\pVocê conseguiria executá-lo com a perfeição que eu executo…?"
+ },
+ {
+  "offset": "0344031",
+  "en": "I want all sorts of things!\\nBut I used up my allowance…\\pWouldn't it be nice if there were\\na spell that made money appear when\\lyou waggle a finger?\\pIf you want, I can teach your POKéMON\\nthe move METRONOME.\\pMoney won't appear, but your POKéMON\\nwill waggle a finger. Yes?",
+  "pt": "Eu quero um monte de coisas! Mas gastei toda a minha mesada…\\pNão seria legal se existisse um feitiço que fizesse aparecer dinheiro quando você balança o dedo?\\pSe quiser, posso ensinar o golpe METRÔNOMO pra sua CAPTURA.\\pNão vai aparecer dinheiro, mas sua CAPTURA vai balançar o dedo. Que tal?"
+ },
+ {
+  "offset": "034413E",
+  "en": "Okay. I'll be here if you change\\nyour mind.",
+  "pt": "Tá bom. Vou ficar aqui se você mudar de ideia."
+ },
+ {
+  "offset": "034416A",
+  "en": "Okay! I'll teach it!\\nWhich POKéMON should I teach?",
+  "pt": "Tá! Eu ensino! Qual CAPTURA devo ensinar?"
+ },
+ {
+  "offset": "034419D",
+  "en": "When a POKéMON waggles its finger\\nlike a METRONOME, all sorts of nice\\lthings happen.\\pWouldn't it be nice if we could\\nuse it, too?",
+  "pt": "Quando uma CAPTURA balança o dedo como um METRÔNOMO, acontecem todo tipo de coisas legais.\\pNão seria legal se a gente também pudesse usar?"
+ },
+ {
+  "offset": "034421F",
+  "en": "Humph! My wife relies on HIDDEN\\nPOWER to stay awake.\\pShe should just take a nap like I do,\\nand SLEEP TALK.\\pI can teach your POKéMON how to\\nSLEEP TALK instead. Interested?",
+  "pt": "Hunf! Minha esposa usa PODER OCULTO pra ficar acordada.\\pEla devia era tirar um cochilo como eu e usar FALAR DORMINDO.\\pPosso ensinar sua CAPTURA a usar FALAR DORMINDO. Interessado?"
+ },
+ {
+  "offset": "03442CA",
+  "en": "Oh, fine, fine. You want to stay awake\\nwith HIDDEN POWER, too…",
+  "pt": "Ah, tá bom, tá bom. Você também quer ficar acordado com PODER OCULTO…"
+ },
+ {
+  "offset": "0344309",
+  "en": "Ah, an appreciative child!\\nWhich POKéMON should I teach?",
+  "pt": "Ah, uma criança que sabe apreciar! Qual CAPTURA devo ensinar?"
+ },
+ {
+  "offset": "0344342",
+  "en": "I've never once gotten my wife's\\ncoin trick right.\\pI would be happy if I got it right\\neven as I SLEEP TALK…",
+  "pt": "Nunca consegui acertar o truque da moeda da minha esposa.\\pEu ficaria feliz se acertasse nem que fosse usando FALAR DORMINDO…"
+ },
+ {
+  "offset": "03443AE",
+  "en": "When I see the wide world from up\\nhere on the roof…\\pI think about how nice it would be\\nif there were more than just one me\\lso I could enjoy all sorts of lives.\\pOf course it's not possible.\\nGiggle…\\pI know! Would you be interested in\\nhaving a POKéMON learn SUBSTITUTE?",
+  "pt": "Quando vejo o mundo imenso aqui de cima do telhado…\\pPenso em como seria bom se existisse mais de um de mim, pra eu poder curtir todo tipo de vida.\\pClaro que isso não é possível. Hihi…\\pJá sei! Você gostaria que uma CAPTURA aprendesse SUBSTITUTO?"
+ },
+ {
+  "offset": "03444B9",
+  "en": "Oh, no?\\pA POKéMON can make a copy of\\nitself using it, you know.",
+  "pt": "Ah, não?\\pCom ele, uma CAPTURA consegue fazer uma cópia de si mesma, sabia?"
+ },
+ {
+  "offset": "03444F9",
+  "en": "Giggle…\\nWhich POKéMON do you want me to\\lteach SUBSTITUTE?",
+  "pt": "Hihi… Pra qual CAPTURA você quer que eu ensine SUBSTITUTO?"
+ },
+ {
+  "offset": "0344533",
+  "en": "We human beings should enjoy our\\nown lives to the utmost!\\pI hope you'll get that way, too!",
+  "pt": "Nós, seres humanos, devemos aproveitar a vida ao máximo!\\pEspero que você também fique assim!"
+ },
+ {
+  "offset": "034458E",
+  "en": "I can't do this anymore!\\pIt's utterly hopeless!\\pI'm a FIGHTING-type TRAINER,\\nso I can't win at the MOSSDEEP GYM\\lno matter how hard I try!\\pArgh! Punch! Punch! Punch!\\nPunch! Punch! Punch!\\pWhat, don't look at me that way!\\nI'm only hitting the ground!\\pOr do you want me to teach your\\nPOKéMON DYNAMICPUNCH?",
+  "pt": "Não aguento mais!\\pÉ totalmente impossível!\\pEu sou um TREINADOR do tipo LUTADOR, então não consigo vencer no GINÁSIO DE MOSSDEEP por mais que eu tente!\\pArgh! Soco! Soco! Soco! Soco! Soco! Soco!\\pQue foi, não me olha assim! Eu só tô socando o chão!\\pOu você quer que eu ensine SOCO DINÂMICO pra sua CAPTURA?"
+ },
+ {
+  "offset": "03446BC",
+  "en": "Darn! You're even making fun of me?\\nPunch! Punch! Punch!",
+  "pt": "Droga! Até você tá tirando sarro de mim? Soco! Soco! Soco!"
+ },
+ {
+  "offset": "03446F5",
+  "en": "What? You do? You're a good person!\\nWhich POKéMON should I teach?",
+  "pt": "O quê? Você quer? Você é gente boa! Qual CAPTURA devo ensinar?"
+ },
+ {
+  "offset": "0344737",
+  "en": "I want you to win at the MOSSDEEP GYM\\nusing that DYNAMICPUNCH!",
+  "pt": "Quero que você vença no GINÁSIO DE MOSSDEEP usando esse SOCO DINÂMICO!"
+ },
+ {
+  "offset": "0344776",
+  "en": "Sigh…\\pSOOTOPOLIS's GYM LEADER is really\\nlovably admirable.\\pBut that also means I have many\\nrivals for his attention.\\pHe's got appeal with a DOUBLE-EDGE.\\nI couldn't even catch his eye.\\pPlease, let me teach your POKéMON\\nthe move DOUBLE-EDGE!",
+  "pt": "Ai…\\pO LÍDER DE GINÁSIO de SOOTOPOLIS é tão admirável e adorável.\\pMas isso também quer dizer que tenho muitas rivais disputando a atenção dele.\\pEle tem o charme de um DOIS GUMES. Eu nem consegui chamar a atenção dele.\\pPor favor, me deixa ensinar o golpe DOIS GUMES pra sua CAPTURA!"
+ },
+ {
+  "offset": "0344866",
+  "en": "Oh…\\nEven you rejected me…",
+  "pt": "Ah… Até você me rejeitou…"
+ },
+ {
+  "offset": "0344880",
+  "en": "Okay, which POKéMON should I teach\\nDOUBLE-EDGE?",
+  "pt": "Tá, pra qual CAPTURA devo ensinar DOIS GUMES?"
+ },
+ {
+  "offset": "03448B0",
+  "en": "I won't live for love anymore!\\nI'll become tough!",
+  "pt": "Não vou mais viver pelo amor! Vou ficar durona!"
+ },
+ {
+  "offset": "03448E2",
+  "en": "I don't intend to be going nowhere\\nfast in the sticks like this forever.\\pYou watch me, I'll get out to the city\\nand become a huge hit.\\pSeriously, I'm going to cause\\na huge EXPLOSION of popularity!\\pIf you overheard that, I'll happily\\nteach EXPLOSION to your POKéMON!",
+  "pt": "Não pretendo ficar parado aqui no meio do mato pra sempre.\\pPode esperar, eu vou pra cidade e vou fazer o maior sucesso.\\pSério, vou causar uma EXPLOSÃO de popularidade!\\pSe você ouviu isso, eu ensino EXPLOSÃO pra sua CAPTURA com prazer!"
+ },
+ {
+  "offset": "03449EC",
+  "en": "Gaah! You're turning me down because\\nI live in the country?",
+  "pt": "Gaah! Tá me recusando porque eu moro no interior?"
+ },
+ {
+  "offset": "0344A28",
+  "en": "Fine! An EXPLOSION it is!\\nWhich POKéMON wants to blow up?",
+  "pt": "Beleza! EXPLOSÃO então! Qual CAPTURA quer explodir?"
+ },
+ {
+  "offset": "0344A62",
+  "en": "For a long time, I've taught POKéMON\\nhow to use EXPLOSION, but I've yet\\lto ignite my own EXPLOSION…\\pMaybe it's because deep down,\\nI would rather stay here…",
+  "pt": "Faz tempo que ensino CAPTURAS a usar EXPLOSÃO, mas eu mesmo ainda não acendi a minha própria EXPLOSÃO…\\pTalvez seja porque, lá no fundo, eu prefiro ficar aqui…"
+ },
+ {
+  "offset": "0345053",
+  "en": "Rawk out, Great GONZALES!",
+  "pt": "Manda ver, Grande GONZALES!"
+ },
+ {
+  "offset": "034506D",
+  "en": "RAAAAAAAAAAAAWK!\\nListen to me, Gonzales!\\lAnybody who's beat me\\nis not ALLOWED to lose!!!",
+  "pt": "RAAAAAAAAAAAAWK! Me escuta, Gonzales! Quem me venceu NÃO PODE perder!!!"
+ },
+ {
+  "offset": "03450EE",
+  "en": "Ahahaha! Aren't you embarrassed?\\nEveryone's watching!",
+  "pt": "Ahahaha! Não tá com vergonha? Tá todo mundo olhando!"
+ },
+ {
+  "offset": "0345124",
+  "en": "Grr…\\nWhat the…",
+  "pt": "Grr… Mas o quê…"
+ },
+ {
+  "offset": "0345133",
+  "en": "My DOME ACE title isn't just for show!",
+  "pt": "Meu título de ÁS DO DOMO não é só enfeite!"
+ },
+ {
+  "offset": "034515A",
+  "en": "Ahahaha!\\nYou're inspiring!",
+  "pt": "Ahahaha! Você é inspirador!"
+ },
+ {
+  "offset": "0345175",
+  "en": "Experiment complete!\\nThat was a good lesson, eh?",
+  "pt": "Experimento concluído! Foi uma boa lição, hein?"
+ },
+ {
+  "offset": "03451A6",
+  "en": "Experiment complete!\\nYou know what you're doing!",
+  "pt": "Experimento concluído! Você sabe o que tá fazendo!"
+ },
+ {
+  "offset": "03451D7",
+  "en": "Experiment complete!\\nI think you need more tinkering!",
+  "pt": "Experimento concluído! Acho que você precisa de mais ajustes!"
+ },
+ {
+  "offset": "034520D",
+  "en": "Experiment complete!\\nThis was not projected!",
+  "pt": "Experimento concluído! Isso não estava previsto!"
+ },
+ {
+  "offset": "034523A",
+  "en": "Humph…",
+  "pt": "Hunf…"
+ },
+ {
+  "offset": "0345241",
+  "en": "Urk…",
+  "pt": "Urk…"
+ },
+ {
+  "offset": "0345246",
+  "en": "Hah!",
+  "pt": "Há!"
+ },
+ {
+  "offset": "034524B",
+  "en": "Darn!",
+  "pt": "Droga!"
+ },
+ {
+  "offset": "0345251",
+  "en": "Oh, come on!\\nYou have to try harder than that!",
+  "pt": "Ah, qual é! Você tem que se esforçar mais que isso!"
+ },
+ {
+  "offset": "0345280",
+  "en": "No way!\\nGood job!",
+  "pt": "Não acredito! Bom trabalho!"
+ },
+ {
+  "offset": "0345292",
+  "en": "Heheh!\\nWhat did you expect?",
+  "pt": "Hehe! Esperava o quê?"
+ },
+ {
+  "offset": "03452AE",
+  "en": "Huh?\\nAre you serious?!",
+  "pt": "Hã? Tá falando sério?!"
+ },
+ {
+  "offset": "03452C5",
+  "en": "Your POKéMON are wimpy because\\nyou're wimpy as a TRAINER!",
+  "pt": "Suas CAPTURAS são fracotes porque você é um TREINADOR fracote!"
+ },
+ {
+  "offset": "03452FF",
+  "en": "Ah…\\nNow this is something else…",
+  "pt": "Ah… Agora sim, isso é outra coisa…"
+ },
+ {
+  "offset": "034531F",
+  "en": "Gwahahaha!\\nMy brethren, we have nothing to fear!",
+  "pt": "Gwahahaha! Meus irmãos, não temos nada a temer!"
+ },
+ {
+  "offset": "0345350",
+  "en": "Gwah!\\nHahahaha!",
+  "pt": "Gwah! Hahahaha!"
+ },
+ {
+  "offset": "0345360",
+  "en": "Hey! What's wrong with you!\\nLet's see some effort! Get up!",
+  "pt": "Ei! Qual é o seu problema! Quero ver esforço! Levanta!"
+ },
+ {
+  "offset": "034539B",
+  "en": "That's it! You've done great!\\nYou've worked hard for this!",
+  "pt": "É isso aí! Você mandou muito bem! Você se esforçou por isso!"
+ },
+ {
+  "offset": "03453D6",
+  "en": "Hey! Don't you give up now!\\nGet up! Don't lose faith in yourself!",
+  "pt": "Ei! Não vá desistir agora! Levanta! Não perca a fé em si mesmo!"
+ },
+ {
+  "offset": "0345418",
+  "en": "That's it! You've done it!\\nYou kept working for this!",
+  "pt": "É isso aí! Você conseguiu! Você batalhou por isso!"
+ },
+ {
+  "offset": "0345450",
+  "en": "Would you like to save the game?",
+  "pt": "Gostaria de salvar o jogo?"
+ },
+ {
+  "offset": "0345471",
+  "en": "There is already a saved file.\\nIs it okay to overwrite it?",
+  "pt": "Já existe um arquivo salvo. Tudo bem substituí-lo?"
+ },
+ {
+  "offset": "03454AC",
+  "en": "SAVING…\\nDON'T TURN OFF THE POWER.",
+  "pt": "SALVANDO…\\nNÃO DESLIGUE O APARELHO."
+ },
+ {
+  "offset": "03454CE",
+  "en": "{PLAYER} saved the game.",
+  "pt": "{PLAYER} salvou o jogo."
+ },
+ {
+  "offset": "03454E1",
+  "en": "WARNING!\\pThere is a different game file that\\nis already saved.\\pIf you save now, the other file's\\nadventure, including items and\\lPOKéMON, will be entirely lost.\\pAre you sure you want to save now\\nand overwrite the other save file?",
+  "pt": "ATENÇÃO!\\pJá existe um arquivo de outro jogo salvo.\\pSe você salvar agora, a aventura do outro arquivo, incluindo itens e CAPTURAS, será perdida por completo.\\pTem certeza de que quer salvar agora e substituir o outro arquivo salvo?"
+ },
+ {
+  "offset": "03455C6",
+  "en": "Save error.\\pPlease exchange the\\nbackup memory.",
+  "pt": "Erro ao salvar.\\pPor favor, troque a memória de backup."
+ },
+ {
+  "offset": "03455F5",
+  "en": "SAVING…\\nDON'T TURN OFF THE POWER.",
+  "pt": "SALVANDO…\\nNÃO DESLIGUE O APARELHO."
+ },
+ {
+  "offset": "0345C72",
+  "en": "It's full of cardboard boxes with\\nvarious pills in them.\\pOh?\\pVIRUS would like to investigate the\\npills in the boxes...\\lIs that OK?",
+  "pt": "Está cheio de caixas de papelão com vários tipos de pílulas.\\pHã?\\pO VIRUS quer investigar as pílulas das caixas... Tudo bem?"
+ },
+ {
+  "offset": "0345D23",
+  "en": "{STR_VAR_1} reluctantly gave up on\\nentering a pill…",
+  "pt": "{STR_VAR_1} desistiu de entrar numa pílula, a contragosto…"
+ },
+ {
+  "offset": "0345D4E",
+  "en": "Which VIRUS will you allow to enter\\na pill?",
+  "pt": "Qual VIRUS você vai deixar entrar numa pílula?"
+ },
+ {
+  "offset": "0345D7A",
+  "en": "That Pokémon can't enter a pill.",
+  "pt": "Essa CAPTURA não pode entrar numa pílula."
+ },
+ {
+  "offset": "0345D9B",
+  "en": "An Egg can't enter a pill.",
+  "pt": "Um OVO não pode entrar numa pílula."
+ },
+ {
+  "offset": "0345DB6",
+  "en": "Which pills will you\\nallow {STR_VAR_1} to enter?",
+  "pt": "Em quais pílulas você vai deixar {STR_VAR_1} entrar?"
+ },
+ {
+  "offset": "0345DDE",
+  "en": "{STR_VAR_1} entered the pill.",
+  "pt": "{STR_VAR_1} entrou na pílula."
+ },
+ {
+  "offset": "0345DF3",
+  "en": "{STR_VAR_1} is trying to learn\\n{STR_VAR_2}.\\pBut {STR_VAR_1} can't learn more\\nthan four moves.\\pDelete an older move to make\\nroom for {STR_VAR_2}?",
+  "pt": "{STR_VAR_1} está tentando aprender {STR_VAR_2}.\\pMas {STR_VAR_1} não pode aprender mais de quatro golpes.\\pEsquecer um golpe antigo para dar lugar a {STR_VAR_2}?"
+ },
+ {
+  "offset": "0345E60",
+  "en": "{STR_VAR_1} has already entered that\\npill.",
+  "pt": "{STR_VAR_1} já entrou nessa pílula."
+ },
+ {
+  "offset": "0345E82",
+  "en": "{STR_VAR_1} emerged from the pill.",
+  "pt": "{STR_VAR_1} saiu da pílula."
+ },
+ {
+  "offset": "0345E9C",
+  "en": "{STR_VAR_1} hasn't entered a pill.",
+  "pt": "{STR_VAR_1} não entrou em nenhuma pílula."
+ },
+ {
+  "offset": "0345EB6",
+  "en": "{PAUSE 20}1, {PAUSE 0F}2, and {PAUSE 0F}… {PAUSE 0F}… {PAUSE 0F}… {PAUSE 0F}{PLAY_SE 15 00}Poof!\\p{STR_VAR_1} forgot how to use\\n{STR_VAR_2}.\\pAnd…",
+  "pt": "{PAUSE 20}1, {PAUSE 0F}2 e {PAUSE 0F}… {PAUSE 0F}… {PAUSE 0F}… {PAUSE 0F}{PLAY_SE 15 00}Puf!\\p{STR_VAR_1} esqueceu como usar {STR_VAR_2}.\\pE…"
+ },
+ {
+  "offset": "0345F00",
+  "en": "{STR_VAR_1} learned {STR_VAR_2}!{WAIT_SE}",
+  "pt": "{STR_VAR_1} aprendeu {STR_VAR_2}!{WAIT_SE}"
+ },
+ {
+  "offset": "0345F11",
+  "en": "Which move should be forgotten?",
+  "pt": "Qual golpe deve ser esquecido?"
+ },
+ {
+  "offset": "03D67A4",
+  "en": "Please start over from the beginning.",
+  "pt": "Por favor, comece de novo do início."
+ },
+ {
+  "offset": "03D67CC",
+  "en": "The WIRELESS COMMUNICATION\\nSYSTEM search has been canceled.",
+  "pt": "A busca pelo SISTEMA DE COMUNI-\\nCAÇÃO SEM FIO foi cancelada.",
+  "max_lines": 2,
+  "max_width": 184
+ },
+ {
+  "offset": "03D6834",
+  "en": "{STR_VAR_1}! Awaiting\\ncommunication from another player.",
+  "pt": "{STR_VAR_1}! Aguardando a\\ncomunicação de outro jogador.",
+  "max_lines": 2,
+  "max_width": 193
+ },
+ {
+  "offset": "03D6864",
+  "en": "{STR_VAR_1}! Awaiting link!\\nPress START when everyone's ready.",
+  "pt": "{STR_VAR_1}! Aguardando conexão!\\nTodos prontos? Aperte START.",
+  "max_lines": 2,
+  "max_width": 193
+ },
+ {
+  "offset": "03D69B4",
+  "en": "1 player\\nneeded.",
+  "pt": "Falta 1\\njogador.",
+  "max_lines": 2,
+  "max_width": 52
+ },
+ {
+  "offset": "03D69C5",
+  "en": "2 players\\nneeded.",
+  "pt": "Faltam 2\\njogadores.",
+  "max_lines": 2,
+  "max_width": 58
+ },
+ {
+  "offset": "03D69D7",
+  "en": "3 players\\nneeded.",
+  "pt": "Faltam 3\\njogadores.",
+  "max_lines": 2,
+  "max_width": 58
+ },
+ {
+  "offset": "03D69FB",
+  "en": "2-PLAYER\\nMODE",
+  "pt": "MODO\\n2 JOG.",
+  "max_lines": 2,
+  "max_width": 58
+ },
+ {
+  "offset": "03D6A09",
+  "en": "3-PLAYER\\nMODE",
+  "pt": "MODO\\n3 JOG.",
+  "max_lines": 2,
+  "max_width": 58
+ },
+ {
+  "offset": "03D6A17",
+  "en": "4-PLAYER\\nMODE",
+  "pt": "MODO\\n4 JOG.",
+  "max_lines": 2,
+  "max_width": 58
+ },
+ {
+  "offset": "03D6A25",
+  "en": "5-PLAYER\\nMODE",
+  "pt": "MODO\\n5 JOG.",
+  "max_lines": 2,
+  "max_width": 58
+ },
+ {
+  "offset": "03D6A98",
+  "en": "{F8 01}CANCEL",
+  "pt": "{F8 01}SAIR",
+  "max_width": 54
+ },
+ {
+  "offset": "03D6ABC",
+  "en": "{STR_VAR_2} contacted you for\\n{STR_VAR_1}. Accept?",
+  "pt": "{STR_VAR_2} chamou você para\\n{STR_VAR_1}. Aceitar?",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "03D6AE0",
+  "en": "{STR_VAR_2} contacted you.\\nWill you share {STR_VAR_1}?",
+  "pt": "{STR_VAR_2} chamou você.\\nVai fazer {STR_VAR_1}?",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "03D6B08",
+  "en": "{STR_VAR_2} contacted you.\\nAdd to the members?",
+  "pt": "{STR_VAR_2} chamou você.\\nAdicionar aos membros?",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "03D6B30",
+  "en": "{STR_VAR_1}!\\nAre these members OK?",
+  "pt": "{STR_VAR_1}!\\nOs membros estão OK?",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "03D6B4C",
+  "en": "Cancel {STR_VAR_1} MODE\\nwith these members?",
+  "pt": "Cancelar {STR_VAR_1}\\ncom estes membros?",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "03D6B70",
+  "en": "An “OK” was sent\\nto {STR_VAR_1}.",
+  "pt": "“OK” enviado\\npara {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "03D6B88",
+  "en": "The other TRAINER doesn't appear\\nto be available now…\\p",
+  "pt": "O outro TREINADOR parece não estar disponível agora…\\p"
+ },
+ {
+  "offset": "03D6BC0",
+  "en": "You can't transmit with a TRAINER\\nwho is too far away.\\p",
+  "pt": "Não dá para se comunicar com um TREINADOR que está longe demais.\\p"
+ },
+ {
+  "offset": "03D6BF8",
+  "en": "The other TRAINER(S) is/are not\\nready yet.\\p",
+  "pt": "O outro TREINADOR (ou TREINADORES) ainda não está pronto.\\p"
+ },
+ {
+  "offset": "03D6C2C",
+  "en": "The {STR_VAR_1} MODE with\\nthese members will be canceled.{PAUSE 3C}",
+  "pt": "O MODO {STR_VAR_1} com estes\\nmembros será cancelado.{PAUSE 3C}",
+  "max_lines": 2,
+  "max_width": 172
+ },
+ {
+  "offset": "03D6C60",
+  "en": "There is a member who can no\\nlonger remain available.\\p",
+  "pt": "Há um membro que não pode mais continuar disponível.\\p"
+ },
+ {
+  "offset": "03D6CA0",
+  "en": "The other TRAINER appears\\nunavailable…\\p",
+  "pt": "O outro TREINADOR parece estar indisponível…\\p"
+ },
+ {
+  "offset": "03D6CC8",
+  "en": "{STR_VAR_1} sent back an “OK”!",
+  "pt": "{STR_VAR_1} respondeu com um “OK”!",
+  "max_width": 166
+ },
+ {
+  "offset": "03D6CE0",
+  "en": "{STR_VAR_1} OK'd your registration as\\na member.",
+  "pt": "{STR_VAR_1} aceitou seu registro\\ncomo membro.",
+  "max_lines": 2,
+  "max_width": 186
+ },
+ {
+  "offset": "03D6D08",
+  "en": "{STR_VAR_1} replied, “No…”\\p",
+  "pt": "{STR_VAR_1} respondeu: “Não…”\\p"
+ },
+ {
+  "offset": "03D6D1C",
+  "en": "{STR_VAR_1}!\\nAwaiting other members!",
+  "pt": "{STR_VAR_1}!\\nAguardando membros!",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "03D6D38",
+  "en": "Quit being a member?",
+  "pt": "Deixar de ser membro?",
+  "max_width": 130
+ },
+ {
+  "offset": "03D6D50",
+  "en": "You stopped being a member.\\p",
+  "pt": "Você deixou de ser membro.\\p"
+ },
+ {
+  "offset": "03D6D98",
+  "en": "The WIRELESS COMMUNICATION\\nSYSTEM link has been established.",
+  "pt": "A conexão do SISTEMA DE COMUNI-\\nCAÇÃO SEM FIO foi estabelecida.",
+  "max_lines": 2,
+  "max_width": 185
+ },
+ {
+  "offset": "03D6DD8",
+  "en": "The WIRELESS COMMUNICATION\\nSYSTEM link has been dropped…",
+  "pt": "A conexão do SISTEMA DE COMU-\\nNICAÇÃO SEM FIO caiu…",
+  "max_lines": 2,
+  "max_width": 167
+ },
+ {
+  "offset": "03D6E14",
+  "en": "The link with your friend has been\\ndropped…",
+  "pt": "A conexão com o seu amigo\\ncaiu…",
+  "max_lines": 2,
+  "max_width": 186
+ },
+ {
+  "offset": "03D6E40",
+  "en": "{STR_VAR_1} replied, “No…”",
+  "pt": "{STR_VAR_1} respondeu: “Não…”",
+  "max_width": 142
+ },
+ {
+  "offset": "03D6E7C",
+  "en": "Do you want the {STR_VAR_2}\\nMODE?",
+  "pt": "Você quer o MODO\\n{STR_VAR_2}?",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "03D6E98",
+  "en": "Do you want the {STR_VAR_2}\\nMODE?",
+  "pt": "Você quer o MODO\\n{STR_VAR_2}?",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "03D6ED8",
+  "en": "Awaiting {STR_VAR_1}'s response about\\nthe trade…",
+  "pt": "Aguardando a resposta de\\n{STR_VAR_1} sobre a troca…",
+  "max_lines": 2,
+  "max_width": 191
+ },
+ {
+  "offset": "03D705C",
+  "en": "Hiya! Is there something that you\\nwanted to do?",
+  "pt": "Olá! Tem alguma coisa que você\\nqueria fazer?",
+  "max_lines": 2,
+  "max_width": 186
+ },
+ {
+  "offset": "03D708C",
+  "en": "Hello!\\nWould you like to do something?",
+  "pt": "Olá!\\nQuer fazer alguma coisa?",
+  "max_lines": 2,
+  "max_width": 173
+ },
+ {
+  "offset": "03D70B4",
+  "en": "{STR_VAR_1}: Hiya, we meet again!\\nWhat are you up for this time?",
+  "pt": "{STR_VAR_1}: Oi, de novo por aqui!\\nO que vai ser desta vez?",
+  "max_lines": 2,
+  "max_width": 166
+ },
+ {
+  "offset": "03D70EC",
+  "en": "{STR_VAR_1}: Oh! {PLAYER}, hello!\\nWould you like to do something?",
+  "pt": "{STR_VAR_1}: Ah! Oi, {PLAYER}!\\nQuer fazer alguma coisa?",
+  "max_lines": 2,
+  "max_width": 173
+ },
+ {
+  "offset": "03D7130",
+  "en": "Want to do something?",
+  "pt": "Quer fazer algo?",
+  "max_width": 139
+ },
+ {
+  "offset": "03D7148",
+  "en": "Would you like to do something?",
+  "pt": "Quer fazer alguma coisa?"
+ },
+ {
+  "offset": "03D7168",
+  "en": "{STR_VAR_1}: What would you like to\\ndo now?",
+  "pt": "{STR_VAR_1}: O que você quer\\nfazer agora?",
+  "max_lines": 2,
+  "max_width": 172
+ },
+ {
+  "offset": "03D71BC",
+  "en": "Somebody has contacted you.{PAUSE 3C}",
+  "pt": "Alguém chamou você.{PAUSE 3C}"
+ },
+ {
+  "offset": "03D71DC",
+  "en": "{STR_VAR_1} has contacted you.{PAUSE 3C}",
+  "pt": "{STR_VAR_1} chamou você.{PAUSE 3C}",
+  "max_width": 168
+ },
+ {
+  "offset": "03D7200",
+  "en": "Awaiting a response from\\nthe other TRAINER…",
+  "pt": "Aguardando resposta do\\noutro TREINADOR…",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "03D722C",
+  "en": "Awaiting a response from\\n{STR_VAR_1}…",
+  "pt": "Aguardando resposta de\\n{STR_VAR_1}…",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "03D7254",
+  "en": "The other TRAINER showed\\nyou their TRAINER CARD.\\pWould you like to show your\\nTRAINER CARD?",
+  "pt": "O outro TREINADOR mostrou o CARTÃO DE TREINADOR para você.\\pGostaria de mostrar o seu CARTÃO DE TREINADOR?"
+ },
+ {
+  "offset": "03D72B0",
+  "en": "The other TRAINER challenges you\\nto battle.\\pWill you accept the battle\\nchallenge?",
+  "pt": "O outro TREINADOR desafiou você para uma batalha.\\pVai aceitar o desafio?"
+ },
+ {
+  "offset": "03D7304",
+  "en": "The other TRAINER invites you\\nto chat.\\pWill you accept the chat\\ninvitation?",
+  "pt": "O outro TREINADOR convidou você para conversar.\\pVai aceitar o convite?"
+ },
+ {
+  "offset": "03D7350",
+  "en": "There is an offer to trade your\\nregistered Lv. {F7 00} {F7 01}\\pin exchange for a\\nLv. {F7 02} {F7 03}.\\pWill you accept this trade\\noffer?",
+  "pt": "Há uma oferta de troca pelo seu Nv. {F7 00} {F7 01} registrado\\pem troca de um Nv. {F7 02} {F7 03}.\\pVai aceitar esta oferta de troca?"
+ },
+ {
+  "offset": "03D73C4",
+  "en": "There is an offer to trade your\\nregistered EGG.\\lWill you accept this trade offer?",
+  "pt": "Há uma oferta de troca pelo\\nseu OVO registrado.\\lVai aceitar esta oferta?",
+  "max_lines": 3,
+  "max_width": 183
+ },
+ {
+  "offset": "03D7418",
+  "en": "The chat has been dropped.\\p",
+  "pt": "A conversa foi interrompida.\\p"
+ },
+ {
+  "offset": "03D7434",
+  "en": "You declined the offer.\\p",
+  "pt": "Você recusou a oferta.\\p"
+ },
+ {
+  "offset": "03D7450",
+  "en": "You declined the offer.\\p",
+  "pt": "Você recusou a oferta.\\p"
+ },
+ {
+  "offset": "03D746C",
+  "en": "The chat was ended.\\p",
+  "pt": "A conversa terminou.\\p"
+ },
+ {
+  "offset": "03D7494",
+  "en": "Oh, hey! We're in a chat right now.\\nWant to join us?",
+  "pt": "Oi! A gente tá conversando agora.\\nQuer participar?",
+  "max_lines": 2,
+  "max_width": 182
+ },
+ {
+  "offset": "03D74CC",
+  "en": "{STR_VAR_1}: Hey, {PLAYER}!\\nWe're having a chat right now.\\lWant to join us?",
+  "pt": "{STR_VAR_1}: Ei, {PLAYER}!\\nA gente tá conversando.\\lQuer participar?",
+  "max_lines": 3,
+  "max_width": 163
+ },
+ {
+  "offset": "03D750C",
+  "en": "Oh, hi! We're having a chat now.\\nWould you like to join us?",
+  "pt": "Oi! Estamos conversando agora.\\nGostaria de participar?",
+  "max_lines": 2,
+  "max_width": 168
+ },
+ {
+  "offset": "03D7548",
+  "en": "{STR_VAR_1}: Oh, hi, {PLAYER}!\\nWe're having a chat now.\\lWould you like to join us?",
+  "pt": "{STR_VAR_1}: Ah, oi, {PLAYER}!\\nEstamos conversando.\\lGostaria de participar?",
+  "max_lines": 3,
+  "max_width": 142
+ },
+ {
+  "offset": "03D759C",
+  "en": "……\\nThe TRAINER appears to be busy…\\p",
+  "pt": "……\\nO TREINADOR parece estar ocupado…\\p"
+ },
+ {
+  "offset": "03D75C0",
+  "en": "A battle, huh?\\nAll right, just give me some time.",
+  "pt": "Uma batalha, é?\\nBeleza, só me dá um tempinho.",
+  "max_lines": 2,
+  "max_width": 178
+ },
+ {
+  "offset": "03D75F4",
+  "en": "You want to chat, huh?\\nSure, just wait a little.",
+  "pt": "Quer conversar, é?\\nClaro, espera um pouco.",
+  "max_lines": 2,
+  "max_width": 132
+ },
+ {
+  "offset": "03D7628",
+  "en": "Sure thing! As my “Greetings,”\\nhere's my TRAINER CARD.",
+  "pt": "Claro! Como “Saudação”, aqui\\nestá meu CARTÃO DE TREINADOR.",
+  "max_lines": 2,
+  "max_width": 167
+ },
+ {
+  "offset": "03D7660",
+  "en": "A battle? Of course, but I need\\ntime to get ready.",
+  "pt": "Uma batalha? Claro, mas preciso\\nde um tempo para me preparar.",
+  "max_lines": 2,
+  "max_width": 172
+ },
+ {
+  "offset": "03D7694",
+  "en": "Did you want to chat?\\nOkay, but please wait a moment.",
+  "pt": "Queria conversar?\\nCerto, mas espere um momento.",
+  "max_lines": 2,
+  "max_width": 171
+ },
+ {
+  "offset": "03D76CC",
+  "en": "As my introduction, I'll show you\\nmy TRAINER CARD.",
+  "pt": "Para me apresentar, vou mostrar\\nmeu CARTÃO DE TREINADOR.",
+  "max_lines": 2,
+  "max_width": 178
+ },
+ {
+  "offset": "03D7754",
+  "en": "Thanks for waiting!\\nLet's get our battle started!{PAUSE 3C}",
+  "pt": "Obrigado por esperar!\\nVamos começar a batalha!{PAUSE 3C}",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "03D778C",
+  "en": "All right!\\nLet's chat!{PAUSE 3C}",
+  "pt": "Beleza!\\nVamos falar!{PAUSE 3C}",
+  "max_lines": 2,
+  "max_width": 68
+ },
+ {
+  "offset": "03D77A8",
+  "en": "Sorry I made you wait!\\nLet's get started!{PAUSE 3C}",
+  "pt": "Desculpe a demora!\\nVamos começar!{PAUSE 3C}",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "03D77D8",
+  "en": "Sorry I made you wait!\\nLet's chat.{PAUSE 3C}",
+  "pt": "Desculpe a demora!\\nVamos conversar.{PAUSE 3C}",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "03D7800",
+  "en": "The trade will be started.{PAUSE 3C}",
+  "pt": "A troca vai começar.{PAUSE 3C}",
+  "max_width": 157
+ },
+ {
+  "offset": "03D7820",
+  "en": "The battle will be started.{PAUSE 3C}",
+  "pt": "A batalha vai começar.{PAUSE 3C}",
+  "max_width": 162
+ },
+ {
+  "offset": "03D7840",
+  "en": "Entering the chat…{PAUSE 3C}",
+  "pt": "Entrando na conversa…{PAUSE 3C}",
+  "max_width": 123
+ },
+ {
+  "offset": "03D7888",
+  "en": "Sorry! My POKéMON don't seem to\\nbe feeling too well right now.\\lLet me battle you another time.\\p",
+  "pt": "Foi mal! Minhas CAPTURAS não parecem estar muito bem agora. Vamos batalhar outra hora.\\p"
+ },
+ {
+  "offset": "03D78E8",
+  "en": "I'm terribly sorry, but my POKéMON\\naren't feeling well…\\pLet's battle another time.\\p",
+  "pt": "Sinto muito, mas minhas CAPTURAS não estão se sentindo bem…\\pVamos batalhar outra hora.\\p"
+ },
+ {
+  "offset": "03D7944",
+  "en": "Huh? My TRAINER CARD…\\nWhere'd it go now?\\lSorry! I'll show you another time!\\p",
+  "pt": "Hã? Meu CARTÃO DE TREINADOR… Cadê ele? Foi mal! Mostro outra hora!\\p"
+ },
+ {
+  "offset": "03D7994",
+  "en": "Oh? Now where did I put my\\nTRAINER CARD?…\\lSorry! I'll show you later!\\p",
+  "pt": "Ué? Onde foi que eu coloquei meu CARTÃO DE TREINADOR?… Desculpe! Mostro depois!\\p"
+ },
+ {
+  "offset": "03D79E4",
+  "en": "If you want to do something with\\nme, just give me a shout!\\p",
+  "pt": "Se quiser fazer alguma coisa comigo, é só chamar!\\p"
+ },
+ {
+  "offset": "03D7A20",
+  "en": "If you want to do something with\\nme, don't be shy.\\p",
+  "pt": "Se quiser fazer alguma coisa comigo, não precisa ter vergonha.\\p"
+ },
+ {
+  "offset": "03D7A5C",
+  "en": "Whoops! Sorry, but I have to do\\nsomething else.\\lAnother time, okay?\\p",
+  "pt": "Opa! Foi mal, mas tenho que fazer outra coisa. Fica pra outra hora, tá?\\p"
+ },
+ {
+  "offset": "03D7AA4",
+  "en": "If you want to battle, you need\\ntwo POKéMON that are below\\lLv. 30.\\p",
+  "pt": "Para batalhar, você precisa de duas CAPTURAS abaixo do Nv. 30.\\p"
+ },
+ {
+  "offset": "03D7AE8",
+  "en": "For a battle, you need two\\nPOKéMON that are below Lv. 30.\\p",
+  "pt": "Para batalhar, você precisa de duas CAPTURAS abaixo do Nv. 30.\\p"
+ },
+ {
+  "offset": "03D7B24",
+  "en": "Oh, all right.\\nCome see me anytime, okay?\\p",
+  "pt": "Ah, tudo bem. Venha me ver quando quiser, tá?\\p"
+ },
+ {
+  "offset": "03D7B50",
+  "en": "Oh…\\nPlease come by anytime.\\p",
+  "pt": "Ah… Pode aparecer quando quiser.\\p"
+ },
+ {
+  "offset": "03D7B78",
+  "en": "Oh, sorry!\\nI just can't right this instant.\\lLet's chat another time.\\p",
+  "pt": "Ah, foi mal! Não dá agora, neste instante. Vamos conversar outra hora.\\p"
+ },
+ {
+  "offset": "03D7BC0",
+  "en": "Oh, I'm sorry.\\nI have too much to do right now.\\lLet's chat some other time.\\p",
+  "pt": "Ah, sinto muito. Tenho muita coisa pra fazer agora. Vamos conversar outra hora.\\p"
+ },
+ {
+  "offset": "03D7C18",
+  "en": "Whoa!\\nI can tell you're pretty tough!\\p",
+  "pt": "Uau! Dá pra ver que você é bem forte!\\p"
+ },
+ {
+  "offset": "03D7C40",
+  "en": "You used that move?\\nThat's good strategy!\\p",
+  "pt": "Você usou esse golpe? Que boa estratégia!\\p"
+ },
+ {
+  "offset": "03D7C6C",
+  "en": "Way to go!\\nThat was an eye-opener!\\p",
+  "pt": "Mandou bem! Isso foi revelador!\\p"
+ },
+ {
+  "offset": "03D7C90",
+  "en": "Oh! How could you use that\\nPOKéMON in that situation?\\p",
+  "pt": "Ah! Como você teve coragem de usar essa CAPTURA nessa situação?\\p"
+ },
+ {
+  "offset": "03D7CC8",
+  "en": "That POKéMON…\\nIt's been raised really well!\\p",
+  "pt": "Essa CAPTURA… Foi muito bem treinada!\\p"
+ },
+ {
+  "offset": "03D7CF8",
+  "en": "That's it!\\nThis is the right move now!\\p",
+  "pt": "É isso! Esse é o golpe certo agora!\\p"
+ },
+ {
+  "offset": "03D7D20",
+  "en": "That's awesome!\\nYou can battle that way?\\p",
+  "pt": "Que incrível! Dá pra batalhar desse jeito?\\p"
+ },
+ {
+  "offset": "03D7D4C",
+  "en": "You have exquisite timing for\\nswitching POKéMON!\\p",
+  "pt": "Você tem um timing perfeito para trocar de CAPTURA!\\p"
+ },
+ {
+  "offset": "03D7DA0",
+  "en": "Oh, I see!\\nThis is educational!\\p",
+  "pt": "Ah, entendi! Isso é educativo!\\p"
+ },
+ {
+  "offset": "03D7DC4",
+  "en": "Don't say anything funny anymore!\\nI'm sore from laughing!\\p",
+  "pt": "Para de falar coisa engraçada! Já tô com dor de tanto rir!\\p"
+ },
+ {
+  "offset": "03D7E00",
+  "en": "Oh?\\nSomething like that happened.\\p",
+  "pt": "Ué? Aconteceu uma coisa dessas.\\p"
+ },
+ {
+  "offset": "03D7E24",
+  "en": "Hmhm… What?\\nSo is this what you're saying?\\p",
+  "pt": "Hum hum… O quê? Então é isso que você tá dizendo?\\p"
+ },
+ {
+  "offset": "03D7E50",
+  "en": "Is that right?\\nI didn't know that.\\p",
+  "pt": "Sério? Eu não sabia disso.\\p"
+ },
+ {
+  "offset": "03D7E74",
+  "en": "Ahaha!\\nWhat is that about?\\p",
+  "pt": "Ahaha! Que história é essa?\\p"
+ },
+ {
+  "offset": "03D7E90",
+  "en": "Yes, that's exactly it!\\nThat's what I meant.\\p",
+  "pt": "Isso, é exatamente isso! Era o que eu queria dizer.\\p"
+ },
+ {
+  "offset": "03D7EC0",
+  "en": "In other words…\\nYes! That's right!\\p",
+  "pt": "Em outras palavras… Isso! Exatamente!\\p"
+ },
+ {
+  "offset": "03D7F04",
+  "en": "I'm just showing my TRAINER CARD\\nas my way of greeting.\\p",
+  "pt": "Só estou mostrando meu CARTÃO DE TREINADOR como cumprimento.\\p"
+ },
+ {
+  "offset": "03D7F40",
+  "en": "I hope I get to know you better!\\p",
+  "pt": "Espero te conhecer melhor!\\p"
+ },
+ {
+  "offset": "03D7F64",
+  "en": "We're showing each other our\\nTRAINER CARDS to get acquainted.\\p",
+  "pt": "Estamos mostrando nossos CARTÕES DE TREINADOR para nos conhecermos.\\p"
+ },
+ {
+  "offset": "03D7FA4",
+  "en": "Glad to meet you.\\nPlease don't be a stranger!\\p",
+  "pt": "Prazer em conhecer. Não suma, hein!\\p"
+ },
+ {
+  "offset": "03D7FE4",
+  "en": "Yeahah!\\nI really wanted this POKéMON!\\p",
+  "pt": "Ieeei! Eu queria muito essa CAPTURA!\\p"
+ },
+ {
+  "offset": "03D800C",
+  "en": "Finally, a trade got me that\\nPOKéMON I'd wanted a long time.\\p",
+  "pt": "Finalmente, uma troca me deu a CAPTURA que eu queria há tempos.\\p"
+ },
+ {
+  "offset": "03D804C",
+  "en": "I'm trading POKéMON right now.\\p",
+  "pt": "Estou trocando CAPTURAS agora.\\p"
+ },
+ {
+  "offset": "03D806C",
+  "en": "I finally got that POKéMON I\\nwanted in a trade!\\p",
+  "pt": "Finalmente consegui numa troca a CAPTURA que eu queria!\\p"
+ },
+ {
+  "offset": "03D80C0",
+  "en": "{STR_VAR_1} checked the\\nTRADING BOARD.\\p",
+  "pt": "{STR_VAR_1} consultou o QUADRO DE TROCAS.\\p"
+ },
+ {
+  "offset": "03D80E0",
+  "en": "Welcome to the TRADING BOARD.\\pYou may register your POKéMON\\nand offer it up for a trade.\\pWould you like to register one of\\nyour POKéMON?",
+  "pt": "Bem-vindo ao QUADRO DE TROCAS.\\pVocê pode registrar sua CAPTURA e oferecê-la para troca.\\pGostaria de registrar uma das suas CAPTURAS?"
+ },
+ {
+  "offset": "03D816C",
+  "en": "This TRADING BOARD is used for\\noffering a POKéMON for a trade.\\pAll you need to do is register a\\nPOKéMON for a trade.\\pAnother TRAINER may offer a party\\nPOKéMON in return for the trade.\\pWe hope you will register POKéMON\\nand trade them with many, many\\lother TRAINERS.\\pWould you like to register one of\\nyour POKéMON?",
+  "pt": "Este QUADRO DE TROCAS serve para oferecer uma CAPTURA para troca.\\pTudo o que você precisa fazer é registrar uma CAPTURA para troca.\\pOutro TREINADOR pode oferecer uma CAPTURA da equipe dele em troca.\\pEsperamos que você registre CAPTURAS e troque com muitos, muitos outros TREINADORES.\\pGostaria de registrar uma das suas CAPTURAS?"
+ },
+ {
+  "offset": "03D8350",
+  "en": "Please choose the type of POKéMON\\nthat you would like in the trade.\\n",
+  "pt": "Escolha o tipo de CAPTURA que\\nvocê gostaria de receber na troca.\\n",
+  "max_lines": 3,
+  "max_width": 191
+ },
+ {
+  "offset": "03D8398",
+  "en": "Which of your party POKéMON will\\nyou offer in trade?\\p",
+  "pt": "Qual CAPTURA da sua equipe você vai oferecer na troca?\\p"
+ },
+ {
+  "offset": "03D83D0",
+  "en": "Registration has been canceled.\\p",
+  "pt": "O registro foi cancelado.\\p"
+ },
+ {
+  "offset": "03D83F4",
+  "en": "Registration has been completed.\\p",
+  "pt": "O registro foi concluído.\\p"
+ },
+ {
+  "offset": "03D8418",
+  "en": "The trade has been canceled.\\p",
+  "pt": "A troca foi cancelada.\\p"
+ },
+ {
+  "offset": "03D8438",
+  "en": "Cancel the registration of your\\nLv. {STR_VAR_2} {STR_VAR_1}?",
+  "pt": "Cancelar o registro do seu\\n{STR_VAR_1} Nv. {STR_VAR_2}?",
+  "max_lines": 2,
+  "max_width": 175
+ },
+ {
+  "offset": "03D8464",
+  "en": "Cancel the registration of your\\nEGG?",
+  "pt": "Cancelar o registro do seu\\nOVO?",
+  "max_lines": 2,
+  "max_width": 175
+ },
+ {
+  "offset": "03D848C",
+  "en": "The registration has been canceled.\\p",
+  "pt": "O registro foi cancelado.\\p"
+ },
+ {
+  "offset": "03D8530",
+  "en": "Would you like to ask {STR_VAR_1} to\\nmake a trade?",
+  "pt": "Gostaria de pedir uma troca\\npara {STR_VAR_1}?",
+  "max_lines": 2,
+  "max_width": 178
+ },
+ {
+  "offset": "03D85B8",
+  "en": "You don't have a {STR_VAR_2}-type\\nPOKéMON that {STR_VAR_1} wants.\\p",
+  "pt": "Você não tem uma CAPTURA do tipo {STR_VAR_2} que {STR_VAR_1} quer.\\p"
+ },
+ {
+  "offset": "03D85EC",
+  "en": "You don't have an EGG that\\n{STR_VAR_1} wants.\\p",
+  "pt": "Você não tem um OVO que {STR_VAR_1} quer.\\p"
+ },
+ {
+  "offset": "03D8614",
+  "en": "{STR_VAR_1} can't make a trade for\\nyour POKéMON right now.\\p",
+  "pt": "{STR_VAR_1} não pode fazer uma troca pela sua CAPTURA agora.\\p"
+ },
+ {
+  "offset": "03D8648",
+  "en": "You can't make a trade for\\n{STR_VAR_1}'s POKéMON right now.\\p",
+  "pt": "Você não pode fazer uma troca pela CAPTURA de {STR_VAR_1} agora.\\p"
+ },
+ {
+  "offset": "03D8684",
+  "en": "Your trade offer was rejected.\\p",
+  "pt": "Sua oferta de troca foi recusada.\\p"
+ },
+ {
+  "offset": "03D86A4",
+  "en": "EGG TRADE",
+  "pt": "TROCA OVO",
+  "max_width": 57
+ },
+ {
+  "offset": "03D86B0",
+  "en": "{F8 0A}CHOOSE  {F8 00}JOIN  {F8 01}CANCEL",
+  "pt": "{F8 0A}ESCOLHER  {F8 00}ENTRAR  {F8 01}SAIR",
+  "max_width": 168
+ },
+ {
+  "offset": "03D86CC",
+  "en": "Please choose a TRAINER.",
+  "pt": "Escolha um TREINADOR.",
+  "max_width": 154
+ },
+ {
+  "offset": "03D86E8",
+  "en": "Please choose a TRAINER for\\na SINGLE BATTLE.",
+  "pt": "Escolha um TREINADOR para\\numa BATALHA INDIVIDUAL.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "03D8718",
+  "en": "Please choose a TRAINER for\\na DOUBLE BATTLE.",
+  "pt": "Escolha um TREINADOR para\\numa BATALHA DUPLA.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "03D8748",
+  "en": "Please choose the LEADER\\nfor a MULTI BATTLE.",
+  "pt": "Escolha o LÍDER de uma\\nBATALHA MÚLTIPLA.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "03D8778",
+  "en": "Please choose the TRAINER to\\ntrade with.",
+  "pt": "Escolha o TREINADOR com\\nquem quer trocar.",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "03D87A4",
+  "en": "Please choose the TRAINER who is\\nsharing WONDER CARDS.",
+  "pt": "Escolha o TREINADOR que está\\ncompartilhando CARTÕES MÁGICOS.",
+  "max_lines": 2,
+  "max_width": 183
+ },
+ {
+  "offset": "03D87DC",
+  "en": "Please choose the TRAINER who is\\nsharing WONDER NEWS.",
+  "pt": "Escolha o TREINADOR que está\\ncompartilhando NOTÍCIAS MÁGICAS.",
+  "max_lines": 2,
+  "max_width": 183
+ },
+ {
+  "offset": "03D8814",
+  "en": "Jump with mini POKéMON!\\nPlease choose the LEADER.",
+  "pt": "Pule com mini CAPTURAS!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D8848",
+  "en": "BERRY CRUSH!\\nPlease choose the LEADER.",
+  "pt": "ESMAGA-FRUTAS!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D8870",
+  "en": "DODRIO BERRY-PICKING!\\nPlease choose the LEADER.",
+  "pt": "COLHEITA DE FRUTAS DODRIO!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D88A0",
+  "en": "BERRY BLENDER!\\nPlease choose the LEADER.",
+  "pt": "LIQUIDIFICADOR DE FRUTAS!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D88CC",
+  "en": "RECORD CORNER!\\nPlease choose the LEADER.",
+  "pt": "CANTO DOS RECORDES!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D88F8",
+  "en": "COOLNESS CONTEST!\\nPlease choose the LEADER.",
+  "pt": "CONCURSO DE ESTILO!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D8924",
+  "en": "BEAUTY CONTEST!\\nPlease choose the LEADER.",
+  "pt": "CONCURSO DE BELEZA!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D8950",
+  "en": "CUTENESS CONTEST!\\nPlease choose the LEADER.",
+  "pt": "CONCURSO DE FOFURA!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D897C",
+  "en": "SMARTNESS CONTEST!\\nPlease choose the LEADER.",
+  "pt": "CONC. DE INTELIGÊNCIA!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D89AC",
+  "en": "TOUGHNESS CONTEST!\\nPlease choose the LEADER.",
+  "pt": "CONCURSO DE GARRA!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D89DC",
+  "en": "BATTLE TOWER LEVEL 50!\\nPlease choose the LEADER.",
+  "pt": "TORRE DE BATALHA NV. 50!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D8A10",
+  "en": "BATTLE TOWER OPEN LEVEL!\\nPlease choose the LEADER.",
+  "pt": "TORRE DE BATALHA LIVRE!\\nEscolha o LÍDER.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "03D8A9C",
+  "en": "Searching for a WIRELESS\\nCOMMUNICATION SYSTEM. Wait...",
+  "pt": "Buscando um SISTEMA DE COMU-\\nNICAÇÃO SEM FIO. Aguarde...",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "03D8B10",
+  "en": "Awaiting {STR_VAR_1}'s response…",
+  "pt": "Aguardando a resposta de {STR_VAR_1}…"
+ },
+ {
+  "offset": "03D8B28",
+  "en": "{STR_VAR_1} has been asked to register\\nyou as a member. Please wait.",
+  "pt": "{STR_VAR_1} recebeu seu pedido de\\nregistro como membro. Aguarde.",
+  "max_lines": 2,
+  "max_width": 195
+ },
+ {
+  "offset": "03D8B64",
+  "en": "Awaiting a response from the\\nWIRELESS COMMUNICATION SYSTEM.",
+  "pt": "Aguardando resposta do SISTEMA\\nDE COMUNICAÇÃO SEM FIO.",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "03D8BD8",
+  "en": "No CARDS appear to be shared \\nright now.",
+  "pt": "Nenhum CARTÃO parece estar\\nsendo compartilhado agora.",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "03D8C04",
+  "en": "No NEWS appears to be shared\\nright now.",
+  "pt": "Nenhuma NOTÍCIA parece estar\\nsendo compartilhada agora.",
+  "max_lines": 2,
+  "max_width": 161
+ },
+ {
+  "offset": "03D8C34",
+  "en": "BATTLE",
+  "pt": "LUTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "03D8C3C",
+  "en": "CHAT",
+  "pt": "PAPO",
+  "max_width": 30
+ },
+ {
+  "offset": "03D8C44",
+  "en": "GREETINGS",
+  "pt": "SAUDAÇÃO",
+  "max_width": 60
+ },
+ {
+  "offset": "03D8C50",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "03D8C58",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "03D8C60",
+  "en": "INFO",
+  "pt": "INFO",
+  "max_width": 30
+ },
+ {
+  "offset": "03D8C68",
+  "en": "NAME{CLEAR_TO 3C}WANTED{CLEAR_TO 6E}OFFER{CLEAR_TO C6}LV.",
+  "pt": "NOME{CLEAR_TO 3C}QUER{CLEAR_TO 6E}OFERECE{CLEAR_TO C6}NV.",
+  "max_width": 129
+ },
+ {
+  "offset": "03D8C84",
+  "en": "SINGLE BATTLE",
+  "pt": "BATALHA INDIV.",
+  "max_width": 81
+ },
+ {
+  "offset": "03D8C94",
+  "en": "DOUBLE BATTLE",
+  "pt": "BATALHA DUPLA",
+  "max_width": 81
+ },
+ {
+  "offset": "03D8CA4",
+  "en": "MULTI BATTLE",
+  "pt": "BAT. MÚLTIPLA",
+  "max_width": 75
+ },
+ {
+  "offset": "03D8CB4",
+  "en": "POKéMON TRADES",
+  "pt": "TROCA CAPTURAS",
+  "max_width": 105
+ },
+ {
+  "offset": "03D8CC4",
+  "en": "CHAT",
+  "pt": "PAPO",
+  "max_width": 30
+ },
+ {
+  "offset": "03D8CCC",
+  "en": "CARDS",
+  "pt": "CART.",
+  "max_width": 36
+ },
+ {
+  "offset": "03D8CD4",
+  "en": "WONDER CARDS",
+  "pt": "CART. MÁGICOS",
+  "max_width": 75
+ },
+ {
+  "offset": "03D8CE4",
+  "en": "WONDER NEWS",
+  "pt": "NOT. MÁGICAS",
+  "max_width": 69
+ },
+ {
+  "offset": "03D8CF0",
+  "en": "POKéMON JUMP",
+  "pt": "PULO CAPTURAS",
+  "max_width": 93
+ },
+ {
+  "offset": "03D8D00",
+  "en": "BERRY CRUSH",
+  "pt": "ESMAGA-FRUT.",
+  "max_width": 69
+ },
+ {
+  "offset": "03D8D0C",
+  "en": "BERRY-PICKING",
+  "pt": "COLHEITA",
+  "max_width": 84
+ },
+ {
+  "offset": "03D8D1C",
+  "en": "SEARCH",
+  "pt": "BUSCAR",
+  "max_width": 42
+ },
+ {
+  "offset": "03D8D24",
+  "en": "BERRY BLENDER",
+  "pt": "LIQUIDIFIC.",
+  "max_width": 81
+ },
+ {
+  "offset": "03D8D34",
+  "en": "RECORD CORNER",
+  "pt": "CANTO RECORDES",
+  "max_width": 81
+ },
+ {
+  "offset": "03D8D44",
+  "en": "COOL CONTEST",
+  "pt": "CONC. ESTILO",
+  "max_width": 75
+ },
+ {
+  "offset": "03D8D54",
+  "en": "BEAUTY CONTEST",
+  "pt": "CONC. BELEZA",
+  "max_width": 87
+ },
+ {
+  "offset": "03D8D64",
+  "en": "CUTE CONTEST",
+  "pt": "CONC. FOFURA",
+  "max_width": 75
+ },
+ {
+  "offset": "03D8D74",
+  "en": "SMART CONTEST",
+  "pt": "CONC. INTELIG.",
+  "max_width": 81
+ },
+ {
+  "offset": "03D8D84",
+  "en": "TOUGH CONTEST",
+  "pt": "CONC. GARRA",
+  "max_width": 81
+ },
+ {
+  "offset": "03D8D94",
+  "en": "BATTLE TOWER LV. 50",
+  "pt": "TORRE BAT. NV. 50",
+  "max_width": 126
+ },
+ {
+  "offset": "03D8DA8",
+  "en": "BATTLE TOWER OPEN LEVEL",
+  "pt": "TORRE BAT. NÍVEL LIVRE",
+  "max_width": 153
+ },
+ {
+  "offset": "03D8DC0",
+  "en": "It's a NORMAL CARD.",
+  "pt": "É um CARTÃO NORMAL.",
+  "max_width": 123
+ },
+ {
+  "offset": "03D8DD4",
+  "en": "It's a BRONZE CARD!",
+  "pt": "É um CARTÃO BRONZE!",
+  "max_width": 124
+ },
+ {
+  "offset": "03D8DE8",
+  "en": "It's a COPPER CARD!",
+  "pt": "É um CARTÃO COBRE!",
+  "max_width": 124
+ },
+ {
+  "offset": "03D8DFC",
+  "en": "It's a SILVER CARD!",
+  "pt": "É um CARTÃO PRATA!",
+  "max_width": 124
+ },
+ {
+  "offset": "03D8E10",
+  "en": "It's a GOLD CARD!",
+  "pt": "É um CARTÃO OURO!",
+  "max_width": 112
+ },
+ {
+  "offset": "03D8E38",
+  "en": "This is {F7 00} {F7 01}'s\\nTRAINER CARD…\\l{F7 02}\\pPOKéDEX: {F7 03}\\nTIME:    {F7 04}:{F7 05}\\p",
+  "pt": "Este é o CARTÃO DE TREINADOR\\nde {F7 00} {F7 01}…\\l{F7 02}\\pTATTLEDEX: {F7 03}\\nTEMPO:    {F7 04}:{F7 05}\\p"
+ },
+ {
+  "offset": "03D8E78",
+  "en": "BATTLES: WINS: {F7 00}  LOSSES: {F7 02}\\nTRADES: {F7 03}\\p“{F7 04} {F7 05}\\n{F7 06} {F7 07}”\\p",
+  "pt": "BATALHAS: VITÓRIAS: {F7 00}  DERROTAS: {F7 02}\\nTROCAS: {F7 03}\\p“{F7 04} {F7 05}\\n{F7 06} {F7 07}”\\p"
+ },
+ {
+  "offset": "03D8EB0",
+  "en": "{F7 01}: Glad to have met you!{PAUSE 3C}",
+  "pt": "{F7 01}: Foi bom te conhecer!{PAUSE 3C}",
+  "max_width": 152
+ },
+ {
+  "offset": "03D8ED0",
+  "en": "{F7 01}: Glad to meet you!{PAUSE 3C}",
+  "pt": "{F7 01}: Prazer em conhecer!{PAUSE 3C}",
+  "max_width": 131
+ },
+ {
+  "offset": "03D8EF4",
+  "en": "Finished checking {F7 01}'s\\nTRAINER CARD.{PAUSE 3C}",
+  "pt": "Você viu o CARTÃO DE\\nTREINADOR de {F7 01}.{PAUSE 3C}",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "03DBA48",
+  "en": "Canceled reading\\nthe Card.",
+  "pt": "Leitura do\\nCartão cancelada.",
+  "max_lines": 2,
+  "max_width": 98
+ },
+ {
+  "offset": "03E10F0",
+  "en": "ABCDEFG",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "040F2A4",
+  "en": "Jerry",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "040F2CC",
+  "en": "Blooey",
+  "pt": "",
+  "max_width": 58
+ },
+ {
+  "offset": "040F2F4",
+  "en": "Bitey",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "0410EA8",
+  "en": "KAMEK",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0411F00",
+  "en": "Chuckstack",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "0411F0B",
+  "en": "Private",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "0411F13",
+  "en": "Sgt.Pickle",
+  "pt": "",
+  "max_width": 77
+ },
+ {
+  "offset": "0411FA0",
+  "en": "Bubbles",
+  "pt": "",
+  "max_width": 64
+ },
+ {
+  "offset": "0412028",
+  "en": "BeanBuddie",
+  "pt": "",
+  "max_width": 82
+ },
+ {
+  "offset": "04121D4",
+  "en": "Chuck",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "0412714",
+  "en": "Cheepers",
+  "pt": "",
+  "max_width": 71
+ },
+ {
+  "offset": "0412800",
+  "en": "BeanyBuddy",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "0413634",
+  "en": "Stu'in",
+  "pt": "",
+  "max_width": 55
+ },
+ {
+  "offset": "04136DC",
+  "en": "Yoshiceros",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "04147B0",
+  "en": "Choropu",
+  "pt": "",
+  "max_width": 65
+ },
+ {
+  "offset": "04147B8",
+  "en": "SuperPYORO",
+  "pt": "",
+  "max_width": 83
+ },
+ {
+  "offset": "04147C3",
+  "en": "Unbaba",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "04147CA",
+  "en": "Mr. Fish",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "04147D3",
+  "en": "RoyalScare",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "04148A0",
+  "en": "Hayzee",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "0414C08",
+  "en": "Buddy",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "04150B0",
+  "en": "Ç{FC_00} {FC_00}Gru",
+  "pt": "",
+  "max_width": 50
+ },
+ {
+  "offset": "04150B6",
+  "en": "Gru",
+  "pt": "",
+  "max_width": 41
+ },
+ {
+  "offset": "0416BE4",
+  "en": "F. OTTO",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0416F0C",
+  "en": "CAP TRAINER",
+  "pt": "TREINADOR",
+  "max_width": 69
+ },
+ {
+  "offset": "041701D",
+  "en": "BEAUTY",
+  "pt": "BELEZA",
+  "max_width": 42
+ },
+ {
+  "offset": "0417342",
+  "en": " KOOPA KING",
+  "pt": " REI KOOPA",
+  "max_width": 66
+ },
+ {
+  "offset": "0420000",
+  "en": "   Miltank",
+  "pt": "",
+  "max_width": 71
+ },
+ {
+  "offset": "042000C",
+  "en": "  Blissey",
+  "pt": "",
+  "max_width": 68
+ },
+ {
+  "offset": "042000D",
+  "en": " Blissey",
+  "pt": "",
+  "max_width": 65
+ },
+ {
+  "offset": "042000E",
+  "en": "Blissey",
+  "pt": "",
+  "max_width": 62
+ },
+ {
+  "offset": "0420017",
+  "en": "  Raikou",
+  "pt": "",
+  "max_width": 64
+ },
+ {
+  "offset": "0420018",
+  "en": " Raikou",
+  "pt": "",
+  "max_width": 61
+ },
+ {
+  "offset": "0420019",
+  "en": "Raikou",
+  "pt": "",
+  "max_width": 58
+ },
+ {
+  "offset": "0420021",
+  "en": "   Entei",
+  "pt": "",
+  "max_width": 61
+ },
+ {
+  "offset": "042002A",
+  "en": "     Suicune",
+  "pt": "",
+  "max_width": 79
+ },
+ {
+  "offset": "042002D",
+  "en": "  Suicune",
+  "pt": "",
+  "max_width": 70
+ },
+ {
+  "offset": "042002F",
+  "en": "Suicune",
+  "pt": "",
+  "max_width": 64
+ },
+ {
+  "offset": "0420039",
+  "en": " Larvitar",
+  "pt": "",
+  "max_width": 71
+ },
+ {
+  "offset": "042003A",
+  "en": "Larvitar",
+  "pt": "",
+  "max_width": 68
+ },
+ {
+  "offset": "042004D",
+  "en": "   Tyranitar",
+  "pt": "",
+  "max_width": 83
+ },
+ {
+  "offset": "042004F",
+  "en": " Tyranitar",
+  "pt": "",
+  "max_width": 77
+ },
+ {
+  "offset": "042005A",
+  "en": " Lugia",
+  "pt": "",
+  "max_width": 55
+ },
+ {
+  "offset": "042005B",
+  "en": "Lugia",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "0420063",
+  "en": "   Ho-Oh",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "042006D",
+  "en": "    Celebi",
+  "pt": "",
+  "max_width": 68
+ },
+ {
+  "offset": "042006F",
+  "en": "  Celebi",
+  "pt": "",
+  "max_width": 62
+ },
+ {
+  "offset": "0420071",
+  "en": "Celebi",
+  "pt": "",
+  "max_width": 56
+ },
+ {
+  "offset": "042007A",
+  "en": "  Treecko",
+  "pt": "",
+  "max_width": 71
+ },
+ {
+  "offset": "042007B",
+  "en": " Treecko",
+  "pt": "",
+  "max_width": 68
+ },
+ {
+  "offset": "0420310",
+  "en": "Minun",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "0420443",
+  "en": " Whiscash",
+  "pt": "",
+  "max_width": 73
+ },
+ {
+  "offset": "0422046",
+  "en": "  PARABEANIE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "042215B",
+  "en": "VIRUS",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0422719",
+  "en": "    Moltres",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "04228A6",
+  "en": "   Pikachu",
+  "pt": "",
+  "max_width": 73
+ },
+ {
+  "offset": "0422909",
+  "en": "   Unown",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "042294A",
+  "en": "    Unown",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "042296B",
+  "en": "    Unown",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "0425EF7",
+  "en": "  FRANK",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0426F0D",
+  "en": "     Swords Dance",
+  "pt": "",
+  "max_width": 107
+ },
+ {
+  "offset": "0426F39",
+  "en": "            Wing Attack",
+  "pt": "",
+  "max_width": 121
+ },
+ {
+  "offset": "04273B2",
+  "en": "      Thunder Shock",
+  "pt": "",
+  "max_width": 116
+ },
+ {
+  "offset": "042769F",
+  "en": "     Clamp",
+  "pt": "",
+  "max_width": 67
+ },
+ {
+  "offset": "0427BDE",
+  "en": "     Swagger",
+  "pt": "",
+  "max_width": 80
+ },
+ {
+  "offset": "0427F5F",
+  "en": "         Flatter",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "0427F95",
+  "en": "      Facade",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "0427F96",
+  "en": "     Facade",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "0427FFD",
+  "en": "    Taunt",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "0427FFF",
+  "en": "  Taunt",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "0428809",
+  "en": " Toxic Spikes",
+  "pt": "",
+  "max_width": 92
+ },
+ {
+  "offset": "04289E0",
+  "en": "      Bullet Punch",
+  "pt": "",
+  "max_width": 107
+ },
+ {
+  "offset": "0429C88",
+  "en": "       Octolock",
+  "pt": "",
+  "max_width": 91
+ },
+ {
+  "offset": "042A5FC",
+  "en": "All Out Pummeling",
+  "pt": "Surra Total",
+  "max_width": 112
+ },
+ {
+  "offset": "042A60E",
+  "en": "Supersonic Skystrike",
+  "pt": "Investida Supersônica",
+  "max_width": 135
+ },
+ {
+  "offset": "042A623",
+  "en": "Acid Downpour",
+  "pt": "Chuva Ácida",
+  "max_width": 96
+ },
+ {
+  "offset": "042A631",
+  "en": "Tectonic Rage",
+  "pt": "Fúria Tectônica",
+  "max_width": 97
+ },
+ {
+  "offset": "042A63F",
+  "en": "Continental Crush",
+  "pt": "Impacto Continental",
+  "max_width": 118
+ },
+ {
+  "offset": "042A651",
+  "en": "Savage Spin Out",
+  "pt": "Giro Selvagem",
+  "max_width": 106
+ },
+ {
+  "offset": "042A661",
+  "en": "Never Ending Nightmare",
+  "pt": "Pesadelo sem Fim",
+  "max_width": 144
+ },
+ {
+  "offset": "042A678",
+  "en": "Corkscrew Crash",
+  "pt": "Choque Espiral",
+  "max_width": 108
+ },
+ {
+  "offset": "042A688",
+  "en": "Inferno Overdrive",
+  "pt": "Sobrecarga Infernal",
+  "max_width": 118
+ },
+ {
+  "offset": "042A69A",
+  "en": "Hydro Vortex",
+  "pt": "Hidrovórtice",
+  "max_width": 91
+ },
+ {
+  "offset": "042A6A7",
+  "en": "Bloom Doom",
+  "pt": "Florada Fatal",
+  "max_width": 79
+ },
+ {
+  "offset": "042A6B2",
+  "en": "Gigavolt Havoc",
+  "pt": "Caos Gigavolt",
+  "max_width": 101
+ },
+ {
+  "offset": "042A6C1",
+  "en": "Shattered Psyche",
+  "pt": "Psique Estilhaçada",
+  "max_width": 116
+ },
+ {
+  "offset": "042A6D2",
+  "en": "Subzero Slammer",
+  "pt": "Golpe Subzero",
+  "max_width": 107
+ },
+ {
+  "offset": "042A6E2",
+  "en": "Devastating Drake",
+  "pt": "Dragão Devastador",
+  "max_width": 120
+ },
+ {
+  "offset": "042A6F4",
+  "en": "Black Hole Eclipse",
+  "pt": "Eclipse Buraco Negro",
+  "max_width": 118
+ },
+ {
+  "offset": "042A707",
+  "en": "Twinkle Tackle",
+  "pt": "Golpe Cintilante",
+  "max_width": 99
+ },
+ {
+  "offset": "042A716",
+  "en": "Catastropika",
+  "pt": "Catastropika",
+  "max_width": 93
+ },
+ {
+  "offset": "042A723",
+  "en": "10000000 Volt Thunderbolt",
+  "pt": "Raio de 10.000.000 Volts",
+  "max_width": 163
+ },
+ {
+  "offset": "042A73D",
+  "en": "Stoked Sparksurfer",
+  "pt": "Surfe Elétrico Turbo",
+  "max_width": 126
+ },
+ {
+  "offset": "042A750",
+  "en": "Extreme Evoboost",
+  "pt": "Evoimpulso Extremo",
+  "max_width": 116
+ },
+ {
+  "offset": "042A761",
+  "en": "Pulverizing Pancake",
+  "pt": "Panqueca Pulverizante",
+  "max_width": 128
+ },
+ {
+  "offset": "042A775",
+  "en": "Genesis Supernova",
+  "pt": "Supernova Gênese",
+  "max_width": 120
+ },
+ {
+  "offset": "042A787",
+  "en": "Sinister Arrow Raid",
+  "pt": "Flechas Sinistras",
+  "max_width": 123
+ },
+ {
+  "offset": "042A79B",
+  "en": "Malicious Moonsault",
+  "pt": "Mortal Malicioso",
+  "max_width": 127
+ },
+ {
+  "offset": "042A7AF",
+  "en": "Oceanic Operetta",
+  "pt": "Opereta Oceânica",
+  "max_width": 114
+ },
+ {
+  "offset": "042A7C0",
+  "en": "Splintered Stormshards",
+  "pt": "Tempestade de Estilhaços",
+  "max_width": 146
+ },
+ {
+  "offset": "042A7D7",
+  "en": "Let's Snuggle Forever",
+  "pt": "Abraço Eterno",
+  "max_width": 137
+ },
+ {
+  "offset": "042A7ED",
+  "en": "Clangorous Soulblaze",
+  "pt": "Alma Retumbante",
+  "max_width": 134
+ },
+ {
+  "offset": "042A802",
+  "en": "Guardian Of Alola",
+  "pt": "Guardião de Alola",
+  "max_width": 113
+ },
+ {
+  "offset": "042A814",
+  "en": "Searing Sunraze Smash",
+  "pt": "Impacto Solar Escaldante",
+  "max_width": 140
+ },
+ {
+  "offset": "042A82A",
+  "en": "Menacing Moonraze Maelstrom",
+  "pt": "Turbilhão Lunar Ameaçador"
+ },
+ {
+  "offset": "042A846",
+  "en": "Light That Burns The Sky",
+  "pt": "Luz que Queima o Céu",
+  "max_width": 153
+ },
+ {
+  "offset": "042A85F",
+  "en": "Soul Stealing 7 Star Strike",
+  "pt": "Golpe 7 Estrelas Rouba-Alma",
+  "max_width": 164
+ },
+ {
+  "offset": "042ADBC",
+  "en": " À F Ë   À F û  l::ll   Normal",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "042ADC4",
+  "en": " À F û  l::ll   Normal",
+  "pt": "",
+  "max_width": 117
+ },
+ {
+  "offset": "042ADCC",
+  "en": "l::ll   Normal",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "042ADD4",
+  "en": "Normal",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "042ADDB",
+  "en": "Fight",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "042ADE2",
+  "en": "Flying",
+  "pt": "",
+  "max_width": 56
+ },
+ {
+  "offset": "042ADE9",
+  "en": "Poison",
+  "pt": "",
+  "max_width": 58
+ },
+ {
+  "offset": "042ADF0",
+  "en": "Ground",
+  "pt": "",
+  "max_width": 59
+ },
+ {
+  "offset": "042ADF7",
+  "en": "Rock",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "042ADFE",
+  "en": "Bug",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "042AE05",
+  "en": "Ghost",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "042AE0C",
+  "en": "Steel",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "042AE1A",
+  "en": "Fire",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "042AE21",
+  "en": "Water",
+  "pt": "",
+  "max_width": 53
+ },
+ {
+  "offset": "042AE28",
+  "en": "Grass",
+  "pt": "",
+  "max_width": 53
+ },
+ {
+  "offset": "042AE2F",
+  "en": "Electr",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "042AE36",
+  "en": "Psychc",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "042AE3D",
+  "en": "Ice",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "042AE44",
+  "en": "Dragon",
+  "pt": "",
+  "max_width": 59
+ },
+ {
+  "offset": "042AE4B",
+  "en": "Dark",
+  "pt": "",
+  "max_width": 47
+ },
+ {
+  "offset": "042AE52",
+  "en": "Fairy",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "042B026",
+  "en": "No special ability.",
+  "pt": "Nenhuma habilidade.",
+  "max_width": 119
+ },
+ {
+  "offset": "042B03A",
+  "en": "May cause a foe to flinch.",
+  "pt": "Pode fazer o alvo hesitar.",
+  "max_width": 158
+ },
+ {
+  "offset": "042B055",
+  "en": "Summons rain in battle.",
+  "pt": "Invoca chuva na batalha.",
+  "max_width": 143
+ },
+ {
+  "offset": "042B06D",
+  "en": "Gradually boosts Speed.",
+  "pt": "Aumenta a Veloc. aos poucos.",
+  "max_width": 148
+ },
+ {
+  "offset": "042B085",
+  "en": "Blocks critical hits.",
+  "pt": "Bloqueia críticos.",
+  "max_width": 130
+ },
+ {
+  "offset": "042B09B",
+  "en": "Negates 1-hit KO attacks.",
+  "pt": "Anula ataques de nocaute.",
+  "max_width": 160
+ },
+ {
+  "offset": "042B0B5",
+  "en": "Prevents self-destruction.",
+  "pt": "Impede autodestruição.",
+  "max_width": 168
+ },
+ {
+  "offset": "042B0D0",
+  "en": "Prevents paralysis.",
+  "pt": "Impede paralisia.",
+  "max_width": 126
+ },
+ {
+  "offset": "042B0E4",
+  "en": "Ups evasion in a sandstorm.",
+  "pt": "+Evasão em tempest. de areia.",
+  "max_width": 166
+ },
+ {
+  "offset": "042B100",
+  "en": "Paralyzes on contact.",
+  "pt": "Paralisa ao contato.",
+  "max_width": 138
+ },
+ {
+  "offset": "042B116",
+  "en": "Turns electricity into HP.",
+  "pt": "Converte eletricidade em HP.",
+  "max_width": 158
+ },
+ {
+  "offset": "042B131",
+  "en": "Changes water into HP.",
+  "pt": "Converte água em HP.",
+  "max_width": 141
+ },
+ {
+  "offset": "042B148",
+  "en": "Prevents attraction.",
+  "pt": "Impede atração.",
+  "max_width": 134
+ },
+ {
+  "offset": "042B15D",
+  "en": "Negates weather effects.",
+  "pt": "Anula efeitos do clima.",
+  "max_width": 158
+ },
+ {
+  "offset": "042B176",
+  "en": "Raises accuracy.",
+  "pt": "Aumenta a precisão.",
+  "max_width": 111
+ },
+ {
+  "offset": "042B187",
+  "en": "Prevents sleep.",
+  "pt": "Impede o sono.",
+  "max_width": 105
+ },
+ {
+  "offset": "042B197",
+  "en": "Changes type to foe's move.",
+  "pt": "Muda para o tipo do golpe.",
+  "max_width": 168
+ },
+ {
+  "offset": "042B1B3",
+  "en": "Prevents poisoning.",
+  "pt": "Impede envenenamento.",
+  "max_width": 127
+ },
+ {
+  "offset": "042B1C7",
+  "en": "Powers up if hit by fire.",
+  "pt": "Fogo o deixa mais forte.",
+  "max_width": 148
+ },
+ {
+  "offset": "042B1E1",
+  "en": "Prevents added effects.",
+  "pt": "Impede efeitos extras.",
+  "max_width": 152
+ },
+ {
+  "offset": "042B1F9",
+  "en": "Prevents confusion.",
+  "pt": "Impede confusão.",
+  "max_width": 129
+ },
+ {
+  "offset": "042B20D",
+  "en": "Firmly anchors the body.",
+  "pt": "Fixa o corpo no chão.",
+  "max_width": 150
+ },
+ {
+  "offset": "042B226",
+  "en": "Lowers the foe's Attack.",
+  "pt": "Reduz o Ataque do alvo.",
+  "max_width": 152
+ },
+ {
+  "offset": "042B23F",
+  "en": "Prevents the foe's escape.",
+  "pt": "Impede a fuga do oponente.",
+  "max_width": 164
+ },
+ {
+  "offset": "042B25A",
+  "en": "Hurts to touch.",
+  "pt": "Fere ao toque.",
+  "max_width": 104
+ },
+ {
+  "offset": "042B26A",
+  "en": "“Supereffective” hits.",
+  "pt": "Só sofre “superefetivos”.",
+  "max_width": 145
+ },
+ {
+  "offset": "042B281",
+  "en": "Not hit by Ground attacks.",
+  "pt": "Imune a golpes Terrestres.",
+  "max_width": 162
+ },
+ {
+  "offset": "042B29C",
+  "en": "Leaves spores on contact.",
+  "pt": "Solta esporos ao contato.",
+  "max_width": 161
+ },
+ {
+  "offset": "042B2B6",
+  "en": "Passes on status problems.",
+  "pt": "Repassa problemas de status.",
+  "max_width": 165
+ },
+ {
+  "offset": "042B2D1",
+  "en": "Prevents ability reduction.",
+  "pt": "Impede redução de atributos.",
+  "max_width": 167
+ },
+ {
+  "offset": "042B2ED",
+  "en": "Heals upon switching out.",
+  "pt": "Cura-se ao ser trocado.",
+  "max_width": 156
+ },
+ {
+  "offset": "042B307",
+  "en": "Draws electrical moves.",
+  "pt": "Atrai golpes elétricos.",
+  "max_width": 145
+ },
+ {
+  "offset": "042B31F",
+  "en": "Promotes added effects.",
+  "pt": "Favorece efeitos extras.",
+  "max_width": 152
+ },
+ {
+  "offset": "042B337",
+  "en": "Raises Speed in rain.",
+  "pt": "+Velocidade na chuva.",
+  "max_width": 131
+ },
+ {
+  "offset": "042B34D",
+  "en": "Raises Speed in sunshine.",
+  "pt": "+Velocidade no sol.",
+  "max_width": 156
+ },
+ {
+  "offset": "042B367",
+  "en": "Encounter rate increases.",
+  "pt": "Aumenta os encontros.",
+  "max_width": 160
+ },
+ {
+  "offset": "042B381",
+  "en": "Copies special ability.",
+  "pt": "Copia a habilidade.",
+  "max_width": 141
+ },
+ {
+  "offset": "042B399",
+  "en": "Raises Attack.",
+  "pt": "Aumenta o Ataque.",
+  "max_width": 100
+ },
+ {
+  "offset": "042B3A8",
+  "en": "Poisons foe on contact.",
+  "pt": "Envenena ao contato.",
+  "max_width": 148
+ },
+ {
+  "offset": "042B3C0",
+  "en": "Prevents flinching.",
+  "pt": "Impede hesitação.",
+  "max_width": 125
+ },
+ {
+  "offset": "042B3D4",
+  "en": "Prevents frostbite.",
+  "pt": "Impede congelamento.",
+  "max_width": 128
+ },
+ {
+  "offset": "042B3E8",
+  "en": "Prevents burns.",
+  "pt": "Impede queimaduras.",
+  "max_width": 106
+ },
+ {
+  "offset": "042B3F8",
+  "en": "Traps Steel-type CAPTURE.",
+  "pt": "Prende CAPTURAS de Aço.",
+  "max_width": 162
+ },
+ {
+  "offset": "042B412",
+  "en": "Avoids sound-based moves.",
+  "pt": "Evita golpes sonoros.",
+  "max_width": 163
+ },
+ {
+  "offset": "042B42C",
+  "en": "Slight HP recovery in rain.",
+  "pt": "Recupera pouco HP na chuva.",
+  "max_width": 160
+ },
+ {
+  "offset": "042B448",
+  "en": "Summons a sandstorm.",
+  "pt": "Invoca tempest. de areia.",
+  "max_width": 134
+ },
+ {
+  "offset": "042B45D",
+  "en": "Raises foe's PP usage.",
+  "pt": "Gasta mais PP do alvo.",
+  "max_width": 139
+ },
+ {
+  "offset": "042B474",
+  "en": "Heat-and-cold protection.",
+  "pt": "Protege do calor e do frio.",
+  "max_width": 163
+ },
+ {
+  "offset": "042B48E",
+  "en": "Awakens quickly from sleep.",
+  "pt": "Acorda rápido do sono.",
+  "max_width": 167
+ },
+ {
+  "offset": "042B4AA",
+  "en": "Burns the foe on contact.",
+  "pt": "Queima o alvo ao contato.",
+  "max_width": 158
+ },
+ {
+  "offset": "042B4C4",
+  "en": "Prevents trapping.",
+  "pt": "Impede ser preso.",
+  "max_width": 122
+ },
+ {
+  "offset": "042B4D7",
+  "en": "Prevents loss of accuracy.",
+  "pt": "Impede perda de precisão.",
+  "max_width": 164
+ },
+ {
+  "offset": "042B4F2",
+  "en": "Prevents Attack reduction.",
+  "pt": "Impede redução de Ataque.",
+  "max_width": 167
+ },
+ {
+  "offset": "042B50D",
+  "en": "May pick up items.",
+  "pt": "Pode achar itens.",
+  "max_width": 116
+ },
+ {
+  "offset": "042B520",
+  "en": "Moves only every two turns.",
+  "pt": "Age só a cada dois turnos.",
+  "max_width": 167
+ },
+ {
+  "offset": "042B53C",
+  "en": "Trades accuracy for power.",
+  "pt": "Troca precisão por poder.",
+  "max_width": 164
+ },
+ {
+  "offset": "042B557",
+  "en": "Infatuates on contact.",
+  "pt": "Atrai ao contato.",
+  "max_width": 147
+ },
+ {
+  "offset": "042B56E",
+  "en": "Powers up with Minus.",
+  "pt": "Fica forte com Menos.",
+  "max_width": 133
+ },
+ {
+  "offset": "042B584",
+  "en": "Powers up with Plus.",
+  "pt": "Fica forte com Mais.",
+  "max_width": 127
+ },
+ {
+  "offset": "042B599",
+  "en": "Changes with the weather.",
+  "pt": "Muda conforme o clima.",
+  "max_width": 159
+ },
+ {
+  "offset": "042B5B3",
+  "en": "Prevents item theft.",
+  "pt": "Impede roubo de itens.",
+  "max_width": 132
+ },
+ {
+  "offset": "042B5C8",
+  "en": "Heals the body by shedding.",
+  "pt": "Cura o corpo trocando a pele.",
+  "max_width": 167
+ },
+ {
+  "offset": "042B5E4",
+  "en": "Ups Attack if suffering.",
+  "pt": "+Ataque com status.",
+  "max_width": 151
+ },
+ {
+  "offset": "042B5FD",
+  "en": "Ups Defense if suffering.",
+  "pt": "+Defesa com status.",
+  "max_width": 157
+ },
+ {
+  "offset": "042B617",
+  "en": "Draining causes injury.",
+  "pt": "Drenar causa dano.",
+  "max_width": 144
+ },
+ {
+  "offset": "042B62F",
+  "en": "Ups Grass moves in a pinch.",
+  "pt": "+Golpes Planta em apuros.",
+  "max_width": 163
+ },
+ {
+  "offset": "042B64B",
+  "en": "Ups Fire moves in a pinch.",
+  "pt": "+Golpes Fogo em apuros.",
+  "max_width": 155
+ },
+ {
+  "offset": "042B666",
+  "en": "Ups Water moves in a pinch.",
+  "pt": "+Golpes Água em apuros.",
+  "max_width": 163
+ },
+ {
+  "offset": "042B682",
+  "en": "Ups Bug moves in a pinch.",
+  "pt": "+Golpes Inseto em apuros.",
+  "max_width": 152
+ },
+ {
+  "offset": "042B69C",
+  "en": "Prevents recoil damage.",
+  "pt": "Impede dano de recuo.",
+  "max_width": 147
+ },
+ {
+  "offset": "042B6B4",
+  "en": "Summons sunlight in battle.",
+  "pt": "Invoca sol na batalha.",
+  "max_width": 166
+ },
+ {
+  "offset": "042B6D0",
+  "en": "Prevents fleeing.",
+  "pt": "Impede a fuga.",
+  "max_width": 115
+ },
+ {
+  "offset": "042B6E2",
+  "en": "Prevents sleep.",
+  "pt": "Impede o sono.",
+  "max_width": 105
+ },
+ {
+  "offset": "042B6F2",
+  "en": "Prevents ability reduction.",
+  "pt": "Impede redução de atributos.",
+  "max_width": 167
+ },
+ {
+  "offset": "042B70E",
+  "en": "Raises Attack.",
+  "pt": "Aumenta o Ataque.",
+  "max_width": 100
+ },
+ {
+  "offset": "042B71D",
+  "en": "Blocks critical hits.",
+  "pt": "Bloqueia críticos.",
+  "max_width": 130
+ },
+ {
+  "offset": "042B733",
+  "en": "Negates weather effects.",
+  "pt": "Anula efeitos do clima.",
+  "max_width": 158
+ },
+ {
+  "offset": "042B74C",
+  "en": "Ups evasion if confused.",
+  "pt": "+Evasão se confuso.",
+  "max_width": 152
+ },
+ {
+  "offset": "042B765",
+  "en": "Electricity raises Speed.",
+  "pt": "Eletricidade dá Velocidade.",
+  "max_width": 155
+ },
+ {
+  "offset": "042B77F",
+  "en": "Powers up against rivals.",
+  "pt": "Fica forte contra rivais.",
+  "max_width": 154
+ },
+ {
+  "offset": "042B799",
+  "en": "Flinching raises Speed.",
+  "pt": "Hesitar aumenta a Veloc.",
+  "max_width": 144
+ },
+ {
+  "offset": "042B7B1",
+  "en": "Ups evasion in Hail or Snow.",
+  "pt": "+Evasão no granizo ou neve.",
+  "max_width": 165
+ },
+ {
+  "offset": "042B7CE",
+  "en": "Eats Berries early.",
+  "pt": "Come Frutas antes.",
+  "max_width": 122
+ },
+ {
+  "offset": "042B7E2",
+  "en": "Critical hits raise Attack.",
+  "pt": "Críticos aumentam o Ataque.",
+  "max_width": 162
+ },
+ {
+  "offset": "042B7FE",
+  "en": "Using a hold item ups Speed.",
+  "pt": "Usar item segurado dá Veloc.",
+  "max_width": 168
+ },
+ {
+  "offset": "042B81B",
+  "en": "Heat and burn protection.",
+  "pt": "Protege de calor e queimadura.",
+  "max_width": 158
+ },
+ {
+  "offset": "042B835",
+  "en": "Prone to wild stat changes.",
+  "pt": "Atributos mudam muito.",
+  "max_width": 166
+ },
+ {
+  "offset": "042B851",
+  "en": "Prefers moisture to heat.",
+  "pt": "Prefere umidade ao calor.",
+  "max_width": 157
+ },
+ {
+  "offset": "042B86B",
+  "en": "Adjusts power favorably.",
+  "pt": "Ajusta o poder a seu favor.",
+  "max_width": 154
+ },
+ {
+  "offset": "042B884",
+  "en": "Boosts punching moves.",
+  "pt": "Fortalece socos.",
+  "max_width": 145
+ },
+ {
+  "offset": "042B89B",
+  "en": "Restores HP if poisoned.",
+  "pt": "Recupera HP se envenenado.",
+  "max_width": 151
+ },
+ {
+  "offset": "042B8B4",
+  "en": "Boosts same type attacks.",
+  "pt": "Fortalece golpes do seu tipo.",
+  "max_width": 162
+ },
+ {
+  "offset": "042B8CE",
+  "en": "Multi-hit moves hit 5 times.",
+  "pt": "Golpes múltiplos dão 5 acertos.",
+  "max_width": 167
+ },
+ {
+  "offset": "042B8EB",
+  "en": "Cures status in rain.",
+  "pt": "Cura status na chuva.",
+  "max_width": 132
+ },
+ {
+  "offset": "042B901",
+  "en": "Powers up in sunshine.",
+  "pt": "Fica forte no sol.",
+  "max_width": 139
+ },
+ {
+  "offset": "042B918",
+  "en": "Ups Speed if suffering.",
+  "pt": "+Velocidade com status.",
+  "max_width": 145
+ },
+ {
+  "offset": "042B930",
+  "en": "Moves become Normal-type.",
+  "pt": "Golpes viram tipo Normal.",
+  "max_width": 162
+ },
+ {
+  "offset": "042B94A",
+  "en": "Boosts critical hits.",
+  "pt": "Fortalece críticos.",
+  "max_width": 132
+ },
+ {
+  "offset": "042B960",
+  "en": "Only damaged by attacks.",
+  "pt": "Só sofre dano de ataques.",
+  "max_width": 154
+ },
+ {
+  "offset": "042B979",
+  "en": "Ensures that all moves hit.",
+  "pt": "Todos os golpes acertam.",
+  "max_width": 164
+ },
+ {
+  "offset": "042B995",
+  "en": "Always moves last.",
+  "pt": "Sempre age por último.",
+  "max_width": 119
+ },
+ {
+  "offset": "042B9A8",
+  "en": "Boosts weaker moves.",
+  "pt": "Fortalece golpes fracos.",
+  "max_width": 134
+ },
+ {
+  "offset": "042B9BD",
+  "en": "Blocks status in sunshine.",
+  "pt": "Bloqueia status no sol.",
+  "max_width": 162
+ },
+ {
+  "offset": "042B9D8",
+  "en": "Can't use hold items.",
+  "pt": "Não usa itens segurados.",
+  "max_width": 131
+ },
+ {
+  "offset": "042B9EE",
+  "en": "Moves hit through abilities.",
+  "pt": "Golpes ignoram habilidades.",
+  "max_width": 169
+ },
+ {
+  "offset": "042BA0B",
+  "en": "Critical hits land often.",
+  "pt": "Acerta muitos críticos.",
+  "max_width": 151
+ },
+ {
+  "offset": "042BA25",
+  "en": "Fainting damages the foe.",
+  "pt": "Desmaiar fere o oponente.",
+  "max_width": 158
+ },
+ {
+  "offset": "042BA3F",
+  "en": "Senses dangerous moves.",
+  "pt": "Sente golpes perigosos.",
+  "max_width": 152
+ },
+ {
+  "offset": "042BA57",
+  "en": "Determines a foe's move.",
+  "pt": "Descobre o golpe do alvo.",
+  "max_width": 150
+ },
+ {
+  "offset": "042BA70",
+  "en": "Ignores stat changes.",
+  "pt": "Ignora mudanças de atrib.",
+  "max_width": 140
+ },
+ {
+  "offset": "042BA86",
+  "en": "Ups “not very effective”.",
+  "pt": "+“Pouco efetivos”.",
+  "max_width": 159
+ },
+ {
+  "offset": "042BAA0",
+  "en": "Weakens “supereffective”.",
+  "pt": "Enfraquece “superefetivos”.",
+  "max_width": 165
+ },
+ {
+  "offset": "042BABA",
+  "en": "Takes a while to get going.",
+  "pt": "Demora a engrenar.",
+  "max_width": 162
+ },
+ {
+  "offset": "042BAD6",
+  "en": "Hits Ghost-type CAPTURE.",
+  "pt": "Acerta CAPTURAS Fantasma.",
+  "max_width": 157
+ },
+ {
+  "offset": "042BAEF",
+  "en": "Draws in Water moves.",
+  "pt": "Atrai golpes de Água.",
+  "max_width": 134
+ },
+ {
+  "offset": "042BB05",
+  "en": "HP recovery in Hail or Snow.",
+  "pt": "Recupera HP no granizo/neve.",
+  "max_width": 165
+ },
+ {
+  "offset": "042BB22",
+  "en": "Summons a Snowstorm.",
+  "pt": "Invoca uma nevasca.",
+  "max_width": 134
+ },
+ {
+  "offset": "042BB37",
+  "en": "May gather Honey.",
+  "pt": "Pode coletar Mel.",
+  "max_width": 116
+ },
+ {
+  "offset": "042BB49",
+  "en": "Checks a foe's item.",
+  "pt": "Vê o item do oponente.",
+  "max_width": 127
+ },
+ {
+  "offset": "042BB5E",
+  "en": "Boosts moves with recoil.",
+  "pt": "Fortalece golpes com recuo.",
+  "max_width": 155
+ },
+ {
+  "offset": "042BB78",
+  "en": "Changes type to its Plate.",
+  "pt": "Muda para o tipo da Placa.",
+  "max_width": 161
+ },
+ {
+  "offset": "042BB93",
+  "en": "Allies power up in sunshine.",
+  "pt": "Aliados ficam fortes no sol.",
+  "max_width": 166
+ },
+ {
+  "offset": "042BBB0",
+  "en": "Damages sleeping CAPTURE.",
+  "pt": "Fere CAPTURAS dormindo.",
+  "max_width": 161
+ },
+ {
+  "offset": "042BBCA",
+  "en": "Steals the foe's held item.",
+  "pt": "Rouba o item segurado do alvo.",
+  "max_width": 162
+ },
+ {
+  "offset": "042BBE6",
+  "en": "Trades effects for power.",
+  "pt": "Troca efeitos por poder.",
+  "max_width": 159
+ },
+ {
+  "offset": "042BC00",
+  "en": "Inverts stat changes.",
+  "pt": "Inverte mudanças de atrib.",
+  "max_width": 140
+ },
+ {
+  "offset": "042BC16",
+  "en": "Foes can't eat Berries.",
+  "pt": "Alvos não comem Frutas.",
+  "max_width": 143
+ },
+ {
+  "offset": "042BC2E",
+  "en": "Lowered stats up Attack.",
+  "pt": "Atributo baixo dá Ataque.",
+  "max_width": 155
+ },
+ {
+  "offset": "042BC47",
+  "en": "Gives up at half HP.",
+  "pt": "Desiste com meio HP.",
+  "max_width": 125
+ },
+ {
+  "offset": "042BC5C",
+  "en": "Disables moves on contact.",
+  "pt": "Bloqueia golpes ao contato.",
+  "max_width": 164
+ },
+ {
+  "offset": "042BC77",
+  "en": "Heals partner CAPTURE.",
+  "pt": "Cura a CAPTURA parceira.",
+  "max_width": 143
+ },
+ {
+  "offset": "042BC8E",
+  "en": "Lowers damage to partner.",
+  "pt": "Reduz dano ao parceiro.",
+  "max_width": 159
+ },
+ {
+  "offset": "042BCA8",
+  "en": "Its stats change when hit.",
+  "pt": "Atributos mudam se atingido.",
+  "max_width": 163
+ },
+ {
+  "offset": "042BCC3",
+  "en": "Doubles weight.",
+  "pt": "Dobra o peso.",
+  "max_width": 104
+ },
+ {
+  "offset": "042BCD3",
+  "en": "Halves weight.",
+  "pt": "Peso pela metade.",
+  "max_width": 98
+ },
+ {
+  "offset": "042BCE2",
+  "en": "Halves damage at full HP.",
+  "pt": "Metade do dano com HP cheio.",
+  "max_width": 153
+ },
+ {
+  "offset": "042BCFC",
+  "en": "Ups Attack if poisoned.",
+  "pt": "+Ataque se envenenado.",
+  "max_width": 146
+ },
+ {
+  "offset": "042BD14",
+  "en": "Ups Sp. Atk if burned.",
+  "pt": "+At. Esp. se queimado.",
+  "max_width": 135
+ },
+ {
+  "offset": "042BD2B",
+  "en": "May recycle a used Berry.",
+  "pt": "Pode reciclar Fruta usada.",
+  "max_width": 154
+ },
+ {
+  "offset": "042BD45",
+  "en": "Can't be damaged by an ally.",
+  "pt": "Imune a dano de aliados.",
+  "max_width": 167
+ },
+ {
+  "offset": "042BD62",
+  "en": "Stats change gradually.",
+  "pt": "Atributos mudam aos poucos.",
+  "max_width": 148
+ },
+ {
+  "offset": "042BD7A",
+  "en": "Blocks weather and powder.",
+  "pt": "Bloqueia clima e pós.",
+  "max_width": 164
+ },
+ {
+  "offset": "042BD95",
+  "en": "Prevents Defense loss.",
+  "pt": "Impede perda de Defesa.",
+  "max_width": 144
+ },
+ {
+  "offset": "042BDAC",
+  "en": "Ups Speed in a sandstorm.",
+  "pt": "+Veloc. em tempest. de areia.",
+  "max_width": 156
+ },
+ {
+  "offset": "042BDC6",
+  "en": "May avoid status problems.",
+  "pt": "Pode evitar status ruins.",
+  "max_width": 163
+ },
+ {
+  "offset": "042BDE1",
+  "en": "Moving last boosts power.",
+  "pt": "Agir por último dá poder.",
+  "max_width": 157
+ },
+ {
+  "offset": "042BDFB",
+  "en": "Appears as a partner.",
+  "pt": "Aparece como parceiro.",
+  "max_width": 135
+ },
+ {
+  "offset": "042BE11",
+  "en": "Transforms into the foe.",
+  "pt": "Transforma-se no oponente.",
+  "max_width": 152
+ },
+ {
+  "offset": "042BE2A",
+  "en": "Passes through barriers.",
+  "pt": "Atravessa barreiras.",
+  "max_width": 153
+ },
+ {
+  "offset": "042BE43",
+  "en": "Spreads with contact.",
+  "pt": "Espalha-se ao contato.",
+  "max_width": 138
+ },
+ {
+  "offset": "042BE59",
+  "en": "KOs raise Attack.",
+  "pt": "Nocautes dão Ataque.",
+  "max_width": 114
+ },
+ {
+  "offset": "042BE6B",
+  "en": "Dark hits raise Attack.",
+  "pt": "Golpe Sombrio dá Ataque.",
+  "max_width": 144
+ },
+ {
+  "offset": "042BE83",
+  "en": "Raises Speed when scared.",
+  "pt": "+Velocidade se assustado.",
+  "max_width": 159
+ },
+ {
+  "offset": "042BE9D",
+  "en": "Reflects status moves.",
+  "pt": "Reflete golpes de status.",
+  "max_width": 145
+ },
+ {
+  "offset": "042BEB4",
+  "en": "Grass increases Attack.",
+  "pt": "Grama aumenta o Ataque.",
+  "max_width": 149
+ },
+ {
+  "offset": "042BECC",
+  "en": "Status moves go first.",
+  "pt": "Golpes de status primeiro.",
+  "max_width": 141
+ },
+ {
+  "offset": "042BEE3",
+  "en": "Powers up in a sandstorm.",
+  "pt": "Fica forte na areia.",
+  "max_width": 155
+ },
+ {
+  "offset": "042BEFD",
+  "en": "Transforms at half HP.",
+  "pt": "Muda de forma com meio HP.",
+  "max_width": 140
+ },
+ {
+  "offset": "042BF14",
+  "en": "Raises party accuracy.",
+  "pt": "+Precisão da equipe.",
+  "max_width": 143
+ },
+ {
+  "offset": "042BF2B",
+  "en": "Prevents limiting of moves.",
+  "pt": "Impede limitar os golpes.",
+  "max_width": 165
+ },
+ {
+  "offset": "042BF47",
+  "en": "Protects Grass-types.",
+  "pt": "Protege tipos Planta.",
+  "max_width": 142
+ },
+ {
+  "offset": "042BF5D",
+  "en": "Eating Berries restores HP.",
+  "pt": "Comer Frutas restaura HP.",
+  "max_width": 166
+ },
+ {
+  "offset": "042BF79",
+  "en": "Changes type to used move.",
+  "pt": "Vira o tipo do golpe usado.",
+  "max_width": 165
+ },
+ {
+  "offset": "042BF94",
+  "en": "Raises Defense.",
+  "pt": "Aumenta a Defesa.",
+  "max_width": 106
+ },
+ {
+  "offset": "042BFA4",
+  "en": "Avoids some projectiles.",
+  "pt": "Evita alguns projéteis.",
+  "max_width": 151
+ },
+ {
+  "offset": "042BFBD",
+  "en": "Lowered stats up Sp. Atk.",
+  "pt": "Atributo baixo dá At. Esp.",
+  "max_width": 155
+ },
+ {
+  "offset": "042BFD7",
+  "en": "Boosts biting moves.",
+  "pt": "Fortalece mordidas.",
+  "max_width": 131
+ },
+ {
+  "offset": "042BFEC",
+  "en": "Normal moves become Ice.",
+  "pt": "Golpes Normal viram Gelo.",
+  "max_width": 153
+ },
+ {
+  "offset": "042C005",
+  "en": "Prevents party from sleep.",
+  "pt": "Protege a equipe do sono.",
+  "max_width": 163
+ },
+ {
+  "offset": "042C020",
+  "en": "Transforms as it battles.",
+  "pt": "Transforma-se ao batalhar.",
+  "max_width": 156
+ },
+ {
+  "offset": "042C03A",
+  "en": "Flying moves go first.",
+  "pt": "Golpes Voador primeiro.",
+  "max_width": 137
+ },
+ {
+  "offset": "042C051",
+  "en": "Boosts pulse moves.",
+  "pt": "Reforça golpes de pulso.",
+  "max_width": 127
+ },
+ {
+  "offset": "042C065",
+  "en": "Ups Defense in grass.",
+  "pt": "+Defesa na grama.",
+  "max_width": 135
+ },
+ {
+  "offset": "042C07B",
+  "en": "Passes its item to an ally.",
+  "pt": "Passa seu item a um aliado.",
+  "max_width": 160
+ },
+ {
+  "offset": "042C097",
+  "en": "Boosts contact moves.",
+  "pt": "Reforça golpes de contato.",
+  "max_width": 141
+ },
+ {
+  "offset": "042C0AD",
+  "en": "Normal moves become Fairy.",
+  "pt": "Golpes Normal viram Fada.",
+  "max_width": 162
+ },
+ {
+  "offset": "042C0C8",
+  "en": "Lowers Speed on contact.",
+  "pt": "Reduz a Veloc. ao contato.",
+  "max_width": 155
+ },
+ {
+  "offset": "042C0E1",
+  "en": "Normal moves become Flying.",
+  "pt": "Golpes Normal viram Voador.",
+  "max_width": 167
+ },
+ {
+  "offset": "042C0FD",
+  "en": "Normal moves become Psychic.",
+  "pt": "Golpes Normal viram Psíquico."
+ },
+ {
+  "offset": "042C11A",
+  "en": "Moves hit twice.",
+  "pt": "Acerta duas vezes.",
+  "max_width": 107
+ },
+ {
+  "offset": "042C12B",
+  "en": "Boosts Dark moves.",
+  "pt": "Reforça o tipo Sombrio.",
+  "max_width": 122
+ },
+ {
+  "offset": "042C13E",
+  "en": "Boosts Fairy moves.",
+  "pt": "Fortalece golpes Fada.",
+  "max_width": 126
+ },
+ {
+  "offset": "042C152",
+  "en": "Reverse aura abilities.",
+  "pt": "Inverte habilid. de aura.",
+  "max_width": 143
+ },
+ {
+  "offset": "042C16A",
+  "en": "Summons heavy rain.",
+  "pt": "Invoca chuva forte.",
+  "max_width": 126
+ },
+ {
+  "offset": "042C17E",
+  "en": "Summons intense sunlight.",
+  "pt": "Invoca sol intenso.",
+  "max_width": 159
+ },
+ {
+  "offset": "042C198",
+  "en": "Summons strong winds.",
+  "pt": "Invoca ventos fortes.",
+  "max_width": 138
+ },
+ {
+  "offset": "042C1AE",
+  "en": "Boosts Defense when hit.",
+  "pt": "+Defesa ao ser atingido.",
+  "max_width": 154
+ },
+ {
+  "offset": "042C1C7",
+  "en": "Flees at half HP.",
+  "pt": "Foge com meio HP.",
+  "max_width": 110
+ },
+ {
+  "offset": "042C1D9",
+  "en": "Water boosts Defense.",
+  "pt": "Água aumenta a Defesa.",
+  "max_width": 140
+ },
+ {
+  "offset": "042C1EF",
+  "en": "Criticals poisoned foes.",
+  "pt": "Críticos em envenenados.",
+  "max_width": 150
+ },
+ {
+  "offset": "042C208",
+  "en": "Shell breaks at half HP.",
+  "pt": "Casco quebra com meio HP.",
+  "max_width": 146
+ },
+ {
+  "offset": "042C221",
+  "en": "Stronger as foes switch in.",
+  "pt": "Mais forte com trocas do alvo.",
+  "max_width": 165
+ },
+ {
+  "offset": "042C23D",
+  "en": "Guards from fire and burns.",
+  "pt": "Protege de fogo e queimaduras.",
+  "max_width": 165
+ },
+ {
+  "offset": "042C259",
+  "en": "Powers up Steel moves.",
+  "pt": "Fortalece golpes de Aço.",
+  "max_width": 141
+ },
+ {
+  "offset": "042C270",
+  "en": "Boosts Sp. Atk at low HP.",
+  "pt": "+At. Esp. com pouco HP.",
+  "max_width": 151
+ },
+ {
+  "offset": "042C28A",
+  "en": "Raises Speed in Hail or Snow.",
+  "pt": "+Velocidade no granizo ou neve.",
+  "max_width": 171
+ },
+ {
+  "offset": "042C2A8",
+  "en": "Never makes contact.",
+  "pt": "Nunca faz contato.",
+  "max_width": 134
+ },
+ {
+  "offset": "042C2BD",
+  "en": "Makes sound moves Water.",
+  "pt": "Golpes sonoros viram Água.",
+  "max_width": 155
+ },
+ {
+  "offset": "042C2D6",
+  "en": "Healing moves go first.",
+  "pt": "Golpes de cura primeiro.",
+  "max_width": 143
+ },
+ {
+  "offset": "042C2EE",
+  "en": "Normal moves turn Electric.",
+  "pt": "Golpes Normal viram Elétrico.",
+  "max_width": 165
+ },
+ {
+  "offset": "042C30A",
+  "en": "Faster on electricity.",
+  "pt": "+Veloc. no campo Elétrico.",
+  "max_width": 139
+ },
+ {
+  "offset": "042C321",
+  "en": "Forms a school when strong.",
+  "pt": "Forma cardume quando forte.",
+  "max_width": 167
+ },
+ {
+  "offset": "042C33D",
+  "en": "Decoy protects it once.",
+  "pt": "Isca o protege uma vez.",
+  "max_width": 147
+ },
+ {
+  "offset": "042C355",
+  "en": "Changes form after a KO.",
+  "pt": "Muda de forma após nocaute.",
+  "max_width": 151
+ },
+ {
+  "offset": "042C36E",
+  "en": "Chaos Emeralds in a pinch.",
+  "pt": "Esmeraldas do Caos em apuros.",
+  "max_width": 158
+ },
+ {
+  "offset": "042C389",
+  "en": "Poisons any type.",
+  "pt": "Envenena todo tipo.",
+  "max_width": 115
+ },
+ {
+  "offset": "042C39B",
+  "en": "Always drowsing.",
+  "pt": "Sempre sonolento.",
+  "max_width": 109
+ },
+ {
+  "offset": "042C3AC",
+  "en": "Protects from priority.",
+  "pt": "Protege de prioridade.",
+  "max_width": 145
+ },
+ {
+  "offset": "042C3C4",
+  "en": "Hurts foe when defeated.",
+  "pt": "Fere o alvo ao ser derrotado.",
+  "max_width": 155
+ },
+ {
+  "offset": "042C3DD",
+  "en": "Dances along with others.",
+  "pt": "Dança junto com os outros.",
+  "max_width": 157
+ },
+ {
+  "offset": "042C3F7",
+  "en": "Boosts ally's Sp. Atk.",
+  "pt": "+At. Esp. do aliado.",
+  "max_width": 134
+ },
+ {
+  "offset": "042C40E",
+  "en": "Tougher but flammable.",
+  "pt": "Resistente, mas inflamável.",
+  "max_width": 142
+ },
+ {
+  "offset": "042C425",
+  "en": "KOs raise Sp. Atk.",
+  "pt": "Nocautes dão At. Esp.",
+  "max_width": 114
+ },
+ {
+  "offset": "042C44E",
+  "en": "Copies ally's ability.",
+  "pt": "Copia a habilid. do aliado.",
+  "max_width": 132
+ },
+ {
+  "offset": "042C465",
+  "en": "KOs boost best stat.",
+  "pt": "Nocaute: +melhor atrib.",
+  "max_width": 132
+ },
+ {
+  "offset": "042C47A",
+  "en": "Memories change its type.",
+  "pt": "Memórias mudam o seu tipo.",
+  "max_width": 157
+ },
+ {
+  "offset": "042C494",
+  "en": "Field becomes Electric.",
+  "pt": "Campo fica Elétrico.",
+  "max_width": 144
+ },
+ {
+  "offset": "042C4AC",
+  "en": "Field becomes weird.",
+  "pt": "Campo fica estranho.",
+  "max_width": 128
+ },
+ {
+  "offset": "042C4C1",
+  "en": "Field becomes misty.",
+  "pt": "Campo fica nebuloso.",
+  "max_width": 129
+ },
+ {
+  "offset": "042C4D6",
+  "en": "Field becomes grassy.",
+  "pt": "Campo fica gramado.",
+  "max_width": 136
+ },
+ {
+  "offset": "042C4EC",
+  "en": "Prevents stat reduction.",
+  "pt": "Impede redução de atributos.",
+  "max_width": 155
+ },
+ {
+  "offset": "042C505",
+  "en": "Ups “supereffective”.",
+  "pt": "+“Superefetivos”.",
+  "max_width": 141
+ },
+ {
+  "offset": "042C51B",
+  "en": "Ups Attack on entry.",
+  "pt": "+Ataque ao entrar.",
+  "max_width": 131
+ },
+ {
+  "offset": "042C530",
+  "en": "Ups Defense on entry.",
+  "pt": "+Defesa ao entrar.",
+  "max_width": 137
+ }
+]

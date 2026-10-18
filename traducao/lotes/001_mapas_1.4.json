@@ -1,0 +1,2277 @@
+[
+ {
+  "map": "1.4 TOAD TOWN",
+  "offset": "0347FF0",
+  "en": "You hit the switch!",
+  "pt": "Você acionou o interruptor!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "035312B",
+  "en": "Sure thing!",
+  "pt": "Pode deixar!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "0353137",
+  "en": "Not now! Ask me to 'GO SOLO'!",
+  "pt": "Agora não! Me peça pra 'IR SOZINHO'!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "0353157",
+  "en": "asdf",
+  "pt": ""
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "0353160",
+  "en": "This is a test message.",
+  "pt": "Esta é uma mensagem de teste."
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "0353178",
+  "en": "SYSTEM",
+  "pt": "SISTEMA",
+  "max_width": 42
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "035317F",
+  "en": "You managed to get Captain Toad out of\\nWorld 5?!?!?\\pPlease report this bug to the Too Many\\nProductions discord server with steps\\lon how you accomplished it.\\pWarping you back 5-1…",
+  "pt": "Você conseguiu tirar o Captain Toad do Mundo 5?!?!?\\pPor favor, relate este bug no servidor de Discord da Too Many Productions, com os passos de como você conseguiu.\\pLevando você de volta para a 5-1…"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "0353232",
+  "en": "What is it, MARIO? You wanna take a look\\nat my trusty HAMMER BRO companion?",
+  "pt": "O que foi, MARIO? Quer dar uma olhada no meu fiel companheiro HAMMER BRO?"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "035327E",
+  "en": "MARIO! Select the GO SOLO option!",
+  "pt": "MARIO! Escolha a opção IR SOZINHO!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "03532A0",
+  "en": "MARIO! Press the R button to swap with\\nme!",
+  "pt": "MARIO! Aperte o botão R pra trocar comigo!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "03532CB",
+  "en": "Alright, MARIO. We're gonna need to make\\nuse of our different skills to make it\\lthrough to the JUNGLE VILLAGE!",
+  "pt": "Muito bem, MARIO. Vamos ter que usar os nossos talentos diferentes pra conseguir chegar até a VILA DA SELVA!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "035333A",
+  "en": "MARIO! You're back! Let's pick up where\\nwe left off.",
+  "pt": "MARIO! Você voltou! Vamos continuar de onde paramos."
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "035336F",
+  "en": "That was super! There shouldn't be\\nanything left in our way to the JUNGLE\\lVILLAGE.",
+  "pt": "Isso foi demais! Não deve ter mais nada no nosso caminho até a VILA DA SELVA."
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "03533C2",
+  "en": "Hey MARIO! We should probably get a\\nmove on if we wanna make it to the\\lJUNGLE VILLAGE soon.",
+  "pt": "Ei, MARIO! É melhor a gente se apressar se quiser chegar logo à VILA DA SELVA."
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "035341E",
+  "en": "I've got a bad feeling about this. Let's\\ngo chase after LUIGI and the KOOPA\\lTROOP!",
+  "pt": "Estou com um mau pressentimento. Vamos atrás do LUIGI e da TROPA KOOPA!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "0353471",
+  "en": "This shouldn't happen. Teleporting\\nCAPTAIN TOAD back to his intended\\llocation…",
+  "pt": "Isso não deveria acontecer. Teleportando o CAPTAIN TOAD de volta para o local certo…"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "03534C0",
+  "en": "Boy am I glad to see you, MARIO! Let's\\npress on to the KONG KAPITAL!",
+  "pt": "Que alívio ver você, MARIO! Vamos seguir em frente até KONG KAPITAL!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "0353505",
+  "en": "Come on, MARIO! We gotta stop BOWSER\\nfrom stealing the GOLDEN BANANA!",
+  "pt": "Vamos, MARIO! Temos que impedir o BOWSER de roubar a BANANA DOURADA!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "035354B",
+  "en": "Hey MARIO, have you been to the JUNGLE\\nVILLAGE before? There aren't many\\lpeople here, but it's nice nonetheless.",
+  "pt": "Ei, MARIO, você já esteve na VILA DA SELVA? Não tem muita gente aqui, mas é um lugar agradável mesmo assim."
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "03535BC",
+  "en": "Wow, the JUNGLE KINGDOM's SAFARI ZONE\\nis huge! We're gonna have to work hard\\lif we wanna stop BOWSER!",
+  "pt": "Uau, a ZONA SAFÁRI do JUNGLE KINGDOM é enorme! Vamos ter que nos esforçar muito se quisermos deter o BOWSER!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "0353622",
+  "en": "The KONG KAPITAL sure is nice this time\\nof year. Nice in the sense that we can\\lactually walk around without getting\\lrun over by a go-kart!",
+  "pt": "KONG KAPITAL é bem agradável nesta época do ano. Agradável no sentido de que dá pra andar por aí sem ser atropelado por um kart!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "03536AD",
+  "en": "What are we waiting for, MARIO? We\\ngotta chase after BOWSER to the\\lSAFARI ZONE!",
+  "pt": "O que estamos esperando, MARIO? Temos que ir atrás do BOWSER até a ZONA SAFÁRI!"
+ },
+ {
+  "map": "1.6 ABANDONED SHIP",
+  "offset": "0368370",
+  "en": "\\n{COLOR 00}Transparent.\\p\\l{COLOR 04}Red\\p\\l{COLOR 08}Blue\\p\\l{COLOR 06}Green\\p\\l{COLOR 05}Light Red\\p\\l{COLOR 07}Light Green\\p\\l{COLOR 09}Light Blue\\p\\l{COLOR 01}White\\p\\l{COLOR 02}Dark Gray\\p\\l{COLOR 03}Light Gray",
+  "pt": "\\n{COLOR 00}Transparente.\\p\\l{COLOR 04}Vermelho\\p\\l{COLOR 08}Azul\\p\\l{COLOR 06}Verde\\p\\l{COLOR 05}Vermelho claro\\p\\l{COLOR 07}Verde claro\\p\\l{COLOR 09}Azul claro\\p\\l{COLOR 01}Branco\\p\\l{COLOR 02}Cinza escuro\\p\\l{COLOR 03}Cinza claro"
+ },
+ {
+  "map": "1.6 ABANDONED SHIP",
+  "offset": "03683F0",
+  "en": "egg",
+  "pt": "ovo"
+ },
+ {
+  "map": "3.0 WORLD 2-1",
+  "offset": "0345FFE",
+  "en": "Ahoy, MASTER MARIO! I trust the cannon\\nride wasn't too terrifying, eh? Either\\lway, allow me to be the first to welcome\\lyou to WORLD 2!",
+  "pt": "Olá, MESTRE MARIO! Espero que a viagem de canhão não tenha sido assustadora demais, hein? De qualquer forma, permita-me ser o primeiro a lhe dar as boas-vindas ao MUNDO 2!"
+ },
+ {
+  "map": "3.0 WORLD 2-1",
+  "offset": "0346085",
+  "en": "…Why am I here, you ask? The princess\\nasked me to meet you up here in order to\\lexplain the location of the next POWER\\lSTAR. You see, Princess DAISY has it\\laboard her airship! You'll have to\\ltraverse the very clouds in front of\\lyou to reach her! But do not worry, the\\lclouds are quite solid, I assure you.\\lNow get going, MASTER MARIO!",
+  "pt": "…Por que estou aqui, você pergunta? A princesa me pediu que o encontrasse aqui em cima para explicar onde está a próxima ESTRELA DE PODER. Veja bem, a Princesa DAISY a guarda a bordo de sua aeronave! Você terá que atravessar as próprias nuvens à sua frente para alcançá-la! Mas não se preocupe, as nuvens são bem firmes, eu lhe garanto. Agora vá, MESTRE MARIO!"
+ },
+ {
+  "map": "3.0 WORLD 2-1",
+  "offset": "03461D3",
+  "en": "Reload?",
+  "pt": "Recarregar?"
+ },
+ {
+  "map": "3.0 WORLD 2-1",
+  "offset": "03461DB",
+  "en": "Alright!",
+  "pt": "Muito bem!"
+ },
+ {
+  "map": "3.0 WORLD 2-1",
+  "offset": "03461E4",
+  "en": "Oh, okay then.",
+  "pt": "Ah, tudo bem então."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346A80",
+  "en": "The doctor here is a little… eccentric.\\nDon't get me wrong, he'll heal you with\\lno issues. Just. Don't let him creep you\\lout.",
+  "pt": "O doutor daqui é um pouco… excêntrico. Não me entenda mal, ele vai curar você sem problemas. Só. Não deixe ele te assustar."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346AFE",
+  "en": "Hey! Do you want to know how these\\nBULLET BILL LAUNCHERS work?",
+  "pt": "Ei! Quer saber como funcionam esses LANÇADORES DE BULLET BILL?"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346B3D",
+  "en": "No sweat, I'll help ya out.",
+  "pt": "Sem problema, eu te ajudo."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346B59",
+  "en": "All ya gotta do is go up to them and\\ninteract with them, like this.",
+  "pt": "É só chegar perto deles e interagir, assim."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346B9D",
+  "en": "And boom! It's now facing directly at\\nyou!",
+  "pt": "E pronto! Agora ele está virado direto pra você!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346BC8",
+  "en": "Careful not to stay in front when it's\\nfiring though, you'll have a nasty\\lencounter with a BULLET BILL!",
+  "pt": "Mas cuidado pra não ficar na frente quando ele estiver disparando, ou vai ter um encontro nada agradável com um BULLET BILL!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346C30",
+  "en": "Nice! Good luck with the ON/OFF puzzles\\nthen!",
+  "pt": "Boa! Então boa sorte com os enigmas ON/OFF!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346C5E",
+  "en": "Wow! We're so high up! I better be\\ncareful to not fall off so I don't cause\\lany trouble for the LAKITUs…",
+  "pt": "Uau! Estamos tão alto! É melhor eu tomar cuidado pra não cair e não dar trabalho pros LAKITUs…"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346D0D",
+  "en": "This here is an ON/OFF switch! It'll\\nswitch which blocks are raised and\\llowered based on the color it currently\\lis. Go ahead and give it a whack and\\lyou'll see what I mean.",
+  "pt": "Este aqui é um interruptor ON/OFF! Ele troca quais blocos ficam levantados e abaixados, dependendo da cor em que ele está. Vá em frente, dê uma pancada nele e você vai entender."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346DBA",
+  "en": "Careful! Hitting this switch will launch\\na BULLET BILL right out of that cannon\\lover there! You definitely don't wanna\\lbe in the line of fire when that\\lhappens, trust me.",
+  "pt": "Cuidado! Acionar este interruptor dispara um BULLET BILL direto daquele canhão ali! Você não vai querer estar na linha de tiro quando isso acontecer, pode acreditar."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346EC4",
+  "en": "I could've sworn that WARP PIPE would\\ntake me to the TOSTARENA TUNNELS, but\\linstead I ended up here! I'm never going\\lto get home at this rate…",
+  "pt": "Eu podia jurar que aquele CANO WARP me levaria aos TÚNEIS TOSTARENA, mas acabei vindo parar aqui! Desse jeito, nunca vou chegar em casa…"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346F90",
+  "en": "If a BULLET BILL is coming at you, you\\ncan still battle it with your own party\\lmembers! You can even catch one, like I\\ldid.",
+  "pt": "Se um BULLET BILL vier na sua direção, você ainda pode batalhar com ele usando os membros da sua equipe! Dá até pra capturar um, como eu fiz."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "034700C",
+  "en": "Did someone finally hit the switch?! Can\\nI finally escape from here? Please tell\\lme that's how you got here!!!",
+  "pt": "Alguém finalmente acionou o interruptor?! Será que finalmente posso sair daqui? Por favor, me diga que foi assim que você chegou!!!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03470CD",
+  "en": "You're in the home stretch now! Take\\ncare not to get hit by any BULLET\\lBILLS!",
+  "pt": "Você está na reta final! Cuidado pra não ser atingido por nenhum BULLET BILL!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "034711B",
+  "en": "I'm itching to work out my pitching arm\\nbut nothing here is doing the trick. Can\\lyou help me out?",
+  "pt": "Estou louco pra exercitar meu braço de arremesso, mas nada aqui serve. Você pode me ajudar?"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "034717D",
+  "en": "Perfect, let me just size up the pitch.",
+  "pt": "Perfeito, deixa só eu calcular o arremesso."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03471A5",
+  "en": "Still got it!",
+  "pt": "Ainda levo jeito!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03471B3",
+  "en": "MARIO! My hero!\\nDid you flip the switch off?",
+  "pt": "MARIO! Meu herói! Você desligou o interruptor?"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03471E0",
+  "en": "Unbelievable. How'd you even do that?\\nNow we're both stuck.\\pHow'd I get stuck in the first place?\\pUuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu\\nuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+  "pt": "Inacreditável. Como você conseguiu isso? Agora estamos os dois presos.\\pComo eu fiquei preso, pra começo de conversa?\\pUuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu\\nuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0347299",
+  "en": "Look, that's not important right now!\\pI think our only way out is jumping off.",
+  "pt": "Olha, isso não importa agora!\\pAcho que a única saída é pular daqui."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03472E8",
+  "en": "Don't worry! A LAKITU will save us!\\pHopefully.",
+  "pt": "Não se preocupe! Um LAKITU vai nos salvar!\\pTomara."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0347317",
+  "en": "You have coins for the LAKITU toll,\\nright?\\pI guess it doesn't matter now.",
+  "pt": "Você tem moedas pro pedágio do LAKITU, né?\\pAcho que agora tanto faz."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0347361",
+  "en": "You two are lucky I keep my fishing rod\\nin my back pocket.\\pDon't go trying that again, ok?\\pNow pay up.",
+  "pt": "Vocês dois têm sorte de eu guardar minha vara de pescar no bolso de trás.\\pNão inventem de fazer isso de novo, tá?\\pAgora, paguem."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03473C8",
+  "en": "LAKITU took 500 coins!",
+  "pt": "LAKITU levou 500 moedas!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03473DF",
+  "en": "On second thought, you can keep\\nthrowing yourself off.\\pYour coins are going to help me buy a\\nnew camera!",
+  "pt": "Pensando bem, podem continuar se jogando lá de cima.\\pSuas moedas vão me ajudar a comprar uma câmera nova!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0347448",
+  "en": "{FONT 00}sigh{FONT 01}\\nThere goes my lunch money.",
+  "pt": "{FONT 00}suspiro{FONT 01}\\nLá se vai o dinheiro do meu lanche."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "034746E",
+  "en": "I'm going back to TOAD TOWN and making\\na sandwich.\\pCome visit me and I'll have something\\nfor you.",
+  "pt": "Vou voltar pra CIDADE TOAD e fazer um sanduíche.\\pVem me visitar que eu vou ter uma coisa pra você."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03474D0",
+  "en": "You did it again…\\pTime to pay the toll…",
+  "pt": "Você fez de novo…\\pHora de pagar o pedágio…"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "03474F8",
+  "en": "MARIO? Again?\\pWell, I'm not complaining.\\pYou know the drill.",
+  "pt": "MARIO? De novo?\\pBom, não estou reclamando.\\pVocê já sabe como funciona."
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0347535",
+  "en": "I, uh, hope I don't see you again?",
+  "pt": "Eu, hã, espero não te ver de novo?"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0347558",
+  "en": "Need to hit a pesky ON/OFF switch\\nthat's out of reach? Just fire a BULLET\\lBILL at it!",
+  "pt": "Precisa acertar um interruptor ON/OFF chato que está fora de alcance? É só disparar um BULLET BILL nele!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03482D8",
+  "en": "ËËÎÎÎ\\nËËÎÎ\\nËËÎ\\nWelcome to CLOUD CAP, the mushroom\\ntown above the clouds. Things have\\lbeen peaceful lately, thanks to\\lPRINCESS DAISY commandeering BOWSER's\\lairship.",
+  "pt": ""
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "034837C",
+  "en": "It's inconceivable that the town\\ncouncil won't add handrails! We can't\\lkeep relying on LAKITU to save us every\\ltime we fall!",
+  "pt": "É inconcebível que a câmara municipal não instale corrimãos! Não dá pra continuar contando com o LAKITU pra nos salvar toda vez que a gente cai!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03483F9",
+  "en": "That kid over to the right of me just\\nwon't be quiet about how illogical our\\lhomes are… It's really starting to get\\lon my nerves.",
+  "pt": "Aquele garoto à minha direita não para de falar sobre como as nossas casas são ilógicas… Já está começando a me dar nos nervos."
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "034847B",
+  "en": "Hey, you're MARIO! Welcome to CLOUD\\nCAP's bustling square. Well, there's not\\lmuch actually going on here besides a\\lwhole lotta debate.",
+  "pt": "Ei, você é o MARIO! Bem-vindo à movimentada praça de CLOUD CAP. Bom, na verdade não acontece muita coisa aqui, além de um montão de debate."
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348502",
+  "en": "Looks like I'm not gonna be able to get\\nanything done here today either…\\lBetter head on over to the STORE\\linstead.",
+  "pt": "Parece que hoje também não vou conseguir resolver nada por aqui… Melhor ir até a LOJA."
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348575",
+  "en": "I thought I'd be able to find some\\nsweet deals at the square today, but it\\llooks like like that nerd over there is\\ltalking politics again.",
+  "pt": "Achei que ia encontrar umas boas pechinchas na praça hoje, mas parece que aquele nerd ali está falando de política de novo."
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348600",
+  "en": "Whew! Do you need something? I'm\\ngetting ready for the trek to the\\lairship!",
+  "pt": "Ufa! Precisa de alguma coisa? Estou me preparando pra caminhada até a aeronave!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "034864C",
+  "en": "Strange… How did I even end up here? Oh\\nwell, better make the most of it!",
+  "pt": "Estranho… Como foi que eu vim parar aqui? Bom, melhor aproveitar!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348696",
+  "en": "Hey, you! Yeah you, come on by our\\nstore! You won't regret it!",
+  "pt": "Ei, você! Isso, você mesmo, venha conhecer a nossa loja! Você não vai se arrepender!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03486D5",
+  "en": "This is a great spot for my future home!\\nAnd with that loan I got on MAIN\\lSTREET, I have the capital to make it a\\lreality! Now then, do you think the\\lrealtors around here accept PURPLE\\lCOINS?",
+  "pt": "Este é um ótimo lugar pra minha futura casa! E com o empréstimo que eu peguei na RUA PRINCIPAL, tenho o capital pra tornar isso realidade! Agora, será que os corretores daqui aceitam MOEDAS ROXAS?"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348795",
+  "en": "Ohmygosh! I can't believe PRINCESS\\nDAISY is so close to CLOUD CAP! I NEED\\lto see her!",
+  "pt": "Ai, minha nossa! Não acredito que a PRINCESA DAISY está tão perto de CLOUD CAP! Eu PRECISO ver ela!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03487EB",
+  "en": "{FONT 00}sigh…{FONT 01} PRINCESS DAISY is so dreamy… She\\neven managed to steal that airship from\\lBOWSER, soaring through the skies\\lshowing all the world her beauty!",
+  "pt": "{FONT 00}suspiro…{FONT 01} A PRINCESA DAISY é tão linda… Ela até conseguiu roubar aquela aeronave do BOWSER e agora voa pelos céus mostrando sua beleza pro mundo todo!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348884",
+  "en": "Pft, I don't understand what those\\ngirls see in PRINCESS DAISY.\\pI mean, there are much more beautiful\\nthings in the world!\\pWe can even see RAINBOW ROAD from here,\\nfor stars sake!",
+  "pt": "Pff, não entendo o que aquelas garotas veem na PRINCESA DAISY.\\pQuer dizer, existem coisas muito mais bonitas no mundo!\\pDá pra ver até a RAINBOW ROAD daqui, pelas estrelas!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348937",
+  "en": "Hey MARIO. I'd be careful going on ahead\\nto 2-2.\\pBOWSER has recently been spotted in\\nthe area, and I don't think he's been all\\lthat happy since his airship got stolen\\lby DAISY.",
+  "pt": "Ei, MARIO. Eu teria cuidado se fosse seguir até a 2-2.\\pO BOWSER foi visto na área há pouco tempo, e acho que ele não anda nada feliz desde que a DAISY roubou a aeronave dele."
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03489EC",
+  "en": "Hey! You, over there!",
+  "pt": "Ei! Você aí!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348A02",
+  "en": "Hey wait a minute, you're MARIO! Oh\\nthank goodness, I'm saved!",
+  "pt": "Ei, espera aí, você é o MARIO! Ah, graças aos céus, estou salvo!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348A41",
+  "en": "I'm CAPTAIN TOAD! And don't ask how, but\\nI'm stuck here.\\pDo you think you could find a way to\\nsave me? I'll make it worth your while!",
+  "pt": "Eu sou o CAPTAIN TOAD! E não me pergunte como, mas estou preso aqui.\\pAcha que consegue achar um jeito de me salvar? Vou recompensar você!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348AD1",
+  "en": "Maybe there's a LAKITU somewhere\\naround here?\\pIf not, I hear PRINCESS DAISY is in the\\narea with a whole airship!\\pThough I don't know how you'd convince\\nher to use it to help me…",
+  "pt": "Talvez tenha algum LAKITU por aqui?\\pSe não, ouvi dizer que a PRINCESA DAISY está na área com uma aeronave inteira!\\pMas não sei como você ia convencer ela a usar isso pra me ajudar…"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348B83",
+  "en": "CLOUD CAP GENERAL STORE",
+  "pt": "ARMAZÉM DE CLOUD CAP"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348B9B",
+  "en": "CLOUD CAP - TOWN OF THE CLOUDS",
+  "pt": "CLOUD CAP - CIDADE DAS NUVENS"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348BC7",
+  "en": "MARIO! Thanks so much for getting that\\nLAKITU to save me!\\pHere, go ahead and have this, I insist!",
+  "pt": "MARIO! Muito obrigado por mandar aquele LAKITU me salvar!\\pTome, fique com isto, eu insisto!"
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "0348C29",
+  "en": "That's my specially made EXPLORER CAP!\\nI plan on using them in the JUNGLE\\lKINGDOM, so maybe I'll see you there?\\pFor now though, I'm off to my next\\nadventure. Thanks again MARIO!",
+  "pt": "Esse é o meu CAP EXPLORADOR, feito especialmente por mim! Pretendo usá-los no JUNGLE KINGDOM, então talvez a gente se veja por lá?\\pMas, por enquanto, vou partir pra minha próxima aventura. Obrigado de novo, MARIO!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "03499CB",
+  "en": "MARIO, you know the deal.\\pYou can do the one-space jump for the\\nraw NUT, or you can attempt the\\lone-space diagonal jump for the SUPER\\lNUT.",
+  "pt": "MARIO, você conhece o esquema.\\pVocê pode fazer o salto de um espaço pela NOZ simples, ou tentar o salto diagonal de um espaço pela SUPERNOZ."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349A56",
+  "en": "Ah, the one-space vertical. A wise\\nchoice.",
+  "pt": "Ah, o salto vertical de um espaço. Uma escolha sábia."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349A81",
+  "en": "Now claim your prize.",
+  "pt": "Agora pegue o seu prêmio."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349A97",
+  "en": "You risk your COINS for something\\ngreater.",
+  "pt": "Você arrisca suas MOEDAS por algo maior."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349AC2",
+  "en": "Bro, you NEED to stop telling people to\\nmake that jump, it's literally\\limpossible.\\pHere in CLOUD KINGDOM, no one chooses\\nto jump for the SUPER NUT.\\pIt's better to be safe and do the\\none-space jump for the NUT rather than\\lrisk 1500 COINS for just 20 HP more.",
+  "pt": "Cara, você PRECISA parar de mandar o pessoal fazer esse salto, é literalmente impossível.\\pAqui no CLOUD KINGDOM, ninguém escolhe saltar pela SUPERNOZ.\\pÉ melhor jogar seguro e fazer o salto de um espaço pela NOZ do que arriscar 1500 MOEDAS por só 20 de HP a mais."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349BC4",
+  "en": "Speaking of, pay up.",
+  "pt": "Falando nisso, pode ir pagando."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349BD9",
+  "en": "LAKITU took 1500 coins!",
+  "pt": "LAKITU levou 1500 moedas!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349BF1",
+  "en": "LAKITU took the rest of your coins!",
+  "pt": "LAKITU levou o resto das suas moedas!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349C15",
+  "en": "Ok, BAIL!",
+  "pt": "Ok, FUI!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349C1F",
+  "en": "Oh dear… It seems the KOOPA TROOP has\\ntaken over this route. There's not much\\la lonely guard like me can do against\\lthem.",
+  "pt": "Ai, ai… Parece que a TROPA KOOPA tomou conta desta rota. Não há muito que um guarda solitário como eu possa fazer contra eles."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349C99",
+  "en": "BULLET BILLS! THEY'RE EVERYWHERE!\\nAAAAAAAAAAAAAAAAAAAAAAHHHHH!",
+  "pt": "BULLET BILLS! ESTÃO POR TODO LADO!\\nAAAAAAAAAAAAAAAAAAAAAAAHHHHH!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349D24",
+  "en": "Tch… LORD BOWSER is gonna kill me.",
+  "pt": "Tsc… O LORDE BOWSER vai me matar."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349D47",
+  "en": "Kekekeke…I bet you've never faced\\nTHESE before.",
+  "pt": "Kekekeke… Aposto que você nunca enfrentou ESTES antes."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349D85",
+  "en": "{FONT 00}groan…{FONT 01} I should've known you've fought\\nBULLET BILLS before! They're literally\\leverywhere right now!",
+  "pt": "{FONT 00}aff…{FONT 01} Eu devia saber que você já enfrentou BULLET BILLS antes! Eles estão literalmente por toda parte agora!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349E55",
+  "en": "Sorry MARIO! But you can't disable\\nthese BILL BLASTERS! Honestly, we\\lcouldn't even stop them if we wanted\\lto. They're completely supercharged.",
+  "pt": "Foi mal, MARIO! Mas você não pode desativar esses BILL BLASTERS! Pra falar a verdade, nem a gente conseguiria parar eles se quisesse. Eles estão totalmente supercarregados."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349F37",
+  "en": "Please don't tell LORD BOWSER that the\\nC.A.P. CHALLENGE is actually fun.",
+  "pt": "Por favor, não conte pro LORDE BOWSER que o DESAFIO C.A.P. é divertido de verdade."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349FE7",
+  "en": "Sorry to say it, but you can't proceed!\\nBetter go find the ON/OFF switch\\linstead!",
+  "pt": "Sinto dizer, mas você não pode passar! Melhor ir procurar o interruptor ON/OFF!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A039",
+  "en": "Hehehe… It's quite cold out here, isn't\\nit, MARIO? One could say it's… spiky!",
+  "pt": "Hehehe… Tá frio aqui em cima, né, MARIO? Um frio de arrepiar os… espinhos!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A087",
+  "en": "Get it…Spiky…Icy…I used Spinies…",
+  "pt": "Entendeu… Arrepiar… Espinhos… Eu usei Spinies…"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A0A8",
+  "en": "What do you mean my pun sucks?!",
+  "pt": "Como assim o meu trocadilho é ruim?!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A124",
+  "en": "Honestly… I'm just not feeling it today.\\nPlease don't tell LORD BOWSER about\\lthis.",
+  "pt": "Sinceramente… Hoje eu não estou no clima. Por favor, não conte isso pro LORDE BOWSER."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A177",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A17E",
+  "en": "MARIO! You're fast, but not fast\\nenough!\\pGOONS!",
+  "pt": "MARIO! Você é rápido, mas não o bastante!\\pCAPANGAS!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A1B3",
+  "en": "Please don't call us that, LORD BOWSER.",
+  "pt": "Por favor, não chame a gente assim, LORDE BOWSER."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A1DB",
+  "en": "{FONT 00}oh, sorry…",
+  "pt": "{FONT 00}ah, foi mal…"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A1E9",
+  "en": "MINIONS!",
+  "pt": "SOLDADOS!",
+  "max_width": 52
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A1FB",
+  "en": "You hear that, Johnson? We're MINIONS!\\nWOOOOOOO!",
+  "pt": "Ouviu isso, Johnson? Somos SOLDADOS! UHUUUUUUU!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A235",
+  "en": "I gotta tell my wife about the\\npromotion, Timmy! WOOOOOOOOOOOO!",
+  "pt": "Tenho que contar pra minha esposa sobre a promoção, Timmy! UHUUUUUUUUUUU!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A275",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A27B",
+  "en": "Would you two quiet down! Your King is\\nabout to command you!",
+  "pt": "Querem fazer silêncio, vocês dois?! O seu Rei vai dar uma ordem!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A2B8",
+  "en": "SUPERCHARGE THE LAUNCHERS!",
+  "pt": "SUPERCARREGUEM OS LANÇADORES!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A2D3",
+  "en": "BWAHAHAHA! Now they lock on and are\\nautomatic! Goodbye, MARIO!",
+  "pt": "BWAHAHAHA! Agora eles miram sozinhos e são automáticos! Adeus, MARIO!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A316",
+  "en": "Hey, bro! I'm over here!",
+  "pt": "Ei, mano! Estou aqui!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A32F",
+  "en": "WHAT?!",
+  "pt": "O QUÊ?!",
+  "max_width": 40
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A336",
+  "en": "Oh no.",
+  "pt": "Ah, não."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A33D",
+  "en": "RAAAAAAAAAAAaaaaaaaaa…",
+  "pt": "RAAAAAAAAAAAaaaaaaaaa…"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A35A",
+  "en": "Wait right there, I'm coming over!",
+  "pt": "Espere aí, já estou indo!"
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "034A37D",
+  "en": "Close one, am I right?\\pThat was a little too much excitement\\nfor me, so I'm gonna head back to town.\\pYou go ahead and beat down BOWSER for\\nme, got it? Got it! Good luck, bro!",
+  "pt": "Essa foi por pouco, né?\\pFoi emoção demais pra mim, então vou voltar pra cidade.\\pVai lá e dá uma surra no BOWSER por mim, beleza? Beleza! Boa sorte, mano!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D3D8",
+  "en": "WHOO-HOO!",
+  "pt": "WHOO-HOO!",
+  "max_width": 58
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D3E2",
+  "en": "DAISY",
+  "pt": "DAISY",
+  "max_width": 36
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D3E8",
+  "en": "Back for more, MARIO? Perfect! I've\\nbeen itching for another fight ever\\lsince I lost last time!",
+  "pt": "Voltou pra mais, MARIO? Perfeito! Estou doida por outra luta desde que perdi da última vez!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D448",
+  "en": "Why can't I win against you?! Ugh!",
+  "pt": "Por que eu não consigo ganhar de você?! Argh!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D46B",
+  "en": "Argh! You're really frustrating, you\\nknow that MARIO! Next time, I'm winning\\lfor sure!",
+  "pt": "Argh! Você é muito irritante, sabia, MARIO? Da próxima vez, eu ganho com certeza!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D4C2",
+  "en": "MARIO! You're back! LUIGI must have\\nkept his promise and told you I've been\\litching for a rematch!\\pMe and my team have come a long ways\\nsince the start of the C.A.P. CHALLENGE,\\land now we're ready to pulverize you!",
+  "pt": "MARIO! Você voltou! O LUIGI deve ter cumprido a promessa e te contado que eu estava louca por uma revanche!\\pEu e a minha equipe evoluímos muito desde o começo do DESAFIO C.A.P., e agora estamos prontos pra te esmagar!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D599",
+  "en": "UGH! I'm still no match for you, MARIO.\\nWhich is really frustrating! It feels\\llike I'm never gonna be able to stand up\\lto the CHAMPION, but I suppose rules\\lare rules. Here, I should still give you\\lsomething for beating me.",
+  "pt": "ARGH! Ainda não estou à sua altura, MARIO. O que é muito frustrante! Parece que eu nunca vou conseguir enfrentar o CAMPEÃO, mas regras são regras. Tome, ainda tenho que te dar algo por me vencer."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D678",
+  "en": "That item will increase the number of\\nturns something like REFLECT or LIGHT\\lSCREEN are active. It's not really my\\lstyle, but I thought using it would help\\lbeat you.\\pWhile it definitely didn't this time, it'll\\nwork next time! Come back whenever you\\lwant to another rematch!",
+  "pt": "Esse item aumenta o número de turnos em que coisas como REFLETIR ou TELA DE LUZ ficam ativas. Não é muito o meu estilo, mas achei que usar isso ia me ajudar a te vencer.\\pDessa vez não ajudou nada, mas na próxima vai! Volte sempre que quiser outra revanche!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D789",
+  "en": "Do you want to press the switch again?",
+  "pt": "Quer apertar o interruptor de novo?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D7B0",
+  "en": "Better make sure you're properly\\nprepared.",
+  "pt": "Melhor garantir que você está bem preparado."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D7DB",
+  "en": "Better not press this again…",
+  "pt": "Melhor não apertar isso de novo…"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D7F8",
+  "en": "It's a switch…press it?",
+  "pt": "É um interruptor… Apertar?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D810",
+  "en": "Better not.",
+  "pt": "Melhor não."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D81C",
+  "en": "Oh yeah, let me hear it!",
+  "pt": "Isso aí, quero ouvir!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D835",
+  "en": "DAI-SY! DAI-SY! DAI-SY! DAI-SY!",
+  "pt": "DAI-SY! DAI-SY! DAI-SY! DAI-SY!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D855",
+  "en": "MARIO! It's about time you showed up!\\pWelcome aboard the Cloudcutter, my\\nairship and Striker Stadium!\\pWe're going to have lots of fun fighting\\nfor your POWER STAR!\\pNow then…",
+  "pt": "MARIO! Até que enfim você apareceu!\\pBem-vindo a bordo do Cloudcutter, minha aeronave e Estádio Striker!\\pVamos nos divertir muito lutando pela sua ESTRELA DE PODER!\\pAgora, então…"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D903",
+  "en": "Are we ready for a game?!",
+  "pt": "Prontos pra uma partida?!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D91D",
+  "en": "GOOOOOOOOOOOOAAAAAAAAAAAL!",
+  "pt": "GOOOOOOOOOOOOOOOOOOOOOOOL!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D938",
+  "en": "I expected no less from you, MARIO.\\nLet's hurry up and battle!",
+  "pt": "Não esperava menos de você, MARIO. Vamos logo batalhar!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D977",
+  "en": "Dir",
+  "pt": ""
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D97B",
+  "en": "Gah! No! I wanted to win!",
+  "pt": "Ah! Não! Eu queria ganhar!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D995",
+  "en": "Struggling, are we?",
+  "pt": "Com dificuldades, é?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D9A9",
+  "en": "Seems not!",
+  "pt": "Parece que não!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034D9B4",
+  "en": "Did DAISY explain things properly? You\\ngotta hit these switches to clear a\\lpath for the BULLET BILL to score a\\lgoal!\\pYou can do it, MARIO. Pay attention to\\nwhat switches do what!",
+  "pt": "A DAISY explicou direito? Você tem que acertar esses interruptores pra abrir caminho pro BULLET BILL marcar um gol!\\pVocê consegue, MARIO. Preste atenção no que cada interruptor faz!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DA8C",
+  "en": "If you realllllly feel as if you've given\\nit your all, but still can't score a goal,\\lyou can try talking to DAISY. Don't\\lexpect her to be too happy about it,\\lthough.",
+  "pt": "Se você sentir de verdadeeeee que deu tudo de si, mas mesmo assim não consegue marcar um gol, pode tentar falar com a DAISY. Só não espere que ela fique muito feliz com isso."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DB32",
+  "en": "I'm wearing pants under my grass skirt\\nin case it flies off in the wind!\\pWhat kind of pants?\\nLaminated denim.",
+  "pt": "Estou usando calça por baixo da minha saia de grama, caso ela voe com o vento!\\pQue tipo de calça?\\nJeans laminado."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DBA0",
+  "en": "The Lizard Wizard and the Superbug!",
+  "pt": "O Mago Lagarto e o Superinseto!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DBC4",
+  "en": "FOTTO",
+  "pt": "FOTTO",
+  "max_width": 36
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DBCA",
+  "en": "Hey, MARIO! Congrats on putting all the\\npieces of the puzzle together!\\pI've had so much fun watching you run\\naround solving everything, but there's\\lone more challenge for you to overcome.\\pMe!\\pI've got a fresh new team I wanna\\nbattle with, so come over to me\\lwhenever you're ready.\\pIf you win, I have a prize waiting!",
+  "pt": "Ei, MARIO! Parabéns por juntar todas as peças do quebra-cabeça!\\pEu me diverti muito vendo você correr por aí resolvendo tudo, mas ainda falta mais um desafio pra você superar.\\pEu!\\pTenho uma equipe novinha com que quero batalhar, então venha falar comigo quando estiver pronto.\\pSe você ganhar, tenho um prêmio esperando!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DD07",
+  "en": "Daisy loves battling with GROUND-type\\nCAPTURES!\\pI've seen people bring nearby FOO to hit\\nit with super effective moves and\\lTOADY to dodge her attacks!",
+  "pt": "A Daisy adora batalhar com CAPTURAS do tipo TERRESTRE!\\pJá vi gente trazer um FOO daqui de perto pra acertar golpes supereficazes e um TOADY pra desviar dos ataques dela!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DD9E",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DDA5",
+  "en": "WHAT HAPPENED TO MY BEAUTIFUL\\nAIRSHIP?!",
+  "pt": "O QUE ACONTECEU COM A MINHA LINDA AERONAVE?!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DDCD",
+  "en": "First of all, orange, yellow, and green is\\nNOT INTIMIDATING!",
+  "pt": "Primeiro de tudo, laranja, amarelo e verde NÃO É NADA INTIMIDADOR!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DE0A",
+  "en": "Secondly, how can a propeller moving\\nthat slow get ANY LIFT?!",
+  "pt": "Segundo, como uma hélice girando devagar desse jeito consegue ALGUMA sustentação?!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DE48",
+  "en": "And worst of all, I DON'T SEE MY AWESOME\\nFACE ANYWHERE ANYMORE!",
+  "pt": "E o pior de tudo: NÃO VEJO MAIS A MINHA CARA INCRÍVEL EM LUGAR NENHUM!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DF54",
+  "en": "YOU KNOW WHAT?! WHATEVER! That was\\njust a taste of my true power!\\pYou can have that POWER STAR, it\\ndoesn't matter to me!\\pI'm going straight to the next one!",
+  "pt": "QUER SABER?! TANTO FAZ! Isso foi só uma amostra do meu verdadeiro poder!\\pPode ficar com essa ESTRELA DE PODER, não faz diferença pra mim!\\pVou direto atrás da próxima!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DFF1",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034DFF7",
+  "en": "Your highness, I have properly scouted\\nthe ship, this POWER STAR will be-",
+  "pt": "Vossa Alteza, já fiz o reconhecimento da nave, esta ESTRELA DE PODER será-"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E041",
+  "en": "GAH! MARIO! What are you doing here?",
+  "pt": "AH! MARIO! O que você está fazendo aqui?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E066",
+  "en": "Ah, I see my liege has made an\\nexpedited-but-tactical RETREAT!",
+  "pt": "Ah, vejo que meu soberano fez uma RETIRADA acelerada, porém tática!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E0A5",
+  "en": "WAIT FOR ME!",
+  "pt": "ME ESPERE!",
+  "max_width": 70
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E0B2",
+  "en": "Oh yeah! It's DAISY time!",
+  "pt": "Isso aí! É hora da DAISY!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E0CC",
+  "en": "NOOO! GRRR!",
+  "pt": "NÃOOO! GRRR!",
+  "max_width": 65
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E0D8",
+  "en": "GAME! SET! MATCH! And our winner is…",
+  "pt": "JOGO! SET! PARTIDA! E o vencedor é…"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E0FD",
+  "en": "MA-RI-O! MA-RI-O! MA-RI-O!",
+  "pt": "MA-RI-O! MA-RI-O! MA-RI-O!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E118",
+  "en": "And I believe this trophy goes to you!",
+  "pt": "E acho que este troféu é seu!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E13F",
+  "en": "MARIO received the CLOUD KINGDOM\\nPOWER STAR!",
+  "pt": "MARIO recebeu a ESTRELA DE PODER do CLOUD KINGDOM!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E16C",
+  "en": "Your second POWER STAR from yours\\ntruly! I know, bask in its glory.\\pBut not for too long, because I have\\nsomething else to award you.",
+  "pt": "Sua segunda ESTRELA DE PODER, entregue por esta que vos fala! Eu sei, aproveite o brilho dela.\\pMas não por muito tempo, porque tenho outra coisa pra te dar."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E1F2",
+  "en": "Thanks for playing along, MARIO.\\pTell your brother I'll be waiting for him!",
+  "pt": "Valeu por entrar na brincadeira, MARIO.\\pDiga pro seu irmão que vou estar esperando por ele!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E23E",
+  "en": "What's that, you need me to go pick up a\\nstuck TOAD in CLOUD CAP? Sure thing!",
+  "pt": "O que foi, você precisa que eu vá buscar um TOAD preso em CLOUD CAP? Pode deixar!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E28C",
+  "en": "What's wrong, MARIO? Having trouble\\nsolving my puzzle?\\pCome on, you've only tried\\n{STR_VAR_1} times! Hurry up and\\llaunch that BULLET BILL into the GOAL!",
+  "pt": "Qual é o problema, MARIO? Está com dificuldade pra resolver o meu quebra-cabeça?\\pQual é, você só tentou {STR_VAR_1} vezes! Anda logo e lança esse BULLET BILL no GOL!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E31C",
+  "en": "MARIO! You've already tried\\n{STR_VAR_1} times! It's really\\lstarting to get on my nerves.\\pI reallllly don't have the patience for\\nthis, are you sure you wanna keep\\lgoing?",
+  "pt": "MARIO! Você já tentou {STR_VAR_1} vezes! Isso já está começando a me irritar.\\pEu nãããão tenho paciência pra isso, tem certeza que quer continuar?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E3BD",
+  "en": "Fine! Keep trying, see if I care!",
+  "pt": "Tá! Continue tentando, eu nem ligo!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E3DF",
+  "en": "What's that? A TOAD is stuck on a cloud\\nover in CLOUD CAP? Ugh, of course they\\lare.\\pEveryone needs to be more careful\\naround here, us LAKITU can't save\\leveryone!\\pListen, if you want me to save them,\\nyou're gonna need to cough up 500\\lCOINS. Deal?",
+  "pt": "O quê? Um TOAD está preso numa nuvem lá em CLOUD CAP? Argh, claro que está.\\pTodo mundo aqui precisa ter mais cuidado, nós, LAKITUS, não conseguimos salvar todo mundo!\\pEscuta, se você quer que eu salve essa pessoa, vai ter que soltar 500 MOEDAS. Fechado?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E4D5",
+  "en": "Alright, thanks a bunch. I'll go get them\\nreal quick.",
+  "pt": "Beleza, valeu mesmo. Vou lá buscar rapidinho."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E50B",
+  "en": "Alright, I went ahead and saved that\\nCAPTAIN friend of yours. He said to let\\lyou know that he's alright, and has\\lsomething he wants to give you.\\pIs that all you need from me? I need to\\nget back to covering DAISY's part in\\lthe C.A.P. CHALLENGE.",
+  "pt": "Pronto, já salvei aquele seu amigo CAPTAIN. Ele pediu pra avisar que está bem e que tem algo que quer te dar.\\pÉ só isso que você precisa de mim? Tenho que voltar a cobrir a parte da DAISY no DESAFIO C.A.P."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E5FF",
+  "en": "You don't have enough COINS!",
+  "pt": "Você não tem MOEDAS suficientes!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E61C",
+  "en": "Then no deal, red guy.\\pIf you're desperate to get him saved,\\nI'm sure PRINCESS DAISY can lend him a\\lhand after her C.A.P. CHALLENGE.\\lAlthough, I wouldn't be happy waiting\\lthat long if I were him.",
+  "pt": "Então nada feito, baixinho de vermelho.\\pSe está desesperado pra salvar ele, tenho certeza de que a PRINCESA DAISY pode dar uma mão depois do DESAFIO C.A.P. dela. Mas, se eu fosse ele, não ia gostar de esperar tanto tempo."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E6E0",
+  "en": "Man, PRINCESS DAISY is so cool! Her part\\nin the C.A.P. CHALLENGE is sure to be\\lextreme!",
+  "pt": "Cara, a PRINCESA DAISY é muito legal! A parte dela no DESAFIO C.A.P. com certeza vai ser radical!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E738",
+  "en": "Are you ready for that battle?",
+  "pt": "Está pronto pra essa batalha?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E757",
+  "en": "Alright! Let's make this\\na FOTTO finish!",
+  "pt": "Beleza! Vamos ter um final FOTTOgênico!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E7A1",
+  "en": "Oh my stars, that was intense!\\pI was half-expecting to win that one,\\nbut I don't think I'll ever win against\\lyou MARIO!\\pA winner needs their prize, but I'll need\\nto see TIPTRON first. Come talk to me\\lagain when it's in your party!",
+  "pt": "Minhas estrelas, essa foi intensa!\\pEu meio que esperava ganhar essa, mas acho que nunca vou ganhar de você, MARIO!\\pTodo vencedor merece um prêmio, mas antes preciso ver o TIPTRON. Venha falar comigo de novo quando ele estiver na sua equipe!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E888",
+  "en": "I'll be here waiting!",
+  "pt": "Vou estar esperando aqui!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E89E",
+  "en": "Come talk to me when you have Tiptron\\nin your Party!",
+  "pt": "Venha falar comigo quando tiver o Tiptron na sua equipe!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034E8D3",
+  "en": "This was a lot of fun to set up! These\\npuzzles and hunts take a long time to\\lset up, so I'm really happy you had fun!\\pI heard that some new Worlds will be\\nopening up for us to travel to in the\\lfuture, so I'm wondering if I should\\lmake more puzzles and challenges for\\lthem. Until then, let me know how I can\\limprove my puzzles, and what I should\\ldo next!",
+  "pt": "Foi muito divertido preparar isso! Esses enigmas e caçadas levam muito tempo pra montar, então fico muito feliz que você tenha se divertido!\\pOuvi dizer que alguns Mundos novos vão abrir pra gente visitar no futuro, então estou pensando se devo criar mais enigmas e desafios pra eles. Até lá, me diga como posso melhorar meus enigmas e o que devo fazer em seguida!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034EA35",
+  "en": "Hey, it's MARIO!\\pDo you know me? Not yet but you're\\nabout to!\\pMy name is FRANK OTTO, but you can call\\nme FOTTO! I like to take pictures of\\lpeople playing the C.A.P. CHALLENGE!\\pMay I take a photo of you and upload it\\nonline?",
+  "pt": "Ei, é o MARIO!\\pVocê me conhece? Ainda não, mas vai conhecer!\\pMeu nome é FRANK OTTO, mas pode me chamar de FOTTO! Eu gosto de tirar fotos das pessoas jogando o DESAFIO C.A.P.!\\pPosso tirar uma foto sua e postar na internet?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034EB15",
+  "en": "Your photo in CLOUD KINGDOM should be\\nposted now!\\pJust go to my account\\nfottocap.bsky.social!",
+  "pt": "A sua foto no CLOUD KINGDOM já deve estar postada!\\pÉ só ir na minha conta\\nfottocap.bsky.social!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034EB73",
+  "en": "Hey, MARIO! It's me, FOTTO!\\pWant a picture taken for your time in\\nCLOUD KINGDOM?",
+  "pt": "Ei, MARIO! Sou eu, o FOTTO!\\pQuer uma foto da sua passagem pelo CLOUD KINGDOM?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034EBC4",
+  "en": "TIPTRON has been a big help to this\\nscavenger hunt, hasn't it!\\pHow's about I give you my TIPTRON as a\\nprize!\\pDo you want it to be SHINY?",
+  "pt": "O TIPTRON ajudou muito nessa caça ao tesouro, não é?\\pQue tal eu te dar o meu TIPTRON de prêmio?\\pVocê quer que ele seja SHINY?"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034EC4D",
+  "en": "MARIO received TIPTRON!",
+  "pt": "MARIO recebeu o TIPTRON!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034EC65",
+  "en": "TIPTRON was sent to the PC.",
+  "pt": "O TIPTRON foi para o PC."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034EC81",
+  "en": "The BILL BLASTER is bolted in place. It\\nwon't budge.",
+  "pt": "O BILL BLASTER está aparafusado no chão. Não se mexe."
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034ECB6",
+  "en": "Listen up, MARIO! Do whatever it takes\\nto get a BULLET BILL into the goal!\\pAnd you better not come complaining to\\nme if you can't figure it out!",
+  "pt": "Escuta aqui, MARIO! Faça o que for preciso pra colocar um BULLET BILL no gol!\\pE é melhor não vir reclamar comigo se não conseguir descobrir como!"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "034ED47",
+  "en": "HI I AM\\nDAISY !",
+  "pt": "OI EU SOU\\nDAISY !"
+ },
+ {
+  "map": "3.4 DAISY'S CRUISER",
+  "offset": "088CA1A",
+  "en": "complete",
+  "pt": "concluído"
+ },
+ {
+  "map": "3.5 DAISY'S CRUISER",
+  "offset": "02CD87A",
+  "en": "Nooooooooooooooo!",
+  "pt": "Nããããããããããããão!"
+ },
+ {
+  "map": "3.5 DAISY'S CRUISER",
+  "offset": "03523C0",
+  "en": "The rules don't say I'm not\\nallowed to help!\\p{COLOR 04}{CLEAR_TO 50}FIRE!!!",
+  "pt": "As regras não dizem que eu não posso ajudar!\\p{COLOR 04}{CLEAR_TO 50}FOGO!!!"
+ },
+ {
+  "map": "3.5 DAISY'S CRUISER",
+  "offset": "03523FB",
+  "en": "There we go! That wasn't too\\nhard. Now let's battle!",
+  "pt": "Pronto! Não foi tão difícil. Agora vamos batalhar!"
+ },
+ {
+  "map": "3.7 WORLD 2-1",
+  "offset": "037A03A",
+  "en": "G-Great! This won't hurt a bit!\\n{FONT 00}Probably…",
+  "pt": "Ó-Ótimo! Isso não vai doer nada!\\n{FONT 00}Provavelmente…"
+ },
+ {
+  "map": "3.7 WORLD 2-1",
+  "offset": "037A067",
+  "en": "Keh, a success! Come back anytime!",
+  "pt": "Keh, um sucesso! Volte quando quiser!"
+ },
+ {
+  "map": "3.7 WORLD 2-1",
+  "offset": "037A08A",
+  "en": "A-Ah. I see. You're another one who\\ncan't understand my research.",
+  "pt": "A-Ah. Entendo. Mais um que não consegue entender a minha pesquisa."
+ },
+ {
+  "map": "3.7 WORLD 2-1",
+  "offset": "037A0CC",
+  "en": "A visitor! Please, go see the doctor!\\nHe'll help you out however he can, trust\\lme!",
+  "pt": "Uma visita! Por favor, vá ver o doutor! Ele vai ajudar você no que puder, pode confiar!"
+ },
+ {
+  "map": "3.8 WORLD 2-1",
+  "offset": "0382EC0",
+  "en": "The BLASTER is locked in place.",
+  "pt": "O BLASTER está travado no lugar."
+ },
+ {
+  "map": "3.8 WORLD 2-1",
+  "offset": "0382EE0",
+  "en": "Congrats on beating the BULLET BILL! I\\nhope the rewards are to your liking.\\pWould you like me to take you back?\\nFree of charge!",
+  "pt": "Parabéns por vencer o BULLET BILL! Espero que as recompensas sejam do seu agrado.\\pQuer que eu leve você de volta? Sem custo nenhum!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3609",
+  "en": "You are approaching PRINCESS PEACH's\\nCASTLE. Be on your best behavior.",
+  "pt": "Você está se aproximando do CASTELO DA PRINCESA PEACH. Comporte-se."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3650",
+  "en": "CAPTURE ARE\\nBEST FRIEND",
+  "pt": "CAPTURA É\\nMELHOR AMIGO"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C366C",
+  "en": "MASTER MARIO, wait!",
+  "pt": "MESTRE MARIO, espere!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3680",
+  "en": "TOADSWORTH",
+  "pt": "TOADSWORTH",
+  "max_width": 66
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C368B",
+  "en": "I'm glad I caught up to you, MASTER\\nMARIO.",
+  "pt": "Que bom que o alcancei, MESTRE MARIO."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C36B6",
+  "en": "Here, some gadgets just arrived from\\nPROFESSOR E. GADD.",
+  "pt": "Tome, acabaram de chegar alguns aparelhos do PROFESSOR E. GADD."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C36EE",
+  "en": "This device will allow you to access the\\nCAPTURE STORAGE NETWORK from wherever\\lyou please!\\pLet me just read off the instructions\\nthe PROFESSOR included…",
+  "pt": "Este aparelho permite acessar a REDE DE ARMAZENAMENTO DE CAPTURAS de onde você quiser!\\pDeixe-me ler as instruções que o PROFESSOR mandou…"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3787",
+  "en": "Press the R BUTTON while viewing your\\ncurrent party to open the STORAGE\\lSYSTEM from anywhere!",
+  "pt": "Aperte o BOTÃO R enquanto vê a sua equipe atual para abrir o SISTEMA DE ARMAZENAMENTO de qualquer lugar!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C37E5",
+  "en": "I say, what does he mean by an R\\nBUTTON?",
+  "pt": "Ora essa, o que ele quer dizer com BOTÃO R?"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C380E",
+  "en": "Well never mind that, allow me to escort\\nyou to our WARP PIPE.\\pIt should be fully operational by now.",
+  "pt": "Bem, não importa. Permita-me acompanhá-lo até o nosso CANO WARP.\\pJá deve estar funcionando perfeitamente."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3874",
+  "en": "This here is our WARP PIPE.\\pYou can use it to return to TOAD TOWN's\\nWARP ZONE, posthaste!\\pFrom there, I believe the WARP to WORLD\\n2 should be open for you to continue on\\lyour journey.\\pBest of luck, MASTER MARIO!",
+  "pt": "Este é o nosso CANO WARP.\\pVocê pode usá-lo para voltar à ZONA WARP da CIDADE TOAD sem demora!\\pDe lá, creio que o WARP para o MUNDO 2 já esteja aberto para você continuar sua jornada.\\pBoa sorte, MESTRE MARIO!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3948",
+  "en": "We made sure that there are WARP ZONES\\nat each castle for easy\\ltransportation!\\pYou can take this one back to TOAD\\nTOWN!",
+  "pt": "Garantimos que haja ZONAS WARP em cada castelo para facilitar o transporte!\\pVocê pode pegar esta aqui para voltar à CIDADE TOAD!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C39C0",
+  "en": "I'm sorry, but this WARP PIPE is\\ncurrently undergoing maintenance.\\pPlease come back later.",
+  "pt": "Sinto muito, mas este CANO WARP está em manutenção no momento.\\pPor favor, volte mais tarde."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3A1B",
+  "en": "PEACH's CASTLE is where it all begins!",
+  "pt": "O CASTELO DA PEACH é onde tudo começa!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3A42",
+  "en": "Welcome MARIO!\\nCome to see the PRINCESS?\\pShe's right up ahead!",
+  "pt": "Bem-vindo, MARIO! Veio ver a PRINCESA?\\pEla está logo ali na frente!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3A81",
+  "en": "The PRINCESS loves to use CAPTURES\\nfound around her garden!",
+  "pt": "A PRINCESA adora usar CAPTURAS encontradas no jardim dela!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3ABD",
+  "en": "So hilly…I bet this is no sweat for you,\\nMARIO.",
+  "pt": "Quanto morro… Aposto que isso não é nada pra você, MARIO."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3AED",
+  "en": "I came from SARASALAND to ask\\nPRINCESS PEACH where PRINCESS DAISY\\lwent?\\pEver since the game started, she hasn't\\nbeen in her castle.",
+  "pt": "Eu vim de SARASALAND pra perguntar à PRINCESA PEACH aonde a PRINCESA DAISY foi?\\pDesde que o jogo começou, ela não aparece no castelo dela."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3B71",
+  "en": "(Hey MARIO! You can't ride a YOSHI\\nunless you have a YOSHI WHISTLE to\\lsummon one.\\pLast I heard, someone in TOAD TOWN was\\ngiving them away.)",
+  "pt": "(Ei, MARIO! Você não pode montar num YOSHI se não tiver um APITO YOSHI pra chamar um.\\pPelo que ouvi, alguém na CIDADE TOAD estava distribuindo esses apitos.)"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3BFD",
+  "en": "(PRINCESS PEACH loves to have YOSHIs\\naround the CASTLE because we can be a\\lbunch of different types.)",
+  "pt": "(A PRINCESA PEACH adora ter YOSHIs pelo CASTELO, porque a gente pode ser de vários tipos diferentes.)"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3C63",
+  "en": "Keep an eye out for weird rocks and\\nlevel details, there might be an item\\lhiding there!",
+  "pt": "Fique de olho em pedras estranhas e detalhes das fases, pode ter um item escondido ali!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3CBB",
+  "en": "I wanna go to every WORLD I can, but I\\nneed to beat the STAR LEADER before\\ldoing so.\\pThat means I need to defeat the\\nPRINCESS soon!",
+  "pt": "Eu quero ir a todos os MUNDOS que puder, mas preciso vencer o LÍDER ESTELAR antes.\\pOu seja, preciso derrotar a PRINCESA logo!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3D3F",
+  "en": "I really like to use BIDDYBUDDYs!\\pThey're my favorite, but I'm\\ndisappointed that I can only have 6 of\\lthem at a time.",
+  "pt": "Eu adoro usar BIDDYBUDDYs!\\pEles são os meus favoritos, mas fico chateado de só poder ter 6 de cada vez."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3DB5",
+  "en": "PRINCESS PEACH's CASTLE",
+  "pt": "CASTELO DA PRINCESA PEACH"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3DD3",
+  "en": "Hey, it's MARIO!\\pDo you know me? Not yet but you're\\nabout to!\\pMy name is FRANK OTTO, but you can call\\nme FOTTO! I like to take pictures of\\lpeople playing the C.A.P. CHALLENGE!\\pMay I take a photo of you and upload it\\nonline?",
+  "pt": "Ei, é o MARIO!\\pVocê me conhece? Ainda não, mas vai conhecer!\\pMeu nome é FRANK OTTO, mas pode me chamar de FOTTO! Eu gosto de tirar fotos das pessoas jogando o DESAFIO C.A.P.!\\pPosso tirar uma foto sua e postar na internet?"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3EB3",
+  "en": "Your photo at PEACH's CASTLE should be\\nposted now!\\pJust go to my account\\nfottocap.bsky.social!",
+  "pt": "A sua foto no CASTELO DA PEACH já deve estar postada!\\pÉ só ir na minha conta\\nfottocap.bsky.social!"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3F12",
+  "en": "Hey, MARIO! It's me, FOTTO!\\pWant a picture taken for your time at\\nPEACH's CASTLE?",
+  "pt": "Ei, MARIO! Sou eu, o FOTTO!\\pQuer uma foto da sua passagem pelo CASTELO DA PEACH?"
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3F64",
+  "en": "TIPTRON thinks there might be more to\\nthis spot.\\pTrade a ♂♀3-4 1342 for a hint?",
+  "pt": "O TIPTRON acha que esse lugar esconde mais coisa.\\pTrocar ♂♀3-4 1342 por uma dica?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C474C",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4752",
+  "en": "Oh, you need to go bro? No worries! I'll\\nwait right here!",
+  "pt": "Ah, você precisa ir, mano? Sem problema! Eu espero bem aqui!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C478C",
+  "en": "PEACH",
+  "pt": "PEACH",
+  "max_width": 36
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4792",
+  "en": "Welcome MARIO!\\pI hope the trip from your house wasn't\\ntoo long.",
+  "pt": "Bem-vindo, MARIO!\\pEspero que a viagem da sua casa até aqui não tenha sido muito longa."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C47D2",
+  "en": "Where's LUIGI? I thought he would be\\nwith you.",
+  "pt": "Cadê o LUIGI? Achei que ele viria com você."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4801",
+  "en": "I'm here PRINCESS!",
+  "pt": "Estou aqui, PRINCESA!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4814",
+  "en": "Did I miss anything?",
+  "pt": "Perdi alguma coisa?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4829",
+  "en": "Nothing at all, you're right on time.\\pI believe the two of you have built a\\nteam?",
+  "pt": "Nada mesmo, você chegou bem na hora.\\pCreio que vocês dois já montaram uma equipe?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C487B",
+  "en": "Of course PRINCESS!\\nThis here is Blooey, Chuck, and Private,\\land we're going to win the C.A.P.\\lCHALLENGE! Whatever it may be!",
+  "pt": "Claro, PRINCESA! Estes aqui são o Blooey, o Chuck e o Private, e nós vamos vencer o DESAFIO C.A.P.! Seja lá o que for!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C48F9",
+  "en": "Of course PRINCESS!\\nThis here is Bitey, Chuck, and Private,\\land we're going to win the C.A.P.\\lCHALLENGE! Whatever it may be!",
+  "pt": "Claro, PRINCESA! Estes aqui são o Bitey, o Chuck e o Private, e nós vamos vencer o DESAFIO C.A.P.! Seja lá o que for!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4976",
+  "en": "Of course PRINCESS!\\nThis here is Jerry, Chuck, and Private,\\land we're going to win the C.A.P.\\lCHALLENGE! Whatever it may be!",
+  "pt": "Claro, PRINCESA! Estes aqui são o Jerry, o Chuck e o Private, e nós vamos vencer o DESAFIO C.A.P.! Seja lá o que for!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C49F3",
+  "en": "What is it exactly?",
+  "pt": "Mas o que é exatamente?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4A07",
+  "en": "This is a challenge to see who is the\\nsmartest, wisest, and kindest leader in\\lall the world.\\p8 people from across the KINGDOMS hold\\nspecial POWER STARS.\\pThe first person to collect all 8 will be\\ngranted a wish!",
+  "pt": "É um desafio para ver quem é o líder mais inteligente, mais sábio e mais gentil de todo o mundo.\\p8 pessoas de todos os REINOS guardam ESTRELAS DE PODER especiais.\\pA primeira pessoa a reunir as 8 terá um desejo realizado!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4ADA",
+  "en": "So it's a race!",
+  "pt": "Então é uma corrida!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4AEA",
+  "en": "To prepare you both, my GUARDS have put\\ntogether a special test so you both can\\lunderstand the little complexities of\\lthis game.\\pBeat them all, and I'll reward you both\\nwith your first POWER STAR.",
+  "pt": "Para preparar vocês dois, meus GUARDAS montaram um teste especial para que vocês entendam as pequenas complexidades deste jogo.\\pVençam todos, e eu darei a vocês a primeira ESTRELA DE PODER."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4BAF",
+  "en": "What do you say BRO,\\nwanna test the trials together?",
+  "pt": "Que tal, MANO, vamos encarar as provas juntos?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4BE4",
+  "en": "Let's a go!",
+  "pt": "Let's a go!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4BF0",
+  "en": "LUIGI has become your partner!",
+  "pt": "LUIGI agora é seu parceiro!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4C0F",
+  "en": "Sure!\\nYou take one hallway, and I'll take the\\lother!",
+  "pt": "Claro! Você vai por um corredor e eu vou pelo outro!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4C44",
+  "en": "Good luck to the both of you.",
+  "pt": "Boa sorte para vocês dois."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4C62",
+  "en": "Good luck, BRO!\\nI'll see you at the throne room!",
+  "pt": "Boa sorte, MANO! Te vejo na sala do trono!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4C93",
+  "en": "You and me BRO!\\nLet's do this!",
+  "pt": "Você e eu, MANO! Vamos nessa!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4CB2",
+  "en": "Where are you going, BRO?\\nWe gotta finish the PRINCESS's\\lchallenge first.",
+  "pt": "Aonde você vai, MANO? A gente tem que terminar o desafio da PRINCESA primeiro."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4CFC",
+  "en": "Everyone has an innate ABILITY, some\\nmore impactful than others!\\pLet me show you!",
+  "pt": "Todo mundo tem uma HABILIDADE inata, umas com mais impacto que outras!\\pDeixa eu te mostrar!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4D4E",
+  "en": "That's okay, bro! I'll heal up our team,\\nand we can just try again.",
+  "pt": "Tudo bem, mano! Eu curo a nossa equipe e a gente tenta de novo."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4D92",
+  "en": "Maybe there are ways I can synergize\\nABILITIES?",
+  "pt": "Será que tem jeito de combinar HABILIDADES?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4DC2",
+  "en": "TOADSWORTH will be waiting for you!",
+  "pt": "O TOADSWORTH vai estar esperando por vocês!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4DE6",
+  "en": "Head over to the other hallway to\\ndefeat the other challenge!",
+  "pt": "Vá até o outro corredor pra vencer o outro desafio!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4E24",
+  "en": "Did you already know about CAPTURES\\nabilities?",
+  "pt": "Você já conhecia as habilidades das CAPTURAS?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4E53",
+  "en": "ITEMS change how you think about\\nBATTLES!\\nLet me show you!",
+  "pt": "ITENS mudam o seu jeito de pensar as BATALHAS! Deixa eu te mostrar!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4EE8",
+  "en": "BERRIES aren't the only ITEMS you can\\nuse!",
+  "pt": "As FRUTAS não são os únicos ITENS que você pode usar!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4F13",
+  "en": "Thinking of going to see the PRINCESS,\\nMARIO? She's just up ahead.",
+  "pt": "Pensando em ver a PRINCESA, MARIO? Ela está logo ali na frente."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4F56",
+  "en": "Oh boy, oh boy!\\nI get to be a COMMANDER and not a\\lCAPTURE!\\nI'd hate to get into battle!",
+  "pt": "Oba, oba! Eu vou ser um COMANDANTE e não uma CAPTURA! Eu ia odiar entrar numa batalha!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C4FAE",
+  "en": "Ever since we started the C.A.P.\\nCHALLENGE, the PRINCESS has been more\\lactive around the castle!\\nIt's wonderful!",
+  "pt": "Desde que o DESAFIO C.A.P. começou, a PRINCESA anda mais ativa pelo castelo! É maravilhoso!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C501F",
+  "en": "Have you been to the GARDEN yet?\\nThere's a bunch of strong CAPTURES\\lthere!",
+  "pt": "Já foi ao JARDIM? Tem um monte de CAPTURAS fortes lá!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C506A",
+  "en": "PRINCESS PEACH is the best!\\pDon't tell PRINCESS DAISY I said that.",
+  "pt": "A PRINCESA PEACH é a melhor!\\pNão conte pra PRINCESA DAISY que eu disse isso."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C50AD",
+  "en": "Have you been using your TATTLEDEX?\\pIt's got so much useful information,\\nlike saying what moves a CAPTURE can\\llearn, and how they evolve!",
+  "pt": "Você tem usado a sua TATTLEDEX?\\pEla tem um monte de informação útil, tipo quais golpes uma CAPTURA pode aprender e como ela evolui!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C5137",
+  "en": "My brother and I want to try to play\\ntogether, so we're running a petition\\lfor siblings to act as the same\\lCOMMANDER!\\pWould you like to sign it?",
+  "pt": "Eu e o meu irmão queremos jogar juntos, então estamos fazendo um abaixo-assinado pra que irmãos possam atuar como o mesmo COMANDANTE!\\pVocê quer assinar?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C51C8",
+  "en": "MARIO signs the petition.",
+  "pt": "MARIO assina o abaixo-assinado."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C51E2",
+  "en": "YIPPIE!\\nThank you MARIO.\\pI think with your signature, we'll be\\nCOMMANDING in no time!",
+  "pt": "OBAAA! Obrigado, MARIO.\\pAcho que, com a sua assinatura, vamos estar COMANDANDO rapidinho!"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C5238",
+  "en": "Come on, pleeeeeeeeaaaaaaaaase?",
+  "pt": "Vai, por favoooooooooooor?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C5258",
+  "en": "Not even for widdle ol' us, MR. MARIO?",
+  "pt": "Nem pelos pequenininhos aqui, SR. MARIO?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C527F",
+  "en": "Dude come on, it's just a signature.",
+  "pt": "Qual é, cara, é só uma assinatura."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C52A4",
+  "en": "Are we really doing this right now?",
+  "pt": "A gente vai mesmo fazer isso agora?"
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C52C8",
+  "en": "My uncle is a very PURPLE man.",
+  "pt": "Meu tio é um homem muito ROXO."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C52E7",
+  "en": "I know where you live.",
+  "pt": "Eu sei onde você mora."
+ },
+ {
+  "map": "4.2 PEACH'S CASTLE",
+  "offset": "02C52FE",
+  "en": "My sister and I are in-sep-er-a-ti-ble!",
+  "pt": "Eu e a minha irmã somos in-se-pa-rá-veis!"
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C55F4",
+  "en": "ÌÎÌ\\nTOADSWORTH",
+  "pt": ""
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C55F8",
+  "en": "TOADSWORTH",
+  "pt": "TOADSWORTH",
+  "max_width": 66
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5603",
+  "en": "MASTER MARIO, MASTER LUIGI, it seems\\nlike you have not finished your lessons.\\pI'll heal your party, but come back once\\nthey have been completed.",
+  "pt": "MESTRE MARIO, MESTRE LUIGI, parece que vocês não terminaram as suas lições.\\pVou curar a sua equipe, mas voltem quando as tiverem concluído."
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5694",
+  "en": "MASTER MARIO, it seems like you have\\nnot finished your lessons.\\pI'll heal your party, but come back once\\nthey have been completed.",
+  "pt": "MESTRE MARIO, parece que você não terminou as suas lições.\\pVou curar a sua equipe, mas volte quando as tiver concluído."
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5717",
+  "en": "MASTER MARIO. MASTER LUIGI. Swell job\\nmaking it to me.\\pHere, let me heal your party.",
+  "pt": "MESTRE MARIO. MESTRE LUIGI. Excelente trabalho ao chegarem até mim.\\pPermitam-me curar a sua equipe."
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C576C",
+  "en": "MASTER MARIO. Swell job making it to me.\\pHere, let me heal your party.",
+  "pt": "MESTRE MARIO. Excelente trabalho ao chegar até mim.\\pPermita-me curar a sua equipe."
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C57B3",
+  "en": "Now then, I believe we understand what\\nis unfolding?\\pMind you, I am no pushover, so I hope\\nyou have taken notes from your\\lprevious battles.\\pShall we begin?",
+  "pt": "Pois bem, creio que todos entendemos o que está acontecendo?\\pMas atenção: não sou nenhum molenga, então espero que as batalhas anteriores tenham servido de lição.\\pVamos começar?"
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5855",
+  "en": "Let's go, BRO!",
+  "pt": "Vamos nessa, MANO!"
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5864",
+  "en": "Oho! It seems you two still have quite a\\nbit to learn about this game. Fear not,\\lyou can proceed onwards to the\\lPRINCESS all the same!",
+  "pt": "Oho! Parece que vocês dois ainda têm muito a aprender sobre este jogo. Não temam, podem seguir até a PRINCESA mesmo assim!"
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C58FF",
+  "en": "Well done. Allow me to heal your party.",
+  "pt": "Muito bem. Permita-me curar a sua equipe."
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5927",
+  "en": "Now then, the PRINCESS is waiting.\\pTalk to her, and you will earn your first\\nPOWER STAR.",
+  "pt": "Pois bem, a PRINCESA está esperando.\\pFale com ela e você ganhará a sua primeira ESTRELA DE PODER."
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5980",
+  "en": "The PRINCESS is waiting for you.",
+  "pt": "A PRINCESA está esperando por você."
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C59A1",
+  "en": "I came to PEACH's CASTLE in hopes of\\ngetting a job as a court shaman, but\\lTOADSWORTH turned me down.\\pWhy does he get to make so many calls?",
+  "pt": "Eu vim ao CASTELO DA PEACH na esperança de conseguir um emprego de xamã da corte, mas o TOADSWORTH me recusou.\\pPor que é ele que toma tantas decisões?"
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5A2D",
+  "en": "I want to get through this challenge\\nefficiently!\\pThat's why I'm running calcs for each of\\nmy battles.\\pIf you didn't know, 'calcs' is short for\\ncalculations!",
+  "pt": "Quero passar por este desafio com eficiência!\\pPor isso estou fazendo os calcs de cada uma das minhas batalhas.\\pCaso você não saiba, 'calcs' é abreviação de cálculos!"
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5ACB",
+  "en": "I'm trying to stock up on as many items\\nas I can! No sharing!",
+  "pt": "Estou tentando estocar o máximo de itens que eu puder! Nada de dividir!"
+ },
+ {
+  "map": "4.3 PEACH'S CASTLE",
+  "offset": "02C5B09",
+  "en": "AWW DID\\nI WIN",
+  "pt": "AAH EU\\nGANHEI"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6603",
+  "en": "Congratulations on completing the\\ntests!\\pI hope TOADSWORTH didn't give you a\\nrough time?",
+  "pt": "Parabéns por concluírem os testes!\\pEspero que o TOADSWORTH não tenha dado muito trabalho a vocês?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6667",
+  "en": "My sincerest apologies PRINCESS, for I\\nwas unable to defeat MASTER MARIO and\\lMASTER LUIGI.",
+  "pt": "Minhas mais sinceras desculpas, PRINCESA, pois não consegui derrotar o MESTRE MARIO e o MESTRE LUIGI."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C66C2",
+  "en": "That's quite alright. Now, on the topic\\nof POWER STARS.",
+  "pt": "Não tem problema algum. Agora, sobre o assunto das ESTRELAS DE PODER."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C66FA",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6700",
+  "en": "What was that noise?",
+  "pt": "Que barulho foi esse?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6715",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C671B",
+  "en": "Ahem…",
+  "pt": "Hum-hum…"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6721",
+  "en": "Introducing his ROYAL HIGHNESS!\\pThe scourge to your eyes and nostrils!\\pThe KING of the KOOPAS!\\pKING-",
+  "pt": "Apresentando SUA REAL ALTEZA!\\pO flagelo dos seus olhos e narizes!\\pO REI dos KOOPAS!\\pREI-"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C678A",
+  "en": "PEACH!",
+  "pt": "PEACH!",
+  "max_width": 40
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6791",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6798",
+  "en": "So I'm an outcast again, huh?!\\pWhat'd I do to deserve it this time?!",
+  "pt": "Então eu sou excluído de novo, é?!\\pO que eu fiz pra merecer isso desta vez?!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C67DD",
+  "en": "Shall I read off the list?",
+  "pt": "Quer que eu leia a lista?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C67F8",
+  "en": "CAN IT, BLABBY! I've been on a good\\nstreak for a while now!\\pI haven't kidnapped you in how long?\\n4 days?",
+  "pt": "CALA A BOCA, FALASTRÃO! Eu ando me comportando faz um tempão!\\pHá quanto tempo eu não te sequestro? 4 dias?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6861",
+  "en": "I'm really trying here! And now you're\\nhosting this party and I'm not invited?!\\pI had to hear about this from JUNIOR.",
+  "pt": "Estou me esforçando de verdade! E agora você dá essa festa e eu não sou convidado?!\\pTive que ficar sabendo disso pelo JUNIOR."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C68D7",
+  "en": "JUNIOR!",
+  "pt": "JUNIOR!",
+  "max_width": 46
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C68DF",
+  "en": "YOU GAVE A POWER STAR TO MY BOY JUNIOR\\nINSTEAD OF ME!",
+  "pt": "VOCÊ DEU UMA ESTRELA DE PODER PRO MEU GAROTO JUNIOR EM VEZ DE DAR PRA MIM!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6915",
+  "en": "I…erm…well…you see…",
+  "pt": "Eu… hã… bem… sabe…"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6929",
+  "en": "That's because…you're…a…COMMANDER\\ntoo!\\pYou're one of the best COMMANDERs in\\nthe whole world, surely you had to find\\lout yourself!",
+  "pt": "É porque… você… também é… um COMANDANTE!\\pVocê é um dos melhores COMANDANTES do mundo inteiro, com certeza ia descobrir sozinho!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C69AB",
+  "en": "{FONT 00}PRINCESS, I don't think he's going to\\nbuy that.{FONT 01}",
+  "pt": "{FONT 00}PRINCESA, acho que ele não vai cair nessa.{FONT 01}"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C69E1",
+  "en": "{FONT 00}Give him a moment…{FONT 01}",
+  "pt": "{FONT 00}Dê um momento a ele…{FONT 01}"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C69FA",
+  "en": "BWAHAHAHAHAHA!\\pYou finally admit how AWESOME and\\nAMAZING my skills are!\\pAlright, I'll play! Let me gather my\\nplatoons to mop the floor of this\\lparty!",
+  "pt": "BWAHAHAHAHAHA!\\pAté que enfim você admite o quanto as minhas habilidades são INCRÍVEIS e FANTÁSTICAS!\\pTudo bem, eu vou jogar! Deixa só eu reunir os meus pelotões pra varrer o chão com essa festa!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6A90",
+  "en": "I'm sorry, but that's against the rules.",
+  "pt": "Sinto muito, mas isso é contra as regras."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6AB9",
+  "en": "THERE ARE RULES?! HOW WAS I SUPPOSED\\nTO KNOW THAT?!",
+  "pt": "TEM REGRAS?! COMO É QUE EU IA SABER DISSO?!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6AED",
+  "en": "Sire, if I may interject.",
+  "pt": "Majestade, se me permite um aparte."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6B07",
+  "en": "You have the floor.",
+  "pt": "A palavra é sua."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6B1B",
+  "en": "No need, I'm already on it.\\pTOADSWORTH sent out a pamphlet\\nexplaining how everything plays.\\pI've been reading it to the PRINCE for\\nbedtime.",
+  "pt": "Não precisa, já estou cuidando disso.\\pO TOADSWORTH mandou um panfleto explicando como tudo funciona.\\pEu ando lendo ele pro PRÍNCIPE na hora de dormir."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6BA7",
+  "en": "Hand it over!",
+  "pt": "Me dá isso aqui!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6BB5",
+  "en": "{FONT 00}So you see here…{FONT 01}",
+  "pt": "{FONT 00}Então, veja aqui…{FONT 01}"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6BCC",
+  "en": "{FONT 00}Only up to 6 CAPTURES…{FONT 01}",
+  "pt": "{FONT 00}Só até 6 CAPTURAS…{FONT 01}"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6BE9",
+  "en": "{FONT 00}…It explains here…{FONT 01}",
+  "pt": "{FONT 00}…Aqui explica que…{FONT 01}"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6C02",
+  "en": "{FONT 00}…You see that rule? I'm going to choose\\nto ignore it…{FONT 01}",
+  "pt": "{FONT 00}…Tá vendo essa regra? Vou escolher ignorar ela…{FONT 01}"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6C3E",
+  "en": "Sire! Surely you jest!",
+  "pt": "Majestade! Só pode estar brincando!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6C55",
+  "en": "Too bad!\\pIf that disqualifies me then I'll win by\\nmy own means.\\pTHROUGH FORCE!",
+  "pt": "Que pena!\\pSe isso me desclassifica, então vou vencer do meu jeito.\\pÀ FORÇA!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6CA4",
+  "en": "MARIO! I'm going to make an example out\\nof you!",
+  "pt": "MARIO! Vou fazer de você um exemplo!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6CD4",
+  "en": "Be careful, bro!\\pBOWSER can be plotting anything!",
+  "pt": "Cuidado, mano!\\pO BOWSER pode estar tramando qualquer coisa!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6D67",
+  "en": "WHAT? BUT HOW?",
+  "pt": "QUÊ? MAS COMO?",
+  "max_width": 84
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6D76",
+  "en": "You need to treat your party with love\\nand affection.",
+  "pt": "Você precisa tratar a sua equipe com amor e carinho."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6DAC",
+  "en": "No, I think it's because he doesn't know\\nhow to play yet.",
+  "pt": "Não, acho que é porque ele ainda não sabe jogar."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6DE6",
+  "en": "I don't recall asking you, GREEN\\n'STACHE, and I can play perfectly fine!\\pI just need to get some training in!\\pYeah, that's it! Since KAMEK knows this\\ngame by the book already, he's going to\\lbe my C.A.P. CHALLENGE TACTICIAN!\\pThis isn't the last you've seen of me!\\nMark my words, your wish will be mine\\lPEACH!\\pBAHAHAHA!",
+  "pt": "Não lembro de ter perguntado nada pra você, BIGODE VERDE, e eu sei jogar perfeitamente!\\pSó preciso treinar um pouco!\\pÉ isso aí! Como o KAMEK já sabe tudo deste jogo de cor e salteado, ele vai ser o meu ESTRATEGISTA do DESAFIO C.A.P.!\\pVocês ainda não se livraram de mim! Guarde as minhas palavras, PEACH: o seu desejo vai ser meu!\\pBAHAHAHA!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6F24",
+  "en": "KAMEK! Lift yourself off the floor,\\nwe've got scheming to do.",
+  "pt": "KAMEK! Levanta desse chão, temos planos malignos pra tramar."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6F62",
+  "en": "Yes, my liege…",
+  "pt": "Sim, meu soberano…"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6F71",
+  "en": "TOADSWORTH?",
+  "pt": "TOADSWORTH?",
+  "max_width": 72
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6F7D",
+  "en": "Yes PRINCESS?",
+  "pt": "Sim, PRINCESA?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6F8B",
+  "en": "JUNIOR?",
+  "pt": "JUNIOR?",
+  "max_width": 48
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6F93",
+  "en": "PRINCESS, this party was a hastened\\neffort, along with the desire to\\lexclude BOWSER and KAMEK.",
+  "pt": "PRINCESA, esta festa foi organizada às pressas, junto com o desejo de excluir o BOWSER e o KAMEK."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C6FF2",
+  "en": "Let's have a discussion about that\\nlater.",
+  "pt": "Vamos conversar sobre isso mais tarde."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C701C",
+  "en": "Don't worry PRINCESS! We'll get the\\nPOWER STARS before BOWSER does!",
+  "pt": "Não se preocupe, PRINCESA! Vamos pegar as ESTRELAS DE PODER antes do BOWSER!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7060",
+  "en": "I know you both will. Which reminds me,\\nyou still need the POWER STAR from the\\lMUSHROOM KINGDOM.\\pThere's only one more battle you need\\nto win to get one.",
+  "pt": "Sei que vão conseguir. E isso me lembra que vocês ainda precisam da ESTRELA DE PODER do REINO DOS COGUMELOS.\\pSó falta vencer mais uma batalha para conseguir uma."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C70FA",
+  "en": "That's right! You hold the MUSHROOM\\nKINGDOM POWER STAR!",
+  "pt": "É verdade! Você tem a ESTRELA DE PODER do REINO DOS COGUMELOS!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7132",
+  "en": "I'll only fight one of you at a time, so\\ndecide who wants to challenge me first.",
+  "pt": "Só vou lutar com um de vocês por vez, então decidam quem quer me desafiar primeiro."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7183",
+  "en": "Hey bro, I'm still a little shaken from\\nBOWSER, so you can fight the PRINCESS\\lfirst.\\pHere, I'll heal your CAPTURES too!",
+  "pt": "Ei, mano, eu ainda estou meio abalado por causa do BOWSER, então pode lutar com a PRINCESA primeiro.\\pTome, vou curar as suas CAPTURAS também!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C71FB",
+  "en": "LUIGI healed your party!",
+  "pt": "LUIGI curou a sua equipe!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7214",
+  "en": "You got this!",
+  "pt": "Você consegue!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7222",
+  "en": "You should head on back to the WARP\\nZONE, MARIO.\\pThe pipe to WORLD 2 should be open by\\nnow. Good luck!",
+  "pt": "Volte para a ZONA WARP, MARIO.\\pO cano para o MUNDO 2 já deve estar aberto. Boa sorte!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7289",
+  "en": "I am PRINCESS PEACH of the MUSHROOM\\nKINGDOM, and I accept your challenge!",
+  "pt": "Eu sou a PRINCESA PEACH do REINO DOS COGUMELOS, e aceito o seu desafio!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C72D3",
+  "en": "Aww…did I lose?",
+  "pt": "Ahh… eu perdi?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C72E3",
+  "en": "MARIO received the MUSHROOM KINGDOM\\nPOWER STAR!",
+  "pt": "MARIO recebeu a ESTRELA DE PODER do REINO DOS COGUMELOS!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7313",
+  "en": "With this POWER STAR, you'll be able to\\nrally and motivate higher leveled\\lteammates!\\pOn top of that, I'd like to give you\\nsomething that could help your team\\lout.",
+  "pt": "Com esta ESTRELA DE PODER, você vai conseguir liderar e motivar companheiros de nível mais alto!\\pAlém disso, gostaria de dar a você algo que pode ajudar a sua equipe."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C73B6",
+  "en": "What I just gave you is a Training\\nModule, or TM for short.\\pIt's a video that teaches your\\nCAPTURES how to use special moves! This\\lone is called CHARM!",
+  "pt": "O que acabei de te dar é um Training Module, ou TM: um Módulo de Treino.\\pÉ um vídeo que ensina golpes especiais às suas CAPTURAS! Este se chama ENCANTAR!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C744E",
+  "en": "I have one more thing for you, hold on\\njust a moment.",
+  "pt": "Tenho mais uma coisa para você, espere só um momento."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7484",
+  "en": "Here MARIO, take this YOSHI EGG. I have\\nfaith that you'll raise them well.",
+  "pt": "Tome, MARIO, fique com este OVO DE YOSHI. Tenho fé de que você vai criá-lo bem."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C74CF",
+  "en": "MARIO obtained the YOSHI EGG!",
+  "pt": "MARIO obteve o OVO DE YOSHI!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C74ED",
+  "en": "The EGG was sent to the CAPTURE\\nSTORAGE SYSTEM.",
+  "pt": "O OVO foi enviado para o SISTEMA DE ARMAZENAMENTO DE CAPTURAS."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C751D",
+  "en": "Ok LUIGI, now it's your turn. Are you\\nready?",
+  "pt": "Ok, LUIGI, agora é a sua vez. Está pronto?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C754A",
+  "en": "Ready as I'll ever be, PRINCESS!",
+  "pt": "Mais pronto impossível, PRINCESA!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C756B",
+  "en": "I'll catch up with you later, MARIO!",
+  "pt": "Te encontro depois, MARIO!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7590",
+  "en": "Congratulations on your first POWER\\nSTAR, MASTER MARIO.\\pTake good care of the YOSHI EGG the\\nPRINCESS gave you.\\pI hear that YOSHI have the capability\\nto turn into a variety of types, so I\\ldaresay it will be a great asset to you\\lin the future.",
+  "pt": "Parabéns pela sua primeira ESTRELA DE PODER, MESTRE MARIO.\\pCuide bem do OVO DE YOSHI que a PRINCESA lhe deu.\\pDizem que os YOSHIS conseguem se transformar em vários tipos diferentes, então ouso dizer que ele será de grande valia para você no futuro."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7682",
+  "en": "MASTER MARIO, please allow me to heal\\nyour party before you face the\\lPRINCESS.",
+  "pt": "MESTRE MARIO, permita-me curar a sua equipe antes de enfrentar a PRINCESA."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C76D1",
+  "en": "Good luck MASTER MARIO!",
+  "pt": "Boa sorte, MESTRE MARIO!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C76E9",
+  "en": "Alright bro, wish me luck!",
+  "pt": "Beleza, mano, me deseje sorte!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7704",
+  "en": "Good luck bro! I'll go after you.",
+  "pt": "Boa sorte, mano! Eu vou depois de você."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7726",
+  "en": "CAPTAIN TOAD",
+  "pt": "CAPTAIN TOAD",
+  "max_width": 75
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7733",
+  "en": "Hi, MARIO! Are you here for another\\nrematch?",
+  "pt": "Oi, MARIO! Veio pra mais uma revanche?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7760",
+  "en": "Great! HAMMER BRO and I am ready to\\nfinally beat you!",
+  "pt": "Ótimo! Eu e o HAMMER BRO estamos prontos pra finalmente vencer você!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C77C5",
+  "en": "Whew! Battling against you is always\\nsuch great practice, MARIO! Although I\\lprobably shouldn't be using my full team\\llike this if I'm giving out the first\\lPOWER STAR.\\pCome back again if you ever want\\nanother battle!",
+  "pt": "Ufa! Batalhar contra você é sempre um ótimo treino, MARIO! Mas acho que eu não devia usar a minha equipe completa desse jeito, já que sou eu que entrego a primeira ESTRELA DE PODER.\\pVolte quando quiser outra batalha!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C789D",
+  "en": "That's alright! I'll be here whenever\\nyou're ready.",
+  "pt": "Tudo bem! Vou estar aqui quando você estiver pronto."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C78D1",
+  "en": "MARIO! Surprised to see me?\\pThe PRINCESS is busy with her duties at\\nMUSHROOM HILL, so she asked me to fill\\lin for giving out WORLD 1 POWER STARS!\\pWhich reminds me, we've never actually\\nbattled before! What do you say, wanna\\ltake me and my team on?",
+  "pt": "MARIO! Surpreso em me ver?\\pA PRINCESA está ocupada com os deveres dela na COLINA COGUMELO, então me pediu pra substituí-la na entrega das ESTRELAS DE PODER do MUNDO 1!\\pE isso me lembra que a gente nunca batalhou de verdade! Que tal, quer encarar a mim e a minha equipe?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C79C9",
+  "en": "Alright! I'll warn you, I don't hold back!",
+  "pt": "Beleza! Já vou avisando: eu não pego leve!"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C79F4",
+  "en": "Wow, so that's what it's like to be a\\nC.A.P. CHAMPION! Thanks so much for the\\lbattle, MARIO. Let me give you a little\\lsomething for coming all the way out\\lhere to battle me.",
+  "pt": "Uau, então é assim que é ser um CAMPEÃO C.A.P.! Muito obrigado pela batalha, MARIO. Deixa eu te dar uma coisinha por vir até aqui batalhar comigo."
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C7AA2",
+  "en": "That item will increase the amount of\\nturns SNOW is on the field. It's useful\\lfor strategies involving HAMMER BRO\\llike my own!\\pBy the way, MARIO. If you ever wanna\\nanother rematch with me, just come find\\lme here! I'm always willing to take you\\lon!",
+  "pt": "Esse item aumenta o número de turnos em que a NEVE fica em campo. É útil pra estratégias com HAMMER BRO, como a minha!\\pAliás, MARIO, se algum dia quiser outra revanche comigo, é só vir me procurar aqui! Estou sempre disposto a te enfrentar!"
+ }
+]

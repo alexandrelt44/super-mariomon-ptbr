@@ -1,0 +1,3867 @@
+[
+ {
+  "offset": "0839FCE",
+  "en": "- · … “ ” ‘ ' ♂ ♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 207
+ },
+ {
+  "offset": "0839FD0",
+  "en": "· … “ ” ‘ ' ♂ ♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 198
+ },
+ {
+  "offset": "0839FD2",
+  "en": "… “ ” ‘ ' ♂ ♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 192
+ },
+ {
+  "offset": "0839FD4",
+  "en": "“ ” ‘ ' ♂ ♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 183
+ },
+ {
+  "offset": "0839FD6",
+  "en": "” ‘ ' ♂ ♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "0839FD8",
+  "en": "‘ ' ♂ ♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 165
+ },
+ {
+  "offset": "0839FDA",
+  "en": "' ♂ ♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "0839FDC",
+  "en": "♂ ♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "0839FDE",
+  "en": "♀ ¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "0839FE0",
+  "en": "¥ , × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "0839FE2",
+  "en": ", × / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "0839FE4",
+  "en": "× / A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "0839FE6",
+  "en": "/ A small desk built\\nfor one.",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 110
+ },
+ {
+  "offset": "0839FE8",
+  "en": "A small desk built\\nfor one.",
+  "pt": "Uma mesinha feita\\npara uma pessoa.",
+  "max_lines": 2,
+  "max_width": 101
+ },
+ {
+  "offset": "083A004",
+  "en": "A small desk built in\\nthe shape of a POKé\\nBALL.",
+  "pt": "Uma mesinha no\\nformato de um\\nCAP.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "083A034",
+  "en": "A large desk made\\nof steel. Put some\\ndecorations on it.",
+  "pt": "Uma mesa grande de\\naço. Coloque\\nenfeites nela.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "083A06C",
+  "en": "A large desk made\\nof wood. Put some\\ndecorations on it.",
+  "pt": "Uma mesa grande de\\nmadeira. Coloque\\nenfeites nela.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "083A0A3",
+  "en": "A large desk made\\nof leaves. Put some\\ndecorations on it.",
+  "pt": "Uma mesa grande de\\nfolhas. Coloque\\nenfeites nela.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "083A0DC",
+  "en": "A huge desk made\\nof glass. Holds lots\\nof decorations.",
+  "pt": "Uma mesa enorme de\\nvidro. Cabem muitos\\nenfeites nela.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "083A112",
+  "en": "A huge desk made\\nof brick. Holds lots\\nof decorations.",
+  "pt": "Uma mesa enorme de\\ntijolo. Cabem muitos\\nenfeites nela.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083A148",
+  "en": "A huge desk made\\nof logs. Put lots of\\ndecorations on it.",
+  "pt": "Uma mesa enorme de\\ntoras. Cabem muitos\\nenfeites nela.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083A181",
+  "en": "A huge desk made\\nof rocks. Holds\\nmany decorations.",
+  "pt": "Uma mesa enorme de\\npedra. Cabem\\nmuitos enfeites.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "083A1B4",
+  "en": "A small chair made\\nfor one.",
+  "pt": "Uma cadeirinha\\npara uma pessoa.",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "083A1D0",
+  "en": "A small chair built\\nin the shape of a\\nPOKé BALL.",
+  "pt": "Uma cadeirinha no\\nformato de um\\nCAP.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "083A201",
+  "en": "A small chair made\\nof steel.",
+  "pt": "Uma cadeirinha\\nde aço.",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "083A21E",
+  "en": "A small chair made\\nof glass.",
+  "pt": "Uma cadeirinha\\nde vidro.",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "083A23B",
+  "en": "A small chair made\\nof leaves.",
+  "pt": "Uma cadeirinha\\nde folhas.",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "083A259",
+  "en": "A small chair made\\nof wood.",
+  "pt": "Uma cadeirinha\\nde madeira.",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "083A275",
+  "en": "A small chair made\\nof brick.",
+  "pt": "Uma cadeirinha\\nde tijolo.",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "083A292",
+  "en": "A small chair made\\nof logs.",
+  "pt": "Uma cadeirinha\\nde toras.",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "083A2AE",
+  "en": "A small chair made\\nof rock.",
+  "pt": "Uma cadeirinha\\nde pedra.",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "083A2CA",
+  "en": "A vivid red potted\\nplant.",
+  "pt": "Uma planta vermelha\\nbem viva no vaso.",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "083A2E4",
+  "en": "A flowering tropical\\nplant in a pot.",
+  "pt": "Uma planta tropical\\nflorida num vaso.",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "083A309",
+  "en": "A pot of cute\\nflowers.",
+  "pt": "Um vaso de\\nflores fofas.",
+  "max_lines": 2,
+  "max_width": 79
+ },
+ {
+  "offset": "083A320",
+  "en": "A large pot with\\nmany colorful\\nflowers.",
+  "pt": "Um vaso grande\\ncom muitas flores\\ncoloridas.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "083A348",
+  "en": "A large, umbrella-\\nshaped plant in a\\nbig pot.",
+  "pt": "Uma planta grande,\\nem forma de\\nguarda-chuva.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "083A376",
+  "en": "A large, impressive\\nplant in a big pot.",
+  "pt": "Uma planta grande e\\nimponente no vaso.",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "083A39E",
+  "en": "A red-colored brick.\\nDecorations can be\\nplaced on top.",
+  "pt": "Um tijolo vermelho.\\nDá para colocar\\nenfeites em cima.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "083A3D5",
+  "en": "A yellow-colored\\nbrick. Put some\\ndecorations on top.",
+  "pt": "Um tijolo amarelo.\\nColoque enfeites\\nem cima.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "083A40A",
+  "en": "A blue-colored\\nbrick. Put some\\ndecorations on top.",
+  "pt": "Um tijolo azul.\\nColoque enfeites\\nem cima.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "083A43D",
+  "en": "A red balloon filled\\nwith water. Bursts\\nif stepped on.",
+  "pt": "Um balão vermelho\\ncom água. Estoura\\nse pisarem nele.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "083A474",
+  "en": "A blue balloon filled\\nwith water. Bursts\\nif stepped on.",
+  "pt": "Um balão azul cheio\\nde água. Estoura\\nse pisarem nele.",
+  "max_lines": 3,
+  "max_width": 115
+ },
+ {
+  "offset": "083A4AC",
+  "en": "A yellow balloon\\nfilled with water.\\nPops if stepped on.",
+  "pt": "Um balão amarelo\\ncom água. Estoura\\nse pisarem nele.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "083A4E4",
+  "en": "A large red tent.\\nYou can hide inside\\nit.",
+  "pt": "Uma barraca grande\\nvermelha. Dá para se\\nesconder nela.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "083A50E",
+  "en": "A large blue tent.\\nYou can hide inside\\nit.",
+  "pt": "Uma barraca grande\\nazul. Dá para se\\nesconder nela.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "083A539",
+  "en": "Place over a hole to\\ncross to the other\\nside.",
+  "pt": "Coloque sobre um\\nburaco para chegar\\nao outro lado.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "083A567",
+  "en": "Use to slide down\\nfrom the platform.",
+  "pt": "Use para descer\\nda plataforma.",
+  "max_lines": 2,
+  "max_width": 105
+ },
+ {
+  "offset": "083A58C",
+  "en": "A small fence that\\nblocks passage.",
+  "pt": "Uma cerquinha que\\nimpede a passagem.",
+  "max_lines": 2,
+  "max_width": 105
+ },
+ {
+  "offset": "083A5AF",
+  "en": "A small fence that\\nblocks passage.",
+  "pt": "Uma cerquinha que\\nimpede a passagem.",
+  "max_lines": 2,
+  "max_width": 105
+ },
+ {
+  "offset": "083A5D2",
+  "en": "An old large tire.\\nDecorations can be\\nplaced on top.",
+  "pt": "Um pneu velho e\\ngrande. Dá para pôr\\nenfeites em cima.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "083A607",
+  "en": "A large pedestal\\nwith steps.",
+  "pt": "Pedestal grande\\ncom degraus.",
+  "max_lines": 2,
+  "max_width": 95
+ },
+ {
+  "offset": "083A624",
+  "en": "A large ball of mud.\\nCrumbles if stepped\\non.",
+  "pt": "Uma bola grande de\\nlama. Desmancha se\\npisarem nela.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "083A651",
+  "en": "A weird door that\\npeople can walk\\nright through.",
+  "pt": "Porta estranha:\\ndá para passar\\ndireto por ela.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "083A682",
+  "en": "An ornament made\\nof sand. Crumbles if\\ntouched.",
+  "pt": "Um enfeite feito\\nde areia. Desmancha\\nse tocarem nele.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "083A6B1",
+  "en": "Awarded for 50\\nstraight wins at\\nthe BATTLE TOWER.",
+  "pt": "Prêmio: 50 vitórias\\nseguidas na TORRE\\nDE BATALHA.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "083A6E3",
+  "en": "Awarded for 100\\nstraight wins at\\nthe BATTLE TOWER.",
+  "pt": "Prêmio: 100 vitórias\\nseguidas na TORRE\\nDE BATALHA.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "083A716",
+  "en": "A glass replica of\\na famous sculpture\\nat the ART MUSEUM.",
+  "pt": "Réplica de vidro de\\numa escultura do\\nMUSEU DE ARTE.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "083A74F",
+  "en": "A small, gray-\\ncolored toy TV.",
+  "pt": "TV de brinquedo\\npequena e cinza.",
+  "max_lines": 2,
+  "max_width": 88
+ },
+ {
+  "offset": "083A76E",
+  "en": "A toy TV modeled\\nin the image of a\\nSEEDOT.",
+  "pt": "TV de brinquedo no\\nformato de um\\nSEEDOT.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083A799",
+  "en": "A toy TV modeled\\nin the image of a\\nSKITTY.",
+  "pt": "TV de brinquedo no\\nformato de um\\nSKITTY.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083A7C4",
+  "en": "An odd mat that\\nglitters if stepped\\non.",
+  "pt": "Um tapete estranho\\nque brilha quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083A7EC",
+  "en": "A trick mat that\\njumps when it is\\nstepped on.",
+  "pt": "Um tapete mágico\\nque pula quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "083A81A",
+  "en": "A trick mat that\\nspins around when\\nstepped on.",
+  "pt": "Um tapete mágico\\nque gira quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "083A849",
+  "en": "A mat that plays\\na low C note when\\nstepped on.",
+  "pt": "Tapete que toca\\num Dó grave\\nquando pisado.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "083A878",
+  "en": "A mat that plays\\na D note when\\nstepped on.",
+  "pt": "Tapete que toca\\num Ré quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "083A8A3",
+  "en": "A mat that plays\\nan E note when\\nstepped on.",
+  "pt": "Tapete que toca\\num Mi quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "083A8CF",
+  "en": "A mat that plays\\nan F note when\\nstepped on.",
+  "pt": "Tapete que toca\\num Fá quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "083A8FB",
+  "en": "A mat that plays\\na G note when\\nstepped on.",
+  "pt": "Tapete que toca\\num Sol quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "083A926",
+  "en": "A mat that plays\\nan A note when\\nstepped on.",
+  "pt": "Tapete que toca\\num Lá quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "083A952",
+  "en": "A mat that plays\\na B note when\\nstepped on.",
+  "pt": "Tapete que toca\\num Si quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "083A97D",
+  "en": "A mat that plays\\na high C note when\\nstepped on.",
+  "pt": "Tapete que toca um\\nDó agudo quando\\npisado.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "083A9AD",
+  "en": "A mat designed with\\na SURF image.\\nPut items on top.",
+  "pt": "Um tapete com a\\nimagem de SURFAR.\\nPonha itens em cima.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083A9E1",
+  "en": "A mat designed with\\na THUNDER image.\\nPut items on top.",
+  "pt": "Um tapete com a\\nimagem de TROVÃO.\\nPonha itens em cima.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083AA18",
+  "en": "A mat designed with\\na FIRE BLAST image.\\nPut items on top.",
+  "pt": "Um tapete com a\\nimagem de RAJADA DE\\nFOGO. Ponha itens.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083AA52",
+  "en": "A mat with a POWDER\\nSNOW image design.\\nPut items on top.",
+  "pt": "Um tapete com a\\nimagem de NEVE EM PÓ.\\nPonha itens em cima.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "083AA8B",
+  "en": "A mat designed with\\nan ATTRACT image.\\nPut items on top.",
+  "pt": "Um tapete com a\\nimagem de ATRAÇÃO.\\nPonha itens em cima.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083AAC3",
+  "en": "A mat designed with\\na FISSURE image.\\nPut items on top.",
+  "pt": "Um tapete com a\\nimagem de FISSURA.\\nPonha itens em cima.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083AAFA",
+  "en": "A mat designed with\\na SPIKES image.\\nPut items on top.",
+  "pt": "Um tapete com a\\nimagem de ESPINHOS.\\nPonha itens em cima.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "083AB30",
+  "en": "A small poster\\nprinted with POKé\\nBALLS.",
+  "pt": "Um pôster pequeno\\nestampado com\\nCAPs.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "083AB58",
+  "en": "A small poster with\\na TREECKO print.",
+  "pt": "Um pôster pequeno\\ncom um TREECKO.",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "083AB7D",
+  "en": "A small poster with\\na TORCHIC print.",
+  "pt": "Um pôster pequeno\\ncom um TORCHIC.",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "083ABA2",
+  "en": "A small poster with\\na MUDKIP print.",
+  "pt": "Um pôster pequeno\\ncom um MUDKIP.",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "083ABC6",
+  "en": "A small poster with\\nan AZURILL print.",
+  "pt": "Um pôster pequeno\\ncom um AZURILL.",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "083ABEC",
+  "en": "A large poster with\\na PIKACHU and\\nPICHU print.",
+  "pt": "Um pôster grande\\ncom um PIKACHU e\\num PICHU.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "083AC1B",
+  "en": "A large poster with\\na SEVIPER print.",
+  "pt": "Um pôster grande\\ncom um SEVIPER.",
+  "max_lines": 2,
+  "max_width": 109
+ },
+ {
+  "offset": "083AC40",
+  "en": "A large poster with\\na RELICANTH print.",
+  "pt": "Um pôster grande\\ncom um RELICANTH.",
+  "max_lines": 2,
+  "max_width": 109
+ },
+ {
+  "offset": "083AC67",
+  "en": "A large poster with\\na WINGULL print.",
+  "pt": "Um pôster grande\\ncom um WINGULL.",
+  "max_lines": 2,
+  "max_width": 109
+ },
+ {
+  "offset": "083AC8C",
+  "en": "A large poster with\\na SMOOCHUM print.",
+  "pt": "Um pôster grande\\ncom um SMOOCHUM.",
+  "max_lines": 2,
+  "max_width": 109
+ },
+ {
+  "offset": "083ACB2",
+  "en": "A PICHU doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de PICHU.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083ACDD",
+  "en": "A PIKACHU doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nPIKACHU.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AD0A",
+  "en": "A MARILL doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de MARILL.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AD36",
+  "en": "A TOGEPI doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de TOGEPI.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AD62",
+  "en": "A CYNDAQUIL doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nCYNDAQUIL.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "083AD91",
+  "en": "A CHIKORITA doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nCHIKORITA.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "083ADC0",
+  "en": "A TOTODILE doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nTOTODILE.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083ADEE",
+  "en": "A JIGGLYPUFF doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nJIGGLYPUFF. Ponha\\nnum tapete ou mesa.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "083AE1E",
+  "en": "A MEOWTH doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de MEOWTH.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AE4A",
+  "en": "A CLEFAIRY doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nCLEFAIRY.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AE78",
+  "en": "A DITTO doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de DITTO.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AEA3",
+  "en": "A SMOOCHUM doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nSMOOCHUM.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AED1",
+  "en": "A TREECKO doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nTREECKO.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AEFE",
+  "en": "A TORCHIC doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nTORCHIC.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AF2B",
+  "en": "A MUDKIP doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de MUDKIP.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AF57",
+  "en": "A DUSKULL doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nDUSKULL.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AF84",
+  "en": "A WYNAUT doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de WYNAUT.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AFB0",
+  "en": "A BALTOY doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de BALTOY.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083AFDC",
+  "en": "A KECLEON doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nKECLEON.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B009",
+  "en": "An AZURILL doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de\\nAZURILL.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B037",
+  "en": "A SKITTY doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de SKITTY.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B063",
+  "en": "A SWABLU doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de SWABLU.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B08F",
+  "en": "A GULPIN doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de GULPIN.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B0BB",
+  "en": "A LOTAD doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de LOTAD.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B0E6",
+  "en": "A SEEDOT doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Boneco de SEEDOT.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B112",
+  "en": "A PIKACHU cushion.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Almofada de\\nPIKACHU. Ponha num\\ntapete ou mesa.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "083B142",
+  "en": "A MARILL cushion.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Almofada de\\nMARILL. Ponha num\\ntapete ou mesa.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "083B171",
+  "en": "A SMOOCHUM\\ncushion. Place it on\\na mat or a desk.",
+  "pt": "Almofada de\\nSMOOCHUM. Ponha num\\ntapete ou mesa.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "083B1A2",
+  "en": "A ZIGZAGOON\\ncushion. Place it on\\na mat or a desk.",
+  "pt": "Almofada de\\nZIGZAGOON. Ponha num\\ntapete ou mesa.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "083B1D4",
+  "en": "A SPINDA cushion.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Almofada de\\nSPINDA. Ponha num\\ntapete ou mesa.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "083B203",
+  "en": "A SABLEYE cushion.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Almofada de\\nSABLEYE. Ponha num\\ntapete ou mesa.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "083B233",
+  "en": "A BALL cushion.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Uma almofada de\\nbola. Ponha num\\ntapete ou mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B260",
+  "en": "A grass-mark\\ncushion. Place it on\\na mat or a desk.",
+  "pt": "Uma almofada com\\nsímbolo de planta.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "083B293",
+  "en": "A fire-mark\\ncushion. Place it on\\na mat or a desk.",
+  "pt": "Uma almofada com\\nsímbolo de fogo.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "083B2C5",
+  "en": "A water-mark\\ncushion. Place it on\\na mat or a desk.",
+  "pt": "Uma almofada com\\nsímbolo de água.\\nPonha num tapete.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "083B2F8",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B323",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B34E",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B379",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B3A4",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B3CF",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B3FA",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B425",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B450",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B47B",
+  "en": "A large doll.\\nPlace it on a mat\\nor a desk.",
+  "pt": "Um boneco grande.\\nPonha num tapete\\nou numa mesa.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "083B4A8",
+  "en": " SMALL DESK",
+  "pt": " MESINHA",
+  "max_width": 66
+ },
+ {
+  "offset": "083B4A9",
+  "en": "SMALL DESK",
+  "pt": "MESINHA",
+  "max_width": 63
+ },
+ {
+  "offset": "084E994",
+  "en": "FLOWER SHOP",
+  "pt": "FLORICULT.",
+  "max_width": 69
+ },
+ {
+  "offset": "084E9A0",
+  "en": "PETALBURG WOODS",
+  "pt": "PETALBURG WOODS",
+  "max_width": 93
+ },
+ {
+  "offset": "084E9B0",
+  "en": "MR. BRINEY'S COTTAGE",
+  "pt": "CHALÉ DO SR. BRINEY",
+  "max_width": 132
+ },
+ {
+  "offset": "084E9C5",
+  "en": "ABANDONED SHIP",
+  "pt": "NAVIO ABANDON.",
+  "max_width": 87
+ },
+ {
+  "offset": "084E9D4",
+  "en": "SEASHORE HOUSE",
+  "pt": "CASA DE PRAIA",
+  "max_width": 87
+ },
+ {
+  "offset": "084E9E3",
+  "en": "SLATEPORT BEACH",
+  "pt": "PRAIA SLATEPORT",
+  "max_width": 93
+ },
+ {
+  "offset": "084E9F3",
+  "en": "CYCLING ROAD",
+  "pt": "CICLOVIA",
+  "max_width": 75
+ },
+ {
+  "offset": "084EA00",
+  "en": "NEW MAUVILLE",
+  "pt": "NEW MAUVILLE",
+  "max_width": 75
+ },
+ {
+  "offset": "084EA0D",
+  "en": "TRICK HOUSE",
+  "pt": "CASA TRUQUES",
+  "max_width": 69
+ },
+ {
+  "offset": "084EA19",
+  "en": "OLD LADY'S REST STOP",
+  "pt": "PARADA DA VOVÓ",
+  "max_width": 132
+ },
+ {
+  "offset": "084EA2E",
+  "en": "DESERT",
+  "pt": "DESERTO",
+  "max_width": 42
+ },
+ {
+  "offset": "084EA35",
+  "en": "THE WINSTRATE FAMILY",
+  "pt": "A FAMÍLIA WINSTRATE",
+  "max_width": 138
+ },
+ {
+  "offset": "084EA4A",
+  "en": "CABLE CAR",
+  "pt": "BONDINHO",
+  "max_width": 57
+ },
+ {
+  "offset": "084EA54",
+  "en": "GLASS WORKSHOP",
+  "pt": "OFICINA VIDRO",
+  "max_width": 87
+ },
+ {
+  "offset": "084EA63",
+  "en": "WEATHER INSTITUTE",
+  "pt": "INSTITUTO DO CLIMA",
+  "max_width": 123
+ },
+ {
+  "offset": "084EA75",
+  "en": "METEOR FALLS",
+  "pt": "METEOR FALLS",
+  "max_width": 75
+ },
+ {
+  "offset": "084EA82",
+  "en": "TUNNELER'S RESTHOUSE",
+  "pt": "DESCANSO DO ESCAVADOR",
+  "max_width": 138
+ },
+ {
+  "offset": "084EA97",
+  "en": "RUSTURF TUNNEL",
+  "pt": "RUSTURF TUNNEL",
+  "max_width": 87
+ },
+ {
+  "offset": "084EAA6",
+  "en": "POKéMON DAY CARE",
+  "pt": "CRECHE CAPTURA",
+  "max_width": 114
+ },
+ {
+  "offset": "084EAB7",
+  "en": "SAFARI ZONE ENTRANCE",
+  "pt": "ENTRADA ZONA SAFÁRI",
+  "max_width": 138
+ },
+ {
+  "offset": "084EACC",
+  "en": "MT. PYRE",
+  "pt": "MT. PYRE",
+  "max_width": 48
+ },
+ {
+  "offset": "084EAD5",
+  "en": "SHOAL CAVE",
+  "pt": "SHOAL CAVE",
+  "max_width": 63
+ },
+ {
+  "offset": "084EAE0",
+  "en": "SEAFLOOR CAVERN",
+  "pt": "SEAFLOOR CAVERN",
+  "max_width": 93
+ },
+ {
+  "offset": "084EAF0",
+  "en": "GRANITE CAVE",
+  "pt": "GRANITE CAVE",
+  "max_width": 75
+ },
+ {
+  "offset": "084EAFD",
+  "en": "OCEAN CURRENT",
+  "pt": "CORRENTEZA",
+  "max_width": 81
+ },
+ {
+  "offset": "084EB0B",
+  "en": "LANETTE'S HOUSE",
+  "pt": "CASA DA LANETTE",
+  "max_width": 90
+ },
+ {
+  "offset": "084EB1B",
+  "en": "FIERY PATH",
+  "pt": "FIERY PATH",
+  "max_width": 63
+ },
+ {
+  "offset": "084EB26",
+  "en": "JAGGED PASS",
+  "pt": "JAGGED PASS",
+  "max_width": 69
+ },
+ {
+  "offset": "084EB32",
+  "en": "SKY PILLAR",
+  "pt": "SKY PILLAR",
+  "max_width": 63
+ },
+ {
+  "offset": "084EB3D",
+  "en": "BERRY MASTER'S HOUSE",
+  "pt": "CASA DO MESTRE FRUTA",
+  "max_width": 135
+ },
+ {
+  "offset": "084EB52",
+  "en": "ISLAND CAVE",
+  "pt": "ISLAND CAVE",
+  "max_width": 69
+ },
+ {
+  "offset": "084EB5E",
+  "en": "DESERT RUINS",
+  "pt": "DESERT RUINS",
+  "max_width": 75
+ },
+ {
+  "offset": "084EB6B",
+  "en": "SCORCHED SLAB",
+  "pt": "SCORCHED SLAB",
+  "max_width": 81
+ },
+ {
+  "offset": "084EB79",
+  "en": "ANCIENT TOMB",
+  "pt": "ANCIENT TOMB",
+  "max_width": 75
+ },
+ {
+  "offset": "084EB86",
+  "en": "SEALED CHAMBER",
+  "pt": "SEALED CHAMBER",
+  "max_width": 87
+ },
+ {
+  "offset": "084EB95",
+  "en": "FOSSIL MANIAC'S HOUSE",
+  "pt": "CASA DO FÃ DE FÓSSEIS",
+  "max_width": 141
+ },
+ {
+  "offset": "084EBAB",
+  "en": "HUNTER'S HOUSE",
+  "pt": "CASA DO CAÇADOR",
+  "max_width": 84
+ },
+ {
+  "offset": "084EBC8",
+  "en": "MIRAGE TOWER",
+  "pt": "MIRAGE TOWER",
+  "max_width": 75
+ },
+ {
+  "offset": "084EBD5",
+  "en": "ALTERING CAVE",
+  "pt": "ALTERING CAVE",
+  "max_width": 81
+ },
+ {
+  "offset": "084EBE3",
+  "en": "DESERT UNDERPASS",
+  "pt": "DESERT UNDERPASS",
+  "max_width": 99
+ },
+ {
+  "offset": "084EBF4",
+  "en": "TRAINER HILL",
+  "pt": "TRAINER HILL",
+  "max_width": 75
+ },
+ {
+  "offset": "084EC2C",
+  "en": "ou{SUPER_E}Ë",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "084ECA4",
+  "en": "Rv{SUPER_E}Ë",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "084ECAC",
+  "en": "av{SUPER_E}Ë",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "085FB1F",
+  "en": "{FD 00} gained{PLAYER}\\n{FD 34} EXP. Points!\\p",
+  "pt": "{FD 00} ganhou{PLAYER}\\n{FD 34} pontos de EXP.!\\p"
+ },
+ {
+  "offset": "085FB3D",
+  "en": " a boosted",
+  "pt": " um bônus de",
+  "max_width": 78
+ },
+ {
+  "offset": "085FB48",
+  "en": "{FD 00} grew to\\nLV. {PLAYER}!{WAIT_SE}\\p",
+  "pt": "{FD 00} subiu para o\\nnível {PLAYER}!{WAIT_SE}\\p"
+ },
+ {
+  "offset": "085FB5E",
+  "en": "{FD 00} learned\\n{PLAYER}!{WAIT_SE}\\p",
+  "pt": "{FD 00} aprendeu\\n{PLAYER}!{WAIT_SE}\\p"
+ },
+ {
+  "offset": "085FB70",
+  "en": "{FD 00} is trying to\\nlearn {PLAYER}.\\p",
+  "pt": "{FD 00} está tentando\\naprender {PLAYER}.\\p"
+ },
+ {
+  "offset": "085FB8B",
+  "en": "But, {FD 00} can't learn\\nmore than four moves.\\p",
+  "pt": "Mas {FD 00} não pode aprender\\nmais de quatro golpes.\\p"
+ },
+ {
+  "offset": "085FBB6",
+  "en": "Delete a move to make\\nroom for {PLAYER}?",
+  "pt": "Apagar um golpe para\\ndar lugar a {PLAYER}?",
+  "max_lines": 2,
+  "max_width": 122
+ },
+ {
+  "offset": "085FBD9",
+  "en": "{FD 00} forgot\\n{PLAYER}.\\p",
+  "pt": "{FD 00} esqueceu\\n{PLAYER}.\\p"
+ },
+ {
+  "offset": "085FBE8",
+  "en": "{PAUSE 20}Stop learning\\n{PLAYER}?",
+  "pt": "{PAUSE 20}Não aprender\\n{PLAYER}?",
+  "max_lines": 2,
+  "max_width": 80
+ },
+ {
+  "offset": "085FBFD",
+  "en": "{FD 00} did not learn\\n{PLAYER}.\\p",
+  "pt": "{FD 00} não aprendeu\\n{PLAYER}.\\p"
+ },
+ {
+  "offset": "085FC13",
+  "en": "Use next CAPTURE?",
+  "pt": "Usar próxima CAPTURA?",
+  "max_width": 120
+ },
+ {
+  "offset": "085FC25",
+  "en": "{FD 0F}'s\\nattack missed!",
+  "pt": "{FD 0F}\\nerrou o ataque!",
+  "max_lines": 2,
+  "max_width": 87
+ },
+ {
+  "offset": "085FC39",
+  "en": "{FD 10}\\nprotected itself!",
+  "pt": "{FD 10}\\nse protegeu!",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "085FC4E",
+  "en": "{FD 10} avoided\\ndamage with {FD 19}!",
+  "pt": "{FD 10} evitou o\\ndano com {FD 19}!",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "085FC69",
+  "en": "{FD 10} makes GROUND\\nmoves miss with {FD 19}!",
+  "pt": "Golpes TERRESTRES erram\\n{FD 10} por {FD 19}!",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "085FC8D",
+  "en": "{FD 10} avoided\\nthe attack!",
+  "pt": "{FD 10} evitou\\no ataque!",
+  "max_lines": 2,
+  "max_width": 95
+ },
+ {
+  "offset": "085FCA4",
+  "en": "It doesn't affect\\n{FD 10}…",
+  "pt": "Não afeta\\n{FD 10}…",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "085FCBA",
+  "en": "{FD 0F}\\nfainted!\\p",
+  "pt": "{FD 0F}\\ndesmaiou!\\p"
+ },
+ {
+  "offset": "085FCC7",
+  "en": "{FD 10}\\nfainted!\\p",
+  "pt": "{FD 10}\\ndesmaiou!\\p"
+ },
+ {
+  "offset": "085FCD4",
+  "en": "MARIO got ¥{FD 00}\\nfor winning!\\p",
+  "pt": "MARIO ganhou ¥{FD 00}\\npela vitória!\\p"
+ },
+ {
+  "offset": "085FCF0",
+  "en": "MARIO is out of\\nusable CAPTURES!\\pMARIO lost against\\n{FD 1C} {FD 1D}!{PAUSE_UNTIL_PRESS}",
+  "pt": "MARIO não tem mais\\nCAPTURAS para lutar!\\pMARIO perdeu para\\n{FD 1C} {FD 1D}!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "085FD2D",
+  "en": "MARIO paid ¥{FD 00} as the prize\\nmoney…\\p… … … …\\pMARIO whited out!{PAUSE_UNTIL_PRESS}",
+  "pt": "MARIO pagou ¥{FD 00} de\\nprêmio…\\p… … … …\\pMARIO desmaiou!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "085FD6C",
+  "en": "CAPTAIN TOAD is out of\\nusable CAPTURES!\\pCAPTAIN TOAD lost against\\n{FD 1C} {FD 1D}!{PAUSE_UNTIL_PRESS}",
+  "pt": "CAPTAIN TOAD não tem mais\\nCAPTURAS para lutar!\\pCAPTAIN TOAD perdeu para\\n{FD 1C} {FD 1D}!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "085FDB7",
+  "en": "CAPTAIN TOAD paid ¥{FD 00} as the prize\\nmoney…\\p… … … …\\nCAPTAIN TOAD whited out!{PAUSE_UNTIL_PRESS}",
+  "pt": "CAPTAIN TOAD pagou ¥{FD 00} de\\nprêmio…\\p… … … …\\nCAPTAIN TOAD desmaiou!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "085FE04",
+  "en": "MARIO is out of\\nusable CAPTURES!\\p",
+  "pt": "MARIO não tem mais\\nCAPTURAS para lutar!\\p"
+ },
+ {
+  "offset": "085FE26",
+  "en": "MARIO panicked and lost ¥{FD 00}…\\p… … … …\\pMARIO whited out!{PAUSE_UNTIL_PRESS}",
+  "pt": "MARIO entrou em pânico e\\nperdeu ¥{FD 00}…\\p… … … …\\pMARIO desmaiou!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "085FE5F",
+  "en": "MARIO lost the battle!{PAUSE_UNTIL_PRESS}",
+  "pt": "MARIO perdeu a batalha!{PAUSE_UNTIL_PRESS}",
+  "max_width": 141
+ },
+ {
+  "offset": "085FE78",
+  "en": "{FD 13} prevents\\nescape with {FD 1A}!\\p",
+  "pt": "{FD 13} impede a fuga\\ncom {FD 1A}!\\p"
+ },
+ {
+  "offset": "085FE95",
+  "en": "Can't escape!\\p",
+  "pt": "Não dá para fugir!\\p"
+ },
+ {
+  "offset": "085FEA4",
+  "en": "{FD 0F} can't escape!",
+  "pt": "{FD 0F} não pode fugir!",
+  "max_width": 139
+ },
+ {
+  "offset": "085FEB5",
+  "en": "Hit {FD 00} time(s)!",
+  "pt": "Acertos: {FD 00}!",
+  "max_width": 128
+ },
+ {
+  "offset": "085FEC5",
+  "en": "{FD 11}\\nfell asleep!",
+  "pt": "{FD 11}\\nadormeceu!",
+  "max_lines": 2,
+  "max_width": 71
+ },
+ {
+  "offset": "085FED5",
+  "en": "{FD 13}'s {FD 1A}\\nmade {FD 11} sleep!",
+  "pt": "{FD 1A} de {FD 13}\\nfez {FD 11} dormir!",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "085FEEC",
+  "en": "{FD 10} is\\nalready asleep!",
+  "pt": "{FD 10} já\\nestá dormindo!",
+  "max_lines": 2,
+  "max_width": 90
+ },
+ {
+  "offset": "085FF02",
+  "en": "{FD 0F} is\\nalready asleep!",
+  "pt": "{FD 0F} já\\nestá dormindo!",
+  "max_lines": 2,
+  "max_width": 90
+ },
+ {
+  "offset": "085FF18",
+  "en": "{FD 10}\\nwasn't affected!",
+  "pt": "{FD 10}\\nnão foi afetado!",
+  "max_lines": 2,
+  "max_width": 98
+ },
+ {
+  "offset": "085FF2C",
+  "en": "{FD 11}\\nwas poisoned!",
+  "pt": "{FD 11}\\nse envenenou!",
+  "max_lines": 2,
+  "max_width": 81
+ },
+ {
+  "offset": "085FF3D",
+  "en": "{FD 11} was poisoned by\\n{FD 13}'s {FD 00}!",
+  "pt": "{FD 11} foi envenenado\\npor {FD 00} de {FD 13}!",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "085FF59",
+  "en": "{FD 0F} is hurt\\nby poison!",
+  "pt": "{FD 0F} sofre\\ncom o veneno!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "085FF6F",
+  "en": "{FD 10} is already\\npoisoned.",
+  "pt": "{FD 10} já está\\nenvenenado.",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "085FF87",
+  "en": "{FD 11} is badly\\npoisoned!",
+  "pt": "{FD 11} sofreu\\nveneno grave!",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "085FF9D",
+  "en": "{FD 10} had its\\nenergy drained!",
+  "pt": "{FD 10} teve a\\nenergia drenada!",
+  "max_lines": 2,
+  "max_width": 92
+ },
+ {
+  "offset": "085FFB8",
+  "en": "{FD 11} was burned!",
+  "pt": "{FD 11} se queimou!",
+  "max_width": 129
+ },
+ {
+  "offset": "085FFC7",
+  "en": "{FD 11} got frostbite!",
+  "pt": "{FD 11} sofreu geladura!",
+  "max_width": 145
+ },
+ {
+  "offset": "085FFD9",
+  "en": "{FD 13}'s {FD 1A}\\nburned {FD 11}!",
+  "pt": "{FD 1A} de {FD 13}\\nqueimou {FD 11}!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "085FFEC",
+  "en": "{FD 0F} is hurt\\nby its burn!",
+  "pt": "{FD 0F} sofre\\ncom a queimadura!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "0860004",
+  "en": "{FD 0F} is hurt\\nby its frostbite!",
+  "pt": "{FD 0F} sofre\\ncom a geladura!",
+  "max_lines": 2,
+  "max_width": 99
+ },
+ {
+  "offset": "0860021",
+  "en": "{FD 10} already\\nhas a burn.",
+  "pt": "{FD 10} já está\\nqueimado.",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "0860038",
+  "en": "{FD 11} was\\nfrozen solid!",
+  "pt": "{FD 11}\\ncongelou!",
+  "max_lines": 2,
+  "max_width": 78
+ },
+ {
+  "offset": "086004D",
+  "en": "{FD 13}'s {FD 1A}\\nfroze {FD 11} solid!",
+  "pt": "{FD 1A} de {FD 13}\\ncongelou {FD 11}!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "0860065",
+  "en": "{FD 0F} is\\nfrozen solid!",
+  "pt": "{FD 0F} está\\ncongelado!",
+  "max_lines": 2,
+  "max_width": 78
+ },
+ {
+  "offset": "0860079",
+  "en": "{FD 10} was\\ndefrosted!",
+  "pt": "{FD 10}\\ndescongelou!",
+  "max_lines": 2,
+  "max_width": 73
+ },
+ {
+  "offset": "086008B",
+  "en": "{FD 0F} was\\ndefrosted!",
+  "pt": "{FD 0F}\\ndescongelou!",
+  "max_lines": 2,
+  "max_width": 73
+ },
+ {
+  "offset": "086009D",
+  "en": "{FD 0F} was\\ndefrosted by {FD 14}!",
+  "pt": "{FD 0F} descongelou\\ncom {FD 14}!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "08600B5",
+  "en": "{FD 10}'s\\nfrostbite was healed!",
+  "pt": "A geladura de\\n{FD 10} sarou!",
+  "max_lines": 2,
+  "max_width": 123
+ },
+ {
+  "offset": "08600D0",
+  "en": "{FD 0F}'s\\nfrostbite was healed!",
+  "pt": "A geladura de\\n{FD 0F} sarou!",
+  "max_lines": 2,
+  "max_width": 123
+ },
+ {
+  "offset": "08600EB",
+  "en": "{FD 0F}'s {FD 14}\\nhealed its frostbite!",
+  "pt": "{FD 14} de {FD 0F}\\ncurou a geladura!",
+  "max_lines": 2,
+  "max_width": 121
+ },
+ {
+  "offset": "0860109",
+  "en": "{FD 11} is paralyzed!\\nIt may be unable to move!",
+  "pt": "{FD 11} está paralisado!\\nTalvez não se mova!",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "0860134",
+  "en": "{FD 13}'s {FD 1A}\\nparalyzed {FD 11}!\\lIt may be unable to move!",
+  "pt": "{FD 1A} de {FD 13}\\nparalisou {FD 11}!\\lTalvez não se mova!",
+  "max_lines": 3,
+  "max_width": 141
+ },
+ {
+  "offset": "0860164",
+  "en": "{FD 0F} is paralyzed!\\nIt can't move!",
+  "pt": "A paralisia impede\\n{FD 0F} de se mover!",
+  "max_lines": 2,
+  "max_width": 123
+ },
+ {
+  "offset": "0860184",
+  "en": "{FD 10} is\\nalready paralyzed!",
+  "pt": "{FD 10} já\\nestá paralisado!",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "086019D",
+  "en": "{FD 10} was\\nhealed of paralysis!",
+  "pt": "{FD 10} se curou\\nda paralisia!",
+  "max_lines": 2,
+  "max_width": 115
+ },
+ {
+  "offset": "08601B9",
+  "en": "{FD 10}'s\\ndream was eaten!",
+  "pt": "Sonho de {FD 10}\\nfoi devorado!",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "08601CF",
+  "en": "{FD 0F}'s {FD 00}\\nwon't go higher!",
+  "pt": "{FD 00} de {FD 0F}\\nnão vai subir mais!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "08601E8",
+  "en": "{FD 10}'s {FD 00}\\nwon't go lower!",
+  "pt": "{FD 00} de {FD 10}\\nnão vai cair mais!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0860200",
+  "en": "Your team's {FD 00}\\nstopped working!",
+  "pt": "{FD 00} do seu lado\\nparou de funcionar!",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "0860220",
+  "en": "The foe's {FD 00}\\nstopped working!",
+  "pt": "{FD 00} do inimigo\\nparou de funcionar!",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "086023E",
+  "en": "{FD 0F} is\\nconfused!",
+  "pt": "{FD 0F} se\\nconfunde!",
+  "max_lines": 2,
+  "max_width": 65
+ },
+ {
+  "offset": "086024E",
+  "en": "{FD 0F} snapped\\nout of confusion!",
+  "pt": "{FD 0F} saiu\\nda confusão!",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "086026B",
+  "en": "{FD 11} became\\nconfused!",
+  "pt": "{FD 11} ficou\\nconfuso!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "086027F",
+  "en": "{FD 10} is\\nalready confused!",
+  "pt": "{FD 10} já\\nestá confuso!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "0860297",
+  "en": "{FD 10}\\nfell in love!",
+  "pt": "{FD 10}\\nse apaixonou!",
+  "max_lines": 2,
+  "max_width": 72
+ },
+ {
+  "offset": "08602A8",
+  "en": "{FD 0F} is in love\\nwith {FD 13}!",
+  "pt": "{FD 0F} ama\\n{FD 13}!",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "08602BF",
+  "en": "{FD 0F} is\\nimmobilized by love!",
+  "pt": "{FD 0F} está\\nparalisado de amor!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "08602DA",
+  "en": "{FD 10} was\\nblown away!",
+  "pt": "{FD 10}\\nvoou longe!",
+  "max_lines": 2,
+  "max_width": 73
+ },
+ {
+  "offset": "08602ED",
+  "en": "{FD 0F} transformed\\ninto the {FD 00} type!",
+  "pt": "{FD 0F} virou o\\ntipo {FD 00}!",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "086030E",
+  "en": "{FD 0F} flinched!",
+  "pt": "{FD 0F} recuou!",
+  "max_width": 117
+ },
+ {
+  "offset": "086031B",
+  "en": "{FD 10} regained\\nhealth!",
+  "pt": "{FD 10} recuperou\\nenergia!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "086032F",
+  "en": "{FD 10}'s\\nHP is full!",
+  "pt": "{FD 10}:\\nHP cheio!",
+  "max_lines": 2,
+  "max_width": 62
+ },
+ {
+  "offset": "0860340",
+  "en": "{FD 2A}'s {FD 14}\\nraised SP. DEF!",
+  "pt": "{FD 14} do {FD 2A}\\nsubiu a DEF. ESP.!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0860358",
+  "en": "{FD 2A}'s {FD 14}\\nraised SP. DEF a little!",
+  "pt": "{FD 14} do {FD 2A}:\\nDEF. ESP. subiu um pouco!",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "0860379",
+  "en": "{FD 2A}'s {FD 14}\\nraised DEFENSE!",
+  "pt": "{FD 14} do {FD 2A}\\naumentou a DEFESA!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0860391",
+  "en": "{FD 2A}'s {FD 14}\\nraised DEFENSE a little!",
+  "pt": "{FD 14} do {FD 2A}\\nsubiu um pouco a DEFESA!",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "0860398",
+  "en": "\\nraised DEFENSE a little!",
+  "pt": "\\nsubiu um pouco a DEFESA!",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "08603B2",
+  "en": "{FD 2A}'s party is covered\\nby a veil!",
+  "pt": "A equipe do {FD 2A} está\\ncoberta por um véu!",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08603D3",
+  "en": "{FD 10}'s party is protected\\nby Safeguard!",
+  "pt": "A equipe de {FD 10} está\\nprotegida por Salvaguarda!",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "08603F9",
+  "en": "{FD 2C}'s party is no longer\\nprotected by Safeguard!",
+  "pt": "A equipe do {FD 2C} perdeu\\na proteção de Salvaguarda!",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "0860429",
+  "en": "{FD 0F} went\\nto sleep!",
+  "pt": "{FD 0F}\\nfoi dormir!",
+  "max_lines": 2,
+  "max_width": 79
+ },
+ {
+  "offset": "086043B",
+  "en": "{FD 0F} slept and\\nbecame healthy!",
+  "pt": "{FD 0F} dormiu e\\nficou saudável!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "0860458",
+  "en": "{FD 0F} whipped\\nup a whirlwind!",
+  "pt": "{FD 0F} levantou\\num redemoinho!",
+  "max_lines": 2,
+  "max_width": 95
+ },
+ {
+  "offset": "0860473",
+  "en": "{FD 0F} took\\nin sunlight!",
+  "pt": "{FD 0F} tomou\\nsol!",
+  "max_lines": 2,
+  "max_width": 79
+ },
+ {
+  "offset": "0860488",
+  "en": "{FD 0F} lowered\\nits head!",
+  "pt": "{FD 0F} abaixou\\na cabeça!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "086049D",
+  "en": "{FD 0F} is glowing!",
+  "pt": "{FD 0F} brilha!",
+  "max_width": 124
+ },
+ {
+  "offset": "08604AC",
+  "en": "{FD 0F} flew\\nup high!",
+  "pt": "{FD 0F} voou\\nbem alto!",
+  "max_lines": 2,
+  "max_width": 77
+ },
+ {
+  "offset": "08604BD",
+  "en": "{FD 0F} dug a hole!",
+  "pt": "{FD 0F} fez um buraco!",
+  "max_width": 125
+ },
+ {
+  "offset": "08604CC",
+  "en": "{FD 0F} hid\\nunderwater!",
+  "pt": "{FD 0F}\\nmergulhou!",
+  "max_lines": 2,
+  "max_width": 72
+ },
+ {
+  "offset": "08604DF",
+  "en": "{FD 0F} sprang up!",
+  "pt": "{FD 0F} saltou!",
+  "max_width": 123
+ },
+ {
+  "offset": "08604ED",
+  "en": "{FD 10} was squeezed by\\n{FD 0F}'s BIND!",
+  "pt": "O AMARRAR de {FD 0F}\\nespremeu {FD 10}!",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "086050B",
+  "en": "{FD 10} got trapped\\nby a snap trap!",
+  "pt": "{FD 10} caiu numa\\narmadilha de mola!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "086052A",
+  "en": "{FD 10} was trapped\\nin the vortex!",
+  "pt": "{FD 10} ficou preso\\nno redemoinho!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "0860548",
+  "en": "{FD 10} was trapped\\nby SAND TOMB!",
+  "pt": "{FD 10} ficou preso\\nno FOSSO DE AREIA!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "0860565",
+  "en": "{FD 10} was WRAPPED by\\n{FD 0F}!",
+  "pt": "{FD 10} foi envolvido\\npor {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "086057B",
+  "en": "{FD 0F} CLAMPED\\n{FD 10}!",
+  "pt": "{FD 0F} prendeu\\n{FD 10}!",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "086058A",
+  "en": "{FD 0F} is hurt\\nby {FD 00}!",
+  "pt": "{FD 0F} sofre\\ncom {FD 00}!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "086059C",
+  "en": "{FD 0F} was freed\\nfrom {FD 00}!",
+  "pt": "{FD 0F} se livrou\\nde {FD 00}!",
+  "max_lines": 2,
+  "max_width": 105
+ },
+ {
+  "offset": "08605B2",
+  "en": "{FD 0F} kept going\\nand crashed!",
+  "pt": "{FD 0F} continuou\\ne se espatifou!",
+  "max_lines": 2,
+  "max_width": 110
+ },
+ {
+  "offset": "08605CD",
+  "en": "{FD 2A} became\\nshrouded in MIST!",
+  "pt": "O {FD 2A} se\\nenvolveu em NÉVOA!",
+  "max_lines": 2,
+  "max_width": 101
+ },
+ {
+  "offset": "08605E9",
+  "en": "{FD 13} is protected\\nby MIST!",
+  "pt": "A NÉVOA protege\\n{FD 13}!",
+  "max_lines": 2,
+  "max_width": 121
+ },
+ {
+  "offset": "0860602",
+  "en": "{FD 10} is getting\\npumped!",
+  "pt": "{FD 10} está\\nse empolgando!",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "0860618",
+  "en": "{FD 0F} is hit\\nwith recoil!",
+  "pt": "{FD 0F} sofreu\\no recuo!",
+  "max_lines": 2,
+  "max_width": 84
+ },
+ {
+  "offset": "086062F",
+  "en": "{FD 0F} protected\\nitself!",
+  "pt": "{FD 0F}\\nse protegeu!",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "0860644",
+  "en": "{FD 0F} is buffeted\\nby the sandstorm!",
+  "pt": "A tempestade de areia\\natinge {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "0860665",
+  "en": "{FD 0F} is pelted\\nby HAIL!",
+  "pt": "{FD 0F} é atingido\\npelo GRANIZO!",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "086067B",
+  "en": "{FD 28}'s {FD 00}\\nwore off!",
+  "pt": "{FD 00} do {FD 28}\\nacabou!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "086068D",
+  "en": "{FD 10} was seeded!",
+  "pt": "{FD 10} foi semeado!",
+  "max_width": 130
+ },
+ {
+  "offset": "086069C",
+  "en": "{FD 10} evaded\\nthe attack!",
+  "pt": "{FD 10} desviou\\ndo ataque!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "08606B2",
+  "en": "{FD 0F}'s health is\\nsapped by LEECH SEED!",
+  "pt": "A SEMENTE PARASITA\\ndrena {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "08606D7",
+  "en": "{FD 0F} is fast\\nasleep.",
+  "pt": "{FD 0F} está\\ndormindo pesado.",
+  "max_lines": 2,
+  "max_width": 92
+ },
+ {
+  "offset": "08606EA",
+  "en": "{FD 0F} woke up!",
+  "pt": "{FD 0F} acordou!",
+  "max_width": 112
+ },
+ {
+  "offset": "08606F6",
+  "en": "But {FD 13}'s UPROAR\\nkept it awake!",
+  "pt": "Mas o ALVOROÇO de\\n{FD 13} tirou o sono!",
+  "max_lines": 2,
+  "max_width": 121
+ },
+ {
+  "offset": "0860715",
+  "en": "{FD 0F} woke up\\nin the UPROAR!",
+  "pt": "{FD 0F} acordou\\ncom o ALVOROÇO!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "086072F",
+  "en": "{FD 0F} caused\\nan UPROAR!",
+  "pt": "{FD 0F} causou\\num ALVOROÇO!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "0860744",
+  "en": "{FD 0F} is making\\nan UPROAR!",
+  "pt": "{FD 0F} faz\\num ALVOROÇO!",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "086075C",
+  "en": "{FD 0F} calmed down.",
+  "pt": "{FD 0F} se acalmou.",
+  "max_width": 133
+ },
+ {
+  "offset": "086076C",
+  "en": "But {FD 10} can't\\nsleep in an UPROAR!",
+  "pt": "Mas {FD 10} não\\ndorme no ALVOROÇO!",
+  "max_lines": 2,
+  "max_width": 109
+ },
+ {
+  "offset": "086078D",
+  "en": "{FD 0F} stockpiled\\n{FD 00}!",
+  "pt": "{FD 0F} acumulou\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "086079F",
+  "en": "{FD 0F} can't\\nstockpile any more!",
+  "pt": "{FD 0F} não pode\\nacumular mais!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "08607BC",
+  "en": "But {FD 10} can't\\nsleep in an UPROAR!",
+  "pt": "Mas {FD 10} não\\ndorme no ALVOROÇO!",
+  "max_lines": 2,
+  "max_width": 109
+ },
+ {
+  "offset": "08607DD",
+  "en": "But the UPROAR kept\\n{FD 10} awake!",
+  "pt": "Mas o ALVOROÇO não\\ndeixa {FD 10} dormir!",
+  "max_lines": 2,
+  "max_width": 115
+ },
+ {
+  "offset": "08607FB",
+  "en": "{FD 10} stayed awake\\nusing its {FD 19}!",
+  "pt": "{FD 10} ficou acordado\\ngraças a {FD 19}!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "0860819",
+  "en": "{FD 0F} is storing\\nenergy!",
+  "pt": "{FD 0F} está\\nacumulando energia!",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "086082F",
+  "en": "{FD 0F} unleashed\\nenergy!",
+  "pt": "{FD 0F} liberou\\na energia!",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "0860844",
+  "en": "{FD 0F} became\\nconfused due to fatigue!",
+  "pt": "{FD 0F} ficou confuso\\nde tanto cansaço!",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "0860867",
+  "en": "{FD 23} picked up\\n¥{FD 00}!\\p",
+  "pt": "{FD 23} pegou\\n¥{FD 00}!\\p"
+ },
+ {
+  "offset": "086087A",
+  "en": "{FD 10} is\\nunaffected!",
+  "pt": "{FD 10} não\\nfoi afetado!",
+  "max_lines": 2,
+  "max_width": 74
+ },
+ {
+  "offset": "086088C",
+  "en": "{FD 0F} transformed\\ninto {FD 00}!",
+  "pt": "{FD 0F} virou\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 119
+ },
+ {
+  "offset": "08608A4",
+  "en": "{FD 0F} made\\na SUBSTITUTE!",
+  "pt": "{FD 0F} criou\\num SUBSTITUTO!",
+  "max_lines": 2,
+  "max_width": 83
+ },
+ {
+  "offset": "08608BA",
+  "en": "{FD 0F} already\\nhas a SUBSTITUTE!",
+  "pt": "{FD 0F} já tem\\num SUBSTITUTO!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "08608D7",
+  "en": "The SUBSTITUTE took damage\\nfor {FD 10}!\\p",
+  "pt": "O SUBSTITUTO levou o dano\\nno lugar de {FD 10}!\\p"
+ },
+ {
+  "offset": "08608FB",
+  "en": "{FD 10}'s\\nSUBSTITUTE faded!\\p",
+  "pt": "O SUBSTITUTO de\\n{FD 10} sumiu!\\p"
+ },
+ {
+  "offset": "0860913",
+  "en": "{FD 0F} must\\nrecharge!",
+  "pt": "{FD 0F} deve\\nrecarregar!",
+  "max_lines": 2,
+  "max_width": 79
+ },
+ {
+  "offset": "0860925",
+  "en": "{FD 10}'s RAGE\\nis building!",
+  "pt": "{FD 10} ferve\\nde FÚRIA!",
+  "max_lines": 2,
+  "max_width": 88
+ },
+ {
+  "offset": "086093C",
+  "en": "{FD 10}'s {FD 00}\\nwas disabled!",
+  "pt": "{FD 00} de {FD 10}\\nfoi desabilitado!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0860952",
+  "en": "{FD 0F} is disabled\\nno more!",
+  "pt": "{FD 0F} não está\\nmais desabilitado!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "086096A",
+  "en": "{FD 10} got\\nan ENCORE!",
+  "pt": "{FD 10} fará\\num BIS!",
+  "max_lines": 2,
+  "max_width": 73
+ },
+ {
+  "offset": "086097C",
+  "en": "{FD 0F}'s ENCORE\\nended!",
+  "pt": "O BIS de {FD 0F}\\nacabou!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "086098F",
+  "en": "{FD 0F} took aim\\nat {FD 10}!",
+  "pt": "{FD 0F} mirou\\nem {FD 10}!",
+  "max_lines": 2,
+  "max_width": 98
+ },
+ {
+  "offset": "08609A2",
+  "en": "{FD 0F} SKETCHED\\n{FD 00}!",
+  "pt": "{FD 0F} ESBOÇOU\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "08609B2",
+  "en": "{FD 0F} is trying\\nto take its foe with it!",
+  "pt": "{FD 0F} quer levar\\no inimigo junto!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "08609D8",
+  "en": "{FD 10} took\\n{FD 0F} with it!",
+  "pt": "{FD 10} levou\\n{FD 0F} junto!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "08609EC",
+  "en": "Reduced {FD 10}'s\\n{FD 00} by {PLAYER}!",
+  "pt": "Reduziu {FD 00} de\\n{FD 10} em {PLAYER}!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "0860A03",
+  "en": "{FD 0F} stole\\n{FD 10}'s {FD 16}!",
+  "pt": "{FD 0F} roubou\\n{FD 16} de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 110
+ },
+ {
+  "offset": "0860A15",
+  "en": "{FD 10} can't\\nescape now!",
+  "pt": "{FD 10} já não\\npode fugir!",
+  "max_lines": 2,
+  "max_width": 82
+ },
+ {
+  "offset": "0860A2A",
+  "en": "{FD 10} fell into\\na NIGHTMARE!",
+  "pt": "{FD 10} caiu num\\nPESADELO!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0860A44",
+  "en": "{FD 0F} is locked\\nin a NIGHTMARE!",
+  "pt": "{FD 0F} está preso\\nnum PESADELO!",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "0860A61",
+  "en": "{FD 0F} cut its own HP and\\nlaid a CURSE on {FD 10}!",
+  "pt": "{FD 0F} gastou HP e lançou\\nMALDIÇÃO em {FD 10}!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0860A8B",
+  "en": "{FD 0F} is afflicted\\nby the CURSE!",
+  "pt": "{FD 0F} sofre\\ncom a MALDIÇÃO!",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "0860AA9",
+  "en": "Spikes were scattered all around\\n{FD 3B} team!",
+  "pt": "Espinhos se espalharam em volta\\nda equipe {FD 3B}!",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "0860AD3",
+  "en": "{FD 13} is hurt\\nby spikes!",
+  "pt": "{FD 13} se feriu\\nnos espinhos!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "0860AE9",
+  "en": "{FD 0F} identified\\n{FD 10}!",
+  "pt": "{FD 0F} identificou\\n{FD 10}!",
+  "max_lines": 2,
+  "max_width": 109
+ },
+ {
+  "offset": "0860AFB",
+  "en": "{FD 0F}'s PERISH count\\nfell to {FD 00}!",
+  "pt": "Contagem FATAL de\\n{FD 0F}: {FD 00}!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "0860B19",
+  "en": "{FD 0F} braced\\nitself!",
+  "pt": "{FD 0F} se\\npreparou!",
+  "max_lines": 2,
+  "max_width": 90
+ },
+ {
+  "offset": "0860B2B",
+  "en": "{FD 10} ENDURED\\nthe hit!",
+  "pt": "{FD 10} AGUENTOU\\no golpe!",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "0860B3F",
+  "en": "MAGNITUDE {FD 00}!",
+  "pt": "MAGNITUDE {FD 00}!",
+  "max_width": 109
+ },
+ {
+  "offset": "0860B4D",
+  "en": "{FD 0F} cut its own HP\\nand maximized ATTACK!",
+  "pt": "{FD 0F} gastou HP e\\nmaximizou o ATAQUE!",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "0860B75",
+  "en": "{FD 0F} copied\\n{FD 10}'s stat changes!",
+  "pt": "{FD 0F} copiou as\\nalterações de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "0860B92",
+  "en": "{FD 0F} got free of\\n{FD 10}'s {FD 00}!",
+  "pt": "{FD 0F} se livrou de\\n{FD 00} de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "0860BAA",
+  "en": "{FD 0F} shed\\nLEECH SEED!",
+  "pt": "{FD 0F} tirou\\nas sementes!",
+  "max_lines": 2,
+  "max_width": 79
+ },
+ {
+  "offset": "0860BBE",
+  "en": "{FD 0F} blew away\\nspikes!",
+  "pt": "{FD 0F} afastou\\nos espinhos!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "0860BD3",
+  "en": "{FD 0F} fled from\\nbattle!",
+  "pt": "{FD 0F} fugiu\\nda batalha!",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "0860BE8",
+  "en": "{FD 0F} foresaw\\nan attack!",
+  "pt": "{FD 0F} previu\\num ataque!",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "0860BFE",
+  "en": "{FD 10} took the\\n{FD 00} attack!",
+  "pt": "{FD 10} recebeu\\no ataque {FD 00}!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0860C15",
+  "en": "{FD 0F} chose\\n{FD 14} as its destiny!",
+  "pt": "{FD 0F} fez de\\n{FD 14} seu destino!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "0860C31",
+  "en": "{FD 00}'s attack!",
+  "pt": "Ataque de {FD 00}!",
+  "max_width": 118
+ },
+ {
+  "offset": "0860C3E",
+  "en": "{FD 10} became the\\ncenter of attention!",
+  "pt": "{FD 10} virou o\\ncentro das atenções!",
+  "max_lines": 2,
+  "max_width": 119
+ },
+ {
+  "offset": "0860C61",
+  "en": "{FD 0F} began\\ncharging power!",
+  "pt": "{FD 0F} começou\\na se carregar!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "0860C7A",
+  "en": "NATURE POWER turned into\\n{FD 14}!",
+  "pt": "PODER NATUREZA virou\\n{FD 14}!",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "0860C97",
+  "en": "{FD 0F}'s status\\nreturned to normal!",
+  "pt": "O estado de {FD 0F}\\nvoltou ao normal!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "0860CB7",
+  "en": "{FD 10} was subjected\\nto torment!",
+  "pt": "{FD 10} sofre\\ncom o tormento!",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "0860CD4",
+  "en": "{FD 0F} is tightening\\nits focus!",
+  "pt": "{FD 0F} está\\nconcentrado!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "0860CF0",
+  "en": "{FD 10} fell for\\nthe Taunt!",
+  "pt": "{FD 10} caiu na\\nProvocação!",
+  "max_lines": 2,
+  "max_width": 95
+ },
+ {
+  "offset": "0860D07",
+  "en": "{FD 0F} is ready to\\nhelp {FD 10}!",
+  "pt": "{FD 0F} está pronto\\npara ajudar {FD 10}!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "0860D1F",
+  "en": "{FD 0F} switched\\nitems with its opponent!",
+  "pt": "{FD 0F} trocou de\\nitem com o oponente!",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "0860D44",
+  "en": "{FD 0F} obtained\\n{FD 00}.",
+  "pt": "{FD 0F} obteve\\n{FD 00}.",
+  "max_lines": 2,
+  "max_width": 101
+ },
+ {
+  "offset": "0860D54",
+  "en": "{FD 10} obtained\\n{PLAYER}.",
+  "pt": "{FD 10} obteve\\n{PLAYER}.",
+  "max_lines": 2,
+  "max_width": 101
+ },
+ {
+  "offset": "0860D64",
+  "en": "{FD 0F} obtained\\n{FD 00}.\\p{FD 10} obtained\\n{PLAYER}.",
+  "pt": "{FD 0F} obteve\\n{FD 00}.\\p{FD 10} obteve\\n{PLAYER}."
+ },
+ {
+  "offset": "0860D84",
+  "en": "{FD 0F} copied\\n{FD 10}'s {FD 19}!",
+  "pt": "{FD 0F} copiou\\n{FD 19} de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 110
+ },
+ {
+  "offset": "0860D97",
+  "en": "{FD 0F} made a WISH!",
+  "pt": "{FD 0F} fez um DESEJO!",
+  "max_width": 133
+ },
+ {
+  "offset": "0860DA7",
+  "en": "{FD 00}'s WISH\\ncame true!",
+  "pt": "O DESEJO de\\n{FD 00} vingou!",
+  "max_lines": 2,
+  "max_width": 88
+ },
+ {
+  "offset": "0860DBC",
+  "en": "{FD 0F} planted its roots!",
+  "pt": "{FD 0F} criou raízes!",
+  "max_width": 164
+ },
+ {
+  "offset": "0860DD2",
+  "en": "{FD 0F} absorbed\\nnutrients with its roots!",
+  "pt": "{FD 0F} absorveu\\nnutrientes pelas raízes!",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "0860DF8",
+  "en": "{FD 10} anchored\\nitself with its roots!",
+  "pt": "{FD 10} se fixou\\ncom as raízes!",
+  "max_lines": 2,
+  "max_width": 122
+ },
+ {
+  "offset": "0860E1B",
+  "en": "{FD 0F} made\\n{FD 10} drowsy!",
+  "pt": "{FD 0F} deixou\\n{FD 10} com sono!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "0860E2E",
+  "en": "{FD 0F} knocked off\\n{FD 10}'s {FD 16}!",
+  "pt": "{FD 0F} arrancou\\n{FD 16} de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "0860E46",
+  "en": "{FD 0F} swapped abilities\\nwith its opponent!",
+  "pt": "{FD 0F} trocou habilidades\\ncom o oponente!",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "0860E6E",
+  "en": "{FD 0F} sealed the\\nopponent's move(s)!",
+  "pt": "{FD 0F} selou os\\ngolpes do oponente!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "0860E90",
+  "en": "{FD 0F} wants the\\nopponent to bear a GRUDGE!",
+  "pt": "{FD 0F} quer que o oponente\\nguarde RESSENTIMENTO!",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "0860EB8",
+  "en": "{FD 0F}'s {FD 00} lost\\nall its PP due to the GRUDGE!",
+  "pt": "{FD 00} de {FD 0F} perdeu\\ntodo o PP pelo RESSENTIMENTO!",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "0860EE3",
+  "en": "{FD 0F} shrouded\\nitself in {FD 14}!",
+  "pt": "{FD 0F} se cobriu\\ncom {FD 14}!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "0860EFD",
+  "en": "{FD 0F}'s {FD 14}\\nwas bounced back by MAGIC COAT!",
+  "pt": "{FD 14} de {FD 0F} foi\\nrebatido pela CAPA MÁGICA!",
+  "max_lines": 2,
+  "max_width": 179
+ },
+ {
+  "offset": "0860F25",
+  "en": "{FD 0F} waits for a target\\nto make a move!",
+  "pt": "{FD 0F} espera o alvo\\nusar um golpe!",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "0860F4B",
+  "en": "{FD 10} SNATCHED\\n{FD 13}'s move!",
+  "pt": "{FD 10} ARREBATOU\\no golpe de {FD 13}!",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "0860F62",
+  "en": "Electricity's power was\\nweakened!",
+  "pt": "O poder da eletricidade\\nenfraqueceu!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "0860F84",
+  "en": "Fire's power was\\nweakened!",
+  "pt": "O poder do fogo\\nenfraqueceu!",
+  "max_lines": 2,
+  "max_width": 93
+ },
+ {
+  "offset": "0860F9F",
+  "en": "{FD 0F} found\\none {FD 16}!",
+  "pt": "{FD 0F} achou\\n{FD 16}!",
+  "max_lines": 2,
+  "max_width": 85
+ },
+ {
+  "offset": "0860FB0",
+  "en": "A soothing aroma wafted\\nthrough the area!",
+  "pt": "Um aroma calmante\\nse espalhou pela área!",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "0860FDA",
+  "en": "Items can't be used now.{PAUSE 40}",
+  "pt": "Não pode usar itens agora.{PAUSE 40}",
+  "max_width": 150
+ },
+ {
+  "offset": "0860FF6",
+  "en": "For {FD 13},\\n{FD 16} {FD 00}",
+  "pt": "Para {FD 13},\\n{FD 16} {FD 00}",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "0861004",
+  "en": "{FD 13} used\\n{FD 16} to get pumped!",
+  "pt": "{FD 13} usou\\n{FD 16} e se empolgou!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "086101E",
+  "en": "{FD 0F} lost its\\nfocus and couldn't move!",
+  "pt": "{FD 0F} perdeu o foco\\ne não conseguiu agir!",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "0861043",
+  "en": "{FD 10} was\\ndragged out!\\p",
+  "pt": "{FD 10} foi\\narrastado para fora!\\p"
+ },
+ {
+  "offset": "0861058",
+  "en": "The wall shattered!",
+  "pt": "A barreira se quebrou!",
+  "max_width": 125
+ },
+ {
+  "offset": "086106C",
+  "en": "But it had no effect!",
+  "pt": "Mas não teve efeito!",
+  "max_width": 134
+ },
+ {
+  "offset": "0861082",
+  "en": "{FD 0F} has no\\nmoves left!\\p",
+  "pt": "{FD 0F} não tem mais\\ngolpes!\\p"
+ },
+ {
+  "offset": "0861099",
+  "en": "{FD 0F}'s {FD 14}\\nis disabled!\\p",
+  "pt": "{FD 14} de {FD 0F}\\nestá desabilitado!\\p"
+ },
+ {
+  "offset": "08610AF",
+  "en": "{FD 0F} can't use the same\\nmove in a row due to the Torment!\\p",
+  "pt": "{FD 0F} não pode usar o mesmo\\ngolpe seguido por causa do Tormento!\\p"
+ },
+ {
+  "offset": "08610E8",
+  "en": "{FD 0F} can't use\\n{FD 14} after the Taunt!\\p",
+  "pt": "{FD 0F} não pode usar\\n{FD 14} depois da Provocação!\\p"
+ },
+ {
+  "offset": "086110A",
+  "en": "{FD 0F} can't use the\\nsealed {FD 14}!\\p",
+  "pt": "{FD 0F} não pode usar\\n{FD 14}, que foi selado!\\p"
+ },
+ {
+  "offset": "0861127",
+  "en": "{FD 0F} can't use\\n{FD 14} due to Throat Chop!\\p",
+  "pt": "{FD 0F} não pode usar\\n{FD 14} por causa do Golpe Garganta!\\p"
+ },
+ {
+  "offset": "086114C",
+  "en": "{FD 13}'s {FD 1A}\\nmade it rain!",
+  "pt": "{FD 1A} de {FD 13}\\nfez chover!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0861162",
+  "en": "{FD 13}'s {FD 1A}\\nraised its SPEED!",
+  "pt": "{FD 1A} de {FD 13}\\nsubiu a VELOCIDADE!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "086117C",
+  "en": "{FD 10} was protected\\nby {FD 19}!",
+  "pt": "{FD 10} foi protegido\\npor {FD 19}!",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "0861194",
+  "en": "{FD 10}'s {FD 19}\\nprevents {FD 0F}\\lfrom using {FD 14}!",
+  "pt": "{FD 19} de {FD 10}\\nimpede {FD 0F}\\lde usar {FD 14}!",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "08611B7",
+  "en": "{FD 10} restored HP\\nusing its {FD 19}!",
+  "pt": "{FD 10} recuperou HP\\ncom {FD 19}!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "08611D4",
+  "en": "{FD 10}'s {FD 19}\\nmade {FD 14} useless!",
+  "pt": "{FD 19} de {FD 10}\\ntornou {FD 14} inútil!",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "08611ED",
+  "en": "{FD 10}'s {FD 19}\\nmade it the {FD 00} type!",
+  "pt": "{FD 19} de {FD 10}\\no deixou do tipo {FD 00}!",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "086120A",
+  "en": "{FD 11}'s {FD 19}\\nprevents paralysis!",
+  "pt": "{FD 19} de {FD 11}\\nimpede a paralisia!",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "0861226",
+  "en": "{FD 10}'s {FD 19}\\nprevents romance!",
+  "pt": "{FD 19} de {FD 10}\\nimpede o romance!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0861240",
+  "en": "{FD 11}'s {FD 19}\\nprevents poisoning!",
+  "pt": "{FD 19} de {FD 11}\\nimpede o veneno!",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "086125C",
+  "en": "{FD 10}'s {FD 19}\\nprevents confusion!",
+  "pt": "{FD 19} de {FD 10}\\nimpede a confusão!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "0861278",
+  "en": "{FD 10}'s {FD 19}\\nraised its FIRE power!",
+  "pt": "{FD 19} de {FD 10}\\nsubiu o poder de FOGO!",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "0861297",
+  "en": "{FD 10} anchors\\nitself with {FD 19}!",
+  "pt": "{FD 10} se fixa\\ncom {FD 19}!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "08612B2",
+  "en": "{FD 13}'s {FD 1A}\\ncuts {FD 10}'s attack!",
+  "pt": "{FD 1A} de {FD 13}\\nenfraquece {FD 10}!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "08612CC",
+  "en": "{FD 13}'s {FD 1A}\\nprevents stat loss!",
+  "pt": "{FD 1A} de {FD 13}\\nprotege atributos!",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "08612E8",
+  "en": "{FD 0F} was hurt by\\n{FD 10}'s {FD 00}!",
+  "pt": "{FD 0F} se feriu com\\n{FD 00} de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "0861300",
+  "en": "{FD 13} TRACED\\n{FD 00}'s {PLAYER}!",
+  "pt": "{FD 13} RASTREOU\\n{PLAYER} de {FD 00}!",
+  "max_lines": 2,
+  "max_width": 110
+ },
+ {
+  "offset": "0861313",
+  "en": "{FD 11}'s {FD 1B}\\nprevents burns!",
+  "pt": "{FD 1B} de {FD 11}\\nimpede queimaduras!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "086132B",
+  "en": "{FD 10}'s {FD 19}\\nblocks {FD 14}!",
+  "pt": "{FD 19} de {FD 10}\\nbloqueia {FD 14}!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "086133E",
+  "en": "{FD 13}'s {FD 1A}\\nblocks {FD 14}!",
+  "pt": "{FD 1A} de {FD 13}\\nbloqueia {FD 14}!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0861351",
+  "en": "{FD 0F}'s {FD 18}\\nrestored its HP a little!",
+  "pt": "{FD 18} de {FD 0F}\\nrecuperou um pouco de HP!",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "0861373",
+  "en": "{FD 13}'s {FD 1A}\\nwhipped up a sandstorm!",
+  "pt": "{FD 1A} de {FD 13}\\nfez a areia soprar!",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "0861393",
+  "en": "{FD 13}'s {FD 1A}\\nintensified the sun's rays!",
+  "pt": "{FD 1A} de {FD 13}\\nintensificou o sol!",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08613B7",
+  "en": "{FD 13}'s {FD 1A}\\nprevents {FD 00} loss!",
+  "pt": "{FD 1A} de {FD 13}\\nevita perder {FD 00}!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "08613D1",
+  "en": "{FD 10}'s {FD 19}\\ninfatuated {FD 0F}!",
+  "pt": "{FD 19} de {FD 10}\\nencantou {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "08613E8",
+  "en": "{FD 10}'s {FD 19}\\nmade {FD 14} ineffective!",
+  "pt": "{FD 19} de {FD 10}\\ntornou {FD 14} ineficaz!",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "0861405",
+  "en": "{FD 13}'s {FD 1A}\\ncured its {FD 00} problem!",
+  "pt": "{FD 1A} de {FD 13}\\nacabou com {FD 00}!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0861423",
+  "en": "It sucked up the\\nLIQUID OOZE!",
+  "pt": "Absorveu a\\nGOSMA LÍQUIDA!",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "0861441",
+  "en": "{FD 13} transformed!",
+  "pt": "{FD 13} se transformou!",
+  "max_width": 137
+ },
+ {
+  "offset": "0861451",
+  "en": "{FD 10}'s {FD 19}\\ntook the attack!",
+  "pt": "{FD 19} de {FD 10}\\nrecebeu o ataque!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "086146A",
+  "en": "{FD 00}'s {FD 17}\\nprevents switching!\\p",
+  "pt": "{FD 17} de {FD 00}\\nimpede a troca!\\p"
+ },
+ {
+  "offset": "0861487",
+  "en": "{FD 10}'s {FD 19}\\nprevented {FD 13}'s\\l{FD 00} from working!",
+  "pt": "{FD 19} de {FD 10}\\nbloqueou {FD 00}\\lde {FD 13}!",
+  "max_lines": 3,
+  "max_width": 124
+ },
+ {
+  "offset": "08614AF",
+  "en": "{FD 13}'s {FD 1A}\\nmade it ineffective!",
+  "pt": "{FD 1A} de {FD 13}\\ntornou tudo ineficaz!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "08614CC",
+  "en": "{FD 11}'s {FD 1B}\\nprevents flinching!",
+  "pt": "{FD 1B} de {FD 11}\\nimpede o recuo!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "08614E8",
+  "en": "{FD 0F}'s {FD 18}\\nprevents {FD 10}'s\\l{FD 19} from working!",
+  "pt": "{FD 18} de {FD 0F}\\nimpede que {FD 19}\\lde {FD 10} funcione!",
+  "max_lines": 3,
+  "max_width": 124
+ },
+ {
+  "offset": "086150F",
+  "en": "{FD 13}'s {FD 1A}\\nprevents {FD 10}'s\\l{FD 19} from working!",
+  "pt": "{FD 1A} de {FD 13}\\nimpede que {FD 19}\\lde {FD 10} funcione!",
+  "max_lines": 3,
+  "max_width": 124
+ },
+ {
+  "offset": "0861536",
+  "en": "{FD 13}'s {FD 1A}\\ncured its {FD 00} problem!",
+  "pt": "{FD 1A} de {FD 13}\\nacabou com {FD 00}!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0861554",
+  "en": "{FD 13}'s {FD 1A}\\nhad no effect on {FD 11}!",
+  "pt": "{FD 1A} de {FD 13}\\nnão afetou {FD 11}!",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "0861571",
+  "en": "sharply ",
+  "pt": "fortemente ",
+  "max_width": 66
+ },
+ {
+  "offset": "086157A",
+  "en": "rose!",
+  "pt": "subiu!",
+  "max_width": 51
+ },
+ {
+  "offset": "0861580",
+  "en": "harshly ",
+  "pt": "fortemente ",
+  "max_width": 66
+ },
+ {
+  "offset": "0861589",
+  "en": "fell!",
+  "pt": "caiu!",
+  "max_width": 48
+ },
+ {
+  "offset": "08615A5",
+  "en": "Using {FD 16}, the {FD 00}\\nof {FD 13} {PLAYER}",
+  "pt": "Com {FD 16}, {FD 00}\\nde {FD 13} {PLAYER}",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "08615D5",
+  "en": "{FD 0F}'s stats won't\\ngo any higher!",
+  "pt": "Atributos de {FD 0F}\\nnão vão subir mais!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "08615F5",
+  "en": "{FD 10}'s stats won't\\ngo any lower!",
+  "pt": "Atributos de {FD 10}\\nnão vão cair mais!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "0861614",
+  "en": "A critical hit!",
+  "pt": "Golpe crítico!",
+  "max_width": 97
+ },
+ {
+  "offset": "0861624",
+  "en": "It's a one-hit KO!",
+  "pt": "Nocaute num só golpe!",
+  "max_width": 116
+ },
+ {
+  "offset": "0861663",
+  "en": "And…\\p",
+  "pt": "E…\\p"
+ },
+ {
+  "offset": "0861669",
+  "en": "HM moves can't be\\nforgotten now.\\p",
+  "pt": "Golpes de HM não podem\\nser esquecidos agora.\\p"
+ },
+ {
+  "offset": "086168B",
+  "en": "It's not very effective…",
+  "pt": "Não é muito eficaz…",
+  "max_width": 153
+ },
+ {
+  "offset": "08616A4",
+  "en": "It's super effective!",
+  "pt": "É super eficaz!",
+  "max_width": 136
+ },
+ {
+  "offset": "08616BA",
+  "en": "{PLAY_SE 11 00}Got away safely!\\p",
+  "pt": "{PLAY_SE 11 00}Fugiu em segurança!\\p"
+ },
+ {
+  "offset": "08616D0",
+  "en": "{PLAY_SE 11 00}{FD 0F} fled\\nusing its {FD 16}!\\p",
+  "pt": "{PLAY_SE 11 00}{FD 0F} fugiu\\nusando {FD 16}!\\p"
+ },
+ {
+  "offset": "08616EB",
+  "en": "{PLAY_SE 11 00}{FD 0F} fled\\nusing {FD 18}!\\p",
+  "pt": "{PLAY_SE 11 00}{FD 0F} fugiu\\nusando {FD 18}!\\p"
+ },
+ {
+  "offset": "0861702",
+  "en": "{PLAY_SE 11 00}Wild {FD 00} fled!",
+  "pt": "{PLAY_SE 11 00}Inimigo {FD 00} fugiu!",
+  "max_width": 118
+ },
+ {
+  "offset": "0861714",
+  "en": "Player defeated\\n{FD 20}!",
+  "pt": "Você derrotou\\n{FD 20}!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "0861728",
+  "en": "Player beat {FD 20}\\nand {FD 21}!",
+  "pt": "Você venceu {FD 20}\\ne {FD 21}!",
+  "max_lines": 2,
+  "max_width": 115
+ },
+ {
+  "offset": "086173F",
+  "en": "Player lost against\\n{FD 20}!",
+  "pt": "Você perdeu para\\n{FD 20}!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "0861757",
+  "en": "Player lost to {FD 20}\\nand {FD 21}!",
+  "pt": "Você perdeu para\\n{FD 20} e {FD 21}!",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "0861771",
+  "en": "Player battled to a draw against\\n{FD 20}!",
+  "pt": "Você empatou a batalha contra\\n{FD 20}!",
+  "max_lines": 2,
+  "max_width": 179
+ },
+ {
+  "offset": "0861796",
+  "en": "Player battled to a draw against\\n{FD 20} and {FD 21}!",
+  "pt": "Você empatou a batalha contra\\n{FD 20} e {FD 21}!",
+  "max_lines": 2,
+  "max_width": 179
+ },
+ {
+  "offset": "08617C2",
+  "en": "{PLAY_SE 11 00}{FD 20} fled!",
+  "pt": "{PLAY_SE 11 00}{FD 20} fugiu!",
+  "max_width": 95
+ },
+ {
+  "offset": "08617CF",
+  "en": "{PLAY_SE 11 00}{FD 20} and\\n{FD 21} fled!",
+  "pt": "{PLAY_SE 11 00}{FD 20} e\\n{FD 21} fogem!",
+  "max_lines": 2,
+  "max_width": 81
+ },
+ {
+  "offset": "08617E3",
+  "en": "No! There's no running\\nfrom a TRAINER battle!\\p",
+  "pt": "Não! Não dá para fugir de\\numa batalha de TREINADOR!\\p"
+ },
+ {
+  "offset": "0861812",
+  "en": "Can't escape!\\p",
+  "pt": "Não dá para fugir!\\p"
+ },
+ {
+  "offset": "0861821",
+  "en": "PROF. BIRCH: Don't leave me like this!\\p",
+  "pt": "PROF. BIRCH: Não me deixe assim!\\p"
+ },
+ {
+  "offset": "0861849",
+  "en": "But nothing happened!",
+  "pt": "Mas nada aconteceu!",
+  "max_width": 140
+ },
+ {
+  "offset": "086185F",
+  "en": "But it failed!",
+  "pt": "Mas falhou!",
+  "max_width": 94
+ },
+ {
+  "offset": "086186E",
+  "en": "It hurt itself in its\\nconfusion!",
+  "pt": "Feriu a si mesmo\\nna confusão!",
+  "max_lines": 2,
+  "max_width": 115
+ },
+ {
+  "offset": "086188F",
+  "en": "The Mirror Move failed!",
+  "pt": "O Golpe Espelho falhou!",
+  "max_width": 142
+ },
+ {
+  "offset": "08618A7",
+  "en": "It started to rain!",
+  "pt": "Começou a chover!",
+  "max_width": 123
+ },
+ {
+  "offset": "08618BB",
+  "en": "A downpour started!",
+  "pt": "Começou um temporal!",
+  "max_width": 128
+ },
+ {
+  "offset": "08618CF",
+  "en": "Rain continues to fall.",
+  "pt": "A chuva continua.",
+  "max_width": 142
+ },
+ {
+  "offset": "08618E7",
+  "en": "The downpour continues.",
+  "pt": "O temporal continua.",
+  "max_width": 150
+ },
+ {
+  "offset": "08618FF",
+  "en": "The rain stopped.",
+  "pt": "A chuva parou.",
+  "max_width": 114
+ },
+ {
+  "offset": "0861911",
+  "en": "A sandstorm brewed!",
+  "pt": "Tempestade de areia!",
+  "max_width": 128
+ },
+ {
+  "offset": "0861925",
+  "en": "The sandstorm rages.",
+  "pt": "A areia segue soprando.",
+  "max_width": 133
+ },
+ {
+  "offset": "086193A",
+  "en": "The sandstorm subsided.",
+  "pt": "A tempestade de areia parou.",
+  "max_width": 150
+ },
+ {
+  "offset": "0861952",
+  "en": "The sunlight got bright!",
+  "pt": "A luz do sol ficou forte!",
+  "max_width": 150
+ },
+ {
+  "offset": "086196B",
+  "en": "The sunlight is strong.",
+  "pt": "A luz do sol está forte.",
+  "max_width": 143
+ },
+ {
+  "offset": "0861983",
+  "en": "The sunlight faded.",
+  "pt": "O sol enfraqueceu.",
+  "max_width": 125
+ },
+ {
+  "offset": "0861997",
+  "en": "It started to hail!",
+  "pt": "Começou a cair granizo!",
+  "max_width": 122
+ },
+ {
+  "offset": "08619AB",
+  "en": "Hail continues to fall.",
+  "pt": "O granizo continua.",
+  "max_width": 140
+ },
+ {
+  "offset": "08619C3",
+  "en": "The hail stopped.",
+  "pt": "O granizo parou.",
+  "max_width": 113
+ },
+ {
+  "offset": "08619D5",
+  "en": "It started to snow!",
+  "pt": "Começou a nevar!",
+  "max_width": 126
+ },
+ {
+  "offset": "08619E9",
+  "en": "Snow continues to fall.",
+  "pt": "A neve continua.",
+  "max_width": 144
+ },
+ {
+  "offset": "0861A01",
+  "en": "The snow stopped.",
+  "pt": "A neve parou.",
+  "max_width": 117
+ },
+ {
+  "offset": "0861A13",
+  "en": "But it failed to spit up\\na thing!",
+  "pt": "Mas não conseguiu\\ncuspir nada!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "0861A35",
+  "en": "But it failed to swallow\\na thing!",
+  "pt": "Mas não conseguiu\\nengolir nada!",
+  "max_lines": 2,
+  "max_width": 132
+ },
+ {
+  "offset": "0861A57",
+  "en": "The wind turned into a\\nHEAT WAVE!",
+  "pt": "O vento virou uma\\nONDA DE CALOR!",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "0861A79",
+  "en": "All stat changes were\\neliminated!",
+  "pt": "Todas as mudanças de\\natributo sumiram!",
+  "max_lines": 2,
+  "max_width": 122
+ },
+ {
+  "offset": "0861A9B",
+  "en": "Coins scattered everywhere!",
+  "pt": "Moedas voaram para todo lado!",
+  "max_width": 173
+ },
+ {
+  "offset": "0861AB7",
+  "en": "It was too weak to make\\na SUBSTITUTE!",
+  "pt": "Está fraco demais para\\ncriar um SUBSTITUTO!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "0861ADD",
+  "en": "The battlers shared\\ntheir pain!",
+  "pt": "Os dois dividiram\\na dor!",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "0861AFD",
+  "en": "A bell chimed!",
+  "pt": "Um sino tocou!",
+  "max_width": 94
+ },
+ {
+  "offset": "0861B0C",
+  "en": "All affected CAPTURES will\\nfaint in three turns!",
+  "pt": "As CAPTURAS afetadas vão\\ndesmaiar em três turnos!",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "0861B3D",
+  "en": "There's no PP left for\\nthis move!\\p",
+  "pt": "Não há PP para\\neste golpe!\\p"
+ },
+ {
+  "offset": "0861B60",
+  "en": "But there was no PP left\\nfor the move!",
+  "pt": "Mas não havia PP\\npara o golpe!",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "0861B87",
+  "en": "{FD 0F} ignored\\norders while asleep!",
+  "pt": "{FD 0F} dormiu e\\nignorou as ordens!",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "0861BA7",
+  "en": "{FD 0F} ignored\\norders!",
+  "pt": "{FD 0F} ignorou\\nas ordens!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "0861BBA",
+  "en": "{FD 0F} began to nap!",
+  "pt": "{FD 0F} tirou uma soneca!",
+  "max_width": 139
+ },
+ {
+  "offset": "0861BCB",
+  "en": "{FD 0F} is\\nloafing around!",
+  "pt": "{FD 0F} está\\nde preguiça!",
+  "max_lines": 2,
+  "max_width": 90
+ },
+ {
+  "offset": "0861BE1",
+  "en": "{FD 0F} won't\\nobey!",
+  "pt": "{FD 0F} não\\nobedece!",
+  "max_lines": 2,
+  "max_width": 82
+ },
+ {
+  "offset": "0861BF0",
+  "en": "{FD 0F} turned away!",
+  "pt": "{FD 0F} virou a cara!",
+  "max_width": 135
+ },
+ {
+  "offset": "0861C00",
+  "en": "{FD 0F} pretended\\nnot to notice!",
+  "pt": "{FD 0F} fingiu\\nnão perceber!",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "0861C1C",
+  "en": "{FD 1C} {FD 1D} is\\nabout to use {PLAYER}.\\pWill MARIO change\\nCAPTURES?",
+  "pt": "{FD 1C} {FD 1D} vai\\nusar {PLAYER}.\\pMARIO vai trocar\\nde CAPTURA?"
+ },
+ {
+  "offset": "0861C52",
+  "en": "{FD 0F} learned\\n{FD 00}!",
+  "pt": "{FD 0F} aprendeu\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "0861C61",
+  "en": "Player defeated\\n{FD 1C} {FD 1D}!\\p",
+  "pt": "Você derrotou\\n{FD 1C} {FD 1D}!\\p"
+ },
+ {
+  "offset": "0861C79",
+  "en": "{FD 23} crept closer to\\n{RIVAL}!",
+  "pt": "{FD 23} chegou mais\\nperto de {RIVAL}!",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "0861C90",
+  "en": "{FD 23} can't get any closer!",
+  "pt": "{FD 23} não consegue chegar mais perto!"
+ },
+ {
+  "offset": "0861CA9",
+  "en": "{RIVAL} is watching\\ncarefully!",
+  "pt": "{RIVAL} observa\\ncom atenção!",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "0861CC3",
+  "en": "{RIVAL} is curious about\\nthe {FD 00}!",
+  "pt": "{RIVAL} está curioso com\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "0861CDF",
+  "en": "{RIVAL} is enthralled by\\nthe {FD 00}!",
+  "pt": "{RIVAL} se encantou com\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "0861CFB",
+  "en": "{RIVAL} completely ignored\\nthe {FD 00}!",
+  "pt": "{RIVAL} ignorou totalmente\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "0861D35",
+  "en": "{PLAY_SE 49 00}ANNOUNCER: You're out of\\nSAFARI BALLS! Game over!\\p",
+  "pt": "{PLAY_SE 49 00}LOCUTOR: Acabaram as suas\\nSAFARI BALLS! Fim de jogo!\\p"
+ },
+ {
+  "offset": "0861D7A",
+  "en": "Wild {RIVAL} appeared!\\p",
+  "pt": "{RIVAL} selvagem apareceu!\\p"
+ },
+ {
+  "offset": "0861D8D",
+  "en": "{RIVAL} appeared!\\p",
+  "pt": "{RIVAL} apareceu!\\p"
+ },
+ {
+  "offset": "0861D9B",
+  "en": "Wild {RIVAL} appeared!{PAUSE 7F}",
+  "pt": "Surgiu {RIVAL} selvagem!{PAUSE 7F}",
+  "max_width": 143
+ },
+ {
+  "offset": "0861DB0",
+  "en": "Wild {RIVAL} and\\n{AQUA} appeared!\\p",
+  "pt": "{RIVAL} e {AQUA}\\nselvagens apareceram!\\p"
+ },
+ {
+  "offset": "0861DCA",
+  "en": "{FD 1C} {FD 1D}\\nwould like to battle!\\p",
+  "pt": "{FD 1C} {FD 1D}\\nquer batalhar!\\p"
+ },
+ {
+  "offset": "0861DE7",
+  "en": "{FD 20}\\nwants to battle!",
+  "pt": "{FD 20}\\nquer batalhar!",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "0861DFB",
+  "en": "{FD 20} and {FD 21}\\nwant to battle!",
+  "pt": "{FD 20} e {FD 21}\\nquerem batalhar!",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "0861E15",
+  "en": "{FD 1C} {FD 1D} sent\\nout {RIVAL}!",
+  "pt": "{FD 1C} {FD 1D}\\nmandou {RIVAL}!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "0861E28",
+  "en": "{FD 1C} {FD 1D} sent\\nout {RIVAL} and {AQUA}!",
+  "pt": "{FD 1C} {FD 1D}\\nmandou {RIVAL} e {AQUA}!",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "0861E42",
+  "en": "{FD 1C} {FD 1D} sent\\nout {FD 00}!",
+  "pt": "{FD 1C} {FD 1D}\\nmandou {FD 00}!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "0861E55",
+  "en": "{FD 20} sent out\\n{RIVAL}!",
+  "pt": "{FD 20} mandou\\n{RIVAL}!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0861E65",
+  "en": "{FD 20} sent out\\n{RIVAL} and {AQUA}!",
+  "pt": "{FD 20} mandou\\n{RIVAL} e {AQUA}!",
+  "max_lines": 2,
+  "max_width": 122
+ },
+ {
+  "offset": "0861E7C",
+  "en": "{FD 20} sent out {ARCHIE}!\\n{FD 21} sent out {KYOGRE}!",
+  "pt": "{FD 20} mandou {ARCHIE}!\\n{FD 21} mandou {KYOGRE}!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0861E9C",
+  "en": "{FD 20} sent out\\n{FD 00}!",
+  "pt": "{FD 20} mandou\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0861EAC",
+  "en": "{FD 22} sent out\\n{FD 00}!",
+  "pt": "{FD 22} mandou\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0861EC4",
+  "en": "Go! {KUN} and\\n{VERSION}!",
+  "pt": "Vai! {KUN} e\\n{VERSION}!",
+  "max_lines": 2,
+  "max_width": 92
+ },
+ {
+  "offset": "0861EDB",
+  "en": "Do it! {FD 00}!",
+  "pt": "Vai lá! {FD 00}!",
+  "max_width": 102
+ },
+ {
+  "offset": "0861EE6",
+  "en": "Go for it, {FD 00}!",
+  "pt": "Manda ver, {FD 00}!",
+  "max_width": 121
+ },
+ {
+  "offset": "0861EF5",
+  "en": "Your foe's weak!\\nGet 'em, {FD 00}!",
+  "pt": "Ele está fraco!\\nPega ele, {FD 00}!",
+  "max_lines": 2,
+  "max_width": 98
+ },
+ {
+  "offset": "0861F13",
+  "en": "{FD 1F} sent out {MAXIE}!\\nGo! {MAGMA}!",
+  "pt": "{FD 1F} mandou {MAXIE}!\\nVai! {MAGMA}!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0861F2B",
+  "en": "{FD 00}, that's enough!\\nCome back!",
+  "pt": "{FD 00}, chega!\\nVolte!",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "0861F49",
+  "en": "{FD 00}, come back!",
+  "pt": "{FD 00}, volte!",
+  "max_width": 127
+ },
+ {
+  "offset": "0861F58",
+  "en": "{FD 00}, OK!\\nCome back!",
+  "pt": "{FD 00}, OK!\\nVolte!",
+  "max_lines": 2,
+  "max_width": 74
+ },
+ {
+  "offset": "0861F6B",
+  "en": "{FD 00}, good!\\nCome back!",
+  "pt": "{FD 00}, boa!\\nVolte!",
+  "max_lines": 2,
+  "max_width": 86
+ },
+ {
+  "offset": "0861F80",
+  "en": "{FD 1C} {FD 1D}\\nwithdrew {FD 00}!",
+  "pt": "{FD 1C} {FD 1D}\\nrecolheu {FD 00}!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "0861F93",
+  "en": "{FD 20} withdrew\\n{FD 00}!",
+  "pt": "{FD 20} recolheu\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0861FA3",
+  "en": "{FD 22} withdrew\\n{FD 00}!",
+  "pt": "{FD 22} recolheu\\n{FD 00}!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0861FB3",
+  "en": "Wild ",
+  "pt": "Inimigo ",
+  "max_width": 47
+ },
+ {
+  "offset": "0861FB9",
+  "en": "Foe ",
+  "pt": "Inimigo ",
+  "max_width": 45
+ },
+ {
+  "offset": "0861FBF",
+  "en": "Foe",
+  "pt": "inimigo",
+  "max_width": 42
+ },
+ {
+  "offset": "0861FC3",
+  "en": "Ally",
+  "pt": "aliado",
+  "max_width": 44
+ },
+ {
+  "offset": "0861FC8",
+  "en": "Foe",
+  "pt": "inimigo",
+  "max_width": 42
+ },
+ {
+  "offset": "0861FCC",
+  "en": "Ally",
+  "pt": "aliado",
+  "max_width": 44
+ },
+ {
+  "offset": "0861FD1",
+  "en": "Foe",
+  "pt": "inimigo",
+  "max_width": 42
+ },
+ {
+  "offset": "0861FD5",
+  "en": "Ally",
+  "pt": "aliado",
+  "max_width": 44
+ },
+ {
+  "offset": "0861FDA",
+  "en": "{FD 0F} used\\n{FD 34}!",
+  "pt": "{FD 0F} usou\\n{FD 34}!",
+  "max_lines": 2,
+  "max_width": 79
+ },
+ {
+  "offset": "0861FF0",
+  "en": "HP",
+  "pt": "HP",
+  "max_width": 18
+ },
+ {
+  "offset": "0861FF3",
+  "en": "Attack",
+  "pt": "Ataque",
+  "max_width": 60
+ },
+ {
+  "offset": "0861FFA",
+  "en": "Defense",
+  "pt": "Defesa",
+  "max_width": 66
+ },
+ {
+  "offset": "0862002",
+  "en": "Speed",
+  "pt": "Veloc.",
+  "max_width": 54
+ },
+ {
+  "offset": "0862008",
+  "en": "Sp. Atk",
+  "pt": "Atq. Esp.",
+  "max_width": 60
+ },
+ {
+  "offset": "0862010",
+  "en": "Sp. Def",
+  "pt": "Def. Esp.",
+  "max_width": 60
+ },
+ {
+  "offset": "0862018",
+  "en": "accuracy",
+  "pt": "precisão",
+  "max_width": 71
+ },
+ {
+  "offset": "0862021",
+  "en": "evasiveness",
+  "pt": "evasão",
+  "max_width": 88
+ },
+ {
+  "offset": "0862050",
+  "en": "was too spicy!",
+  "pt": "é picante demais!",
+  "max_width": 98
+ },
+ {
+  "offset": "086205F",
+  "en": "was too dry!",
+  "pt": "é seca demais!",
+  "max_width": 87
+ },
+ {
+  "offset": "086206C",
+  "en": "was too sweet!",
+  "pt": "é doce demais!",
+  "max_width": 100
+ },
+ {
+  "offset": "086207B",
+  "en": "was too bitter!",
+  "pt": "é amarga demais!",
+  "max_width": 103
+ },
+ {
+  "offset": "086208B",
+  "en": "was too sour!",
+  "pt": "é azeda demais!",
+  "max_width": 93
+ },
+ {
+  "offset": "08620B0",
+  "en": "You used\\n{FD 16}!",
+  "pt": "Você usou\\n{FD 16}!",
+  "max_lines": 2,
+  "max_width": 56
+ },
+ {
+  "offset": "08620BD",
+  "en": "WALLY used\\n{FD 16}!",
+  "pt": "WALLY usou\\n{FD 16}!",
+  "max_lines": 2,
+  "max_width": 67
+ },
+ {
+  "offset": "08620CC",
+  "en": "{FD 36} {FD 35}\\nused {FD 16}!",
+  "pt": "{FD 36} {FD 35}\\nusou {FD 16}!",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "08620DB",
+  "en": "The TRAINER blocked the CAP!",
+  "pt": "O TREINADOR bloqueou o CAP!"
+ },
+ {
+  "offset": "08620F8",
+  "en": "Don't be a thief!",
+  "pt": "Não seja ladrão!",
+  "max_width": 110
+ },
+ {
+  "offset": "086210A",
+  "en": "It dodged the thrown CAP!\\nThis CAPTURE can't be caught!",
+  "pt": "Desviou do CAP lançado!\\nEla não pode ser capturada!",
+  "max_lines": 2,
+  "max_width": 165
+ },
+ {
+  "offset": "0862142",
+  "en": "You missed the CAPTURE!",
+  "pt": "Você errou a CAPTURA!",
+  "max_width": 149
+ },
+ {
+  "offset": "086215A",
+  "en": "Oh, no!\\nThe CAPTURE broke free!",
+  "pt": "Ah, não!\\nA CAPTURA se soltou!",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "086217A",
+  "en": "Aww!\\nIt appeared to be caught!",
+  "pt": "Ahh!\\nParecia que tinha pegado!",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "0862199",
+  "en": "Aargh!\\nAlmost had it!",
+  "pt": "Argh!\\nQuase!",
+  "max_lines": 2,
+  "max_width": 82
+ },
+ {
+  "offset": "08621AF",
+  "en": "Shoot!\\nIt was so close, too!",
+  "pt": "Droga!\\nFoi por pouco!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "08621CC",
+  "en": "Gotcha!\\n{FD 39} was caught!{WAIT_SE}{PLAY_BGM 60 01}\\p",
+  "pt": "Peguei!\\n{FD 39} foi capturado!{WAIT_SE}{PLAY_BGM 60 01}\\p"
+ },
+ {
+  "offset": "08621EA",
+  "en": "Gotcha!\\n{FD 39} was caught!{WAIT_SE}{PLAY_BGM 60 01}{PAUSE 7F}",
+  "pt": "Peguei!\\n{FD 39} foi pego!{WAIT_SE}{PLAY_BGM 60 01}{PAUSE 7F}",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "086220A",
+  "en": "Give a nickname to the\\ncaptured {FD 39}?",
+  "pt": "Dar um apelido ao\\n{FD 39} capturado?",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "086222E",
+  "en": "{FD 39} was sent to\\n{FD 27} PC.",
+  "pt": "{FD 39} foi enviado\\npara o PC {FD 27}.",
+  "max_lines": 2,
+  "max_width": 115
+ },
+ {
+  "offset": "0862244",
+  "en": "someone's",
+  "pt": "de alguém",
+  "max_width": 75
+ },
+ {
+  "offset": "086224E",
+  "en": "E. GADD's",
+  "pt": "do E. GADD",
+  "max_width": 69
+ },
+ {
+  "offset": "0862258",
+  "en": "{FD 39}'s data was\\nadded to the TATTLEDEX.\\p",
+  "pt": "Os dados de {FD 39} foram\\nadicionados à TATTLEDEX.\\p"
+ },
+ {
+  "offset": "086227F",
+  "en": "It is raining.",
+  "pt": "Está chovendo.",
+  "max_width": 92
+ },
+ {
+  "offset": "086228E",
+  "en": "A sandstorm is raging.",
+  "pt": "A areia sopra forte.",
+  "max_width": 138
+ },
+ {
+  "offset": "08622A5",
+  "en": "The BOX is full!\\nYou can't catch any more!\\p",
+  "pt": "A CAIXA está cheia!\\nNão dá para pegar mais!\\p"
+ },
+ {
+  "offset": "08622D1",
+  "en": "ENIGMA BERRY",
+  "pt": "FRUTA ENIGMA",
+  "max_width": 75
+ },
+ {
+  "offset": "08622DE",
+  "en": " BERRY",
+  "pt": " FRUTA",
+  "max_width": 39
+ },
+ {
+  "offset": "08622E5",
+  "en": "{FD 13}'s {FD 16}\\ncured paralysis!",
+  "pt": "{FD 16} de {FD 13}\\ncurou a paralisia!",
+  "max_lines": 2,
+  "max_width": 106
+ }
+]

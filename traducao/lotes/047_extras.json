@@ -1,0 +1,1535 @@
+[
+ {
+  "map": "40.49 SHOAL CAVE",
+  "offset": "027B03A",
+  "en": "The penetrating cold around these\\nparts is an impediment to training.\\pBut with focus, one can overcome!\\pWith this FOCUS BAND, buckle down and\\nwithstand the cold!",
+  "pt": "O frio penetrante destas bandas atrapalha o treinamento.\\pMas, com foco, dá para superar!\\pCom esta FAIXA FOCO, concentre-se e aguente o frio!"
+ },
+ {
+  "map": "40.52 NEW MAUVILLE",
+  "offset": "027B1D1",
+  "en": "The door is locked.",
+  "pt": "A porta está trancada."
+ },
+ {
+  "map": "40.53 NEW MAUVILLE",
+  "offset": "027B6EB",
+  "en": "ñIÀÈqÄ+ËÁThe generator is radiating heat that\\ncan be felt even at a distance.\\pIt looks like it should be turned off\\nas soon as possible.",
+  "pt": ""
+ },
+ {
+  "map": "40.56 ABANDONED SHIP",
+  "offset": "027B973",
+  "en": "Ships of this sort are rare, so I'm\\ntaking a look around.\\pHmhm…\\nThere appear to be other cabins…",
+  "pt": "Navios deste tipo são raros, então estou dando uma olhada.\\pHum hum…\\nParece que há outras cabines…"
+ },
+ {
+  "map": "40.58 ABANDONED SHIP",
+  "offset": "027BE2D",
+  "en": "Urrrrppp…\\pI'm getting queasy just being aboard\\nthis ship…\\pIt's not even moving, but…",
+  "pt": "Urrrrppp…\\pSó de estar a bordo deste navio já fico enjoado…\\pE ele nem está se mexendo…"
+ },
+ {
+  "map": "40.63 ABANDONED SHIP",
+  "offset": "027C682",
+  "en": "I'm investigating this ship on behalf\\nof CAPT. STERN.\\pHe also asked me to find a SCANNER,\\nbut I haven't had any success…",
+  "pt": "Estou investigando este navio a pedido do CAPITÃO STERN.\\pEle também me pediu para achar um SCANNER, mas não tive sucesso…"
+ },
+ {
+  "map": "40.65 ABANDONED SHIP",
+  "offset": "027C985",
+  "en": "The door is locked.\\p“RM. 1” is painted on the door.",
+  "pt": "A porta está trancada.\\p“QTO. 1” está pintado na porta."
+ },
+ {
+  "map": "40.78 SKY PILLAR",
+  "offset": "027D26A",
+  "en": "The door is closed.",
+  "pt": "A porta está fechada."
+ },
+ {
+  "map": "40.85 SKY PILLAR",
+  "offset": "027D6C9",
+  "en": "ÇÇÇ\\nThe awakened RAYQUAZA flew off…",
+  "pt": ""
+ },
+ {
+  "map": "40.85 SKY PILLAR",
+  "offset": "027D6CD",
+  "en": "The awakened RAYQUAZA flew off…",
+  "pt": "O RAYQUAZA despertado saiu voando…"
+ },
+ {
+  "map": "40.87 BOWSER'S CASTLE",
+  "offset": "027DA1A",
+  "en": "What, what, what?\\pOnly TEAM MAGMA members are supposed\\nto be in here!\\pBut you're not dressed in TEAM MAGMA's\\nuniform…\\pYou rouse my suspicion!\\nBattle with me!",
+  "pt": "Ué, ué, ué?\\pSó membros da EQUIPE MAGMA deviam estar aqui dentro!\\pMas você não está com o uniforme da EQUIPE MAGMA…\\pVocê desperta a minha desconfiança!\\nBatalhe comigo!"
+ },
+ {
+  "map": "40.90 BOWSER'S CASTLE",
+  "offset": "027E259",
+  "en": "I understand everything our leader\\nsays. But you know what?\\pDoing stuff like digging up a super-\\nancient POKéMON and ripping off\\lsomeone's METEORITE…\\pI think we're going a little too far.\\nWhat do you think?",
+  "pt": "Eu entendo tudo o que o nosso líder diz. Mas sabe de uma coisa?\\pFazer coisas como desenterrar uma CAPTURA superancestral e roubar o METEORITO dos outros…\\pAcho que estamos indo longe demais. O que você acha?"
+ },
+ {
+  "map": "40.97 TOSTARENA APEX",
+  "offset": "027EC66",
+  "en": "You found the ROOT FOSSIL.\\pIf this FOSSIL is taken, the ground\\naround it will likely crumble away…\\pTake the ROOT FOSSIL anyway?",
+  "pt": "Você encontrou o FÓSSIL RAIZ.\\pSe este FÓSSIL for retirado, o chão em volta dele provavelmente vai desmoronar…\\pPegar o FÓSSIL RAIZ mesmo assim?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "027F557",
+  "en": "There's a small indent in the wall.",
+  "pt": "Há uma pequena reentrância na parede."
+ },
+ {
+  "map": "41.40 INSIDE OF TRUCK",
+  "offset": "027FE3B",
+  "en": "The box is printed with a POKéMON logo.\\pIt's a POKéMON brand moving and\\ndelivery service.",
+  "pt": "A caixa tem o logotipo de uma CAPTURA impresso.\\pÉ um serviço de mudanças e entregas da marca CAPTURA."
+ },
+ {
+  "map": "41.40 INSIDE OF TRUCK",
+  "offset": "027FEA2",
+  "en": "Hello world!",
+  "pt": "Olá, mundo!"
+ },
+ {
+  "map": "41.41 ",
+  "offset": "028016F",
+  "en": "SCOTT: Well, hi, hi!\\n{PLAYER}{KUN}, {PLAYER}{KUN}!\\pSomething's come up, so I have to\\ndisembark, but am I glad to see you!\\pCongratulations, LEAGUE CHAMPION!\\pThere's a place I'd like to invite\\nsomeone like you.\\pIt's the…\\nBATTLE FRONTIER!\\pWhat's the place like?\\nYou'll understand when you see it!\\pI've spoken with the ship's CAPTAIN\\nabout this.\\pThe next time you take a ferry,\\nyou should be able to sail to\\lthe BATTLE FRONTIER.\\pOkay, {PLAYER}{KUN}, I'll be waiting for you\\nat the BATTLE FRONTIER!",
+  "pt": "SCOTT: Ora, oi, oi!\\n{PLAYER}{KUN}, {PLAYER}{KUN}!\\pSurgiu um imprevisto e eu preciso desembarcar, mas que bom ver você!\\pParabéns, CAMPEÃO DA LIGA!\\pTem um lugar para onde eu queria convidar alguém como você.\\pÉ a…\\nFRONTEIRA DE BATALHA!\\pComo é o lugar?\\nVocê vai entender quando vir!\\pJá conversei com o CAPITÃO do navio sobre isso.\\pDa próxima vez que pegar uma balsa, você vai poder navegar até a FRONTEIRA DE BATALHA.\\pCerto, {PLAYER}{KUN}, vou estar esperando por você na FRONTEIRA DE BATALHA!"
+ },
+ {
+  "map": "42.4 NEW DONK CITY",
+  "offset": "0281627",
+  "en": "This is the BATTLE DOME!\\nYour path to the invincible superstar!",
+  "pt": "Este é o DOMO DE BATALHA! Seu caminho para virar um superastro invencível!"
+ },
+ {
+  "map": "42.8 NEW DONK CITY",
+  "offset": "0286156",
+  "en": "We will restore your POKéMON to\\nfull health.",
+  "pt": "Vamos restaurar a saúde das suas CAPTURAS."
+ },
+ {
+  "map": "42.15 NEW DONK CITY",
+  "offset": "0287F99",
+  "en": "Please find a partner from out of\\nthe TRAINERS gathered here.",
+  "pt": "Por favor, escolha um parceiro entre os TREINADORES reunidos aqui."
+ },
+ {
+  "map": "42.17 NEW DONK CITY",
+  "offset": "028D48A",
+  "en": "The 2nd set of opponents is next.\\nAre you ready?",
+  "pt": "Agora vem o 2º grupo de oponentes.\\nEstá pronto?"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028DDFA",
+  "en": "Where the strategies of TRAINERS\\nare put to the test!\\pWelcome to the BATTLE DOME!\\pI am your guide to the SINGLE BATTLE\\nTournament.",
+  "pt": "Onde as estratégias dos TREINADORES são postas à prova!\\pBem-vindo ao DOMO DE BATALHA!\\pSou seu guia no Torneio de BATALHA INDIVIDUAL."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F592",
+  "en": "ÎÁ\\nÌÌÌÌ\\nÌ\\nÌ{MN}\\nYour 1st-round match is next.\\nAre you ready?",
+  "pt": ""
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F59F",
+  "en": "Your 1st-round match is next.\\nAre you ready?",
+  "pt": "A sua partida da 1ª rodada é a próxima.\\nEstá pronto?"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02908F3",
+  "en": "{PLAYER} has entered the BATTLE DOME!",
+  "pt": "{PLAYER} entrou no DOMO DE BATALHA!"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0291CDE",
+  "en": "Where the hearts of TRAINERS\\nare put to the test.\\pI welcome you to the BATTLE PALACE.\\pI accept challenges to the SINGLE\\nBATTLE HALLS.",
+  "pt": "Onde os corações dos TREINADORES são postos à prova.\\pDou-lhe as boas-vindas ao PALÁCIO DE BATALHA.\\pAceito desafios nos SALÕES DE BATALHA INDIVIDUAL."
+ },
+ {
+  "map": "42.23 NEW DONK CITY",
+  "offset": "0293555",
+  "en": "ÌÌÎÎÌÌ\\nÌÌ{MN}\\nPeople and POKéMON, they are but\\nthe same…\\pTheir individual nature makes them\\ngood at certain things, and not good\\lat others.",
+  "pt": ""
+ },
+ {
+  "map": "42.23 NEW DONK CITY",
+  "offset": "029355D",
+  "en": "Ì{MN}\\nPeople and POKéMON, they are but\\nthe same…\\pTheir individual nature makes them\\ngood at certain things, and not good\\lat others.",
+  "pt": ""
+ },
+ {
+  "map": "22.2 KONG KAPITAL",
+  "offset": "0293E83",
+  "en": "Excellent…\\nLet me restore your POKéMON.",
+  "pt": "Excelente…\\nPermita-me restaurar as suas CAPTURAS."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0294E92",
+  "en": "Where the courage of TRAINERS\\nis put to the test!\\pWelcome to the BATTLE PYRAMID!\\pI am your guide to\\nthe Battle Quest.",
+  "pt": "Onde a coragem dos TREINADORES é posta à prova!\\pBem-vindo à PIRÂMIDE DE BATALHA!\\pSou seu guia na Missão de Batalha."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A0AA",
+  "en": "Where the battling spirit of TRAINERS\\nis put to the test!\\pI welcome you to the BATTLE ARENA!\\pI am your guide to the Set KO Tourney!",
+  "pt": "Onde o espírito de luta dos TREINADORES é posto à prova!\\pDou-lhe as boas-vindas à ARENA DE BATALHA!\\pSou seu guia no Torneio Nocaute!"
+ },
+ {
+  "map": "42.29 NEW DONK CITY",
+  "offset": "029B38D",
+  "en": "Your battles shall be waged in\\nthe next room. Please step in!",
+  "pt": "Suas batalhas serão travadas na próxima sala. Por favor, entre!"
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BB7E",
+  "en": "Ëú\\nREFEREE: TRAINER {PLAYER}!\\nStep forward, please!",
+  "pt": ""
+ },
+ {
+  "map": "42.30 NEW DONK CITY",
+  "offset": "029BB81",
+  "en": "REFEREE: TRAINER {PLAYER}!\\nStep forward, please!",
+  "pt": "JUIZ: TREINADOR {PLAYER}!\\nPor favor, dê um passo à frente!"
+ },
+ {
+  "map": "42.31 NEW DONK CITY",
+  "offset": "029C832",
+  "en": "Where the intelligence of TRAINERS\\nis put to the test!\\pWelcome to the BATTLE FACTORY!\\pI am your guide to the Battle Swap\\nSingle Tournament.",
+  "pt": "Onde a inteligência dos TREINADORES é posta à prova!\\pBem-vindo à FÁBRICA DE BATALHA!\\pSou seu guia no Torneio Individual de Troca de Batalha."
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029E123",
+  "en": "First, we will hold your CAPTURES for\\nsafekeeping.\\pYou may then choose from our\\nselection of CAPTURES.",
+  "pt": "Primeiro, vamos guardar as suas CAPTURAS em segurança.\\pDepois, você poderá escolher entre a nossa seleção de CAPTURAS."
+ },
+ {
+  "map": "42.33 NEW DONK CITY",
+  "offset": "029F187",
+  "en": "Hey, hey!\\nGet a move on!",
+  "pt": "Ei, ei!\\nMexa-se!"
+ },
+ {
+  "map": "42.34 NEW DONK CITY",
+  "offset": "029FAB5",
+  "en": "Where the luck of TRAINERS\\nis put to the test…\\pWelcome to the BATTLE PIKE…\\pI am your guide to the BATTLE PIKE…",
+  "pt": "Onde a sorte dos TREINADORES é posta à prova…\\pBem-vindo à TRILHA DE BATALHA…\\pSou seu guia na TRILHA DE BATALHA…"
+ },
+ {
+  "map": "42.35 NEW DONK CITY",
+  "offset": "02A077A",
+  "en": "Your Battle Choice challenge\\nhas now begun…",
+  "pt": "O seu desafio da Escolha de Batalha começou agora…"
+ },
+ {
+  "map": "42.37 NEW DONK CITY",
+  "offset": "02A1919",
+  "en": "Welcome…\\nYou must be commended for your luck…\\pYour POKéMON shall be restored\\nto full health…",
+  "pt": "Bem-vindo…\\nVocê merece elogios pela sua sorte…\\pSuas CAPTURAS terão a saúde totalmente restaurada…"
+ },
+ {
+  "map": "42.38 NEW DONK CITY",
+  "offset": "02A2355",
+  "en": "Congratulations…\\nNow, this way, please…",
+  "pt": "Parabéns…\\nAgora, por aqui, por favor…"
+ },
+ {
+  "map": "42.40 NEW DONK CITY",
+  "offset": "02A24DF",
+  "en": "This is the RANKING HALL.\\pThis is where we recognize the immortal\\nTRAINERS who left great records in\\lBATTLE FRONTIER events.",
+  "pt": "Este é o SALÃO DO RANKING.\\pAqui homenageamos os TREINADORES imortais que deixaram grandes recordes nos eventos da FRONTEIRA DE BATALHA."
+ },
+ {
+  "map": "42.41 NEW DONK CITY",
+  "offset": "02A28C2",
+  "en": "For 70 years I have raised POKéMON!\\nI am the man they revere as\\lthe legendary top POKéMON BREEDER!\\pIf you ever become as seasoned as me,\\nyou'll see the abilities of POKéMON\\lat a glance.\\pYou're a TRAINER. Doesn't it interest\\nyou to know your own POKéMON's\\labilities?\\pHere!\\nLet's have a look at your POKéMON!",
+  "pt": "Há 70 anos eu crio CAPTURAS! Sou o homem reverenciado como o lendário maior CRIADOR DE CAPTURAS!\\pSe um dia você ficar tão experiente quanto eu, vai ver as habilidades das CAPTURAS num piscar de olhos.\\pVocê é um TREINADOR. Não tem interesse em conhecer as habilidades das suas próprias CAPTURAS?\\pVamos lá! Deixe-me dar uma olhada nas suas CAPTURAS!"
+ },
+ {
+  "map": "42.42 NEW DONK CITY",
+  "offset": "02A375D",
+  "en": "Hello, this is the EXCHANGE SERVICE\\nCORNER.\\pWe exchange the Battle Points you\\nhave collected for lovely prizes.\\pPlease choose a prize from this list.",
+  "pt": "Olá, este é o BALCÃO DE TROCAS.\\pTrocamos os Pontos de Batalha que você acumulou por prêmios incríveis.\\pPor favor, escolha um prêmio desta lista."
+ },
+ {
+  "map": "42.43 NEW DONK CITY",
+  "offset": "02A46C9",
+  "en": "Howdy! When it comes to news about\\nthe BATTLE FRONTIER, I'm no. 1.\\pYou can think of me as\\nthe FRONTIER MANIAC.\\pJust checking, but you are a TRAINER,\\nisn't that right?\\pI'll happily share the hottest news\\nI gathered about the BATTLE FRONTIER.",
+  "pt": "E aí! Quando o assunto é notícia da FRONTEIRA DE BATALHA, eu sou o número 1.\\pPode me chamar de MANÍACO DA FRONTEIRA.\\pSó para confirmar: você é um TREINADOR, não é?\\pVou adorar compartilhar as notícias mais quentes que juntei sobre a FRONTEIRA DE BATALHA."
+ },
+ {
+  "map": "42.44 NEW DONK CITY",
+  "offset": "02A5F61",
+  "en": "…What's that you want?\\pCan't you see we're kind of busy here?\\nCan't your business wait till later?",
+  "pt": "…O que é que você quer?\\pNão vê que a gente tá meio ocupado aqui? Seu assunto não pode esperar?"
+ },
+ {
+  "map": "42.45 NEW DONK CITY",
+  "offset": "02A750B",
+  "en": "I wonder if they'll be airing interviews\\nwith tough TRAINERS today?",
+  "pt": "Será que hoje vão passar entrevistas com TREINADORES fortes?"
+ },
+ {
+  "map": "42.46 NEW DONK CITY",
+  "offset": "02A79A2",
+  "en": "SCOTT: Well, hello and welcome!\\nHeheh… Sorry about the cramped space.\\pAnyway, {PLAYER}{KUN}, let me formally\\nwelcome you to the BATTLE FRONTIER.\\pThis is my dream come true.\\nIt took me years and years, but I've\\lfinally given shape to my dream.",
+  "pt": "SCOTT: Ora, olá e seja bem-vindo! Hehe… Desculpe pelo espaço apertado.\\pEnfim, {PLAYER}{KUN}, deixe-me dar as boas-vindas oficiais à FRONTEIRA DE BATALHA.\\pEste é o meu sonho realizado. Levei anos e anos, mas finalmente dei forma ao meu sonho."
+ },
+ {
+  "map": "42.47 NEW DONK CITY",
+  "offset": "02A8595",
+  "en": "Ehehe!\\nI can tell what POKéMON are thinking!\\pPlease!\\nCan I see your POKéMON?",
+  "pt": "Hehehe! Eu sei o que as CAPTURAS estão pensando!\\pPor favor! Posso ver as suas CAPTURAS?"
+ },
+ {
+  "map": "42.49 NEW DONK CITY",
+  "offset": "02A96A2",
+  "en": "Buhahaha!\\pYou couldn't tell it from looking now,\\nbut I used to be one tough TRAINER.\\pI had a reputation as the toughest\\nBEAUTY around, I tell you!\\p… … … … … …\\pWhat is it now?\\nYou don't believe me.\\pI'm not like that blowhard woman over\\nthere. I'm actually talented!\\pLet me prove it to you.\\nI can teach your POKéMON special and\\lyet cute moves.\\pBut my lessons don't come free.\\nHow about paying for the moves I teach\\lwith a wee bit of Battle Points?",
+  "pt": "Buhahaha!\\pOlhando agora você nem diria, mas eu já fui uma TREINADORA durona.\\pEu tinha fama de ser a BELDADE mais forte da região, viu?\\p… … … … … …\\pQue foi agora? Você não acredita em mim.\\pEu não sou como aquela mulher fanfarrona ali. Eu tenho talento de verdade!\\pDeixa eu te provar. Posso ensinar golpes especiais e fofos às suas CAPTURAS.\\pMas as minhas aulas não são de graça. Que tal pagar pelos golpes que eu ensino com uns Pontos de Batalha?"
+ },
+ {
+  "map": "42.50 NEW DONK CITY",
+  "offset": "02AA535",
+  "en": "Is it your first time here?\\nPlease step this way!",
+  "pt": "É a sua primeira vez aqui?\\nPor favor, venha por aqui!"
+ },
+ {
+  "map": "42.51 NEW DONK CITY",
+  "offset": "02AB69A",
+  "en": "What a TRAINER needs…\\pKnowledge…\\nStrategy…\\lLuck…\\lGuts…\\lSpirit…\\lBravery…\\lAnd ability…\\pWell, I'm all set in every way!\\nI'll be unstoppable at every building!\\pHuh? POKéMON?\\nWhat's that?",
+  "pt": "Do que um TREINADOR precisa…\\pConhecimento…\\nEstratégia…\\lSorte…\\lGarra…\\lEspírito…\\lCoragem…\\lE habilidade…\\pBom, eu tenho tudo isso de sobra!\\nVou ser imbatível em todos os prédios!\\pHã? CAPTURAS?\\nO que é isso?"
+ },
+ {
+  "map": "42.53 NEW DONK CITY",
+  "offset": "02AB8F9",
+  "en": "There was someone here using a \\nPOKéMON I've never seen before.\\pI never learned about it at\\nTRAINER'S SCHOOL at least.\\pI wonder where you can catch POKéMON\\nlike that.",
+  "pt": "Tinha alguém aqui usando uma CAPTURA que eu nunca tinha visto.\\pPelo menos na ESCOLA DE TREINADORES eu nunca aprendi sobre ela.\\pOnde será que dá para pegar CAPTURAS assim?"
+ },
+ {
+  "map": "42.55 NEW DONK CITY",
+  "offset": "02ABADD",
+  "en": "We came here to chaperon our\\ngrandson.\\pBut since we're here, we thought\\nwe should get some souvenirs.",
+  "pt": "Viemos aqui acompanhar o nosso neto.\\pMas, já que estamos aqui, achamos que devíamos levar umas lembrancinhas."
+ },
+ {
+  "map": "42.57 FARAWAY ISLAND",
+  "offset": "02ABEA5",
+  "en": "The feeling of being watched faded…",
+  "pt": "A sensação de estar sendo observado sumiu…"
+ },
+ {
+  "map": "44.0 B. CASTLE 1F",
+  "offset": "02AD509",
+  "en": "I'm the owner of the SEASHORE HOUSE.\\nBut you can call me MR. SEA!\\pWhat I love above all is to see hot\\nPOKéMON battles.\\pLet me see that your heart burns hot!\\pIf you can defeat all the TRAINERS\\nhere, I'll reward your efforts.",
+  "pt": "Sou o dono da CASA DE PRAIA.\\nMas pode me chamar de SR. SEA!\\pO que eu mais amo é ver batalhas de CAPTURAS bem quentes.\\pMostre que o seu coração arde em chamas!\\pSe derrotar todos os TREINADORES daqui, vou recompensar o seu esforço."
+ },
+ {
+  "map": "45.1 B. CASTLE 1F",
+  "offset": "02AF041",
+  "en": "Aak!\\nYou've made it to me?\\lHmmm… You're sharp!",
+  "pt": "Aah!\\nVocê chegou até mim?\\lHummm… Você é esperto!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AF941",
+  "en": "{PLAYER} wrote down the secret code\\non the door.\\p“TRICK MASTER is fabulous.”\\n… … … … … … … …\\pThe lock clicked open!",
+  "pt": "{PLAYER} anotou o código secreto na porta.\\p“O MESTRE DOS TRUQUES é fabuloso.”\\n… … … … … … … …\\pA fechadura se abriu com um clique!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02AFC6E",
+  "en": "{PLAYER} wrote down the secret code\\non the door.\\p“TRICK MASTER is smart.”\\n… … … … … … … …\\pThe lock clicked open!",
+  "pt": "{PLAYER} anotou o código secreto na porta.\\p“O MESTRE DOS TRUQUES é inteligente.”\\n… … … … … … … …\\pA fechadura se abriu com um clique!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02B05BD",
+  "en": "{PLAYER} wrote down the secret code\\non the door.\\p“TRICK MASTER is coveted.”\\n… … … … … … … …\\pThe lock clicked open!",
+  "pt": "{PLAYER} anotou o código secreto na porta.\\p“O MESTRE DOS TRUQUES é cobiçado.”\\n… … … … … … … …\\pA fechadura se abriu com um clique!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02B0877",
+  "en": "{PLAYER} wrote down the secret code\\non the door.\\p“TRICK MASTER is cool.”\\n… … … … … … … …\\pThe lock clicked open!",
+  "pt": "{PLAYER} anotou o código secreto na porta.\\p“O MESTRE DOS TRUQUES é demais.”\\n… … … … … … … …\\pA fechadura se abriu com um clique!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02B1DDA",
+  "en": "{PLAYER} wrote down the secret code\\non the door.\\p“TRICK MASTER is my life.”\\n… … … … … … … …\\pThe lock clicked open!",
+  "pt": "{PLAYER} anotou o código secreto na porta.\\p“O MESTRE DOS TRUQUES é a minha vida.”\\n… … … … … … … …\\pA fechadura se abriu com um clique!"
+ },
+ {
+  "map": "45.0 B. CASTLE 1F",
+  "offset": "02B23C7",
+  "en": "{PLAYER} wrote down the secret code\\non the door.\\p“TRICK MASTER is huggable.”\\n… … … … … … … …\\pThe lock clicked open!",
+  "pt": "{PLAYER} anotou o código secreto na porta.\\p“O MESTRE DOS TRUQUES é fofinho.”\\n… … … … … … … …\\pA fechadura se abriu com um clique!"
+ },
+ {
+  "map": "45.11 B. CASTLE 1F",
+  "offset": "02B2A75",
+  "en": "On CYCLING ROAD, you can go all out\\nand cycle as fast as you'd like.\\pIt feels great to go that fast, but try\\nnot to crash into anyone!",
+  "pt": "Na CICLOVIA, você pode pedalar o mais rápido que quiser.\\pÉ ótimo ir nessa velocidade, mas tente não trombar em ninguém!"
+ },
+ {
+  "map": "45.12 B. CASTLE 1F",
+  "offset": "02B2BD7",
+  "en": "On CYCLING ROAD, you can go all out\\nand cycle as fast as you'd like.\\pIt feels great to go that fast, but try\\nnot to crash into anyone!",
+  "pt": "Na CICLOVIA, você pode pedalar o mais rápido que quiser.\\pÉ ótimo ir nessa velocidade, mas tente não trombar em ninguém!"
+ },
+ {
+  "map": "46.0 B. CASTLE 2F",
+  "offset": "02B3151",
+  "en": "This area is covered in volcanic ash,\\nhuff-puff!\\pI'm specially gifted, huff-puff.\\pI make glass out of volcanic ash\\nand make items, huff-puff.\\pGo collect ashes with this, huff-puff.",
+  "pt": "Esta área é coberta de cinzas vulcânicas, uf-uf!\\pEu tenho um dom especial, uf-uf.\\pEu faço vidro com cinzas vulcânicas e crio itens, uf-uf.\\pVá juntar cinzas com isto, uf-uf."
+ },
+ {
+  "map": "48.2 B. CASTLE 2F",
+  "offset": "02B49C1",
+  "en": "I heard about a cave called the CAVE\\nOF ORIGIN.\\pPeople rumor that the spirits of\\nPOKéMON are revived there. Could\\lsomething like that really happen?",
+  "pt": "Ouvi falar de uma caverna chamada CAVE OF ORIGIN.\\pDizem que os espíritos das CAPTURAS revivem lá. Será que algo assim pode mesmo acontecer?"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B4FAB",
+  "en": "I'm the DIVING TREASURE HUNTER!\\pI'm the awesome dude who makes\\ndeep-sea dives to gather treasures\\lresting at the bottom.",
+  "pt": "Eu sou o CAÇADOR DE TESOUROS SUBMARINO!\\pSou o cara incrível que mergulha no fundo do mar para juntar os tesouros que descansam lá embaixo."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B59F1",
+  "en": "Feature unavailable!\\nPlease define a usable flag in:\\l'include/config/battle.h'!",
+  "pt": "Recurso indisponível!\\nDefina uma flag utilizável em:\\l'include/config/battle.h'!"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5A4B",
+  "en": "Storage boxes filled!",
+  "pt": "Caixas de armazenamento cheias!"
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5A92",
+  "en": "SaveBlock1 size: {STR_VAR_1}b/{STR_VAR_2}b.\\nFree space: {STR_VAR_3}b.",
+  "pt": "SaveBlock1: {STR_VAR_1}b/{STR_VAR_2}b.\\nEspaço livre: {STR_VAR_3}b."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5BAE",
+  "en": "You have no Pokémon at Daycare.",
+  "pt": "Você não tem CAPTURAS na CRECHE."
+ },
+ {
+  "map": "49.0 ROUTE 124",
+  "offset": "02B5C36",
+  "en": "ROM size: {STR_VAR_1}MB/32MB.\\nFree space: {STR_VAR_2}MB.",
+  "pt": "Tamanho da ROM: {STR_VAR_1}MB/32MB.\\nEspaço livre: {STR_VAR_2}MB."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6303",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B71F6",
+  "en": "There's a copy of SUPER MARIO BROS. 3\\nin the NES.\\pThere's another copy of SUPER MARIO\\nBROS. 3 next to it with a note attached.\\p'Congratulations C.A.P. CHAMPION LUIGI!\\nI hope you and your brother have lots\\lof fun with your WISH!'\\p- PRINCESS PEACH",
+  "pt": "Tem uma cópia de SUPER MARIO BROS. 3 no NES.\\pAo lado tem outra cópia de SUPER MARIO BROS. 3 com um bilhete preso.\\p'Parabéns, CAMPEÃO C.A.P. LUIGI! Espero que você e o seu irmão se divirtam muito com o seu DESEJO!'\\p- PRINCESA PEACH"
+ },
+ {
+  "map": "2.0 TOAD TOWN",
+  "offset": "02B8F03",
+  "en": "MAKE WAY FOR THE PRINCESS OF THE\\nMUSHROOM KINGDOM, PRINCESS TOADSTOOL!",
+  "pt": "ABRAM CAMINHO PARA A PRINCESA DO REINO DOS COGUMELOS, A PRINCESA TOADSTOOL!"
+ },
+ {
+  "map": "2.2 TOAD TOWN",
+  "offset": "02BBEE6",
+  "en": "The clerk says they're all sold out.\\nI can't buy any POKé BALLS.",
+  "pt": "O atendente disse que acabou tudo. Não consigo comprar nenhum CAP."
+ },
+ {
+  "map": "2.3 TOAD TOWN",
+  "offset": "02BCD01",
+  "en": "This WARP PIPE will take you to PEACH'S\\nCASTLE. Take it?",
+  "pt": "Este CANO WARP leva ao CASTELO DA PEACH. Entrar?"
+ },
+ {
+  "map": "2.9 TOAD TOWN",
+  "offset": "02C0DFA",
+  "en": "The storehouse is such a mess! If I had\\nmy HAMMER, I'd be able to easily clean up\\lthis mess…",
+  "pt": "O depósito está uma bagunça! Se eu tivesse o meu MARTELO, conseguiria arrumar essa bagunça rapidinho…"
+ },
+ {
+  "map": "2.10 TOAD TOWN",
+  "offset": "02C0E71",
+  "en": "We're in a very intense chess match, so\\nif you could please excuse us.",
+  "pt": "Estamos numa partida de xadrez muito intensa, então, se puder nos dar licença…"
+ },
+ {
+  "map": "2.11 TOAD TOWN",
+  "offset": "02C0F36",
+  "en": "SUPER MARIO BROS 3. FAN CLUB",
+  "pt": "FÃ-CLUBE DE SUPER MARIO BROS 3."
+ },
+ {
+  "map": "2.4 WORLD 1-1",
+  "offset": "02C1AF1",
+  "en": "WORLD 1-1\\nThe first level.",
+  "pt": "MUNDO 1-1\\nA primeira fase."
+ },
+ {
+  "map": "4.0 PEACH'S CASTLE",
+  "offset": "02C3596",
+  "en": "I'm sorry, but this pipe is currently\\nundergoing maintenance. It should be\\lfixed very shortly, so come back later.",
+  "pt": "Sinto muito, mas este cano está em manutenção no momento. Deve ser consertado logo, então volte mais tarde."
+ },
+ {
+  "map": "4.1 PEACH'S CASTLE",
+  "offset": "02C3FDA",
+  "en": "Your team looks rather tired… Would you\\nlike to rest here for a bit?",
+  "pt": "A sua equipe parece bem cansada… Gostaria de descansar aqui um pouco?"
+ },
+ {
+  "map": "4.4 PEACH'S CASTLE",
+  "offset": "02C65FD",
+  "en": "PEACH",
+  "pt": "PEACH",
+  "max_width": 36
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8DE3",
+  "en": "The rock seems to emit a calming aura…",
+  "pt": "A rocha parece emitir uma aura tranquilizante…"
+ },
+ {
+  "map": "9.6 TOSTARENA TOWER",
+  "offset": "02C992D",
+  "en": "Man, how did I even get here?",
+  "pt": "Cara, como é que eu vim parar aqui?"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02C9F4B",
+  "en": "Welcome to TOSTARENA. We're a bit of a\\nsmall town, but our role as a rest stop\\lis quite important! We get all sorts of\\lfolk coming and going.",
+  "pt": "Bem-vindo a TOSTARENA. Somos uma cidade meio pequena, mas o nosso papel como ponto de parada é muito importante! Vem gente de todo tipo e de todo canto."
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB0F5",
+  "en": "Â\\nTOADSWORTH has been really helpful with\\nkeeping everyone calm.",
+  "pt": ""
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB0F7",
+  "en": "TOADSWORTH has been really helpful with\\nkeeping everyone calm.",
+  "pt": "O TOADSWORTH tem ajudado muito a manter todo mundo calmo."
+ },
+ {
+  "map": "9.9 TOSTARENA TOWER",
+  "offset": "02CB35F",
+  "en": "Shroob Boss",
+  "pt": "Chefe Shroob"
+ },
+ {
+  "map": "9.13 TOSTARENA",
+  "offset": "02CBC47",
+  "en": "Oh, you're MARIO, aren't you? Can you\\ntell this child of mine to calm down?\\lMaybe he'll listen to a hero like you.",
+  "pt": "Ah, você é o MARIO, não é? Pode pedir para esse meu filho se acalmar? Talvez ele escute um herói como você."
+ },
+ {
+  "map": "5.0 LAVARIDGE TOWN",
+  "offset": "02CCAAD",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "5.7 LAVARIDGE TOWN",
+  "offset": "02CDEB3",
+  "en": "Welcome to the GRAND STAR HOTEL. I'm\\nsorry, but we're currently fully booked.",
+  "pt": "Bem-vindo ao GRAND STAR HOTEL. Sinto muito, mas no momento estamos lotados."
+ },
+ {
+  "map": "5.8 CLOUD CAP",
+  "offset": "02CDFCD",
+  "en": "You're MARIO, aren't you? I've heard\\nBOWSER was recently sighted around\\lhere, and I just can't help but worry\\lfor my family's safety. Would you mind\\ltaking this TM I bought recently? I'm\\lsure you'll put it to good use to defeat\\lBOWSER.",
+  "pt": "Você é o MARIO, não é? Ouvi dizer que o BOWSER foi visto por aqui há pouco tempo, e não consigo parar de me preocupar com a segurança da minha família. Você aceitaria este TM que comprei há pouco? Tenho certeza de que vai usá-la bem para derrotar o BOWSER."
+ },
+ {
+  "map": "5.9 CLOUD CAP",
+  "offset": "02CE1B9",
+  "en": "SARASALAND is just perfect for fishing,\\ndon't you agree? What's that, you don't\\lhave a FISHING ROD? Here, you can have\\lone of mine along with some LURES.",
+  "pt": "SARASALAND é perfeita para pescar, não acha? Como assim, você não tem uma VARA DE PESCA? Tome, pode ficar com uma das minhas e umas ISCAS também."
+ },
+ {
+  "map": "5.10 CLOUD CAP",
+  "offset": "02CE3CE",
+  "en": "Back in my day, we used to have an\\nentire council of TOADS. Why won't\\lanyone believe me?",
+  "pt": "No meu tempo, a gente tinha um conselho inteiro de TOADS. Por que ninguém acredita em mim?"
+ },
+ {
+  "map": "5.12 LAVARIDGE TOWN",
+  "offset": "02CE683",
+  "en": "Welcome to the WARP ZONE!",
+  "pt": "Bem-vindo à ZONA WARP!"
+ },
+ {
+  "map": "5.13 LAVARIDGE TOWN",
+  "offset": "02CE6DB",
+  "en": "As an artist, I have traveled all the\\nway to SARASALAND in order to capture\\lthe beauty of these new CAPTURE\\lbattles. I hope they're all they've been\\lhyped up to be.",
+  "pt": "Como artista, viajei até SARASALAND para capturar a beleza dessas novas batalhas de CAPTURAS. Espero que sejam tudo isso que andam falando."
+ },
+ {
+  "map": "5.15 LAVARIDGE TOWN",
+  "offset": "02CE8FA",
+  "en": "Ohmygosh, are you MARIO?! Eeeee, I\\ncan't believe I'm meeting you! I loved\\lhearing about your latest exploits with\\lyour hat, CAPPY!",
+  "pt": "Ai, meu Deus, você é o MARIO?! Iiiii, não acredito que estou te conhecendo! Adorei saber das suas últimas aventuras com o seu chapéu, o CAPPY!"
+ },
+ {
+  "map": "5.16 LAVARIDGE TOWN",
+  "offset": "02CEC61",
+  "en": "Is that you, MARIO? You may not know\\nme, but I'm your biggest fan! I booked\\lthis entire suite just to watch your\\lmatch against princess DAISY! Here,\\ltake this, I insist.",
+  "pt": "É você, MARIO? Pode não me conhecer, mas eu sou o seu maior fã! Reservei esta suíte inteira só para assistir à sua partida contra a princesa DAISY! Tome, aceite isto, eu insisto."
+ },
+ {
+  "map": "6.5 WORLD 3-1",
+  "offset": "02CF83F",
+  "en": "Ever take a moment to sit down and\\nbreathe? Rest up, let it be now.",
+  "pt": "Já parou um pouco para sentar e respirar? Descanse, deixe estar."
+ },
+ {
+  "map": "6.6 ASHLEY'S HOUSE",
+  "offset": "02CF8B3",
+  "en": "Would you like to rest and heal your\\nparty?",
+  "pt": "Gostaria de descansar e curar a sua equipe?"
+ },
+ {
+  "map": "6.2 DIAMOND CITY",
+  "offset": "02D0D55",
+  "en": "DIAMOND CITY - DOWNTOWN\\nYou are at the {COLOR 04}RED square{COLOR 02}.\\pTourists should check out the PURPLE\\nareas{COLOR 02}, or {COLOR 05}WARIOWARE, INC.{COLOR 02}!",
+  "pt": "DIAMOND CITY - CENTRO\\nVocê está no {COLOR 04}quadrado VERMELHO{COLOR 02}.\\pOs turistas devem conferir as áreas ROXAS{COLOR 02} ou a {COLOR 05}WARIOWARE, INC.{COLOR 02}!"
+ },
+ {
+  "map": "6.3 DIAMOND CITY",
+  "offset": "02D2B27",
+  "en": "DIAMOND CITY DEPARTMENT STORE\\nYou are at the {COLOR 08}BLUE squares{COLOR 02}.\\pTourists should check out the PURPLE\\nareas{COLOR 02}, or the northen half of the CITY!",
+  "pt": "LOJA DE DEPARTAMENTOS DE DIAMOND CITY\\nVocê está nos {COLOR 08}quadrados AZUIS{COLOR 02}.\\pOs turistas devem conferir as áreas ROXAS{COLOR 02} ou a metade norte da CIDADE!"
+ },
+ {
+  "map": "6.4 DIAMOND CITY",
+  "offset": "02D384B",
+  "en": "PENNY",
+  "pt": "PENNY",
+  "max_width": 36
+ },
+ {
+  "map": "6.10 DIAMOND CITY",
+  "offset": "02D4109",
+  "en": "Welcome to the DIAMOND CITY\\nDepartment Store.",
+  "pt": "Bem-vindo à LOJA DE DEPARTAMENTOS de DIAMOND CITY."
+ },
+ {
+  "map": "6.11 DIAMOND CITY",
+  "offset": "02D42BB",
+  "en": "I'm a little disappointed that I can't\\nbuy SOMBRERO CAPs here.\\pIt's not a big deal, that just gives me\\nan excuse to visit TOSTARENA.",
+  "pt": "Fiquei meio decepcionado por não poder comprar CAPs SOMBRERO aqui.\\pNão é nada demais, isso só me dá uma desculpa para visitar TOSTARENA."
+ },
+ {
+  "map": "6.12 DIAMOND CITY",
+  "offset": "02D4565",
+  "en": "I'm sorry, you seem to have CONTENT\\nCREATOR mode enabled. With that in mind,\\lI can't sell you these items yet. It\\lwould simply be too strong.",
+  "pt": "Sinto muito, parece que você está com o modo CRIADOR DE CONTEÚDO ativado. Sendo assim, ainda não posso vender estes itens a você. Seriam fortes demais."
+ },
+ {
+  "map": "6.15 DIAMOND CITY",
+  "offset": "02D4BF7",
+  "en": "Wow, we sure are high up…",
+  "pt": "Nossa, como estamos alto…"
+ },
+ {
+  "map": "6.17 DIAMOND CITY",
+  "offset": "02D5085",
+  "en": "Why do I always get stuck at the bottom\\nof the stack?",
+  "pt": "Por que eu sempre fico preso embaixo da pilha?"
+ },
+ {
+  "map": "6.20 DIAMOND CITY",
+  "offset": "02D6842",
+  "en": "WARIO",
+  "pt": "WARIO",
+  "max_width": 36
+ },
+ {
+  "map": "6.21 DIAMOND CITY",
+  "offset": "02D7371",
+  "en": "Beach view villa, I'm loving it!",
+  "pt": "Vila com vista para a praia, tô adorando!"
+ },
+ {
+  "map": "6.24 DIAMOND CITY",
+  "offset": "02D75D5",
+  "en": "If they keep playing this Pyoromon\\ngame, they might try to become\\lPyoromon!",
+  "pt": "Se continuarem jogando esse jogo de Pyoromon, vão acabar tentando virar Pyoromon!"
+ },
+ {
+  "map": "6.25 DIAMOND CITY",
+  "offset": "02D7643",
+  "en": "One of us.",
+  "pt": "Um de nós."
+ },
+ {
+  "map": "6.28 DIAMOND CITY",
+  "offset": "02D83D2",
+  "en": "Those two always have karting on the\\nmind. It drives me crazy.",
+  "pt": "Aqueles dois só pensam em kart. Isso me deixa maluco."
+ },
+ {
+  "map": "6.30 DIAMOND CITY",
+  "offset": "02D84AB",
+  "en": "My son won't look me in the eye anymore.\\nI'm sorry I had to drill into the ground\\lto look for oil, it's not like the\\ldinosaurs were using it or anything.",
+  "pt": "O meu filho não me olha mais nos olhos. Desculpa se tive que perfurar o chão atrás de petróleo, não é como se os dinossauros estivessem usando, né?"
+ },
+ {
+  "map": "7.0 WORLD 4-1",
+  "offset": "02DBFFB",
+  "en": "Meanwhile…",
+  "pt": "Enquanto isso…"
+ },
+ {
+  "map": "7.1 MAIN STREET",
+  "offset": "02DE2F7",
+  "en": "Heh… Think you could get the POWER\\nSTAR without paying up?\\pThe boss sends his regards!",
+  "pt": "Heh… Achou que ia pegar a ESTRELA DE PODER sem pagar?\\pO chefe manda lembranças!"
+ },
+ {
+  "map": "7.2 MAIN STREET",
+  "offset": "02DEDC5",
+  "en": "I gotta get out of this KINGDOM soon.\\pThere's weirdos everywhere.",
+  "pt": "Preciso sair deste REINO logo.\\pTem esquisito por todo lado."
+ },
+ {
+  "map": "7.3 MAIN STREET",
+  "offset": "02DEFA5",
+  "en": "I can help you sell your items and\\nconvert your COINS into PURPLE COINS.\\lWhich would you like?",
+  "pt": "Posso ajudar você a vender os seus itens e converter as suas MOEDAS em MOEDAS ROXAS. O que prefere?"
+ },
+ {
+  "map": "7.6 MAIN STREET",
+  "offset": "02E0C5E",
+  "en": "A vending machine! What would you like\\nto do?",
+  "pt": "Uma máquina de vendas! O que você gostaria de fazer?"
+ },
+ {
+  "map": "7.6 MAIN STREET",
+  "offset": "02E2F9F",
+  "en": "WALUIGI",
+  "pt": "WALUIGI",
+  "max_width": 48
+ },
+ {
+  "map": "7.6 MAIN STREET",
+  "offset": "02E371F",
+  "en": "Huh? How'd you get into GLITTERING\\nCAVE?\\pNo way… you braved 4-2? Pah! This ruins\\nmy entire plan to make some quick cash…",
+  "pt": "Hã? Como você entrou na GRUTA CINTILANTE?\\pNão acredito… você encarou o 4-2? Pfff! Isso arruína todo o meu plano de ganhar uma grana fácil…"
+ },
+ {
+  "map": "7.6 MAIN STREET",
+  "offset": "02E4319",
+  "en": "Hey, I don't recognize you… Are you\\nhere to steal the gems I found?",
+  "pt": "Ei, eu não te conheço… Você veio roubar as pedras preciosas que eu achei?"
+ },
+ {
+  "map": "7.6 MAIN STREET",
+  "offset": "02E49B3",
+  "en": "Oh, hello there! Are you looking for the\\nCASINO?\\pI'm sorry to say, but that's not in this\\nbuilding. You gotta head on down to the\\lfar end of MAIN STREET if you wanna\\lfind it.",
+  "pt": "Ah, olá! Está procurando o CASSINO?\\pSinto dizer, mas não fica neste prédio. Você precisa ir até o fim da RUA PRINCIPAL se quiser encontrá-lo."
+ },
+ {
+  "map": "7.6 MAIN STREET",
+  "offset": "02E4CDE",
+  "en": "I only recently moved to MAIN STREET\\nafter I heard about the brand-new\\lCASINO.\\pI'm gonna strike it out and get rich\\nquick! As soon as I take out a small\\lloan from the guy on this floor, that\\lis…",
+  "pt": "Eu me mudei para a RUA PRINCIPAL há pouco tempo, depois que ouvi falar do CASSINO novinho em folha.\\pVou tirar a sorte grande e ficar rico rapidinho! Assim que eu pegar um empréstimo pequeno com o cara deste andar, claro…"
+ },
+ {
+  "map": "7.6 MAIN STREET",
+  "offset": "02E5242",
+  "en": "Hmm… If only I had some VIRUSES to test\\nthese pills out on…\\pBut the prices at the CASINO are much\\ntoo steep for me…",
+  "pt": "Hum… Se ao menos eu tivesse alguns VÍRUS para testar estas pílulas…\\pMas os preços no CASSINO são altos demais para mim…"
+ },
+ {
+  "map": "7.6 MAIN STREET",
+  "offset": "02E5647",
+  "en": "I hope WALUIGI ends up paying us what\\nwe're owed for the work in GLITTERING\\lCAVE. We need our PURPLE COINS!",
+  "pt": "Espero que o WALUIGI acabe pagando o que nos deve pelo trabalho na GRUTA CINTILANTE. A gente precisa das nossas MOEDAS ROXAS!"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E5D7F",
+  "en": "You feel as if you're being watched…",
+  "pt": "Você sente que está sendo observado…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E62CE",
+  "en": "You have a bad feeling about this…",
+  "pt": "Você está com um mau pressentimento…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7A53",
+  "en": "Your CAPTURES were raised to the next\\nlevel cap!",
+  "pt": "As suas CAPTURAS subiram para o próximo limite de nível!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E92E5",
+  "en": "ÌÌÌ\\nÌ{MN}\\nÌ\\nMARIO! Have you heard? I think we\\nfinally found the secret of the PIT!\\pAlthough, a few explorers have gone in\\nand nobody has come back… Do you think\\lyou wanna give it a shot?",
+  "pt": ""
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E92EE",
+  "en": "MARIO! Have you heard? I think we\\nfinally found the secret of the PIT!\\pAlthough, a few explorers have gone in\\nand nobody has come back… Do you think\\lyou wanna give it a shot?",
+  "pt": "MARIO! Já ficou sabendo? Acho que finalmente descobrimos o segredo do POÇO!\\pSó que alguns exploradores entraram e ninguém voltou… Acha que quer tentar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC12A",
+  "en": "Would you like to mix records with\\nother TRAINERS?",
+  "pt": "Gostaria de misturar recordes com outros TREINADORES?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F2D89",
+  "en": "What's that?\\nWhat am I doing?\\pI'm thinking about making my own room\\nhere using a POKéMON move.\\pI know! I'll give you this TM.\\nWill you use it to make your own room?",
+  "pt": "O que foi? O que eu estou fazendo?\\pEstou pensando em fazer a minha própria sala aqui usando um golpe de CAPTURA.\\pJá sei! Vou te dar esta MT. Você vai usá-la para fazer a sua própria sala?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F316A",
+  "en": "All decorations and furniture in your\\nSECRET BASE will be returned to your PC.\\pIs that okay?",
+  "pt": "Todas as decorações e móveis da sua BASE SECRETA serão devolvidos ao seu PC.\\pTudo bem?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02FB9E9",
+  "en": "Oh, hello! You were in a POKéMON\\nCONTEST, weren't you?\\lIt's easy to tell from your POKéMON.\\pI'm a reporter. I'm working on a story\\non POKéMON CONTESTS.\\pIf I may, would you be willing to answer\\na few questions?",
+  "pt": "Ah, olá! Você participou de um CONCURSO DE CAPTURAS, não foi? Dá para perceber pelas suas CAPTURAS.\\pSou repórter. Estou fazendo uma matéria sobre CONCURSOS DE CAPTURAS.\\pSe me permite, você aceitaria responder a algumas perguntas?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030AC85",
+  "en": "Hi, I'm the TRADER.\\nWant to trade decorations with me?",
+  "pt": "Oi, eu sou o NEGOCIANTE.\\nQuer trocar decorações comigo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030B0CA",
+  "en": "I'm the STORYTELLER.\\nI'll tell you tales of legendary\\lTRAINERS.\\pWill you hear my tale?",
+  "pt": "Eu sou o CONTADOR DE HISTÓRIAS. Vou te contar lendas de TREINADORES lendários.\\pVai ouvir a minha história?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CD03",
+  "en": "I'm GIDDY!\\nI have a scintillating story for you!\\pWould you like to hear my story?",
+  "pt": "Eu sou o GIDDY! Tenho uma história empolgante para você!\\pQuer ouvir a minha história?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030CE62",
+  "en": "Hi, I'm the BARD.\\nWould you like to hear my song?",
+  "pt": "Oi, eu sou o BARDO.\\nGostaria de ouvir a minha canção?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D285",
+  "en": "It's a rugged rock, but a HAMMER\\nmay be able to smash it.",
+  "pt": "É uma rocha áspera, mas um MARTELO talvez consiga quebrá-la."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D341",
+  "en": "It's a big boulder, but it's too heavy\\nto push it aside.",
+  "pt": "É uma pedra enorme, mas é pesada demais para empurrar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D40F",
+  "en": "A wall of water is crashing down with\\na mighty roar.",
+  "pt": "Uma parede de água despenca com um rugido poderoso."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D4D6",
+  "en": "The sea is deep here. A SUIT\\nmay be able to go underwater.",
+  "pt": "O mar é fundo aqui. Com uma ROUPA DE MERGULHO, talvez dê para ir debaixo d'água."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030D566",
+  "en": "Looks like there's nothing here…",
+  "pt": "Parece que não há nada aqui…"
+ },
+ {
+  "map": "8.1 WORLD 5-2",
+  "offset": "030D62A",
+  "en": "Î\\n{STR_VAR_1} used {STR_VAR_2}!",
+  "pt": ""
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030E01A",
+  "en": "Hello there, TRAINER!\\nYou've got a wonderful smile, there.\\pI have a hobby--collecting the profiles\\nof CAPTURE TRAINERS.",
+  "pt": "Olá, TREINADOR!\\nQue sorriso maravilhoso você tem.\\pTenho um passatempo: colecionar perfis de TREINADORES de CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "030F0AE",
+  "en": "{PLAYER} used the LANTERN!",
+  "pt": "{PLAYER} usou a LANTERNA!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0321681",
+  "en": "REPEL's effect wore off…",
+  "pt": "O efeito do REPELENTE acabou…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "03226D1",
+  "en": "œ! úÁThe minimum wager at this table\\nis {STR_VAR_1}. Do you want to play?",
+  "pt": ""
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0325646",
+  "en": "I'm the FAVOR LADY…",
+  "pt": "Eu sou a MOÇA DOS FAVORES…"
+ },
+ {
+  "map": "29.4 LILYCOVE CITY",
+  "offset": "0340E59",
+  "en": "BLEND MASTER: Indeed I am!\\nThe BLEND MASTER am I!\\pBlend with me, and you shall witness\\nthe mastery I bring to blending!",
+  "pt": "MESTRE DO LIQUIDIFICADOR: Sou eu mesmo! O MESTRE DO LIQUIDIFICADOR sou eu!\\pMisture comigo e você vai testemunhar a maestria que eu trago para a mistura!"
+ },
+ {
+  "map": "3.1 WORLD 2-1",
+  "offset": "0346A29",
+  "en": "Feeling tired? Rest up here!\\nNOTE: All patients are subject to\\lexperimental treatment.",
+  "pt": "Cansado? Descanse aqui! AVISO: Todos os pacientes estão sujeitos a tratamento experimental."
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "034768B",
+  "en": "Warp Castles! Enter in one spot, exit in\\nanother!\\pNOTE: We are not responsible for\\nconfused patrons.",
+  "pt": "Castelos Warp! Entre num lugar, saia em outro!\\pAVISO: Não nos responsabilizamos por clientes confusos."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0347FDA",
+  "en": "á\\nTest Trainer",
+  "pt": ""
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03482CD",
+  "en": "ËËËÂ\\nËÎÎÎÎ\\nËËÎÎÎ\\nËËÎÎ\\nËËÎ\\nWelcome to CLOUD CAP, the mushroom\\ntown above the clouds. Things have\\lbeen peaceful lately, thanks to\\lPRINCESS DAISY commandeering BOWSER's\\lairship.",
+  "pt": ""
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03482D2",
+  "en": "ËÎÎÎÎ\\nËËÎÎÎ\\nËËÎÎ\\nËËÎ\\nWelcome to CLOUD CAP, the mushroom\\ntown above the clouds. Things have\\lbeen peaceful lately, thanks to\\lPRINCESS DAISY commandeering BOWSER's\\lairship.",
+  "pt": ""
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03482DE",
+  "en": "ËËÎÎ\\nËËÎ\\nWelcome to CLOUD CAP, the mushroom\\ntown above the clouds. Things have\\lbeen peaceful lately, thanks to\\lPRINCESS DAISY commandeering BOWSER's\\lairship.",
+  "pt": ""
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03482E3",
+  "en": "ËËÎ\\nWelcome to CLOUD CAP, the mushroom\\ntown above the clouds. Things have\\lbeen peaceful lately, thanks to\\lPRINCESS DAISY commandeering BOWSER's\\lairship.",
+  "pt": ""
+ },
+ {
+  "map": "3.2 CLOUD CAP",
+  "offset": "03482E7",
+  "en": "Welcome to CLOUD CAP, the mushroom\\ntown above the clouds. Things have\\lbeen peaceful lately, thanks to\\lPRINCESS DAISY commandeering BOWSER's\\lairship.",
+  "pt": "Bem-vindo a CLOUD CAP, a cidade cogumelo acima das nuvens. As coisas andam tranquilas ultimamente, graças à PRINCESA DAISY, que tomou a aeronave do BOWSER."
+ },
+ {
+  "map": "3.3 WORLD 2-2",
+  "offset": "0349977",
+  "en": "Tomorrow, you better not be late, or\\nyou'll be doing two-space jumps as\\lpunishment.",
+  "pt": "Amanhã, é melhor não se atrasar, ou vai fazer pulos de dois espaços como castigo."
+ },
+ {
+  "map": "8.1 WORLD 5-2",
+  "offset": "035003A",
+  "en": "CAPTAIN TOAD",
+  "pt": "CAPTAIN TOAD",
+  "max_width": 75
+ },
+ {
+  "map": "3.5 DAISY'S CRUISER",
+  "offset": "035235D",
+  "en": "Why are you taking so long?\\pI know the rules say you have to\\nbeat a puzzle to challenge me, but...",
+  "pt": "Por que você está demorando tanto?\\pEu sei que as regras dizem que você precisa resolver um quebra-cabeça para me desafiar, mas..."
+ },
+ {
+  "map": "6.37 NATURE RESERVE",
+  "offset": "0352605",
+  "en": "DIAMOND CITY NATURE RESERVE -\\nPlease don't feed the PYORO.",
+  "pt": "RESERVA NATURAL DE DIAMOND CITY -\\nPor favor, não alimente o PYORO."
+ },
+ {
+  "map": "3.6 CLOUD CAP",
+  "offset": "0352AA1",
+  "en": "Did you know that BOB-OMB learns\\nEXPLOSION at LEVEL 34?\\pDon't believe, look up in your TATTLEDEX\\nBOB-OMB LEVEL 34!",
+  "pt": "Sabia que o BOB-OMB aprende EXPLOSÃO no NÍVEL 34?\\pNão acredita? Procure na sua TATTLEDEX: BOB-OMB, NÍVEL 34!"
+ },
+ {
+  "map": "1.5 JUNGLE VILLAGE",
+  "offset": "035311E",
+  "en": "CAPTAIN TOAD",
+  "pt": "CAPTAIN TOAD",
+  "max_width": 75
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355DAA",
+  "en": "Hey MARIO! Keep yourself safe! It's\\ndangerous out there!",
+  "pt": "Ei, MARIO! Se cuide! É perigoso lá fora!"
+ },
+ {
+  "map": "8.5 JUNGLE VILLAGE",
+  "offset": "03566C2",
+  "en": "Welcome! Would you like to heal your\\nparty?",
+  "pt": "Bem-vindo! Gostaria de curar a sua equipe?"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356965",
+  "en": "Ohhhhh… banana…",
+  "pt": "Ohhhhh… banana…"
+ },
+ {
+  "map": "8.9 KONG KAPITAL",
+  "offset": "0359C97",
+  "en": "Hello! I can speak Mushroomish good! I\\nlike KONG KAPITAL!",
+  "pt": "Olá! Eu fala cogumelês bem! Eu gosta de KONG KAPITAL!"
+ },
+ {
+  "map": "8.13 KONG KAPITAL",
+  "offset": "035B51F",
+  "en": "Working for BOWSER is cool and all, but\\nwould you look at this house!\\pI'm set to settle here and now!",
+  "pt": "Trabalhar pro BOWSER é legal e tal, mas olha só esta casa!\\pVou me instalar aqui e agora!"
+ },
+ {
+  "map": "8.14 KONG KAPITAL",
+  "offset": "035B6ED",
+  "en": "Aaaeee. Eee A A!",
+  "pt": "Aaaeee. Eee A A!"
+ },
+ {
+  "map": "8.15 KONG KAPITAL",
+  "offset": "035B8AB",
+  "en": "I think I'm in the wrong universe, my\\nspell isn't working.\\pHop, step, jump-jump, poo!\\pLet us cooperate, yeah-yeah, woo!\\pMagical spell is Ei-Ei-Poo!\\pSee, nothing!",
+  "pt": "Acho que estou no universo errado, o meu feitiço não está funcionando.\\pHop, step, pula-pula, pu!\\pVamos cooperar, iê-iê, uhu!\\pO feitiço mágico é Ei-Ei-Pu!\\pViu? Nada!"
+ },
+ {
+  "map": "8.18 SAFARI ZONE",
+  "offset": "035BA33",
+  "en": " \\nFOTTO",
+  "pt": ""
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C237",
+  "en": "ÌÌÌÌÌÌÌÌÌÌÌÌ\\nÌÌÌ\\nMARIO! You're back! DONKEY KONG is\\nwaiting.",
+  "pt": ""
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D36F",
+  "en": "&&&&&&&&&õõõõõõõõõõõõõ+++++++++\\nËËËË\\nSorry, LADY PAULINE has restricted\\nentrance to the SEWERS.\\pYou're gonna need official permission if\\nya wanna enter.",
+  "pt": ""
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F2A3",
+  "en": "ÑÑÑ \\nLooks like LUIGI is battling PAULINE.\\nDo you want to join the crowd?",
+  "pt": ""
+ },
+ {
+  "map": "8.21 BANANA TEMPLE",
+  "offset": "0360AB7",
+  "en": "Ô MÒ;ËÌÇÈ←Ë;ËÂWhat's that? How am I here safely?\\pWell, you don't get to be guardian of\\nthe GOLDEN BANANA without earning such\\la position!\\pAfter I got launched by that\\nMAGIKOOPA, I snuck back in and hid out\\luntil everything blew over.\\pAlso got to dodge CRANKY KONG while I\\nwas at it, kekeke.",
+  "pt": ""
+ },
+ {
+  "map": "8.21 BANANA TEMPLE",
+  "offset": "0360AC5",
+  "en": "What's that? How am I here safely?\\pWell, you don't get to be guardian of\\nthe GOLDEN BANANA without earning such\\la position!\\pAfter I got launched by that\\nMAGIKOOPA, I snuck back in and hid out\\luntil everything blew over.\\pAlso got to dodge CRANKY KONG while I\\nwas at it, kekeke.",
+  "pt": "O quê? Como estou aqui são e salvo?\\pBem, ninguém vira guardião da BANANA DOURADA sem merecer o cargo!\\pDepois que fui arremessado por aquele MAGIKOOPA, voltei escondido e fiquei na moita até a poeira baixar.\\pAinda deu para despistar o CRANKY KONG no caminho, kekeke."
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "0361147",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "11.0 NEW DONK SEWERS",
+  "offset": "03616B1",
+  "en": "Water came rushing in from the pipes!",
+  "pt": "A água veio jorrando dos canos!"
+ },
+ {
+  "map": "11.1 NEW DONK SEWERS",
+  "offset": "0361E76",
+  "en": "The sewers aren't so bad! There's space\\nto run around like I just don't care!\\lWahoo!",
+  "pt": "Os esgotos nem são tão ruins! Tem espaço para correr por aí sem se preocupar com nada! Wahoo!"
+ },
+ {
+  "map": "11.2 NEW DONK SEWERS",
+  "offset": "0362949",
+  "en": "Seems like this is a one-way pipe. Do\\nyou still want to take it?",
+  "pt": "Parece que este cano é de mão única. Ainda quer entrar?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03637FB",
+  "en": "PAULINE",
+  "pt": "PAULINE",
+  "max_width": 48
+ },
+ {
+  "map": "12.1 COMET OBSERVATORY",
+  "offset": "0364DFF",
+  "en": "That's a photo finish!",
+  "pt": "Foi decidido na foto!"
+ },
+ {
+  "map": "12.2 WORLD 7-1",
+  "offset": "0366FFB",
+  "en": "MARIO! MAMA told me you're supposed to\\ncollect SILVER STARS in this area!\\pGood luck!",
+  "pt": "MARIO! A MAMÃE me disse que você deve coletar ESTRELAS DE PRATA nesta área!\\pBoa sorte!"
+ },
+ {
+  "map": "12.3 WORLD 7-2",
+  "offset": "0367D2B",
+  "en": "You've already beaten my trial, MARIO.\\nGo find the other SILVER STARS if you\\lhaven't already!",
+  "pt": "Você já superou a minha prova, MARIO. Vá atrás das outras ESTRELAS DE PRATA, se ainda não tiver achado!"
+ },
+ {
+  "map": "11.17 NEW DONK SEWERS",
+  "offset": "0368287",
+  "en": "MARIO found the SECRET INGREDIENT for\\nFELONIUS!",
+  "pt": "MARIO encontrou o INGREDIENTE SECRETO pro FELONIUS!"
+ },
+ {
+  "map": "13.1 BOWSER'S CASTLE",
+  "offset": "0368BED",
+  "en": "You've already unlocked this door.",
+  "pt": "Você já destrancou esta porta."
+ },
+ {
+  "map": "13.2 B. CASTLE 1F",
+  "offset": "0369ACA",
+  "en": "You've already unlocked this door.",
+  "pt": "Você já destrancou esta porta."
+ },
+ {
+  "map": "13.4 B. CASTLE 1F",
+  "offset": "036A491",
+  "en": "There's no need to turn this switch\\nback ON.",
+  "pt": "Não precisa LIGAR este interruptor de novo."
+ },
+ {
+  "map": "13.6 B. CASTLE 1F",
+  "offset": "036AF51",
+  "en": "I keep losing my bait in the lava... I\\ndon't get it. Maybe I don't have what it\\ltakes for LAVA FISHING?\\pHey, do you think you could help me? Try\\nfishing up a LAVA DROP around here. If\\lyou show it to me, I'll give you\\lsomething nice!",
+  "pt": "Vivo perdendo a minha isca na lava... Não entendo. Será que eu não levo jeito para a PESCA NA LAVA?\\pEi, será que você pode me ajudar? Tente pescar um LAVA DROP por aqui. Se me mostrar, eu te dou uma coisa legal!"
+ },
+ {
+  "map": "13.7 CASTLE REST AREA",
+  "offset": "036B525",
+  "en": "Wow, I didn't think you'd get halfway\\nthrough, MARIO.\\pWould you like me to heal your party?",
+  "pt": "Uau, não achei que você chegaria até a metade, MARIO.\\pQuer que eu cure a sua equipe?"
+ },
+ {
+  "map": "13.8 B. CASTLE 2F",
+  "offset": "036BA23",
+  "en": "Welcome to the second floor! We hope\\nyour stay is awful!",
+  "pt": "Bem-vindo ao segundo andar! Esperamos que a sua estadia seja horrível!"
+ },
+ {
+  "map": "13.10 B. CASTLE 2F",
+  "offset": "036C047",
+  "en": "You've already unlocked this door.",
+  "pt": "Você já destrancou esta porta."
+ },
+ {
+  "map": "14.0 MUSHROOM HILL",
+  "offset": "036CB57",
+  "en": "PEACH",
+  "pt": "PEACH",
+  "max_width": 36
+ },
+ {
+  "map": "14.2 MUSHROOM HILL",
+  "offset": "036D80F",
+  "en": "WARIO",
+  "pt": "WARIO",
+  "max_width": 36
+ },
+ {
+  "map": "14.5 MUSHROOM HILL",
+  "offset": "036E576",
+  "en": "You who is in pursuit of strength…\\nwelcome.\\pIf you offer me a BOTTLE CAP, I can\\nraise the potential of your CAPTURE.\\lWhat say you?",
+  "pt": "Você, que busca a força… seja bem-vindo.\\pSe me oferecer uma TAMPINHA, posso aumentar o potencial da sua CAPTURA. O que me diz?"
+ },
+ {
+  "map": "14.6 MUSHROOM HILL",
+  "offset": "036EC3E",
+  "en": "Sorry, but participants are not\\npermitted to leave until they have\\leither completed or failed the\\lchallenge.",
+  "pt": "Desculpe, mas os participantes não podem sair até terem concluído o desafio ou fracassado nele."
+ },
+ {
+  "map": "13.14 BOWSER'S CASTLE",
+  "offset": "037136A",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "2.18 TOAD TOWN SEWER",
+  "offset": "0372BF9",
+  "en": "This brick seems breakable, but not by\\nyour HAMMER.",
+  "pt": "Este tijolo parece quebrável, mas não com o seu MARTELO."
+ },
+ {
+  "map": "12.4 COMET OBSERVATORY",
+  "offset": "0372F6E",
+  "en": "ROSALINA",
+  "pt": "ROSALINA",
+  "max_width": 54
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0373FF3",
+  "en": "E. GADD",
+  "pt": "E. GADD",
+  "max_width": 42
+ },
+ {
+  "map": "2.21 TOAD TOWN",
+  "offset": "037843B",
+  "en": "Welcome to the WARP ZONE! Please head\\ninto the room behind me to find the\\lWARP PIPES.",
+  "pt": "Bem-vindo à ZONA WARP! Por favor, vá até a sala atrás de mim para encontrar os CANOS WARP."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379527",
+  "en": "MARIO!",
+  "pt": "MARIO!",
+  "max_width": 40
+ },
+ {
+  "map": "3.7 WORLD 2-1",
+  "offset": "037A007",
+  "en": "W-What's that? You need to have your\\nparty healed?",
+  "pt": "O-O quê? Você precisa curar a sua equipe?"
+ },
+ {
+  "map": "10.3 NEW DONK CITY",
+  "offset": "037A362",
+  "en": "What's that? Sorry, can't talk right\\nnow, gotta be here when the phone\\lrings! Got an email that a TOSTARENAN\\lprince needs MY help to hide his gold!\\lCan you believe it?",
+  "pt": "O quê? Foi mal, não posso falar agora, tenho que estar aqui quando o telefone tocar! Recebi um e-mail dizendo que um príncipe tostarenense precisa da MINHA ajuda para esconder o ouro dele! Dá pra acreditar?"
+ },
+ {
+  "map": "10.4 NEW DONK CITY",
+  "offset": "037B241",
+  "en": "Whew. Finally, a peaceful respite from\\nthat blathering boss of mine.",
+  "pt": "Ufa. Finalmente, um descanso tranquilo daquele chefe tagarela que eu tenho."
+ },
+ {
+  "map": "10.5 NEW DONK CITY",
+  "offset": "037B8CD",
+  "en": "The KOOPA TROOP owns this building. And\\nwhen I say the TROOP owns it, I mean it!\\pWe've got more share here than LORD\\nBOWSER!",
+  "pt": "A TROPA KOOPA é dona deste prédio. E quando eu digo que a TROPA é dona, é dona mesmo!\\pA gente tem mais participação aqui que o LORDE BOWSER!"
+ },
+ {
+  "map": "2.24 TOAD TOWN",
+  "offset": "037BB4D",
+  "en": "Back in my day we didn't have CAPTURE\\nCENTERS! We had good old fashion 1-Ups!\\pIf you didn't have an extra on you then\\nit's game over and back to the start!",
+  "pt": "No meu tempo não tinha CENTRO CAPTURA! A gente tinha os bons e velhos 1-Ups!\\pSe você não tivesse um sobrando, era fim de jogo e volta pro começo!"
+ },
+ {
+  "map": "10.6 NEW DONK CITY",
+  "offset": "037BE5D",
+  "en": "We took out an insurance policy on this\\nbuilding, but turns out it doesn't end\\lup being very valid when you work with\\lPURPLE COINS. Here, you can just have\\lit. You'd be doing us a favor.",
+  "pt": "Fizemos um seguro para este prédio, mas acontece que ele não vale muita coisa quando se trabalha com MOEDAS ROXAS. Tome, pode ficar com ele. Você estaria nos fazendo um favor."
+ },
+ {
+  "map": "10.8 NEW DONK CITY",
+  "offset": "037C057",
+  "en": "Woah there, friend! Be careful if you're\\nplanning on heading past this hallway.\\pThe employees of this building are way\\ninto the C.A.P. CHALLENGE and all its\\lwacky gimmicks, so be prepared for some\\lunconventional battles!",
+  "pt": "Opa, amigo! Cuidado se estiver pensando em passar deste corredor.\\pOs funcionários deste prédio são vidrados no DESAFIO C.A.P. e em todas as suas regras malucas, então se prepare para umas batalhas nada convencionais!"
+ },
+ {
+  "map": "10.9 NEW DONK CITY",
+  "offset": "037C337",
+  "en": "Boo!",
+  "pt": "Bu!"
+ },
+ {
+  "map": "14.8 MUSHROOM HILL",
+  "offset": "037CAA6",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "2.26 TOAD TOWN",
+  "offset": "037D40F",
+  "en": "Excuse me! MARIO, right? Would you mind\\ndoing me a favor? My grandson went out\\lto 1-2 a few hours back and hasn't come\\lback.\\pI'm just fraught with worry! Won't you\\nplease go search for him?",
+  "pt": "Com licença! MARIO, né? Poderia me fazer um favor? O meu neto foi até o 1-2 há algumas horas e não voltou.\\pEstou morrendo de preocupação! Não poderia ir procurar por ele?"
+ },
+ {
+  "map": "4.8 PEACH'S CASTLE",
+  "offset": "037ED8B",
+  "en": "I'm sniffin' out for that WISH the\\nPRINCESS is offering!\\pWhat do you mean I'm a CAPTURE?!",
+  "pt": "Tô farejando aquele DESEJO que a PRINCESA está oferecendo!\\pComo assim eu sou uma CAPTURA?!"
+ },
+ {
+  "map": "4.9 PEACH'S CASTLE",
+  "offset": "037EEC5",
+  "en": "Wait, is there a PHYSICAL/SPECIAL\\nsplit, or is it TYPE-based in this game?",
+  "pt": "Peraí, tem divisão FÍSICO/ESPECIAL ou é baseado no TIPO neste jogo?"
+ },
+ {
+  "map": "14.9 RAINBOW ROAD PEAK",
+  "offset": "037F64D",
+  "en": "This boost panel leads to the ELITE\\nFOUR. Are you ready?",
+  "pt": "Este painel de aceleração leva à ELITE DOS QUATRO. Está pronto?"
+ },
+ {
+  "map": "14.10 RAINBOW ROAD",
+  "offset": "0380439",
+  "en": "RAINBOW ROAD is ruthless! I hope you\\nhave faith in your karting skills,\\lotherwise you'll be going over the edge!",
+  "pt": "A RAINBOW ROAD é impiedosa! Espero que você confie nas suas habilidades no kart, senão vai acabar caindo da beirada!"
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "0380F2F",
+  "en": "A lot of racers complain that RAINBOW\\nROAD is too long with nowhere to stop\\land heal up their team or repair their\\lkart.\\pI say that's a skill issue. If you've\\nmade it this far, you're probably\\lsitting on tons of coins you could've\\lused to stock up on supplies.",
+  "pt": "Muitos pilotos reclamam que a RAINBOW ROAD é longa demais, sem ter onde parar pra curar a equipe ou consertar o kart.\\pEu digo que é falta de habilidade. Se você chegou até aqui, provavelmente está sentado em uma montanha de moedas que podia ter usado pra se abastecer."
+ },
+ {
+  "map": "14.12 RAINBOW ROAD",
+  "offset": "0381659",
+  "en": "I think the stars on the left side of\\nthe ROAD read something, MARIO?\\pThink you can make it out?",
+  "pt": "Acho que as estrelas do lado esquerdo da ESTRADA formam alguma palavra, MARIO?\\pAcha que consegue decifrar?"
+ },
+ {
+  "map": "6.40 ASHLEY'S HOUSE",
+  "offset": "03818DA",
+  "en": "There seems to be a switch on the back\\nof this statue… Press it?",
+  "pt": "Parece haver um interruptor atrás desta estátua… Apertar?"
+ },
+ {
+  "map": "6.41 ASHLEY'S HOUSE",
+  "offset": "0381F79",
+  "en": "RED",
+  "pt": "RED",
+  "max_width": 24
+ },
+ {
+  "map": "3.8 WORLD 2-1",
+  "offset": "0382DC7",
+  "en": "Hey MARIO, I've got a little challenge\\nhere for you.\\pIf you can beat the BULLET BILL to the\\nend of the track, you'll find yourself a\\lfantastic reward!\\pIt might be a little tough to win just by\\nrunning, I recommend hopping on a YOSHI\\lor into a KART.",
+  "pt": "Ei, MARIO, tenho um pequeno desafio para você.\\pSe conseguir chegar ao fim da pista antes do BULLET BILL, vai encontrar uma recompensa fantástica!\\pPode ser meio difícil vencer só correndo, recomendo subir num YOSHI ou num KART."
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "038339B",
+  "en": "The way to the CHAMPION is now open!",
+  "pt": "O caminho até o CAMPEÃO está aberto!"
+ },
+ {
+  "map": "2.28 TOAD TOWN SEWER",
+  "offset": "0383757",
+  "en": "People toss all kinds of stuff down\\nhere, and sometimes they get trapped\\lbetween the rocks.\\pDon't forget to check every nook and\\ncranny if you're looking to dumpster\\ldive.",
+  "pt": "O pessoal joga todo tipo de coisa aqui embaixo, e às vezes elas ficam presas entre as pedras.\\pNão se esqueça de olhar cada cantinho se estiver a fim de garimpar no lixo."
+ },
+ {
+  "map": "16.1 GLITZ PIT",
+  "offset": "0386685",
+  "en": "Entering the GLITZ PIT, it's the\\nmerciless executioner…\\pTHE GREAT GOOOOOOONZALES!",
+  "pt": "Entrando no GLITZ PIT, é o carrasco impiedoso…\\pO GRANDE GOOOOOOONZALES!"
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "0386C99",
+  "en": "Hey MARIO! Welcome to the LINKING\\nCLUB! Everything up here should work\\lwell enough, but please be aware of the\\lfollowing!:\\pWe are not responsible for any bugs\\nthat may occur while using the link\\ltrade or battle features while playing\\lSUPER MARIOMON. We hope everything\\lworks out and you're able to have fun\\lwith it!",
+  "pt": "Ei, MARIO! Bem-vindo ao CLUBE DE CONEXÃO! Tudo aqui em cima deve funcionar bem, mas, por favor, fique atento ao seguinte!:\\pNão nos responsabilizamos por bugs que possam ocorrer ao usar as funções de troca ou batalha por cabo enquanto joga SUPER MARIOMON. Esperamos que tudo dê certo e que você consiga se divertir com isso!"
+ },
+ {
+  "map": "1.6 ABANDONED SHIP",
+  "offset": "0C12A27",
+  "en": "+PÏixi",
+  "pt": ""
+ },
+ {
+  "offset": "003C89A",
+  "en": "T{F7 15}{F8 00}É û WnmS{F7 C7}",
+  "pt": "",
+  "max_width": 108
+ },
+ {
+  "offset": "0070807",
+  "en": "W :x",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0119CBE",
+  "en": " :E{F8 0A}l :t{F8 07}l :e{F8 04}l :h{F8 01}l :",
+  "pt": "",
+  "max_width": 142
+ },
+ {
+  "offset": "01FC916",
+  "en": "QüY",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "022060A",
+  "en": "Ô )ÉòËÌÁÁWhere has our WALLY gone?\\pWe have to leave for VERDANTURF TOWN\\nvery soon…",
+  "pt": ""
+ },
+ {
+  "offset": "0228ABB",
+  "en": "Do you want it?",
+  "pt": ""
+ },
+ {
+  "offset": "022EFDB",
+  "en": "Ô .ÖòËÌÂÁSomething's happening,\\nand I don't like it!\\pI've seen shady characters wandering\\nin and out of PROF. COZMO's home…",
+  "pt": ""
+ },
+ {
+  "offset": "022F36D",
+  "en": "Ô X{F7 22}ËÌÂÁMy papa told me.\\pHe says this tunnel is full of\\ntimid POKéMON.\\pThey get all scared of loud noise and\\nmake a big uproar.\\pSo they had to stop the big tunnel\\nproject.\\pBut there's one man. He's trying to dig\\nthe tunnel by himself!",
+  "pt": ""
+ },
+ {
+  "offset": "022F84E",
+  "en": "Ô œ{F9 22}ËÌÁÁÔ Ü{F9 22}ËÌÂÁThe sea between PACIFIDLOG and\\nSLATEPORT has a fast-running tide.\\pIf you decide to SURF, you could end\\nup swept away somewhere else.",
+  "pt": ""
+ },
+ {
+  "offset": "022F857",
+  "en": "Ô Ü{F9 22}ËÌÂÁThe sea between PACIFIDLOG and\\nSLATEPORT has a fast-running tide.\\pIf you decide to SURF, you could end\\nup swept away somewhere else.",
+  "pt": ""
+ },
+ {
+  "offset": "022FF43",
+  "en": "(     ·ÚÃËÇÛÃËÔ úÛÃËÌÉÁ(     >ÙÃËAÙÃËÔ xÙÃËÌÉÁWALLY: {PLAYER}…\\nPOKéMON hide in tall grass like this,\\ldon't they?\\pPlease watch me and see if I can\\ncatch one properly.\\p…Whoa!",
+  "pt": ""
+ },
+ {
+  "offset": "022FF57",
+  "en": "ÌÉÁ(     >ÙÃËAÙÃËÔ xÙÃËÌÉÁWALLY: {PLAYER}…\\nPOKéMON hide in tall grass like this,\\ldon't they?\\pPlease watch me and see if I can\\ncatch one properly.\\p…Whoa!",
+  "pt": ""
+ },
+ {
+  "offset": "022FF5A",
+  "en": "(     >ÙÃËAÙÃËÔ xÙÃËÌÉÁWALLY: {PLAYER}…\\nPOKéMON hide in tall grass like this,\\ldon't they?\\pPlease watch me and see if I can\\ncatch one properly.\\p…Whoa!",
+  "pt": ""
+ },
+ {
+  "offset": "02351C1",
+  "en": "Ô ♀ÍóËÌÂÁHello! I take it you're a traveler.\\pHow's this? What do you say to taking\\non our family of four in a series of\\lPOKéMON battles?",
+  "pt": ""
+ },
+ {
+  "offset": "02396C9",
+  "en": "(     H×ÃËÖ×ÃËÔ Û/ÃËÌÉÁSTEVEN: Hm? {PLAYER}{KUN}, hi.\\nIt's been a while.\\pThere's something here that you can't\\nsee, right?\\pNow, if I were to use this device on\\nthe invisible obstacle…\\pNo, no. Rather than describing it,\\nI should just show you.\\lThat would be more fun.\\p{PLAYER}{KUN}, are your POKéMON ready for\\nbattle?",
+  "pt": ""
+ },
+ {
+  "offset": "023FDCF",
+  "en": "Ô é\\nóËÌÁÁWhen POKéMON battle, they eventually\\nlevel up and become stronger.",
+  "pt": ""
+ },
+ {
+  "offset": "0240115",
+  "en": "Ô 3ÀôËÌÁÁThe clerk says they're all sold out.\\nI can't buy any POKé BALLS.",
+  "pt": ""
+ },
+ {
+  "offset": "02403B1",
+  "en": "Ô IÂôËÌÁÁÔ èÇôËÌÁÁThere's a stone cavern at the edge\\nof town.\\pI've heard you can find rare stones\\nthere.",
+  "pt": ""
+ },
+ {
+  "offset": "02403BA",
+  "en": "Ô èÇôËÌÁÁThere's a stone cavern at the edge\\nof town.\\pI've heard you can find rare stones\\nthere.",
+  "pt": ""
+ },
+ {
+  "offset": "02420DD",
+  "en": "Ô …òôËÌÁÁGorge your eyes on this!\\pIt's a SILK SCARF. It's right at the\\ncutting edge of fashion, yeah!\\pOh, I can see your eyes twinkling!\\nYou appreciate my dazzling style!\\pOh, you're a delight!\\nHere you go. I want you to have it!",
+  "pt": ""
+ },
+ {
+  "offset": "0245431",
+  "en": "It doesn't appear as if I have any move\\nI can teach that POKéMON.",
+  "pt": ""
+ },
+ {
+  "offset": "024C493",
+  "en": "Ô ÉKôËÌÁÁDesigning a large ship is more like\\nmaking a big building than putting\\ltogether a transportation vehicle.",
+  "pt": ""
+ },
+ {
+  "offset": "0251936",
+  "en": "Ô ËèœËÌÁÁWant a tip for battling?\\pI'd say it's raising different kinds\\nof POKéMON in a balanced manner.\\pIt's no good to make just one\\nPOKéMON strong.\\pIf it has a type disadvantage,\\nit might not stand a chance.",
+  "pt": ""
+ },
+ {
+  "offset": "0258D22",
+  "en": "Ô {F8 8D}œËÌÁÁI'm buying some PARLYZ HEALS and\\nANTIDOTES.\\pJust in case I run into SHROOMISH\\nin PETALBURG WOODS.",
+  "pt": ""
+ },
+ {
+  "offset": "025B191",
+  "en": "Ô ?“œËÌÁÁÔ Ì”œËÌÁÁÔ A”œËÌÁÁListen, kid, are you working\\non a POKéDEX?\\pHmm… Go to the SAFARI ZONE.\\nThat's my suggestion.",
+  "pt": ""
+ }
+]

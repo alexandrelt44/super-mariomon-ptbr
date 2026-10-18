@@ -1,0 +1,1358 @@
+[
+ {
+  "map": "24.2 DAISY'S CRUISER",
+  "offset": "024B5F8",
+  "en": "Traveling is wonderful!\\pWhen I was young, I roamed the seas\\nand the mountains!",
+  "pt": "Viajar é maravilhoso!\\pQuando eu era jovem, percorri os mares e as montanhas!"
+ },
+ {
+  "map": "24.2 DAISY'S CRUISER",
+  "offset": "024B647",
+  "en": "Sigh…\\pI wish I could go on an adventure\\nwith some POKéMON…\\pCrawl through some damp grass…\\nClimb rocky, rugged mountains…\\pCross the raging seas…\\nWander about in dark caves…\\pAnd, sometimes, even get a little\\nhomesick…\\pIt must be fabulous to travel!",
+  "pt": "Ai, ai…\\pQueria tanto sair numa aventura com algumas CAPTURAS…\\pRastejar pelo mato úmido… Escalar montanhas rochosas e escarpadas…\\pAtravessar mares revoltos… Vagar por cavernas escuras…\\pE, de vez em quando, até sentir um pouquinho de saudade de casa…\\pDeve ser fabuloso viajar!"
+ },
+ {
+  "map": "24.3 DAISY'S CRUISER",
+  "offset": "024B7B5",
+  "en": "I battled NORMAN once, but, whew,\\nhe was way too strong.\\pHow would I put it?\\pI just got the feeling that he\\nlives for POKéMON.",
+  "pt": "Eu batalhei com o NORMAN uma vez, mas, nossa, ele era forte demais.\\pComo posso dizer?\\pTive a impressão de que ele vive para as CAPTURAS."
+ },
+ {
+  "map": "24.4 DAISY'S CRUISER",
+  "offset": "024B922",
+  "en": "When my POKéMON ate an\\nORAN BERRY, it regained HP!",
+  "pt": "Quando a minha CAPTURA comeu uma FRUTA ORAN, ela recuperou HP!"
+ },
+ {
+  "map": "24.4 DAISY'S CRUISER",
+  "offset": "024B955",
+  "en": "There are many types of POKéMON.\\pAll types have their strengths and\\nweaknesses against other types.\\pDepending on the types of POKéMON,\\na battle could be easy or hard.",
+  "pt": "Existem muitos tipos de CAPTURAS.\\pTodos os tipos têm pontos fortes e fracos contra outros tipos.\\pDependendo dos tipos das CAPTURAS, uma batalha pode ser fácil ou difícil."
+ },
+ {
+  "map": "24.4 DAISY'S CRUISER",
+  "offset": "024B9FC",
+  "en": "For example, your TREECKO\\nis a GRASS type.\\pIt's strong against the WATER and\\nGROUND types.\\pBut, it's weak against FIRE-type\\nPOKéMON.",
+  "pt": "Por exemplo, o seu TREECKO é do tipo PLANTA.\\pEle é forte contra os tipos ÁGUA e TERRA.\\pMas é fraco contra CAPTURAS do tipo FOGO."
+ },
+ {
+  "map": "24.4 DAISY'S CRUISER",
+  "offset": "024BA81",
+  "en": "For example, your TORCHIC\\nis a FIRE type.\\pIt's strong against the GRASS and\\nBUG types.\\pBut, it's weak against WATER-type\\nPOKéMON.",
+  "pt": "Por exemplo, o seu TORCHIC é do tipo FOGO.\\pEle é forte contra os tipos PLANTA e INSETO.\\pMas é fraco contra CAPTURAS do tipo ÁGUA."
+ },
+ {
+  "map": "24.4 DAISY'S CRUISER",
+  "offset": "024BB03",
+  "en": "For example, your MUDKIP\\nis a WATER type.\\pIt's strong against the FIRE type.\\pBut, it's weak against GRASS-type\\nand ELECTRIC-type POKéMON.",
+  "pt": "Por exemplo, o seu MUDKIP é do tipo ÁGUA.\\pEle é forte contra o tipo FOGO.\\pMas é fraco contra CAPTURAS dos tipos PLANTA e ELÉTRICO."
+ },
+ {
+  "map": "24.6 DAISY'S CRUISER",
+  "offset": "024BCAC",
+  "en": "Do you use REPEL?\\nIt keeps POKéMON away, so it's\\luseful when you're in a hurry.",
+  "pt": "Você usa REPELENTE? Ele mantém as CAPTURAS afastadas, então é útil quando você está com pressa."
+ },
+ {
+  "map": "24.6 DAISY'S CRUISER",
+  "offset": "024BCFC",
+  "en": "Do you have any ANTIDOTES with\\nyou?\\pIf you walk around with a poisoned\\nPOKéMON, it will lose HP until it faints.\\lTake some ANTIDOTES with you.",
+  "pt": "Você tem algum ANTÍDOTO aí?\\pSe você andar por aí com uma CAPTURA envenenada, ela vai perder HP até desmaiar. Leve uns ANTÍDOTOS com você."
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024BE54",
+  "en": "Umm… If this goes here, and that\\ngoes over there…\\pThen where does this thing go?\\nAnd what about that doohickey?\\pAaargh! I can't make heads or tails\\nof this!",
+  "pt": "Hum… Se isto vai aqui, e aquilo vai ali…\\pEntão onde vai esta coisa? E aquela geringonça?\\pAaargh! Não consigo entender nada disso!"
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024BEF1",
+  "en": "Hm?\\nHi, I'm DOCK.\\pCAPT. STERN commissioned me to\\ndesign a ferry.\\pOh! That there…\\nAre they DEVON GOODS?\\pBut, hmm…\\nThis won't do…\\pCAPT. STERN went off somewhere.\\nHe said he had some work to do.\\pCould I get you to go find CAPT.\\nSTERN and deliver that to him?",
+  "pt": "Hã? Oi, eu sou o DOCK.\\pO CAPITÃO STERN me encarregou de projetar uma balsa.\\pOh! Isso aí… São as MERCADORIAS DA DEVON?\\pMas, hmm… Assim não dá…\\pO CAPITÃO STERN saiu para algum lugar. Disse que tinha um trabalho a fazer.\\pVocê poderia encontrar o CAPITÃO STERN e entregar isso a ele?"
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024BFF1",
+  "en": "DOCK: Where could CAPT. STERN have\\ngone off to?\\pCould you go find CAPT. STERN and\\ndeliver that parcel to him?",
+  "pt": "DOCK: Aonde será que o CAPITÃO STERN foi?\\pVocê poderia encontrar o CAPITÃO STERN e entregar aquele pacote a ele?"
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024C05F",
+  "en": "DOCK: Shipbuilding is an art.\\pA lot of things can't be figured out\\njust by calculating.\\pI really could use advice from a veteran\\nwho knows the seas…",
+  "pt": "DOCK: Construir navios é uma arte.\\pMuita coisa não dá pra resolver só fazendo cálculos.\\pEu bem que precisava dos conselhos de um veterano que conhece os mares…"
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024C0F4",
+  "en": "DOCK: Hi! MR. BRINEY's joined us to\\nlend us his help.\\pThanks to the veteran sailor, the\\nferry is steadily coming together.",
+  "pt": "DOCK: Oi! O SR. BRINEY se juntou a nós para dar uma mão.\\pGraças ao velho marinheiro, a balsa está ficando pronta aos poucos."
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024C16F",
+  "en": "DOCK: The ferry is finally ready!\\pThe new S.S. TIDAL is truly a marvel\\nof technology!\\pBut, I get the feeling that we can\\nmake something even better.\\pYou know, there's never an end to\\ntechnology's march.",
+  "pt": "DOCK: A balsa finalmente está pronta!\\pO novo S.S. TIDAL é uma verdadeira maravilha da tecnologia!\\pMas tenho a impressão de que dá pra fazer algo ainda melhor.\\pSabe, a marcha da tecnologia nunca tem fim."
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024C23A",
+  "en": "MR. BRINEY: Ah, {PLAYER}{KUN}!\\nIt's been too long!\\pAye, since I met you, this old sea dog's\\nbeen feeling frisky!\\pSo I've decided to help DOCK make\\na ferry.\\pAye, after all, a ferry would be able\\nto carry a lot of people.\\pBut, you know, that DOCK is really\\nsomething special.\\pWith his knack for technology and\\nmy experience, I'm sure that we can\\lbuild one great ship, aye!",
+  "pt": "SR. BRINEY: Ah, {PLAYER}{KUN}! Quanto tempo!\\pPois é, desde que te conheci, este velho lobo do mar anda cheio de energia!\\pEntão decidi ajudar o DOCK a construir uma balsa.\\pPois é, afinal, uma balsa pode levar um monte de gente.\\pMas, sabe, esse DOCK é mesmo especial.\\pCom o talento dele para a tecnologia e a minha experiência, tenho certeza de que vamos construir um baita navio, ora se vamos!"
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024C3A4",
+  "en": "The seasons, the weather, where\\nthe moon sits in the sky…\\pThese and other conditions make\\nthe sea change its expression.\\pThat's right!\\nThe sea is like a living thing!",
+  "pt": "As estações, o clima, a posição da lua no céu…\\pEssas e outras condições fazem o mar mudar de expressão.\\pIsso mesmo! O mar é como um ser vivo!"
+ },
+ {
+  "map": "25.0 SLATEPORT CITY",
+  "offset": "024C44B",
+  "en": "I get seasick real easily.\\nSo I get to help out here instead.",
+  "pt": "Eu enjoo no mar com muita facilidade. Por isso, fico ajudando aqui."
+ },
+ {
+  "map": "25.1 SLATEPORT CITY",
+  "offset": "024C49C",
+  "en": "Designing a large ship is more like\\nmaking a big building than putting\\ltogether a transportation vehicle.",
+  "pt": "Projetar um navio grande é mais parecido com construir um prédio enorme do que com montar um meio de transporte."
+ },
+ {
+  "map": "25.1 SLATEPORT CITY",
+  "offset": "024C506",
+  "en": "Don't you think it's strange that\\na ship made of heavy iron floats?\\pIt floats because of a principle\\ncalled buoyancy.",
+  "pt": "Não acha estranho que um navio feito de ferro pesado flutue?\\pEle flutua por causa de um princípio chamado empuxo."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "024CAA8",
+  "en": "That's, like, TM41, you know?\\nHey, it's TORMENT, you hearing me?\\pLike, it won't let the other guy\\nuse the same move twice in a row, see?\\pHey, now, you listen here, like,\\nI'm not laying a torment on you!",
+  "pt": "Tipo, isso aí é o TM41, sacou? Ei, é o TORMENTO, tá me ouvindo?\\pTipo, ele não deixa o outro cara usar o mesmo golpe duas vezes seguidas, entende?\\pEi, agora, escuta aqui, tipo, eu não tô te atormentando, não!"
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "024CB73",
+  "en": "I don't really like BUG POKéMON,\\nbut maybe I'll try using some for\\la change of pace.\\pWho knows, I might even get to like\\nthem!",
+  "pt": "Eu não curto muito CAPTURAS do tipo INSETO, mas talvez eu use algumas pra variar.\\pVai saber, talvez eu até comece a gostar delas!"
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "024CBF2",
+  "en": "You can battle all you want here even\\nif you don't have any tough POKéMON.",
+  "pt": "Aqui você pode batalhar à vontade, mesmo sem ter CAPTURAS fortes."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "024CC3D",
+  "en": "Wouldn't it be nice if they had more of\\na selection?",
+  "pt": "Não seria legal se tivesse mais opções?"
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "029D668",
+  "en": "The Battle Swap rules are listed.",
+  "pt": "Aqui estão as regras da Troca de Batalha."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "029D68A",
+  "en": "Which heading do you want to read?",
+  "pt": "Qual tópico você quer ler?"
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "03423ED",
+  "en": "Welcome to the DIAMOND CITY\\nRENTAL FACILITY!\\pI am your guide to the Battle Swap\\nTournament.",
+  "pt": "Bem-vindo ao CENTRO DE ALUGUEL de DIAMOND CITY!\\pEu sou o guia do Torneio de Troca de Batalha."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342449",
+  "en": "Would you like to take the Battle\\nSwap challenge?",
+  "pt": "Gostaria de encarar o desafio da Troca de Batalha?"
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "034247B",
+  "en": "Here at the RENTAL FACILITY,\\nwe hold Battle Swap events\\lusing HOLO-CAPTURES.\\pFirst, you will be loaned three\\nCAPTURES specifically for this event.\\pUsing the supplied rental CAPTURES,\\nyou must conduct a SINGLE BATTLE.\\pIf you win, you are permitted to trade\\none of your rental CAPTURES.\\pRepeat this cycle of battling and\\ntrading--if you win three times in\\la row, you will earn a fine prize.\\pIf you want to interrupt your\\nchallenge, please save the game.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "Aqui no CENTRO DE ALUGUEL, realizamos eventos de Troca de Batalha usando HOLOCAPTURAS.\\pPrimeiro, você receberá três CAPTURAS emprestadas especialmente para este evento.\\pUsando essas CAPTURAS alugadas, você deve disputar uma BATALHA INDIVIDUAL.\\pSe vencer, você poderá trocar uma das suas CAPTURAS alugadas.\\pRepita esse ciclo de batalhar e trocar. Se vencer três vezes seguidas, você ganhará um belo prêmio.\\pSe quiser interromper o seu desafio, salve o jogo.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342680",
+  "en": "We look forward to your next visit.",
+  "pt": "Esperamos a sua próxima visita."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342768",
+  "en": "Please step this way.",
+  "pt": "Por aqui, por favor."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "034277E",
+  "en": "Thank you for participating!\\pI will return your CAPTURES in exchange\\nfor our rental CAPTURES.\\pI must also save your event results.\\nPlease wait.",
+  "pt": "Obrigado por participar!\\pVou devolver as suas CAPTURAS em troca das nossas CAPTURAS alugadas.\\pTambém preciso salvar os resultados do seu evento. Aguarde, por favor."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "034284F",
+  "en": "Congratulations!\\nYou've won three straight matches!\\pI will return your CAPTURES in exchange\\nfor our rental CAPTURES.\\pI must also save your event results.\\nPlease wait.",
+  "pt": "Parabéns! Você venceu três partidas seguidas!\\pVou devolver as suas CAPTURAS em troca das nossas CAPTURAS alugadas.\\pTambém preciso salvar os resultados do seu evento. Aguarde, por favor."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "03428F6",
+  "en": "In recognition of your 3-win streak,\\nwe award you this prize.",
+  "pt": "Em reconhecimento à sua sequência de 3 vitórias, entregamos a você este prêmio."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342934",
+  "en": "Oh?\\nYou seem to have no room for this.\\pPlease make room in your BAG and\\nlet me know.",
+  "pt": "Hã? Parece que você não tem espaço para isto.\\pAbra espaço na sua BOLSA e me avise."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342989",
+  "en": "We've been waiting for you!\\pBefore we resume your challenge,\\nI must save the game.",
+  "pt": "Estávamos esperando por você!\\pAntes de retomarmos o seu desafio, preciso salvar o jogo."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "03429DC",
+  "en": "I'm sorry to say this, but you didn't\\nsave before you quit playing last time.\\pAs a result, you have been disqualified\\nfrom your challenge.",
+  "pt": "Lamento dizer, mas você não salvou antes de parar de jogar da última vez.\\pPor isso, você foi desclassificado do seu desafio."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342AEB",
+  "en": "In a Battle Swap event, you may use\\nonly three CAPTURES.\\pWhether you are renting or swapping,\\nyour team may not have two or more\\lof the same CAPTURES.",
+  "pt": "Num evento de Troca de Batalha, você só pode usar três CAPTURAS.\\pSeja alugando ou trocando, sua equipe não pode ter duas ou mais CAPTURAS iguais."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342B82",
+  "en": "You may swap CAPTURES only with\\nthe TRAINER you have just defeated.\\pYou may swap for only those CAPTURES\\nused by the beaten TRAINER.",
+  "pt": "Você só pode trocar CAPTURAS com o TREINADOR que acabou de derrotar.\\pE só pode trocar pelas CAPTURAS usadas pelo TREINADOR derrotado."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342C07",
+  "en": "After every battle you win, you may\\nswap for one of your defeated\\lopponent's CAPTURES.\\pYou will not be able to swap CAPTURES\\nwith the third TRAINER in the event.",
+  "pt": "Depois de cada batalha vencida, você pode trocar por uma das CAPTURAS do adversário derrotado.\\pVocê não poderá trocar CAPTURAS com o terceiro TREINADOR do evento."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342CA9",
+  "en": "There are two key points to be aware\\nof when swapping CAPTURES.\\pFirst, when swapping, you can't check\\nthe stats of the CAPTURES you are\\labout to receive.\\pSecond, the CAPTURES on your team\\nare lined up in sequence, depending on\\lthe order in which you rented them.\\pThis sequence remains unchanged\\neven when swaps are made.",
+  "pt": "Há dois pontos importantes para ficar atento ao trocar CAPTURAS.\\pPrimeiro: ao trocar, você não pode ver os atributos das CAPTURAS que está prestes a receber.\\pSegundo: as CAPTURAS da sua equipe ficam em sequência, de acordo com a ordem em que foram alugadas.\\pEssa sequência não muda, mesmo quando há trocas."
+ },
+ {
+  "map": "25.2 SLATEPORT CITY",
+  "offset": "0342DEA",
+  "en": "The CAPTURES of the RENTAL\\nFACILITY are all rentals.\\pAll rental CAPTURES are kept at\\nLevel 30.",
+  "pt": "As CAPTURAS do CENTRO DE ALUGUEL são todas alugadas.\\pTodas as CAPTURAS alugadas são mantidas no Nível 30."
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "024CEB4",
+  "en": "Ì{MN}\\nWant a tasty little bit of advice\\nfor CONTESTS?\\pUsing a certain move after another\\ncertain kind of move sometimes gets\\lyou extra attention.\\pIf you know what you're doing,\\nyou can score big in appeal.\\pOf course, your opponents might try\\ndisrupting your POKéMON's showing.",
+  "pt": "Ì{MN}\\nQuer uma dica saborosa sobre\\los CONCURSOS?\\pUsar um certo golpe depois de outro tipo de golpe às vezes chama mais atenção.\\pSe você souber o que está fazendo, dá pra marcar muitos pontos de apelo.\\pÉ claro que os seus adversários podem tentar atrapalhar a apresentação da sua CAPTURA."
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029E18A",
+  "en": "Thank you for competing!\\nLet us restore your CAPTURES!",
+  "pt": "Obrigado por competir! Vamos restaurar as suas CAPTURAS!"
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029E1C1",
+  "en": "The 2nd match is next!\\nAre you ready?",
+  "pt": "A segunda partida vem aí! Está pronto?"
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029E1E7",
+  "en": "The 3rd match is next!\\nAre you ready?",
+  "pt": "A terceira partida vem aí! Está pronto?"
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029E2AE",
+  "en": "Would you like to save and quit\\nthe game?",
+  "pt": "Gostaria de salvar e sair do jogo?"
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029E2D8",
+  "en": "Would you like to retire from your\\nBattle Swap challenge?",
+  "pt": "Gostaria de desistir do seu desafio da Troca de Batalha?"
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029EAD1",
+  "en": "Before starting the battle, would you\\nlike to swap a CAPTURE?",
+  "pt": "Antes de começar a batalha, gostaria de trocar uma CAPTURA?"
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029EB0F",
+  "en": "Thank you!\\nYour CAPTURE swap is complete.",
+  "pt": "Obrigado! A troca de CAPTURA foi concluída."
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029EB39",
+  "en": "Right this way, please!",
+  "pt": "Por aqui, por favor!"
+ },
+ {
+  "map": "25.3 SLATEPORT CITY",
+  "offset": "029EB51",
+  "en": "I am saving your data.\\nPlease wait.",
+  "pt": "Estou salvando os seus dados. Aguarde, por favor."
+ },
+ {
+  "map": "25.5 SLATEPORT CITY",
+  "offset": "024DA4B",
+  "en": "Which POKéMON's nickname should\\nI critique?",
+  "pt": "De qual CAPTURA devo avaliar o apelido?"
+ },
+ {
+  "map": "25.5 SLATEPORT CITY",
+  "offset": "024DA77",
+  "en": "Hmmm… {STR_VAR_1}, is it? That is\\nquite a fine name you bestowed.\\pBut! What say you, if I were to\\nsuggest a slightly better name?",
+  "pt": "Hmmm… {STR_VAR_1}, não é? Que belo nome você escolheu.\\pPorém! Que tal se eu sugerisse um nome um pouquinho melhor?"
+ },
+ {
+  "map": "25.5 SLATEPORT CITY",
+  "offset": "024DAF0",
+  "en": "Ah, good. Then, what shall the new\\nnickname be?",
+  "pt": "Ah, ótimo. Então, qual será o novo apelido?"
+ },
+ {
+  "map": "25.5 SLATEPORT CITY",
+  "offset": "024DB20",
+  "en": "Done! From now on, this POKéMON\\nshall be known as {STR_VAR_1}!\\pIt is a better name than before!\\nHow fortunate for you!",
+  "pt": "Pronto! De agora em diante, esta CAPTURA será conhecida como {STR_VAR_1}!\\pÉ um nome melhor que o anterior! Que sorte a sua!"
+ },
+ {
+  "map": "25.5 SLATEPORT CITY",
+  "offset": "024DB8E",
+  "en": "I see.\\nDo come visit again.",
+  "pt": "Entendo. Volte sempre."
+ },
+ {
+  "map": "25.5 SLATEPORT CITY",
+  "offset": "024DBAA",
+  "en": "Done! From now on, this POKéMON\\nshall be known as {STR_VAR_1}!\\pIt looks no different from before,\\nand yet, this is vastly superior!\\pHow fortunate for you!",
+  "pt": "Pronto! De agora em diante, esta CAPTURA será conhecida como {STR_VAR_1}!\\pParece igualzinho ao anterior, e mesmo assim é infinitamente superior!\\pQue sorte a sua!"
+ },
+ {
+  "map": "25.5 SLATEPORT CITY",
+  "offset": "024DC3C",
+  "en": "Hmmm… {STR_VAR_1} it is!\\pThis is a magnificent nickname!\\nIt is impeccably beyond reproach!\\pYou'll do well to cherish your\\n{STR_VAR_1} now and beyond.",
+  "pt": "Hmmm… {STR_VAR_1}, então!\\pÉ um apelido magnífico! Impecável e irrepreensível!\\pCuide bem de {STR_VAR_1} agora e sempre."
+ },
+ {
+  "map": "25.5 SLATEPORT CITY",
+  "offset": "024DCC0",
+  "en": "Now, now.\\nThat is merely an EGG!",
+  "pt": "Ora, ora. Isso é só um OVO!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E23A",
+  "en": "The POKéMON of a TRAINER who has\\nentered a POKéMON CONTEST…\\lThat, I would like to see.",
+  "pt": "As CAPTURAS de um TREINADOR que participou de um CONCURSO DE CAPTURAS… Isso eu gostaria de ver."
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E291",
+  "en": "Er-hem! I see you've participated in\\na POKéMON CONTEST!\\pPlease! Allow me to examine how you\\nhave raised your POKéMON.\\pIt delights me no end to see POKéMON\\nraised by other TRAINERS.\\pThe happy expressions of POKéMON\\nraised with proper care…\\pThe kindly eyes of the TRAINER that\\nnurtured and raised the POKéMON…\\pThe very thought fills my heart to\\noverwhelming with joy.\\pOh! I do beg your pardon!\\nForgive me for prattling on so!\\pPlease! Allow me to examine how much\\nyour POKéMON has grown!",
+  "pt": "Hum-hum! Vejo que você participou de um CONCURSO DE CAPTURAS!\\pPor favor! Permita-me examinar como você criou a sua CAPTURA.\\pNada me alegra mais do que ver CAPTURAS criadas por outros TREINADORES.\\pAs expressões felizes de CAPTURAS criadas com o devido carinho…\\pO olhar bondoso do TREINADOR que cuidou e criou a CAPTURA…\\pSó de pensar nisso, meu coração transborda de alegria.\\pOh! Mil perdões! Perdoe-me por tagarelar tanto!\\pPor favor! Permita-me examinar o quanto a sua CAPTURA cresceu!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E476",
+  "en": "How is your POKéMON growing?\\nAllow me to examine it.",
+  "pt": "Como a sua CAPTURA está crescendo? Permita-me examiná-la."
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E4AB",
+  "en": "Hm, hm…\\nI see…",
+  "pt": "Hum, hum… Entendo…"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E565",
+  "en": "Oh, my…\\pYour POKéMON is growing quite well,\\nso you deserve a reward.\\pUnfortunately, you have no space for\\nthis in your BAG.",
+  "pt": "Oh, céus…\\pSua CAPTURA está crescendo muito bem, então você merece uma recompensa.\\pInfelizmente, você não tem espaço para isto na sua BOLSA."
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E5E1",
+  "en": "Your {STR_VAR_1}, it is growing in\\na most impressive manner!\\lIt is one fine specimen!\\pBut! If you were to give it this,\\nit would grow even better! Indeed!",
+  "pt": "{STR_VAR_1} está crescendo de um jeito impressionante! É um belo espécime!\\pPorém! Se você lhe der isto, vai crescer ainda melhor! Isso mesmo!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E673",
+  "en": "Let a POKéMON hold that RED SCARF.\\pEveryone will recognize the coolness\\nof that POKéMON!",
+  "pt": "Deixe uma CAPTURA segurar esse LENÇO VERMELHO.\\pTodo mundo vai reconhecer como essa CAPTURA é descolada!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E6CC",
+  "en": "Let a POKéMON hold that BLUE SCARF.\\pIts beauty will be accentuated much\\nmore than now!",
+  "pt": "Deixe uma CAPTURA segurar esse LENÇO AZUL.\\pA beleza dela vai ficar muito mais destacada!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E723",
+  "en": "Let a POKéMON hold that PINK SCARF.\\pIt will draw out the cuteness of\\nthe POKéMON some more!",
+  "pt": "Deixe uma CAPTURA segurar esse LENÇO ROSA.\\pVai realçar ainda mais a fofura da CAPTURA!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E77F",
+  "en": "Let a POKéMON hold that GREEN SCARF.\\pThat will enhance the\\nsmartness of POKéMON!",
+  "pt": "Deixe uma CAPTURA segurar esse LENÇO VERDE.\\pIsso vai aumentar a inteligência da CAPTURA!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E7D0",
+  "en": "Let a POKéMON hold that YELLOW SCARF.\\pIt will bolster your POKéMON's\\ntoughness so much more!",
+  "pt": "Deixe uma CAPTURA segurar esse LENÇO AMARELO.\\pVai reforçar muito mais a robustez da sua CAPTURA!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E82D",
+  "en": "I'm sorry, but I've nothing else to\\ngive you! None at all!\\pAfter all, you're blessed with the gift\\nof raising POKéMON without resorting\\lto any items!",
+  "pt": "Sinto muito, mas não tenho mais nada para lhe dar! Nadinha!\\pAfinal, você tem o dom de criar CAPTURAS sem precisar de item nenhum!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E8C3",
+  "en": "I love seeing POKéMON that love\\ntheir TRAINERS.\\pPOKéMON are very sensitive to\\nthe feelings of their TRAINERS.\\pIf you treat your POKéMON with love\\nand care, they'll love you back.\\pWhen your POKéMON grow to love you,\\nplease come show me.",
+  "pt": "Eu adoro ver CAPTURAS que amam seus TREINADORES.\\pAs CAPTURAS são muito sensíveis aos sentimentos dos seus TREINADORES.\\pSe você tratar suas CAPTURAS com amor e carinho, elas vão te amar de volta.\\pQuando suas CAPTURAS passarem a te amar, venha me mostrar."
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024E9AF",
+  "en": "Your POKéMON really adores you.\\pFor you, a most compassionate\\nTRAINER, a gift from the FAN CLUB!",
+  "pt": "Sua CAPTURA te adora de verdade.\\pPara você, um TREINADOR tão carinhoso, um presente do FÃ-CLUBE!"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024EA10",
+  "en": "POKéMON are very sensitive to\\nthe feelings of their TRAINERS.\\pIf you treat your POKéMON with love\\nand care, they'll love you back.",
+  "pt": "As CAPTURAS são muito sensíveis aos sentimentos dos seus TREINADORES.\\pSe você tratar suas CAPTURAS com amor e carinho, elas vão te amar de volta."
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024EA93",
+  "en": "If you keep letting a POKéMON faint\\nin battle, it'll come to resent it.\\pSoon, it will become less trusting\\nof the TRAINER.\\pIn other words, it certainly won't\\nlike you very much.",
+  "pt": "Se você deixar uma CAPTURA desmaiar em batalha toda hora, ela vai ficar ressentida.\\pLogo, ela vai passar a confiar menos no TREINADOR.\\pEm outras palavras, ela com certeza não vai gostar muito de você."
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024EB45",
+  "en": "Do POKéMON enjoy having items used\\non them?\\pMine acted really happy when I gave\\nit some PROTEIN.",
+  "pt": "Será que as CAPTURAS gostam quando usam itens nelas?\\pA minha ficou toda feliz quando eu dei PROTEÍNA pra ela."
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024EBA6",
+  "en": "SKITTY: Fffnyaaaah…",
+  "pt": "SKITTY: Fffnhaaaau…"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024EBBA",
+  "en": "ZIGZAGOON: Kyuuu…",
+  "pt": "ZIGZAGOON: Kyuuu…"
+ },
+ {
+  "map": "25.6 SLATEPORT CITY",
+  "offset": "024EBCC",
+  "en": "AZUMARILL: Marimari?",
+  "pt": "AZUMARILL: Marimari?"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024EE72",
+  "en": "Please enjoy yourself.",
+  "pt": "Divirta-se."
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024EE89",
+  "en": "Oh? I'm sorry, but you don't seem to\\nhave enough money.",
+  "pt": "Hã? Sinto muito, mas parece que você não tem dinheiro suficiente."
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024EEC1",
+  "en": "Oh? You're with that group that\\nwent in earlier?\\pYou're the only one who's late.\\nYou'd better go catch up to them!",
+  "pt": "Hã? Você está com aquele grupo que entrou mais cedo?\\pSó falta você. É melhor correr para alcançá-los!"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024EF34",
+  "en": "We, TEAM AQUA, exist for the good\\nof all!",
+  "pt": "Nós, a EQUIPE AQUA, existimos pelo bem de todos!"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024EF5E",
+  "en": "We were told to assemble here,\\nso we did, but…\\pOur BOSS, the linchpin, isn't here.",
+  "pt": "Mandaram a gente se reunir aqui, e a gente veio, mas…\\pO nosso CHEFE, a peça-chave, não está aqui."
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024EFB1",
+  "en": "If I ripped off the stuff here,\\nwould it make me rich?",
+  "pt": "Se eu roubasse as coisas daqui, será que eu ficaria rico?"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024EFE8",
+  "en": "What I learn here, I can put to use on\\nnefarious deeds…",
+  "pt": "O que eu aprender aqui, posso usar em atos malignos…"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F020",
+  "en": "If our goons didn't bungle things\\nin RUSTBORO, we wouldn't be here!",
+  "pt": "Se os nossos capangas não tivessem feito besteira em RUSTBORO, a gente não estaria aqui!"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F064",
+  "en": "I didn't have ¥50, so it took a long\\ntime getting by the receptionist.",
+  "pt": "Eu não tinha ¥50, então demorei um tempão pra passar pela recepcionista."
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F0AB",
+  "en": "I want to learn about the sea and\\nuse that knowledge for battling.",
+  "pt": "Quero aprender sobre o mar e usar esse conhecimento nas batalhas."
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F0EE",
+  "en": "I get all giddy and gooey when\\nI see the sea!\\pFor me, CAPT. STERN is the number\\none role model!",
+  "pt": "Eu fico todo bobo e derretido quando vejo o mar!\\pPra mim, o CAPITÃO STERN é o meu maior exemplo!"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F14E",
+  "en": "The sea is vast without end, and\\ninfinitely deep…\\pThere must be many POKéMON that\\nwe don't know about.",
+  "pt": "O mar é vasto e sem fim, e infinitamente profundo…\\pDeve haver muitas CAPTURAS que a gente nem conhece."
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F1B5",
+  "en": "I want a sea POKéMON.\\pI think it would feel cool and nice\\nto hug.",
+  "pt": "Eu quero uma CAPTURA do mar.\\pAcho que seria fresquinho e gostoso de abraçar."
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F1F7",
+  "en": "Aiyeeeh!\\nWhat are you doing here?\\pMe? I'm the TEAM AQUA member\\nyou thumped before, remember?\\lBack in RUSTURF TUNNEL?\\pHere, take this!\\nYou have to forgive me!",
+  "pt": "Aiiiii! O que você está fazendo aqui?\\pEu? Sou o membro da EQUIPE AQUA que você esmurrou antes, lembra? Lá no RUSTURF TUNNEL?\\pAqui, pega isto! Você tem que me perdoar!"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F295",
+  "en": "That TM, it suits you more than it\\ndoes me.\\pHope I never see you again!\\nWahahaha!",
+  "pt": "Esse TM combina mais com você do que comigo.\\pTomara que eu nunca mais te veja! Wahahaha!"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F2E7",
+  "en": "Awww, come on!\\nYou have to take this and let me go!",
+  "pt": "Ah, qual é! Você tem que aceitar isto e me deixar ir!"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F31B",
+  "en": "A blue fluid is spiraling inside\\na glass vessel.\\p“This is an experiment to create a\\nWHIRLPOOL artificially using wind.”",
+  "pt": "Um líquido azul gira dentro de um recipiente de vidro.\\p“Este é um experimento para criar um REDEMOINHO artificialmente usando vento.”"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F393",
+  "en": "A red ball is bobbing up and down\\ninside a glass vessel.\\p“This is an experiment simulating a\\nWATERFALL using the ball's buoyancy.”",
+  "pt": "Uma bola vermelha sobe e desce dentro de um recipiente de vidro.\\p“Este é um experimento que simula uma CACHOEIRA usando a flutuabilidade da bola.”"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F416",
+  "en": "It's a sample of soil from the ocean\\nfloor.\\p“Over many years, the remains of\\nlife-forms settle at the bottom of\\lthe sea, making sedimentary layers.\\p“By analyzing these layers, the\\nancient past is revealed.”",
+  "pt": "É uma amostra de solo do fundo do oceano.\\p“Ao longo de muitos anos, os restos de seres vivos se acumulam no fundo do mar, formando camadas sedimentares.\\p“Analisando essas camadas, o passado antigo é revelado.”"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F4E5",
+  "en": "It's a sample of beach sand.\\p“Stones from mountains are washed\\ndown by rivers where they are\\lchipped and ground down.\\p“They are reduced to grains and end\\nup as sand on beaches.”",
+  "pt": "É uma amostra de areia de praia.\\p“Pedras das montanhas são levadas pelos rios, onde vão sendo lascadas e desgastadas.\\p“Elas viram grãos e acabam como areia nas praias.”"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F597",
+  "en": "“OCEANIC MINIFACT 1\\nWhy is seawater blue?\\p“Light is composed of many colors.\\p“When light passes through water,\\nmost kinds of light lose color.\\p“However, blue light retains its\\ncolor, making the sea appear blue.”",
+  "pt": "“CURIOSIDADE OCEÂNICA 1\\nPor que a água do mar é azul?\\p“A luz é composta de muitas cores.\\p“Quando a luz atravessa a água, a maioria das cores se perde.\\p“Mas a luz azul mantém sua cor, e é por isso que o mar parece azul.”"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F66B",
+  "en": "“OCEANIC MINIFACT 2\\nWhy is the sea salty?\\p“Seawater contains dissolved salt in\\nthe form of sodium and chlorine ions.\\p“These ions leech out of rocks\\nand are carried out to sea by rain.\\p“The concentration of dissolved salt\\nmakes the sea salty.”",
+  "pt": "“CURIOSIDADE OCEÂNICA 2\\nPor que o mar é salgado?\\p“A água do mar contém sal dissolvido na forma de íons de sódio e cloro.\\p“Esses íons se desprendem das rochas e são levados ao mar pela chuva.\\p“A concentração de sal dissolvido deixa o mar salgado.”"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F75E",
+  "en": "“OCEANIC MINIFACT 3\\nWhich is bigger? The sea or land?\\p“The sea covers about 70% of\\nthe planet, and the rest is land.\\p“The sea is therefore more than twice\\nthe size of land.”",
+  "pt": "“CURIOSIDADE OCEÂNICA 3\\nO que é maior? O mar ou a terra?\\p“O mar cobre cerca de 70% do planeta, e o resto é terra.\\p“Portanto, o mar tem mais que o dobro do tamanho da terra firme.”"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F80C",
+  "en": "It's a fossil with wavy ridges on it.\\p“Soil on the ocean floor gets scoured\\nby the tide.\\p“The flowing seawater marks the soil\\nwith small ridges and valleys.\\p“If this soil becomes fossilized, it is\\ncalled a ripple mark.”",
+  "pt": "É um fóssil com sulcos ondulados.\\p“O solo do fundo do oceano é desgastado pela maré.\\p“A água do mar em movimento marca o solo com pequenas cristas e vales.\\p“Se esse solo se fossiliza, ele é chamado de marca de ondulação.”"
+ },
+ {
+  "map": "25.7 SLATEPORT CITY",
+  "offset": "024F8E8",
+  "en": "A strange machine is rotating under\\na glass dome.\\pMaybe it's for measuring the depth\\nof something…",
+  "pt": "Uma máquina estranha gira sob uma cúpula de vidro.\\pTalvez sirva para medir a profundidade de alguma coisa…"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "024FC8C",
+  "en": "Hehehe, hold it!\\nWe'll take those parts!",
+  "pt": "Hehehe, parado aí! Nós vamos levar essas peças!"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "024FCB5",
+  "en": "CAPT. STERN: Wh-what?\\nWho are you people?",
+  "pt": "CAPITÃO STERN: Q-quê? Quem são vocês?"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "024FCDF",
+  "en": "We're TEAM AQUA!\\pOur BOSS wants those parts!\\nShut your yap and fork them over!",
+  "pt": "Somos a EQUIPE AQUA!\\pO nosso CHEFE quer essas peças! Cala a boca e passa elas pra cá!"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "024FD46",
+  "en": "Oh, man, what a disaster…\\nThe BOSS is going to be furious…",
+  "pt": "Ai, cara, que desastre… O CHEFE vai ficar furioso…"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "024FD81",
+  "en": "Humph, sniveling wimp!\\nLet me take care of this!",
+  "pt": "Hunf, seu covarde chorão! Deixa que eu cuido disso!"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "024FDC6",
+  "en": "Now what? If we don't get the parts,\\nwe're in for it!\\pArrgh, I didn't count on being meddled\\nwith by some meddling kid!",
+  "pt": "E agora? Se a gente não conseguir as peças, estamos ferrados!\\pArrgh, eu não contava com um pirralho intrometido se metendo!"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "024FE3E",
+  "en": "I came to see what was taking so\\nlong to snatch some parts, and you\\lsimps are held up by a mere child?",
+  "pt": "Vim ver por que estava demorando tanto pra pegar umas peças, e vocês, seus bananas, estão sendo barrados por uma mera criança?"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "024FEA5",
+  "en": "We are TEAM AQUA,\\nand we love the sea!\\pAnd I am TEAM AQUA's leader,\\nARCHIE!\\pWhat makes you interfere with us?\\p…No! You can't be!\\nYou're not one of TEAM MAGMA?\\pWait, that can't be right.\\nYou're not dressed for the part.\\p… … … … … …\\n… … … … … …\\pPOKéMON, people… All life depends on\\nthe sea.\\pSo, TEAM AQUA is dedicated to\\nthe expansion of the sea.\\pDon't you agree? What we are doing\\nis a magnificent undertaking.\\pAh, fine…\\nYou're still too young to understand\\lour noble objective.\\pBut, I warn you, don't even consider\\ninterfering with our plans again.\\pThe consequences will cost you\\ndearly!\\pAnd don't you forget it!",
+  "pt": "Nós somos a EQUIPE AQUA, e amamos o mar!\\pE eu sou o líder da EQUIPE AQUA, ARCHIE!\\pPor que você está se metendo com a gente?\\p…Não! Não pode ser! Você não é da EQUIPE MAGMA?\\pEspera, isso não faz sentido. Você não está vestido pro papel.\\p… … … … … …\\n… … … … … …\\pCAPTURAS, pessoas… Toda a vida depende do mar.\\pPor isso, a EQUIPE AQUA se dedica à expansão do mar.\\pVocê não concorda? O que estamos fazendo é um empreendimento magnífico.\\pAh, tudo bem… Você ainda é jovem demais para entender o nosso nobre objetivo.\\pMas eu te aviso: nem pense em interferir nos nossos planos de novo.\\pAs consequências vão te custar caro!\\pE não se esqueça disso!"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "025010A",
+  "en": "CAPT. STERN: You're…\\nAh, okay, you're {PLAYER}{KUN}…\\pAnyway, that was a tense situation!\\nThank you for saving us!\\pOh, yes, I almost forgot that you\\neven brought the parts from DEVON!",
+  "pt": "CAPITÃO STERN: Você é… Ah, certo, você é o {PLAYER}{KUN}…\\pEnfim, que situação tensa! Obrigado por nos salvar!\\pAh, é mesmo, eu quase esqueci que você ainda trouxe as peças da DEVON!"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "02501B8",
+  "en": "CAPT. STERN: Whoops!\\nThere's no time to lose!\\pWe have to set out on our ocean-floor\\nexpedition really soon.\\pThanks again, but now I've got\\nto go!\\pFeel free to wander around and check\\nout our facilities, though.",
+  "pt": "CAPITÃO STERN: Opa! Não há tempo a perder!\\pTemos que partir na nossa expedição ao fundo do oceano daqui a pouco.\\pObrigado de novo, mas agora eu tenho que ir!\\pMas fique à vontade para dar uma volta e conhecer as nossas instalações."
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "025028B",
+  "en": "I saw a model of a ship here.\\pIt reminded me of the ABANDONED SHIP\\nnear DEWFORD TOWN…",
+  "pt": "Eu vi uma maquete de navio aqui.\\pMe lembrou o NAVIO ABANDONADO perto de DEWFORD TOWN…"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "02502E1",
+  "en": "Don't you dare run around inside\\nthe MUSEUM!",
+  "pt": "Nem pense em sair correndo dentro do MUSEU!"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "025030E",
+  "en": "Wow, the submarine's awesome!\\nI want to go for a ride!",
+  "pt": "Uau, o submarino é demais! Quero dar uma volta nele!"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "0250345",
+  "en": "“WATER QUALITY SAMPLE 1,” the\\nlabel says.\\pThe sea is all connected, but the\\nwater seems to differ by region.",
+  "pt": "“AMOSTRA DE QUALIDADE DA ÁGUA 1”, diz a etiqueta.\\pO mar é todo conectado, mas a água parece variar de região para região."
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "02503B2",
+  "en": "“WATER QUALITY SAMPLE 2,” the\\nlabel says.\\pDoes the saltiness of seawater differ\\nby region, too?",
+  "pt": "“AMOSTRA DE QUALIDADE DA ÁGUA 2”, diz a etiqueta.\\pSerá que a salinidade da água do mar também varia de região para região?"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "0250412",
+  "en": "A rubber ball is expanding and\\nshrinking.\\p“In the sea, the weight of water itself\\nexerts pressure.\\p“In shallow water, the pressure is not\\nvery heavy.\\p“However, in extremely deep water,\\nthe pressure can reach even tens of\\lthousands of tons on a small area.”",
+  "pt": "Uma bola de borracha se expande e encolhe.\\p“No mar, o próprio peso da água exerce pressão.\\p“Em águas rasas, a pressão não é muito grande.\\p“Mas, em águas extremamente profundas, a pressão pode chegar a dezenas de milhares de toneladas numa área pequena.”"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "0250513",
+  "en": "“MODEL OF HOENN REGION”\\pIt's a miniature diorama of the\\nHOENN region.\\pWhere is LITTLEROOT TOWN on this?",
+  "pt": "“MAQUETE DA REGIÃO DE HOENN”\\pÉ um diorama em miniatura da região de HOENN.\\pOnde fica LITTLEROOT TOWN aqui?"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "025057B",
+  "en": "It's a display on the flow of seawater.\\p“Near the bottom of the sea, water\\nflows due to differences in such\\lfactors as temperature and salinity.”",
+  "pt": "É uma exposição sobre o fluxo da água do mar.\\p“Perto do fundo do mar, a água flui por causa de diferenças em fatores como temperatura e salinidade.”"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "025060D",
+  "en": "It's a display on the flow of seawater.\\p“Toward the surface, seawater flows\\nas currents driven by the winds.”",
+  "pt": "É uma exposição sobre o fluxo da água do mar.\\p“Perto da superfície, a água do mar flui em correntes movidas pelos ventos.”"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "025067B",
+  "en": "“THE FERRY S.S. TIDAL\\p“A scale replica of the ship under\\nconstruction at STERN'S SHIPYARD.”",
+  "pt": "“A BALSA S.S. TIDAL\\p“Uma réplica em escala do navio em construção no ESTALEIRO DO STERN.”"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "02506D7",
+  "en": "“SUBMARINE EXPLORER 1\\p“A replica of the high-performance\\nocean floor exploration submarine.”",
+  "pt": "“SUBMARINO EXPLORADOR 1\\p“Uma réplica do submarino de alto desempenho para exploração do fundo do oceano.”"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "0250734",
+  "en": "“SUBMERSIBLE POD\\p“A replica of a compact, unmanned\\npod for seafloor exploration.”",
+  "pt": "“CÁPSULA SUBMERSÍVEL\\p“Uma réplica de uma cápsula compacta e não tripulada para exploração do fundo do mar.”"
+ },
+ {
+  "map": "25.8 SLATEPORT CITY",
+  "offset": "0250786",
+  "en": "“S.S. ANNE\\p“A replica of the luxury liner that\\ncircles the globe.”",
+  "pt": "“S.S. ANNE\\p“Uma réplica do transatlântico de luxo que dá a volta ao mundo.”"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250C6C",
+  "en": "I beg your pardon?\\nYou're looking for a ship?\\pI'm sorry, the ferry service isn't\\navailable at present…",
+  "pt": "Como? Você está procurando um navio?\\pSinto muito, o serviço de balsa não está disponível no momento…"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250CD3",
+  "en": "Hello, are you here for the ferry?\\nMay I see your TICKET?",
+  "pt": "Olá, veio pegar a balsa? Posso ver o seu BILHETE?"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250D0D",
+  "en": "{PLAYER} doesn't have the TICKET…\\pI'm terribly sorry.\\pYou must have a TICKET to board\\nthe ferry.",
+  "pt": "{PLAYER} não tem o BILHETE…\\pSinto muitíssimo.\\pÉ preciso ter um BILHETE para embarcar na balsa."
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250D68",
+  "en": "{PLAYER} flashed the TICKET.\\pPerfect! That's all you need!\\pAnd where would you like to go?",
+  "pt": "{PLAYER} mostrou o BILHETE.\\pPerfeito! É tudo de que você precisa!\\pE para onde gostaria de ir?"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250DBD",
+  "en": "Please sail with us another time!",
+  "pt": "Viaje conosco outra vez!"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250DDF",
+  "en": "LILYCOVE CITY it is, then!",
+  "pt": "LILYCOVE CITY, então!"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250DFA",
+  "en": "BATTLE FRONTIER it is, then!",
+  "pt": "FRONTEIRA DE BATALHA, então!"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250E17",
+  "en": "Please board the ferry and wait for\\ndeparture.",
+  "pt": "Embarque na balsa e aguarde a partida, por favor."
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250E46",
+  "en": "Then, where would you like to go?",
+  "pt": "Então, para onde gostaria de ir?"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250E68",
+  "en": "A journey to the bottom of the sea…\\nI wonder what it'd be like?\\pI'd love to go deep underwater like\\nthat someday.",
+  "pt": "Uma viagem até o fundo do mar… Como será que é?\\pEu adoraria mergulhar bem fundo assim um dia."
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250EDA",
+  "en": "For a ship to sail safely, we need to\\nknow about the weather!\\pSpeaking of weather, I heard something\\nfrom a guy at the WEATHER INSTITUTE.\\pHe was saying abnormal weather has\\nbeen reported all over the place!\\pYou should visit the WEATHER INSTITUTE\\nand ask around!",
+  "pt": "Para um navio navegar com segurança, precisamos conhecer o clima!\\pFalando em clima, ouvi uma coisa de um cara do INSTITUTO DO CLIMA.\\pEle disse que tem havido relatos de clima anormal por toda parte!\\pVocê devia visitar o INSTITUTO DO CLIMA e perguntar por lá!"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0250FE0",
+  "en": "I wanted to go with CAPT. STERN on\\nthe ocean floor exploration.\\pBut the sub's too small for me.\\pIf I squeezed in, there wouldn't be\\nany room for the CAPTAIN…",
+  "pt": "Eu queria ir com o CAPITÃO STERN na exploração do fundo do oceano.\\pMas o submarino é pequeno demais pra mim.\\pSe eu me espremesse lá dentro, não sobraria espaço pro CAPITÃO…"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "025107E",
+  "en": "CAPT. STERN: Those thugs…\\pThey're the same lot who tried to rob\\nthe DEVON GOODS at the MUSEUM.",
+  "pt": "CAPITÃO STERN: Aqueles bandidos…\\pSão os mesmos que tentaram roubar as MERCADORIAS DA DEVON no MUSEU."
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "02510DD",
+  "en": "ARCHIE: Oh?\\nNot you again…\\pYou are tenacious to track us here,\\nthat much I will give you.\\pBut now…\\nNo one can stop us! No one!\\pOr, will you follow us back to our\\nHIDEOUT in LILYCOVE CITY?\\pFwahahahaha…",
+  "pt": "ARCHIE: Hã? Você de novo, não…\\pVocê é persistente por nos seguir até aqui, isso eu admito.\\pMas agora… Ninguém pode nos deter! Ninguém!\\pOu será que você vai nos seguir até o nosso ESCONDERIJO em LILYCOVE CITY?\\pFwahahahaha…"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "02511A6",
+  "en": "CAPT. STERN: Why…\\pWhy would TEAM AQUA steal my\\nSUBMARINE EXPLORER 1?\\pThey can't be after the slumbering\\nPOKéMON at the bottom of the sea…\\pBut even if I were to chase them,\\nI don't stand a chance against them…",
+  "pt": "CAPITÃO STERN: Por quê…\\pPor que a EQUIPE AQUA roubaria o meu SUBMARINO EXPLORADOR 1?\\pNão pode ser que estejam atrás da CAPTURA adormecida no fundo do mar…\\pMas, mesmo que eu fosse atrás deles, eu não teria a menor chance…"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0251277",
+  "en": "CAPT. STERN: Oh, {PLAYER}{KUN}…\\pOkay… So TEAM AQUA left before you\\ncould stop them…\\pOh, no, don't blame yourself.\\nYou're not responsible for this.\\pTrying to catch a submarine…\\nIt's impossible for most people.\\pYou would need a POKéMON that knows\\nhow to DIVE…\\pPerhaps if you went out to\\nMOSSDEEP CITY…\\pA lot of divers live out there, so\\nsomeone might teach you…",
+  "pt": "CAPITÃO STERN: Ah, {PLAYER}{KUN}…\\pEntendi… Então a EQUIPE AQUA partiu antes que você pudesse detê-la…\\pAh, não, não se culpe. Você não é responsável por isso.\\pTentar alcançar um submarino… É impossível para a maioria das pessoas.\\pVocê precisaria de uma CAPTURA que saiba usar MERGULHO…\\pTalvez se você fosse até MOSSDEEP CITY…\\pMuitos mergulhadores moram por lá, então alguém pode te ensinar…"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "02513D6",
+  "en": "CAPT. STERN: Trying to catch a\\nsubmarine… It's impossible.\\pYou would need a POKéMON that knows\\nhow to DIVE…\\pPerhaps if you went out to\\nMOSSDEEP CITY…\\pA lot of divers live out there, so\\nsomeone might teach you…",
+  "pt": "CAPITÃO STERN: Tentar alcançar um submarino… É impossível.\\pVocê precisaria de uma CAPTURA que saiba usar MERGULHO…\\pTalvez se você fosse até MOSSDEEP CITY…\\pMuitos mergulhadores moram por lá, então alguém pode te ensinar…"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "02514A8",
+  "en": "CAPT. STERN: Oh, yes.\\nMR. BRINEY came to our SHIPYARD.\\pIt won't be long now before we finish\\nmaking the ferry!",
+  "pt": "CAPITÃO STERN: Ah, sim. O SR. BRINEY veio ao nosso ESTALEIRO.\\pNão vai demorar para terminarmos de construir a balsa!"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0251517",
+  "en": "CAPT. STERN: {PLAYER}{KUN}!\\pWe finally finished making the ferry\\nS.S. TIDAL!\\pWe couldn't have done it without\\nyour friend MR. BRINEY.\\pPlease go for a short cruise on it!",
+  "pt": "CAPITÃO STERN: {PLAYER}{KUN}!\\pFinalmente terminamos de construir a balsa S.S. TIDAL!\\pNão teríamos conseguido sem o seu amigo SR. BRINEY.\\pVá dar um passeio curtinho nela!"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "02515B8",
+  "en": "CAPT. STERN: Oh?\\n{PLAYER}{KUN}, that item you have…\\pThat's a SCANNER! That would sure\\nhelp us on our explorations.\\p{PLAYER}{KUN}, would you trade your\\nSCANNER for something?\\pLike, say, a DEEPSEATOOTH or\\na DEEPSEASCALE that I have?",
+  "pt": "CAPITÃO STERN: Hã? {PLAYER}{KUN}, esse item que você tem…\\pÉ um SCANNER! Isso ajudaria muito nas nossas explorações.\\p{PLAYER}{KUN}, você trocaria o seu SCANNER por alguma coisa?\\pTipo, digamos, um DENTE ABISSAL ou uma ESCAMA ABISSAL que eu tenho?"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "025168D",
+  "en": "CAPT. STERN: Are you certain?\\nIt's useless to you, {PLAYER}{KUN}…\\pWell, okay, then. If you want to trade\\nyour SCANNER, let me know.",
+  "pt": "CAPITÃO STERN: Tem certeza? Ele não tem utilidade pra você, {PLAYER}{KUN}…\\pBem, tudo bem, então. Se quiser trocar o seu SCANNER, é só me avisar."
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0251708",
+  "en": "CAPT. STERN: So you'll trade it for\\nmy DEEPSEATOOTH?",
+  "pt": "CAPITÃO STERN: Então você vai trocá-lo pelo meu DENTE ABISSAL?"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "025173D",
+  "en": "CAPT. STERN: So you'll trade it for\\nmy DEEPSEASCALE?",
+  "pt": "CAPITÃO STERN: Então você vai trocá-lo pela minha ESCAMA ABISSAL?"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0251772",
+  "en": "CAPT. STERN: Which one do you want?",
+  "pt": "CAPITÃO STERN: Qual deles você quer?"
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "0251796",
+  "en": "{PLAYER} handed the SCANNER to\\nCAPT. STERN.",
+  "pt": "{PLAYER} entregou o SCANNER ao CAPITÃO STERN."
+ },
+ {
+  "map": "25.9 SLATEPORT CITY",
+  "offset": "02517BC",
+  "en": "CAPT. STERN: Thanks, {PLAYER}{KUN}!\\nThis will help our research a lot!",
+  "pt": "CAPITÃO STERN: Obrigado, {PLAYER}{KUN}! Isso vai ajudar muito a nossa pesquisa!"
+ },
+ {
+  "map": "25.10 SLATEPORT CITY",
+  "offset": "02518A5",
+  "en": "You're a TRAINER, aren't you?\\pSince you came to SLATEPORT CITY,\\nyou must be going to the BATTLE TENT.",
+  "pt": "Você é um TREINADOR, não é?\\pJá que veio a SLATEPORT CITY, deve estar indo para a TENDA DE BATALHA."
+ },
+ {
+  "map": "25.11 SLATEPORT CITY",
+  "offset": "0251A08",
+  "en": "I trade POKéMON with my friends.\\pIf a traded POKéMON is holding an\\nitem, it makes me twice as happy!",
+  "pt": "Eu troco CAPTURAS com os meus amigos.\\pSe uma CAPTURA trocada estiver segurando um item, eu fico duas vezes mais feliz!"
+ },
+ {
+  "map": "25.13 SLATEPORT CITY",
+  "offset": "0251AD4",
+  "en": "The MARKET does have some interesting\\nmerchandise.\\pBut there are some items you can only\\nget at a POKéMON MART.",
+  "pt": "O MERCADO tem umas mercadorias interessantes.\\pMas tem alguns itens que só dá pra conseguir numa LOJA."
+ },
+ {
+  "map": "25.13 SLATEPORT CITY",
+  "offset": "0251B44",
+  "en": "A GREAT BALL is better than a POKé BALL\\nat catching POKéMON.\\pWith this, I should be able to get that\\nelusive POKéMON…",
+  "pt": "Uma GREAT BALL é melhor do que uma CAP para pegar CAPTURAS.\\pCom ela, eu devo conseguir pegar aquela CAPTURA difícil de encontrar…"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0251FE5",
+  "en": "Whoa, you're electrifying!\\nYou've powered the door open!",
+  "pt": "Uau, você é eletrizante! Você abriu a porta na base da energia!"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0252098",
+  "en": "POKéMON and rock, it's all about heart,\\nwhoa-yeah!",
+  "pt": "CAPTURAS e rock, tudo é questão de coração, uou-yeah!"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "02520CB",
+  "en": "I trained under WATTSON!\\nThere ain't no way I'll lose easily!",
+  "pt": "Eu treinei com o WATTSON! Não tem como eu perder fácil!"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0252109",
+  "en": "Unplugged and turned off…",
+  "pt": "Desplugado e desligado…"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0252123",
+  "en": "WATTSON, our GYM LEADER, has been\\naround for a long, long time.\\pHe was battling even before your\\ndaddy was born, that tough coot.",
+  "pt": "O WATTSON, nosso LÍDER DE GINÁSIO, está por aí há muito, muito tempo.\\pEle já batalhava antes mesmo de o seu pai nascer, aquele velho durão."
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "02521E0",
+  "en": "WATTSON says he likes setting up\\nlittle traps with switches.",
+  "pt": "O WATTSON diz que gosta de montar armadilhas com interruptores."
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0252271",
+  "en": "I've heard that MAUVILLE was founded\\nby WATTSON.\\pHe was a TRAINER long before we\\nbecame TRAINERS.\\lHe must know all sorts of things!",
+  "pt": "Ouvi dizer que MAUVILLE foi fundada pelo WATTSON.\\pEle já era TREINADOR muito antes de a gente virar TREINADOR. Ele deve saber de tudo um pouco!"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0252324",
+  "en": "MAUVILLE GYM's WATTSON has a shiny\\nforehead. It makes me happy!",
+  "pt": "O WATTSON do GINÁSIO DE MAUVILLE tem uma testa brilhante. Isso me deixa feliz!"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "02524E1",
+  "en": "{PLAYER} received the DYNAMO BADGE\\nfrom WATTSON.",
+  "pt": "{PLAYER} recebeu a INSÍGNIA DÍNAMO do WATTSON."
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "025250C",
+  "en": "With the DYNAMO BADGE, POKéMON can\\nuse ROCK SMASH out of battle.\\pAnd, it will make your POKéMON a little\\nbit faster, too.\\pHmm…\\nYou should take this, too!",
+  "pt": "Com a INSÍGNIA DÍNAMO, as CAPTURAS podem usar ESMAGA PEDRAS fora das batalhas.\\pE ela também deixa as suas CAPTURAS um pouquinho mais rápidas.\\pHum… Você devia levar isto também!"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "02525A6",
+  "en": "That TM34 there contains SHOCK WAVE.\\pIt's a trustworthy move that never\\nmisses! You can count on it!\\p… … … … … …",
+  "pt": "Esse TM34 contém ONDA DE CHOQUE.\\pÉ um golpe confiável que nunca erra! Pode contar com ele!\\p… … … … … …"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0252617",
+  "en": "Registered GYM LEADER WATTSON\\nin the POKéNAV.",
+  "pt": "O LÍDER DE GINÁSIO WATTSON foi registrado no POKéNAV."
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0252645",
+  "en": "I swell with optimism, seeing a promising\\nyoung TRAINER like you!",
+  "pt": "Fico cheio de otimismo ao ver um jovem TREINADOR promissor como você!"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "0252687",
+  "en": "Wahahahah!\\nGo forth and endeavor, youngster!",
+  "pt": "Wahahahah! Vá em frente e dê o seu melhor, garoto!"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "02526B4",
+  "en": "MAUVILLE CITY POKéMON GYM",
+  "pt": "GINÁSIO DE MAUVILLE CITY"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "02526CE",
+  "en": "MAUVILLE CITY POKéMON GYM\\pWATTSON'S CERTIFIED TRAINERS:\\n{PLAYER}",
+  "pt": "GINÁSIO DE MAUVILLE CITY\\pTREINADORES CERTIFICADOS DO WATTSON:\\n{PLAYER}"
+ },
+ {
+  "map": "26.0 MAIN STREET",
+  "offset": "02527C0",
+  "en": "WATTSON: We'll have to recharge our\\nbatteries again.\\pWhen we're fully charged up, we'll\\ngladly accept your challenge.\\pSo, come back again sometime,\\nwon't you?",
+  "pt": "WATTSON: Vamos ter que recarregar as nossas baterias de novo.\\pQuando estivermos com a carga completa, aceitaremos o seu desafio com prazer.\\pEntão volte outra hora, está bem?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252B84",
+  "en": "Well, well, what have we here?\\nA most energetic customer!\\pMe? You may call me RYDEL.\\nI'm the owner of this cycle shop.",
+  "pt": "Ora, ora, o que temos aqui? Um cliente pra lá de energético!\\pEu? Pode me chamar de RYDEL. Sou o dono desta loja de bicicletas."
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252BFB",
+  "en": "RYDEL: Your RUNNING SHOES…\\nThey're awfully filthy.\\pDid you come from far away?",
+  "pt": "RYDEL: Seus TÊNIS DE CORRIDA… Estão imundos.\\pVocê veio de longe?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252C4A",
+  "en": "RYDEL: Is that right?\\pThen, I guess you have no need for\\nany of my BIKES.",
+  "pt": "RYDEL: É mesmo?\\pEntão acho que você não precisa de nenhuma das minhas BICICLETAS."
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252C94",
+  "en": "RYDEL: Hm, hm… … … … …\\pYou're saying that you came all this\\nway from LITTLEROOT?\\pMy goodness!\\nThat's ridiculously far!\\pIf you had one of my BIKES, you could\\ngo anywhere easily while feeling the\\lgentle caress of the wind!\\pI'll tell you what!\\nI'll give you a BIKE!\\pOh, wait a second!\\pI forgot to tell you that there are\\ntwo kinds of BIKES!\\pThey are the MACH BIKE and\\nthe ACRO BIKE!\\pThe MACH BIKE is for cyclists who want\\nto feel the wind with their bodies!\\pAnd an ACRO BIKE is for those who\\nprefer technical rides!\\pI'm a real sweetheart, so you can\\nhave whichever one you like!\\pWhich one will you choose?",
+  "pt": "RYDEL: Hum, hum… … … … …\\pVocê está dizendo que veio lá de LITTLEROOT até aqui?\\pMinha nossa! Isso é longe demais!\\pSe tivesse uma das minhas BICICLETAS, você poderia ir a qualquer lugar com facilidade, sentindo a suave carícia do vento!\\pJá sei! Vou te dar uma BICICLETA!\\pOh, espera um pouco!\\pEsqueci de dizer que existem dois tipos de BICICLETA!\\pSão a BICICLETA MACH e a BICICLETA ACRO!\\pA BICICLETA MACH é para ciclistas que querem sentir o vento no corpo!\\pE a BICICLETA ACRO é para quem prefere manobras técnicas!\\pEu sou um amor de pessoa, então você pode ficar com a que preferir!\\pQual você vai escolher?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252EEF",
+  "en": "{PLAYER} chose the MACH BIKE.",
+  "pt": "{PLAYER} escolheu a BICICLETA MACH."
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252F07",
+  "en": "{PLAYER} chose the ACRO BIKE.",
+  "pt": "{PLAYER} escolheu a BICICLETA ACRO."
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252F1F",
+  "en": "RYDEL: If you get the urge to switch\\nBIKES, just come see me!",
+  "pt": "RYDEL: Se der vontade de trocar de BICICLETA, é só vir falar comigo!"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252F5D",
+  "en": "RYDEL: Oh? Were you thinking about\\nswitching BIKES?",
+  "pt": "RYDEL: Hã? Está pensando em trocar de BICICLETA?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252F91",
+  "en": "RYDEL: Okay, no problem!\\nI'll switch BIKES for you!",
+  "pt": "RYDEL: Certo, sem problema! Eu troco a BICICLETA pra você!"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252FC5",
+  "en": "{PLAYER} got the MACH BIKE exchanged\\nfor an ACRO BIKE.",
+  "pt": "{PLAYER} trocou a BICICLETA MACH por uma BICICLETA ACRO."
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0252FF6",
+  "en": "{PLAYER} got the ACRO BIKE exchanged\\nfor a MACH BIKE.",
+  "pt": "{PLAYER} trocou a BICICLETA ACRO por uma BICICLETA MACH."
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0253026",
+  "en": "RYDEL: Good, good!\\nI'm happy that you like it!",
+  "pt": "RYDEL: Ótimo, ótimo! Fico feliz que tenha gostado!"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0253055",
+  "en": "Oh? What happened to that BIKE\\nI gave you?\\pOh, I get it, you stored it using your PC.\\pWell, take it out of PC storage,\\nand I'll be happy to exchange it!\\pMay the wind always be at your back\\non your adventure!",
+  "pt": "Hã? O que aconteceu com aquela BICICLETA que eu te dei?\\pAh, entendi, você guardou no PC.\\pBem, tire ela do PC e eu troco com prazer!\\pQue o vento sempre sopre a seu favor na sua aventura!"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0253125",
+  "en": "I'm learning about BIKES while\\nI work here.\\pIf you need advice on how to ride your\\nBIKE, there're a couple handbooks in\\lthe back.",
+  "pt": "Estou aprendendo sobre BICICLETAS enquanto trabalho aqui.\\pSe precisar de dicas de como andar na sua BICICLETA, tem uns manuais lá no fundo."
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "02531A7",
+  "en": "It's a handbook on the MACH BIKE.\\pWhich page do you want to read?",
+  "pt": "É um manual da BICICLETA MACH.\\pQual página você quer ler?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "02531E9",
+  "en": "A BIKE moves in the direction that\\nthe + Control Pad is pressed.\\pIt will speed up once it gets rolling.\\pTo stop, release the + Control Pad.\\nThe BIKE will slow to a stop.\\pWant to read a different page?",
+  "pt": "A BICICLETA anda na direção em que o Direcional + é pressionado.\\pEla ganha velocidade depois que começa a andar.\\pPara parar, solte o Direcional +. A BICICLETA vai desacelerar até parar.\\pQuer ler outra página?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "02532B2",
+  "en": "A MACH BIKE is speedy, but it can't\\nstop very quickly.\\pIt gets a little tricky to get around\\na corner.\\pRelease the + Control Pad a little\\nbefore the corner and slow down.\\pWant to read a different page?",
+  "pt": "A BICICLETA MACH é veloz, mas não consegue parar muito rápido.\\pFica um pouco complicado fazer curvas.\\pSolte o Direcional + um pouco antes da curva e desacelere.\\pQuer ler outra página?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "025337C",
+  "en": "There are small sandy slopes\\nthroughout the HOENN region.\\pThe loose, crumbly sand makes it\\nimpossible to climb normally.\\pBut if you have a MACH BIKE, you can\\nzip up a sandy slope.\\pWant to read a different page?",
+  "pt": "Existem pequenas encostas de areia por toda a região de HOENN.\\pA areia fofa e solta torna impossível subir normalmente.\\pMas, com uma BICICLETA MACH, você sobe uma encosta de areia num instante.\\pQuer ler outra página?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "025344F",
+  "en": "It's a handbook on the ACRO BIKE.\\pWhich page do you want to read?",
+  "pt": "É um manual da BICICLETA ACRO.\\pQual página você quer ler?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0253491",
+  "en": "Press the B Button while riding,\\nand the front wheel lifts up.\\pYou can zip around with the front\\nwheel up using the + Control Pad.\\pThis technique is called a wheelie.\\pWant to read a different page?",
+  "pt": "Aperte o Botão B enquanto pedala, e a roda da frente se levanta.\\pVocê pode andar por aí com a roda da frente levantada usando o Direcional +.\\pEssa técnica se chama empinar.\\pQuer ler outra página?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "0253557",
+  "en": "Keeping the B Button pressed,\\nyour BIKE can hop on the spot.\\pThis technique is called a bunny hop.\\pYou can ride while hopping, too.\\pWant to read a different page?",
+  "pt": "Mantendo o Botão B pressionado, sua BICICLETA consegue pular no lugar.\\pEssa técnica se chama bunny hop.\\pVocê também pode andar enquanto pula.\\pQuer ler outra página?"
+ },
+ {
+  "map": "26.1 MAIN STREET",
+  "offset": "02535FA",
+  "en": "Press the B Button and the + Control\\nPad at the same time to jump.\\pPress the + Control Pad to the side\\nto jump sideways.\\pPress it backwards to make the BIKE\\nchange directions while jumping.\\pWant to read a different page?",
+  "pt": "Aperte o Botão B e o Direcional + ao mesmo tempo para saltar.\\pAperte o Direcional + para o lado para saltar de lado.\\pAperte para trás para fazer a BICICLETA mudar de direção enquanto salta.\\pQuer ler outra página?"
+ },
+ {
+  "map": "26.2 MAIN STREET",
+  "offset": "025380B",
+  "en": "That HM contains ROCK SMASH.\\pIf you come across large boulders\\nthat block your path…\\pWell, use that HM move and smash\\nthem right out of your way!\\pYes, sir! Smash rocks aside, I say!\\nWoohoo!",
+  "pt": "Esse HM contém ESMAGA PEDRAS.\\pSe você der de cara com pedregulhos enormes bloqueando o caminho…\\pBem, use esse golpe de HM e esmague eles pra fora do caminho!\\pIsso mesmo! Pedras pro lado, eu digo! Uhuu!"
+ },
+ {
+  "map": "26.2 MAIN STREET",
+  "offset": "02538C9",
+  "en": "Oh, yes, if you smash a rock, a POKéMON\\ncould come flying out of hiding.\\pWoohoo!",
+  "pt": "Ah, é, se você quebrar uma pedra, uma CAPTURA pode sair voando do esconderijo.\\pUhuu!"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02541E0",
+  "en": "Okay, you wanted some COINS for\\nthe games?\\pBut you don't have a COIN CASE for\\nstowing the COINS.",
+  "pt": "Certo, você queria MOEDAS para os jogos?\\pMas você não tem um PORTA-MOEDAS para guardar as MOEDAS."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "025428B",
+  "en": "Thank you very much!\\nHere are your COINS!",
+  "pt": "Muito obrigado! Aqui estão as suas MOEDAS!"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02542B5",
+  "en": "Um… You don't appear to have\\nenough money…",
+  "pt": "Hum… Parece que você não tem dinheiro suficiente…"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02542E0",
+  "en": "Oh?\\nYour COIN CASE is full.",
+  "pt": "Hã? Seu PORTA-MOEDAS está cheio."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02542FC",
+  "en": "Oh… You don't need COINS, then?\\nGood luck on your adventure!",
+  "pt": "Ah… Então você não precisa de MOEDAS? Boa sorte na sua aventura!"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "025438B",
+  "en": "So your choice is\\nthe {STR_VAR_1} {STR_VAR_2}?",
+  "pt": "Então você escolheu: {STR_VAR_1} {STR_VAR_2}?"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02543A8",
+  "en": "Thank you!\\nWe'll send it to your PC at home.",
+  "pt": "Obrigado! Vamos enviar para o seu PC em casa."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02543D5",
+  "en": "You don't have enough COINS.",
+  "pt": "Você não tem MOEDAS suficientes."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254421",
+  "en": "Oh, is that so? \\nYou need to save some COINS before\\lcoming back here.",
+  "pt": "Ah, é mesmo? Você precisa juntar algumas MOEDAS antes de voltar aqui."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254467",
+  "en": "So your choice is {STR_VAR_1}?",
+  "pt": "Então você escolheu: {STR_VAR_1}?"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02544B2",
+  "en": "I made a mistake and got two of\\nthe same DOLLS.\\pWould you like one of them?",
+  "pt": "Eu me enganei e peguei duas BONECAS iguais.\\pVocê quer uma delas?"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02544FE",
+  "en": "Here you go!",
+  "pt": "Aqui está!"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "025450B",
+  "en": "Huh?\\nYou want it, but not right now?",
+  "pt": "Hã? Você quer, mas não agora?"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254530",
+  "en": "Oh, don't be so negative!\\nYou can have this!",
+  "pt": "Ah, não seja tão negativo! Pode ficar com isto!"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "025455D",
+  "en": "There's a prize I want, but I can't win\\nthe jackpot.",
+  "pt": "Tem um prêmio que eu quero, mas não consigo acertar o prêmio máximo."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254592",
+  "en": "Hey, kid, if you want to play here,\\nyou need a COIN CASE.\\pI think the young lady next door\\nhad one. Go see her!",
+  "pt": "Ei, garoto, se quiser jogar aqui, você precisa de um PORTA-MOEDAS.\\pAcho que a moça aqui do lado tinha um. Vai falar com ela!"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254602",
+  "en": "My luck can only last so long.\\nThis is too much for me.\\lHere, take some COINS!",
+  "pt": "A minha sorte não dura pra sempre. Isso é demais pra mim. Toma, fica com umas MOEDAS!"
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254651",
+  "en": "MAUVILLE has something for\\neveryone.\\pFor me, it's the GAME CORNER.",
+  "pt": "MAUVILLE tem algo para todo mundo.\\pPra mim, é o CASSINO."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254694",
+  "en": "The ROULETTE tables have different\\nrates.\\pCheck your COINS if you're going to\\npick a table.",
+  "pt": "As mesas de ROLETA têm taxas diferentes.\\pConfira suas MOEDAS se for escolher uma mesa."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02546F0",
+  "en": "It's easy to lose track of time in here. \\nI should get back to work.",
+  "pt": "É fácil perder a noção do tempo aqui dentro. Preciso voltar ao trabalho."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254735",
+  "en": "COINS are needed to play here\\nin the GAME CORNER.",
+  "pt": "É preciso ter MOEDAS para jogar aqui no CASSINO."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254767",
+  "en": "This ROULETTE thing…\\nIt's rather demanding.\\pWin or lose, it's only by luck.",
+  "pt": "Essa tal de ROLETA… É bem exigente.\\pGanhando ou perdendo, é tudo sorte."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02547B3",
+  "en": "Up to three COINS can be used to play\\nthe SLOTS.",
+  "pt": "Dá pra usar até três MOEDAS para jogar no CAÇA-NÍQUEL."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "02547E4",
+  "en": "It's very difficult to make it stop\\nright on “7.”\\pIf it stops on “7” during the REEL TIME\\nbonus game, you'll receive extra COINS.",
+  "pt": "É muito difícil fazer parar bem no “7”.\\pSe parar no “7” durante o bônus do REEL TIME, você ganha MOEDAS extras."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254866",
+  "en": "Here's some information for you\\nabout the SLOTS.\\pThe more lightning bolts you stock,\\nthe more REEL TIME chances you get.\\pIn a game with the maximum five\\nREEL TIME chances…\\pIt is possible to receive four regular\\nbonuses, then a big bonus.\\pThat would total 660 COINS, but it's\\nvery difficult to get.",
+  "pt": "Aqui vai uma informação sobre o CAÇA-NÍQUEL.\\pQuanto mais raios você acumular, mais chances de REEL TIME você ganha.\\pNum jogo com o máximo de cinco chances de REEL TIME…\\pÉ possível ganhar quatro bônus normais e depois um bônus grande.\\pIsso daria um total de 660 MOEDAS, mas é muito difícil de conseguir."
+ },
+ {
+  "map": "26.3 MAIN STREET",
+  "offset": "0254990",
+  "en": "You can't play if you don't have\\na COIN CASE.",
+  "pt": "Você não pode jogar se não tiver um PORTA-MOEDAS."
+ }
+]

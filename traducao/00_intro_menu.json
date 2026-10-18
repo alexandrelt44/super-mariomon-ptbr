@@ -1,0 +1,67 @@
+[
+ {
+  "offset": "0884474",
+  "en": "NEW GAME",
+  "pt": "NOVO JOGO"
+ },
+ {
+  "offset": "088447D",
+  "en": "CONTINUE                                          v1.5.1",
+  "pt": "CONTINUAR                                        v1.5.1"
+ },
+ {
+  "offset": "08844B6",
+  "en": "OPTION",
+  "pt": "OPÇÕES"
+ },
+ {
+  "offset": "088A2A4",
+  "en": "PLAYER",
+  "pt": "JOGADOR"
+ },
+ {
+  "offset": "088A2AB",
+  "en": "TIME",
+  "pt": "TEMPO"
+ },
+ {
+  "offset": "088A2BA",
+  "en": "STARS",
+  "pt": "ESTRELAS"
+ },
+ {
+  "offset": "02E8158",
+  "en": "Ah, finally! A connection!\\pNice to meet you, I'm PROFESSOR ELVIN\\nGADD, but you can just call me E. GADD if\\lyou're of a shortening mind.\\pNow then young feller, Let me tell you\\nabout the world of the MUSHROOM\\lKINGDOM.\\p",
+  "pt": "Ah, finalmente! Uma conexão!\\pMuito prazer, eu sou o PROFESSOR ELVIN GADD, mas pode me chamar só de E. GADD, se gostar de abreviar.\\pPois bem, meu jovem, deixe-me contar sobre o mundo do REINO DOS COGUMELOS.\\p"
+ },
+ {
+  "offset": "02E8231",
+  "en": "Here's a denizen of the MUSHROOM\\nKINGDOM.{PAUSE 60}\\p",
+  "pt": "Este é um habitante do REINO DOS\\nCOGUMELOS.{PAUSE 60}\\p"
+ },
+ {
+  "offset": "02E825F",
+  "en": "As a creature of the MUSHROOM KINGDOM,\\nyou'll be seeing many of these\\lthroughout your adventure!\\pWhile they're usually the hostile sort,\\nyou'll be getting very familiar with\\lthem.\\p",
+  "pt": "Como criatura do REINO DOS COGUMELOS, você vai ver muitos destes ao longo da sua aventura!\\pEmbora costumem ser do tipo hostil, você vai ficar bem familiarizado com eles.\\p"
+ },
+ {
+  "offset": "02E8314",
+  "en": "Why is that?\\pOhoho! You'll be finding out shortly,\\ndon't worry about that!\\pNow then, allow me to introduce some\\nfine young lads.\\p",
+  "pt": "Por quê?\\pOhoho! Você vai descobrir isso em breve, não se preocupe!\\pPois bem, permita-me apresentar dois belos rapazes.\\p"
+ },
+ {
+  "offset": "02E8396",
+  "en": "These two are called MARIO and LUIGI.\\pThey're the unlikely plumber heroes of\\nthe MUSHROOM KINGDOM!\\pYou'll be experiencing this journey\\nthrough the eyes of MARIO, but what's\\lyour name?\\pYes, you the one reading this!",
+  "pt": "Estes dois se chamam MARIO e LUIGI.\\pSão os improváveis encanadores heróis do REINO DOS COGUMELOS!\\pVocê vai viver esta jornada pelos olhos do MARIO, mas qual é o seu nome?\\pSim, você mesmo que está lendo isto!"
+ },
+ {
+  "offset": "02E846D",
+  "en": "So you're {PLAYER}, eh?\\pWell met then, {PLAYER}!\\p",
+  "pt": "Então você é {PLAYER}, é?\\pMuito prazer, {PLAYER}!\\p"
+ },
+ {
+  "offset": "02E8493",
+  "en": "Alrighty, are you ready?\\pIt's time to venture out into the\\nMUSHROOM KINGDOM!\\pMake sure to come see me in TOAD TOWN!\\p",
+  "pt": "Muito bem, está pronto?\\pÉ hora de se aventurar pelo REINO DOS COGUMELOS!\\pNão deixe de me visitar na CIDADE TOAD!\\p"
+ }
+]

@@ -1,0 +1,1967 @@
+[
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB136",
+  "en": "Two, four, six, eight!\\nWho do we appreciate?\\pThat's ba-by yo-shi,\\nhe's always up to somethin!",
+  "pt": "Dois, quatro, seis, oito!\\nQuem é que a gente adora?\\pÉ o be-bê yo-shi,\\nque apronta toda hora!"
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB194",
+  "en": "Alright, let's take that one more time.",
+  "pt": "Beleza, vamos mais uma vez do começo."
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB1BC",
+  "en": "Palm so loud, you can track our trail,\\pflaunt my style, but it's not for sale!",
+  "pt": "Palma no alto, dá pra seguir a pegada,\\postento meu estilo, mas não tô à venda, nada!"
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB20B",
+  "en": "Gold across my smile, while I count my\\nscales,\\pI been out my mind, get from out my\\ntrails!",
+  "pt": "Ouro no sorriso, enquanto conto as escamas,\\ptô fora de mim, sai da trilha, nada de dramas!"
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB266",
+  "en": "Rip the cord with no parachute!",
+  "pt": "Puxa a cordinha sem paraquedas!"
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB286",
+  "en": "We up in the core and we prepared to\\nshoot!",
+  "pt": "Tamo no núcleo, prontos pra mandar ver!"
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB2B2",
+  "en": "Rigor mortis - you scared to move!",
+  "pt": "Rigor mortis - cê tem medo de se mexer!"
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB2D5",
+  "en": "BOTH",
+  "pt": "AMBOS",
+  "max_width": 30
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB2DA",
+  "en": "Our spirit enormous, we could never\\nlose!",
+  "pt": "Nosso espírito é enorme, a gente nunca vai perder!"
+ },
+ {
+  "map": "9.8 TOSTARENA",
+  "offset": "02CB304",
+  "en": "That's it bro!\\nLocked in!",
+  "pt": "É isso aí, mano! Foco total!"
+ },
+ {
+  "map": "9.9 TOSTARENA TOWER",
+  "offset": "02CB36B",
+  "en": "Defeat",
+  "pt": "Derrota"
+ },
+ {
+  "map": "9.9 TOSTARENA TOWER",
+  "offset": "02CB372",
+  "en": "Need 2 mons",
+  "pt": "Precisa de 2 CAPTURAS"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB51C",
+  "en": "Water…",
+  "pt": "Água…"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB523",
+  "en": "Welcome to the harsh desert!",
+  "pt": "Bem-vindo ao deserto implacável!"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB540",
+  "en": "Harsh indeed…",
+  "pt": "Implacável mesmo…"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB54E",
+  "en": "Don't let the sun get to you!",
+  "pt": "Não deixe o sol te derrubar!"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB5A9",
+  "en": "Wow. Never meet your heroes, I guess.\\nThanks, MARIO.",
+  "pt": "Nossa. É, nunca conheça seus ídolos, né? Valeu, MARIO."
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB5DE",
+  "en": "Hold on!",
+  "pt": "Espere!"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB5E7",
+  "en": "Careful, some of the sand up ahead is\\nquicksand. It'll suck you right into the\\lcave below!",
+  "pt": "Cuidado, parte da areia ali na frente é movediça. Ela suga você direto pra caverna lá embaixo!"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB642",
+  "en": "Stay safe out there!",
+  "pt": "Tome cuidado por aí!"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB657",
+  "en": "You see that tower behind me? Nothing\\nfrom bad vibes from it.",
+  "pt": "Tá vendo aquela torre atrás de mim? Só sai vibe ruim dela."
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB695",
+  "en": "Are you trying to get to METRO\\nKINGDOM?",
+  "pt": "Você está tentando chegar ao METRO KINGDOM?"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB6BD",
+  "en": "Well in that case, you'll need to get\\nthrough the TOSTARENA TOWER.",
+  "pt": "Bom, nesse caso, você vai ter que passar pela TORRE TOSTARENA."
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB700",
+  "en": "Good luck if you plan on scaling it.",
+  "pt": "Boa sorte se pretende escalar ela."
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB725",
+  "en": "Then I'd suggest you turn back. The\\nTOSTARENA TOWER can be a dangerous\\lplace for those unprepared.",
+  "pt": "Então sugiro que dê meia-volta. A TORRE TOSTARENA pode ser um lugar perigoso para quem não está preparado."
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB788",
+  "en": "This ledge sure is intimidating…",
+  "pt": "Essa beirada é bem intimidadora…"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB7A9",
+  "en": "Ough…",
+  "pt": "Ugh…"
+ },
+ {
+  "map": "9.10 WORLD 6-2",
+  "offset": "02CB7AF",
+  "en": "Huh?! MARIO? Why are you here?\\pTOADSWORTH has been looking for me? I\\ncompletely forgot about everyone back\\lin town!\\pThanks MARIO, I'll get back right away!",
+  "pt": "Hã?! MARIO? O que você está fazendo aqui?\\pO TOADSWORTH está me procurando? Esqueci completamente do pessoal lá na cidade!\\pValeu, MARIO, vou voltar agora mesmo!"
+ },
+ {
+  "map": "9.11 WORLD 6-2",
+  "offset": "02CB8C8",
+  "en": "Hey! Do you know how to get out of\\nhere? TOADSWORTH is probably worried\\lsick about me back in TOSTARENA!",
+  "pt": "Ei! Você sabe como sair daqui? O TOADSWORTH deve estar morrendo de preocupação comigo lá em TOSTARENA!"
+ },
+ {
+  "map": "9.11 WORLD 6-2",
+  "offset": "02CB931",
+  "en": "I don't like this one bit…",
+  "pt": "Não estou gostando nada disso…"
+ },
+ {
+  "map": "9.11 WORLD 6-2",
+  "offset": "02CB94C",
+  "en": "What's that? TOADSWORTH is looking for\\nme back in TOSTARENA?\\pT-Thanks! I was a little too scared to\\nleave on my own, but with you here I\\lthink I can do it.\\pI'll be sure to get back right away!",
+  "pt": "O quê? O TOADSWORTH está me procurando lá em TOSTARENA?\\pV-Valeu! Eu estava com um pouco de medo de sair daqui sem ajuda, mas com você aqui acho que consigo.\\pVou voltar agora mesmo!"
+ },
+ {
+  "map": "9.12 TOSTARENA",
+  "offset": "02CBA80",
+  "en": "Welcome to our general store! Would you\\nlike to buy something?",
+  "pt": "Bem-vindo ao nosso armazém! Quer comprar alguma coisa?"
+ },
+ {
+  "map": "9.12 TOSTARENA",
+  "offset": "02CBABF",
+  "en": "Come back soon!",
+  "pt": "Volte sempre!"
+ },
+ {
+  "map": "9.12 TOSTARENA",
+  "offset": "02CBACF",
+  "en": "Better make sure I'm prepared for the\\nharsh desert. Some FRESH WATER would\\lbe nice, but all they seem to sell here\\lare NUTS?",
+  "pt": "Melhor eu me preparar pro deserto implacável. Uma ÁGUA FRESCA cairia bem, mas parece que aqui só vendem NOZES?"
+ },
+ {
+  "map": "9.12 TOSTARENA",
+  "offset": "02CBB4C",
+  "en": "'No one heals themselves by wounding\\nanother'. Yeah, alright buddy, explain\\lDRAIN PUNCH.",
+  "pt": "'Ninguém se cura ferindo o outro.' Tá bom, amigão, então explica o SOCO DRENO."
+ },
+ {
+  "map": "9.12 TOSTARENA",
+  "offset": "02CBBA5",
+  "en": "PRINCESS DAISY was asked earlier to\\nhave her STAR LEADER challenge in\\lTOSTARENA and SARASALAND, but she\\lcouldn't stay grounded! Get it!",
+  "pt": "A PRINCESA DAISY foi convidada pra fazer o desafio de LÍDER ESTELAR dela em TOSTARENA e SARASALAND, mas não conseguiu manter os pés no chão! Sacou?"
+ },
+ {
+  "map": "9.13 TOSTARENA",
+  "offset": "02CBCBA",
+  "en": "This is so exciting! The C.A.P.\\nCHALLENGE! I hope I can participate.\\lCanI?CanI?CanI?CanI?CanI?CanI?",
+  "pt": "Que emocionante! O DESAFIO C.A.P.! Espero poder participar. Posso?Posso?Posso?Posso?Posso?"
+ },
+ {
+  "map": "9.14 TOSTARENA",
+  "offset": "02CBDEC",
+  "en": "Thanks again for finding my UMBRELLA!",
+  "pt": "Agradeço de novo por encontrar meu GUARDA-CHUVA!"
+ },
+ {
+  "map": "9.14 TOSTARENA",
+  "offset": "02CBE12",
+  "en": "Those are… my UMBRELLAS! Oh, thank you\\nso much! Here, you can have one as a\\lreward.",
+  "pt": "Esses são… os meus GUARDA-CHUVAS! Ah, que gentileza a sua! Tome, pode ficar com um como recompensa."
+ },
+ {
+  "map": "9.14 TOSTARENA",
+  "offset": "02CBE66",
+  "en": "That item will protect you from all\\nsorts of weather, even the RAIN and\\lSUN!",
+  "pt": "Esse item protege você de todo tipo de clima, até da CHUVA e do SOL!"
+ },
+ {
+  "map": "9.14 TOSTARENA",
+  "offset": "02CBEB3",
+  "en": "Oh dear… Where did I put my UMBRELLA?\\nDid I forget it somewhere?",
+  "pt": "Ai, ai… Onde foi que eu deixei meu GUARDA-CHUVA? Será que esqueci em algum lugar?"
+ },
+ {
+  "map": "9.14 TOSTARENA",
+  "offset": "02CBEF4",
+  "en": "Oh, hello there! Sorry, I didn't hear you\\ncome in, I was busy searching for my\\lUMBRELLA.",
+  "pt": "Ah, olá! Desculpe, não ouvi você entrar, estava procurando meu GUARDA-CHUVA."
+ },
+ {
+  "map": "9.14 TOSTARENA",
+  "offset": "02CBF4D",
+  "en": "Is that a QUEST BOOK? Then you're\\naccepting people's troubles then,\\lcorrect? Do you think you could help me\\lfind my UMBRELLA? Last I remember\\lhaving it, I was out for a nice stroll\\lnear the front of town…",
+  "pt": "Isso é um LIVRO DE MISSÕES? Então você está aceitando os problemas das pessoas, certo? Será que poderia me ajudar a encontrar meu GUARDA-CHUVA? A última vez que me lembro de estar com ele, eu estava dando um passeio agradável perto da entrada da cidade…"
+ },
+ {
+  "map": "9.14 TOSTARENA",
+  "offset": "02CC01A",
+  "en": "Please let me know if you find my\\nUMBRELLA!",
+  "pt": "Por favor, me avise se encontrar meu GUARDA-CHUVA!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D394",
+  "en": "Sorry, LADY PAULINE has restricted\\nentrance to the SEWERS.\\pYou're gonna need official permission if\\nya wanna enter.",
+  "pt": "Foi mal, a DONA PAULINE restringiu a entrada nos ESGOTOS.\\pVai precisar de permissão oficial se quiser entrar."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D408",
+  "en": "Oh! You have permission from LADY\\nPAULINE? Go right ahead.",
+  "pt": "Ah! Você tem permissão da DONA PAULINE? Pode entrar."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D443",
+  "en": "Great job in the sewers! Now we can\\nfinally get back to our everyday lives.",
+  "pt": "Mandou bem nos esgotos! Agora finalmente podemos voltar à nossa vida normal."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D48F",
+  "en": "Good luck down there, pal. Word is\\nBOWSER's minions have been seen going\\linto the sewers.",
+  "pt": "Boa sorte lá embaixo, chapa. Dizem que viram os capangas do BOWSER entrando nos esgotos."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D4E9",
+  "en": "Skibidi Toadlet",
+  "pt": "Skibidi Toadlet"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D4F9",
+  "en": "NEW DONK CITY is where dreams are made!\\pWhat's my dream? I'm going to become a\\nplumber, just like you!",
+  "pt": "NEW DONK CITY é onde os sonhos se realizam!\\pQual é o meu sonho? Quero consertar canos, igualzinho a você!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D560",
+  "en": "MAYOR PAULINE does so much for the\\ncity. She manages, battles, sings,\\lraces. Ah…what I'd do to go on a date\\lwith her.\\pAsk her out? But I don't have anything\\nto give her!\\pWait, MARIO! Do you have a HEART SCALE?",
+  "pt": "A PREFEITA PAULINE faz tanto pela cidade. Ela administra, batalha, canta, corre. Ah… o que eu não daria pra sair num encontro com ela.\\pChamar ela pra sair? Mas eu não tenho nada pra dar pra ela!\\pEspera, MARIO! Você tem uma ESCAMA CORAÇÃO?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D632",
+  "en": "You do? Can I please have it?\\nPleeeeeaaaase?",
+  "pt": "Tem? Pode me dar, por favor? Por favooooooor?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D65F",
+  "en": "THANK YOU MARIO!\\pYOU WON'T REGRET THIS!",
+  "pt": "VALEU, MARIO!\\pVOCÊ NÃO VAI SE ARREPENDER!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D687",
+  "en": "Oh, that's ok…",
+  "pt": "Ah, tudo bem…"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D696",
+  "en": "Oh, it doesn't look like you do…",
+  "pt": "Ah, parece que você não tem…"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D6B7",
+  "en": "My big bro and I love coming to the\\nMETRO KINGDOM when we have enough\\lsaved up.\\pHe's autistic, so sometimes he gets a\\nlittle overwhelmed with all the lights\\land noise. We always like to visit a\\lpark, and he'll wear his headphones to\\lrelax.\\pHe really likes watching these GOOMBAs\\nplay.",
+  "pt": "Eu e meu irmão mais velho adoramos vir ao METRO KINGDOM quando conseguimos juntar dinheiro.\\pEle é autista, então às vezes fica um pouco sobrecarregado com tantas luzes e barulho. A gente sempre gosta de visitar um parque, e ele usa os fones de ouvido pra relaxar.\\pEle adora ver esses GOOMBAs brincando."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D7D6",
+  "en": "My stack and I are playing tag! Don't\\nget in our way!",
+  "pt": "Eu e a minha pilha estamos brincando de pega-pega! Não entre no nosso caminho!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D80C",
+  "en": "I had a friend tell me that I'm not going\\nto get my wings unless I take a leap of\\lfaith.\\pI told them, 'No thank you, I'd rather\\nstay on the ground'.",
+  "pt": "Um amigo me disse que eu só vou ganhar minhas asas se der um salto de fé.\\pEu respondi: 'Não, valeu, prefiro ficar no chão'."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D8A1",
+  "en": "Considering all the big places you can\\ngo to, NEW DONK CITY is probably the\\lmost tame.\\pIt's nothing like scam-CITY or\\ncrypto-KINGDOM.",
+  "pt": "De todos os lugares grandes que dá pra visitar, NEW DONK CITY é provavelmente o mais tranquilo.\\pNão tem nada a ver com a golpe-CITY ou o cripto-KINGDOM."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D927",
+  "en": "TOURIST",
+  "pt": "TURISTA",
+  "max_width": 48
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D92F",
+  "en": "Hey! I'm walkin' here!",
+  "pt": "Ei! Tô passando aqui!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D946",
+  "en": "What to do, what to do…",
+  "pt": "O que fazer, o que fazer…"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D95E",
+  "en": "Welcome! Is this your first time in NEW\\nDONK CITY?\\pHead to the CITY HALL, there's usually\\nsomething fun happening there!",
+  "pt": "Bem-vindo! É a sua primeira vez em NEW DONK CITY?\\pVá até a PREFEITURA, normalmente tem alguma coisa divertida rolando lá!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D9D7",
+  "en": "Rise and grind, gaymers.",
+  "pt": "De pé e pro corre, gaymers."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D9F0",
+  "en": "WORKER",
+  "pt": "PEÃO",
+  "max_width": 42
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D9F7",
+  "en": "Yup.",
+  "pt": "Aham."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035D9FC",
+  "en": "Mhm.",
+  "pt": "Uhum."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DA01",
+  "en": "FOTTO",
+  "pt": "FOTTO",
+  "max_width": 36
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DA07",
+  "en": "Hey, it's MARIO!\\pDo you know me? Not yet but you're\\nabout to!\\pMy name is FRANK OTTO, but you can call\\nme FOTTO! I like to take pictures of\\lpeople playing the C.A.P. CHALLENGE!\\pMay I take a photo of you and upload it\\nonline?",
+  "pt": "Ei, é o MARIO!\\pVocê me conhece? Ainda não, mas vai conhecer!\\pMeu nome é FRANK OTTO, mas pode me chamar de FOTTO! Eu gosto de tirar fotos das pessoas jogando o DESAFIO C.A.P.!\\pPosso tirar uma foto sua e postar na internet?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DAE7",
+  "en": "Your photo in NEW DONK CITY should be\\nposted now!\\pJust go to my account\\nfottocap.bsky.social!",
+  "pt": "Sua foto em NEW DONK CITY já deve estar postada!\\pÉ só ir na minha conta fottocap.bsky.social!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DB45",
+  "en": "Hey, MARIO! It's me, FOTTO!\\pWant another picture taken for your\\ntime in NEW DONK CITY?",
+  "pt": "Ei, MARIO! Sou eu, o FOTTO!\\pQuer tirar outra foto da sua passagem por NEW DONK CITY?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DB9C",
+  "en": "I can't believe we're out of the desert!\\pFinally, I can enjoy some famous NEW\\nDONK spaghetti!",
+  "pt": "Nem acredito que saímos do deserto!\\pFinalmente posso comer o famoso espaguete de NEW DONK!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DC05",
+  "en": "No more sandy desert! HELLO CONCRETE\\nJUNGLE!",
+  "pt": "Chega de deserto de areia! OLÁ, SELVA DE PEDRA!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DC32",
+  "en": "Great, why don't you stand over there.",
+  "pt": "Ótimo, que tal você ficar ali?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DC59",
+  "en": "Perfect, now how about a SUPER MARIO\\nSUPER JUMP for the camera!",
+  "pt": "Perfeito, agora que tal um SUPERPULO do SUPER MARIO pra câmera!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DC99",
+  "en": "Your photo is uploading, check it out\\nlater!\\pJust go to my account\\nfottocap.bsky.social!",
+  "pt": "Sua foto está sendo enviada, confira mais tarde!\\pÉ só ir na minha conta fottocap.bsky.social!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DCF2",
+  "en": "The street lamp is broken.",
+  "pt": "O poste de luz está quebrado."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD0D",
+  "en": "Banana.",
+  "pt": "Banana."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD15",
+  "en": "Botoqueta.",
+  "pt": "Botoqueta."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD20",
+  "en": "Bwaaaaa?",
+  "pt": "Bwaaaaa?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD29",
+  "en": "Awabanas.",
+  "pt": "Awabanas."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD33",
+  "en": "Pettolo.",
+  "pt": "Pettolo."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD3C",
+  "en": "Fwuur.",
+  "pt": "Fwuur."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD43",
+  "en": "You got it boss.",
+  "pt": "Pode deixar, chefe."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD54",
+  "en": "Hehehehe.",
+  "pt": "Hehehehe."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD5E",
+  "en": "Squebaba.",
+  "pt": "Squebaba."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DD71",
+  "en": "Man in red and blue, you made it back\\nwith the LONG THINGY-THING, the SHORT\\lGIZMO-GADGET, and the SECRET\\lINGREDIENT!\\pYour help is starting to make me think\\nyou want to be a minion for the great\\lFELONIUS.\\pSo, I will give you something I give to\\nall of my MINIONS.",
+  "pt": "Homem de vermelho e azul, você voltou com o TRECO-COMPRIDO, a BUGIGANGA-CURTA e o INGREDIENTE SECRETO!\\pSua ajuda está começando a me fazer pensar que você quer ser um minion do grande FELONIUS.\\pEntão, vou te dar uma coisa que eu dou a todos os meus MINIONS."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DE78",
+  "en": "I do not know when I will see you again,\\nman in red and blue, but I hope it is\\lwhen I have stolen-I MEAN-landed on\\lthe moon! Goodbye!",
+  "pt": "Não sei quando vou te ver de novo, homem de vermelho e azul, mas espero que seja quando eu tiver roubado-QUER DIZER-pousado na lua! Adeus!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DEFE",
+  "en": "Missing all together.",
+  "pt": "Estão faltando todas."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035DF14",
+  "en": "Man in red and blue, it is so good to see\\nyou again.\\pThe MINION you traded me has been a\\nfantastic minion, and I have been able\\lto grow my work force exponentially.\\lThere is one teensy tiny problem.\\pMy MINIONs hate water, and they refuse\\nto go into the sewer to retrieve the\\lparts I need for my master plan to\\lsteal-I MEAN-go to the moon!\\pIf you find my 3 parts, I can reward you\\nwith something.\\pOk, so I need a LONG THINGY-THING, a\\nSHORT GIZMO-GADGET, and a SECRET\\lINGREDIENT. Simple!",
+  "pt": "Homem de vermelho e azul, que bom ver você de novo.\\pO MINION que você me trocou tem sido um minion fantástico, e eu consegui aumentar minha força de trabalho exponencialmente. Só tem um probleminha minúsculo.\\pMeus MINIONS odeiam água e se recusam a entrar no esgoto pra buscar as peças que eu preciso pro meu plano mestre de roubar-QUER DIZER-ir até a lua!\\pSe você encontrar minhas 3 peças, posso te recompensar com alguma coisa.\\pCerto, eu preciso de um TRECO-COMPRIDO, uma BUGIGANGA-CURTA e um INGREDIENTE SECRETO. Simples!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E106",
+  "en": "{FONT 00}Keke. Want to go to my secret spot?",
+  "pt": "{FONT 00}Keke. Quer ir pro meu esconderijo secreto?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E12D",
+  "en": "{FONT 00}Keke. Want to go back to the street?",
+  "pt": "{FONT 00}Keke. Quer voltar pra rua?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E155",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E15B",
+  "en": "LORD BOWSER PLEASE SAVE ME!",
+  "pt": "LORDE BOWSER, POR FAVOR, ME SALVE!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E177",
+  "en": "WE'RE NOT DONE WITH YOU!",
+  "pt": "A GENTE AINDA NÃO ACABOU COM VOCÊ!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E190",
+  "en": "GUYS I FOUND A BLUE SHELL!",
+  "pt": "GENTE, ACHEI UM CASCO AZUL!"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E1AB",
+  "en": "{FONT 00}oooooow…",
+  "pt": "{FONT 00}aaaaaai…"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E1B7",
+  "en": "Hey there. Thanks again for earlier, I\\nreally appreciate it.",
+  "pt": "E aí. Valeu de novo por mais cedo, eu agradeço de verdade."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E1F4",
+  "en": "Hey man, what's up?\\pMe? I'm just… vibing I guess.\\pWanna join me?",
+  "pt": "E aí, cara, beleza?\\pEu? Só tô… curtindo a vibe, acho.\\pQuer me fazer companhia?"
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E235",
+  "en": "Cool. Make yourself comfortable.",
+  "pt": "Massa. Fique à vontade."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E256",
+  "en": "Sometimes, it's nice to just take a\\nbreather and take in the sights, ya\\lknow?\\pEveryone around us is so busy, always in\\na rush… Don't you think they should\\lslow it down?\\pThat's what I'm trying to do, at least.\\pRecently, I've been so overwhelmed with\\ntrying to finish an important project\\lof mine. It means everything to me, and\\lI wanna see it to fruition no matter\\lwhat.\\pBut in that pursuit, I've burned myself\\nout pretty badly. That's when I decided\\lto get up.\\pI got up, walked out of my house, and\\ncame here.\\pAnd here I've remained. Just. Taking it\\nall in.\\pIt's nice.",
+  "pt": "Às vezes é bom só dar uma respirada e apreciar a paisagem, sabe?\\pTodo mundo à nossa volta é tão ocupado, sempre com pressa… Você não acha que deviam ir com mais calma?\\pPelo menos é isso que eu tô tentando fazer.\\pUltimamente, a pressão pra terminar um projeto importante meu tem sido demais. Ele significa tudo pra mim, e eu quero ver ele concluído de qualquer jeito.\\pMas, nessa busca, acabei me esgotando feio. Foi aí que eu decidi levantar.\\pEu levantei, saí de casa e vim pra cá.\\pE aqui eu fiquei. Só. Absorvendo tudo.\\pÉ bom."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E48F",
+  "en": "Sorry about that. Rambling, I mean.\\pThanks though… I appreciate it. Here, I\\nwant you to have this.",
+  "pt": "Foi mal por isso. Por ficar tagarelando, digo.\\pMas valeu… Eu agradeço. Toma, quero que você fique com isto."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E4F2",
+  "en": "Never forget to cherish your time. It's\\nimportant.\\pGo on, I won't keep you any longer.",
+  "pt": "Nunca se esqueça de valorizar o seu tempo. É importante.\\pPode ir, não vou mais te prender."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E549",
+  "en": "Fair enough.",
+  "pt": "Justo."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E556",
+  "en": "I hope you put that rod to good use.",
+  "pt": "Espero que você faça bom uso dessa vara."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E57B",
+  "en": "Nothing's biting… Maybe I just don't\\ngot it anymore.\\pHey, take my rod.",
+  "pt": "Nada de beliscar… Acho que eu perdi o jeito.\\pEi, fica com a minha vara."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E5C2",
+  "en": "Don't ask.",
+  "pt": "Nem pergunte."
+ },
+ {
+  "map": "9.15 NEW DONK CITY",
+  "offset": "035E5CD",
+  "en": "JUMP UP\\nSUPER STAR",
+  "pt": "JUMP UP\\nSUPER STAR"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F2A8",
+  "en": "Looks like LUIGI is battling PAULINE.\\nDo you want to join the crowd?",
+  "pt": "Parece que o LUIGI está batalhando com a PAULINE. Quer se juntar à multidão?"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F2ED",
+  "en": "Better make sure you're ready for this\\ncommitment.",
+  "pt": "Melhor garantir que você está pronto pra esse compromisso."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F320",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F326",
+  "en": "Take that PAULINE!\\nPrivate! Use RAZOR SHELL!",
+  "pt": "Toma essa, PAULINE! Private! Use CONCHA NAVALHA!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F353",
+  "en": "LUIGI is the victor!",
+  "pt": "O LUIGI é o vencedor!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F36E",
+  "en": "LU-I-GI! LU-I-GI! LU-I-GI!",
+  "pt": "LU-I-GI! LU-I-GI! LU-I-GI!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F389",
+  "en": "Aww, you're all so kind, and you make\\nthis so much fun!",
+  "pt": "Ownn, vocês são tão gentis, e deixam tudo muito mais divertido!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F3C1",
+  "en": "PAULINE",
+  "pt": "PAULINE",
+  "max_width": 48
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F3C9",
+  "en": "Great idea to battle outside, LUIGI! I\\nneed to return to some mayoral duties,\\lso I'll be seeing you around.",
+  "pt": "Ótima ideia batalhar ao ar livre, LUIGI! Preciso voltar pras minhas tarefas de prefeita, então a gente se vê por aí."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F435",
+  "en": "MARIO! You finally made it to NEW DONK\\nCITY! I was wondering when you'd get\\lhere.\\pI would have waited for you to watch me\\nbattle PAULINE, but she's on a strict\\lschedule. So I had to take my chance.\\pHey, it feels like forever ago since we\\nhad a good battle! Let's have one right\\lnow!",
+  "pt": "MARIO! Você finalmente chegou a NEW DONK CITY! Eu estava me perguntando quando você ia aparecer.\\pEu teria esperado você pra me ver batalhar com a PAULINE, mas ela tem uma agenda apertada. Então tive que aproveitar a chance.\\pEi, parece que faz uma eternidade desde a nossa última batalha boa! Vamos ter uma agora mesmo!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F550",
+  "en": "Are we actually gonna watch the MARIO\\nBROS. battle each other?!",
+  "pt": "A gente vai mesmo ver os MARIO BROS. batalhando um contra o outro?!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F590",
+  "en": "What's MARIO's team be?! I mean, they\\nboth have at least 5 POWER STARs!",
+  "pt": "Como será a equipe do MARIO?! Quer dizer, os dois têm pelo menos 5 ESTRELAS DE PODER!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F5D8",
+  "en": "Let me heal your party up before we do\\nthis.",
+  "pt": "Deixa eu curar a sua equipe antes da gente começar."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F605",
+  "en": "Let's-a-go!",
+  "pt": "Let's-a-go!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F611",
+  "en": "Bro!\\nThere's no way you lose to PAULINE!",
+  "pt": "Mano! Não tem como você perder pra PAULINE!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F63A",
+  "en": "Wow bro, you sure are strong! MISS\\nPAULINE is going to be no match for\\lyou!\\pSay, have you seen BOWSER around? I\\ngot to NEW DONK CITY and haven't seen\\lhim anywhere, but I'm sure he's not up to\\lany trouble.\\pI've been teaching him the power of\\nfriendship!\\pLiterally, I taught him the move RETURN!\\pAnyway, NEW DONK CITY is really big, so\\nI'm going to explore a bit before moving\\lon to WORLD 7. Later bro!",
+  "pt": "Uau, mano, você é forte mesmo! A DONA PAULINE não vai ser páreo pra você!\\pEi, você viu o BOWSER por aí? Cheguei em NEW DONK CITY e não vi ele em lugar nenhum, mas tenho certeza de que ele não está aprontando nada.\\pEu tenho ensinado a ele o poder da amizade!\\pLiteralmente, eu ensinei a ele o golpe RETORNO!\\pEnfim, NEW DONK CITY é bem grande, então vou explorar um pouco antes de seguir pro MUNDO 7. Até mais, mano!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F7CB",
+  "en": "Excuse me, I have to take this.",
+  "pt": "Com licença, preciso atender."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F7EB",
+  "en": "{FONT 00}The lime has been picked by the apple…\\p…\\p…no it's not dumb, it makes sense…\\p…\\p…the SEWERS?…",
+  "pt": "{FONT 00}O limão foi colhido pela maçã…\\p…\\p…não, não é idiota, faz sentido…\\p…\\p…os ESGOTOS?…"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F84A",
+  "en": "I MEAN UH…I'm having…toilet\\ntroubles…{FONT 00}I'll be in the SEWERS\\limmediately!",
+  "pt": "QUER DIZER, HÃ… Tô com… problemas no banheiro…{FONT 00}Estarei nos ESGOTOS imediatamente!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F895",
+  "en": "YEAH! BEAT THE SNOT OUT OF HER, LUIGI!",
+  "pt": "ISSO! ACABA COM ELA, LUIGI!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F8BC",
+  "en": "Oh man… Is LUIGI gonna win?",
+  "pt": "Caramba… O LUIGI vai ganhar?"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F8D8",
+  "en": "What a battle! LUIGI is really good at\\nthe C.A.P. CHALLENGE, isn't he?",
+  "pt": "Que batalha! O LUIGI é muito bom no DESAFIO C.A.P., né?"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F91F",
+  "en": "Hmph. LUIGI has come a long ways, it\\nseems. I should've read the data better\\land bet on him instead of PAULINE.",
+  "pt": "Hmpf. Parece que o LUIGI evoluiu bastante. Eu devia ter analisado melhor os dados e apostado nele em vez da PAULINE."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035F98F",
+  "en": "I'm gonna have to reevaluate my C.A.P.\\ntrainers-to-watch list online after\\lthat one…\\pYou'll stay consistent, won't you\\nMARIO?",
+  "pt": "Vou ter que reavaliar a minha lista online de treinadores C.A.P. pra ficar de olho depois dessa…\\pVocê vai manter a consistência, né, MARIO?"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FA0D",
+  "en": "LADY PAULINE! You can do it!",
+  "pt": "DONA PAULINE! Você consegue!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FA2A",
+  "en": "Dangit! PAULINE went and lost to your\\nbrother of all people!",
+  "pt": "Droga! A PAULINE foi perder logo pro seu irmão!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FA67",
+  "en": "These C.A.P. battles are so exciting!",
+  "pt": "Essas batalhas C.A.P. são tão emocionantes!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FA8D",
+  "en": "I say, maybe I should sign up to\\nparticipate in the C.A.P. CHALLENGE!",
+  "pt": "Ora, talvez eu devesse me inscrever pra participar do DESAFIO C.A.P.!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FAD3",
+  "en": "So this is why everyone has been trying\\nto get to METRO KINGDOM!",
+  "pt": "Então é por isso que todo mundo tem tentado chegar ao METRO KINGDOM!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FB14",
+  "en": "I traveled to the METRO KINGDOM from\\nTOSTARENA in order to complain about\\lthe pipe issues, but now I don't want to\\lleave!",
+  "pt": "Eu viajei de TOSTARENA até o METRO KINGDOM pra reclamar dos problemas nos canos, mas agora não quero mais ir embora!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FB9B",
+  "en": "MARIO! It's me! CAPTAIN TOAD! Fancy\\nmeeting you here of all places, huh?\\lHere, have a little something from me to\\lyou.",
+  "pt": "MARIO! Sou eu! CAPTAIN TOAD! Que coincidência te encontrar logo aqui, hein? Tome, um presentinho meu pra você."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FC12",
+  "en": "That handy little charm will help you\\nrecruit new CAPTURES to your party!\\lPretty great, am I right?\\pWell then, I'll be continuing on with my\\njourney. Maybe I'll see you again\\lsometime!",
+  "pt": "Esse amuleto prático vai te ajudar a recrutar novas CAPTURAS pra sua equipe! Bem legal, né?\\pBom, vou continuar a minha jornada. Quem sabe a gente se vê de novo qualquer dia!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FCCB",
+  "en": "Wow, great battle, bro! Now there's only\\n2 POWER STARS left.\\pWe've sure gone a long way from TOAD\\nTOWN, so we can't stop now!\\pCome on, onto WORLD 7!",
+  "pt": "Uau, que batalha, mano! Agora só faltam 2 ESTRELAS DE PODER.\\pA gente já veio de longe desde a CIDADE TOAD, então não dá pra parar agora!\\pVamos lá, rumo ao MUNDO 7!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FD64",
+  "en": "Oh, about that.",
+  "pt": "Ah, sobre isso."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FD74",
+  "en": "I heard that the WORLD 7 WARP PIPE is\\nout of service.",
+  "pt": "Ouvi dizer que o CANO WARP do MUNDO 7 está fora de serviço."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FDAA",
+  "en": "Another one? What's going on at the\\nWARP ZONE?",
+  "pt": "Outro? O que está acontecendo na ZONA WARP?"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FDD9",
+  "en": "I think I can call in a favor. Come with\\nme.",
+  "pt": "Acho que posso pedir um favor. Venham comigo."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FE06",
+  "en": "Just a moment, I gotta make a call real\\nquick.",
+  "pt": "Só um momento, preciso fazer uma ligação rapidinho."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FE35",
+  "en": "Hello?\\pYeah, I've got a couple of PLUMBERS\\nlooking to make their way up to space.\\lCan you help us out?\\pYeah? Mhm. Of course. You too.",
+  "pt": "Alô?\\pÉ, tenho uns ENCANADORES aqui querendo subir pro espaço. Pode nos ajudar?\\pÉ? Uhum. Claro. Você também."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FEBB",
+  "en": "What, no RAINBOW? Guess she ran out of\\nbudget or something…",
+  "pt": "Ué, sem ARCO-ÍRIS? Acho que acabou a verba dela ou algo assim…"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FEF7",
+  "en": "Anyways, this road should take you all\\nthe way up to the COMET OBSERVATORY.\\lDon't worry about the edge of the road,\\lyou should fly up before you fall off.",
+  "pt": "Enfim, essa estrada deve levar vocês direto até o OBSERVATÓRIO COMETA. Não se preocupem com a beirada da estrada, vocês devem levantar voo antes de cair."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FF92",
+  "en": "But MISS PAULINE, we don't have our\\nKARTs! They're in the auto shop for\\lde-banana-peeling.",
+  "pt": "Mas, DONA PAULINE, a gente está sem os nossos KARTs! Eles estão na oficina pra tirar as cascas de banana."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "035FFED",
+  "en": "Hmm, I might have some extra KARTs in\\nthe garage. Let me check!",
+  "pt": "Hmm, acho que tenho uns KARTs sobrando na garagem. Deixa eu ver!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036002D",
+  "en": "Hey! Do Standard Models work? I don't\\nsee any B Dashers or Mach 8s.",
+  "pt": "Ei! Modelos Padrão servem? Não estou vendo nenhum B Dasher nem Mach 8."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360071",
+  "en": "MISS PAULINE, you're too kind! Whatever\\nworks for you!",
+  "pt": "DONA PAULINE, você é gentil demais! O que for melhor pra você!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03600A8",
+  "en": "Isn't this exciting bro? New KARTs!",
+  "pt": "Não é emocionante, mano? KARTs novos!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03600CC",
+  "en": "Here you two are! Be safe on the road!",
+  "pt": "Aqui estão, vocês dois! Cuidado na estrada!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03600F3",
+  "en": "You ready to leave NEW DONK CITY, bro?",
+  "pt": "Pronto pra deixar NEW DONK CITY, mano?"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036011A",
+  "en": "Good luck, you two!",
+  "pt": "Boa sorte, vocês dois!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036012E",
+  "en": "Last one to the COMET OBSERVATORY\\nmakes spaghetti!",
+  "pt": "O último a chegar no OBSERVATÓRIO COMETA faz o espaguete!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036016E",
+  "en": "BOTH",
+  "pt": "AMBOS",
+  "max_width": 30
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036017A",
+  "en": "I'll be here waiting, but not too long!\\nI'm itching to race!",
+  "pt": "Vou ficar esperando aqui, mas não por muito tempo! Tô doido pra correr!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03601B7",
+  "en": "I'll be here waiting, but not too long!",
+  "pt": "Vou ficar esperando aqui, mas não por muito tempo!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03601DF",
+  "en": "What is it, MARIO? Who was I on the\\nphone with?\\pYou'll find out soon enough, don't worry\\nabout it.",
+  "pt": "O que foi, MARIO? Com quem eu estava falando no telefone?\\pVocê vai descobrir logo, não se preocupe com isso."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360242",
+  "en": "MARIO! Make sure you're ready before\\nheading to space.",
+  "pt": "MARIO! Garanta que está preparado antes de ir pro espaço."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360279",
+  "en": "Do you want to go to the COMET\\nOBSERVATORY?",
+  "pt": "Quer ir para o OBSERVATÓRIO COMETA?"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03602A5",
+  "en": "I'm sorry, but the NEW DONK CITY BATTLE\\nTOWER is currently under construction.\\lCome back another time.",
+  "pt": "Desculpe, mas a TORRE DE BATALHA de NEW DONK CITY está em construção no momento. Volte outra hora."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036030C",
+  "en": "Going somewhere, chum?",
+  "pt": "Indo a algum lugar, chapa?"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360323",
+  "en": "Oh no ya don't. You're comin' with us.",
+  "pt": "Ah, não vai, não. Cê vem com a gente."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036034A",
+  "en": "Now then, you should know what we wants\\nfrom you.",
+  "pt": "Então, cê já deve saber o que a gente quer de você."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036037C",
+  "en": "Das right! Pay back your PURPLE debt!\\n5000 PURPLE, now!",
+  "pt": "Isso mesmo! Paga a sua dívida ROXA! 5000 ROXAS, já!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03603B4",
+  "en": "You lost 5,000 PURPLE COINS.",
+  "pt": "Você perdeu 5.000 MOEDAS ROXAS."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03603D1",
+  "en": "Not enough PURPLE, eh? Then your GOLD\\nis ours.",
+  "pt": "Não tem ROXAS suficientes, é? Então as suas DOURADAS são nossas."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360413",
+  "en": "Wise choice, pal. We'll be back sooner\\nthan you expect, and youse better be\\lprepared then.\\pAnd remember: we'll be watching you, pal.",
+  "pt": "Escolha sábia, chapa. A gente volta antes do que cê imagina, e é bom cê estar preparado.\\pE lembre-se: a gente tá de olho em você, chapa."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360498",
+  "en": "Not very smart of ya, pal. Now we gotta\\nteach youse a lesson!",
+  "pt": "Não foi muito esperto, chapa. Agora a gente vai ter que te dar uma lição!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03604D6",
+  "en": "Youse stupid plumber!",
+  "pt": "Encanador idiota!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03604FF",
+  "en": "I bet youse think youse so smart,\\nplumber.\\pAll you do is delay the inevitable. And\\nremember: we'll be watching you, pal.",
+  "pt": "Aposto que cê se acha muito esperto, encanador.\\pTudo o que cê faz é adiar o inevitável. E lembre-se: a gente tá de olho em você, chapa."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360578",
+  "en": "A lot of people move to NEW DONK CITY\\nthinking they'll make it big.\\pSooner or later they're realize that\\nthere's no such thing as making it big,\\land it's instead replaced with finding\\lyour place.",
+  "pt": "Muita gente se muda pra NEW DONK CITY achando que vai fazer sucesso.\\pCedo ou tarde, percebe que não existe isso de fazer sucesso, e que, no lugar disso, o que vale é encontrar o seu lugar."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "036063C",
+  "en": "MAYOR PAULINE's STEEL-type CAPTURES\\nare scary! Make sure to bring some FIRE\\ltypes to melt them down!",
+  "pt": "As CAPTURAS tipo AÇO da PREFEITA PAULINE dão medo! Leve algumas do tipo FOGO pra derreter elas!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03606A1",
+  "en": "TOURIST",
+  "pt": "TURISTA",
+  "max_width": 48
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03606A9",
+  "en": "A lot of movies are set in NEW DONK\\nCITY! I'm hoping I can be an extra in\\lone someday!",
+  "pt": "Muitos filmes se passam em NEW DONK CITY! Espero poder ser figurante em algum deles um dia!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360700",
+  "en": "THIS IS THE BEST DAY OF MY LIFE!",
+  "pt": "ESTE É O MELHOR DIA DA MINHA VIDA!"
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "0360721",
+  "en": "You ever see a group of PIANTAs take a\\nTOAD off the street in broad daylight,\\lstuff him into a sack, thrown into the\\lharbor, and no alarms are raised?\\pI'm telling you, don't mess with LOAN\\nSHARKS.",
+  "pt": "Já viu um grupo de PIANTAs pegar um TOAD na rua em plena luz do dia, enfiar ele num saco, jogar no porto, e ninguém dar o alarme?\\pTô te falando, não mexa com AGIOTAS."
+ },
+ {
+  "map": "9.16 NEW DONK CITY",
+  "offset": "03607E6",
+  "en": "Ignore what that other guy says. I\\nheard FIRE types can't melt STEEL\\lbeams.",
+  "pt": "Ignora o que aquele outro cara disse. Ouvi dizer que tipo FOGO não derrete vigas de AÇO."
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "036114D",
+  "en": "Your plottiness, MARIO will not be\\ngetting to the METRO KINGDOM any time\\lsoon!",
+  "pt": "Vossa Tramoiência, o MARIO não vai chegar ao METRO KINGDOM tão cedo!"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "036119C",
+  "en": "EEEEEK! MARIO! You got here quickly!",
+  "pt": "IIIIIH! MARIO! Você chegou rápido!"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "03611C1",
+  "en": "No time for games! Your defeat\\nwill be swift!",
+  "pt": "Sem tempo pra brincadeira! Sua derrota vai ser rápida!"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "0361217",
+  "en": "MARIO…still as strong as ever.\\pBeating me doesn't mean I'll melt the\\nice though!",
+  "pt": "MARIO… forte como sempre.\\pMas me derrotar não quer dizer que eu vou derreter o gelo!"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "036126C",
+  "en": "THERE HE IS! GET HIM!",
+  "pt": "LÁ ESTÁ ELE! PEGUEM!"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "0361282",
+  "en": "I GOT HIS WAND!",
+  "pt": "VARINHA NA MÃO!",
+  "max_width": 85
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "0361292",
+  "en": "Now, how does this thing work?",
+  "pt": "Agora, como funciona essa coisa?"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "03612B1",
+  "en": "No, you're doing it wrong. You have it\\nset to 'I' for Ice, when it should be set\\lto 'I' for Incinerate!",
+  "pt": "Não, você tá fazendo errado. Tá no 'G' de Gelo, quando devia estar no 'G' de Grelhar!"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "0361319",
+  "en": "Are you serious?",
+  "pt": "Tá falando sério?"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "036132A",
+  "en": "Is this the face of someone who's\\nserious?",
+  "pt": "Essa cara parece de alguém falando sério?"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "0361355",
+  "en": "Oh wait, it's right here! Let's go,\\neveryone!",
+  "pt": "Ah, espera, tá bem aqui! Vamos, pessoal!"
+ },
+ {
+  "map": "9.19 TOSTARENA APEX",
+  "offset": "0361383",
+  "en": "MARIO… You'll pay for this…",
+  "pt": "MARIO… Você vai pagar por isso…"
+ },
+ {
+  "map": "10.0 NEW DONK CITY",
+  "offset": "02EC20E",
+  "en": "Hello, and welcome to\\nthe CAPTURE CENTER.\\pWe restore your tired CAPTURES\\nto full health.\\pWould you like to rest your CAPTURES?",
+  "pt": "Olá, seja bem-vindo ao CENTRO CAPTURA.\\pNós restauramos a saúde das suas CAPTURAS cansadas.\\pGostaria de deixar suas CAPTURAS descansarem?"
+ },
+ {
+  "map": "10.0 NEW DONK CITY",
+  "offset": "02EC28D",
+  "en": "Okay, I'll take your CAPTURES\\nfor a few seconds.",
+  "pt": "Certo, vou ficar com suas CAPTURAS por alguns segundos."
+ },
+ {
+  "map": "10.0 NEW DONK CITY",
+  "offset": "036317C",
+  "en": "No way.\\pIs Tomodachi Life: Living the Dream out\\nyet?",
+  "pt": "Não acredito.\\pTomodachi Life: Living the Dream já saiu?"
+ },
+ {
+  "map": "10.0 NEW DONK CITY",
+  "offset": "03631B1",
+  "en": "This place has all the CAPs you can ask\\nfor! Just don't ask for the ones you\\lcan't ask for!",
+  "pt": "Aqui tem todos os CAPs que você pode pedir! Só não peça os que não dá pra pedir!"
+ },
+ {
+  "map": "10.0 NEW DONK CITY",
+  "offset": "036320D",
+  "en": "NEW DONK CITY is so big, with a lot of\\nthings to explore and do!",
+  "pt": "NEW DONK CITY é tão grande, com um monte de coisas pra explorar e fazer!"
+ },
+ {
+  "map": "10.0 NEW DONK CITY",
+  "offset": "036324E",
+  "en": "Sluuuuuuuuuuuuuurp…",
+  "pt": "Sluuuuuuuuuuuuuurp…"
+ },
+ {
+  "map": "10.0 NEW DONK CITY",
+  "offset": "0363262",
+  "en": "I have some really reliable moves you\\ncan teach your CAPTURES, but they come\\lat a hefty price. Think you can afford\\lthem?",
+  "pt": "Eu tenho uns golpes bem confiáveis que você pode ensinar às suas CAPTURAS, mas eles custam caro. Acha que pode pagar?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363803",
+  "en": "MARIO! Ready for another runback?",
+  "pt": "MARIO! Pronto pra mais uma revanche?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363825",
+  "en": "Alright, don't hold back!",
+  "pt": "Beleza, não se segure!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "036383F",
+  "en": "So that's how you battle! Thanks a lot,\\nMARIO!",
+  "pt": "Então é assim que se batalha! Valeu mesmo, MARIO!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "036386E",
+  "en": "Wonderfully done as always, MARIO. I\\nhope you'll indulge me in another\\lrematch some day!",
+  "pt": "Maravilhoso como sempre, MARIO. Espero que me conceda outra revanche algum dia!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03638C7",
+  "en": "No problem! I'll be here when you're\\nready.",
+  "pt": "Sem problemas! Estarei aqui quando você estiver pronto."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03638F3",
+  "en": "MARIO! I'm so glad you're back. Ever\\nsince you became the C.A.P. CHAMPION,\\lI've been waiting for my shot at a\\lrematch with you! What do you say?",
+  "pt": "MARIO! Que bom que você voltou. Desde que você virou o CAMPEÃO C.A.P., estou esperando a minha chance de uma revanche com você! O que me diz?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363984",
+  "en": "Great! Let's get right to it.",
+  "pt": "Ótimo! Vamos direto ao ponto."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03639B8",
+  "en": "Whew! Our battles are always a hit with\\nthe audience here. Thanks for providing\\lthem with some entertainment, MARIO.\\pHere, take this as a token of thanks.",
+  "pt": "Ufa! Nossas batalhas sempre fazem sucesso com o público daqui. Obrigada por proporcionar um pouco de diversão a eles, MARIO.\\pTome, aceite isto como agradecimento."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363A53",
+  "en": "That item will help your CAPTURE\\nsustain more damage, but makes it so\\lthey can only use moves that do\\ldamage! I hope it serves you well in\\lyour pursuit of even greater strength.",
+  "pt": "Esse item ajuda a sua CAPTURA a aguentar mais dano, mas faz com que ela só possa usar golpes que causam dano! Espero que ele te ajude na sua busca por uma força ainda maior."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363B05",
+  "en": "MARIO! It's so super to see you again!\\pAnd also super timing. I have a favor to\\nask of you. Well, actually two.\\pFirst, I can't seem to find my\\nMICROPHONE all of a sudden.\\pI like to do a show while battling for\\nPOWER STARS, but without my MICROPHONE\\lthe show can't start. Mind helping me?",
+  "pt": "MARIO! Que super te ver de novo!\\pE que super momento também. Tenho um favor pra te pedir. Bom, na verdade, dois.\\pPrimeiro, de repente não estou encontrando o meu MICROFONE.\\pEu gosto de fazer um show enquanto batalho pelas ESTRELAS DE PODER, mas sem o meu MICROFONE o show não pode começar. Pode me ajudar?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363C25",
+  "en": "Great! Now, the second issue.\\pOur sewer systems are having some\\nunusual backups. We hired some\\lplumbers, but they seem to be busy with\\lother jobs.\\pI know I'm asking for a lot, but I'll\\nreward you handsomely if you do both.\\pYou should be able to get into the\\nsewers through the manhole to the WEST\\lof town. Come see me when you're done!",
+  "pt": "Ótimo! Agora, o segundo problema.\\pNosso sistema de esgoto está com uns entupimentos estranhos. Contratamos alguns encanadores, mas parece que estão ocupados com outros serviços.\\pSei que estou pedindo muito, mas vou te recompensar muito bem se você fizer as duas coisas.\\pVocê deve conseguir entrar nos esgotos pelo bueiro a OESTE da cidade. Venha falar comigo quando terminar!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363D75",
+  "en": "Hey MARIO! Have any luck finding my\\nMICROPHONE and cleaning up the sewers?\\pIf you're feeling lost, try asking the\\npeople around NEW DONK CITY for help.\\lThey know quite a bit!",
+  "pt": "Ei, MARIO! Teve sorte em achar o meu MICROFONE e limpar os esgotos?\\pSe estiver perdido, tente pedir ajuda ao pessoal de NEW DONK CITY. Eles sabem bastante coisa!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363E24",
+  "en": "MARIO! I don't know what you did, but all\\nthe toilets in NEW DONK CITY can flush\\lagain! How do I know that? Just a little\\lmayor's intuition.\\pAnd thanks for getting my MICROPHONE\\nBACK! With this, we can finally get this\\lshow on the road! You ready?",
+  "pt": "MARIO! Não sei o que você fez, mas todos os vasos sanitários de NEW DONK CITY voltaram a dar descarga! Como eu sei disso? Só uma intuição de prefeita.\\pE obrigada por trazer o meu MICROFONE DE VOLTA! Com ele, finalmente podemos começar o show! Pronto?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363F1C",
+  "en": "Give it all you've got, MARIO!",
+  "pt": "Dê tudo de si, MARIO!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363F3B",
+  "en": "Great job, superstar!",
+  "pt": "Belo trabalho, superestrela!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363F51",
+  "en": "Go on, MARIO. Head on outside and I'll\\nmeet up with you and your brother for\\lsomething important.",
+  "pt": "Pode ir, MARIO. Vá lá pra fora, que eu encontro você e o seu irmão pra tratar de uma coisa importante."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363FB3",
+  "en": "Hey MARIO, how did ROSALINA treat you\\nat the OBSERVATORY?",
+  "pt": "Ei, MARIO, como a ROSALINA te tratou lá no OBSERVATÓRIO?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0363FED",
+  "en": "Great job, MARIO! Seems the audience\\nloved our little show. Now then, I\\lbelieve this belongs to you.",
+  "pt": "Ótimo trabalho, MARIO! Parece que o público adorou o nosso showzinho. Agora, acho que isto pertence a você."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0364052",
+  "en": "MARIO received the METRO KINGDOM\\nPOWER STAR!",
+  "pt": "MARIO recebeu a ESTRELA DE PODER do METRO KINGDOM!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "036407F",
+  "en": "Take this training module as well.",
+  "pt": "Leve este módulo de treino também."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03640A2",
+  "en": "That contains SMART STRIKE, a move\\nthat will always strike true. I hope\\lyou'll make good use of it in what\\lremains of your C.A.P. CHALLENGE!",
+  "pt": "Ele contém GOLPE CERTEIRO, um golpe que sempre acerta o alvo. Espero que você faça bom uso dele no que resta do seu DESAFIO C.A.P.!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0364135",
+  "en": "Hey bro! What a SUPER battle! I'll meet\\nyou outside, ok?",
+  "pt": "Ei, mano! Que batalha SUPER! Te encontro lá fora, tá?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "036416E",
+  "en": "They don't seem to be paying any\\nattention to you.",
+  "pt": "Parece que eles não estão prestando atenção em você."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03641A7",
+  "en": "Mister MARIO! Are you here to challenge\\nLADY PAULINE? Good luck!",
+  "pt": "Senhor MARIO! Veio desafiar a DONA PAULINE? Boa sorte!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03641E8",
+  "en": "Hm? Why am I here? Because LADY\\nPAULINE is everything I aspire to be!\\pWell, half of what I aspire to be, at\\nleast. Her singing is amazing!\\pI'm here to study her and become the\\nbest I can be!",
+  "pt": "Hã? Por que estou aqui? Porque a DONA PAULINE é tudo o que eu quero ser!\\pBom, metade do que eu quero ser, pelo menos. O canto dela é incrível!\\pEstou aqui pra estudar ela e dar o meu melhor!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03642A7",
+  "en": "Isn't LADY PAULINE's singing just the\\nbest? I could stay here and listen to\\lher forever.",
+  "pt": "O canto da DONA PAULINE não é simplesmente o melhor? Eu podia ficar aqui ouvindo ela pra sempre."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0364300",
+  "en": "Yeah! You go LADY PAULINE! Woooo!",
+  "pt": "Isso! Vai, DONA PAULINE! Uhuuu!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0364322",
+  "en": "I've really gotten hooked on NEW DONK\\nCITY! Nothing beats LADY PAULINE's\\lsinging!",
+  "pt": "NEW DONK CITY me fisgou de vez! Nada supera o canto da DONA PAULINE!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0364374",
+  "en": "Isn't LUIGI just great?! He beat\\nPAULINE in no time flat! With him, the\\lKOOPA TROOP are unstoppable!",
+  "pt": "O LUIGI não é demais?! Ele venceu a PAULINE rapidinho! Com ele, a KOOPA TROOP é imparável!"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "03643D9",
+  "en": "LADY PAULINE usually conducts her\\nbattles inside of the TOWN HALL, but\\lshe's been having some of them outside\\llately.\\pAnd who can blame her? NEW DONK CITY is\\nwonderful this time of year.",
+  "pt": "A DONA PAULINE costuma fazer as batalhas dela dentro da PREFEITURA, mas ultimamente tem feito algumas ao ar livre.\\pE quem pode culpar ela? NEW DONK CITY fica maravilhosa nesta época do ano."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0364494",
+  "en": "Welcome, this is NEW DONK CITY HALL.\\nLADY PAULINE is just up ahead.\\pIf you plan on challenging her, be aware\\nshe uses STEEL-type CAPTURES.",
+  "pt": "Bem-vindo, esta é a PREFEITURA DE NEW DONK CITY. A DONA PAULINE está logo ali na frente.\\pSe pretende desafiá-la, saiba que ela usa CAPTURAS tipo AÇO."
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "036451F",
+  "en": "What? Can a proud KOOPA TROOP admin\\nnot get some relaxation around here?",
+  "pt": "Quê? Um orgulhoso administrador da KOOPA TROOP não pode relaxar um pouco por aqui?"
+ },
+ {
+  "map": "10.1 NEW DONK CITY",
+  "offset": "0364568",
+  "en": "That KOOPATROL on the other side of\\nthe room… What's his game?",
+  "pt": "Aquele KOOPATROL do outro lado da sala… Qual é a dele?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0373FFB",
+  "en": "MARIO! I see you've finally reached my\\nlab! Wonderfully done, yes yes…\\pHere, let me give you a little something\\nas a reward for making it this far.",
+  "pt": "MARIO! Vejo que finalmente chegou ao meu laboratório! Muito bem, sim, sim…\\pTome, deixe-me lhe dar uma coisinha como recompensa por ter chegado até aqui."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037408F",
+  "en": "That training module contains the move\\nFALSE SWIPE. It should help you\\limmensely when filling out the rest of\\lyour TATTLEDEX!\\pSpeaking of, you have been doing that,\\nhaven't you? There's a great reward in\\lit for you if you can fill it out\\lcompletely!",
+  "pt": "Esse módulo de treino contém GOLPE FALSO. Ele deve te ajudar imensamente a completar o resto da sua TATTLEDEX!\\pFalando nisso, você tem feito isso, não tem? Há uma grande recompensa pra você se conseguir completá-la por inteiro!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374189",
+  "en": "Ah, MARIO! Glad you could make it. Since\\nbecoming C.A.P. CHAMPION with your\\lbrother, I've been doing a lot of work\\lhere in my lab. The main thing I need\\lfrom you is to keep filling out your\\lTATTLEDEX! Consider it an official\\ltask!",
+  "pt": "Ah, MARIO! Que bom que veio. Desde que você se tornou CAMPEÃO C.A.P. junto com o seu irmão, tenho trabalhado muito aqui no meu laboratório. O principal que preciso de você é que continue completando a sua TATTLEDEX! Considere uma tarefa oficial!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374270",
+  "en": "And to help you in this endeavor, you're\\ngonna need this.",
+  "pt": "E pra te ajudar nessa empreitada, você vai precisar disto."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03742AA",
+  "en": "Never got this, did you? Good on you for\\nhoofing it out old school style, but\\lthat there candy will help you level up\\lany CAPTURES you want to get them on\\lpar with the rest of your team.\\pOh, and here you'll want this as well.",
+  "pt": "Nunca ganhou isto, né? Parabéns por ter ralado à moda antiga, mas esse doce aí vai te ajudar a subir o nível de qualquer CAPTURA que você quiser, pra deixá-la no mesmo nível do resto da equipe.\\pAh, e tome, você também vai querer isto."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037438C",
+  "en": "PROFESSOR E. GADD gave you a\\n{STR_VAR_1}!",
+  "pt": "O PROFESSOR E. GADD te deu {STR_VAR_1}!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03743AD",
+  "en": "Would you like to give a nickname to\\n{STR_VAR_1}?",
+  "pt": "Quer dar um apelido para {STR_VAR_1}?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03743D6",
+  "en": "{STR_VAR_1} was sent to the PC.",
+  "pt": "{STR_VAR_1} foi para o PC."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03743ED",
+  "en": "Recognize that {STR_VAR_1}? It's\\nthe one neither you nor LUIGI choose\\lback at 1-1! Well, their child, to be\\lprecise. Go ahead and take it, let it\\lhelp you on your journey!\\pNow then, I really must be returning to\\nmy research. Come back once you've\\lobtained all 151 CAPTURES of the\\lMUSHROOM KINGDOM!",
+  "pt": "Reconhece esse {STR_VAR_1}? É aquele que nem você nem o LUIGI escolheram lá no 1-1! Bom, o filhote dele, pra ser exato. Pode levar, deixe ele te ajudar na sua jornada!\\pAgora, eu realmente preciso voltar às minhas pesquisas. Volte quando tiver obtido todas as 151 CAPTURAS do REINO DOS COGUMELOS!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037450E",
+  "en": "MARIO! Do my eyes deceive me?! You've\\ncaught all three dragons of the\\lMUSHROOM KINGDOM!\\pSuch a wonderful feat deserves a\\nwonderful reward!",
+  "pt": "MARIO! Meus olhos me enganam?! Você capturou os três dragões do REINO DOS COGUMELOS!\\pUm feito tão maravilhoso merece uma recompensa maravilhosa!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374599",
+  "en": "That CAP will catch anything without\\nfail! It may seem a little redundant,\\lseeing as you already have all three\\ldragons, but you're going to need it! I\\lcan feel it in my bones!",
+  "pt": "Esse CAP captura qualquer coisa sem falhar! Pode parecer meio redundante, já que você já tem os três dragões, mas você vai precisar dele! Sinto isso nos meus ossos!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037464A",
+  "en": "Well, MARIO? Are you ready for your\\nbattle with me?",
+  "pt": "E então, MARIO? Pronto pra sua batalha comigo?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037467E",
+  "en": "Great! Don't hold back just because I'm\\nthe PROFESSOR!",
+  "pt": "Ótimo! Não pegue leve só porque eu sou o PROFESSOR!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03746B5",
+  "en": "Egads!",
+  "pt": "Minha nossa!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03746BC",
+  "en": "Ohohoho! Another fun battle! Thank\\nyou, MARIO. I'm afraid I don't have any\\lgrand inventions to offer like last\\ltime, but I can give you this.",
+  "pt": "Ohohoho! Outra batalha divertida! Obrigado, MARIO. Receio não ter nenhuma grande invenção pra oferecer como da última vez, mas posso te dar isto."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037474A",
+  "en": "E. GADD gave you 10 COMET SHARDS!",
+  "pt": "E. GADD te deu 10 LASCAS COMETA!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037476C",
+  "en": "Hope that helps in what's left of your\\nadventures!",
+  "pt": "Espero que isso ajude no que resta das suas aventuras!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037479F",
+  "en": "Wonderfully done, MARIO! Your battle\\nskills are the real deal, although we\\lalready knew that.\\pAs thanks for indulging me in this\\nbattle, I'd like for you to have this.",
+  "pt": "Excelente, MARIO! Suas habilidades de batalha são coisa séria, embora a gente já soubesse disso.\\pComo agradecimento por me conceder esta batalha, gostaria que ficasse com isto."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374847",
+  "en": "That SHINY CHARM will make it more\\nlikely for CAPTURES of alternate colors\\lto appear.\\pOhoho! It's yet another brilliant\\ninvention of mine!",
+  "pt": "Esse AMULETO BRILHO vai deixar mais provável o aparecimento de CAPTURAS de cores alternativas.\\pOhoho! É mais uma invenção brilhante minha!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03748D2",
+  "en": "Heh! Scared of an old man, eh?",
+  "pt": "Heh! Com medo de um velho, é?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03748F1",
+  "en": "Ah, MARIO! Are you here to show me your\\nprogress on your TATTLEDEX?",
+  "pt": "Ah, MARIO! Veio me mostrar o seu progresso na TATTLEDEX?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374935",
+  "en": "You've seen {STR_VAR_1} CAPTURES,\\nand you've caught {STR_VAR_2}\\lCAPTURES…",
+  "pt": "Você viu {STR_VAR_1} CAPTURAS e já pegou {STR_VAR_2} CAPTURAS…"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037496D",
+  "en": "Well done, lad! You've really outdone\\nyourself!",
+  "pt": "Muito bem, rapaz! Você se superou mesmo!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037499D",
+  "en": "I am truly grateful for your\\ncontributions to my research, MARIO.\\pHowever, I do hope you haven't thought\\nme to be lazy in my endeavors either!\\pYou may have bested me in the ELITE\\nFOUR, but this time I'll be coming at you\\lwith everything I got! Just come back\\lwhenever you're ready!",
+  "pt": "Sou muito grato pelas suas contribuições à minha pesquisa, MARIO.\\pMas espero que você também não tenha me achado preguiçoso nos meus esforços!\\pVocê pode ter me vencido na ELITE DOS QUATRO, mas desta vez eu vou com tudo o que tenho! Volte quando estiver pronto!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374AB7",
+  "en": "ALAINA",
+  "pt": "ALAINA",
+  "max_width": 42
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374ABE",
+  "en": "Oh! It looks like you beat CANNONS and I\\nbefore patch 1.4! Here's a very special\\lgift you should have gotten as a\\lreward!",
+  "pt": "Ah! Parece que você venceu a mim e a CANNONS antes do patch 1.4! Aqui está um presente muito especial que você devia ter ganhado como recompensa!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374B38",
+  "en": "Hi again! I don't have a long speech like\\nCANNONS does, so I'll just say thank you\\lfrom the bottom of my heart for playing\\lSUPER MARIOMON this far! It means a lot\\lto both CANNONS and myself. I'd write\\lmore but it's literally March 10th right\\lnow and the game is set to debut in like\\l15 hours so that's all you're getting\\lfrom me.\\pUnless you wanna battle again?",
+  "pt": "Oi de novo! Eu não tenho um discurso longo como o de CANNONS, então só vou dizer obrigada do fundo do coração por jogar SUPER MARIOMON até aqui! Significa muito pra mim e pra CANNONS. Eu escreveria mais, mas é literalmente 10 de março agora e o jogo vai estrear em tipo 15 horas, então é só isso que você vai ter de mim.\\pA não ser que queira batalhar de novo?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374CA1",
+  "en": "Alright! Give it everything you've got!",
+  "pt": "Beleza! Dê tudo de si!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374CD4",
+  "en": "Still as strong as ever, I see! Well, by\\nthis point you're like overleveled\\lanyways.\\pCome back if you ever want to challenge\\nme again!",
+  "pt": "Forte como sempre, pelo visto! Bom, a essa altura você já tá com nível alto demais mesmo.\\pVolte se quiser me desafiar de novo!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374D5B",
+  "en": "Hey there! I'm ALAINA, one of the lead\\ndevelopers for SUPER MARIOMON! I'm\\lcurrently hard at work on the game as\\lof writing this, and a little busy\\lbecause of that.\\pWhy don't you come back here once\\nyou've become the CHAMPION and have a\\lbattle with me?",
+  "pt": "Oi! Eu sou a ALAINA, uma das desenvolvedoras principais de SUPER MARIOMON! No momento em que escrevo isto, estou trabalhando duro no jogo e meio ocupada por causa disso.\\pQue tal voltar aqui quando tiver se tornado o CAMPEÃO e batalhar comigo?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374E57",
+  "en": "I see you've defeated CANNONS as well\\nas myself! You're really quite skilled,\\lyou know that?\\pAnd I thought we were really good at\\nour game…\\pHey! What do you say to a tag battle?\\nMe and CANNONS against you!",
+  "pt": "Vejo que você derrotou CANNONS e a mim também! Você é bem habilidoso, sabia?\\pE eu achando que a gente era muito bom no nosso jogo…\\pEi! Que tal uma batalha em dupla? Eu e CANNONS contra você!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374F25",
+  "en": "Great! Let's make sure we win, CANNONS!",
+  "pt": "Ótimo! Vamos garantir essa vitória, CANNONS!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0374FB5",
+  "en": "Man, I really thought we'd be able to\\npull that off!\\pGuess we owe you a reward, huh? Here,\\ntake this.",
+  "pt": "Poxa, achei mesmo que a gente ia conseguir!\\pAcho que te devemos uma recompensa, né? Tome, fique com isto."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037501B",
+  "en": "I think those are the last charms we\\nhave left over, and that MUSIC PLAYER\\lwill let you listen to the various songs\\lyou've heard while playing SUPER\\lMARIOMON. Including the unused or\\lscrapepd ones!\\pI don't really have much else to say, I\\npulled a bit of a college moment on this\\ldialog and it's March 10th 13 hours\\lbefore the stream. So just come back\\lwhenever for another battle!",
+  "pt": "Acho que esses são os últimos amuletos que sobraram, e esse TOCADOR DE MÚSICAS vai te deixar ouvir as várias músicas que você escutou jogando SUPER MARIOMON. Incluindo as não usadas ou descartadas!\\pNão tenho muito mais pra dizer, deixei esse diálogo pra última hora, estilo faculdade, e é 10 de março, 13 horas antes da live. Então é só voltar quando quiser pra outra batalha!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0375198",
+  "en": "That's alright, I'd be intimidated too!",
+  "pt": "Tudo bem, eu também ficaria intimidada!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03751C0",
+  "en": "Seems you've managed to master\\nMARIOMONs in battle! Single battles, at\\lthe very least.\\pIf you want an even greater challenge,\\ncome back after you've also battled\\lCANNONS. We'll make it worth your while,\\lI promise!",
+  "pt": "Parece que você conseguiu dominar as batalhas de MARIOMONs! Batalhas individuais, pelo menos.\\pSe quiser um desafio ainda maior, volte depois de batalhar também com CANNONS. A gente vai fazer valer a pena, prometo!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0375296",
+  "en": "Hey there! I'm ALAINA, one of the lead\\ndevelopers for SUPER MARIOMON! What's\\lthat? You're the CHAMPION! Incredible!\\lBut I think I could beat you in a battle,\\lwhat do you say?",
+  "pt": "Oi! Eu sou a ALAINA, uma das desenvolvedoras principais de SUPER MARIOMON! O que foi? Você é o CAMPEÃO! Incrível! Mas acho que eu conseguiria te vencer numa batalha, o que me diz?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0375345",
+  "en": "Wow! You're a real master at MARIOMON\\nbattles, aren't you? Well, in single\\lbattles at least. Come back once you've\\lcompleted the TATTLEDEX and defeated\\lCANNONS and we'll see how good you are\\lat a different type of battle!",
+  "pt": "Uau! Você é um verdadeiro mestre das batalhas de MARIOMON, né? Bom, em batalhas individuais, pelo menos. Volte depois de completar a TATTLEDEX e derrotar CANNONS, e aí a gente vê como você se sai num tipo diferente de batalha!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0375423",
+  "en": "CANNONS",
+  "pt": "CANNONS",
+  "max_width": 48
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037542B",
+  "en": "'Sup! I'm CANNONS, one of the lead\\ndevelopers for SUPER MARIOMON!\\pYou beat the game? That's awesome! But\\nit doesn't seem like you've done\\leverything we have to offer!\\pHow about this, chat with me again\\nafter you've recorded all 151 CAPTURES\\lin the TATTLEDEX.",
+  "pt": "E aí! Sou CANNONS, da equipe principal de desenvolvimento de SUPER MARIOMON!\\pVocê zerou o jogo? Que demais! Mas parece que você não fez tudo o que a gente tem a oferecer!\\pFaz assim: fale comigo de novo depois de registrar todas as 151 CAPTURAS na TATTLEDEX."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037552E",
+  "en": "Is that?!\\nDo my pixels deceive me?!\\pYou've recorded all 151 CAPTURES in the\\nTATTLEDEX!",
+  "pt": "Isso é?!\\nMeus pixels me enganam?!\\pVocê registrou todas as 151 CAPTURAS na TATTLEDEX!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0375585",
+  "en": "You want a prize? Sure, here's a piece\\nof paper! Haha!\\pWe make a lot of jokes here, so with the\\nutmost sincerity, thank you for\\lcompleting our MARIO themed POKéDEX,\\land overall, playing the game.\\pWe've spent countless hours working on\\nthis game, and to say this project isn't\\limportant is a catastrophic\\lunderstatement.\\pI'd love to talk more, but I can only\\nretain your attention for so long. So,\\lhow about another challenge?\\pDefeat me and I'll talk more about my\\ninvolvement in the project.\\pDeal? Deal!\\nCome back when you're ready!\\pOh stars, I never even showed you your\\ndiploma! Here you go!",
+  "pt": "Quer um prêmio? Claro, toma um pedaço de papel! Haha!\\pA gente faz muita piada por aqui, então, com a mais absoluta sinceridade, obrigado por completar a nossa TATTLEDEX temática do MARIO e, no geral, por jogar o jogo.\\pPassamos incontáveis horas trabalhando neste jogo, e dizer que este projeto não é importante seria um eufemismo catastrófico.\\pEu adoraria falar mais, mas só consigo prender a sua atenção por um tempo. Então, que tal outro desafio?\\pMe derrote e eu falo mais sobre o meu envolvimento no projeto.\\pFechado? Fechado!\\nVolte quando estiver pronto!\\pPelas estrelas, eu nem te mostrei o seu diploma! Aqui está!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03757D7",
+  "en": "Woah, you look like you're ready for a\\nbattle!\\pI should warn you, I designed the boss\\nfights for POKéMON: TOO MANY TYPES.\\pKobe has since revoked my team building\\nprivileges for SUPER MARIOMON, so a\\lbattle with me means the straight\\ljacket is coming off.\\pDo you think you're ready?",
+  "pt": "Opa, parece que você está pronto pra uma batalha!\\pÉ bom avisar: eu projetei as lutas contra chefes de POKéMON: TOO MANY TYPES.\\pDesde então, o Kobe revogou meus privilégios de montar equipes em SUPER MARIOMON, então uma batalha comigo significa que a camisa de força vai sair.\\pAcha que está pronto?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03758F0",
+  "en": "HAHAH! I hope you're ready, because I'm\\nhere to take notes!",
+  "pt": "HAHAH! Espero que esteja pronto, porque eu vim aqui tomar notas!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037596E",
+  "en": "Aight, but you're just giving me more\\ntime to come up with wittier insults!",
+  "pt": "Beleza, mas você só tá me dando mais tempo pra pensar em insultos mais espirituosos!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03759BA",
+  "en": "'Sup! I'm CANNONS, one of the lead\\ndevelopers for SUPER MARIOMON! I\\lworked on game design and narrative!\\pWhat can I do for you?\\nResponses may be long.",
+  "pt": "E aí! Sou CANNONS, da equipe principal de desenvolvimento de SUPER MARIOMON! Trabalhei no game design e na narrativa!\\pO que posso fazer por você?\\nAs respostas podem ser longas."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0375A51",
+  "en": "My name is Lux Thornton, better known\\nonline as CannonsCreative or Cannons.\\pYou call it a full dox, I call it branding.\\nWe are not the same.\\pI've been working with Jacob Alpharad\\nsince January 2022, making mods for\\lvideos and streams like Too Many Types,\\lToo Many Mods, and Draftlockes with\\lKobe and Pez.\\pI'm a full-time game developer, and\\ncurrently running a small studio with my\\lfriends.\\pI love to draw, write, and voice act, and\\nI wish to pursue that more with my\\lpersonal studio after finishing SUPER\\lMARIOMON.\\pBut now that the game is finished,\\nthat's what I'll be doing!\\pIf you wish to learn more about me, go\\nto {COLOR 08}cannonscreative.dev{COLOR 02}.\\pOh, and if you'd like me to respond to\\nyour playtest questions email, make\\lsure to write at the end 'Hope to hear\\lfrom you again!' I read every email I\\lget!",
+  "pt": "Meu nome é Lux Thornton, e na internet atendo por CannonsCreative ou Cannons.\\pVocê chama de doxxing completo, eu chamo de branding. Não somos iguais.\\pTrabalho com o Jacob Alpharad desde janeiro de 2022, fazendo mods pra vídeos e lives como Too Many Types, Too Many Mods e Draftlockes com o Kobe e o Pez.\\pTrabalho com desenvolvimento de jogos em tempo integral e atualmente toco um pequeno estúdio com meus amigos.\\pAdoro desenhar, escrever e dublar, e quero me dedicar mais a isso com o meu estúdio pessoal depois de terminar SUPER MARIOMON.\\pMas agora que o jogo está pronto, é isso que eu vou fazer!\\pSe quiser saber mais sobre mim, acesse {COLOR 08}cannonscreative.dev{COLOR 02}.\\pAh, e se quiser que eu responda o seu e-mail com as perguntas do playtest, não esqueça de escrever no final 'Hope to hear from you again!' Eu leio todos os e-mails que recebo!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0375D75",
+  "en": "While Kobe, Haxxi, and Pez take care of\\nthe more technical stuff, I focus\\lmainly on designing gameplay.\\pFor SUPER MARIOMON, I was in charge of\\nwriting a story, creating maps, and\\ldesigning new and interesting gameplay\\lmechanics!\\pI would draft out the cutscenes, player\\nscenarios, routes, dungeons, you name\\lit.\\pAll would be written out in\\ndocumentation before sending it to the\\lteam to build out, and sometimes when\\lthey were too busy, I'd do it myself.\\pWORLD 5 is probably my favorite part of\\nthe whole game, with 30 pages of\\lnarrative writing and gameplay ideas\\lthat Kobe, Haxxi, and Pez wizard the\\lstars out of.\\pSome other things I did was create\\nconcept art for some COMMANDER and\\lCAPTURE sprites early in development,\\lscripting, like this, and a lot of\\lplaytesting.",
+  "pt": "Enquanto Kobe, Haxxi e Pez cuidam da parte mais técnica, eu foco principalmente no design de gameplay.\\pEm SUPER MARIOMON, fiquei responsável por escrever a história, criar mapas e projetar mecânicas de jogo novas e interessantes!\\pEu rascunhava as cutscenes, os cenários do jogador, as rotas, as dungeons, e por aí vai.\\pTudo era escrito em documentação antes de ir pra equipe construir, e às vezes, quando estavam ocupados demais, eu fazia por conta própria.\\pO MUNDO 5 é provavelmente a minha parte favorita do jogo todo, com 30 páginas de texto narrativo e ideias de gameplay que Kobe, Haxxi e Pez transformaram em pura magia.\\pOutras coisas que fiz foram criar artes conceituais pra alguns sprites de COMANDANTES e CAPTURAS no início do desenvolvimento, scripts, como este aqui, e muito playtest."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0376078",
+  "en": "Fun Fact Number 1!\\pThe first documentation of SUPER\\nMARIOMON was a Google Doc of all the\\lCAPTURES in the POKéDEX, as well as the\\lGYM LEADERS!\\pThe only two cut CAPTURES were NOKI\\nand PIANTA who later became NPCs.\\pWe ended up adding STROLLIN STU and\\nCHINCHO in their place, as well as\\ladding a couple of new ones like\\lANTASMA and MAW-MAW!\\pThe reason we replace PIANTA and NOKI\\nwas because we felt those two were a\\llittle too close to characters than\\lmonsters, but proceeded to ignore that\\lrule because fighting BOWSER is too\\lfunny.\\pAnd yes, BOWSER and GIGA BOWSER do\\nhave back sprites and shiny palettes!\\lGood luck trying to see it!\\pIf you want to know more fun facts, ask\\nme again!",
+  "pt": "Curiosidade Número 1!\\pA primeira documentação de SUPER MARIOMON foi um Google Doc com todas as CAPTURAS da TATTLEDEX, além dos LÍDERES DE GINÁSIO!\\pAs duas únicas CAPTURAS cortadas foram NOKI e PIANTA, que depois viraram NPCs.\\pNo lugar deles, acabamos adicionando STROLLIN STU e CHINCHO, além de algumas novas como ANTASMA e MAW-MAW!\\pO motivo de substituirmos PIANTA e NOKI foi que achamos que os dois estavam mais pra personagens do que pra monstros, mas depois ignoramos essa regra porque lutar contra o BOWSER é engraçado demais.\\pE sim, BOWSER e GIGA BOWSER têm sprites de costas e paletas shiny! Boa sorte tentando ver!\\pSe quiser saber mais curiosidades, é só me perguntar de novo!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0376321",
+  "en": "Fun Fact 0",
+  "pt": "Curiosidade 0"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037632C",
+  "en": "Fun Fact Number 2!\\pDaisy was initially designed to be\\nresiding in SARASALAND.\\pThe maps were later reused for\\nTOSTARENA, with the tower and\\lquicksand mechanics being slightly\\lupdated.\\pSo the WORLDs in order of when their\\nmaps were made goes as follows:\\p1, 6(TOSTARENA), 3, 4, 2, 5,\\n6(NEW DONK), 7, 8, RAINBOW ROAD.\\pSpeaking of old maps, HOENN has been\\nmainly untouched!\\pTheoretically, you could play EMERALD\\nfrom the beginning, but with all the\\ltileset, flag, and vars edits, it might\\lbe a bit difficult.",
+  "pt": "Curiosidade Número 2!\\pA Daisy foi originalmente pensada pra morar em SARASALAND.\\pOs mapas foram reaproveitados depois pra TOSTARENA, com as mecânicas da torre e da areia movediça levemente atualizadas.\\pEntão, os MUNDOS na ordem em que os mapas foram feitos ficam assim:\\p1, 6(TOSTARENA), 3, 4, 2, 5,\\n6(NEW DONK), 7, 8, RAINBOW ROAD.\\pFalando em mapas antigos, HOENN ficou praticamente intocada!\\pTeoricamente, dá pra jogar o EMERALD desde o começo, mas com todas as edições de tileset, flags e vars, pode ser meio difícil."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0376524",
+  "en": "Fun Fact Number 3!\\pWe had a leak scare halfway into\\ndevelopment!\\pMuno, one of the artists who did very\\nearly spritework for us, posted the\\lCHAIN-CHOMP sprite on his portfolio\\lwebsite, which was then stolen for a\\lrandom YouTube thumbnail.\\pWe thought one of the playtesters\\nleaked the game and was making\\lcontent, but instead, someone just\\lwanted really good pixel art for clicks.",
+  "pt": "Curiosidade Número 3!\\pTivemos um susto com vazamento no meio do desenvolvimento!\\pMuno, um dos artistas que fizeram os primeiros sprites pra gente, postou o sprite do CHAIN-CHOMP no site de portfólio dele, que depois foi roubado pra uma thumbnail aleatória do YouTube.\\pA gente achou que algum playtester tinha vazado o jogo e estava fazendo conteúdo, mas, na verdade, alguém só queria uma pixel art muito boa pra ganhar cliques."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037669F",
+  "en": "Fun Fact Number 4!\\pSome shiny sprites have references or\\nsecret details!\\pOh, do you expect me to say what they\\nare? That takes away the fun of it\\pDon't believe me? You get a shiny\\nMINION after finishing a certain\\lDespicable sidequest.\\pGood Luck :)",
+  "pt": "Curiosidade Número 4!\\pAlguns sprites shiny têm referências ou detalhes secretos!\\pAh, você esperava que eu dissesse quais são? Aí perde a graça\\pNão acredita? Você ganha um MINION shiny depois de terminar uma certa missão secundária do Meu Malvado Favorito.\\pBoa sorte :)"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0376797",
+  "en": "Fun Fact Number 5!\\pThe last 4 months of development, from\\nDecember 2024 to March 2025 saw a lot\\lof changes and updates we didn't think\\lwe'd have time for, like a custom region\\lmap, SUPER MARIO BROS. musical tracks,\\lRAINBOW ROAD, FireRed/LeafGreen style\\lsprites for all CAPTUREs and the new\\lCAPTURE, MAW-MAW.\\pThe team really put their whole heart in\\nthe final stage of this game, and we\\lcan't be grateful enough to have the\\lopportunity.",
+  "pt": "Curiosidade Número 5!\\pOs últimos 4 meses de desenvolvimento, de dezembro de 2024 a março de 2025, trouxeram muitas mudanças e atualizações que a gente não achava que daria tempo de fazer, como um mapa de região personalizado, faixas musicais de SUPER MARIO BROS., a RAINBOW ROAD, sprites no estilo FireRed/LeafGreen pra todas as CAPTURAS e a nova CAPTURA, MAW-MAW.\\pA equipe colocou o coração inteiro na fase final deste jogo, e não temos como agradecer o suficiente pela oportunidade."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037694B",
+  "en": "Fun Fact Number 6!\\pMy favorite CAPTURE is HEAVE-HO (my\\nbeloved) and my favorite POKéMON is\\lGRAFAIAI (my child).",
+  "pt": "Curiosidade Número 6!\\pMinha CAPTURA favorita é o HEAVE-HO (meu amado) e meu POKéMON favorito é o GRAFAIAI (meu filho)."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03769BB",
+  "en": "Fun Fact Number 7!\\pAbout a week before the first SUPER\\nMARIOMON stream, we found out a bunch\\lof people were making their own MARIO\\lthemed POKéMON rom hack.\\pWe understand that a project of this\\ncaliber might dissuade them or others\\lfrom continuing their own similar\\lprojects, but we're not trying to make\\lthe POKéMON x MARIO rom hack to end\\lthem all.\\pIf anything, we actively encourage\\nmaking your own!\\pPut your personal spin on it! Create\\nsome mechanics and ideas that we didn't\\ldo in SUPER MARIOMON!\\pAnd don't focus on making it perfect.\\nFocus on making it yours. Focus on\\lmaking it a learning experience. Focus\\lon making it fun! Not just for your\\lplayers, but for you.\\pThat's what rom hacking and modding is\\nall about.\\pJust because someone made a cake\\nbefore you, doesn't mean people aren't\\lgoing to eat your cake later! It's cake!\\lAnd if you don't like cake, substitute\\lit with some other food so the analogy\\lbetter fits you.\\pJust keep making! Your best is always\\nenough!",
+  "pt": "Curiosidade Número 7!\\pMais ou menos uma semana antes da primeira live de SUPER MARIOMON, descobrimos que um monte de gente estava fazendo sua própria rom hack de POKéMON com tema do MARIO.\\pEntendemos que um projeto desse calibre pode desanimar essas pessoas ou outras de continuarem seus próprios projetos parecidos, mas não estamos tentando fazer A rom hack de POKéMON x MARIO definitiva, que acaba com todas as outras.\\pPelo contrário, a gente incentiva muito que você faça a sua!\\pColoque o seu toque pessoal! Crie mecânicas e ideias que a gente não fez em SUPER MARIOMON!\\pE não foque em deixar perfeito. Foque em deixar do seu jeito. Foque em fazer disso uma experiência de aprendizado. Foque em fazer ser divertido! Não só pros seus jogadores, mas pra você.\\pÉ disso que se trata fazer rom hacks e mods.\\pSó porque alguém fez um bolo antes de você, não quer dizer que as pessoas não vão comer o seu bolo depois! É bolo! E se você não gosta de bolo, troque por alguma outra comida pra analogia combinar melhor com você.\\pSó continue criando! O seu melhor sempre é suficiente!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0376D8A",
+  "en": "Fun Fact Number 8!\\pI wasn't kidding about emailing me your\\nanswers to those playtesting\\lquestions from our battle!\\pEven though SUPER MARIOMON is done\\nwith development, I would still love to\\lhear your own thoughts and opinions on\\lit, and it doesn't have to be exclusive\\lto email.\\pComment on videos! Chat about it in\\nDiscord servers! I love reading it all\\land I expect a lot of my free time after\\lthis game releases to be doing that!\\pBecause even though I probably won't\\nbe working on this game anymore, I'm\\lalways looking to improve my skills.",
+  "pt": "Curiosidade Número 8!\\pEu não estava brincando sobre você me mandar por e-mail as respostas daquelas perguntas de playtest da nossa batalha!\\pMesmo com SUPER MARIOMON já finalizado, eu ainda adoraria ouvir as suas opiniões sobre ele, e não precisa ser só por e-mail.\\pComente nos vídeos! Converse sobre ele em servidores do Discord! Eu adoro ler tudo, e imagino que vou passar boa parte do meu tempo livre depois do lançamento fazendo isso!\\pPorque, mesmo que eu provavelmente não vá mais trabalhar neste jogo, estou sempre buscando melhorar as minhas habilidades."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0376FA9",
+  "en": "Fun Fact Number 9!\\pcode: m94TIai-9G\\pThat's it for my fun facts!\\pThis script will now loop back to Fun\\nFact Number 1!",
+  "pt": "Curiosidade Número 9!\\pcódigo: m94TIai-9G\\pEssas foram as minhas curiosidades!\\pEste script agora vai voltar pra Curiosidade Número 1!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037701E",
+  "en": "I hope you enabled text skip, cause I'll\\nkeep asking my playtest questions!",
+  "pt": "Espero que você tenha ativado o pulo de texto, porque eu vou continuar fazendo as minhas perguntas de playtest!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377096",
+  "en": "I wonder if you're rematching because\\nyou like the battle, or it's the easiest\\lway to grind money.\\pCome back anytime, I'm not going\\nanywhere!",
+  "pt": "Fico pensando se você pede revanche porque gosta da batalha ou porque é o jeito mais fácil de farmar dinheiro.\\pVolte quando quiser, não vou a lugar nenhum!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377124",
+  "en": "'Sup! I'm CANNONS, one of the lead\\ndevelopers for SUPER MARIOMON!\\pI'm locked in right now, so I can't talk\\ntoo much.\\pYou want to know what happens next in\\nthe story?\\pIf I told you then it wouldn't be a\\nsurprise, and toooootally not because\\lI've been making up the story as I go!\\pHow about this, chat with me again\\nafter you've recorded all 151 CAPTURES\\lin the TATTLEDEX. I hope you've been\\lreading them, I wrote a good amount!",
+  "pt": "E aí! Sou CANNONS, da equipe principal de desenvolvimento de SUPER MARIOMON!\\pEstou no foco total agora, então não posso falar muito.\\pQuer saber o que acontece depois na história?\\pSe eu contasse, não seria surpresa, e não é nãããão porque eu estou inventando a história conforme vou fazendo!\\pFaz assim: fale comigo de novo depois de registrar todas as 151 CAPTURAS na TATTLEDEX. Espero que você esteja lendo as descrições, eu escrevi bastante!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03772CF",
+  "en": "Got a little passionate there, whoops!\\pYou seriously know your stuff! That or\\nyou overleveled your team like crazy. I\\lwouldn't know!\\p{FONT 00}Actually, I could probably. There's\\ndefinitely a way.\\p{FONT 01}I think we did an amazing job at pushing\\nthis game to be what it is, and I could\\ltalk so much about it.\\pHey, I got a fantastic idea! Come talk\\nto me whenever you want to learn a\\llittle more about the project and my\\linvolvement with it! I'll also accept\\lrematches!",
+  "pt": "Me empolguei um pouco aí, opa!\\pVocê manja mesmo do assunto! Ou isso, ou subiu o nível da sua equipe feito louco. Eu não saberia dizer!\\p{FONT 00}Na verdade, eu provavelmente conseguiria. Com certeza tem um jeito.\\p{FONT 01}Acho que fizemos um trabalho incrível levando este jogo a ser o que ele é, e eu poderia falar muito sobre isso.\\pEi, tive uma ideia fantástica! Venha falar comigo sempre que quiser saber um pouco mais sobre o projeto e o meu envolvimento nele! Também aceito revanches!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377498",
+  "en": "Here to see the PROFESSOR? Or that\\nquirky group of game developers in the\\lcorner across the room?",
+  "pt": "Veio ver o PROFESSOR? Ou aquele grupo excêntrico de desenvolvedores de jogos no canto do outro lado da sala?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03774FE",
+  "en": "I'm Pez. I did the first drafts of some\\nsprites and levels.\\pThis project was my first chance to\\nmake a video game, which had always\\lbeen a dream of mine.\\pI'm off doing other things now, but\\nthanks for letting me live that dream\\lfor a little bit.\\pHere, let me heal your party.",
+  "pt": "Sou Pez. Fiz os primeiros rascunhos de alguns sprites e fases.\\pEste projeto foi minha primeira chance de fazer um videogame, o que sempre foi um sonho meu.\\pAgora estou fazendo outras coisas, mas valeu por me deixar viver esse sonho por um tempinho.\\pTome, deixe-me curar a sua equipe."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377612",
+  "en": "Good luck with the Developer Battles!",
+  "pt": "Boa sorte nas Batalhas de Desenvolvedores!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377638",
+  "en": "Honestly, I don't even know why they\\nhired me to keep watch at this place.\\lThat game developer back there could\\lwipe the floor with anyone in the world\\lwith that team of theirs. Wonder why\\lthey didn't compete in the C.A.P.\\lCHALLENGE…",
+  "pt": "Sinceramente, nem sei por que me contrataram pra vigiar este lugar. Quem desenvolve jogos ali atrás conseguiria varrer o chão com qualquer um no mundo usando aquela equipe. Por que será que não entrou no DESAFIO C.A.P.…"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377722",
+  "en": "PROFESSOR E. GADD really puts us\\nthrough the works! At least the work is\\lfulfilling though.",
+  "pt": "O PROFESSOR E. GADD exige muito da gente! Pelo menos o trabalho é gratificante."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037777E",
+  "en": "What's that? What's an old TOAD like\\nmyself doing at work in a laboratory?\\pI'll have you know ELVIN and I go way\\nback! I'm here to help my old friend\\lwhenever he has need of me!",
+  "pt": "O quê? O que um TOAD velho como eu está fazendo trabalhando num laboratório?\\pFique sabendo que o ELVIN e eu nos conhecemos há muito tempo! Estou aqui pra ajudar meu velho amigo sempre que ele precisar de mim!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377830",
+  "en": "Me and that TOAD guard over there are\\nold buddies, despite appearances. We've\\lprotected some high-profile targets in\\lour day, but PROFESSOR E. GADD hardly\\leven needs it! He's strong, I tell you!",
+  "pt": "Eu e aquele guarda TOAD ali somos velhos camaradas, apesar das aparências. Já protegemos alvos importantes no nosso tempo, mas o PROFESSOR E. GADD quase nem precisa disso! Ele é forte, vou te contar!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03778F3",
+  "en": "We here at GADD SCIENCE are\\nresearching the science of C.A.P.\\lbattles. As a result, the PROFESSOR has\\lbecome quite the expert, along with\\lthat blonde girl that works near him.\\lThey're really scary to go up against!",
+  "pt": "Nós aqui da GADD SCIENCE pesquisamos a ciência das batalhas C.A.P. Por isso, o PROFESSOR se tornou um grande especialista, assim como aquela moça loira que trabalha perto dele. Enfrentar os dois dá muito medo!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03779CA",
+  "en": "Whew… Being an intern for the\\nPROFESSOR sure is hard work!",
+  "pt": "Ufa… Estagiar com o PROFESSOR dá muito trabalho!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377A0E",
+  "en": "Hi, I'm Jacob Alpharad. Thank you so\\nmuch for playing my game. Would you like\\lto battle?",
+  "pt": "Oi, eu sou o Jacob Alpharad. Muito obrigado por jogar o meu jogo. Quer batalhar?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377A84",
+  "en": "Hi, I'm Jacob Alpharad. Thank you so\\nmuch for playing my game.\\pHow about we battle once you become\\nthe champion, yeah?",
+  "pt": "Oi, eu sou o Jacob Alpharad. Muito obrigado por jogar o meu jogo.\\pQue tal batalharmos quando você se tornar o campeão, hein?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377B08",
+  "en": "Mario?",
+  "pt": "Mario?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377B1F",
+  "en": "WAHOO!",
+  "pt": "WAHOO!",
+  "max_width": 40
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377B26",
+  "en": "Mario…",
+  "pt": "Mario…"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377B2D",
+  "en": "Mario.",
+  "pt": "Mario."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377B34",
+  "en": "JORDANOS",
+  "pt": "JORDANOS",
+  "max_width": 54
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377B3D",
+  "en": "Oh, you're probably wondering about\\nthis pink fella here next to me.\\pHis name is Bingly, he's not from around\\nhere but the others let me keep him\\laround.\\p…\\pOh, are you here for another battle?",
+  "pt": "Ah, você deve estar se perguntando sobre esse carinha rosa aqui do meu lado.\\pO nome dele é Bingly, ele não é daqui, mas o pessoal me deixa ficar com ele por perto.\\p…\\pAh, veio pra outra batalha?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377C35",
+  "en": "Alrighty, I'll be here if you change your\\nmind!\\pYou probably would've gotten smoked\\nanyway…",
+  "pt": "Beleza, vou estar aqui se mudar de ideia!\\pVocê provavelmente ia levar uma surra mesmo…"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377C91",
+  "en": "Oh, hey {PLAYER}. I'm one of the\\nspriters for SUPER MARIOMON!\\pThank you so much for checking out our\\ngame.\\pWe put a lot of hard work into it and\\nit's been a blast doing so.\\pAll of the CAPTURE sprites were drawn\\nby me, amongst a lot of other things\\llike the character you're playing as\\lright now!\\p…\\pAnyway, do you want to battle or no?",
+  "pt": "Ah, oi, {PLAYER}. Sou um dos spriters de SUPER MARIOMON!\\pMuito obrigado por conferir o nosso jogo.\\pColocamos muito trabalho duro nele e foi uma diversão enorme fazer isso.\\pTodos os sprites das CAPTURAS foram desenhados por mim, entre muitas outras coisas, tipo o personagem que você está jogando agora!\\p…\\pEnfim, quer batalhar ou não?"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377DDA",
+  "en": "Sweet! Let's do this!",
+  "pt": "Massa! Vamos nessa!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377E06",
+  "en": "Oof! Your team is really strong, no\\nwonder you got this far…\\pHere you can have this as a reward!",
+  "pt": "Ufa! Sua equipe é forte mesmo, não é à toa que você chegou até aqui…\\pTome, pode ficar com isto como recompensa!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377E67",
+  "en": "Don't tell the others, but I snuck that\\nitem in from another universe. You\\lbetter cherish it!\\pOh, and if you haven't battled the\\nothers yet, you should definitely do so!",
+  "pt": "Não conta pros outros, mas eu contrabandeei esse item de outro universo. É bom você dar valor!\\pAh, e se ainda não batalhou com os outros, devia fazer isso com certeza!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0377F11",
+  "en": "Oh, hey {PLAYER}. I'm one of the\\nspriters for SUPER MARIOMON!\\pThank you so much for checking out our\\ngame.\\pWe put a lot of hard work into it and\\nit's been a blast doing so.\\pAll of the CAPTURE sprites were drawn\\nby me, amongst a lot of other things\\llike the character you're playing as\\lright now!\\pCome back after you've become the\\nCHAMPION to battle me!",
+  "pt": "Ah, oi, {PLAYER}. Sou um dos spriters de SUPER MARIOMON!\\pMuito obrigado por conferir o nosso jogo.\\pColocamos muito trabalho duro nele e foi uma diversão enorme fazer isso.\\pTodos os sprites das CAPTURAS foram desenhados por mim, entre muitas outras coisas, tipo o personagem que você está jogando agora!\\pVolte depois de se tornar o CAMPEÃO pra batalhar comigo!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037806C",
+  "en": "BINGLY",
+  "pt": "BINGLY",
+  "max_width": 42
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0378073",
+  "en": "Bing-bing!",
+  "pt": "Bing-bing!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "037807E",
+  "en": "There seems to be blueprints on the\\ncomputer for a machine called 'TIPTRON'.",
+  "pt": "Parece haver projetos no computador de uma máquina chamada 'TIPTRON'."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03780CB",
+  "en": "MARIO! Interested in the blueprints on\\nmy PC? Well you're in luck, because I've\\ljust applied the finishing touches to\\lthe TIPTRON!\\pHere, I made her for you, so take good\\ncare of her.",
+  "pt": "MARIO! Interessado nos projetos no meu PC? Pois está com sorte, porque acabei de dar os toques finais na TIPTRON!\\pTome, eu a fiz pra você, então cuide bem dela."
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "0378182",
+  "en": "PROFESSOR E. GADD gave you\\n{STR_VAR_1}!",
+  "pt": "O PROFESSOR E. GADD te deu {STR_VAR_1}!"
+ },
+ {
+  "map": "10.2 NEW DONK CITY",
+  "offset": "03781A1",
+  "en": "I was only able to finish development\\non TIPTRON because of your diligent\\lwork filling out the TATTLEDEX, you\\lknow.\\pIf you didn't capture them all, there's\\nno way I would've finished work on her!",
+  "pt": "Só consegui terminar o desenvolvimento da TIPTRON graças ao seu trabalho dedicado completando a TATTLEDEX, sabe.\\pSe você não tivesse capturado todas, eu nunca teria conseguido terminar ela!"
+ }
+]

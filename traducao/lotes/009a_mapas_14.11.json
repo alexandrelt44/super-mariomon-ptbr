@@ -1,0 +1,2264 @@
+[
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "0380F24",
+  "en": "õõõõõõõõõõ\\nA lot of racers complain that RAINBOW\\nROAD is too long with nowhere to stop\\land heal up their team or repair their\\lkart.\\pI say that's a skill issue. If you've\\nmade it this far, you're probably\\lsitting on tons of coins you could've\\lused to stock up on supplies.",
+  "pt": ""
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "0381034",
+  "en": "Need to go back to MUSHROOM HILL for\\nsomething but your WARP PIPE isn't\\lworking?\\pYou know, in times like these there's\\nalways a way to ESCAPE back to your\\llast safe location.",
+  "pt": "Precisa voltar pra COLINA COGUMELO por algum motivo, mas o seu CANO WARP não está funcionando?\\pSabe, em horas assim sempre existe um jeito de FUGIR de volta pro último lugar seguro."
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "03810E3",
+  "en": "Whew, RAINBOW ROAD really gets hard in\\nthe second segment! I can't even come\\lclose to completing any of the\\lshortcuts!",
+  "pt": "Ufa, a RAINBOW ROAD fica difícil de verdade no segundo trecho! Não consigo nem chegar perto de completar nenhum dos atalhos!"
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "038115A",
+  "en": "You good, man? Your KART is looking a\\nlittle worse for wear, but don't worry.\\lYou're almost at the end!",
+  "pt": "Tudo certo, cara? Seu KART está meio detonado, mas não se preocupe. Você está quase no fim!"
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "03811C2",
+  "en": "My team's looking a little worse for\\nwear. I better pack it up and use my\\lESCAPE ROPE.",
+  "pt": "Minha equipe está meio detonada. Melhor eu juntar minhas coisas e usar a minha CORDA DE FUGA."
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "038125E",
+  "en": "The reason there's no item boxes over\\nhere is cause I'm bagging! I may be last\\lnow, but that won't be for long once I\\lpull a BULLET BILL!",
+  "pt": "Não tem caixa de item aqui porque eu peguei todas e tô guardando! Posso estar em último agora, mas não por muito tempo quando eu tirar um BULLET BILL!"
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "03812E8",
+  "en": "Look out!",
+  "pt": "Cuidado!"
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "03812F2",
+  "en": "Sorry, I couldn't see you there.",
+  "pt": "Foi mal, não tinha te visto aí."
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "0381313",
+  "en": "Gotta be careful! RAINBOW ROAD is\\ndangerous!",
+  "pt": "Tem que tomar cuidado! A RAINBOW ROAD é perigosa!"
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "0381381",
+  "en": "Man, and I was so close to the end.",
+  "pt": "Poxa, e eu tava tão perto do fim."
+ },
+ {
+  "map": "14.11 RAINBOW ROAD",
+  "offset": "03813E6",
+  "en": "Sorry, I'm a LAKITU in training for\\nRAINBOW ROAD. Still learning and all\\lthat.",
+  "pt": "Desculpa, sou um LAKITU em treinamento pra RAINBOW ROAD. Ainda estou aprendendo e tal."
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "0383390",
+  "en": "++++++++++\\nThe way to the CHAMPION is now open!",
+  "pt": ""
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "03833C0",
+  "en": "Welcome, MARIO. Please proceed to\\neither of the four corners to continue\\lyour challenge.\\pOnce you've defeated all four trials,\\nthe path to the CHAMPION will open up.\\pGood luck.",
+  "pt": "Bem-vindo, MARIO. Siga para qualquer um dos quatro cantos para continuar o seu desafio.\\pQuando tiver vencido as quatro provas, o caminho até o CAMPEÃO vai se abrir.\\pBoa sorte."
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "0383471",
+  "en": "You've already defeated TOADSWORTH.",
+  "pt": "Você já derrotou o TOADSWORTH."
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "0383495",
+  "en": "MARIO peered into the abyss below…\\p…and sees a planet with a castle of\\nancient bricks. Jump into the hole?",
+  "pt": "MARIO espiou o abismo lá embaixo…\\p…e vê um planeta com um castelo de tijolos antigos. Pular no buraco?"
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "0383500",
+  "en": "You've already defeated PEACH.",
+  "pt": "Você já derrotou a PEACH."
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "038351F",
+  "en": "MARIO peered into the abyss below…\\p…and sees a planet with a castle of\\nPEACH'S visage. Jump into the hole?",
+  "pt": "MARIO espiou o abismo lá embaixo…\\p…e vê um planeta com um castelo com o rosto da PEACH. Pular no buraco?"
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "038358A",
+  "en": "You've already defeated KAMEK.",
+  "pt": "Você já derrotou o KAMEK."
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "03835A9",
+  "en": "MARIO peered into the abyss below…\\p…and sees a planet with a castle of lava\\nand magic. Jump into the hole?",
+  "pt": "MARIO espiou o abismo lá embaixo…\\p…e vê um planeta com um castelo de lava e magia. Pular no buraco?"
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "0383614",
+  "en": "You've already defeated E. GADD.",
+  "pt": "Você já derrotou o E. GADD."
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "0383635",
+  "en": "MARIO peered into the abyss below…\\p…and sees a planet with a castle of\\nsupernatural science. Jump into the\\lhole?",
+  "pt": "MARIO espiou o abismo lá embaixo…\\p…e vê um planeta com um castelo de ciência sobrenatural. Pular no buraco?"
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "03836A6",
+  "en": "This boost panel leads to the CHAMPION.\\nAre you ready?",
+  "pt": "Este painel de aceleração leva até o CAMPEÃO. Está pronto?"
+ },
+ {
+  "map": "14.13 RAINBOW ROAD",
+  "offset": "03836DD",
+  "en": "Stuck in E4, resetting state... (How did\\nyou accomplish this? Did you white\\lout?)",
+  "pt": "Preso na E4, redefinindo o estado... (Como você conseguiu isso? Você apagou?)"
+ },
+ {
+  "map": "14.15 MUSHROOM HILL",
+  "offset": "0383A69",
+  "en": "Ah, MARIO, you're back! I've added a\\nnasty new ghost to my collection, and\\lI'm just itching to show you! Shall we\\lget right to it?",
+  "pt": "Ah, MARIO, você voltou! Acrescentei um fantasma novo e terrível à minha coleção e estou louco pra mostrar a você! Vamos direto ao assunto?"
+ },
+ {
+  "map": "14.15 MUSHROOM HILL",
+  "offset": "0383B30",
+  "en": "You're really improving, MARIO! I'll warn\\nyou though, this team that I've been\\lusing isn't even my strongest one! If\\lyou wanna fight me as I was in my prime,\\lyou ought to get all 151 CAPTURES and\\ltalk to me at my lab!",
+  "pt": "Você está melhorando muito, MARIO! Mas já vou avisando: esta equipe que venho usando não é nem a minha mais forte! Se quiser me enfrentar como eu era no meu auge, é bom pegar todas as 151 CAPTURAS e falar comigo no meu laboratório!"
+ },
+ {
+  "map": "14.15 MUSHROOM HILL",
+  "offset": "0383C0A",
+  "en": "Salutations, MARIO! Surprised to see me\\nhere?\\pI'll have you know, I'm not just some old\\nresearcher! I helped design the entire\\lC.A.P. challenge alongside the PRINCESS,\\lwhich means I know more than anyone\\labout how to battle! Let me show you!",
+  "pt": "Saudações, MARIO! Surpreso em me ver aqui?\\pFique sabendo que não sou só um velho pesquisador! Ajudei a criar o DESAFIO C.A.P. inteiro junto com a PRINCESA, o que significa que entendo de batalhas mais do que ninguém! Deixe eu mostrar a você!"
+ },
+ {
+  "map": "14.15 MUSHROOM HILL",
+  "offset": "0383D2E",
+  "en": "Wonderfully done, MARIO! You've made an\\nold scientist weep with joy. To think\\lyou'd put so much time and effort into\\lthe game I came up with, it moves me to\\ltears.\\pGo on, do me proud and finish your C.A.P.\\nchallenge!",
+  "pt": "Muito bem, MARIO! Você fez um velho cientista chorar de alegria. Pensar que você dedicou tanto tempo e esforço ao jogo que eu inventei... Isso me leva às lágrimas.\\pVá em frente, me deixe orgulhoso e termine o seu DESAFIO C.A.P.!"
+ },
+ {
+  "map": "14.15 MUSHROOM HILL",
+  "offset": "0383E07",
+  "en": "By the way, if you'd like to leave, just\\nuse the computer behind me!",
+  "pt": "Aliás, se quiser ir embora, é só usar o computador atrás de mim!"
+ },
+ {
+  "map": "14.15 MUSHROOM HILL",
+  "offset": "0383E4C",
+  "en": "INITIATING WARP BACK TO RAINBOW ROAD.",
+  "pt": "INICIANDO WARP DE VOLTA PARA A RAINBOW ROAD."
+ },
+ {
+  "map": "14.15 MUSHROOM HILL",
+  "offset": "0383E72",
+  "en": "ERROR: PLEASE DO BATTLE WITH ELVIN\\nGADD FIRST.",
+  "pt": "ERRO: BATALHE COM ELVIN GADD PRIMEIRO."
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5A90",
+  "en": "An unknown force pushed you away!",
+  "pt": "Uma força desconhecida empurrou você para longe!"
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5AB2",
+  "en": "You feel an odd energy…",
+  "pt": "Você sente uma energia estranha…"
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5ACA",
+  "en": "It seems you won't be able to use CAPs\\nwhile here!",
+  "pt": "Parece que você não vai poder usar CAPs aqui!"
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5B01",
+  "en": "Kehehehehe…",
+  "pt": "Kehehehehe…"
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5B0D",
+  "en": "You were overwhelmed by your defeat!",
+  "pt": "Você ficou arrasado com a derrota!"
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5B32",
+  "en": "You ran away…",
+  "pt": "Você fugiu…"
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5B40",
+  "en": "It seems this rock can be smashed…\\nWould you like to use your HAMMER?",
+  "pt": "Parece que esta pedra pode ser quebrada… Quer usar o seu MARTELO?"
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5B86",
+  "en": "You tried to use your hammer… But an\\nunknown force pulls you away!",
+  "pt": "Você tentou usar o seu martelo… Mas uma força desconhecida puxa você para longe!"
+ },
+ {
+  "map": "15.0 GLITTERING CAVE",
+  "offset": "02E5BC9",
+  "en": "You suddenly feel very tired…",
+  "pt": "De repente, você se sente muito cansado…"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E5DA4",
+  "en": "The doors are locked…",
+  "pt": "As portas estão trancadas…"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E5DBA",
+  "en": "It seems the stairs are blocked off.",
+  "pt": "Parece que a escada está bloqueada."
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E5DDF",
+  "en": "There's a book open on the table… Read\\nit?",
+  "pt": "Há um livro aberto sobre a mesa… Ler?"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E5E0A",
+  "en": "Well, MARIO has up and left again,\\nleaving me here all alone while he goes\\lon another adventure of his. Maybe I\\lshould go on my own adventure for\\lonce… I did get a strange letter about\\lsome sort of Waffle Kingdom? I don't\\lknow how trustworthy it is, but it seems\\llike it could be fun. Then again, I have\\la bit of a ghost problem that needs\\ldealing with as well. I don't like leaving\\lthe house unattended, but I'll make\\lsure to leave a letter for MARIO in the\\l{COLOR 08}{SHADOW 09}cabinet.",
+  "pt": "Pois é, o MARIO saiu de novo e me deixou aqui sozinho enquanto vive mais uma das aventuras dele. Talvez eu devesse sair numa aventura minha, pra variar… Recebi uma carta estranha sobre um tal de Reino dos Waffles. Não sei se dá pra confiar, mas parece que pode ser divertido. Por outro lado, também tenho um probleminha com fantasmas pra resolver. Não gosto de deixar a casa sozinha, mas vou deixar uma carta pro MARIO no {COLOR 08}{SHADOW 09}armário."
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E5FE4",
+  "en": "You decide against reading the book.",
+  "pt": "Você decide não ler o livro."
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E6009",
+  "en": "You open the cabinet… and find a\\nletter.",
+  "pt": "Você abre o armário… e encontra uma carta."
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E6032",
+  "en": "Hey bro… This is LUIGI. I'm writing this\\nletter to let you know that I'm sick of\\lyou going out on so many adventures\\lwithout me! And so I'm leaving! No\\llonger will I be stuck in your shadow!",
+  "pt": "E aí, mano… Aqui é o LUIGI. Estou escrevendo esta carta pra avisar que cansei de você sair em tantas aventuras sem mim! Então estou indo embora! Nunca mais vou viver na sua sombra!"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E60F1",
+  "en": "Signed… MR. L???",
+  "pt": "Assinado… MR. L???"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E6102",
+  "en": "Suddenly, something leaps out of the\\ncabinet to attack you!",
+  "pt": "De repente, algo salta do armário para atacar você!"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E613E",
+  "en": "It seems it was just a nightmare…",
+  "pt": "Parece que foi só um pesadelo…"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E6160",
+  "en": "You were overwhelmed by your defeat!",
+  "pt": "Você ficou arrasado com a derrota!"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E6185",
+  "en": "You ran away…",
+  "pt": "Você fugiu…"
+ },
+ {
+  "map": "15.1 NIGHTMARE",
+  "offset": "02E6193",
+  "en": "There doesn't appear to be anything in\\nthe cabinet…",
+  "pt": "Parece não haver nada no armário…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0239A48",
+  "en": "Something unseeable is in the way.",
+  "pt": "Algo invisível está no caminho."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0239A6B",
+  "en": "Something unseeable is in the way.\\pWant to use the DEVON SCOPE?",
+  "pt": "Algo invisível está no caminho.\\pQuer usar o DEVON SCOPE?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0239AAB",
+  "en": "{PLAYER} used the DEVON SCOPE.\\pAn invisible POKéMON became completely\\nvisible!\\pThe startled POKéMON attacked!",
+  "pt": "{PLAYER} usou o DEVON SCOPE.\\pUma CAPTURA invisível ficou completamente visível!\\pA CAPTURA assustada atacou!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B764",
+  "en": "See, {PLAYER}?\\nIsn't it nice in here, too?",
+  "pt": "Viu, {PLAYER}?\\nAqui dentro também não é legal?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B789",
+  "en": "The mover's POKéMON do all the work\\nof moving us in and cleaning up after.\\lThis is so convenient!\\p{PLAYER}, your room is upstairs.\\nGo check it out, dear!\\pDAD bought you a new clock to mark\\nour move here.\\lDon't forget to set it!",
+  "pt": "As CAPTURAS da mudança fazem todo o trabalho de trazer as coisas e arrumar tudo depois. Que prático!\\p{PLAYER}, seu quarto fica lá em cima. Vá dar uma olhada, querido!\\pO PAI comprou um relógio novo pra você, pra marcar a nossa mudança. Não se esqueça de acertar!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B867",
+  "en": "Well, {PLAYER}?\\pAren't you interested in seeing your\\nvery own room?",
+  "pt": "E então, {PLAYER}?\\pNão quer ver o seu próprio quarto?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B8CF",
+  "en": "Oh! {PLAYER}, {PLAYER}!\\nQuick! Come quickly!",
+  "pt": "Ah! {PLAYER}, {PLAYER}!\\nRápido! Venha logo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B8F0",
+  "en": "Look! It's PETALBURG GYM!\\nMaybe DAD will be on!",
+  "pt": "Olha! É o GINÁSIO DE PETALBURG! Talvez o PAI apareça!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B920",
+  "en": "Oh… It's over.\\pI think DAD was on, but we missed him.\\nToo bad.",
+  "pt": "Ah… Acabou.\\pAcho que o PAI apareceu, mas a gente perdeu. Que pena."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B95F",
+  "en": "Oh, yes.\\nOne of DAD's friends lives in town.\\pPROF. BIRCH is his name.\\pHe lives right next door, so you should\\ngo over and introduce yourself.",
+  "pt": "Ah, é mesmo. Um amigo do PAI mora na cidade.\\pO nome dele é PROF. BIRCH.\\pEle mora bem aqui do lado, então você devia ir lá se apresentar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B9ED",
+  "en": "See you, honey!",
+  "pt": "Até mais, querido!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023B9FD",
+  "en": "Did you introduce yourself to\\nPROF. BIRCH?",
+  "pt": "Você já se apresentou ao PROF. BIRCH?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BA28",
+  "en": "How are you doing, {PLAYER}?\\nYou look a little tired.\\pI think you should rest a bit.",
+  "pt": "Como você está, {PLAYER}? Parece meio cansado.\\pAcho que você devia descansar um pouco."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BA77",
+  "en": "MOM: Sorry honey, you are playing\\nwith the POKéCENTER challenge!",
+  "pt": "MÃE: Desculpe, querido, você está jogando com o desafio CENTRO CAPTURA!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BAB8",
+  "en": "Take care, honey!",
+  "pt": "Se cuida, querido!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BACA",
+  "en": "Oh? Did DAD give you that BADGE?\\pThen here's something from your MOM!",
+  "pt": "Hã? Foi o PAI que te deu essa INSÍGNIA?\\pEntão aqui vai uma coisa da sua MÃE!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BB10",
+  "en": "Don't push yourself too hard, dear.\\nYou can always come home.\\pGo for it, honey!",
+  "pt": "Não se esforce demais, querido. Você sempre pode voltar pra casa.\\pVai com tudo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BB60",
+  "en": "What is that, honey? A POKéNAV?\\nSomeone from DEVON gave it to you?\\pWell, honey, how about registering\\nyour mom?\\p… … …",
+  "pt": "O que é isso, querido? Um POKéNAV? Alguém da DEVON te deu?\\pBom, querido, que tal registrar a sua mãe?\\p… … …"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BBD6",
+  "en": "Registered MOM\\nin the POKéNAV.",
+  "pt": "MÃE registrada\\nno POKéNAV."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BBF5",
+  "en": "Fugiiiiih!",
+  "pt": "Fugiiiiih!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BC00",
+  "en": "Huggoh, uggo uggo…",
+  "pt": "Huggoh, uggo uggo…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BC1F",
+  "en": "…We brought you this\\nreport from in front of PETALBURG GYM.",
+  "pt": "…Trouxemos esta reportagem direto da frente do GINÁSIO DE PETALBURG."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BC5B",
+  "en": "There is a movie on TV.\\pTwo men are dancing on a big piano\\nkeyboard.\\pBetter get going!",
+  "pt": "Está passando um filme na TV.\\pDois homens estão dançando em um teclado de piano gigante.\\pMelhor ir andando!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BCB2",
+  "en": "It's the instruction booklet for the\\nRUNNING SHOES.\\p“Press the B Button to run while\\nwearing your RUNNING SHOES.\\p“Lace up your RUNNING SHOES and hit\\nthe road running!”",
+  "pt": "É o manual de instruções do TÊNIS DE CORRIDA.\\p“Aperte o Botão B para correr usando o TÊNIS DE CORRIDA.\\p“Amarre o seu TÊNIS DE CORRIDA e caia na estrada correndo!”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BD5A",
+  "en": "DAD: Hm?\\pHey, it's {PLAYER}!\\pIt's been a while since I saw you,\\nbut you look…stronger, somehow.\\pThat's the impression I get.\\nBut your old man hasn't given up yet!\\pOh, yes, I have something for you.\\nThis came to you from someone named\\lMR. BRINEY.",
+  "pt": "PAI: Hum?\\pEi, é o {PLAYER}!\\pFaz tempo que não te vejo, mas você parece… mais forte, de algum jeito.\\pÉ essa a impressão que eu tenho. Mas o seu velho aqui ainda não desistiu!\\pAh, é mesmo, tenho uma coisa pra você. Isto chegou pra você de alguém chamado SR. BRINEY."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BE4A",
+  "en": "DAD: Hm, a TICKET for a ferry?\\pIf I recall, there are ferry ports in\\nSLATEPORT and LILYCOVE.",
+  "pt": "PAI: Hum, um BILHETE de balsa?\\pSe me lembro bem, há portos de balsa em SLATEPORT e LILYCOVE."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BEA7",
+  "en": "I'd better get back to PETALBURG GYM.\\pMOM, thanks for looking after the house\\nwhile I'm away.",
+  "pt": "É melhor eu voltar pro GINÁSIO DE PETALBURG.\\pMÃE, obrigado por cuidar da casa enquanto estou fora."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BF05",
+  "en": "MOM: That DAD of yours…\\pHe comes home for the first time in a\\nwhile, but all he talks about is POKéMON.\\pHe should relax and stay a little longer.",
+  "pt": "MÃE: Esse seu PAI…\\pEle volta pra casa pela primeira vez em um tempão e só fala de CAPTURAS.\\pEle devia relaxar e ficar mais um pouco."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BF97",
+  "en": "MOM: Is that a breaking news story?",
+  "pt": "MÃE: Isso é uma notícia urgente?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023BFBB",
+  "en": "We bring you this emergency\\nnews flash!\\pIn various HOENN locales, there have\\nbeen reports of a BZZT…colored\\lPOKéMON in flight.\\pThe identity of this POKéMON is\\ncurrently unknown.\\pWe now return you to the regular\\nmovie program.",
+  "pt": "Interrompemos a programação para este plantão de notícias!\\pEm vários locais de HOENN, há relatos de uma CAPTURA BZZT…colorida voando.\\pA identidade desta CAPTURA ainda é desconhecida.\\pVoltamos agora ao filme da programação normal."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023C09D",
+  "en": "MOM: {PLAYER}, did you catch that?\\pWhat color did the announcer say\\nthat POKéMON was?",
+  "pt": "MÃE: {PLAYER}, você ouviu?\\pDe que cor o locutor disse que era aquela CAPTURA?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023C0ED",
+  "en": "MOM: Well, isn't that something!\\nThere are still unknown POKéMON.",
+  "pt": "MÃE: Ora, quem diria! Ainda existem CAPTURAS desconhecidas."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023C3B4",
+  "en": "The clock is stopped…\\pBetter set it and start it!",
+  "pt": "O relógio está parado…\\pMelhor acertar e colocar pra funcionar!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023C3E6",
+  "en": "{PLAYER}, how do you like your\\nnew room?\\pGood! Everything's put away neatly!\\pThey finished moving everything in\\ndownstairs, too.\\pPOKéMON movers are so convenient!\\pOh, you should make sure that\\neverything's all there on your desk.",
+  "pt": "{PLAYER}, gostou do seu quarto novo?\\pÓtimo! Tudo bem arrumadinho!\\pTerminaram de trazer tudo lá embaixo também.\\pAs CAPTURAS da mudança são tão práticas!\\pAh, confira se está tudo certo na sua escrivaninha."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "023C567",
+  "en": "MARIO took a closer look at the\\nMUSHROOM KINGDOM map.",
+  "pt": "MARIO olhou o mapa do REINO DOS COGUMELOS mais de perto."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0254339",
+  "en": "Welcome.\\pYou can exchange your COINS for\\nprizes here.",
+  "pt": "Bem-vindo.\\pAqui você pode trocar suas MOEDAS por prêmios."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "025436F",
+  "en": "Which prize would you like?",
+  "pt": "Qual prêmio você quer?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "027F57B",
+  "en": "There's a small indent in the wall.\\pUse the SECRET POWER?",
+  "pt": "Há uma pequena reentrância na parede.\\pUsar o PODER SECRETO?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "027F5B5",
+  "en": "Discovered a small cavern!",
+  "pt": "Você descobriu uma pequena caverna!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "027F5D0",
+  "en": "Want to make your SECRET BASE here?",
+  "pt": "Quer fazer a sua BASE SECRETA aqui?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0295760",
+  "en": "Ah, a slight problem.\\pAt least one CAPTURE is holding\\nan item.\\pI'm sorry to say, items obtained in\\nthe PYRAMID cannot be taken away.",
+  "pt": "Ah, há um pequeno problema.\\pPelo menos uma CAPTURA está segurando um item.\\pSinto dizer, mas os itens obtidos na PIRÂMIDE não podem ser levados embora."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02957E5",
+  "en": "All items held by your CAPTURE will be\\nmoved to your EXPLORER PACK, MARIO.",
+  "pt": "Todos os itens segurados pelas suas CAPTURAS serão movidos para a sua MOCHILA DE EXPLORADOR, MARIO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0295830",
+  "en": "The EXPLORER PACK cannot hold all your\\nitems, I'm sorry to say.\\pPlease pick the items you'll keep in the\\nEXPLORER PACK, and with your CAPTURE.",
+  "pt": "A MOCHILA DE EXPLORADOR não comporta todos os seus itens, sinto dizer.\\pEscolha os itens que você vai manter na MOCHILA DE EXPLORADOR e com a sua CAPTURA."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "029596E",
+  "en": "The EXPLORER PACK you used will be kept\\nin readiness for your next challenge.\\pMARIO turned the EXPLORER PACK over\\nfor the BAG's return.",
+  "pt": "A MOCHILA DE EXPLORADOR que você usou ficará guardada para o seu próximo desafio.\\pMARIO entregou a MOCHILA DE EXPLORADOR em troca da BOLSA."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02959F6",
+  "en": "I must record your results.\\nPlease wait.",
+  "pt": "Preciso registrar os seus resultados. Aguarde, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "0295B3B",
+  "en": "We look forward to your\\nnext challenge!",
+  "pt": "Aguardamos o seu próximo desafio!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "029CB6B",
+  "en": "Before you begin your challenge,\\nI need to save the game. Is that okay?",
+  "pt": "Antes de começar o seu desafio, preciso salvar o jogo. Tudo bem?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "029CBF5",
+  "en": "Please step this way.",
+  "pt": "Por aqui, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "029CC0B",
+  "en": "Thank you for participating!\\pI will return your CAPTURES in exchange\\nfor our rental CAPTURES.\\pI must also save the event results.\\nPlease wait.",
+  "pt": "Obrigado por participar!\\pVou devolver as suas CAPTURAS em troca das nossas CAPTURAS de aluguel.\\pTambém preciso salvar os resultados do evento. Aguarde, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "029CCD9",
+  "en": "Congratulations! You've won seven\\nstraight Battle Swap matches!",
+  "pt": "Parabéns! Você venceu sete partidas seguidas da Troca de Batalha!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "029D1B0",
+  "en": "Congratulations for defeating\\nthe FACTORY HEAD and winning\\lseven matches in a row!",
+  "pt": "Parabéns por derrotar o CHEFE DA FÁBRICA e vencer sete partidas seguidas!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "029D269",
+  "en": "Let me exchange your CAPTURES\\nfor our rental CAPTURES.\\pI need to save the battle data,\\nso please wait.",
+  "pt": "Vou trocar as suas CAPTURAS pelas nossas CAPTURAS de aluguel.\\pPreciso salvar os dados da batalha, então aguarde, por favor."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E62F1",
+  "en": "BOWSER?",
+  "pt": "BOWSER?",
+  "max_width": 48
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E62F9",
+  "en": "So, you've finally arrived! MARIO!\\pThis castle and the PRINCESS are MINE!\\pAnd I'll never let you take them from\\nme! BAHAHAHAHA!!!",
+  "pt": "Então você finalmente chegou! MARIO!\\pEste castelo e a PRINCESA são MEUS!\\pE eu nunca vou deixar você tirá-los de mim! BAHAHAHAHA!!!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E637B",
+  "en": "Your bag is sealed!",
+  "pt": "Sua bolsa está lacrada!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E639D",
+  "en": "It seems it was just a nightmare…",
+  "pt": "Parece que foi só um pesadelo…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E63BF",
+  "en": "You were overwhelmed by your defeat!",
+  "pt": "Você ficou arrasado com a derrota!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E63E4",
+  "en": "You ran away…",
+  "pt": "Você fugiu…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7A84",
+  "en": "I'm sorry, you're not playing with level\\ncaps enabled.",
+  "pt": "Sinto muito, você não está jogando com o limite de nível ativado."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7ABB",
+  "en": "…Though, if you'd like, I can enable\\naccess to RARE CANDIES regardless. To\\ldo so, you'd need to consent to the\\lenabling of CONTENT CREATOR mode. With\\lthis option enabled, you'd be able to\\lreceive as many RARE CANDIES and COINS\\las you would like. However, you will be\\lunable to turn this feature off and it\\lwill become a permanent record on your\\lSAVE FILE.",
+  "pt": "…Mas, se quiser, posso liberar o acesso a DOCES RAROS mesmo assim. Para isso, você precisaria concordar com a ativação do modo CRIADOR DE CONTEÚDO. Com essa opção ativada, você poderia receber quantos DOCES RAROS e MOEDAS quisesse. No entanto, não será possível desativar esse recurso, e ele ficará registrado para sempre no seu ARQUIVO SALVO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7C1F",
+  "en": "Even with all of this in mind, would you\\nlike to enable CONTENT CREATOR MODE?",
+  "pt": "Mesmo levando tudo isso em conta, quer ativar o MODO CRIADOR DE CONTEÚDO?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7C6D",
+  "en": "Very well, I've enabled CONTENT CREATOR\\nmode. Please speak to me again to see\\lyour new options.",
+  "pt": "Muito bem, ativei o modo CRIADOR DE CONTEÚDO. Fale comigo de novo para ver as suas novas opções."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7CCD",
+  "en": "Welcome! What CONTENT CREATOR perks\\nwould you like to access?",
+  "pt": "Bem-vindo! Que vantagens de CRIADOR DE CONTEÚDO você quer acessar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7D0B",
+  "en": "Here you go!",
+  "pt": "Aqui está!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7D18",
+  "en": "Your current level cap is\\n{STR_VAR_1}.",
+  "pt": "O seu limite de nível atual é\\n{STR_VAR_1}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7D36",
+  "en": "I'm sorry, but you don't have a COIN\\nCASE. Please, take one on the house.",
+  "pt": "Sinto muito, mas você não tem um PORTA-MOEDAS. Por favor, aceite um por conta da casa."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7D80",
+  "en": "I'm sorry, but you don't have enough\\nPURPLE COINS.",
+  "pt": "Sinto muito, mas você não tem MOEDAS ROXAS suficientes."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7DB3",
+  "en": "I'm sorry, but you already have that TM.",
+  "pt": "Sinto muito, mas você já tem esse TM."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7DDC",
+  "en": "MARIO gained {STR_VAR_1} PURPLE\\nCOINS!",
+  "pt": "MARIO ganhou {STR_VAR_1} MOEDAS\\nROXAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7DFA",
+  "en": "The Bill Blaster changed directions!",
+  "pt": "O Bill Blaster mudou de direção!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7E2C",
+  "en": "Even with a jump panel, I still can't do\\nit!",
+  "pt": "Mesmo com um painel de pulo, eu ainda não consigo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7E59",
+  "en": "Sorry MARIO, I can't jump like you can.\\nLet's go our separate ways if you wanna\\ldo that.",
+  "pt": "Foi mal, MARIO, não consigo pular como você. Se quiser fazer isso, vamos ter que seguir caminhos separados."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7EB2",
+  "en": "There seems to be a gap in the leaves,\\nbut you're too large to fit through.",
+  "pt": "Parece haver uma brecha entre as folhas, mas você é grande demais para passar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7EFE",
+  "en": "Hey MARIO, I bet I could fit through\\nthat small gap in the bushes!\\pLet me in front!",
+  "pt": "Ei, MARIO, aposto que eu consigo passar por aquela brechinha nos arbustos!\\pMe deixa ir na frente!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7F52",
+  "en": "This gap seems too small for MARIO to\\nget through.",
+  "pt": "Esta brecha parece pequena demais para o MARIO passar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7F85",
+  "en": "It's a LAUNCH STAR.\\pWould like to take it?",
+  "pt": "É uma ESTRELA LANÇADORA.\\pQuer usá-la?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E7FB0",
+  "en": "If you are stuck, you can reset CAPTAIN\\nTOAD to the start of the route. Would\\lyou like to reset your position?",
+  "pt": "Se você estiver preso, pode levar o CAPTAIN TOAD de volta ao início da rota. Quer redefinir a sua posição?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E801F",
+  "en": "Resetting…",
+  "pt": "Redefinindo…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E802A",
+  "en": "You've caught all three legendary\\ndragons!",
+  "pt": "Você capturou os três dragões lendários!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E8055",
+  "en": "You should head to E. GADD and show him!",
+  "pt": "Vá até o E. GADD e mostre a ele!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E807E",
+  "en": "You've defeated all the POWER STAR\\nholders again!",
+  "pt": "Você derrotou todos os portadores de ESTRELAS DE PODER de novo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E80B0",
+  "en": "You should see what LUIGI has to say\\nabout this!",
+  "pt": "Você devia ver o que o LUIGI tem a dizer sobre isso!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E80E1",
+  "en": "VAR-TEMP-A: {STR_VAR_2}",
+  "pt": "",
+  "max_width": 114
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E80F0",
+  "en": "adding 1 badge",
+  "pt": ""
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E80FF",
+  "en": "Badges: {STR_VAR_1}",
+  "pt": ""
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E810A",
+  "en": "Lava is dripping from the floor\\nabove…You can't fall any deeper…",
+  "pt": "Lava está pingando do andar de cima… Você não pode cair mais fundo…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E8508",
+  "en": "MARIO!\\pIs that a… GOLD CARD?! Your COMMANDER\\nLICENSE is sparkingly so brightly! I've\\lnever seen anything like it!\\pPlease, allow me the honor of healing\\nyour CAPTURES!",
+  "pt": "MARIO!\\pIsso é um… CARTÃO DOURADO?! Sua LICENÇA DE COMANDANTE está brilhando tanto! Nunca vi nada igual!\\pPor favor, me dê a honra de curar as suas CAPTURAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E85AF",
+  "en": "A pleasure to see you again, MARIO! You\\nwant the usual, am I right?",
+  "pt": "Que prazer ver você de novo, MARIO! O de sempre, acertei?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E85F3",
+  "en": "Saving... Please do not turn\\noff the power.",
+  "pt": "Salvando... Não desligue\\no aparelho."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E939D",
+  "en": "Alright! Good luck down there, MARIO!",
+  "pt": "Beleza! Boa sorte lá embaixo, MARIO!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E93C3",
+  "en": "Maybe some other time, then.",
+  "pt": "Fica pra próxima, então."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E93E0",
+  "en": "Welcome to the NEW DONK CITY PIT!\\pAre you willing to brave the depths of\\nthe PIT, and reap the rewards within?",
+  "pt": "Bem-vindo ao POÇO de NEW DONK CITY!\\pVocê tem coragem de encarar as profundezas do POÇO e colher as recompensas lá dentro?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E944F",
+  "en": "I'm the guide for the PIT. Are you\\nlooking to take on the challenge?",
+  "pt": "Sou o guia do POÇO. Quer encarar o desafio?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9494",
+  "en": "The trials of the PIT is a quest in which\\nyou explore the depths of the PIT and\\ltry to reach the deepest levels.\\pIn the PIT are seven floors of mazes,\\nall of them filled with not only skilled\\lbattlers, but also wild CAPTURES.\\pYou must enter with three of our\\ncertified CAPTURES, none of your own.\\pOn your descent, you will be provided\\nwith a special EXPLORERS PACK for your\\litems.\\pIf you fail at any point, any items will\\nbe discarded.\\pOnce you start your journey into the\\nPIT, there can be no rest until you make\\lit to the next REST AREA.",
+  "pt": "As provas do POÇO são uma missão em que você explora as profundezas do POÇO e tenta chegar aos níveis mais fundos.\\pNo POÇO há sete andares de labirintos, todos cheios não só de treinadores habilidosos, mas também de CAPTURAS selvagens.\\pVocê deve entrar com três das nossas CAPTURAS certificadas, nenhuma sua.\\pNa descida, você vai receber uma MOCHILA DE EXPLORADOR especial para os seus itens.\\pSe falhar em qualquer momento, todos os itens serão descartados.\\pDepois de começar a sua jornada pelo POÇO, não há descanso até você chegar à próxima ÁREA DE DESCANSO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E96B0",
+  "en": "Allow me to show you into the PIT.",
+  "pt": "Deixe-me levar você até o POÇO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E96D3",
+  "en": "You're gonna have to swap out your team\\nfor our certified explorers. I hope you\\lunderstand.",
+  "pt": "Você vai ter que trocar a sua equipe pelos nossos exploradores certificados. Espero que entenda."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E972F",
+  "en": "Seems like you had quite the choice\\nencounter at the end there!",
+  "pt": "Parece que você teve um encontro e tanto lá no final!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E976F",
+  "en": "Congrats on making it to a rest stop!",
+  "pt": "Parabéns por chegar a uma área de descanso!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9795",
+  "en": "As a reward, you may choose one of your\\nCAPTURES to keep.",
+  "pt": "Como recompensa, você pode escolher uma das suas CAPTURAS para ficar com você."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E97CF",
+  "en": "Are you sure you wish to not keep any\\nof your CAPTURES?",
+  "pt": "Tem certeza de que não quer ficar com nenhuma das suas CAPTURAS?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9807",
+  "en": "Very well.",
+  "pt": "Muito bem."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9812",
+  "en": "Please select a CAPTURE to keep.",
+  "pt": "Escolha a CAPTURA que vai ficar com você."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9833",
+  "en": "Are you sure you want to keep this\\nCAPTURE?",
+  "pt": "Tem certeza de que quer ficar com esta CAPTURA?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E985F",
+  "en": "Received CAPTURE.",
+  "pt": "CAPTURA recebida."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9871",
+  "en": "Welcome to the NEW DONK PIT!\\nUnfortunately, we're not quite ready to\\lopen yet.\\pAs consolation, I can take you straight\\nto the deepest level.\\pWell? Ready to venture to the deepest\\nlevel of the PIT?",
+  "pt": "Bem-vindo ao POÇO DE NEW DONK! Infelizmente, ainda não estamos prontos para abrir.\\pComo consolo, posso levar você direto ao nível mais fundo.\\pE então? Pronto para se aventurar no nível mais fundo do POÇO?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9936",
+  "en": "Welcome…\\pWould you like to know what awaits you\\nin the next levels of the PIT?",
+  "pt": "Bem-vindo…\\pQuer saber o que espera por você nos próximos níveis do POÇO?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E998A",
+  "en": "I see relatively weak CAPTURES, though\\nthey have awakened to their HIDDEN\\lpotentials…",
+  "pt": "Vejo CAPTURAS relativamente fracas, embora tenham despertado os seus potenciais OCULTOS…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E99E0",
+  "en": "I see poisonous CAPTURES, and your own\\nparty suffering greatly because of it…",
+  "pt": "Vejo CAPTURAS venenosas, e a sua própria equipe sofrendo muito por causa delas…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9A2E",
+  "en": "I see CAPTURES of FIRE… A great\\ninferno awaits you in the PIT, and the\\lHIDDEN potential of FIRE will be on full\\ldisplay.",
+  "pt": "Vejo CAPTURAS de FOGO… Um grande inferno espera por você no POÇO, e o potencial OCULTO do FOGO estará em plena exibição."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9AA7",
+  "en": "I see CAPTURES of WATER… A deluge of\\nWATER will face you in the PIT.",
+  "pt": "Vejo CAPTURAS de ÁGUA… Um dilúvio de ÁGUA vai enfrentar você no POÇO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9AEC",
+  "en": "I see CAPTURES of GRASS… A great\\nannoyance of forested creatures will\\lstand in your path.",
+  "pt": "Vejo CAPTURAS de PLANTA… Um bando irritante de criaturas da floresta vai se colocar no seu caminho."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9B46",
+  "en": "I cannot see what awaits you…\\nGoodluck…",
+  "pt": "Não consigo ver o que espera por você…\\nBoa sorte…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9B6E",
+  "en": "Whether you believe me or not, that's\\nfor you to decide…",
+  "pt": "Se você acredita em mim ou não, cabe a você decidir…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9BA7",
+  "en": "why",
+  "pt": "por quê"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9BAB",
+  "en": "JIMMY T.",
+  "pt": "JIMMY T.",
+  "max_width": 48
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9BB4",
+  "en": "Oh yeah! Let's get groovy!",
+  "pt": "Ah, é isso aí! Vamos entrar no ritmo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9BD6",
+  "en": "Honestly, do you have to always show up\\nat the most inconvenient of times?\\pI won't be letting you off easy this\\ntime.",
+  "pt": "Sério, você sempre tem que aparecer na hora mais inconveniente?\\pDesta vez não vou pegar leve com você."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9C4C",
+  "en": "PENNY",
+  "pt": "PENNY",
+  "max_width": 36
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9C52",
+  "en": "Let's see… The PIT seems to get even\\ndeeper from here! I better make sure\\lI'm properly prepared before I move on!",
+  "pt": "Vejamos… Parece que o POÇO fica ainda mais fundo daqui pra frente! É melhor eu me preparar direitinho antes de seguir!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9CC4",
+  "en": "MARIO, honey! I thought I might find\\nyou down here lighting up the dank, dark\\lPITs! I've been searching for you since\\lour little party at CLUB SUGAR! We\\lsimply HAVE to have a rematch!",
+  "pt": "MARIO, querido! Achei que podia te encontrar aqui embaixo iluminando os POÇOS escuros e úmidos! Estou te procurando desde a nossa festinha no CLUB SUGAR! A gente simplesmente PRECISA de uma revanche!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9D7C",
+  "en": "Ugh, MARIO. You know, I actually wasn't\\ntrying to find you, contrary to what\\lthat TOAD over there says. I'm just\\ltrying to get away from everyone… Yeah.\\pIf you keep getting in my way, I'll make\\nyou pay.",
+  "pt": "Argh, MARIO. Sabe, eu nem estava tentando te encontrar, ao contrário do que aquele TOAD ali diz. Só estou tentando ficar longe de todo mundo… É.\\pSe continuar no meu caminho, vai se arrepender."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9E47",
+  "en": "Mister MARIO! Are you also conducting\\nsome tests on the PITs? They're really\\lmysterious, aren't they? Like how\\lthey're different every time you enter,\\lor like how nobody knows just how deep\\lthey go!",
+  "pt": "Senhor MARIO! Você também está fazendo testes nos POÇOS? Eles são muito misteriosos, né? Tipo como eles mudam toda vez que alguém entra, ou como ninguém sabe o quão fundo eles vão!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9F0E",
+  "en": "Now then! Show me what you got on the\\ndance floor!",
+  "pt": "Agora sim! Mostra o que você sabe fazer na pista de dança!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9F41",
+  "en": "Whatever. I knew it'd come to this\\nagain…",
+  "pt": "Tanto faz. Eu sabia que ia acabar nisso de novo…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9F6B",
+  "en": "Alright, mister MARIO! Show me what kind\\nof strategies you've managed to create\\ldown here!",
+  "pt": "Muito bem, senhor MARIO! Mostre que tipo de estratégias você conseguiu criar aqui embaixo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02E9FC6",
+  "en": "Groovy battle, MARIO! I think you're\\nmore than ready for what waits in the\\lPIT, so go ahead and talk to the guard\\lback at homebase when you feel you're\\lready for a real challenge!",
+  "pt": "Que batalha da pesada, MARIO! Acho que você está mais que pronto pro que te espera no POÇO, então vai lá falar com o guarda na base quando sentir que está pronto pra um desafio de verdade!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA07A",
+  "en": "Groovy battle, MARIO! The PIT is a place\\nwhere my dance moves get me through\\lsome tense battles, so I think I'll keep\\lcoming back! Come break it down with me\\lanytime, honey!",
+  "pt": "Batalha da pesada, MARIO! O POÇO é um lugar onde meus passos de dança me ajudam a passar por batalhas tensas, então acho que vou continuar voltando! Vem dançar comigo quando quiser, querido!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA128",
+  "en": "Ugh. This is more trouble than it's\\nworth. These battles aren't, like, fun or\\lanything… You can keep exploring the\\lPIT, for all I care.\\pOh, and I think there was someone back\\nat the home base talking about some\\lsorta bone dragon or something… Why\\ldon't you go stick your nose in that\\lbusiness instead of mine?",
+  "pt": "Argh. Isso dá mais trabalho do que vale a pena. Essas batalhas não são, tipo, divertidas nem nada… Pode continuar explorando o POÇO, não tô nem aí.\\pAh, e acho que tinha alguém lá na base falando de um tipo de dragão de ossos ou algo assim… Por que você não vai meter o nariz nesse assunto em vez de no meu?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA25E",
+  "en": "Ugh. This is more trouble than it's\\nworth. These battles aren't, like, fun or\\lanything… You can keep exploring the\\lPIT, for all I care.",
+  "pt": "Argh. Isso dá mais trabalho do que vale a pena. Essas batalhas não são, tipo, divertidas nem nada… Pode continuar explorando o POÇO, não tô nem aí."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA2E6",
+  "en": "Wow, mister MARIO! Your strategy was\\nflawless as always!\\pYou know, the reason I came down here\\nwas to investigate the fabled dragon\\lof the PIT. And… I actually managed to\\lfind it!\\pBut I think you're much better suited\\nfor taking on that challenge than I am,\\lmister MARIO. There should be someone\\lback at home base who can show you the\\lway!",
+  "pt": "Uau, senhor MARIO! Sua estratégia foi impecável como sempre!\\pSabe, o motivo de eu ter vindo aqui embaixo era investigar o lendário dragão do POÇO. E… eu consegui encontrá-lo!\\pMas acho que você está muito mais preparado do que eu pra encarar esse desafio, senhor MARIO. Deve ter alguém lá na base que pode te mostrar o caminho!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA43A",
+  "en": "Wow, mister MARIO! Your strategy was\\nflawless as always!\\pI'd love to fight you again sometime, so\\nkeep exploring the PIT to your heart's\\lcontent!",
+  "pt": "Uau, senhor MARIO! Sua estratégia foi impecável como sempre!\\pEu adoraria batalhar com você de novo algum dia, então continue explorando o POÇO o quanto quiser!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA4CC",
+  "en": "You can now head to a secret deep part\\nof the PIT! Talk to the clerk in the\\lLOBBY to give it a shot!",
+  "pt": "Agora você pode ir a uma parte profunda e secreta do POÇO! Fale com o atendente no SAGUÃO para tentar!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA531",
+  "en": "Groovy, MARIO! You'll do just fine in the\\ndepths of the PIT! Make sure to light\\lup the caves wherever you go!",
+  "pt": "Da pesada, MARIO! Você vai se dar muito bem nas profundezas do POÇO! Não esqueça de iluminar as cavernas por onde passar!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA635",
+  "en": "The PIT rules are listed.\\pWhich heading do you want to read?",
+  "pt": "As regras do POÇO estão listadas.\\pQual tópico você quer ler?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA672",
+  "en": "When you clear seven floors of the PIT,\\nthe CAPTURES within will advance to be\\ldifferent kinds.\\pExplore, observe and learn what kinds\\nof CAPTURES you may encounter.",
+  "pt": "Quando você completar sete andares do POÇO, as CAPTURAS lá dentro passam a ser de outros tipos.\\pExplore, observe e aprenda que tipos de CAPTURAS você pode encontrar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA717",
+  "en": "Be prepared to fight other explorers\\nwhile in the PIT.\\pOn each floor, there can be up to eight\\nother explorers.\\pWhen you defeat one, they may have a\\nhelpful hint for you on how to proceed.",
+  "pt": "Esteja preparado para enfrentar outros exploradores no POÇO.\\pEm cada andar, pode haver até oito outros exploradores.\\pQuando você derrota um deles, ele pode ter uma dica útil sobre como seguir em frente."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA7D4",
+  "en": "The mazes in the PIT rearrange\\nthemselves every time you enter it.\\pThe mazes are poorly lit. You must\\nadvance with caution.",
+  "pt": "Os labirintos do POÇO se reorganizam toda vez que você entra.\\pOs labirintos são mal iluminados. Avance com cautela."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA850",
+  "en": "The EXPLORER PACK serves as your bag\\nwhile in the PIT.\\pThis BAG can hold up to 99 pieces of ten\\nkinds of items.\\pThe contents of the BAG will be lost if\\nyou fail in your exploration.",
+  "pt": "A MOCHILA DE EXPLORADOR serve como a sua bolsa no POÇO.\\pEsta BOLSA comporta até 99 unidades de dez tipos de itens.\\pO conteúdo da BOLSA será perdido se você falhar na exploração."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA906",
+  "en": "Welcome back, MARIO! Since you became\\nchampion, PENNY has been really busy\\lgetting the rental facility into shape.\\lWe're now the BATTLE FACTORY! You\\lsimply must compete sometime!\\pAnd if you do so, here, take this!",
+  "pt": "Bem-vindo de volta, MARIO! Desde que você virou campeão, a PENNY tem trabalhado muito pra deixar o espaço de aluguel em forma. Agora somos a FÁBRICA DE BATALHA! Você simplesmente precisa competir um dia!\\pE, se for competir, tome, leve isto!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EA9DC",
+  "en": "This item allows you to record matches\\nyou fight in the GLITZ PIT so you can\\lview them back later. Though, it can\\lonly hold one recorded match at a time.\\pTalk to me again if you want to take on\\nthe BATTLE FACTORY!",
+  "pt": "Este item permite gravar as partidas que você disputa no GLITZ PIT para assistir depois. Mas ele só guarda uma partida gravada por vez.\\pFale comigo de novo se quiser encarar a FÁBRICA DE BATALHA!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EAAB2",
+  "en": "Greetings, Champion! Would you like to\\nattempt the new and improved Battle\\lFactory instead of the normal\\lchallenge?",
+  "pt": "Saudações, Campeão! Gostaria de tentar a nova e melhorada Fábrica de Batalha em vez do desafio normal?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EAB26",
+  "en": "Very well! Welcome to the BATTLE\\nFACTORY!",
+  "pt": "Muito bem! Bem-vindo à FÁBRICA DE BATALHA!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EAB50",
+  "en": "What would you like to do?",
+  "pt": "O que você gostaria de fazer?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EAB79",
+  "en": "The Battle Swap Tournament is a\\ncompetition using only rental CAPTURES.\\lFirst, you will be loaned CAPTURES\\lspecifically for this event. Using the\\lsupplied rental CAPTURES, you must\\lparticipate in a battle based on the\\lrules you selected. If you win, you are\\lpermitted to trade one of your rental\\lCAPTURES.\\lRepeat this cycle of battling and\\ltrading--if you win seven times in\\la row, you will earn various rewards.\\lIf you want to interrupt your\\lchallenge, please save the game.\\lIf you don't save, you will be\\ldisqualified from your challenge.",
+  "pt": "O Torneio Troca de Batalha é uma competição que usa apenas CAPTURAS de aluguel. Primeiro, você recebe CAPTURAS emprestadas especialmente para este evento. Usando as CAPTURAS de aluguel fornecidas, você deve participar de uma batalha com as regras que escolheu. Se vencer, você pode trocar uma das suas CAPTURAS de aluguel. Repita esse ciclo de batalhar e trocar--se vencer sete vezes seguidas, você ganha vários prêmios. Se quiser interromper o seu desafio, salve o jogo. Se não salvar, você será desclassificado do desafio."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EAD96",
+  "en": "Would you like to take the Battle Swap\\n{STR_VAR_1} challenge?",
+  "pt": "Quer encarar o desafio {STR_VAR_1} da Troca de Batalha?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EADCB",
+  "en": "Here's your reward. PENNY told me to\\ngive it to you!",
+  "pt": "Aqui está o seu prêmio. A PENNY me pediu pra te entregar!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EAE00",
+  "en": "The results for the BATTLE FACTORY and\\ninformation are listed here.",
+  "pt": "Os resultados e as informações da FÁBRICA DE BATALHA estão listados aqui."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EAE44",
+  "en": "Mister MARIO! I'm so glad you decided\\nto take on the BATTLE FACTORY!\\lI've had a look at all the data you've\\lgiven us through your battles, and you\\lreally seem to have the hang of this.\\lI'll be sure to battle you under\\lthe same conditions, and use rental\\lCAPTURES, too!",
+  "pt": "Senhor MARIO! Que bom que você decidiu encarar a FÁBRICA DE BATALHA! Dei uma olhada em todos os dados que você nos deu com as suas batalhas, e você parece mesmo ter pegado o jeito. Vou fazer questão de batalhar com você nas mesmas condições, usando CAPTURAS de aluguel também!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC15D",
+  "en": "We hope to see you again!",
+  "pt": "Esperamos te ver de novo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC177",
+  "en": "MARIO booted up the PC.",
+  "pt": "MARIO ligou o PC."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC18F",
+  "en": "Which PC should be accessed?",
+  "pt": "Qual PC você quer acessar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC1AC",
+  "en": "Accessed SOMEONE'S PC.",
+  "pt": "Acessou o PC DE ALGUÉM."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC1C3",
+  "en": "CAPTURE Storage System opened.",
+  "pt": "Sistema de Armazenamento de CAPTURAS aberto."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC1E2",
+  "en": "Accessed MARIO's PC.",
+  "pt": "Acessou o PC do MARIO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC1F7",
+  "en": "Accessed E. GADD's PC.",
+  "pt": "Acessou o PC do E. GADD."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC2BE",
+  "en": "Thank you for waiting.\\pWe've restored your CAPTURES\\nto full health.",
+  "pt": "Obrigado por esperar.\\pRestauramos a saúde das suas CAPTURAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC302",
+  "en": "We hope to see you again!",
+  "pt": "Esperamos te ver de novo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC31C",
+  "en": "Hello, and welcome to\\nthe CAPTURE CENTER.\\pWe restore your tired POKéMON\\nto full health.\\pWould you like to…",
+  "pt": "Olá, bem-vindo ao CENTRO CAPTURA.\\pNós restauramos a saúde das suas CAPTURAS cansadas.\\pVocê gostaria de…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC4E7",
+  "en": "Okay, I'll take your CAPTURES\\nfor a few seconds.",
+  "pt": "Certo, vou ficar com suas CAPTURAS por alguns segundos."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC518",
+  "en": "Thank you for waiting.",
+  "pt": "Obrigado por esperar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC52F",
+  "en": "We hope to see you again!",
+  "pt": "Esperamos te ver de novo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC549",
+  "en": "Sorry, but you are playing with\\nthe POKéCENTER challenge!\\pGood luck!{PAUSE_UNTIL_PRESS}",
+  "pt": "Desculpe, mas você está jogando com o desafio CENTRO CAPTURA!\\pBoa sorte!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC5E7",
+  "en": "Obtained the {STR_VAR_2}!",
+  "pt": "Você obteve {STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC609",
+  "en": "MARIO put away the {STR_VAR_2}\\nin the {STR_VAR_3} POCKET.",
+  "pt": "MARIO guardou {STR_VAR_2}\\nno BOLSO {STR_VAR_3}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC631",
+  "en": "TOAD put away the {STR_VAR_2}\\nin the {STR_VAR_3} POCKET.",
+  "pt": "TOAD guardou {STR_VAR_2}\\nno BOLSO {STR_VAR_3}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC658",
+  "en": "MARIO found one {STR_VAR_2}!",
+  "pt": "MARIO encontrou 1 {STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC66C",
+  "en": "CAPTAIN TOAD found one {STR_VAR_2}!",
+  "pt": "CAPTAIN TOAD encontrou 1 {STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC687",
+  "en": "Too bad!\\nThe BAG is full…",
+  "pt": "Que pena!\\nA BOLSA está cheia…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC6C3",
+  "en": "Put away the\\n{STR_VAR_2} in the BAG.",
+  "pt": "Guardou\\n{STR_VAR_2} na BOLSA."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC6DF",
+  "en": "Obtained the {STR_VAR_2}!",
+  "pt": "Você obteve {STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC6F0",
+  "en": "Too bad! There's no room left for\\nanother {STR_VAR_2}…",
+  "pt": "Que pena! Não há mais espaço\\npara {STR_VAR_2}…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC71E",
+  "en": "The {STR_VAR_2} was transferred\\nto the PC.",
+  "pt": "{STR_VAR_2} foi transferido\\npara o PC."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC740",
+  "en": "“Selected items for your convenience!”\\nPOKéMON MART",
+  "pt": "“Itens escolhidos pra você!”\\nLOJA"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC774",
+  "en": "“Rejuvenate your tired partners!”\\nPOKéMON CENTER",
+  "pt": "“Revigore seus parceiros!”\\nCENTRO CAPTURA"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC7A5",
+  "en": "{STR_VAR_1} might like this program.\\n… … … … … … … … … … … … … … … …\\pBetter get going!",
+  "pt": "{STR_VAR_1} talvez goste deste programa.\\n… … … … … … … … … … … … … … … …\\pMelhor ir andando!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC869",
+  "en": "An item in the BAG can be\\nregistered to SELECT for easy use.",
+  "pt": "Um item da BOLSA pode ser registrado no SELECT para uso rápido."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC970",
+  "en": "The link was canceled.",
+  "pt": "A conexão foi cancelada."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC9B7",
+  "en": "MARIO is out of usable\\nCAPTURES!\\pMARIO whited out!",
+  "pt": "MARIO não tem mais CAPTURAS em condições de lutar!\\pMARIO apagou!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EC9EA",
+  "en": "Registered {STR_VAR_1} {STR_VAR_2}\\nin the POKéNAV.",
+  "pt": "Registrou {STR_VAR_1} {STR_VAR_2}\\nno POKéNAV."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECAE2",
+  "en": "Your CAPTURE may be infected with\\nMUSHRUS.\\pLittle is known about the MUSHRUS\\nexcept that they are microscopic life-\\lforms that attach to CAPTURE.\\pWhile infected, CAPTURE are said to\\ngrow exceptionally well.",
+  "pt": "Sua CAPTURA pode estar infectada com MUSHRUS.\\pPouco se sabe sobre o MUSHRUS, exceto que são formas de vida microscópicas que se prendem às CAPTURAS.\\pDizem que, enquanto estão infectadas, as CAPTURAS crescem excepcionalmente bem."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECBB1",
+  "en": "MARIO used the KOOPA SHELL!",
+  "pt": "MARIO usou o CASCO KOOPA!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECC21",
+  "en": "I'm terribly sorry.\\nThe POKéMON WIRELESS CLUB is\\lundergoing adjustments now.",
+  "pt": "Sinto muito. O CLUBE SEM FIO está passando por ajustes no momento."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECC6E",
+  "en": "It appears to be undergoing\\nadjustments…",
+  "pt": "Parece estar passando por ajustes…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECD13",
+  "en": "MARIO handed over the\\n{STR_VAR_1}.",
+  "pt": "MARIO entregou\\n{STR_VAR_1}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECD2D",
+  "en": "Thank you for accessing the\\nMYSTERY GIFT System.",
+  "pt": "Obrigado por acessar o Sistema de PRESENTE MISTERIOSO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECD5E",
+  "en": "MARIO found one {STR_VAR_1}\\n{STR_VAR_2}!",
+  "pt": "MARIO encontrou 1 {STR_VAR_1}\\n{STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECD75",
+  "en": "CAPTAIN TOAD found one {STR_VAR_1}\\n{STR_VAR_2}!",
+  "pt": "CAPTAIN TOAD encontrou 1 {STR_VAR_1}\\n{STR_VAR_2}!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECDDA",
+  "en": "The {STR_VAR_1} flew away!",
+  "pt": "{STR_VAR_1} saiu voando!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECDEC",
+  "en": "{STR_VAR_2} was transferred to\\nSOMEONE'S PC.\\pIt was placed in \\nBOX “{STR_VAR_1}.”",
+  "pt": "{STR_VAR_2} foi enviado ao\\nPC DE ALGUÉM.\\pFoi colocado na\\nCAIXA “{STR_VAR_1}.”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECE2C",
+  "en": "{STR_VAR_2} was transferred to\\nE. GADD'S PC.\\pIt was placed in \\nBOX “{STR_VAR_1}.”",
+  "pt": "{STR_VAR_2} foi enviado ao\\nPC do E. GADD.\\pFoi colocado na\\nCAIXA “{STR_VAR_1}.”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECE6C",
+  "en": "BOX “{STR_VAR_3}” on\\nSOMEONE'S PC was full.\\p{STR_VAR_2} was transferred to\\nBOX “{STR_VAR_1}.”",
+  "pt": "A CAIXA “{STR_VAR_3}” do\\nPC DE ALGUÉM estava cheia.\\p{STR_VAR_2} foi enviado à\\nCAIXA “{STR_VAR_1}.”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECEAF",
+  "en": "BOX “{STR_VAR_3}” on\\nE. GADD'S PC was full.\\p{STR_VAR_2} was transferred to\\nBOX “{STR_VAR_1}.”",
+  "pt": "A CAIXA “{STR_VAR_3}” do\\nPC do E. GADD estava cheia.\\p{STR_VAR_2} foi enviado à\\nCAIXA “{STR_VAR_1}.”"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECEF2",
+  "en": "There's no more room for POKéMON!\\pThe POKéMON BOXES are full and\\ncan't accept any more!",
+  "pt": "Não há mais espaço para CAPTURAS!\\pAs CAIXAS de CAPTURAS estão cheias e não aceitam mais nenhuma!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ECFF7",
+  "en": "There is a questionnaire.\\nWould you like to fill it out?",
+  "pt": "Há um questionário aqui. Quer preenchê-lo?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED030",
+  "en": "Thank you for taking the time to\\nfill out our questionnaire.\\pYour feedback will be used for\\nfuture reference.",
+  "pt": "Obrigado por dedicar seu tempo a preencher o nosso questionário.\\pSua opinião será usada como referência no futuro."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED09E",
+  "en": "Oh, hello!\\nYou know those words?\\pThat means you must know about\\nthe MYSTERY GIFT.\\pFrom now on, you should be\\nreceiving MYSTERY GIFTS!\\pI should also let you know,\\nthere are some more hidden\\lphrases we know, so try to\\lfigure out the rest!",
+  "pt": "Ah, olá! Você conhece essas palavras?\\pIsso significa que você deve saber sobre o PRESENTE MISTERIOSO.\\pDe agora em diante, você vai receber PRESENTES MISTERIOSOS!\\pTambém devo avisar que conhecemos mais algumas frases escondidas, então tente descobrir o resto!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED18B",
+  "en": "Once you save your game, you can\\naccess the MYSTERY GIFT.",
+  "pt": "Depois de salvar o jogo, você pode acessar o PRESENTE MISTERIOSO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED1C5",
+  "en": "Oh, hello!\\nYou know those words?\\pThat means you must know about\\nthe MYSTERY EVENT.",
+  "pt": "Ah, olá! Você conhece essas palavras?\\pIsso significa que você deve saber sobre o EVENTO MISTERIOSO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED218",
+  "en": "Once you save your game, you can\\naccess the MYSTERY EVENT.",
+  "pt": "Depois de salvar o jogo, você pode acessar o EVENTO MISTERIOSO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED253",
+  "en": "Thank you for using the MYSTERY\\nEVENT System.\\pYou must be {PLAYER}.\\nThere is a ticket here for you.",
+  "pt": "Obrigado por usar o Sistema de EVENTO MISTERIOSO.\\pVocê deve ser {PLAYER}. Há um bilhete aqui para você."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED2B1",
+  "en": "It appears to be for use at\\nthe LILYCOVE CITY port.\\pWhy not give it a try and see what\\nit is about?",
+  "pt": "Parece ser para usar no porto de LILYCOVE CITY.\\pPor que não experimenta e descobre do que se trata?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED315",
+  "en": "Oh, hello!\\pYou know the first\\nSTARTER PACK phrase!\\pHere, take these!\\nMUSHROOMs to help you out\\lon your journey!",
+  "pt": "Ah, olá!\\pVocê conhece a primeira frase do KIT INICIAL!\\pTome, leve estes! COGUMELOS pra ajudar você na sua jornada!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED385",
+  "en": "Oh, hello!\\pYou know the second\\nSTARTER PACK phrase!\\pHere, take these!\\nCAPs to help you out\\lon your journey!",
+  "pt": "Ah, olá!\\pVocê conhece a segunda frase do KIT INICIAL!\\pTome, leve estes! CAPs pra ajudar você na sua jornada!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED3F1",
+  "en": "Oh, hello!\\pYou know the third\\nSTARTER PACK phrase!\\pHere, take these!\\nSYRUPs to help you out\\lon your journey!",
+  "pt": "Ah, olá!\\pVocê conhece a terceira frase do KIT INICIAL!\\pTome, leve estes! XAROPES pra ajudar você na sua jornada!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED45E",
+  "en": "Oh, MARIO!\\pLUIGI left this for\\nyou earlier!\\pThank you for reminding\\nme with the QUESTIONNAIRE!\\pHe also left this message:\\p'Make sure to tell MARIO\\nto eat his MUSHROOMs!'",
+  "pt": "Ah, MARIO!\\pO LUIGI deixou isto pra você mais cedo!\\pQue bom que você me lembrou com o QUESTIONÁRIO!\\pEle também deixou esta mensagem:\\p'Não se esqueça de dizer pro MARIO comer os COGUMELOS dele!'"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED508",
+  "en": "Oh, I'm sorry!\\nYou've already redeemed this gift.",
+  "pt": "Ah, me desculpe! Você já resgatou este presente."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED53A",
+  "en": "Yeah, I'm a fan of the\\ntoxic yaoi, too.",
+  "pt": "É, eu também sou fã de yaoi tóxico."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED562",
+  "en": "He said it!\\nHe said the line!\\pI have a very special gift\\nfor THE SUPER MARIO!\\pUse it thoughtfully and only\\nfor a very special moment.",
+  "pt": "Ele disse! Ele disse a frase!\\pTenho um presente muito especial para O SUPER MARIO!\\pUse com sabedoria e só num momento muito especial."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED5E8",
+  "en": "Oh, that's the HIDDEN PHRASE\\nfor the DOWSING MACHINE!\\pHere, it should help you find\\nmore hidden items around the world!",
+  "pt": "Ah, essa é a FRASE OCULTA do DETECTOR!\\pTome, ele deve ajudar você a encontrar mais itens escondidos pelo mundo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED660",
+  "en": "Hello, TOAD TOWN!\\pRev up those QUESTION BLOCKS\\ncause I am sure hungry for one-",
+  "pt": "Olá, CIDADE TOAD!\\pEsquentem esses BLOCOS DE INTERROGAÇÃO, porque eu tô morrendo de fome de um-"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED6AF",
+  "en": "Oh, hey MARIO!\\pI was just stopping into the\\nMART to grab some MUSHROOMs!\\pWhat are you doing here?\\pFilling out the QUESTIONNAIRE?\\pOoo I love puzzles! Can I see\\nwhat you have written so far?",
+  "pt": "Ah, oi, MARIO!\\pEu só passei na LOJA pra pegar uns COGUMELOS!\\pO que você está fazendo aqui?\\pPreenchendo o QUESTIONÁRIO?\\pOoo, eu adoro charadas! Posso ver o que você escreveu até agora?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED76C",
+  "en": "Oh, I get it! You want to\\nsolve it by yourself!\\pWell, I'll continue with\\nmy shopping then!",
+  "pt": "Ah, entendi! Você quer resolver sozinho!\\pBom, então vou continuar as minhas compras!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED7C7",
+  "en": "Here, I bought a couple more\\nMUSHROOMs than I needed!\\pPlease, take them! For\\nbeing a great friend!",
+  "pt": "Tome, comprei uns COGUMELOS a mais do que precisava!\\pPor favor, fique com eles! Por ser um grande amigo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED82A",
+  "en": "Make way for the PRINCESS!",
+  "pt": "Abram caminho para a PRINCESA!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED845",
+  "en": "The PRINCESS?!\\nHere in TOAD TOWN?!",
+  "pt": "A PRINCESA?!\\nAqui na CIDADE TOAD?!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED868",
+  "en": "Everyone, please carry on\\nwith your daily business.\\pWe are only here to run\\nsome errands.",
+  "pt": "Por favor, continuem com os seus afazeres.\\pEstamos aqui só para resolver algumas coisas."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED8C2",
+  "en": "MARIO, what a lovely surprise!\\pHave you been training your\\nCAPTUREs well? I'm sure you're\\ltreating them with care and respect.\\pDon't mind us, we're just taking\\ncare of some shopping.",
+  "pt": "MARIO, que surpresa adorável!\\pVocê tem treinado bem as suas CAPTURAS? Tenho certeza de que você as trata com cuidado e respeito.\\pNão se incomode com a gente, só estamos fazendo umas compras."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02ED979",
+  "en": "MASTER MARIO, I hope your time\\nplaying the C.A.P. CHALLENGE\\lhas been a fruitful endeavor.\\pPlease take this as our thanks\\nfor participating.",
+  "pt": "MESTRE MARIO, espero que o seu tempo jogando o DESAFIO C.A.P. tenha sido proveitoso.\\pPor favor, aceite isto como nosso agradecimento pela participação."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDA05",
+  "en": "Please visit the CASTLE from\\ntime to time. I always love your\\lsurprise visits.",
+  "pt": "Visite o CASTELO de vez em quando. Eu sempre adoro as suas visitas surpresa."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDA54",
+  "en": "WATCH OUT BELOW!!!",
+  "pt": "CUIDADO AÍ EMBAIXO!!!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDA67",
+  "en": "WOO HOO!\\nDAISY 3! Building 0!\\pOh, and sorry about the hole again.\\pYou can put it on PEACH's tab,\\nright? Right!",
+  "pt": "WOO HOO!\\nDAISY 3! Prédio 0!\\pAh, e foi mal pelo buraco de novo.\\pPode pôr na conta da PEACH, né? Né!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDAD6",
+  "en": "Is there any good reason you keep\\ncrashing into the TOAD TOWN MART?",
+  "pt": "Tem algum bom motivo pra você continuar se espatifando na LOJA da CIDADE TOAD?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDB1A",
+  "en": "Uuuuh, because it's awesome?\\nAnd I don't have that kind of\\ldistance with the CLOUD CAP MART.\\pJust face it, I'm not going to stop.\\nYou should just install that skylight\\linstead of fixing the hole this time.\\pAnyway, do you have my order ready?",
+  "pt": "Hãããã, porque é demais? E eu não tenho esse tipo de distância até a LOJA de CLOUD CAP.\\pAceita, eu não vou parar. Você devia era instalar aquela claraboia em vez de consertar o buraco desta vez.\\pEnfim, meu pedido está pronto?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDC0C",
+  "en": "Oh, MARIO! You're here too?\\pHow was my landing? So cool right!\\pMan, I wish LUIGI was here to see\\nit instead. Oh well, now you just\\lhave to tell him what happened!\\pHmm, I think I got more\\nMUSCLE FEATHERs than I wanted.\\pHere, take some!",
+  "pt": "Ah, MARIO! Você também tá aqui?\\pE aí, gostou do meu pouso? Muito maneiro, né?\\pPoxa, queria que o LUIGI estivesse aqui pra ver. Bom, agora você vai ter que contar pra ele o que aconteceu!\\pHum, acho que peguei mais PENAS MÚSCULO do que queria.\\pToma, fica com algumas!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDCF7",
+  "en": "I'll be seeing you around!\\nWe should play some more sports!",
+  "pt": "A gente se vê por aí! Temos que jogar mais esportes juntos!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDD33",
+  "en": "Thank youuuuuuu!",
+  "pt": "Obrigadaaaaaaa!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDD44",
+  "en": "WAAAAAAHAHAHHAHAAH!",
+  "pt": "WAAAAAAHAHAHHAHAAH!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDD58",
+  "en": "What are you two doing here…?",
+  "pt": "O que vocês dois estão fazendo aqui…?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDD76",
+  "en": "Hello MUSHROOM seller! We're going\\ninto battle, and we want\\lyour strongest lures!\\pLast I heard, they make finding\\nshinies easier! Whatever that means.",
+  "pt": "Olá, vendedor de COGUMELOS! Vamos pra batalha e queremos as suas iscas mais fortes!\\pPelo que ouvi, elas deixam mais fácil achar shinies! Seja lá o que isso for."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDE0D",
+  "en": "Oh yeah? Well, last I heard you\\nonly carry around PURPLE COINS, and\\lyou refuse to carry around ANY COINS!",
+  "pt": "Ah, é? Bom, pelo que eu ouvi, você só anda com MOEDAS ROXAS e se recusa a carregar QUALQUER MOEDA!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDE77",
+  "en": "That's not true! I have mountains of\\nCOINS! I can buy out this whole MART!",
+  "pt": "Não é verdade! Tenho montanhas de MOEDAS! Posso comprar esta LOJA inteira!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDEC2",
+  "en": "Ok.\\nDo it.",
+  "pt": "Tá.\\nCompra."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDECD",
+  "en": "Do you take FEATHERs?",
+  "pt": "Vocês aceitam PENAS?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDEE3",
+  "en": "Get out of my MART.",
+  "pt": "Fora da minha LOJA."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDEF7",
+  "en": "Fine! We didn't want the FEATHERs\\nanyway!",
+  "pt": "Tá bom! A gente nem queria as PENAS mesmo!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDF21",
+  "en": "I didn't-\\nugh.",
+  "pt": "Eu não-\\naff."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDF30",
+  "en": "MARIO, can you take these off my hands?",
+  "pt": "MARIO, dá pra ficar com isto pra mim?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDF58",
+  "en": "…and that's how I got my MONKEY\\nfor the 43rd year in a row.",
+  "pt": "…e foi assim que eu ganhei o meu MACACÃO pelo quadragésimo terceiro ano seguido."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EDF94",
+  "en": "You see how that name is funny?\\nBecause, we're monkeys, and the award\\lfor funniest KONG is also called\\la MONKEY-you know it's an award because\\lit ends in a -y, like in monkey.\\lI came up with the award myself.",
+  "pt": "Sacou por que o nome é engraçado? Porque nós somos macacos, e o prêmio de KONG mais engraçado também se chama MACACÃO-dá pra saber que é um prêmio porque termina em -ão, igual a campeão. Fui eu mesmo que inventei o prêmio."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE065",
+  "en": "DK, be a good son and finish our\\nshopping while I chat up MARIO.",
+  "pt": "DK, seja um bom filho e termine as nossas compras enquanto eu bato um papo com o MARIO."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE0A6",
+  "en": "MARIOOOOOOO, it's so great to see\\nyou! When was the last time you\\lcame to J-Apes for my comedy show?\\pI'm telling you, it's more fun than\\na barrel of monkeys! BAHAHAHAH!\\pSometimes I wonder if it's ever\\na mist-APE that I'm this good!\\pGet it cause-",
+  "pt": "MARIOOOOOOO, que bom te ver! Quando foi a última vez que você foi ao J-Apes ver meu show de comédia?\\pÉ sério, é mais divertido que um barril de macacos! BAHAHAHAH!\\pÀs vezes eu me pergunto se ser tão bom assim não é uma macaquice!\\pSacou, porque-"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE19C",
+  "en": "Oh, it looks like DK is done\\nshopping.",
+  "pt": "Ah, parece que o DK terminou as compras."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE1C3",
+  "en": "Someone left me these after my\\nlast show, and I frankly don't\\lknow what to do with them.\\pI think you'll figure out something\\nclever to do with them.",
+  "pt": "Alguém me deixou isto depois do meu último show, e eu sinceramente não sei o que fazer com elas.\\pAcho que você vai pensar em algo esperto pra fazer com elas."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE258",
+  "en": "Get it! Cause they're\\nCLEVER FEATHERs! HA!\\lCome by J-Apes when you can!\\lI know you can't get enough of me!",
+  "pt": "Sacou? Porque são PENAS ESPERTAS! HA! Passa no J-Apes quando puder! Eu sei que você não se cansa de mim!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE2C3",
+  "en": "Thank the stars he's gone.\\pOne more second and I'd be\\ncalling myself a fun-guy.",
+  "pt": "Graças às estrelas, ele foi embora.\\pMais um segundo e eu mesmo ia começar a fazer trocadilho de cogumelo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE313",
+  "en": "I'm so glad we took this vacation to\\nthe MUSHROOM KINGDOM! It's so peaceful.",
+  "pt": "Que bom que a gente tirou essas férias no REINO DOS COGUMELOS! É tão tranquilo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE360",
+  "en": "Space is also very peaceful…\\nbut a different type of peaceful…",
+  "pt": "O espaço também é muito tranquilo… mas é outro tipo de tranquilidade…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE39F",
+  "en": "And that's work! We promised there would\\nbe no work thoughts on this trip.",
+  "pt": "E isso é trabalho! A gente prometeu que não ia pensar em trabalho nesta viagem."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE3EA",
+  "en": "Then maybe we can start with some\\nfun thoughts…\\pLet me buy something for you…",
+  "pt": "Então talvez a gente possa começar com pensamentos divertidos…\\pDeixa eu comprar alguma coisa pra você…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE438",
+  "en": "Well I shouldn't be surprised\\nto see the SUPER STAR himself\\lin TOAD TOWN.\\pI can't really stay and chat,\\nme and ROSALINA have the whole day\\lplanned out and I want it to be SUPER!",
+  "pt": "Bom, eu não devia me surpreender em ver o grande SUPERASTRO em pessoa na CIDADE TOAD.\\pNão posso ficar pra conversar, eu e a ROSALINA temos o dia todo planejado e quero que seja SUPER!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE4EA",
+  "en": "I have everything we should need\\nfor some BERRY picking…\\pOh, PAULINE, you have something\\nin your hair. Hold still…\\pFeathers…?",
+  "pt": "Tenho tudo de que vamos precisar pra colher FRUTAS…\\pAh, PAULINE, tem uma coisa no seu cabelo. Fica parada…\\pPenas…?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE568",
+  "en": "Oh my stars, that's so embarassing!\\nWhen you're always on skyscrapers,\\lit's bound to happen.",
+  "pt": "Ai, minhas estrelas, que vergonha! Quando você vive em arranha-céus, isso acaba acontecendo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE5C5",
+  "en": "I think we're finally ready!\\nHope to see you around, MARIO!",
+  "pt": "Acho que finalmente estamos prontas! Espero te ver por aí, MARIO!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE601",
+  "en": "MARIO, could you take them for me?\\nThey're starting to remind me of work!",
+  "pt": "MARIO, pode ficar com elas pra mim? Estão começando a me lembrar do trabalho!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE64B",
+  "en": "KAMEEEEEEEEEEEK\\nwhen can we get some BERRIES!",
+  "pt": "KAMEEEEEEEEEEEK, quando a gente vai comprar FRUTAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE679",
+  "en": "After I finish our royal\\nshopping, then we can buy some.",
+  "pt": "Depois que eu terminar as compras reais, a gente compra algumas."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE6F9",
+  "en": "GAH! MARIO! You're here too?!\\pLook, we're not here to cause.\\nany trouble. Not that I need any\\lmore trouble with the PRINCE around.\\pIt's already a lot to help my\\nhighness, so I cherish the times\\lthat I can just be a caretaker.\\pHere, something to not attract.\\nJUNIOR's attention.",
+  "pt": "GAH! MARIO! Você também está aqui?!\\pOlha, não estamos aqui pra causar problemas. Não que eu precise de mais problemas com o PRÍNCIPE por perto.\\pJá é muito trabalho ajudar Sua Alteza, então eu valorizo os momentos em que posso ser só um cuidador.\\pTome, uma coisa pra não chamar a atenção do JUNIOR."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE80F",
+  "en": "My party is already trained\\nto the max, so I hope these\\lextra feathers can prove useful.\\pMy liege needs a tough rival\\nto stay in fighting shape.\\pAnd don't think this moment of\\nvulnerability means anything!\\lWe are still sworn enemies!",
+  "pt": "Minha equipe já está treinada ao máximo, então espero que estas penas extras sejam úteis.\\pMeu soberano precisa de um rival forte pra se manter em forma.\\pE não pense que este momento de fraqueza significa alguma coisa! Continuamos inimigos jurados!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE8F9",
+  "en": "Come on, my PRINCE. Let's\\nbuy some BERRIES.",
+  "pt": "Vamos, meu PRÍNCIPE. Vamos comprar umas FRUTAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE925",
+  "en": "Yay! BERRIES!",
+  "pt": "Eba! FRUTAS!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE933",
+  "en": "WAIT! MARIO?!\\pKAMEK! KAMEK! Let's beat\\nup MARIO for PAPA!",
+  "pt": "ESPERA! MARIO?!\\pKAMEK! KAMEK! Vamos dar uma surra no MARIO pelo PAPAI!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE96D",
+  "en": "If we beat up MARIO, then\\nwe won't have time for BERRIES.",
+  "pt": "Se a gente der uma surra no MARIO, não vai dar tempo de comprar FRUTAS."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE9A7",
+  "en": "GRR! You win this time! I'll\\nshow you how strong I am later!",
+  "pt": "GRR! Desta vez você venceu! Depois eu te mostro como eu sou forte!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EE9E4",
+  "en": "Oh! Oh! Can I terrorize the\\nTOADs like PAPA does?\\pMaybe they'll give us stuff\\nfor free!",
+  "pt": "Ah! Ah! Posso aterrorizar os TOADs igual o PAPAI faz?\\pVai que eles dão coisas de graça pra gente!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEA3C",
+  "en": "We don't need their free stuff\\nif we can pay for it just as well.\\pLet's be friendly and calm, alright?",
+  "pt": "Não precisamos das coisas de graça deles se podemos pagar do mesmo jeito.\\pVamos ser simpáticos e tranquilos, está bem?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEAA3",
+  "en": "Oh, uh, alright then.\\nThen BERRIES?",
+  "pt": "Ah, hã, tá bom então.\\nAí FRUTAS?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEAC7",
+  "en": "Anything for you, my PRINCE.",
+  "pt": "Tudo por você, meu PRÍNCIPE."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEAE4",
+  "en": "The game has begun.\\pAll you need is a FRANK's\\npoint of view.",
+  "pt": "O jogo começou.\\pTudo de que você precisa é do ponto de vista de um FRANK."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEB21",
+  "en": "WEIRD UNAVOIDABLE\\nFRANK PARTY\\pSet. 2 16 sepia 2 set",
+  "pt": ""
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEB55",
+  "en": "Set. All your FRANKs are now FRANKs!",
+  "pt": "Ativado. Todos os seus FRANKs agora são FRANKs!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEB7A",
+  "en": "Unset. All your FRANKs are no longer\\nFRANKs!",
+  "pt": "Desativado. Todos os seus FRANKs não são mais FRANKs!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEBA7",
+  "en": "Oh, MARIO! That's someones secret code!\\pThat same person left a note for me\\nto read to you! Ahem…\\p“Remember that time you went through\\nthe C.A.P. CHALLENGE again?\\pYou got pretty stuck in a spot close\\nto me. Maybe TIPTRON knows something.”\\pThat's all it says! Good luck!",
+  "pt": "Ah, MARIO! Esse é o código secreto de alguém!\\pEssa mesma pessoa deixou um bilhete pra eu ler pra você! Aham…\\p“Lembra daquela vez em que você passou pelo DESAFIO C.A.P. de novo?\\pVocê ficou bem preso num lugar perto de mim. Talvez o TIPTRON saiba de alguma coisa.”\\pÉ só isso! Boa sorte!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EECB5",
+  "en": "Oh, MARIO! That's someones secret code!\\pThat same person left a note for me\\nto read to you! Ahem…\\p“17159 6/11”\\pI have no idea what that means,\\nbut good luck!",
+  "pt": "Ah, MARIO! Esse é o código secreto de alguém!\\pEssa mesma pessoa deixou um bilhete pra eu ler pra você! Aham…\\p“17159 6/11”\\pNão faço ideia do que isso significa, mas boa sorte!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EED53",
+  "en": "Oh, MARIO! That's someones secret code!\\pThat same person left a note for me\\nto read to you! Ahem…\\p“A helpful friend has your next clue.”\\pI wonder who that helpful friend is?\\nGood luck!",
+  "pt": "Ah, MARIO! Esse é o código secreto de alguém!\\pEssa mesma pessoa deixou um bilhete pra eu ler pra você! Aham…\\p“Um amigo prestativo tem a sua próxima pista.”\\pQuem será esse amigo prestativo? Boa sorte!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEEC5",
+  "en": "You say I know a secret code?\\pHmm…let me check my bag…\\pOh! That's right! I got a note\\nfrom-OH! I almost spoiled that!\\pThe note reads…\\p“Concept 3045 4600,\\n1900 4715, 945 4170”\\pCryptic! I'd love to help more\\nbut I have no clue what that means!\\pGood luck!",
+  "pt": "Você diz que eu sei um código secreto?\\pHum… deixa eu ver na minha bolsa…\\pAh! É mesmo! Recebi um bilhete de-OH! Quase estraguei a surpresa!\\pO bilhete diz…\\p“Conceito 3045 4600,\\n1900 4715, 945 4170”\\pQue enigmático! Adoraria ajudar mais, mas não faço ideia do que isso significa!\\pBoa sorte!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EEFC2",
+  "en": "Oh, MARIO! That's someones secret code!\\pThat same person left a note for me\\nto read to you! Ahem…\\p“Someone unknowingly seeks idols in\\nanother dimension, but fortunately,\\lone parallel of the group exists.\\lShow them this parallel with the\\lfouth of the nest.”\\pGood luck!",
+  "pt": "Ah, MARIO! Esse é o código secreto de alguém!\\pEssa mesma pessoa deixou um bilhete pra eu ler pra você! Aham…\\p“Alguém, sem saber, procura ídolos em outra dimensão, mas, felizmente, existe um paralelo do grupo. Mostre a ele este paralelo com o quarto do ninho.”\\pBoa sorte!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EF0CE",
+  "en": "The massive downpour appears to\\nhave stopped…",
+  "pt": "A chuva torrencial parece ter parado…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02EF0FC",
+  "en": "The intense sunshine appears to\\nhave subsided…",
+  "pt": "O sol forte parece ter diminuído…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0403",
+  "en": "PEACH",
+  "pt": "PEACH",
+  "max_width": 36
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0414",
+  "en": "DAISY",
+  "pt": "DAISY",
+  "max_width": 36
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F041A",
+  "en": "WARIO",
+  "pt": "WARIO",
+  "max_width": 36
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0420",
+  "en": "WALUIGI",
+  "pt": "WALUIGI",
+  "max_width": 48
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0432",
+  "en": "PAULINE",
+  "pt": "PAULINE",
+  "max_width": 48
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F043A",
+  "en": "ROSALINA",
+  "pt": "ROSALINA",
+  "max_width": 54
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0443",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0449",
+  "en": "BOWSER JR.",
+  "pt": "BOWSER JR.",
+  "max_width": 60
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0FB0",
+  "en": "It's soft, loamy soil.",
+  "pt": "É um solo macio e fértil."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0FC7",
+  "en": "It's soft, loamy soil.\\nWant to plant a BERRY?",
+  "pt": "É um solo macio e fértil. Quer plantar uma FRUTA?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F0FF5",
+  "en": "{PLAYER} planted one {STR_VAR_1} in\\nthe soft, loamy soil.",
+  "pt": "{PLAYER} plantou 1 {STR_VAR_1} no solo macio e fértil."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1020",
+  "en": "One {STR_VAR_1} was planted here.",
+  "pt": "1 {STR_VAR_1} foi plantada aqui."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1039",
+  "en": "{STR_VAR_1} has sprouted.",
+  "pt": "{STR_VAR_1} brotou."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F104A",
+  "en": "This {STR_VAR_1} plant is growing taller.",
+  "pt": "Esta planta de {STR_VAR_1} está crescendo."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F106B",
+  "en": "These {STR_VAR_1} flowers are blooming\\n{STR_VAR_2}.",
+  "pt": "Estas flores de {STR_VAR_1}\\nestão florescendo {STR_VAR_2}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F109E",
+  "en": "cutely",
+  "pt": "de um jeito fofo"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F10AE",
+  "en": "You found {STR_VAR_2} {STR_VAR_1}!\\pDo you want to pick the\\n{STR_VAR_1}?",
+  "pt": "Você encontrou {STR_VAR_2} {STR_VAR_1}!\\pQuer colher\\n{STR_VAR_1}?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F10DB",
+  "en": "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}.",
+  "pt": "{PLAYER} colheu {STR_VAR_2} {STR_VAR_1}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F10F0",
+  "en": "{PLAYER} put away the {STR_VAR_1}\\nin the BAG's BERRIES POCKET.\\pThe soil returned to its soft and\\nloamy state.",
+  "pt": "{PLAYER} guardou {STR_VAR_1}\\nno BOLSO DE FRUTAS da BOLSA.\\pO solo voltou a ficar macio e fértil."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F114F",
+  "en": "The BAG's BERRIES POCKET is full.\\pThe {STR_VAR_1} couldn't be taken.",
+  "pt": "O BOLSO DE FRUTAS da BOLSA está cheio.\\pNão foi possível pegar {STR_VAR_1}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F118B",
+  "en": "{PLAYER} left the {STR_VAR_1}\\nunpicked.",
+  "pt": "{PLAYER} deixou {STR_VAR_1}\\nsem colher."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F11A4",
+  "en": "Want to water the {STR_VAR_1} with the\\nWAILMER PAIL?",
+  "pt": "Quer regar {STR_VAR_1} com o REGADOR?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F11D0",
+  "en": "{PLAYER} watered the {STR_VAR_1}.",
+  "pt": "{PLAYER} regou {STR_VAR_1}."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F11E3",
+  "en": "The plant seems to be delighted.",
+  "pt": "A planta parece estar contente."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1206",
+  "en": "If some vines drop down, this tree can\\nbe climbed.",
+  "pt": "Se algumas trepadeiras descerem, esta árvore pode ser escalada."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1239",
+  "en": "If some vines drop down, this tree can\\nbe climbed.\\pUse the SECRET POWER?",
+  "pt": "Se algumas trepadeiras descerem, esta árvore pode ser escalada.\\pUsar o PODER SECRETO?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1282",
+  "en": "A thick vine dropped down!",
+  "pt": "Uma trepadeira grossa desceu!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F129D",
+  "en": "If this clump of grass can be moved,\\nit might be possible to go inside.",
+  "pt": "Se este tufo de grama puder ser movido, talvez seja possível entrar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F12E5",
+  "en": "If this clump of grass can be moved,\\nit might be possible to go inside.\\pUse the SECRET POWER?",
+  "pt": "Se este tufo de grama puder ser movido, talvez seja possível entrar.\\pUsar o PODER SECRETO?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1343",
+  "en": "Discovered a small entrance!",
+  "pt": "Você descobriu uma pequena entrada!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1360",
+  "en": "Have you made a SECRET BASE already?\\pI went here, there, everywhere before\\nchoosing this place.\\pSince you're already here, how would\\nyou like to battle?",
+  "pt": "Você já fez uma BASE SECRETA?\\pEu fui aqui, ali, em todo lugar antes de escolher este cantinho.\\pJá que você está aqui, que tal uma batalha?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F13F9",
+  "en": "Okay!\\nHere we come!",
+  "pt": "Beleza!\\nLá vamos nós!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F140D",
+  "en": "Hunh?\\nOh, you can't now…",
+  "pt": "Hã?\\nAh, agora você não pode…"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F146A",
+  "en": "What do you think of my SECRET BASE?\\nCome visit me again tomorrow.",
+  "pt": "O que achou da minha BASE SECRETA? Venha me visitar de novo amanhã."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F14AD",
+  "en": "Have you made a SECRET BASE already?\\pI went here, there, everywhere before\\nchoosing this place.\\pFeel free to hang out!",
+  "pt": "Você já fez uma BASE SECRETA?\\pEu fui aqui, ali, em todo lugar antes de escolher este cantinho.\\pFique à vontade!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1524",
+  "en": "There're a lot of places where\\nyou can make a SECRET BASE.\\pBut I like this spot best.\\nDon't you think it's nice?\\pOh, would you like to have a battle?",
+  "pt": "Tem um monte de lugares onde dá pra fazer uma BASE SECRETA.\\pMas eu gosto mais deste lugar. Não acha legal?\\pAh, quer batalhar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F15BA",
+  "en": "Okay, here goes!",
+  "pt": "Beleza, lá vai!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F15CB",
+  "en": "Oh…\\nYou can't now, okay.",
+  "pt": "Ah…\\nAgora não dá, tudo bem."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F162C",
+  "en": "If you're in this area again,\\nI hope you'll visit me.",
+  "pt": "Se você passar por aqui de novo, espero que venha me visitar."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1662",
+  "en": "There're a lot of places where you can\\nmake a SECRET BASE.\\pBut I like this spot best.\\nDon't you think it's nice?",
+  "pt": "Tem um monte de lugares onde dá pra fazer uma BASE SECRETA.\\pMas eu gosto mais deste lugar. Não acha legal?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F16D3",
+  "en": "This is a popular spot.\\nIt's always taken.\\pOh! Were you thinking about\\ntaking this spot, too?\\pI'll tell you what, you can have this\\nspot if you can beat me.",
+  "pt": "Este lugar é bem disputado. Está sempre ocupado.\\pAh! Você também estava pensando em ficar com este lugar?\\pVou te dizer uma coisa: você pode ficar com ele se conseguir me vencer."
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1770",
+  "en": "Okay!\\nI'm going to defend my SECRET BASE!",
+  "pt": "Beleza!\\nVou defender a minha BASE SECRETA!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F179A",
+  "en": "Hunh? Is that right?\\nYou're not interested in this spot?",
+  "pt": "Hã? É mesmo? Você não está interessado neste lugar?"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F17F4",
+  "en": "Okay, when I move one day,\\nthis place will be yours!",
+  "pt": "Beleza, quando eu me mudar um dia, este lugar vai ser seu!"
+ },
+ {
+  "map": "15.2 NIGHTMARE",
+  "offset": "02F1829",
+  "en": "This is a popular spot.\\nIt's always taken.\\pI waited a long time for it to open.\\nI finally got to use it!",
+  "pt": "Este lugar é bem disputado. Está sempre ocupado.\\pEsperei muito tempo até ele vagar. Finalmente consegui usar!"
+ }
+]

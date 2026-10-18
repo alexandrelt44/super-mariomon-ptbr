@@ -1,0 +1,5936 @@
+[
+ {
+  "offset": "0808AEE",
+  "en": "A hold item that\\nraises the power of\\nSteel-type moves.",
+  "pt": "Item segurado que aumenta o poder de golpes do tipo Aço.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808B25",
+  "en": "Raises a move's\\npower, but permits\\nonly that move.",
+  "pt": "Aumenta o poder de\\num golpe, mas só\\nele pode ser usado.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0808B58",
+  "en": "Boosts Sp. Atk, but\\nallows the use of\\nonly one move.",
+  "pt": "Aumenta o At. Esp., mas só permite usar um golpe.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0808B8D",
+  "en": "Boosts Speed, but\\nallows the use of\\nonly one move.",
+  "pt": "Eleva a Velocidade,\\nmas só um golpe\\npode ser usado.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0808BC0",
+  "en": "A bizarre orb that\\ninflicts a burn on\\nholder in battle.",
+  "pt": "Orbe bizarro que queima o portador na batalha.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0808BF8",
+  "en": "A bizarre orb that\\nbadly poisons the\\nholder in battle.",
+  "pt": "Orbe bizarro que\\nintoxica o portador\\nna batalha.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0808C2F",
+  "en": "Extends the length\\nof Rain Dance if\\nused by the holder.",
+  "pt": "Prolonga a Dança da Chuva usada pelo portador.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0808C67",
+  "en": "Extends the length\\nof Sunny Day if\\nused by the holder.",
+  "pt": "Prolonga o Dia Ensolarado usado pelo portador.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0808C9E",
+  "en": "Extends the length\\nof Sandstorm if\\nused by the holder.",
+  "pt": "Prolonga a Tempestade de Areia usada pelo portador.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0808CD5",
+  "en": "Extends the length\\nof the move Hail\\nused by the holder.",
+  "pt": "Prolonga o golpe Granizo usado pelo portador.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0808D0D",
+  "en": "Boosts Defense on\\nElectric Terrain,\\nbut only one time.",
+  "pt": "Aumenta a Defesa no Terreno Elétrico, mas só uma vez.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0808D44",
+  "en": "Boosts Sp. Def. on\\nPsychic Terrain,\\nbut only one time.",
+  "pt": "Eleva a Def. Esp. no Terreno Psíquico, mas só uma vez.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0808D7B",
+  "en": "Boosts Sp. Def. on\\nMisty Terrain,\\nbut only one time.",
+  "pt": "Eleva a Def. Esp. no Terreno Nebuloso, mas só uma vez.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0808DB0",
+  "en": "Boosts Defense on\\nGrassy Terrain,\\nbut only one time.",
+  "pt": "Aumenta a Defesa no Terreno Gramado, mas só uma vez.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0808DE5",
+  "en": "Raises Sp. Atk if\\nthe holder is hit by\\na Water-type move.",
+  "pt": "Aumenta o At. Esp. se o portador levar um golpe do tipo Água.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808E1F",
+  "en": "Raises Atk if the\\nholder is hit by an\\nElectric-type move.",
+  "pt": "Eleva o Ataque se o portador levar um golpe Elétrico.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "0808E59",
+  "en": "Raises Sp. Def if\\nthe holder is hit by\\na Water-type move.",
+  "pt": "Eleva a Def. Esp. se\\no portador levar um\\ngolpe de Água.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808E93",
+  "en": "Raises Atk if its\\nholder is hit by an\\nIce-type move.",
+  "pt": "Aumenta o Ataque se o portador levar um golpe do tipo Gelo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0808EC8",
+  "en": "A hold item that\\ncasts a glare to\\nreduce accuracy.",
+  "pt": "Item segurado que ofusca e reduz a precisão.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "0808EFB",
+  "en": "A hold item that\\nrestores any\\nlowered stat.",
+  "pt": "Desfaz quedas de\\natributos se\\nsegurado.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0808F27",
+  "en": "This device gives\\nexp. to other\\nparty members.",
+  "pt": "Aparelho que dá Exp. a outros membros da equipe.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0808F56",
+  "en": "A hold item that\\noccasionally allows\\nthe first strike.",
+  "pt": "Item segurado que às vezes permite atacar primeiro.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808F8D",
+  "en": "A hold item that\\ncalms spirits and\\nfosters friendship.",
+  "pt": "Item segurado que acalma e promove a amizade.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0808FC4",
+  "en": "Snaps CAPTURES out\\nof move-binding\\neffects.",
+  "pt": "Livra CAPTURAS de efeitos de golpes que prendem.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0808FF0",
+  "en": "A hold item that\\nmay cause flinching\\nwhen the foe is hit.",
+  "pt": "Item segurado que\\npode fazer o alvo\\nrecuar ao atingi-lo.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080902A",
+  "en": "Doubles money in\\nbattle if the\\nholder takes part.",
+  "pt": "Dobra o dinheiro se o portador lutar na batalha.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080905C",
+  "en": "A hold item that\\nhelps repel wild\\nCAPTURES.",
+  "pt": "Item segurado. Repele CAPTURAS selvagens.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809088",
+  "en": "A hold item that\\nassures fleeing\\nfrom wild CAPTURES.",
+  "pt": "Item segurado que garante a fuga de CAPTURAS selvagens.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "08090BD",
+  "en": "A hold item that\\noccasionally\\nprevents fainting.",
+  "pt": "Item segurado que às vezes impede o desmaio.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "08090EE",
+  "en": "A hold item that\\nboosts Exp. points\\nearned in battle.",
+  "pt": "Item segurado que aumenta a Exp. ganha em batalha.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0809124",
+  "en": "A hold item that\\nimproves the\\ncritical-hit rate.",
+  "pt": "Item segurado que aumenta a taxa de acerto crítico.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0809155",
+  "en": "A hold item that\\ngradually restores\\nHP in battle.",
+  "pt": "Item segurado que restaura HP aos poucos na batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0809187",
+  "en": "A hold item that\\nrestores HP upon\\nstriking the foe.",
+  "pt": "Item segurado que restaura HP ao atingir o alvo.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "08091BB",
+  "en": "A magnifying lens\\nthat boosts the\\naccuracy of moves.",
+  "pt": "Lente de aumento que melhora a precisão dos golpes.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08091F0",
+  "en": "A headband that\\nboosts the power of\\nphysical moves.",
+  "pt": "Faixa de cabeça que aumenta o poder de golpes físicos.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "0809224",
+  "en": "A pair of glasses\\nthat ups the power\\nof special moves.",
+  "pt": "Óculos que aumentam o poder de golpes especiais.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080925B",
+  "en": "A belt that boosts\\nthe power of super\\neffective moves.",
+  "pt": "Cinto que aumenta o poder de golpes superefetivos.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0809292",
+  "en": "Extends the length\\nof barrier moves\\nused by the holder.",
+  "pt": "Prolonga golpes de barreira usados pelo portador.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "08092CA",
+  "en": "Boosts the power of\\nmoves at the cost\\nof some HP per turn.",
+  "pt": "Aumenta o poder dos golpes ao custo de HP a cada turno.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "0809305",
+  "en": "Allows immediate\\nuse of a move that\\ncharges first.",
+  "pt": "Permite usar na hora um golpe que precisa carregar.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0809338",
+  "en": "If the holder has\\nfull HP, it endures\\nKO hits with 1 HP.",
+  "pt": "Com HP cheio, o portador aguenta nocautes com 1 HP.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0809371",
+  "en": "If the holder moves\\nafter the foe, it'll\\nboost accuracy.",
+  "pt": "Se o portador agir depois do alvo, sua precisão aumenta.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08093AA",
+  "en": "A held item that\\nboosts a move used\\nconsecutively.",
+  "pt": "Item segurado que fortalece um golpe usado seguidamente.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08093DD",
+  "en": "Cuts Speed and lets\\nFlying-types be hit\\nby Ground moves.",
+  "pt": "Reduz a Velocidade e deixa o tipo Voador levar golpes de Terra.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "0809416",
+  "en": "A held item that\\nmakes the holder\\nmove slower.",
+  "pt": "Item segurado que faz o portador agir mais devagar.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "0809445",
+  "en": "If the holder falls\\nin love, the foe\\ndoes too.",
+  "pt": "Se o portador se apaixonar, o alvo também se apaixona.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0809474",
+  "en": "Gradually restores\\nHP of Poison-types.\\nDamages others.",
+  "pt": "Restaura o HP de\\ntipos Venenoso aos\\npoucos. Fere outros.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "08094AB",
+  "en": "Makes binding moves\\nused by the holder\\ngo on for 7 turns.",
+  "pt": "Golpes de prender usados pelo portador duram 7 turnos.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "08094E5",
+  "en": "Damages the holder\\neach turn. May\\nlatch on to foes.",
+  "pt": "Fere o portador a cada turno. Pode grudar no alvo.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0809519",
+  "en": "Enables the holder\\nto switch out of\\nbattle without fail.",
+  "pt": "Garante que o portador possa ser trocado na batalha.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "0809552",
+  "en": "A held item that\\nboosts the power of\\nHP-stealing moves.",
+  "pt": "Item segurado que aumenta o poder de golpes que drenam HP.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "080958A",
+  "en": "A hooked claw that\\nups the holder's\\ncritical-hit ratio.",
+  "pt": "Garra em gancho que aumenta a taxa de crítico do portador.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "08095C2",
+  "en": "A hold item that\\nmay cause flinching\\nwhen the foe is hit.",
+  "pt": "Item segurado que\\npode fazer o alvo\\nrecuar ao atingi-lo.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08095FC",
+  "en": "Raises the Def and\\nSp. Def of CAPTURES\\nthat can evolve.",
+  "pt": "Aumenta a Defesa e a Def. Esp. de CAPTURAS que podem evoluir.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0809634",
+  "en": "It's so light that\\nwhen held, it halves\\na CAPTURE's weight.",
+  "pt": "Tão leve que corta\\no peso da CAPTURA\\npela metade.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0809670",
+  "en": "Hurts the foe if\\nthey touch its\\nholder.",
+  "pt": "Fere o alvo se ele tocar no portador.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "0809698",
+  "en": "Elevates the holder\\nin the air. If hit,\\nthis item will burst.",
+  "pt": "Faz o portador\\nflutuar. Estoura se\\nfor atingido.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "08096D6",
+  "en": "Switches out the\\nfoe if they hit the\\nholder.",
+  "pt": "Força a troca do alvo se ele atingir o portador.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0809703",
+  "en": "Moves that wouldn't\\nhave effect will\\nland on its holder.",
+  "pt": "Golpes que não teriam efeito acertam o portador.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "080973C",
+  "en": "Increases the\\npower of binding\\nmoves when held.",
+  "pt": "Fortalece golpes\\nde prender quando\\nsegurado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "080976C",
+  "en": "Switches out the\\nuser if they're hit\\nby the foe.",
+  "pt": "Força a troca do portador se ele for atingido.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080979D",
+  "en": "If hit by a Super\\nEffective move, ups\\nAtk and Sp. Atk.",
+  "pt": "Se levar golpe\\nsuperefetivo, eleva\\no Ataque e o At. Esp.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "08097D4",
+  "en": "Raises Sp. Def but\\nprevents the use\\nof status moves.",
+  "pt": "Aumenta a Def. Esp., mas impede golpes de status.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0809809",
+  "en": "Protect from\\nweather damage and\\npowder moves.",
+  "pt": "Protege de dano do clima e de golpes de pó.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0809837",
+  "en": "Boosts Speed if the\\nuser is intimidated,\\nbut only one time.",
+  "pt": "Eleva a Velocidade\\nse for intimidado,\\nmas só uma vez.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "0809873",
+  "en": "Extends the length\\nof the active\\nbattle terrain.",
+  "pt": "Prolonga a duração do terreno de batalha ativo.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "08098A4",
+  "en": "Guard the holder\\nfrom contact move\\neffects.",
+  "pt": "Protege o portador de efeitos de golpes de contato.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "08098D0",
+  "en": "Raises Sp. Atk. if\\nthe holder uses a\\nsound-based move.",
+  "pt": "Aumenta o At. Esp. se o portador usar um golpe sonoro.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0809907",
+  "en": "Forces the user to\\nswitch if its stats\\nare lowered.",
+  "pt": "Força a troca do portador se seus atributos caírem.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080993B",
+  "en": "Boots that prevent\\neffects of traps\\nset in the field.",
+  "pt": "Botas que evitam efeitos de armadilhas no campo.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0809971",
+  "en": "Raises Speed if\\nthe user misses\\ndue to Accuracy.",
+  "pt": "Eleva a Velocidade\\nse o portador\\nerrar um golpe.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "08099A2",
+  "en": "Lowers Speed if\\nTrick Room is\\nactive.",
+  "pt": "Reduz a Veloc. se\\na Sala Truque\\nestiver ativa.",
+  "max_lines": 3,
+  "max_width": 91
+ },
+ {
+  "offset": "08099C8",
+  "en": "An umbrella that\\nprotects from\\nweather effects.",
+  "pt": "Guarda-chuva que protege dos efeitos do clima.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "08099F8",
+  "en": "A hold item that\\nheals paralysis\\nin battle.",
+  "pt": "Se segurado, cura a paralisia na batalha.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809A24",
+  "en": "A hold item that\\nawakens CAPTURES\\nin battle.",
+  "pt": "Item segurado que acorda CAPTURAS na batalha.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0809A51",
+  "en": "A hold item that\\nheals poisoning\\nin battle.",
+  "pt": "Se segurado, cura o envenenamento na batalha.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809A7D",
+  "en": "A hold item that\\nheals a burn in\\nbattle.",
+  "pt": "Se segurado, cura queimaduras na batalha.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809AA6",
+  "en": "A hold item that\\ndefrosts CAPTURES\\nin battle.",
+  "pt": "Item segurado que\\ndescongela a\\nCAPTURA na batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0809AD4",
+  "en": "A hold item that\\nrestores 10 PP in\\nbattle.",
+  "pt": "Item segurado que restaura 10 PP na batalha.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0809AFF",
+  "en": "A hold item that\\nrestores 10 HP in\\nbattle.",
+  "pt": "Item segurado que restaura 10 HP na batalha.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0809B2A",
+  "en": "A hold item that\\nheals confusion\\nin battle.",
+  "pt": "Se segurado, cura a confusão na batalha.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809B56",
+  "en": "A hold item that\\nheals any status\\nproblem in battle.",
+  "pt": "Se segurado, cura\\nqualquer problema\\nde status.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0809B8B",
+  "en": "A hold item that\\nrestores the user's\\nHP a little.",
+  "pt": "Item segurado que restaura um pouco do HP do usuário.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0809BBD",
+  "en": "A hold item that\\nrestores HP but\\nmay confuse.",
+  "pt": "Se segurado, restaura HP, mas pode confundir.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809BEB",
+  "en": "A hold item that\\nrestores HP but\\nmay confuse.",
+  "pt": "Se segurado, restaura HP, mas pode confundir.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809C19",
+  "en": "A hold item that\\nrestores HP but\\nmay confuse.",
+  "pt": "Se segurado, restaura HP, mas pode confundir.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809C47",
+  "en": "A hold item that\\nrestores HP but\\nmay confuse.",
+  "pt": "Se segurado, restaura HP, mas pode confundir.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809C75",
+  "en": "A hold item that\\nrestores HP but\\nmay confuse.",
+  "pt": "Se segurado, restaura HP, mas pode confundir.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0809DAB",
+  "en": "Makes a CAPTURE\\nfriendly but lowers\\nbase HP.",
+  "pt": "Deixa a CAPTURA amigável, mas reduz o HP base.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0809DD8",
+  "en": "Makes a CAPTURE\\nfriendly but lowers\\nbase Attack.",
+  "pt": "Deixa a CAPTURA amigável, mas reduz o Ataque base.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0809E09",
+  "en": "Makes a CAPTURE\\nfriendly but lowers\\nbase Defense.",
+  "pt": "Deixa a CAPTURA amigável, mas reduz a Defesa base.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0809E3B",
+  "en": "Makes a CAPTURE\\nfriendly but lowers\\nbase Sp. Atk.",
+  "pt": "Deixa a CAPTURA amigável, mas reduz o At. Esp. base.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0809E6D",
+  "en": "Makes a CAPTURE\\nfriendly but lowers\\nbase Sp. Def.",
+  "pt": "Deixa a CAPTURA amigável, mas reduz a Def. Esp. base.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0809E9F",
+  "en": "Makes a CAPTURE\\nfriendly but lowers\\nbase Speed.",
+  "pt": "Deixa a CAPTURA amigável, mas reduz a Velocidade base.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080A0B1",
+  "en": "A hold item that\\nweakens a Normal\\nmove.",
+  "pt": "Item segurado que enfraquece um golpe Normal.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "080A0D9",
+  "en": "A hold item that\\nweakens a Fire\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe de Fogo\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A10D",
+  "en": "A hold item that\\nweakens a Water\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe de Água\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A142",
+  "en": "A hold item that\\nweakens a Electric\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Elétrico\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080A17A",
+  "en": "A hold item that\\nweakens a Grass\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Planta\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A1AF",
+  "en": "A hold item that\\nweakens a Ice\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe de Gelo\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A1E2",
+  "en": "A hold item that\\nweakens a Fighting\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Lutador\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080A21A",
+  "en": "A hold item that\\nweakens a Poison\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe super-\\nefetivo Venenoso.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A250",
+  "en": "A hold item that\\nweakens a Ground\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Terra\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A286",
+  "en": "A hold item that\\nweakens a Flying\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Voador\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A2BC",
+  "en": "A hold item that\\nweakens a Psychic\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe super-\\nefetivo Psíquico.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A2F3",
+  "en": "A hold item that\\nweakens a Bug\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Inseto\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A326",
+  "en": "A hold item that\\nweakens a Rock\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Pedra\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A35A",
+  "en": "A hold item that\\nweakens a Ghost\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe super-\\nefetivo Fantasma.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A38F",
+  "en": "A hold item that\\nweakens a Dragon\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Dragão\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A3C5",
+  "en": "A hold item that\\nweakens a Dark\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe Sombrio\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A3F9",
+  "en": "A hold item that\\nweakens a Steel\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe de Aço\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A42E",
+  "en": "A hold item that\\nweakens a Fairy\\nmove if weak to it.",
+  "pt": "Item segurado que\\nreduz golpe de Fada\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080A463",
+  "en": "A hold item that\\nraises Attack in\\na pinch.",
+  "pt": "Em apuros, eleva o Ataque se segurado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "080A48E",
+  "en": "A hold item that\\nraises Defense in\\na pinch.",
+  "pt": "Em apuros, eleva a Defesa se segurado.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "080A4BA",
+  "en": "A hold item that\\nraises Speed in\\na pinch.",
+  "pt": "Em apuros, eleva a Velocidade se segurado.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "080A4E4",
+  "en": "A hold item that\\nraises Sp. Atk in\\na pinch.",
+  "pt": "Em apuros, eleva o At. Esp. se segurado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "080A510",
+  "en": "A hold item that\\nraises Sp. Def in\\na pinch.",
+  "pt": "Em apuros, eleva a Def. Esp. se segurado.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "080A53C",
+  "en": "A hold item that\\nups the critical-\\nhit rate in a pinch.",
+  "pt": "Item segurado que aumenta a taxa de crítico em apuros.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080A574",
+  "en": "A hold item that\\nsharply boosts a\\nstat in a pinch.",
+  "pt": "Em apuros, eleva\\nmuito um atributo\\nse segurado.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "080A5A7",
+  "en": "A hold item that\\nheals from super\\neffective moves.",
+  "pt": "Se segurado, cura\\nao levar golpe\\nsuperefetivo.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "080A5DA",
+  "en": "When held, it ups\\nthe Accuracy of a\\nmove in a pinch.",
+  "pt": "Se segurado, eleva\\na precisão de um\\ngolpe em apuros.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080A60F",
+  "en": "It allows a CAPTURE\\nin a pinch to move\\nfirst just once.",
+  "pt": "Permite que uma CAPTURA em apuros aja primeiro uma vez.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080A647",
+  "en": "If hit by a physical\\nmove, it will hurt\\nthe attacker a bit.",
+  "pt": "Se levar um golpe físico, fere um pouco o atacante.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080A683",
+  "en": "If hit by a special\\nmove, it will hurt\\nthe attacker a bit.",
+  "pt": "Se levar um golpe especial, fere um pouco o atacante.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080A6BE",
+  "en": "If hit by a physical\\nmove, it raises the\\nDefense a bit.",
+  "pt": "Se levar um golpe físico, aumenta um pouco a Defesa.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080A6F6",
+  "en": "If hit by a special\\nmove, it raises the\\nSp. Def. a bit.",
+  "pt": "Se levar um golpe especial, aumenta um pouco a Def. Esp.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080A767",
+  "en": "Powerful, but makes\\nthe user flinch if\\nhit by the foe.",
+  "pt": "Poderoso, mas o usuário vacila se for atingido pelo alvo.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080A79E",
+  "en": "Hooks and slashes\\nthe foe with long,\\nsharp claws.",
+  "pt": "Arranha e corta o alvo com garras longas e afiadas.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080A7D0",
+  "en": "Generates an\\nultrasonic wave\\nthat may confuse.",
+  "pt": "Gera uma onda ultrassônica que pode confundir.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080A7FF",
+  "en": "Raises Sp. Atk and\\nSp. Def by focusing\\nthe mind.",
+  "pt": "Eleva o At. Esp. e a Def. Esp. focando a mente.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080A830",
+  "en": "A savage roar that\\nmakes the foe flee \\nto end the battle.",
+  "pt": "Um rugido feroz que faz o alvo fugir e encerra a batalha.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080A86A",
+  "en": "Poisons the foe\\nwith a toxin that\\ngradually worsens.",
+  "pt": "Envenena o alvo com uma toxina que piora aos poucos.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080A89F",
+  "en": "Creates a hailstorm\\nthat damages all\\ntypes except Ice.",
+  "pt": "Cria granizo que\\nfere todos, exceto\\no tipo Gelo.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080A8D6",
+  "en": "Bulks up the body\\nto boost both\\nAttack & Defense.",
+  "pt": "Fortalece o corpo para aumentar o Ataque e a Defesa.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080A908",
+  "en": "Shoots 2 to 5 seeds\\nin a row to strike\\nthe foe.",
+  "pt": "Dispara de 2 a 5 sementes seguidas no alvo.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080A938",
+  "en": "The attack power\\nvaries among\\ndifferent CAPTURES.",
+  "pt": "O poder do ataque varia de uma CAPTURA para outra.",
+  "max_lines": 3,
+  "max_width": 115
+ },
+ {
+  "offset": "080A96A",
+  "en": "Raises the power of\\nFire-type moves\\nfor 5 turns.",
+  "pt": "Aumenta o poder de golpes de Fogo por 5 turnos.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080A99B",
+  "en": "Enrages the foe so\\nit can only use\\nattack moves.",
+  "pt": "Provoca o alvo para que ele só use golpes de ataque.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080A9CC",
+  "en": "Fires an icy cold\\nbeam that may\\nfreeze the foe.",
+  "pt": "Dispara um raio gelado que pode congelar o alvo.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "080A9FC",
+  "en": "A brutal snow-and-\\nwind attack that\\nmay freeze the foe.",
+  "pt": "Ataque brutal de neve e vento que pode congelar o alvo.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080AA34",
+  "en": "Powerful, but needs\\nrecharging the\\nnext turn.",
+  "pt": "Poderoso, mas precisa recarregar no turno seguinte.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080AA62",
+  "en": "Creates a wall of\\nlight that lowers\\nSp. Atk damage.",
+  "pt": "Cria uma parede de luz que reduz o dano especial.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "080AA96",
+  "en": "Negates all damage,\\nbut may fail if used\\nin succession.",
+  "pt": "Anula todo o dano, mas pode falhar se usado seguidamente.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080AACE",
+  "en": "Raises the power of\\nWater-type moves\\nfor 5 turns.",
+  "pt": "Aumenta o poder de golpes de Água por 5 turnos.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080AB00",
+  "en": "Recovers half the\\nHP of the damage \\nthis move inflicts.",
+  "pt": "Recupera metade do dano que este golpe causa.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080AB38",
+  "en": "Prevents status\\nabnormality with a\\nmystical power.",
+  "pt": "Um poder místico impede problemas de status.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080AB6B",
+  "en": "The less the user\\nlikes you, the more\\npowerful this move.",
+  "pt": "Mais forte quanto\\nmenos o usuário\\ngostar de você.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080ABA5",
+  "en": "Absorbs sunlight in\\nthe 1st turn, then\\nattacks next turn.",
+  "pt": "Absorve luz solar num turno e ataca no seguinte.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080ABDF",
+  "en": "Slams the foe with\\na hard tail. It may\\nlower Defense.",
+  "pt": "Golpeia com uma\\ncauda dura. Pode\\nreduzir a Defesa.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080AC15",
+  "en": "A powerful electric\\nattack that may\\ncause paralysis.",
+  "pt": "Ataque elétrico poderoso que pode paralisar.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080AC4A",
+  "en": "Strikes the foe\\nwith a thunderbolt.\\nIt may paralyze.",
+  "pt": "Atinge o alvo com um raio. Pode paralisar.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080AC7F",
+  "en": "Causes a quake\\nthat has no effect\\non flying foes.",
+  "pt": "Causa um terremoto que não afeta alvos voadores.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080ACB1",
+  "en": "The more the user\\nlikes you, the more\\npowerful this move.",
+  "pt": "Mais forte quanto\\nmais o usuário\\ngostar de você.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080ACEB",
+  "en": "Digs underground\\nthe 1st turn, then\\nstrikes next turn.",
+  "pt": "Cava no primeiro turno e ataca no seguinte.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080AD22",
+  "en": "A powerful psychic\\nattack that may\\nlower Sp. Def.",
+  "pt": "Ataque psíquico poderoso que pode reduzir a Def. Esp.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080AD54",
+  "en": "Hurls a dark lump\\nat the foe. It may\\nlower Sp. Def.",
+  "pt": "Lança uma massa\\nsombria. Pode\\nreduzir a Def. Esp.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080AD88",
+  "en": "Destroys barriers\\nlike Light Screen\\nand causes damage.",
+  "pt": "Destrói barreiras como Tela de Luz e causa dano.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080ADBF",
+  "en": "Creates illusory\\ncopies to enhance\\nelusiveness.",
+  "pt": "Cria cópias ilusórias para aumentar a evasão.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080ADEF",
+  "en": "Creates a wall of\\nlight that weakens\\nphysical attacks.",
+  "pt": "Cria uma parede de luz que enfraquece ataques físicos.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080AE26",
+  "en": "Zaps the foe with a\\njolt of electricity\\nthat never misses.",
+  "pt": "Dá um choque elétrico no alvo que nunca erra.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080AE61",
+  "en": "Looses a stream of\\nfire that may burn\\nthe foe.",
+  "pt": "Solta um jato de fogo que pode queimar o alvo.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080AE90",
+  "en": "Hurls sludge at the\\nfoe. It may poison\\nthe foe.",
+  "pt": "Arremessa lodo no alvo. Pode envenená-lo.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080AEC0",
+  "en": "Causes a sandstorm\\nthat hits the foe\\nover several turns.",
+  "pt": "Cria uma tempestade\\nde areia que fere\\npor vários turnos.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080AEF9",
+  "en": "A powerful fire\\nattack that may\\nburn the foe.",
+  "pt": "Ataque de fogo\\nforte que pode\\nqueimar o alvo.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "080AF27",
+  "en": "Stops the foe from\\nmoving with rocks.\\nMay lower Speed.",
+  "pt": "Prende o alvo com pedras. Pode reduzir a Velocidade.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080AF5E",
+  "en": "An extremely fast\\nattack that can't\\nbe avoided.",
+  "pt": "Ataque muito rápido que não pode ser evitado.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080AF8E",
+  "en": "Prevents the foe\\nfrom using the same\\nmove in a row.",
+  "pt": "Impede o alvo de usar o mesmo golpe seguidamente.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080AFC2",
+  "en": "Raises Attack when\\npoisoned, burned,\\nor paralyzed.",
+  "pt": "Eleva o Ataque com\\nveneno, queimadura\\nou paralisia.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080AFF5",
+  "en": "Adds an effect to\\nattack depending\\non the location.",
+  "pt": "Adiciona um efeito ao ataque conforme o local.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080B029",
+  "en": "The user sleeps for\\n2 turns to restore\\nhealth and status.",
+  "pt": "O usuário dorme 2\\nturnos e recupera\\nHP e status.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080B063",
+  "en": "Makes it tough to\\nattack a foe of the\\nopposite gender.",
+  "pt": "Dificulta atacar um alvo do gênero oposto.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B09A",
+  "en": "While attacking,\\nit may steal the\\nfoe's held item.",
+  "pt": "Ao atacar, pode roubar o item segurado do alvo.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "080B0CD",
+  "en": "Spreads hard-\\nedged wings and\\nslams into the foe.",
+  "pt": "Abre asas afiadas e golpeia o alvo.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080B0FF",
+  "en": "Switches abilities\\nwith the foe on the\\nturn this is used.",
+  "pt": "Troca de habilidade com o alvo no turno em que é usado.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080B139",
+  "en": "Steals the effects\\nof the move the foe\\nis trying to use.",
+  "pt": "Rouba os efeitos do golpe que o alvo tenta usar.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B172",
+  "en": "Enables full-power\\nattack, but sharply\\nlowers Sp. Atk.",
+  "pt": "Ataque com força total, mas reduz muito o At. Esp.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B2D5",
+  "en": "Attacks the foe\\nwith sharp blades\\nor claws.",
+  "pt": "Ataca o alvo com lâminas ou garras afiadas.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "080B301",
+  "en": "Flies up on the\\nfirst turn, then\\nattacks next turn.",
+  "pt": "Voa no primeiro turno e ataca no seguinte.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080B335",
+  "en": "Creates a huge\\nwave, then crashes\\nit down on the foe.",
+  "pt": "Cria uma onda enorme e a joga sobre o alvo.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080B36B",
+  "en": "Builds enormous\\npower, then slams\\nthe foe.",
+  "pt": "Acumula um poder enorme e golpeia o alvo.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "080B396",
+  "en": "Looses a powerful\\nblast of light that\\nreduces accuracy.",
+  "pt": "Solta um forte clarão de luz que reduz a precisão.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080B3CE",
+  "en": "A rock-crushingly\\ntough attack that\\nmay lower Defense.",
+  "pt": "Ataque forte que\\nesmaga rochas. Pode\\nreduzir a Defesa.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080B405",
+  "en": "Attacks the foe\\nwith enough power\\nto climb waterfalls.",
+  "pt": "Ataca com força suficiente para subir cachoeiras.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B43C",
+  "en": "Dives underwater\\nthe 1st turn, then\\nattacks next turn.",
+  "pt": "Mergulha no primeiro turno e ataca no seguinte.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080B473",
+  "en": "Raises the chance\\nof finding eggs\\nat the daycare.",
+  "pt": "Aumenta a chance de achar ovos na CRECHE.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080B4A5",
+  "en": "A charm that will\\nraise the chance\\nof Shiny CAPTURES.",
+  "pt": "Amuleto que aumenta a chance de CAPTURAS Shiny.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080B4DB",
+  "en": "A charm that raises\\nthe chance of\\nCritical Captures.",
+  "pt": "Amuleto que aumenta a chance de Captura Crítica.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080B510",
+  "en": "A charm that raises\\nthe amount of Exp.\\nearned in battle.",
+  "pt": "Amuleto que aumenta a Exp. ganha em batalha.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080B549",
+  "en": "A catalog full of\\ndevices liked by\\nRotom.",
+  "pt": "Catálogo cheio de aparelhos que o Rotom adora.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "080B573",
+  "en": "Bouquets made with\\nit are offered as a\\ntoken of gratitude.",
+  "pt": "Buquês feitos com ela são oferecidos em gratidão.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B5AE",
+  "en": "This glass returns\\na Pokémon back to\\nits original form.",
+  "pt": "Este espelho devolve uma CAPTURA à forma original.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080B5E6",
+  "en": "Splicer that fuses\\nKyurem and a\\ncertain Pokémon.",
+  "pt": "Fusor que funde Kyurem e uma certa CAPTURA.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080B617",
+  "en": "An item to store\\nZygarde Cores and\\nCells.",
+  "pt": "Item para guardar Núcleos e Células de Zygarde.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080B641",
+  "en": "A bottle used to\\nseal a certain\\nPokémon long ago.",
+  "pt": "Garrafa usada para\\nselar uma CAPTURA\\nhá muito tempo.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "080B673",
+  "en": "A device to fuse\\nand split Necrozma\\nusing a Solgaleo.",
+  "pt": "Aparelho para fundir e separar Necrozma com Solgaleo.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080B6A9",
+  "en": "A device to fuse\\nand split Necrozma\\nusing a Lunala.",
+  "pt": "Aparelho para fundir e separar Necrozma com Lunala.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080B6DD",
+  "en": "Reins that unite\\nCalyrex with its\\nbeloved steed.",
+  "pt": "Rédeas que unem Calyrex à sua amada montaria.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "080B70E",
+  "en": "Enables {PK}{MN} holding\\ntheir Mega Stone to\\nMega Evolve.",
+  "pt": "Permite que CAPTURAS com sua Pedra Mega façam Mega Evolução.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B742",
+  "en": "A strange ring\\nthat enables\\nZ-Move usage.",
+  "pt": "Anel estranho que permite usar Golpes Z.",
+  "max_lines": 3,
+  "max_width": 84
+ },
+ {
+  "offset": "080B76C",
+  "en": "A band carrying a\\nWishing Star that\\nallows Dynamaxing.",
+  "pt": "Faixa com Estrela\\ndos Desejos que\\npermite o Dynamax.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080B7A3",
+  "en": "A folding bicycle\\nthat is faster than\\nthe Running Shoes.",
+  "pt": "Bicicleta dobrável mais rápida que o Tênis de Corrida.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B7DC",
+  "en": "A racing kart\\nthat doubles your\\nspeed or better.",
+  "pt": "Kart de corrida que dobra sua velocidade ou mais.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080B80D",
+  "en": "A magic whistle\\nthat summons a\\nYOSHI to ride.",
+  "pt": "Apito mágico que chama um YOSHI para montar.",
+  "max_lines": 3,
+  "max_width": 88
+ },
+ {
+  "offset": "080B83B",
+  "en": "Use by any body of\\nwater to fish for\\nwild CAPTURES.",
+  "pt": "Use em qualquer água para pescar CAPTURAS selvagens.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080B86F",
+  "en": "A decent fishing\\nrod for catching\\nwild CAPTURES.",
+  "pt": "Uma boa vara para\\npescar CAPTURAS\\nselvagens.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "080B8A0",
+  "en": "The best fishing\\nrod for catching\\nwild CAPTURES.",
+  "pt": "A melhor vara para\\npescar CAPTURAS\\nselvagens.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "080B8D1",
+  "en": "A device that\\nsignals an invisible\\nitem by sound.",
+  "pt": "Aparelho que indica itens invisíveis com som.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B903",
+  "en": "Can be viewed\\nanytime. Shows your\\npresent location.",
+  "pt": "Pode ser visto a qualquer hora. Mostra onde você está.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B937",
+  "en": "A rechargeable unit\\nthat flags battle-\\nready Trainers.",
+  "pt": "Aparelho que indica\\nTREINADORES prontos\\npara lutar de novo.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080B96E",
+  "en": "A convenient case \\nthat holds TMs and\\nHMs.",
+  "pt": "Estojo prático que guarda TMs e HMs.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080B999",
+  "en": "A convenient\\ncontainer that\\nholds Berries.",
+  "pt": "Recipiente prático que guarda Frutas.",
+  "max_lines": 3,
+  "max_width": 88
+ },
+ {
+  "offset": "080B9C4",
+  "en": "This device grants\\naccess to the {PK}{MN}\\nStorage System.",
+  "pt": "Aparelho que dá acesso ao Sistema de Armazenamento.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080B9F8",
+  "en": "A case that holds\\nup to 9,999\\nPURPLE COINS.",
+  "pt": "Estojo que guarda até 9.999 MOEDAS ROXAS.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "080BA24",
+  "en": "Stores Berry\\nPowder made using\\na Berry Crusher.",
+  "pt": "Guarda Pó de Fruta feito no Esmaga-Frutas.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080BA54",
+  "en": "A tool used for\\nwatering Berries\\nand plants.",
+  "pt": "Ferramenta para regar Frutas e plantas.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "080BA81",
+  "en": "A tool used to\\nsearch out Pokémon\\nhiding in grass.",
+  "pt": "Ferramenta para achar CAPTURAS escondidas no mato.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080BAE9",
+  "en": "A sack used to\\ngather and hold\\nvolcanic ash.",
+  "pt": "Saco que coleta e\\nguarda cinzas\\nvulcânicas.",
+  "max_lines": 3,
+  "max_width": 91
+ },
+ {
+  "offset": "080BB16",
+  "en": "A sweet-sounding\\nflute that awakens\\nPokémon.",
+  "pt": "Flauta de som doce que desperta CAPTURAS.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080BB43",
+  "en": "Stores information\\non famous people\\nfor instant recall.",
+  "pt": "Guarda informações\\nde famosos para\\nconsulta rápida.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080BB7B",
+  "en": "A TV set tuned to\\nan advice program\\nfor Trainers.",
+  "pt": "TV sintonizada num programa de dicas para TREINADORES.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080BBAD",
+  "en": "The ticket required\\nfor sailing on a\\nferry.",
+  "pt": "Bilhete necessário para viajar de balsa.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080BBD9",
+  "en": "The ticket for a\\nferry to a distant\\nsouthern island.",
+  "pt": "Bilhete de balsa para uma ilha distante ao sul.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "080BC0E",
+  "en": "A ticket required\\nto board the ship\\nto Navel Rock.",
+  "pt": "Bilhete para embarcar no navio para Navel Rock.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "080BC41",
+  "en": "A ticket required\\nto board the ship\\nto Birth Island.",
+  "pt": "Bilhete para embarcar no navio para Birth Island.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "080BC76",
+  "en": "A faded sea chart\\nthat shows the way\\nto a certain island.",
+  "pt": "Carta náutica velha\\nque mostra o caminho\\npara uma ilha.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080BCB0",
+  "en": "A letter to Steven\\nfrom the President\\nof the Devon Corp.",
+  "pt": "Carta para Steven do Presidente da Devon Corp.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080BCE9",
+  "en": "A package that\\ncontains Devon's\\nmachine parts.",
+  "pt": "Pacote com peças de máquina da Devon.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "080BD18",
+  "en": "Nifty goggles that\\nprotect eyes from\\ndesert sandstorms.",
+  "pt": "Óculos ótimos que\\nprotegem os olhos\\nda areia do deserto.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080BD50",
+  "en": "A device by Devon\\nthat signals any\\nunseeable Pokémon.",
+  "pt": "Aparelho da Devon que revela CAPTURAS invisíveis.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080BD86",
+  "en": "The key for New\\nMauville beneath\\nMauville City.",
+  "pt": "A chave de New Mauville, sob Mauville City.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "080BDB6",
+  "en": "A device found\\ninside the\\nAbandoned Ship.",
+  "pt": "Aparelho achado dentro do Abandoned Ship.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "080BDE0",
+  "en": "The key to the\\nstorage inside the\\nAbandoned Ship.",
+  "pt": "Chave do depósito dentro do Abandoned Ship.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080BE12",
+  "en": "A key that opens a\\ndoor inside the\\nAbandoned Ship.",
+  "pt": "Chave que abre uma porta dentro do Abandoned Ship.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080BE45",
+  "en": "A key that opens a\\ndoor inside the\\nAbandoned Ship.",
+  "pt": "Chave que abre uma porta dentro do Abandoned Ship.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080BE78",
+  "en": "A key that opens a\\ndoor inside the\\nAbandoned Ship.",
+  "pt": "Chave que abre uma porta dentro do Abandoned Ship.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080BEAB",
+  "en": "A key that opens a\\ndoor inside the\\nAbandoned Ship.",
+  "pt": "Chave que abre uma porta dentro do Abandoned Ship.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080BEDE",
+  "en": "A meteorite found\\nat Meteor Falls.",
+  "pt": "Meteorito achado em Meteor Falls.",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "080BF01",
+  "en": "A medal-like item in\\nthe same shape as\\nTeam Magma's mark.",
+  "pt": "Medalha com o mesmo\\nformato da marca da\\nEquipe Magma.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080BF3B",
+  "en": "The pass required\\nfor entering\\nPokémon Contests.",
+  "pt": "Passe necessário para entrar nos Concursos.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080BF6C",
+  "en": "A parcel for Prof.\\nOak from a Pokémon\\nMart's clerk.",
+  "pt": "Encomenda ao Prof.\\nOak de um atendente\\nde loja.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080BFA0",
+  "en": "The key to the\\nCinnabar Island\\nGym's entrance.",
+  "pt": "Chave da entrada\\ndo Ginásio de\\nCinnabar Island.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "080BFCF",
+  "en": "A voucher for\\nobtaining a bicycle\\nfrom the Bike Shop.",
+  "pt": "Vale para ganhar uma bicicleta na Loja de Bicicletas.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080C005",
+  "en": "Gold dentures lost\\nby the Safari\\nZone's Warden.",
+  "pt": "Dentadura de ouro perdida pelo Guarda da Safari Zone.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080C035",
+  "en": "A card-type door\\nkey used in Silph\\nCo's office.",
+  "pt": "Cartão-chave do\\nescritório da\\nSilph Co.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "080C065",
+  "en": "An elevator key\\nused in Team\\nRocket's Hideout.",
+  "pt": "Chave do elevador do Esconderijo da Equipe Rocket.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "080C094",
+  "en": "Silph Co's scope\\nmakes unseeable\\nPOKéMON visible.",
+  "pt": "Lente da Silph Co.\\nRevela CAPTURAS\\ninvisíveis.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "080C0C6",
+  "en": "A pass for ferries\\nbetween One, Two,\\nand Three Island.",
+  "pt": "Passe para as balsas entre One, Two e Three Island.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080C0FD",
+  "en": "For ferries serving\\nVermilion and the\\nSevii Islands.",
+  "pt": "Para balsas entre Vermilion e as Sevii Islands.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080C132",
+  "en": "A thirst-quenching\\ntea prepared by an\\nold lady.",
+  "pt": "Chá refrescante preparado por uma senhora.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080C162",
+  "en": "An exquisite, red-\\nglowing gem that\\nsymbolizes passion.",
+  "pt": "Gema vermelha e brilhante que simboliza a paixão.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080C19A",
+  "en": "A brilliant blue gem\\nthat symbolizes\\nhonesty.",
+  "pt": "Gema azul brilhante que simboliza a honestidade.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080C1C8",
+  "en": "Ability changes are\\nprevented for this\\nitems's holder.",
+  "pt": "Impede mudanças de habilidade no portador.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080C1FF",
+  "en": "Stat lowering is\\nprevented for this\\nitems's holder.",
+  "pt": "Impede a redução de atributos do portador.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080C233",
+  "en": "Powers up punching\\nmoves and removes\\ntheir contact.",
+  "pt": "Fortalece golpes de soco e remove o contato deles.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080C267",
+  "en": "Protects the holder\\nfrom secondary\\nmove effects.",
+  "pt": "Protege o portador de efeitos secundários de golpes.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "080C298",
+  "en": "Rolls high numbers.\\nMultihit strikes\\nhit more times.",
+  "pt": "Tira números altos. Golpes múltiplos acertam mais vezes.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080C2CD",
+  "en": "Armor inhabited by\\nauspicious wishes.\\nCauses evolution.",
+  "pt": "Armadura de desejos\\nauspiciosos. Causa\\nevolução.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080C305",
+  "en": "Encapsuled energy\\nups Pokémon with\\ncertain Abilities.",
+  "pt": "Energia em cápsula\\nque ativa certas\\nHabilidades.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080C33B",
+  "en": "A large and rare\\nbamboo shoot. Best\\nsold to gourmands.",
+  "pt": "Broto de bambu grande e raro. Melhor vender a gourmets.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080C372",
+  "en": "Gimmighoul hoard\\nand treasure these\\ncurious coins.",
+  "pt": "Gimmighoul juntam e valorizam estas moedas curiosas.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080C3A5",
+  "en": "A shard of an old\\nblade of some sort.\\nHeld by Bisharp.",
+  "pt": "Fragmento de lâmina\\nantiga. Segurado\\npor Bisharp.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080C3DC",
+  "en": "Armor inhabited by\\nmalicious will.\\nCauses evolution.",
+  "pt": "Armadura com uma\\nvontade maligna.\\nCausa evolução.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "080C411",
+  "en": "Mirrors an enemy's\\nstat increases\\nbut only once.",
+  "pt": "Copia aumentos de\\natributo do inimigo,\\nmas só uma vez.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080C442",
+  "en": "A peculiar scroll\\nwith secrets of\\nthe dark path.",
+  "pt": "Pergaminho raro\\ncom segredos do\\ncaminho sombrio.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "080C473",
+  "en": "A peculiar scroll\\nwith secrets of\\nthe water path.",
+  "pt": "Pergaminho raro\\ncom segredos do\\ncaminho da água.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "080C4A5",
+  "en": "Energy charges can\\nbe used to cause\\nTerastallization.",
+  "pt": "Cargas de energia podem ser usadas para Terastalizar.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080C4DB",
+  "en": "A small and rare\\nbamboo shoot. Best\\nsold to gourmands.",
+  "pt": "Broto de bambu raro\\ne pequeno. Melhor\\nvender a gourmets.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080C512",
+  "en": "These shards may\\nform when a Tera\\nPokémon faints.",
+  "pt": "Surgem quando uma\\nCAPTURA Tera\\ndesmaia.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "080C544",
+  "en": "A large, glowing gem\\nthat lets Dialga\\nchange form.",
+  "pt": "Gema grande e brilhante que muda a forma de Dialga.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080C577",
+  "en": "A large, glowing gem\\nthat lets Giratina\\nchange form.",
+  "pt": "Gema grande e brilhante que muda a forma de Giratina.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080C5AC",
+  "en": "A large, glowing gem\\nthat lets Palkia\\nchange form.",
+  "pt": "Gema grande e brilhante que muda a forma de Palkia.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080C5DF",
+  "en": "Sharply boosts\\nAttack, but causes\\nlasting confusion.",
+  "pt": "Aumenta muito o Ataque, mas causa confusão duradoura.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080C614",
+  "en": "View info on\\ncurrently accepted\\nquests.",
+  "pt": "Mostra as missões aceitas no momento.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080C63C",
+  "en": "MONKEESE translator\\nso that MARIO can\\nunderstand KONGs.",
+  "pt": "Tradutor de MONKEESE para MARIO entender os KONGs.",
+  "max_lines": 3,
+  "max_width": 117
+ },
+ {
+  "offset": "080C674",
+  "en": "Use the R BUTTON in\\nthe party menu to\\naccess this.",
+  "pt": "Use o BOTÃO R no menu da equipe para acessar.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080C6A7",
+  "en": "Allows warping to\\ntowns you've\\nbeen to.",
+  "pt": "Permite viajar até cidades já visitadas.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "080C6CF",
+  "en": "Star shards that\\nLUMA find\\ndelicious.",
+  "pt": "Fragmentos de\\nestrela que os\\nLUMA adoram comer.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "080C6F5",
+  "en": "Found in BOWSER'S\\nCASTLE. Shaped like\\na BULLET BILL.",
+  "pt": "Achado no CASTELO DO BOWSER. Tem forma de BULLET BILL.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080C72A",
+  "en": "Found in BOWSER'S\\nCASTLE. Shaped like\\na bubble?",
+  "pt": "Achado no CASTELO DO BOWSER. Tem forma de bolha?",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080C75A",
+  "en": "Found in BOWSER'S\\nCASTLE. Shaped like\\nBOWSER's head.",
+  "pt": "Achado no CASTELO DO BOWSER. Tem forma da cabeça do BOWSER.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080C78F",
+  "en": "GADD SCIENCE\\ninvention that\\nprevents battles.",
+  "pt": "Invenção da GADD SCIENCE que evita batalhas.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080C7BD",
+  "en": "This blue shell\\nis perfect for\\nriding waves.",
+  "pt": "Casco azul ótimo\\npara surfar nas\\nondas.",
+  "max_lines": 3,
+  "max_width": 86
+ },
+ {
+  "offset": "080C7EA",
+  "en": "A small cutting\\ninstrument best for\\nclearing bushes.",
+  "pt": "Instrumento de corte pequeno, ideal para limpar arbustos.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "080C81F",
+  "en": "A small wooden\\nmallet. It can\\nsmash rocks.",
+  "pt": "Martelinho de\\nmadeira. Quebra\\npedras.",
+  "max_lines": 3,
+  "max_width": 84
+ },
+ {
+  "offset": "080C84A",
+  "en": "Portable suit made\\nfor diving from\\nthe SURFBOARD.",
+  "pt": "Traje portátil para mergulhar da PRANCHA.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080C87C",
+  "en": "A bright lantern\\nthat can light dark\\ncaves.",
+  "pt": "Lanterna forte que ilumina cavernas escuras.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080C8A8",
+  "en": "A special glove\\nthat makes moving\\nheavy rocks easy.",
+  "pt": "Luva especial que facilita mover pedras pesadas.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "08111FB",
+  "en": " Smoke Ball",
+  "pt": "",
+  "max_width": 80
+ },
+ {
+  "offset": "0811BAA",
+  "en": "  Bluk Berry",
+  "pt": "",
+  "max_width": 83
+ },
+ {
+  "offset": "081499C",
+  "en": "An item that resets\\nall base points of\\na CAPTURE.",
+  "pt": "Item que zera todos os pontos base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08149CE",
+  "en": "Raises the level\\nof a CAPTURE to\\nthe lvl cap.",
+  "pt": "Sobe o nível de uma CAPTURA até o limite de nível.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "08149FC",
+  "en": "Raises the level\\nof a CAPTURE by\\none.",
+  "pt": "Aumenta em um o nível de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "081546C",
+  "en": "ÈÀPOOCHY",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "081701B",
+  "en": "You don't have enough PURPLE COINS.{PAUSE_UNTIL_PRESS}",
+  "pt": "Você não tem MOEDAS ROXAS suficientes.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0817041",
+  "en": "{STR_VAR_1}? And you wanted {STR_VAR_2}?\\nThat will be {STR_VAR_3} PURPLE COINS.",
+  "pt": "{STR_VAR_1}? E você quer {STR_VAR_2}?\\nVai custar {STR_VAR_3} MOEDAS ROXAS.",
+  "max_lines": 2,
+  "max_width": 190
+ },
+ {
+  "offset": "0817094",
+  "en": "0Á2Á4Á7Á9Á?ÁBlooms with delicate pretty flowers.",
+  "pt": ""
+ },
+ {
+  "offset": "08170A0",
+  "en": "Blooms with delicate pretty flowers.",
+  "pt": "Floresce com flores bonitas e delicadas."
+ },
+ {
+  "offset": "08170C5",
+  "en": "The bright red Berry is very spicy.",
+  "pt": "Esta Fruta vermelho-vivo é bem picante."
+ },
+ {
+  "offset": "08170E9",
+  "en": "The Berry's thick skin and fruit are",
+  "pt": "A casca grossa e a polpa desta Fruta são"
+ },
+ {
+  "offset": "081710E",
+  "en": "very tough. It is dry-tasting all over.",
+  "pt": "muito duras. Tem sabor seco por inteiro."
+ },
+ {
+  "offset": "0817136",
+  "en": "Very sweet and delicious.",
+  "pt": "Muito doce e deliciosa.",
+  "max_width": 155
+ },
+ {
+  "offset": "0817150",
+  "en": "Also very tender - handle with care.",
+  "pt": "Também é bem macia - manuseie com cuidado."
+ },
+ {
+  "offset": "0817175",
+  "en": "If the leaves grow long and curly,",
+  "pt": "Se as folhas crescerem longas e enroladas,"
+ },
+ {
+  "offset": "0817198",
+  "en": "the Berry seems to grow very bitter.",
+  "pt": "a Fruta parece ficar muito amarga."
+ },
+ {
+  "offset": "08171BD",
+  "en": "The hard Berry is dense with a rich",
+  "pt": "Esta Fruta dura é cheia de um suco"
+ },
+ {
+  "offset": "08171E1",
+  "en": "juice. It is quite sour.",
+  "pt": "denso. É bem azeda.",
+  "max_width": 142
+ },
+ {
+  "offset": "08171FA",
+  "en": "Grows slower than Cheri and others.",
+  "pt": "Cresce mais devagar que a Cheri e outras."
+ },
+ {
+  "offset": "081721E",
+  "en": "The smaller the Berry, the tastier.",
+  "pt": "Quanto menor a Fruta, mais saborosa."
+ },
+ {
+  "offset": "0817242",
+  "en": "A peculiar Berry with a mix of flavors.",
+  "pt": "Uma Fruta peculiar com sabores mistos."
+ },
+ {
+  "offset": "081726A",
+  "en": "Berries grow in half a day.",
+  "pt": "Cresce em meio dia.",
+  "max_width": 159
+ },
+ {
+  "offset": "0817286",
+  "en": "Loves sunlight. The Berry's color",
+  "pt": "Adora luz do sol. A cor da Fruta fica"
+ },
+ {
+  "offset": "08172A8",
+  "en": "grows vivid when exposed to the sun.",
+  "pt": "mais viva quando exposta ao sol."
+ },
+ {
+  "offset": "08172CD",
+  "en": "Slow to grow. If raised with loving",
+  "pt": "Cresce devagar. Se cultivada com carinho,"
+ },
+ {
+  "offset": "08172F1",
+  "en": "care, it may grow two Berries.",
+  "pt": "pode dar duas Frutas."
+ },
+ {
+  "offset": "0817310",
+  "en": "Closely related to Oran. The large",
+  "pt": "Parente próxima da Oran. Esta Fruta grande"
+ },
+ {
+  "offset": "0817333",
+  "en": "Berry has a well-rounded flavor.",
+  "pt": "tem um sabor bem equilibrado."
+ },
+ {
+  "offset": "0817354",
+  "en": "The Berry, which looks chewed up,",
+  "pt": "Esta Fruta, que parece mastigada,"
+ },
+ {
+  "offset": "0817376",
+  "en": "brims with spicy substances.",
+  "pt": "é cheia de substâncias picantes.",
+  "max_width": 173
+ },
+ {
+  "offset": "0817393",
+  "en": "The Berry is said to have grown lumpy",
+  "pt": "Dizem que esta Fruta ficou cheia de caroços"
+ },
+ {
+  "offset": "08173B9",
+  "en": "to help Pokémon grip it.",
+  "pt": "para as CAPTURAS pegarem.",
+  "max_width": 146
+ },
+ {
+  "offset": "08173D2",
+  "en": "The Berry turns curvy as it grows.",
+  "pt": "A Fruta fica curvada conforme cresce."
+ },
+ {
+  "offset": "08173F5",
+  "en": "The curvier, the sweeter and tastier.",
+  "pt": "Quanto mais curva, mais doce e gostosa."
+ },
+ {
+  "offset": "081741B",
+  "en": "The flower is dainty. It is rare in its",
+  "pt": "A flor é delicada. É rara por sua"
+ },
+ {
+  "offset": "0817443",
+  "en": "ability to grow without light.",
+  "pt": "capacidade de crescer sem luz."
+ },
+ {
+  "offset": "0817462",
+  "en": "The Berry is very big and sour.",
+  "pt": "Esta Fruta é muito grande e azeda."
+ },
+ {
+  "offset": "0817482",
+  "en": "It takes at least a day to grow.",
+  "pt": "Leva pelo menos um dia para crescer."
+ },
+ {
+  "offset": "08174A3",
+  "en": "The red Berry tastes slightly spicy.",
+  "pt": "Esta Fruta vermelha é levemente picante."
+ },
+ {
+  "offset": "08174C8",
+  "en": "It grows quickly in just four hours.",
+  "pt": "Cresce rápido, em apenas quatro horas."
+ },
+ {
+  "offset": "08174ED",
+  "en": "The Berry is blue on the outside, but",
+  "pt": "A Fruta é azul por fora, mas"
+ },
+ {
+  "offset": "0817513",
+  "en": "it blackens the mouth when eaten.",
+  "pt": "deixa a boca preta quando comida."
+ },
+ {
+  "offset": "0817535",
+  "en": "This Berry was the seventh",
+  "pt": "Esta foi a sétima Fruta",
+  "max_width": 164
+ },
+ {
+  "offset": "0817550",
+  "en": "discovered in the world. It is sweet.",
+  "pt": "descoberta no mundo. É doce."
+ },
+ {
+  "offset": "0817576",
+  "en": "The flower is small and white. It has a",
+  "pt": "A flor é pequena e branca. Tem um"
+ },
+ {
+  "offset": "081759E",
+  "en": "delicate balance of bitter and sour.",
+  "pt": "equilíbrio delicado entre amargo e azedo."
+ },
+ {
+  "offset": "08175C3",
+  "en": "Weak against wind and cold.",
+  "pt": "Fraca contra vento e frio.",
+  "max_width": 165
+ },
+ {
+  "offset": "08175DF",
+  "en": "The fruit is spicy and the skin, sour.",
+  "pt": "A polpa é picante e a casca, azeda."
+ },
+ {
+  "offset": "0817606",
+  "en": "However much it is watered,",
+  "pt": "Por mais que seja regada,",
+  "max_width": 165
+ },
+ {
+  "offset": "0817622",
+  "en": "it only grows up to six Berries.",
+  "pt": "só dá no máximo seis Frutas."
+ },
+ {
+  "offset": "0817643",
+  "en": "A rare variety shaped like a root.",
+  "pt": "Uma variedade rara em forma de raiz."
+ },
+ {
+  "offset": "0817666",
+  "en": "Grows a very large flower.",
+  "pt": "Dá uma flor muito grande.",
+  "max_width": 157
+ },
+ {
+  "offset": "0817681",
+  "en": "Loves water. Grows strong even in",
+  "pt": "Adora água. Cresce forte até em"
+ },
+ {
+  "offset": "08176A3",
+  "en": "locations with constant rainfall.",
+  "pt": "lugares onde chove sem parar."
+ },
+ {
+  "offset": "08176C5",
+  "en": "A Berry that is very valuable and",
+  "pt": "Uma Fruta muito valiosa e"
+ },
+ {
+  "offset": "08176E7",
+  "en": "rarely seen. It is very delicious.",
+  "pt": "rara de se ver. É deliciosa."
+ },
+ {
+  "offset": "081770A",
+  "en": "Despite its tenderness and round",
+  "pt": "Apesar de macia e redonda,"
+ },
+ {
+  "offset": "081772B",
+  "en": "shape, the Berry is unimaginably sour.",
+  "pt": "esta Fruta é inimaginavelmente azeda."
+ },
+ {
+  "offset": "0817752",
+  "en": "The Berry is lip-bendingly spicy.",
+  "pt": "Esta Fruta é picante de entortar a boca."
+ },
+ {
+  "offset": "0817774",
+  "en": "It takes time to grow.",
+  "pt": "Leva tempo para crescer.",
+  "max_width": 138
+ },
+ {
+  "offset": "081778B",
+  "en": "A Berry from an ancient era. May not",
+  "pt": "Uma Fruta de uma era antiga. Pode não"
+ },
+ {
+  "offset": "08177B0",
+  "en": "grow unless planted in quantity.",
+  "pt": "crescer se não for plantada em quantidade."
+ },
+ {
+  "offset": "08177D1",
+  "en": "A Berry that is widely said to have",
+  "pt": "Uma Fruta que, segundo dizem,"
+ },
+ {
+  "offset": "08177F5",
+  "en": "a finely balanced flavor.",
+  "pt": "tem um sabor bem equilibrado.",
+  "max_width": 153
+ },
+ {
+  "offset": "081780F",
+  "en": "A rare variety that is overgrown with",
+  "pt": "Uma variedade rara coberta de"
+ },
+ {
+  "offset": "0817835",
+  "en": "hair. It is quite bitter.",
+  "pt": "pelos. É bem amarga.",
+  "max_width": 146
+ },
+ {
+  "offset": "081784F",
+  "en": "Quite sour. Just one bite makes it",
+  "pt": "Bem azeda. Uma só mordida deixa você"
+ },
+ {
+  "offset": "0817872",
+  "en": "impossible to taste for three days.",
+  "pt": "sem sentir gosto por três dias."
+ },
+ {
+  "offset": "0817896",
+  "en": "The vividly red Berry is very spicy.",
+  "pt": "Esta Fruta vermelho-vivo é muito picante."
+ },
+ {
+  "offset": "08178BB",
+  "en": "Its warts secrete a spicy substance.",
+  "pt": "Suas verrugas soltam uma substância picante."
+ },
+ {
+  "offset": "08178E0",
+  "en": "Drifts on the sea from somewhere.",
+  "pt": "Vem boiando pelo mar de algum lugar."
+ },
+ {
+  "offset": "0817902",
+  "en": "It is thought to grow elsewhere.",
+  "pt": "Acredita-se que cresça em outro lugar."
+ },
+ {
+  "offset": "0817923",
+  "en": "A huge Berry, with some over 20",
+  "pt": "Uma Fruta enorme; já acharam algumas com"
+ },
+ {
+  "offset": "0817943",
+  "en": "inches discovered. Exceedingly sweet.",
+  "pt": "mais de 20 polegadas. Extremamente doce."
+ },
+ {
+  "offset": "0817969",
+  "en": "A huge Berry, with some over half a",
+  "pt": "Uma Fruta enorme; já acharam algumas com"
+ },
+ {
+  "offset": "081798D",
+  "en": "meter discovered. Exceedingly sweet.",
+  "pt": "mais de meio metro. Extremamente doce."
+ },
+ {
+  "offset": "08179B2",
+  "en": "Bitter to even look at. It is so",
+  "pt": "Amarga só de olhar. É tão amarga"
+ },
+ {
+  "offset": "08179D3",
+  "en": "bitter, no one has ever eaten it as is.",
+  "pt": "que ninguém nunca a comeu pura."
+ },
+ {
+  "offset": "08179FB",
+  "en": "It is glossy and looks delicious, but",
+  "pt": "É brilhante e parece deliciosa, mas"
+ },
+ {
+  "offset": "0817A21",
+  "en": "it is awfully sour. Takes time to grow.",
+  "pt": "é muito azeda. Leva tempo para crescer."
+ },
+ {
+  "offset": "0817A49",
+  "en": "It can be made into a whistle that",
+  "pt": "Pode virar um apito que produz"
+ },
+ {
+  "offset": "0817A6C",
+  "en": "produces an indescribable sound.",
+  "pt": "um som indescritível."
+ },
+ {
+  "offset": "0817A8D",
+  "en": "Said to grow in the tropics once,",
+  "pt": "Dizem que já cresceu nos trópicos e"
+ },
+ {
+  "offset": "0817AAF",
+  "en": "it boasts an intensely hot spiciness.",
+  "pt": "tem uma picância muito intensa."
+ },
+ {
+  "offset": "0817AD5",
+  "en": "Its flesh is dotted with many tiny",
+  "pt": "Sua polpa tem muitas bolhinhas"
+ },
+ {
+  "offset": "0817AF8",
+  "en": "bubbles that keep it afloat in water.",
+  "pt": "que a mantêm boiando na água."
+ },
+ {
+  "offset": "0817B1E",
+  "en": "Energy drawn from lightning strikes",
+  "pt": "A energia de raios faz esta Fruta"
+ },
+ {
+  "offset": "0817B42",
+  "en": "makes this Berry grow big and rich.",
+  "pt": "crescer grande e suculenta."
+ },
+ {
+  "offset": "0817B66",
+  "en": "This berry has a vegetable-like flavor,",
+  "pt": "Esta Fruta tem sabor de legume, mas"
+ },
+ {
+  "offset": "0817B8E",
+  "en": "but is rich in health-promoting fiber.",
+  "pt": "é rica em fibras que fazem bem à saúde."
+ },
+ {
+  "offset": "0817BB5",
+  "en": "This Berry has a refreshing dry and",
+  "pt": "Esta Fruta tem um sabor seco e azedo"
+ },
+ {
+  "offset": "0817BD9",
+  "en": "sour flavor. Tastes better chilled.",
+  "pt": "refrescante. Fica melhor gelada."
+ },
+ {
+  "offset": "0817BFD",
+  "en": "Contains a substance that generates",
+  "pt": "Contém uma substância que gera calor."
+ },
+ {
+  "offset": "0817C21",
+  "en": "heat. Can even fire up a chilly heart.",
+  "pt": "Pode até aquecer um coração gelado."
+ },
+ {
+  "offset": "0817C48",
+  "en": "Brilliant green on the outside, inside",
+  "pt": "Verde brilhante por fora, por dentro"
+ },
+ {
+  "offset": "0817C6F",
+  "en": "it is packed with black-colored flesh.",
+  "pt": "é cheia de polpa de cor preta."
+ },
+ {
+  "offset": "0817C96",
+  "en": "The sweet pulp has just the hint of a",
+  "pt": "A polpa doce tem só um toque de mordida"
+ },
+ {
+  "offset": "0817CBC",
+  "en": "a hard-edged and fragrant bite to it.",
+  "pt": "marcante e perfumada."
+ },
+ {
+  "offset": "0817CE2",
+  "en": "This Berry is said to be a cross of",
+  "pt": "Dizem que esta Fruta é um cruzamento de"
+ },
+ {
+  "offset": "0817D06",
+  "en": "two Berries blown in from far away.",
+  "pt": "duas Frutas trazidas de longe pelo vento."
+ },
+ {
+  "offset": "0817D2A",
+  "en": "Said to sense human emotions, it swells",
+  "pt": "Dizem que sente emoções humanas; ela incha"
+ },
+ {
+  "offset": "0817D52",
+  "en": "roundly when a person approaches.",
+  "pt": "e fica redonda quando alguém se aproxima."
+ },
+ {
+  "offset": "0817D74",
+  "en": "It grows a flower at the tip that lures",
+  "pt": "Dá uma flor na ponta que atrai CAPTURAS"
+ },
+ {
+  "offset": "0817D9C",
+  "en": "Bug Pokémon with its stringy petals.",
+  "pt": "de Inseto com suas pétalas fibrosas."
+ },
+ {
+  "offset": "0817DC1",
+  "en": "Often used for pickles because of its",
+  "pt": "Muito usada em conservas por causa do"
+ },
+ {
+  "offset": "0817DE7",
+  "en": "dry flavor. Sometimes eaten raw.",
+  "pt": "sabor seco. Às vezes é comida crua."
+ },
+ {
+  "offset": "0817E08",
+  "en": "Old superstitions say it has an odd",
+  "pt": "Antigas superstições dizem que tem um"
+ },
+ {
+  "offset": "0817E2C",
+  "en": "power. A popular good-luck charm.",
+  "pt": "poder estranho. Um amuleto da sorte popular."
+ },
+ {
+  "offset": "0817E4E",
+  "en": "Less bitter if enough of this Berry",
+  "pt": "Fica menos amarga se for bem fervida."
+ },
+ {
+  "offset": "0817E72",
+  "en": "is boiled down. Makes a good jam.",
+  "pt": "Dá uma boa geleia."
+ },
+ {
+  "offset": "0817E94",
+  "en": "Tiny hooks on the surface latch onto",
+  "pt": "Ganchinhos na superfície grudam nas"
+ },
+ {
+  "offset": "0817EB9",
+  "en": "Pokémon to reach far-off places.",
+  "pt": "CAPTURAS para chegar a lugares distantes."
+ },
+ {
+  "offset": "0817EDA",
+  "en": "Very tough with a strong flavor. It",
+  "pt": "Muito dura e de sabor forte. Já foi"
+ },
+ {
+  "offset": "0817EFE",
+  "en": "was used to make medicine in the past.",
+  "pt": "usada para fazer remédios no passado."
+ },
+ {
+  "offset": "0817F25",
+  "en": "In nature, they grow in wide rings",
+  "pt": "Na natureza, crescem em grandes anéis"
+ },
+ {
+  "offset": "0817F48",
+  "en": "for reasons that are still unknown.",
+  "pt": "por motivos ainda desconhecidos."
+ },
+ {
+  "offset": "0817F6C",
+  "en": "A mysterious Berry. It is rumored to",
+  "pt": "Uma Fruta misteriosa. Dizem que ela"
+ },
+ {
+  "offset": "0817F91",
+  "en": "contain the power of the sea.",
+  "pt": "contém o poder do mar."
+ },
+ {
+  "offset": "0817FAF",
+  "en": "A mysterious Berry. It is rumored to",
+  "pt": "Uma Fruta misteriosa. Dizem que ela"
+ },
+ {
+  "offset": "0817FD4",
+  "en": "contain the power of the land.",
+  "pt": "contém o poder da terra."
+ },
+ {
+  "offset": "0817FF3",
+  "en": "A mysterious Berry. It is rumored to",
+  "pt": "Uma Fruta misteriosa. Dizem que ela"
+ },
+ {
+  "offset": "0818018",
+  "en": "contain the power of the sky.",
+  "pt": "contém o poder do céu."
+ },
+ {
+  "offset": "0818036",
+  "en": "A mysterious Berry. It is rumored to",
+  "pt": "Uma Fruta misteriosa. Dizem que ela"
+ },
+ {
+  "offset": "081805B",
+  "en": "contain the power of all living things.",
+  "pt": "contém o poder de todos os seres vivos."
+ },
+ {
+  "offset": "0818083",
+  "en": "A very mystifying Berry. No telling",
+  "pt": "Uma Fruta muito intrigante. Ninguém sabe"
+ },
+ {
+  "offset": "08180A7",
+  "en": "what may happen or how it can be used.",
+  "pt": "o que pode acontecer ou como usá-la."
+ },
+ {
+  "offset": "08180CE",
+  "en": "Said to be a legendary Berry.",
+  "pt": "Dizem que é uma Fruta lendária.",
+  "max_width": 173
+ },
+ {
+  "offset": "08180EC",
+  "en": "Holding it supposedly brings joy.",
+  "pt": "Segurá-la supostamente traz alegria."
+ },
+ {
+  "offset": "081810E",
+  "en": "So strong, it was abandoned at the",
+  "pt": "Tão forte que foi abandonada no fim do"
+ },
+ {
+  "offset": "0818131",
+  "en": "world's edge. Considered a mirage.",
+  "pt": "mundo. Considerada uma miragem."
+ },
+ {
+  "offset": "0818154",
+  "en": "A completely enigmatic Berry.",
+  "pt": "Uma Fruta completamente enigmática."
+ },
+ {
+  "offset": "0818172",
+  "en": "Appears to have the power of stars.",
+  "pt": "Parece ter o poder das estrelas."
+ },
+ {
+  "offset": "0818196",
+  "en": "It makes other food eaten at the",
+  "pt": "Faz outros alimentos comidos ao"
+ },
+ {
+  "offset": "08181B7",
+  "en": "same time taste sweet.",
+  "pt": "mesmo tempo ficarem doces.",
+  "max_width": 142
+ },
+ {
+  "offset": "08181CE",
+  "en": "The flesh underneath the Custap",
+  "pt": "A polpa sob a casca da Fruta Custap"
+ },
+ {
+  "offset": "08181EE",
+  "en": "Berry's skin is sweet and creamy soft.",
+  "pt": "é doce e macia como creme."
+ },
+ {
+  "offset": "0818215",
+  "en": "The drupelets that make up this berry",
+  "pt": "As drupas que formam esta Fruta"
+ },
+ {
+  "offset": "081823B",
+  "en": "pop rythmically if handled roughly.",
+  "pt": "estouram no ritmo se manuseadas com força."
+ },
+ {
+  "offset": "081825F",
+  "en": "People once worked top-shaped pieces",
+  "pt": "Antigamente, pedaços desta Fruta em forma"
+ },
+ {
+  "offset": "0818284",
+  "en": "of this berry free to use as toys.",
+  "pt": "de pião eram soltos para virar brinquedos."
+ },
+ {
+  "offset": "08182A7",
+  "en": "A berry that is incredibly spicy at",
+  "pt": "Uma Fruta muito picante no começo"
+ },
+ {
+  "offset": "08182CB",
+  "en": "first, then extremely bitter.",
+  "pt": "e depois extremamente amarga."
+ },
+ {
+  "offset": "08182E9",
+  "en": "Its outside is very bitter, but its",
+  "pt": "Por fora é muito amarga, mas"
+ },
+ {
+  "offset": "081830D",
+  "en": "inside tastes like a sweet drink.",
+  "pt": "por dentro tem gosto de bebida doce."
+ },
+ {
+  "offset": "0818330",
+  "en": "Cheri",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "0819C18",
+  "en": "GOOMBA",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0819C1F",
+  "en": "SHY GUY",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "0819C27",
+  "en": "FUZZY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0819C2D",
+  "en": "THWIMP",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0819C34",
+  "en": "BOO",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0819C38",
+  "en": "BABY YOSHI",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "0819C43",
+  "en": "BABY PENGUIN",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "0819C50",
+  "en": "FIGHTER FLY",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "0819C5C",
+  "en": "SHROOBLET",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "0819C66",
+  "en": "TUFF PUFF",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "0819C70",
+  "en": "LIL SPARKY",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "0819C7B",
+  "en": "STARBAG",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0819C83",
+  "en": "EERIE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0819C89",
+  "en": "TOADY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0819C8F",
+  "en": "TWIRLIP",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0819C97",
+  "en": "GHOSTMOUSE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "0819CA2",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "0819D30",
+  "en": "MEGA PUNCH",
+  "pt": "MEGASSOCO",
+  "max_width": 63
+ },
+ {
+  "offset": "0819D3B",
+  "en": "MEGA KICK",
+  "pt": "MEGACHUTE",
+  "max_width": 57
+ },
+ {
+  "offset": "0819D45",
+  "en": "OMINOUS WIND",
+  "pt": "VENTO OMINOSO",
+  "max_width": 75
+ },
+ {
+  "offset": "0819D52",
+  "en": "WORRY SEED",
+  "pt": "SEM. INSONE",
+  "max_width": 63
+ },
+ {
+  "offset": "0819D5D",
+  "en": "AFTER YOU",
+  "pt": "DEP. VOCÊ",
+  "max_width": 57
+ },
+ {
+  "offset": "0819D67",
+  "en": "STEALTH ROCK",
+  "pt": "PEDRAS FURT.",
+  "max_width": 75
+ },
+ {
+  "offset": "0819D74",
+  "en": "DUAL CHOP",
+  "pt": "CORTE DUP.",
+  "max_width": 57
+ },
+ {
+  "offset": "0819D7E",
+  "en": "POISON FANG",
+  "pt": "PRESA VENEN.",
+  "max_width": 69
+ },
+ {
+  "offset": "0819D8A",
+  "en": "WORK UP",
+  "pt": "AQUECER",
+  "max_width": 45
+ },
+ {
+  "offset": "0819D92",
+  "en": "DEFOG",
+  "pt": "DESEM.",
+  "max_width": 36
+ },
+ {
+  "offset": "0819D98",
+  "en": "HOWL",
+  "pt": "UIVO",
+  "max_width": 30
+ },
+ {
+  "offset": "0819D9D",
+  "en": "CHILLING WATER",
+  "pt": "ÁGUA GELADA",
+  "max_width": 87
+ },
+ {
+  "offset": "0819DAC",
+  "en": "PSYCH UP",
+  "pt": "SINTONIA",
+  "max_width": 51
+ },
+ {
+  "offset": "0819DB5",
+  "en": "NATURE POWER",
+  "pt": "PODER NATUR.",
+  "max_width": 75
+ },
+ {
+  "offset": "0819E34",
+  "en": "Raise party to lvl cap",
+  "pt": "Subir equipe ao limite",
+  "max_width": 137
+ },
+ {
+  "offset": "0819E91",
+  "en": "COINS",
+  "pt": "MOEDAS",
+  "max_width": 36
+ },
+ {
+  "offset": "0819EA8",
+  "en": "Check Quest Listings",
+  "pt": "Ver lista de missões",
+  "max_width": 134
+ },
+ {
+  "offset": "0819EBD",
+  "en": "Check Available Rewards",
+  "pt": "Ver prêmios disponíveis",
+  "max_width": 149
+ },
+ {
+  "offset": "0819ED5",
+  "en": "More Information",
+  "pt": "Mais informações",
+  "max_width": 113
+ },
+ {
+  "offset": "0819F08",
+  "en": "LIL SPARKY  1,000 COINS",
+  "pt": "LIL SPARKY  1.000 MOEDAS",
+  "max_width": 147
+ },
+ {
+  "offset": "0819F20",
+  "en": "MECHAKOOPA 3,000 COINS",
+  "pt": "MECHAKOOPA 3.000 MOEDAS",
+  "max_width": 147
+ },
+ {
+  "offset": "0819F37",
+  "en": "SNOOZORB     5,000 COINS",
+  "pt": "SNOOZORB     5.000 MOEDAS",
+  "max_width": 147
+ },
+ {
+  "offset": "0819F50",
+  "en": "VIRUS           7,500 COINS",
+  "pt": "VIRUS           7.500 MOEDAS",
+  "max_width": 147
+ },
+ {
+  "offset": "0819F6C",
+  "en": "MINI-YUX     9,999 COINS",
+  "pt": "MINI-YUX     9.999 MOEDAS",
+  "max_width": 147
+ },
+ {
+  "offset": "0819FB0",
+  "en": "TILE 1",
+  "pt": "PISO 1",
+  "max_width": 39
+ },
+ {
+  "offset": "0819FB7",
+  "en": "TILE 2",
+  "pt": "PISO 2",
+  "max_width": 39
+ },
+ {
+  "offset": "0819FBE",
+  "en": "TILE 3",
+  "pt": "PISO 3",
+  "max_width": 39
+ },
+ {
+  "offset": "0819FC5",
+  "en": "TILE 4",
+  "pt": "PISO 4",
+  "max_width": 39
+ },
+ {
+  "offset": "0819FEC",
+  "en": "KOOPAs",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "0819FF3",
+  "en": "GOOMBAs",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "081A014",
+  "en": "TM11 MAGICAL LEAF",
+  "pt": "TM11 FOLHA MÁGICA",
+  "max_width": 120
+ },
+ {
+  "offset": "081A026",
+  "en": "TM48 FAKE TEARS",
+  "pt": "TM48 LÁGR.FALSAS",
+  "max_width": 90
+ },
+ {
+  "offset": "081A036",
+  "en": "TM38 BEAT UP",
+  "pt": "TM38 ESPANC.",
+  "max_width": 72
+ },
+ {
+  "offset": "081A043",
+  "en": "TM43 REVENGE",
+  "pt": "TM43 VINGANÇA",
+  "max_width": 75
+ },
+ {
+  "offset": "081A050",
+  "en": "TM50 STRUGGLE BUG",
+  "pt": "TM50 IRA DE INSETO",
+  "max_width": 120
+ },
+ {
+  "offset": "081A062",
+  "en": "TM56 BRINE",
+  "pt": "TM56 SALM.",
+  "max_width": 63
+ },
+ {
+  "offset": "081A06D",
+  "en": "TM61 POWER SWAP",
+  "pt": "TM61 TROCA PODER",
+  "max_width": 90
+ },
+ {
+  "offset": "081A07D",
+  "en": "TM62 GUARD SWAP",
+  "pt": "TM62 TROCA DEF.",
+  "max_width": 90
+ },
+ {
+  "offset": "081A08D",
+  "en": "TM63 SPEED SWAP",
+  "pt": "TM63 TROCA VEL.",
+  "max_width": 90
+ },
+ {
+  "offset": "081A09D",
+  "en": "TM97 SMART STRIKE",
+  "pt": "TM97 GOLPE CERTEIRO",
+  "max_width": 120
+ },
+ {
+  "offset": "081A100",
+  "en": "Heal randomly          25 P. COINS",
+  "pt": "Cura aleatória          25 M. ROXAS"
+ },
+ {
+  "offset": "081A123",
+  "en": "Heal entire party    150 P. COINS",
+  "pt": "Curar toda a equipe  150 M. ROXAS"
+ },
+ {
+  "offset": "081A158",
+  "en": "SELL",
+  "pt": "VENDA",
+  "max_width": 30
+ },
+ {
+  "offset": "081A15D",
+  "en": "Convert COINS",
+  "pt": "Trocar MOEDAS",
+  "max_width": 98
+ },
+ {
+  "offset": "081A17C",
+  "en": "Go Solo",
+  "pt": "Ir sozinho",
+  "max_width": 61
+ },
+ {
+  "offset": "081A184",
+  "en": "Go Together",
+  "pt": "Ir juntos",
+  "max_width": 86
+ },
+ {
+  "offset": "081A190",
+  "en": "Inspect Party",
+  "pt": "Ver equipe",
+  "max_width": 98
+ },
+ {
+  "offset": "081A19E",
+  "en": "Inspect Bag",
+  "pt": "Ver bolsa",
+  "max_width": 87
+ },
+ {
+  "offset": "081A1AF",
+  "en": "Send Coins",
+  "pt": "Enviar moedas",
+  "max_width": 79
+ },
+ {
+  "offset": "081A1CC",
+  "en": "Send CAP",
+  "pt": "Enviar CAP",
+  "max_width": 69
+ },
+ {
+  "offset": "081A1D5",
+  "en": "Send CAP 10x",
+  "pt": "Enviar CAP 10x",
+  "max_width": 90
+ },
+ {
+  "offset": "081A1E2",
+  "en": "Fully Heal Party",
+  "pt": "Curar toda a equipe",
+  "max_width": 107
+ },
+ {
+  "offset": "081A260",
+  "en": "FIRE PLEDGE",
+  "pt": "PROM. DE FOGO",
+  "max_width": 69
+ },
+ {
+  "offset": "081A26C",
+  "en": "GRASS PLEDGE",
+  "pt": "PROM. GRAMA",
+  "max_width": 75
+ },
+ {
+  "offset": "081A279",
+  "en": "WATER PLEDGE",
+  "pt": "PROM. DE ÁGUA",
+  "max_width": 75
+ },
+ {
+  "offset": "081A286",
+  "en": "HELPING HAND",
+  "pt": "MÃO AMIGA",
+  "max_width": 75
+ },
+ {
+  "offset": "081A293",
+  "en": "PROTECT",
+  "pt": "PROTEÇÃO",
+  "max_width": 48
+ },
+ {
+  "offset": "081A29B",
+  "en": "COACHING",
+  "pt": "TREINAM.",
+  "max_width": 54
+ },
+ {
+  "offset": "081A2A4",
+  "en": "EXPANDING FORCE",
+  "pt": "FORÇA EXPANSIVA",
+  "max_width": 93
+ },
+ {
+  "offset": "081A2B4",
+  "en": "RISING VOLTAGE",
+  "pt": "VOLTAGEM CRESC.",
+  "max_width": 87
+ },
+ {
+  "offset": "081A2C3",
+  "en": "TAILWIND",
+  "pt": "V. A FAVOR",
+  "max_width": 54
+ },
+ {
+  "offset": "081A2CC",
+  "en": "AFTER YOU",
+  "pt": "DEP. VOCÊ",
+  "max_width": 57
+ },
+ {
+  "offset": "081A2D6",
+  "en": "TRICK",
+  "pt": "TRUQUE",
+  "max_width": 36
+ },
+ {
+  "offset": "081A2DC",
+  "en": "GRAVITY",
+  "pt": "GRAVID.",
+  "max_width": 48
+ },
+ {
+  "offset": "081A2E4",
+  "en": "ALLY SWITCH",
+  "pt": "TROCA ALIADA",
+  "max_width": 69
+ },
+ {
+  "offset": "081A2F0",
+  "en": "POLLEN PUFF",
+  "pt": "BOLA PÓLEN",
+  "max_width": 69
+ },
+ {
+  "offset": "081A2FC",
+  "en": "LIFE DEW",
+  "pt": "ORV.VITAL",
+  "max_width": 51
+ },
+ {
+  "offset": "081A305",
+  "en": "ICE SPINNER",
+  "pt": "GIRO DE GELO",
+  "max_width": 69
+ },
+ {
+  "offset": "081A311",
+  "en": "DRAGON CHEER",
+  "pt": "TORCIDA DRAC.",
+  "max_width": 75
+ },
+ {
+  "offset": "081A3A8",
+  "en": "Health",
+  "pt": "HP",
+  "max_width": 58
+ },
+ {
+  "offset": "081A3AF",
+  "en": "Attack",
+  "pt": "Ataque",
+  "max_width": 60
+ },
+ {
+  "offset": "081A3B6",
+  "en": "Defense",
+  "pt": "Defesa",
+  "max_width": 66
+ },
+ {
+  "offset": "081A3BE",
+  "en": "Speed",
+  "pt": "Veloc.",
+  "max_width": 54
+ },
+ {
+  "offset": "081A3C4",
+  "en": "Special Attack",
+  "pt": "Ataque Especial",
+  "max_width": 101
+ },
+ {
+  "offset": "081A3D3",
+  "en": "Special Defense",
+  "pt": "Defesa Especial",
+  "max_width": 107
+ },
+ {
+  "offset": "081A414",
+  "en": "DOWNTOWN",
+  "pt": "CENTRO",
+  "max_width": 54
+ },
+ {
+  "offset": "081A41D",
+  "en": "SUBURBS",
+  "pt": "SUBÚRBIO",
+  "max_width": 48
+ },
+ {
+  "offset": "081A425",
+  "en": "WARIO WARE INC.",
+  "pt": "",
+  "max_width": 87
+ },
+ {
+  "offset": "081A435",
+  "en": "DIAMOND ACADEMY",
+  "pt": "ACADEMIA DIAMOND",
+  "max_width": 93
+ },
+ {
+  "offset": "081A445",
+  "en": "ASHLEY'S HOUSE",
+  "pt": "CASA DA ASHLEY",
+  "max_width": 84
+ },
+ {
+  "offset": "081A454",
+  "en": "CLUB SUGAR",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "081A45F",
+  "en": "DEPARTMENT STORE",
+  "pt": "SHOPPING",
+  "max_width": 99
+ },
+ {
+  "offset": "081A470",
+  "en": "DAY CARE",
+  "pt": "CRECHE",
+  "max_width": 51
+ },
+ {
+  "offset": "081A4BC",
+  "en": "Left",
+  "pt": "Esquerda",
+  "max_width": 48
+ },
+ {
+  "offset": "081A4C1",
+  "en": "Middle",
+  "pt": "Meio",
+  "max_width": 56
+ },
+ {
+  "offset": "081A4C8",
+  "en": "Right",
+  "pt": "Direita",
+  "max_width": 52
+ },
+ {
+  "offset": "081A540",
+  "en": "DIVE",
+  "pt": "MERG.",
+  "max_width": 30
+ },
+ {
+  "offset": "081A545",
+  "en": "SIGNAL BEAM",
+  "pt": "FEIXE SINAL.",
+  "max_width": 69
+ },
+ {
+  "offset": "081A551",
+  "en": "IRON TAIL",
+  "pt": "C. DE FERRO",
+  "max_width": 57
+ },
+ {
+  "offset": "081A55B",
+  "en": "AQUA TAIL",
+  "pt": "AQUA CAUDA",
+  "max_width": 57
+ },
+ {
+  "offset": "081A565",
+  "en": "ZEN HEADBUTT",
+  "pt": "CABEÇADA ZEN",
+  "max_width": 75
+ },
+ {
+  "offset": "081A572",
+  "en": "ROLE PLAY",
+  "pt": "INTERPRET.",
+  "max_width": 57
+ },
+ {
+  "offset": "081A57C",
+  "en": "PSYCHIC FANGS",
+  "pt": "CANINOS PSÍQ.",
+  "max_width": 81
+ },
+ {
+  "offset": "081A58A",
+  "en": "ROCK BLAST",
+  "pt": "EXPL. ROCHA",
+  "max_width": 63
+ },
+ {
+  "offset": "081A595",
+  "en": "SUBSTITUTE",
+  "pt": "SUBSTITUTO",
+  "max_width": 66
+ },
+ {
+  "offset": "081A5A0",
+  "en": "FOCUS PUNCH",
+  "pt": "SOCO FOCADO",
+  "max_width": 69
+ },
+ {
+  "offset": "081A5AC",
+  "en": "DYNAMIC PUNCH",
+  "pt": "SOCO DINÂMICO",
+  "max_width": 81
+ },
+ {
+  "offset": "081A5BA",
+  "en": "TEMPER FLARE",
+  "pt": "AC. DE RAIVA",
+  "max_width": 75
+ },
+ {
+  "offset": "081A5C7",
+  "en": "TRAILBLAZE",
+  "pt": "DESBRAVAR",
+  "max_width": 66
+ },
+ {
+  "offset": "081A63C",
+  "en": "STEEL BEAM",
+  "pt": "RAIO DE AÇO",
+  "max_width": 63
+ },
+ {
+  "offset": "081A647",
+  "en": "SCALE SHOT",
+  "pt": "TIRO ESCAM.",
+  "max_width": 63
+ },
+ {
+  "offset": "081A652",
+  "en": "METEOR BEAM",
+  "pt": "RAIO METEÓR.",
+  "max_width": 69
+ },
+ {
+  "offset": "081A65E",
+  "en": "FLIP TURN",
+  "pt": "VIRADA",
+  "max_width": 57
+ },
+ {
+  "offset": "081A668",
+  "en": "DUAL WINGBEAT",
+  "pt": "ASAS DUPLAS",
+  "max_width": 81
+ },
+ {
+  "offset": "081A676",
+  "en": "SCORCHING SANDS",
+  "pt": "AREIAS ARDENTES",
+  "max_width": 93
+ },
+ {
+  "offset": "081A686",
+  "en": "LASH OUT",
+  "pt": "DESABAF.",
+  "max_width": 51
+ },
+ {
+  "offset": "081A68F",
+  "en": "TERRAIN PULSE",
+  "pt": "PULSO TERRENO",
+  "max_width": 81
+ },
+ {
+  "offset": "081A69D",
+  "en": "STEEL ROLLER",
+  "pt": "ROLO DE AÇO",
+  "max_width": 75
+ },
+ {
+  "offset": "081A6AA",
+  "en": "TRIPLE AXEL",
+  "pt": "PINOTE TRIP.",
+  "max_width": 69
+ },
+ {
+  "offset": "081A6B6",
+  "en": "BURNING JEALOUSY",
+  "pt": "CIÚME ARDENTE",
+  "max_width": 99
+ },
+ {
+  "offset": "081A6C7",
+  "en": "SKITTER SMACK",
+  "pt": "GOLPE RASTEIRO",
+  "max_width": 81
+ },
+ {
+  "offset": "081A6D5",
+  "en": "SEED BOMB",
+  "pt": "BOMBA SEM.",
+  "max_width": 57
+ },
+ {
+  "offset": "081A6DF",
+  "en": "HEAT WAVE",
+  "pt": "ONDA CALOR",
+  "max_width": 57
+ },
+ {
+  "offset": "081A6E9",
+  "en": "IRON HEAD",
+  "pt": "CAB. FERRO",
+  "max_width": 57
+ },
+ {
+  "offset": "081A6F3",
+  "en": "SUCKER PUNCH",
+  "pt": "SOCO ENGAN.",
+  "max_width": 75
+ },
+ {
+  "offset": "081A700",
+  "en": "DRAGON PULSE",
+  "pt": "PULSO DRAGÃO",
+  "max_width": 75
+ },
+ {
+  "offset": "081A70D",
+  "en": "ENERGY BALL",
+  "pt": "BOLA ENERGIA",
+  "max_width": 69
+ },
+ {
+  "offset": "081A719",
+  "en": "BUG BUZZ",
+  "pt": "ZUMBIDO",
+  "max_width": 51
+ },
+ {
+  "offset": "081A722",
+  "en": "MEGAHORN",
+  "pt": "MEGACHIF.",
+  "max_width": 54
+ },
+ {
+  "offset": "081A72B",
+  "en": "NIGHT SLASH",
+  "pt": "TALHO NOTUR.",
+  "max_width": 69
+ },
+ {
+  "offset": "081A737",
+  "en": "BITTER MALICE",
+  "pt": "MALÍCIA AMARGA",
+  "max_width": 81
+ },
+ {
+  "offset": "081A745",
+  "en": "PLAY ROUGH",
+  "pt": "JOGO DURO",
+  "max_width": 63
+ },
+ {
+  "offset": "081A750",
+  "en": "SUPERPOWER",
+  "pt": "SUPERPODER",
+  "max_width": 66
+ },
+ {
+  "offset": "081A75B",
+  "en": "BATON PASS",
+  "pt": "P. O BASTÃO",
+  "max_width": 63
+ },
+ {
+  "offset": "081A766",
+  "en": "CALM MIND",
+  "pt": "M. CALMA",
+  "max_width": 57
+ },
+ {
+  "offset": "081A770",
+  "en": "NASTY PLOT",
+  "pt": "P. MALÉFICO",
+  "max_width": 63
+ },
+ {
+  "offset": "081A854",
+  "en": "FRENZY PLANT",
+  "pt": "PLANTA MORTAL",
+  "max_width": 75
+ },
+ {
+  "offset": "081A861",
+  "en": "HYDRO CANNON",
+  "pt": "HIDRO CANHÃO",
+  "max_width": 75
+ },
+ {
+  "offset": "081A86E",
+  "en": "BLAST BURN",
+  "pt": "QUEIM. EXPL.",
+  "max_width": 63
+ },
+ {
+  "offset": "081A879",
+  "en": "DRACO METEOR",
+  "pt": "METEORO DRAG.",
+  "max_width": 75
+ },
+ {
+  "offset": "081A8A8",
+  "en": "GAMBLE",
+  "pt": "APOSTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "081A8AF",
+  "en": "BATTLE",
+  "pt": "LUTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "081A8C8",
+  "en": "SLOTS",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "081A8CE",
+  "en": "ROULETTE",
+  "pt": "ROLETA",
+  "max_width": 54
+ },
+ {
+  "offset": "081A8F0",
+  "en": "SINGLES",
+  "pt": "INDIVID.",
+  "max_width": 48
+ },
+ {
+  "offset": "081A8F8",
+  "en": "DOUBLES",
+  "pt": "DUPLAS",
+  "max_width": 48
+ },
+ {
+  "offset": "081A900",
+  "en": "INFO",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "081A905",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "081A92C",
+  "en": "GLITZ PIT",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "081A936",
+  "en": "MUSHROOM HILL",
+  "pt": "COL. COGUMELO",
+  "max_width": 81
+ },
+ {
+  "offset": "081AC0C",
+  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!",
+  "pt": ""
+ },
+ {
+  "offset": "081ADE8",
+  "en": "zi",
+  "pt": "",
+  "max_width": 34
+ },
+ {
+  "offset": "081D940",
+  "en": "inches",
+  "pt": "polegadas",
+  "max_width": 58
+ },
+ {
+  "offset": "081D949",
+  "en": "foot",
+  "pt": "pé",
+  "max_width": 48
+ },
+ {
+  "offset": "081D94E",
+  "en": "feet",
+  "pt": "pés",
+  "max_width": 48
+ },
+ {
+  "offset": "081D955",
+  "en": "pound",
+  "pt": "libra",
+  "max_width": 54
+ },
+ {
+  "offset": "081D95B",
+  "en": "pounds",
+  "pt": "libras",
+  "max_width": 60
+ },
+ {
+  "offset": "081D962",
+  "en": "lb",
+  "pt": "",
+  "max_width": 34
+ },
+ {
+  "offset": "081D965",
+  "en": "centimeter",
+  "pt": "centímetro",
+  "max_width": 81
+ },
+ {
+  "offset": "081D970",
+  "en": "centimeters",
+  "pt": "centímetros",
+  "max_width": 87
+ },
+ {
+  "offset": "081D97C",
+  "en": "cm",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "081D97F",
+  "en": "meter",
+  "pt": "metro",
+  "max_width": 53
+ },
+ {
+  "offset": "081D985",
+  "en": "meters",
+  "pt": "metros",
+  "max_width": 59
+ },
+ {
+  "offset": "081D98E",
+  "en": "kilogram",
+  "pt": "quilograma",
+  "max_width": 67
+ },
+ {
+  "offset": "081D997",
+  "en": "kilograms",
+  "pt": "quilogramas",
+  "max_width": 73
+ },
+ {
+  "offset": "081D9A1",
+  "en": "kg",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08221DA",
+  "en": "Cannot throw a cap!\\nThere are two CAPTURES out there!\\p",
+  "pt": "Não é possível lançar um CAP!\\nHá duas CAPTURAS ali!\\p"
+ },
+ {
+  "offset": "0822211",
+  "en": "Cannot throw a cap!\\nThere's no CAPTURE in sight!\\p",
+  "pt": "Não é possível lançar um CAP!\\nNão há nenhuma CAPTURA à vista!\\p"
+ },
+ {
+  "offset": "0822243",
+  "en": "CAPS cannot be used\\nright now!\\p",
+  "pt": "Os CAPs não podem ser\\nusados agora!\\p"
+ },
+ {
+  "offset": "08222DB",
+  "en": "Music Id: {STR_VAR_3}\\n{STR_VAR_1}    \\n{STR_VAR_2}",
+  "pt": "ID música: {STR_VAR_3}\\n{STR_VAR_1}    \\n{STR_VAR_2}",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "08223A4",
+  "en": "MUS-LIVE-AND-LEARN",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "08223B7",
+  "en": "MUS-THE-GRAND-FINALE",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "08223CC",
+  "en": "MUS-BOWSER-BATTLE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "08223DE",
+  "en": "MUS-GOOD-EGG",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "08223EB",
+  "en": "MUS-SHOWTIME-TEST",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "08223FD",
+  "en": "MUS-PEACH-CASTLE",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "082240E",
+  "en": "MUS-COMET-OBSERVATORY",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "0822424",
+  "en": "MUS-SHOWTIME-MIMI",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "0822436",
+  "en": "MUS-BRAMBLE-BLAST",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "0822448",
+  "en": "MUS-WALUIGI-PINBALL",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "082245C",
+  "en": "MUS-TOUGH-GUY-ALERT",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "0822470",
+  "en": "MUS-ML3-BATTLE",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "082247F",
+  "en": "MUS-VS-GIGA-BOWSER",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "0822492",
+  "en": "MUS-ALL-STAR-REST",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "08224A4",
+  "en": "MUS-VS-LUIGI",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "08224B1",
+  "en": "MUS-VS-ELITE-FOUR",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "08224C3",
+  "en": "MUS-EGADD",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "08224CD",
+  "en": "MUS-VS-MARIO-GYM",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "08224DE",
+  "en": "MUS-NEW-DONK",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "08224EB",
+  "en": "MUS-CLOUD-CAP",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "08224F9",
+  "en": "MUS-TOAD-TOWN",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "0822507",
+  "en": "MUS-SAND-KINGDOM",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "0822518",
+  "en": "MUS-BOWSER-CASTLE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "082252A",
+  "en": "MUS-VS-KOBE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "0822536",
+  "en": "MUS-PEACHES",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "0822542",
+  "en": "MUS-ROUTE-3-1-UNUSED",
+  "pt": "",
+  "max_width": 144
+ },
+ {
+  "offset": "0822557",
+  "en": "MUS-CPT-TOAD",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "0822564",
+  "en": "MUS-MARIO-PAD",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "0822572",
+  "en": "MUS-VS-ANTASMA",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "0822581",
+  "en": "MUS-SPACE-JUNK-GALAXY",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "0822597",
+  "en": "MUS-NSMB-WORLD-1",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "08225A8",
+  "en": "MUS-NSMB-ATHLETIC",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "08225BA",
+  "en": "MUS-WARIO-WARE",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "08225C9",
+  "en": "MUS-WARIOLAND-RUINS",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "08225DD",
+  "en": "MUS-WALUIGIS-ISLAND",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "08225F1",
+  "en": "MUS-WINDBREAK-BAY",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "0822603",
+  "en": "MUS-JIMMY-T",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "082260F",
+  "en": "MUS-ASHLEY",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "082261A",
+  "en": "MUS-PENNY-ROCK-THE-MIC",
+  "pt": "",
+  "max_width": 156
+ },
+ {
+  "offset": "0822631",
+  "en": "MUS-MARIO-TUTORIAL",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "0822644",
+  "en": "MUS-FINAL-BOWSER-UNUSED",
+  "pt": "",
+  "max_width": 162
+ },
+ {
+  "offset": "082265C",
+  "en": "MUS-NSMBW-WORLD-5",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "082266E",
+  "en": "MUS-WORLD-5",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "082267A",
+  "en": "MUS-DK-ADV-UNUSED",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "082268C",
+  "en": "MUS-RAINBOW-ROAD",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "082269D",
+  "en": "MUS-UNDERGROUND",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "08226AD",
+  "en": "MUS-GHOST",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "08226B7",
+  "en": "MUS-GRITZY-DESERT",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "08226C9",
+  "en": "MUS-YOSHI-VILLAGE",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "08226DB",
+  "en": "MUS-YOSHI-MOUNTAIN",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "08226EE",
+  "en": "MUS-MARIO-VICTORY",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "0822700",
+  "en": "MUS-HOOKTAIL",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "082270D",
+  "en": "MUS-MARIO-CREDITS",
+  "pt": "",
+  "max_width": 126
+ },
+ {
+  "offset": "082271F",
+  "en": "MUS-THWOMP-VOLCANO",
+  "pt": "",
+  "max_width": 132
+ },
+ {
+  "offset": "0822732",
+  "en": "MUS-XENOBLADE",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "0822740",
+  "en": "MUS-GREEN-HILL-ZONE",
+  "pt": "",
+  "max_width": 138
+ },
+ {
+  "offset": "0822754",
+  "en": "MUS-VS-CANNONS",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "0822763",
+  "en": "MUS-VS-MARIO-FRONTIER",
+  "pt": "",
+  "max_width": 150
+ },
+ {
+  "offset": "0822779",
+  "en": "MUS-GLITZ-PIT",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "0822787",
+  "en": "MUS-VS-TTYD",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "0822793",
+  "en": "MUS-VS-RAWK-HAWK",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "08227A4",
+  "en": "LIST-END",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "0822918",
+  "en": "V V x   ",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082D90F",
+  "en": "GOTCHA",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082D916",
+  "en": "TRADE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082D91C",
+  "en": "MARIO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082D922",
+  "en": "EVOLVE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082D929",
+  "en": "WALUIGI",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082D931",
+  "en": "NATURE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082D938",
+  "en": "CENTER",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082D93F",
+  "en": "YOSHI EGG",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082D949",
+  "en": "LINK",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082D94E",
+  "en": "MUSHROOM",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082D957",
+  "en": "COMMANDER",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082D961",
+  "en": "BOWSER",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082D968",
+  "en": "QUEST BOOK",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082D973",
+  "en": "CAPTURE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082D97B",
+  "en": "GET",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082D97F",
+  "en": "TATTLEDEX",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082D989",
+  "en": "LUIGI",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082D98F",
+  "en": "LEVEL",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082D995",
+  "en": "PEACH",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082D99B",
+  "en": "DAISY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082D9A1",
+  "en": "POCKETS",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082D9A9",
+  "en": "WARIO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082D9AF",
+  "en": "DONKEY KONG",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082D9BB",
+  "en": "PAULINE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082D9C3",
+  "en": "ROSALINA",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082D9CC",
+  "en": "CAPTAIN TOAD",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082D9D9",
+  "en": "FRANK",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DB30",
+  "en": "DARK",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DB35",
+  "en": "STENCH",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DB3C",
+  "en": "THICK FAT",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082DB46",
+  "en": "RAIN DISH",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082DB50",
+  "en": "DRIZZLE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082DB58",
+  "en": "ARENA TRAP",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DB63",
+  "en": "INTIMIDATE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "082DB6E",
+  "en": "ROCK HEAD",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082DB78",
+  "en": "COLOR",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DB7E",
+  "en": "ALT. COLOR",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082DB89",
+  "en": "ROCK",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DB8E",
+  "en": "BEAUTIFUL",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082DB98",
+  "en": "BEAUTY",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DB9F",
+  "en": "AIR LOCK",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082DBA8",
+  "en": "PSYCHIC",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082DBB0",
+  "en": "HYPER CUTTER",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DBBD",
+  "en": "FIGHTING",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DBC6",
+  "en": "SHADOW TAG",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DBD1",
+  "en": "SMART",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DBD7",
+  "en": "SMARTNESS",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082DBE1",
+  "en": "SPEED BOOST",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DBED",
+  "en": "COOL",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DBF2",
+  "en": "COURSE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DBF9",
+  "en": "BATTLE ARMOR",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DC06",
+  "en": "CUTE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DC0B",
+  "en": "CUTENESS",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DC14",
+  "en": "STURDY",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DC1B",
+  "en": "SUCTION CUPS",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DC28",
+  "en": "GRASS",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DC2E",
+  "en": "CLEAR BODY",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DC39",
+  "en": "TORRENT",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082DC41",
+  "en": "GHOST",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DC47",
+  "en": "ICE",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082DC4B",
+  "en": "GUTS",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DC50",
+  "en": "ROUGH SKIN",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DC5B",
+  "en": "SHELL ARMOR",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DC67",
+  "en": "NATURAL CURE",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DC74",
+  "en": "DAMP",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DC79",
+  "en": "GROUND",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DC80",
+  "en": "LIMBER",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DC87",
+  "en": "MAGNET PULL",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DC93",
+  "en": "WHITE SMOKE",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DC9F",
+  "en": "SYNCHRONIZE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "082DCAB",
+  "en": "OVERGROW",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DCB4",
+  "en": "SWIFT SWIM",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DCBF",
+  "en": "SAND STREAM",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DCCB",
+  "en": "SAND VEIL",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082DCD5",
+  "en": "KEEN EYE",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082DCDE",
+  "en": "INNER FOCUS",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DCEA",
+  "en": "STATIC",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DCF1",
+  "en": "TYPE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DCF6",
+  "en": "TOUGH",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DCFC",
+  "en": "TOUGHNESS",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082DD06",
+  "en": "SHED SKIN",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082DD10",
+  "en": "HUGE POWER",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DD1B",
+  "en": "VOLT ABSORB",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DD27",
+  "en": "WATER ABSORB",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DD34",
+  "en": "ELECTRIC",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DD3D",
+  "en": "FORECAST",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DD46",
+  "en": "SERENE GRACE",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DD53",
+  "en": "POISON",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DD5A",
+  "en": "POISON POINT",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DD67",
+  "en": "DRAGON",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DD6E",
+  "en": "TRACE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DD74",
+  "en": "OBLIVIOUS",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082DD7E",
+  "en": "TRUANT",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DD85",
+  "en": "RUN AWAY",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082DD8E",
+  "en": "STICKY HOLD",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DD9A",
+  "en": "CLOUD NINE",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DDA5",
+  "en": "NORMAL",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DDAC",
+  "en": "STEEL",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DDB2",
+  "en": "ILLUMINATE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "082DDBD",
+  "en": "EARLY BIRD",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DDC8",
+  "en": "HUSTLE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DDCF",
+  "en": "SHINE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DDD5",
+  "en": "FLYING",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DDDC",
+  "en": "DROUGHT",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082DDE4",
+  "en": "LIGHTNINGROD",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "082DDF1",
+  "en": "COMPOUNDEYES",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "082DDFE",
+  "en": "MARVEL SCALE",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DE0B",
+  "en": "WONDER GUARD",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DE18",
+  "en": "INSOMNIA",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DE21",
+  "en": "LEVITATE",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DE2A",
+  "en": "PLUS",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DE2F",
+  "en": "PRESSURE",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DE38",
+  "en": "LIQUID OOZE",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DE44",
+  "en": "COLOR CHANGE",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DE51",
+  "en": "SOUNDPROOF",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "082DE5C",
+  "en": "EFFECT SPORE",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DE69",
+  "en": "{PK}RS",
+  "pt": "",
+  "max_width": 26
+ },
+ {
+  "offset": "082DE6D",
+  "en": "FIRE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082DE72",
+  "en": "FLAME BODY",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DE7D",
+  "en": "MINUS",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DE83",
+  "en": "OWN TEMPO",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082DE8D",
+  "en": "MAGMA ARMOR",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082DE99",
+  "en": "WATER",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DE9F",
+  "en": "WATER VEIL",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DEAA",
+  "en": "BUG",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082DEAE",
+  "en": "SWARM",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DEB4",
+  "en": "CUTE CHARM",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DEBF",
+  "en": "IMMUNITY",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082DEC8",
+  "en": "BLAZE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082DECE",
+  "en": "PICKUP",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082DED5",
+  "en": "PATTERN",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082DEDD",
+  "en": "FLASH FIRE",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DEE8",
+  "en": "VITAL SPIRIT",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "082DEF5",
+  "en": "CHLOROPHYLL",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "082DF01",
+  "en": "PURE POWER",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082DF0C",
+  "en": "SHIELD DUST",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "082E434",
+  "en": "MATCH UP",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082E43D",
+  "en": "GO",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "082E446",
+  "en": "DECIDE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E44D",
+  "en": "LET ME WIN",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E458",
+  "en": "WINS",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E45D",
+  "en": "WIN",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082E461",
+  "en": "WON",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082E465",
+  "en": "IF I WIN",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082E46E",
+  "en": "WHEN I WIN",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E479",
+  "en": "CAN'T WIN",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082E483",
+  "en": "CAN WIN",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "082E48B",
+  "en": "NO MATCH",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082E494",
+  "en": "SPIRIT",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E49B",
+  "en": "DECIDED",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082E4A3",
+  "en": "TRUMP CARD",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082E4AE",
+  "en": "TAKE THAT",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082E4B8",
+  "en": "COME ON",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "082E4C0",
+  "en": "ATTACK",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E4C7",
+  "en": "SURRENDER",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E4D1",
+  "en": "GUTSY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E4D7",
+  "en": "TALENT",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E4DE",
+  "en": "STRATEGY",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082E4E7",
+  "en": "SMITE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E4ED",
+  "en": "MATCH",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E4F3",
+  "en": "VICTORY",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082E4FB",
+  "en": "OFFENSIVE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E505",
+  "en": "SENSE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E50B",
+  "en": "VERSUS",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E512",
+  "en": "FIGHTS",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E519",
+  "en": "POWER",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E51F",
+  "en": "CHALLENGE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E529",
+  "en": "STRONG",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E530",
+  "en": "TOO STRONG",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "082E53B",
+  "en": "GO EASY",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "082E543",
+  "en": "FOE",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082E547",
+  "en": "GENIUS",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E54E",
+  "en": "LEGEND",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E555",
+  "en": "ESCAPE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E55C",
+  "en": "AIM",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082E560",
+  "en": "BATTLE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E567",
+  "en": "FIGHT",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E56D",
+  "en": "RESUSCITATE",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "082E579",
+  "en": "POINTS",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E580",
+  "en": "SERIOUS",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082E588",
+  "en": "GIVE UP",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "082E590",
+  "en": "LOSS",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E595",
+  "en": "IF I LOSE",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082E59F",
+  "en": "LOST",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E5A4",
+  "en": "LOSE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E5A9",
+  "en": "GUARD",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E5AF",
+  "en": "PARTNER",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082E5B7",
+  "en": "REJECT",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E5BE",
+  "en": "ACCEPT",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E5C5",
+  "en": "INVINCIBLE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "082E5D0",
+  "en": "RECEIVED",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082E5D9",
+  "en": "EASY",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E5DE",
+  "en": "WEAK",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E5E3",
+  "en": "TOO WEAK",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082E5EC",
+  "en": "PUSHOVER",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082E5F5",
+  "en": "LEADER",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E5FC",
+  "en": "RULE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E601",
+  "en": "MOVE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E8FC",
+  "en": "THANKS",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E907",
+  "en": "HERE GOES",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082E911",
+  "en": "HERE I COME",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "082E91D",
+  "en": "HERE IT IS",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E928",
+  "en": "YEAH",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E92D",
+  "en": "WELCOME",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082E935",
+  "en": "OI",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "082E938",
+  "en": "HOW DO",
+  "pt": "",
+  "max_width": 39
+ },
+ {
+  "offset": "082E93F",
+  "en": "CONGRATS",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082E948",
+  "en": "GIVE ME",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "082E950",
+  "en": "SORRY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E956",
+  "en": "APOLOGIZE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E960",
+  "en": "FORGIVE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082E968",
+  "en": "HEY, THERE",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E973",
+  "en": "HELLO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082E979",
+  "en": "GOOD-BYE",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082E982",
+  "en": "THANK YOU",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082E98C",
+  "en": "I'VE ARRIVED",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "082E999",
+  "en": "PARDON",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E9A0",
+  "en": "EXCUSE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082E9A7",
+  "en": "SEE YA",
+  "pt": "",
+  "max_width": 39
+ },
+ {
+  "offset": "082E9AE",
+  "en": "EXCUSE ME",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082E9B8",
+  "en": "WELL, THEN",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E9C3",
+  "en": "GO AHEAD",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082E9CC",
+  "en": "APPRECIATE",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "082E9D7",
+  "en": "HEY?",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E9DC",
+  "en": "WHAT'S UP?",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E9E7",
+  "en": "HUH?",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082E9EF",
+  "en": "HI",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "082E9F2",
+  "en": "YEAH, YEAH",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082E9FD",
+  "en": "BYE-BYE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082EA05",
+  "en": "MEET YOU",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082EA0E",
+  "en": "HEY",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082EA12",
+  "en": "SMELL",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082EA18",
+  "en": "LISTENING",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "082EA22",
+  "en": "HOO-HAH",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082EA2A",
+  "en": "YAHOO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082EA30",
+  "en": "YO",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "082EA33",
+  "en": "COME OVER",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "082EA3D",
+  "en": "COUNT ON",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "082EC40",
+  "en": "OPPONENT",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082EC4B",
+  "en": "YOU",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082EC4F",
+  "en": "YOURS",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082EC55",
+  "en": "SON",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082EC59",
+  "en": "YOUR",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082EC5E",
+  "en": "YOU'RE",
+  "pt": "",
+  "max_width": 39
+ },
+ {
+  "offset": "082EC65",
+  "en": "YOU'VE",
+  "pt": "",
+  "max_width": 39
+ },
+ {
+  "offset": "082EC6C",
+  "en": "MOTHER",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082EC73",
+  "en": "GRANDFATHER",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "082EC7F",
+  "en": "UNCLE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082EC85",
+  "en": "FATHER",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082EC8C",
+  "en": "BOY",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082EC90",
+  "en": "ADULT",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082EC96",
+  "en": "BROTHER",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082EC9E",
+  "en": "SISTER",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082ECA5",
+  "en": "GRANDMOTHER",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "082ECB1",
+  "en": "AUNT",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082ECB6",
+  "en": "PARENT",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082ECBD",
+  "en": "MAN",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082ECC1",
+  "en": "ME",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "082ECC4",
+  "en": "GIRL",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082ECC9",
+  "en": "BABE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082ECCE",
+  "en": "FAMILY",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082ECD5",
+  "en": "HER",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082ECD9",
+  "en": "HIM",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082ECDD",
+  "en": "HE",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "082ECE0",
+  "en": "PLACE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082ECE6",
+  "en": "DAUGHTER",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082ECEF",
+  "en": "HIS",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082ECF3",
+  "en": "HE'S",
+  "pt": "",
+  "max_width": 27
+ },
+ {
+  "offset": "082ECF8",
+  "en": "AREN'T",
+  "pt": "",
+  "max_width": 39
+ },
+ {
+  "offset": "082ECFF",
+  "en": "SIBLINGS",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082ED08",
+  "en": "KID",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082ED0C",
+  "en": "CHILDREN",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "082ED15",
+  "en": "MR.",
+  "pt": "",
+  "max_width": 21
+ },
+ {
+  "offset": "082ED19",
+  "en": "MRS.",
+  "pt": "",
+  "max_width": 27
+ },
+ {
+  "offset": "082ED1E",
+  "en": "MYSELF",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "082ED25",
+  "en": "I WAS",
+  "pt": "",
+  "max_width": 33
+ },
+ {
+  "offset": "082ED2B",
+  "en": "TO ME",
+  "pt": "",
+  "max_width": 33
+ },
+ {
+  "offset": "082ED31",
+  "en": "MY",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "082ED34",
+  "en": "I AM",
+  "pt": "",
+  "max_width": 27
+ },
+ {
+  "offset": "082ED39",
+  "en": "I'VE",
+  "pt": "",
+  "max_width": 27
+ },
+ {
+  "offset": "082ED3E",
+  "en": "WHO",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "082ED42",
+  "en": "SOMEONE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "082ED4A",
+  "en": "WHO WAS",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "082ED52",
+  "en": "TO WHOM",
+  "pt": "",
+  "max_width": 45
+ },
+ {
+  "offset": "082ED5A",
+  "en": "WHOSE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "082ED60",
+  "en": "WHO IS",
+  "pt": "",
+  "max_width": 39
+ },
+ {
+  "offset": "082ED67",
+  "en": "IT'S",
+  "pt": "",
+  "max_width": 27
+ },
+ {
+  "offset": "082ED6C",
+  "en": "LADY",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "082ED71",
+  "en": "FRIEND",
+  "pt": "",
+  "max_width": 42
+ }
+]

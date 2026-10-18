@@ -1,0 +1,4991 @@
+[
+ {
+  "offset": "08622FE",
+  "en": "{FD 13}'s {FD 16}\\ncured poison!",
+  "pt": "{FD 16} de {FD 13}\\ncurou o veneno!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0862314",
+  "en": "{FD 13}'s {FD 16}\\nhealed its burn!",
+  "pt": "{FD 16} de {FD 13}\\ncurou a queimadura!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "086232D",
+  "en": "{FD 13}'s {FD 16}\\nhealed its frostbite!",
+  "pt": "{FD 16} de {FD 13}\\ncurou a geladura!",
+  "max_lines": 2,
+  "max_width": 121
+ },
+ {
+  "offset": "086234B",
+  "en": "{FD 13}'s {FD 16}\\ndefrosted it!",
+  "pt": "{FD 16} de {FD 13}\\nderreteu o gelo!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0862361",
+  "en": "{FD 13}'s {FD 16}\\nwoke it from its sleep!",
+  "pt": "{FD 16} de {FD 13}\\npôs fim ao sono!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "0862381",
+  "en": "{FD 13}'s {FD 16}\\nsnapped it out of confusion!",
+  "pt": "{FD 16} de {FD 13}\\nacabou com a confusão!",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08623A6",
+  "en": "{FD 13}'s {FD 16}\\ncured its {FD 00} problem!",
+  "pt": "{FD 16} de {FD 13}\\ncurou o estado de {FD 00}!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08623C4",
+  "en": "{FD 13}'s {FD 16}\\nnormalized its status!",
+  "pt": "{FD 16} de {FD 13}\\nnormalizou o status!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "08623E3",
+  "en": "{FD 13}'s {FD 16}\\nrestored health!",
+  "pt": "{FD 16} de {FD 13}\\nrestaurou o HP!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "08623FC",
+  "en": "{FD 13}'s {FD 16}\\nrestored {FD 00}'s PP!",
+  "pt": "{FD 16} de {FD 13}\\nrepôs o PP de {FD 00}!",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "0862416",
+  "en": "{FD 13}'s {FD 16}\\nrestored its status!",
+  "pt": "{FD 16} de {FD 13}\\nrestaurou o status!",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "0862433",
+  "en": "{FD 13}'s {FD 16}\\nrestored its HP a little!",
+  "pt": "{FD 16} de {FD 13}\\nrestaurou um pouco de HP!",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "0862455",
+  "en": "{FD 16} allows the\\nuse of only {FD 14}!\\p",
+  "pt": "{FD 16} só permite\\no uso de {FD 14}!\\p"
+ },
+ {
+  "offset": "0862474",
+  "en": "{FD 10} hung on\\nusing its {FD 16}!",
+  "pt": "{FD 10} aguentou\\nfirme com {FD 16}!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "086248E",
+  "en": "You throw a BALL now, right?\\nI… I'll do my best!",
+  "pt": "Agora você joga um CAP, né?\\nEu… vou dar o meu melhor!",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08624BF",
+  "en": "SONIC endured\\nthe hit through sheer will!\\pSONIC is weakened, now's your chance!\\nThrow CAPs!{PAUSE 40}",
+  "pt": "SONIC aguentou o golpe\\nna pura força de vontade!\\pSONIC está fraco, é a sua chance!\\nJogue CAPs!{PAUSE 40}"
+ },
+ {
+  "offset": "086251E",
+  "en": "{FD 10} endured\\nthe hit using {FD 19}!",
+  "pt": "{FD 10} aguentou o\\ngolpe com {FD 19}!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "086253B",
+  "en": "{FD 0F} became fully charged\\ndue to its {FD 16}!",
+  "pt": "{FD 0F} ficou com carga total\\ngraças a {FD 16}!",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "0862562",
+  "en": "{FD 0F} was hurt\\nby its {FD 16}!",
+  "pt": "{FD 0F} se feriu\\ncom {FD 16}!",
+  "max_lines": 2,
+  "max_width": 99
+ },
+ {
+  "offset": "0862579",
+  "en": "{FD 11} was badly\\npoisoned by the {FD 16}!",
+  "pt": "{FD 16} envenenou\\n{FD 11} gravemente!",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "086259A",
+  "en": "{FD 11} was burned\\nby the {FD 16}!",
+  "pt": "{FD 16} queimou\\n{FD 11}!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "08625B3",
+  "en": "{FD 10}'s {FD 19} activates!",
+  "pt": "{FD 19} de {FD 10} entrou em ação!"
+ },
+ {
+  "offset": "08625C6",
+  "en": "Gravity intensified!",
+  "pt": "A gravidade aumentou!",
+  "max_width": 130
+ },
+ {
+  "offset": "08625DB",
+  "en": "{FD 10} was\\nidentified!",
+  "pt": "{FD 10} foi\\nidentificado!",
+  "max_lines": 2,
+  "max_width": 73
+ },
+ {
+  "offset": "08625EE",
+  "en": "{FD 10} woke up!",
+  "pt": "{FD 10} acordou!",
+  "max_width": 112
+ },
+ {
+  "offset": "08625FA",
+  "en": "{FD 0F} stole and\\nate {FD 10}'s {FD 16}!",
+  "pt": "{FD 0F} roubou e comeu\\n{FD 16} de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "0862614",
+  "en": "The tailwind blew from\\nbehind {FD 38} team!",
+  "pt": "Bateu um vento a favor\\nda equipe {FD 38}!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "086263B",
+  "en": "{FD 0F} went back\\nto {FD 36} {FD 35}!",
+  "pt": "{FD 0F} voltou para\\n{FD 36} {FD 35}!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "0862652",
+  "en": "{FD 10} can't use\\nitems anymore!",
+  "pt": "{FD 10} não pode\\nmais usar itens!",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "086266E",
+  "en": "{FD 0F} flung its\\n{FD 16}!",
+  "pt": "{FD 0F} lançou\\n{FD 16}!",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "086267F",
+  "en": "{FD 10} was prevented\\nfrom healing!",
+  "pt": "{FD 10} não pode mais\\nse curar!",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "086269E",
+  "en": "{FD 0F} switched its\\nAttack and Defense!",
+  "pt": "{FD 0F} trocou seu\\nAtaque e Defesa!",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "08626C2",
+  "en": "{FD 10}'s ability\\nwas suppressed!",
+  "pt": "{FD 10} ficou\\nsem habilidade!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "08626DF",
+  "en": "The {FD 14} shielded {FD 38}\\nteam from critical hits!",
+  "pt": "{FD 14} protegeu a equipe\\n{FD 38} de golpes críticos!",
+  "max_lines": 2,
+  "max_width": 165
+ },
+ {
+  "offset": "086270B",
+  "en": "{FD 0F} switched all its\\nchanges to its Attack and\\pSp. Atk with the target!",
+  "pt": "{FD 0F} trocou com o alvo\\ntodas as mudanças no seu Ataque\\pe no seu At. Esp.!"
+ },
+ {
+  "offset": "0862752",
+  "en": "{FD 0F} switched all its\\nchanges to its Defense and\\pSp. Def with the target!",
+  "pt": "{FD 0F} trocou com o alvo\\ntodas as mudanças na sua Defesa\\pe na sua Def. Esp.!"
+ },
+ {
+  "offset": "086279A",
+  "en": "{FD 10} acquired\\n{FD 19}!",
+  "pt": "{FD 10} obteve\\n{FD 19}!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "08627AA",
+  "en": "Poison Spikes were scattered all\\naround the opposing team's feet!",
+  "pt": "Espinhos venenosos se espalharam\\nsob os pés da equipe adversária!",
+  "max_lines": 2,
+  "max_width": 182
+ },
+ {
+  "offset": "08627EC",
+  "en": "{FD 0F} switched stat changes\\nwith the target!",
+  "pt": "{FD 0F} trocou as mudanças\\nde atributos com o alvo!",
+  "max_lines": 2,
+  "max_width": 173
+ },
+ {
+  "offset": "0862816",
+  "en": "{FD 0F} surrounded itself\\nwith a veil of water!",
+  "pt": "{FD 0F} se cercou com\\num véu de água!",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "0862841",
+  "en": "{FD 0F} levitated on\\nelectromagnetism!",
+  "pt": "{FD 0F} levitou com o\\neletromagnetismo!",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "0862863",
+  "en": "{FD 0F} twisted\\nthe dimensions!",
+  "pt": "{FD 0F} torceu\\nas dimensões!",
+  "max_lines": 2,
+  "max_width": 95
+ },
+ {
+  "offset": "086287E",
+  "en": "Pointed stones float in the air\\naround {FD 3B} team!",
+  "pt": "Pedras pontiagudas flutuam\\nao redor da equipe {FD 3B}!",
+  "max_lines": 2,
+  "max_width": 172
+ },
+ {
+  "offset": "08628AE",
+  "en": "It became cloaked in mystical\\nmoonlight!",
+  "pt": "Um luar místico\\nenvolveu a CAPTURA!",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "08628D7",
+  "en": "{FD 10} became\\ntrapped by swirling magma!",
+  "pt": "Um magma rodopiante\\nprendeu {FD 10}!",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08628FC",
+  "en": "{FD 0F} vanished\\ninstantly!",
+  "pt": "{FD 0F} sumiu\\nnum instante!",
+  "max_lines": 2,
+  "max_width": 101
+ },
+ {
+  "offset": "0862913",
+  "en": "{FD 14} protected\\n{FD 38} team!",
+  "pt": "{FD 14} protegeu\\na equipe {FD 38}!",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "0862929",
+  "en": "{FD 0F} shared its\\nguard with the target!",
+  "pt": "{FD 0F} dividiu sua\\ndefesa com o alvo!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "086294E",
+  "en": "{FD 0F} shared its\\npower with the target!",
+  "pt": "{FD 0F} dividiu seu\\npoder com o alvo!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "0862973",
+  "en": "It created a bizarre area in which the\\nDefense and Sp. Def stats are swapped!",
+  "pt": "Criou-se uma área bizarra em que a\\nDefesa e a Def. Esp. se invertem!",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "08629C1",
+  "en": "{FD 0F} became nimble!",
+  "pt": "{FD 0F} ficou ágil!",
+  "max_width": 144
+ },
+ {
+  "offset": "08629D3",
+  "en": "{FD 10} was hurled\\ninto the air!",
+  "pt": "{FD 10} voou\\npelos ares!",
+  "max_lines": 2,
+  "max_width": 109
+ },
+ {
+  "offset": "08629EF",
+  "en": "It created a bizarre area in which\\nPokémon's held items lose their effects!",
+  "pt": "Criou-se uma área bizarra em que os\\nitens segurados perdem o efeito!",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "0862A3B",
+  "en": "{FD 10} fell\\nstraight down!",
+  "pt": "{FD 10} caiu\\ndireto no chão!",
+  "max_lines": 2,
+  "max_width": 86
+ },
+ {
+  "offset": "0862A52",
+  "en": "{FD 10} transformed\\ninto the {FD 00} type!",
+  "pt": "{FD 10} virou o\\ntipo {FD 00}!",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "0862A73",
+  "en": "{FD 10} acquired\\nSimple!",
+  "pt": "{FD 10} obteve\\nSimples!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0862A87",
+  "en": "{FD 10}\\ntook the kind offer!",
+  "pt": "{FD 10} aceitou\\na gentil oferta!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "0862A9F",
+  "en": "{FD 10}'s stat changes\\nwere removed!",
+  "pt": "As mudanças de atributos\\nde {FD 10} sumiram!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "0862ABF",
+  "en": "{FD 0F} and\\n{FD 13} switched places!",
+  "pt": "{FD 0F} e {FD 13}\\ntrocaram de lugar!",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "0862ADA",
+  "en": "{FD 10}'s HP was restored!",
+  "pt": "{FD 10} recuperou o HP!",
+  "max_width": 164
+ },
+ {
+  "offset": "0862AF0",
+  "en": "{FD 0F} took\\n{FD 10} into the sky!",
+  "pt": "{FD 0F} levou {FD 10}\\npara o céu!",
+  "max_lines": 2,
+  "max_width": 123
+ },
+ {
+  "offset": "0862B09",
+  "en": "{FD 10} was freed\\nfrom the Sky Drop!",
+  "pt": "{FD 10} se soltou\\nda Queda Celeste!",
+  "max_lines": 2,
+  "max_width": 105
+ },
+ {
+  "offset": "0862B29",
+  "en": "{FD 10}'s move\\nwas postponed!",
+  "pt": "{FD 10} teve o\\ngolpe adiado!",
+  "max_lines": 2,
+  "max_width": 89
+ },
+ {
+  "offset": "0862B42",
+  "en": "{FD 0F}'s type\\nchanged to match the {FD 10}'s!",
+  "pt": "O tipo de {FD 0F} mudou\\npara o de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 179
+ },
+ {
+  "offset": "0862B67",
+  "en": "{FD 10} received {FD 16}\\nfrom {FD 0F}",
+  "pt": "{FD 10} recebeu {FD 16}\\nde {FD 0F}",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "0862B7E",
+  "en": "{FD 0F} can\\nuse items again!",
+  "pt": "{FD 0F} já pode\\nusar itens!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "0862B96",
+  "en": "electromagnetism",
+  "pt": "eletromagnetismo",
+  "max_width": 115
+ },
+ {
+  "offset": "0862BA7",
+  "en": "{FD 0F}'s {FD 00}\\nwore off!",
+  "pt": "{FD 00} de {FD 0F}\\nacabou!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0862BB9",
+  "en": "{FD 0F} can\\nuse sound-based moves again!",
+  "pt": "{FD 0F} pode usar golpes\\nsonoros de novo!",
+  "max_lines": 2,
+  "max_width": 165
+ },
+ {
+  "offset": "0862BDD",
+  "en": "{FD 0F} was freed\\nfrom the telekinesis!",
+  "pt": "{FD 0F} se livrou\\nda telecinese!",
+  "max_lines": 2,
+  "max_width": 121
+ },
+ {
+  "offset": "0862C00",
+  "en": "{FD 37} team's tailwind\\npetered out!",
+  "pt": "O vento a favor da equipe\\n{FD 37} acabou!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "0862C20",
+  "en": "{FD 37} team's Lucky Chant\\nwore off!",
+  "pt": "O Canto da Sorte da equipe\\n{FD 37} acabou!",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "0862C40",
+  "en": "The twisted dimensions returned to\\nnormal!",
+  "pt": "As dimensões distorcidas voltaram ao\\nnormal!",
+  "max_lines": 2,
+  "max_width": 194
+ },
+ {
+  "offset": "0862C6B",
+  "en": "Wonder Room wore off, and Defense\\nand Sp. Def stats returned to normal!",
+  "pt": "Sala Maravilha acabou, e a Defesa e a\\nDef. Esp. voltaram ao normal!",
+  "max_lines": 2,
+  "max_width": 204
+ },
+ {
+  "offset": "0862CB3",
+  "en": "Magic Room wore off, and held items'\\neffects returned to normal!",
+  "pt": "Sala Mágica acabou, e o efeito dos\\nitens segurados voltou ao normal!",
+  "max_lines": 2,
+  "max_width": 195
+ },
+ {
+  "offset": "0862CF4",
+  "en": "The effects of Mud Sport have faded.",
+  "pt": "Os efeitos de Brincar na Lama acabaram."
+ },
+ {
+  "offset": "0862D19",
+  "en": "The effects of Water Sport have faded.",
+  "pt": "Os efeitos de Brincar na Água acabaram."
+ },
+ {
+  "offset": "0862D40",
+  "en": "Gravity returned to normal!",
+  "pt": "A gravidade voltou ao normal!",
+  "max_width": 167
+ },
+ {
+  "offset": "0862D5C",
+  "en": "Aqua Ring restored\\n{FD 0F}'s HP!",
+  "pt": "Anel Aquático\\ncurou {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "0862D78",
+  "en": "{FD 10}'s {FD 19}\\nraised its {FD 00}!",
+  "pt": "{FD 19} de {FD 10}\\naumentou {FD 00}!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "0862D8F",
+  "en": "{FD 10}'s {FD 19}\\nlowered its {FD 00}!",
+  "pt": "{FD 19} de {FD 10}\\ndiminuiu {FD 00}!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "0862DA7",
+  "en": "{FD 0F}'s {FD 18}\\nraised its {FD 00}!",
+  "pt": "{FD 18} de {FD 0F}\\naumentou {FD 00}!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "0862DBE",
+  "en": "{FD 13}'s {FD 1A}\\nraised its {FD 00}!",
+  "pt": "{FD 1A} de {FD 13}\\naumentou {FD 00}!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "0862DD5",
+  "en": "{FD 10}'s {FD 19}\\nwore off!",
+  "pt": "{FD 19} de {FD 10}\\nperdeu o efeito!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0862DE7",
+  "en": "The electricity disappeared\\nfrom the battlefield.",
+  "pt": "A eletricidade sumiu\\ndo campo de batalha.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "0862E19",
+  "en": "The mist disappeared\\nfrom the battlefield.",
+  "pt": "A névoa sumiu do\\ncampo de batalha.",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "0862E44",
+  "en": "The weirdness disappeared\\nfrom the battlefield.",
+  "pt": "A esquisitice sumiu\\ndo campo de batalha.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "0862E74",
+  "en": "The grass disappeared\\nfrom the battlefield.",
+  "pt": "A grama sumiu do\\ncampo de batalha.",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "0862EA0",
+  "en": "{FD 10}'s {FD 19} maxed\\nits {FD 00}!",
+  "pt": "{FD 19} de {FD 10}\\nmaximizou {FD 00}!",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "0862EB6",
+  "en": "The poisoning healed {FD 0F}\\na little bit!",
+  "pt": "O veneno curou {FD 0F}\\num pouquinho!",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "0862EDC",
+  "en": "{FD 10} is tormented!",
+  "pt": "{FD 10} sofre tormento!",
+  "max_width": 139
+ },
+ {
+  "offset": "0862EED",
+  "en": "{FD 13} breaks the mold!",
+  "pt": "{FD 13} quebra o molde!",
+  "max_width": 154
+ },
+ {
+  "offset": "0862F01",
+  "en": "{FD 13} is radiating\\na bursting aura!",
+  "pt": "{FD 13} irradia uma\\naura explosiva!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "0862F22",
+  "en": "{FD 13} is radiating\\na blazing aura!",
+  "pt": "{FD 13} irradia uma\\naura ardente!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "0862F42",
+  "en": "{FD 13} can't get it going!",
+  "pt": "{FD 13} não engrena!",
+  "max_width": 165
+ },
+ {
+  "offset": "0862F59",
+  "en": "{FD 0F} finally got\\nits act together!",
+  "pt": "{FD 0F} finalmente\\nentrou no ritmo!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "0862F7A",
+  "en": "The {FD 0F}'s {FD 18}\\ntakes its toll!",
+  "pt": "{FD 18} de {FD 0F}\\ncobra o seu preço!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "0862F96",
+  "en": "{FD 0F} is hurt!",
+  "pt": "{FD 0F} se feriu!",
+  "max_width": 109
+ },
+ {
+  "offset": "0862FA2",
+  "en": "{FD 13} shuddered\\nin anticipation!",
+  "pt": "{FD 13} estremeceu\\nde antecipação!",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "0862FC0",
+  "en": "{FD 1A} alerted {FD 13}\\nto the {FD 10}'s {FD 00}!",
+  "pt": "{FD 1A} alertou {FD 13}\\nsobre {FD 00} de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "0862FDE",
+  "en": "{FD 0F}'s {FD 18}\\nhealed it a little bit!",
+  "pt": "{FD 18} curou\\num pouco {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 122
+ },
+ {
+  "offset": "0862FFE",
+  "en": "It started to hail!",
+  "pt": "Começou a cair granizo!",
+  "max_width": 122
+ },
+ {
+  "offset": "0863012",
+  "en": "It started to snow!",
+  "pt": "Começou a nevar!",
+  "max_width": 126
+ },
+ {
+  "offset": "0863026",
+  "en": "{FD 0F} frisked {FD 10} and\\nfound its {FD 16}!",
+  "pt": "{FD 0F} revistou {FD 10} e\\nachou {FD 16}!",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "0863046",
+  "en": "The opposing team is too nervous\\nto eat Berries!",
+  "pt": "A equipe adversária está nervosa\\ndemais para comer Frutas!",
+  "max_lines": 2,
+  "max_width": 182
+ },
+ {
+  "offset": "0863077",
+  "en": "{FD 0F} harvested\\nits {FD 16}!",
+  "pt": "{FD 0F} colheu\\n{FD 16}!",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "086308C",
+  "en": "{FD 0F}'s {FD 17}\\nraised its {FD 00}!",
+  "pt": "{FD 17} de {FD 0F}\\naumentou {FD 00}!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "08630A3",
+  "en": "The {FD 10} bounced the\\n{FD 0F} back!",
+  "pt": "{FD 10} rebateu\\n{FD 0F} de volta!",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08630BF",
+  "en": "{FD 0F}'s {FD 18} transformed\\nit into the {FD 00} type!",
+  "pt": "{FD 0F} virou o tipo {FD 00}\\ngraças a {FD 18}!",
+  "max_lines": 2,
+  "max_width": 173
+ },
+ {
+  "offset": "08630E8",
+  "en": "{FD 13} passed its {FD 16}\\nto {FD 0F} through {FD 17}!",
+  "pt": "{FD 13} passou {FD 16}\\npara {FD 0F} com {FD 17}!",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "086310B",
+  "en": "Pointed stones dug into\\n{FD 13}!",
+  "pt": "Pedras pontiagudas\\nferiram {FD 13}!",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "0863127",
+  "en": "The poison spikes disappeared\\nfrom around the opposing team's feet!",
+  "pt": "Os espinhos venenosos sumiram de\\nsob os pés da equipe adversária!",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "086316B",
+  "en": "{FD 13} was poisoned!",
+  "pt": "O veneno atingiu {FD 13}!",
+  "max_width": 140
+ },
+ {
+  "offset": "086317C",
+  "en": "{FD 13} was\\ncaught in a Sticky Web!",
+  "pt": "A Teia Pegajosa\\nprendeu {FD 13}!",
+  "max_lines": 2,
+  "max_width": 130
+ },
+ {
+  "offset": "086319B",
+  "en": "The healing wish came true\\nfor {FD 0F}!",
+  "pt": "O desejo de cura se\\nrealizou para {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08631BE",
+  "en": "{FD 0F} regained health!",
+  "pt": "{FD 0F} recuperou a saúde!",
+  "max_width": 155
+ },
+ {
+  "offset": "08631D2",
+  "en": "{FD 0F} became cloaked\\nin mystical moonlight!",
+  "pt": "Um luar místico\\nenvolveu {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "08631FB",
+  "en": "{FD 0F}'s {FD 00} was disabled\\nby {FD 10}'s {FD 19}!",
+  "pt": "{FD 19} de {FD 10} desativou\\n{FD 00} de {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "086321C",
+  "en": "{FD 0F} acquired\\n{FD 17}!",
+  "pt": "{FD 0F} obteve\\n{FD 17}!",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "086322C",
+  "en": "{FD 10}'s {FD 00}\\nwon't go higher!",
+  "pt": "{FD 00} de {FD 10}\\nnão sobe mais!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0863245",
+  "en": "{FD 0F}'s {FD 14} was\\nbounced back by {FD 10}'s\\l{FD 19}!",
+  "pt": "{FD 14} de {FD 0F} foi\\nrebatido por {FD 19}\\lde {FD 10}!",
+  "max_lines": 3,
+  "max_width": 148
+ },
+ {
+  "offset": "086326A",
+  "en": "{FD 0F} transformed into\\n{FD 10} using {FD 17}!",
+  "pt": "{FD 0F} se transformou em\\n{FD 10} com {FD 17}!",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "086328B",
+  "en": "This move effect is not done yet!\\p",
+  "pt": "O efeito deste golpe ainda não está pronto!\\p"
+ },
+ {
+  "offset": "08632AE",
+  "en": "{FD 0F} blew away\\nToxic Spikes!",
+  "pt": "{FD 0F} varreu os\\nEspinhos Tóxicos!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "08632C9",
+  "en": "{FD 0F} blew away\\nSticky Web!",
+  "pt": "{FD 0F} varreu a\\nTeia Pegajosa!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "08632E2",
+  "en": "{FD 0F} blew away\\nStealth Rock!",
+  "pt": "{FD 0F} varreu as\\nPedras Furtivas!",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "08632FD",
+  "en": "The spikes disappeared from\\nthe ground around {FD 38} team!",
+  "pt": "Os espinhos sumiram do chão\\nao redor da equipe {FD 38}!",
+  "max_lines": 2,
+  "max_width": 180
+ },
+ {
+  "offset": "0863334",
+  "en": "The poison spikes disappeared from\\nthe ground around {FD 38} team!",
+  "pt": "Os espinhos venenosos sumiram do\\nchão ao redor da equipe {FD 38}!",
+  "max_lines": 2,
+  "max_width": 194
+ },
+ {
+  "offset": "0863372",
+  "en": "The pointed stones disappeared\\nfrom around {FD 38} team!",
+  "pt": "As pedras pontiagudas sumiram\\nde perto da equipe {FD 38}!",
+  "max_lines": 2,
+  "max_width": 176
+ },
+ {
+  "offset": "08633A6",
+  "en": "The sticky web has disappeared from\\nthe ground around {FD 38} team!",
+  "pt": "A teia pegajosa sumiu do chão\\nao redor da equipe {FD 38}!",
+  "max_lines": 2,
+  "max_width": 199
+ },
+ {
+  "offset": "08633E5",
+  "en": "A sticky web spreads out on the\\nground around {FD 3B} team!",
+  "pt": "Uma teia pegajosa se espalha no\\nchão ao redor da equipe {FD 3B}!",
+  "max_lines": 2,
+  "max_width": 175
+ },
+ {
+  "offset": "086341C",
+  "en": "The opposing {FD 10}'s\\nmove was postponed!",
+  "pt": "O golpe do adversário\\n{FD 10} foi adiado!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "0863442",
+  "en": "A deluge of ions showers\\nthe battlefield!",
+  "pt": "Uma chuva de íons cai\\nsobre o campo de batalha!",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "086346C",
+  "en": "{FD 10}'s stat changes were\\nall reversed!",
+  "pt": "As mudanças de atributos de\\n{FD 10} se inverteram!",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "0863491",
+  "en": "Mist swirled about\\nthe battlefield!",
+  "pt": "A névoa envolveu o\\ncampo de batalha!",
+  "max_lines": 2,
+  "max_width": 105
+ },
+ {
+  "offset": "08634B5",
+  "en": "Grass grew to cover\\nthe battlefield!",
+  "pt": "A grama cobriu o\\ncampo de batalha!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "08634DA",
+  "en": "An electric current runs across\\nthe battlefield!",
+  "pt": "Uma corrente elétrica percorre\\no campo de batalha!",
+  "max_lines": 2,
+  "max_width": 175
+ },
+ {
+  "offset": "086350B",
+  "en": "The battlefield got weird!",
+  "pt": "O campo ficou esquisito!",
+  "max_width": 160
+ },
+ {
+  "offset": "0863526",
+  "en": "The {FD 10}'s moves\\nhave been electrified!",
+  "pt": "Os golpes de {FD 10}\\nforam eletrificados!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "086354C",
+  "en": "{FD 16}'s effects prevent\\nstatus moves from being used!\\p",
+  "pt": "Os efeitos de {FD 16} impedem\\no uso de golpes de status!\\p"
+ },
+ {
+  "offset": "0863580",
+  "en": "{FD 0F} can't use {FD 14}\\nbecause of gravity!\\p",
+  "pt": "{FD 0F} não pode usar {FD 14}\\npor causa da gravidade!\\p"
+ },
+ {
+  "offset": "08635A5",
+  "en": "{FD 0F} was\\nprevented from healing!\\p",
+  "pt": "{FD 0F} não pode\\nse curar!\\p"
+ },
+ {
+  "offset": "08635C5",
+  "en": "{FD 0F}'s {FD 16} is\\nreacting to {FD 35}'s Mega Ring!",
+  "pt": "{FD 16} de {FD 0F} está\\nreagindo ao Mega-Anel de {FD 35}!",
+  "max_lines": 2,
+  "max_width": 180
+ },
+ {
+  "offset": "08635EC",
+  "en": "{FD 35}'s fervent wish\\nhas reached {FD 0F}!",
+  "pt": "O desejo de {FD 35}\\nchegou até {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 130
+ },
+ {
+  "offset": "086360E",
+  "en": "{FD 0F} has Mega Evolved into\\nMega {FD 00}!",
+  "pt": "{FD 0F} Mega Evoluiu para\\nMega {FD 00}!",
+  "max_lines": 2,
+  "max_width": 168
+ },
+ {
+  "offset": "0863630",
+  "en": "drastically ",
+  "pt": "drasticamente ",
+  "max_width": 86
+ },
+ {
+  "offset": "086363D",
+  "en": "severely ",
+  "pt": "muitíssimo ",
+  "max_width": 72
+ },
+ {
+  "offset": "0863647",
+  "en": "{FD 10} has been afflicted\\nwith an infestation by {FD 0F}!",
+  "pt": "{FD 0F} infestou\\n{FD 10}!",
+  "max_lines": 2,
+  "max_width": 176
+ },
+ {
+  "offset": "0863678",
+  "en": "It had no effect\\non {FD 10}!",
+  "pt": "Não teve efeito\\nem {FD 10}!",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "0863690",
+  "en": "The bursting flames\\nhit {FD 13}!",
+  "pt": "As chamas explosivas\\natingiram {FD 13}!",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "08636AC",
+  "en": "{FD 10} received {FD 16}\\nfrom {FD 0F}!",
+  "pt": "{FD 10} recebeu {FD 16}\\nde {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08636C4",
+  "en": "{FD 00} type was added to\\n{FD 10}!",
+  "pt": "O tipo {FD 00} foi\\nadicionado a {FD 10}!",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08636DD",
+  "en": "{FD 10} fell for\\nthe feint!",
+  "pt": "{FD 10} caiu\\nna finta!",
+  "max_lines": 2,
+  "max_width": 95
+ },
+ {
+  "offset": "08636F4",
+  "en": "{FD 0F} cannot\\nuse {FD 14}!",
+  "pt": "{FD 0F} não pode\\nusar {FD 14}!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "0863706",
+  "en": "{FD 10} is covered in powder!",
+  "pt": "Há pó cobrindo {FD 10}!"
+ },
+ {
+  "offset": "086371F",
+  "en": "When the flame touched the powder\\non the Pokémon, it exploded!",
+  "pt": "Quando a chama tocou o pó na\\nCAPTURA, houve uma explosão!",
+  "max_lines": 2,
+  "max_width": 190
+ },
+ {
+  "offset": "086375E",
+  "en": "Belch cannot be used!\\p",
+  "pt": "Arroto não pode ser usado!\\p"
+ },
+ {
+  "offset": "0863775",
+  "en": "{FD 0F} stole the target's\\nboosted stats!",
+  "pt": "{FD 0F} roubou os atributos\\naumentados do alvo!",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "086379A",
+  "en": "{FD 10} can't stay airborne\\nbecause of gravity!",
+  "pt": "{FD 10} não consegue voar\\npor causa da gravidade!",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08637C5",
+  "en": "{FD 10} surrounds itself\\nwith a protective mist!",
+  "pt": "{FD 10} se cerca de\\numa névoa protetora!",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08637F1",
+  "en": "{FD 0F} is healed\\nby the grassy terrain!",
+  "pt": "{FD 0F} se curou com\\no terreno gramado!",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "0863815",
+  "en": "{FD 10} surrounds itself\\nwith electrified terrain!",
+  "pt": "{FD 10} se cerca de um\\nterreno eletrificado!",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "0863843",
+  "en": "{FD 10} surrounds itself\\nwith psychic terrain!",
+  "pt": "{FD 10} se cerca de um\\nterreno psíquico!",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "086386D",
+  "en": "{FD 10} is not affected\\nthanks to its {FD 16}!",
+  "pt": "{FD 10} não sofre efeito\\ngraças a {FD 16}!",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "0863892",
+  "en": "{FD 10} surrounded itself\\nwith a veil of petals!",
+  "pt": "{FD 10} se cercou com\\num véu de pétalas!",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08638BE",
+  "en": "{FD 10} surrounded itself\\nwith a veil of sweetness!",
+  "pt": "{FD 10} se cercou com\\num véu de doçura!",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08638ED",
+  "en": "{FD 10} is protected\\nby an aromatic veil!",
+  "pt": "Um véu aromático\\nprotege {FD 10}!",
+  "max_lines": 2,
+  "max_width": 121
+ },
+ {
+  "offset": "0863912",
+  "en": "Congratulations, {FD 23}!",
+  "pt": "Parabéns, {FD 23}!",
+  "max_width": 161
+ },
+ {
+  "offset": "0863927",
+  "en": "{FD 0F} used the move\\ninstructed by {FD 00}!",
+  "pt": "{FD 0F} usou o golpe\\ninstruído por {FD 00}!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "086394A",
+  "en": "{FD 0F}\\nconcentrated intensely!",
+  "pt": "{FD 0F} se\\nconcentrou intensamente!",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "0863965",
+  "en": "{FD 16} strengthened\\n{FD 0F}'s power!",
+  "pt": "{FD 16} fortaleceu\\no poder de {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "0863981",
+  "en": "{FD 16} weakened the damage\\nto {FD 10}!",
+  "pt": "{FD 16} reduziu o dano\\nem {FD 10}!",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "086399F",
+  "en": "{FD 10} ate its {FD 16}!",
+  "pt": "{FD 10} comeu {FD 16}!",
+  "max_width": 155
+ },
+ {
+  "offset": "08639AE",
+  "en": "{FD 13} floats in the air\\nwith its {FD 16}!",
+  "pt": "{FD 13} flutua no ar\\ncom {FD 16}!",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08639D0",
+  "en": "{FD 10}'s {FD 16} popped!",
+  "pt": "{FD 16} de {FD 10} estourou!",
+  "max_width": 163
+ },
+ {
+  "offset": "08639E0",
+  "en": "{FD 11}'s {FD 16}\\nwas burnt up!",
+  "pt": "{FD 16} de {FD 11}\\nqueimou por inteiro!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "08639F6",
+  "en": "{FD 0F} stole and ate\\n{FD 11}'s {FD 16}!",
+  "pt": "{FD 0F} roubou e comeu\\n{FD 16} de {FD 11}!",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "0863A10",
+  "en": "{FD 10}'s Illusion wore off!",
+  "pt": "A Ilusão de {FD 10} acabou!",
+  "max_width": 171
+ },
+ {
+  "offset": "0863A28",
+  "en": "{FD 0F} cured\\n{FD 10}'s problem!",
+  "pt": "{FD 0F} curou o\\nmal de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "0863A3F",
+  "en": "{FD 0F} burned itself out!",
+  "pt": "{FD 0F} se consumiu no fogo!",
+  "max_width": 164
+ },
+ {
+  "offset": "0863A55",
+  "en": "{FD 0F}'s {FD 17}\\ncured {FD 13}'s problem!",
+  "pt": "{FD 17} de {FD 0F} curou\\no problema de {FD 13}!",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "0863A71",
+  "en": "{FD 13}'s {FD 1A}\\nwas taken over!",
+  "pt": "{FD 1A} de {FD 13}\\nfoi tomada!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0863A89",
+  "en": "{FD 0F} is absorbing power!",
+  "pt": "{FD 0F} está absorvendo poder!",
+  "max_width": 169
+ },
+ {
+  "offset": "0863AA0",
+  "en": "No one will be able to run away\\nduring the next turn!",
+  "pt": "Ninguém vai conseguir fugir\\ndurante o próximo turno!",
+  "max_lines": 2,
+  "max_width": 166
+ },
+ {
+  "offset": "0863AD6",
+  "en": "{FD 13} fell in love\\nfrom the {FD 16}!",
+  "pt": "{FD 13} se apaixonou\\ncom {FD 16}!",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "0863AF3",
+  "en": "{FD 0F} became cloaked\\nin a freezing light!",
+  "pt": "Uma luz congelante\\nenvolveu {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "0863B1A",
+  "en": "{FD 10}'s {FD 00}\\nwas not lowered!",
+  "pt": "{FD 00} de {FD 10}\\nnão diminuiu!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0863B33",
+  "en": "{FD 10}'s aura flared to life!",
+  "pt": "A aura de {FD 10} se acendeu!"
+ },
+ {
+  "offset": "0863B4D",
+  "en": "The effects of weather\\ndisappeared.",
+  "pt": "Os efeitos do clima\\ndesapareceram.",
+  "max_lines": 2,
+  "max_width": 132
+ },
+ {
+  "offset": "0863B71",
+  "en": "{FD 13} is exerting its\\npressure!",
+  "pt": "{FD 13} está exercendo\\nsua pressão!",
+  "max_lines": 2,
+  "max_width": 132
+ },
+ {
+  "offset": "0863B8E",
+  "en": "{FD 13} is radiating\\na dark aura!",
+  "pt": "{FD 13} irradia uma\\naura sombria!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "0863BAB",
+  "en": "{FD 13} is radiating\\na fairy aura!",
+  "pt": "{FD 13} irradia uma\\naura de fada!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "0863BC9",
+  "en": "{FD 13} reversed all\\nother Pokémon's auras!",
+  "pt": "{FD 13} inverteu a aura\\ndas outras CAPTURAS!",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "0863BF0",
+  "en": "{FD 13} is drowsing!",
+  "pt": "{FD 13} cochila!",
+  "max_width": 131
+ },
+ {
+  "offset": "0863C00",
+  "en": "All screens on the field were\\ncleansed!",
+  "pt": "Todas as barreiras do campo\\nforam removidas!",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "0863C28",
+  "en": "{FD 13} found\\na {FD 16}!",
+  "pt": "{FD 13} achou\\n{FD 16}!",
+  "max_lines": 2,
+  "max_width": 85
+ },
+ {
+  "offset": "0863C37",
+  "en": "{FD 13}'s {FD 1A}\\nraised its {FD 00}!",
+  "pt": "{FD 1A} de {FD 13}\\naumentou {FD 00}!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "0863C4E",
+  "en": "A sandstorm kicked up!",
+  "pt": "Uma tempestade de\\nareia começou!",
+  "max_width": 142
+ },
+ {
+  "offset": "0863C65",
+  "en": "Both Pokémon will perish\\nin three turns!",
+  "pt": "As duas CAPTURAS vão\\ndesmaiar em três turnos!",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "0863C8E",
+  "en": "{FD 19} raised {FD 10}'s\\n{FD 00} drastically!",
+  "pt": "{FD 19} aumentou {FD 00}\\nde {FD 10} drasticamente!",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "0863CAD",
+  "en": "{FD 13} has two Abilities!",
+  "pt": "{FD 13} tem duas Habilidades!",
+  "max_width": 161
+ },
+ {
+  "offset": "0863CC3",
+  "en": "{FD 11}'s\\nstat changes were reset!",
+  "pt": "As mudanças de atributos\\nde {FD 11} foram zeradas!",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "0863CE1",
+  "en": "{FD 0F} can act faster,\\nthanks to {FD 00}!",
+  "pt": "{FD 0F} age mais rápido\\ngraças a {FD 00}!",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "0863D02",
+  "en": "{FD 13} boosted the accuracy of its\\nnext move using {FD 16}!",
+  "pt": "{FD 13} aumentou a precisão do seu\\npróximo golpe com {FD 16}!",
+  "max_lines": 2,
+  "max_width": 202
+ },
+ {
+  "offset": "0863D35",
+  "en": "{FD 13} shook off\\nthe taunt!",
+  "pt": "{FD 13} se livrou\\nda provocação!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "0863D4D",
+  "en": "{FD 13} got over\\nits infatuation!",
+  "pt": "{FD 13} superou\\na paixão!",
+  "max_lines": 2,
+  "max_width": 99
+ },
+ {
+  "offset": "0863D6A",
+  "en": "{FD 0F} surrounds\\nitself with its Z-Power!",
+  "pt": "{FD 0F} se cerca\\ndo seu Poder Z!",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "0863D90",
+  "en": "{FD 0F} unleashes\\nits full-force Z-Move!",
+  "pt": "{FD 0F} desfere seu\\nGolpe Z com força total!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "0863DB4",
+  "en": "{FD 13} returned its\\ndecreased stats to normal using\\lits Z-Power!",
+  "pt": "{FD 13} usou o Poder Z\\npara normalizar os atributos\\lque tinham diminuído!",
+  "max_lines": 3,
+  "max_width": 178
+ },
+ {
+  "offset": "0863DF1",
+  "en": "{FD 13} boosted all\\nof its stats using its Z-Power!",
+  "pt": "{FD 13} aumentou todos os\\nseus atributos com o Poder Z!",
+  "max_lines": 2,
+  "max_width": 172
+ },
+ {
+  "offset": "0863E20",
+  "en": "{FD 13} boosted its\\ncritical-hit ratio using its Z-Power!",
+  "pt": "{FD 13} aumentou a chance de\\ngolpe crítico com o Poder Z!",
+  "max_lines": 2,
+  "max_width": 201
+ },
+ {
+  "offset": "0863E55",
+  "en": "{FD 13} restored its\\nHP using its Z-Power!",
+  "pt": "{FD 13} restaurou o\\nHP com o Poder Z!",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "0863E7B",
+  "en": "{FD 13} boosted\\nits stats using its Z-Power!",
+  "pt": "{FD 13} aumentou seus\\natributos com o Poder Z!",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "0863EA3",
+  "en": "{FD 13}'s HP was restored by the Z-Power!",
+  "pt": "O HP de {FD 13} foi restaurado pelo Poder Z!"
+ },
+ {
+  "offset": "0863EE8",
+  "en": "{FD 0F}'s item cannot be removed!",
+  "pt": "O item de {FD 0F} não pode ser removido!"
+ },
+ {
+  "offset": "0863F05",
+  "en": "The {FD 16} attached itself to\\n{FD 0F}!",
+  "pt": "{FD 16} grudou\\nem {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "0863F23",
+  "en": "{FD 10}'s\\nburn was healed.",
+  "pt": "{FD 10} curou\\na queimadura.",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "0863F39",
+  "en": "{FD 13} held up its {FD 16}\\nagainst {FD 0F}!",
+  "pt": "{FD 13} ergueu {FD 16}\\ncontra {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "0863F57",
+  "en": "{FD 13} is switched\\nout with the {FD 16}!",
+  "pt": "{FD 13} sai da batalha\\ncom {FD 16}!",
+  "max_lines": 2,
+  "max_width": 123
+ },
+ {
+  "offset": "0863F77",
+  "en": "{FD 0F} got over\\nits infatuation!",
+  "pt": "{FD 0F} superou\\na paixão!",
+  "max_lines": 2,
+  "max_width": 99
+ },
+ {
+  "offset": "0863F94",
+  "en": "{FD 0F} is\\ntormented no more!",
+  "pt": "{FD 0F} não sofre\\nmais tormento!",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "0863FAD",
+  "en": "{FD 0F} is cured of\\nits heal block!",
+  "pt": "{FD 0F} se livrou do\\nBloqueio de Cura!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "0863FCC",
+  "en": "{FD 0F} became fully charged\\ndue to its bond with its trainer!\\p",
+  "pt": "{FD 0F} ficou com carga total\\ngraças ao laço com seu treinador!\\p"
+ },
+ {
+  "offset": "0864007",
+  "en": "{FD 0F} became Ash-{FD 00}!\\p",
+  "pt": "{FD 0F} virou Ash-{FD 00}!\\p"
+ },
+ {
+  "offset": "086401A",
+  "en": "The sunlight turned\\nextremely harsh!",
+  "pt": "O sol ficou\\nextremamente forte!",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "086403F",
+  "en": "The extreme sunlight faded.{PAUSE 40}",
+  "pt": "O sol extremo se dissipou.{PAUSE 40}",
+  "max_width": 169
+ },
+ {
+  "offset": "086405E",
+  "en": "The Water-type attack evaporated\\nin the harsh sunlight!",
+  "pt": "O ataque do tipo Água evaporou\\nsob o sol forte!",
+  "max_lines": 2,
+  "max_width": 191
+ },
+ {
+  "offset": "0864096",
+  "en": "The extremely harsh sunlight\\nwas not lessened at all!",
+  "pt": "O sol extremamente forte\\nnão diminuiu nem um pouco!",
+  "max_lines": 2,
+  "max_width": 161
+ },
+ {
+  "offset": "08640CC",
+  "en": "A heavy rain began to fall!",
+  "pt": "Caiu uma chuva forte!",
+  "max_width": 162
+ },
+ {
+  "offset": "08640E8",
+  "en": "The heavy rain has lifted!{PAUSE 40}",
+  "pt": "A chuva forte parou!{PAUSE 40}",
+  "max_width": 159
+ },
+ {
+  "offset": "0864106",
+  "en": "The Fire-type attack fizzled out\\nin the heavy rain!",
+  "pt": "O ataque do tipo Fogo se apagou\\nna chuva forte!",
+  "max_lines": 2,
+  "max_width": 183
+ },
+ {
+  "offset": "086413A",
+  "en": "There is no relief from\\nthis heavy rain!",
+  "pt": "Não há trégua nesta\\nchuva forte!",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "0864163",
+  "en": "A mysterious air current is\\nprotecting Flying-type Pokémon!",
+  "pt": "Uma corrente de ar misteriosa\\nprotege as CAPTURAS Voadoras!",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "086419F",
+  "en": "The mysterious strong winds\\nhave dissipated!{PAUSE 40}",
+  "pt": "Os fortes ventos misteriosos\\nse dissiparam!{PAUSE 40}",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08641CF",
+  "en": "The mysterious air current\\nblows on regardless!",
+  "pt": "A corrente de ar misteriosa\\ncontinua soprando!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08641FF",
+  "en": "The mysterious strong winds\\nweakened the attack!",
+  "pt": "Os fortes ventos misteriosos\\nenfraqueceram o ataque!",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "0864230",
+  "en": "Stuff Cheeks cannot be\\nselected without a Berry!\\p",
+  "pt": "Encher Bochecha não pode ser\\nescolhido sem uma Fruta!\\p"
+ },
+ {
+  "offset": "0864262",
+  "en": "{FD 0F}'s Primal Reversion!\\nIt reverted to its primal form!",
+  "pt": "Regressão Primitiva de {FD 0F}!\\nVoltou à sua forma primitiva!",
+  "max_lines": 2,
+  "max_width": 169
+ },
+ {
+  "offset": "0864299",
+  "en": "But {FD 0F} can't\\nuse the move!",
+  "pt": "Mas {FD 0F} não\\npode usar o golpe!",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "08642B4",
+  "en": "But Hoopa can't use it\\nthe way it is now!",
+  "pt": "Mas Hoopa não pode\\nusá-lo na forma atual!",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "08642DE",
+  "en": "It broke through the\\n{FD 10}'s protection!",
+  "pt": "O golpe rompeu a\\nproteção de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "0864304",
+  "en": "{FD 18} allows the\\nuse of only {FD 14}!\\p",
+  "pt": "{FD 18} só permite\\no uso de {FD 14}!\\p"
+ },
+ {
+  "offset": "0864323",
+  "en": "{FD 10} swapped Abilities\\nwith its target!",
+  "pt": "{FD 10} trocou de\\nHabilidade com o alvo!",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "0864349",
+  "en": "{FD 10} is protected\\nby a pastel veil!",
+  "pt": "Um véu pastel\\nprotege {FD 10}!",
+  "max_lines": 2,
+  "max_width": 121
+ },
+ {
+  "offset": "086436B",
+  "en": "{FD 10} was cured\\nof its poisoning!",
+  "pt": "{FD 10} se curou\\ndo envenenamento!",
+  "max_lines": 2,
+  "max_width": 105
+ },
+ {
+  "offset": "086438A",
+  "en": "{FD 13}'s type\\nchanged to {FD 00}!",
+  "pt": "O tipo de {FD 13}\\nmudou para {FD 00}!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "08643A3",
+  "en": "Neither Pokémon can run away!",
+  "pt": "Nenhuma CAPTURA pode fugir!"
+ },
+ {
+  "offset": "08643C1",
+  "en": "{FD 0F} can no longer escape\\nbecause it used {FD 14}!",
+  "pt": "{FD 0F} não pode mais fugir\\nporque usou {FD 14}!",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "08643ED",
+  "en": "{FD 10} became\\nweaker to fire!",
+  "pt": "{FD 10} ganhou\\nfraqueza a fogo!",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "0864407",
+  "en": "{FD 10} is about\\nto be attacked by its {FD 00}!",
+  "pt": "{FD 00} está prestes\\na atacar {FD 10}!",
+  "max_lines": 2,
+  "max_width": 171
+ },
+ {
+  "offset": "086442D",
+  "en": "{FD 10} can no longer escape\\nbecause of {FD 14}!",
+  "pt": "{FD 10} não pode mais fugir\\npor causa de {FD 14}!",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "0864454",
+  "en": "Neutralizing Gas filled the area!",
+  "pt": "Gás Anulador tomou conta da área!"
+ },
+ {
+  "offset": "0864476",
+  "en": "The effects of Neutralizing\\nGas wore off!",
+  "pt": "Os efeitos do Gás Anulador\\nacabaram!",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08644A0",
+  "en": "{FD 0F} took {FD 10}\\ninto the air!",
+  "pt": "{FD 0F} levou {FD 10}\\npara o ar!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "08644B9",
+  "en": "But the target\\nwas too heavy!",
+  "pt": "Mas o alvo era\\npesado demais!",
+  "max_lines": 2,
+  "max_width": 87
+ },
+ {
+  "offset": "08644D7",
+  "en": "{FD 0F} is overflowing\\nwith space energy!",
+  "pt": "{FD 0F} transborda\\nde energia espacial!",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "08644FC",
+  "en": "{FD 0F} started\\nheating up its beak!",
+  "pt": "{FD 0F} começou a\\naquecer o bico!",
+  "max_lines": 2,
+  "max_width": 115
+ },
+ {
+  "offset": "086451C",
+  "en": "{FD 0F} swapped the battle\\neffects affecting each side!",
+  "pt": "{FD 0F} trocou os efeitos de\\nbatalha de cada lado do campo!",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "086454F",
+  "en": "{FD 0F} managed to\\nexpel the poison!",
+  "pt": "{FD 0F} conseguiu\\nexpelir o veneno!",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "086456F",
+  "en": "{FD 0F} shook itself awake!",
+  "pt": "{FD 0F} se sacudiu e acordou!",
+  "max_width": 171
+ },
+ {
+  "offset": "0864586",
+  "en": "{FD 0F} gathered all its energy\\nto overcome its paralysis!",
+  "pt": "{FD 0F} juntou toda a energia\\npara superar a paralisia!",
+  "max_lines": 2,
+  "max_width": 176
+ },
+ {
+  "offset": "08645BC",
+  "en": "{FD 0F} healed its burn with\\nits sheer determination!",
+  "pt": "{FD 0F} curou a queimadura\\ncom pura determinação!",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08645ED",
+  "en": "{FD 0F} healed its frostbite with\\nits sheer determination!",
+  "pt": "{FD 0F} curou a geladura\\ncom pura determinação!",
+  "max_lines": 2,
+  "max_width": 187
+ },
+ {
+  "offset": "0864623",
+  "en": "{FD 0F} melted the ice with\\nits fiery determination!",
+  "pt": "{FD 0F} derreteu o gelo\\ncom determinação ardente!",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "0864653",
+  "en": "{FD 10} toughed it out\\nto show you its best side!",
+  "pt": "{FD 10} resistiu firme para\\nmostrar seu melhor lado!",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "0864680",
+  "en": "{FD 0F} used up all\\nof its electricity!",
+  "pt": "{FD 0F} gastou toda\\na sua eletricidade!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "08646A3",
+  "en": "{FD 0F} switched {FD 00}\\nwith its target!",
+  "pt": "{FD 0F} trocou {FD 00}\\ncom o alvo!",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08646C3",
+  "en": "Being hit by {FD 14}\\ncharged {FD 10} with power!",
+  "pt": "Ser atingido por {FD 14}\\nencheu {FD 10} de poder!",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08646EA",
+  "en": "The harsh sunlight activated\\n{FD 13}'s {FD 17}!",
+  "pt": "O sol forte ativou\\n{FD 17} de {FD 13}!",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "0864710",
+  "en": "{FD 13}'s {FD 00} was heightened!",
+  "pt": "{FD 00} de {FD 13} foi elevado!"
+ },
+ {
+  "offset": "0864728",
+  "en": "The Electric Terrain activated\\n{FD 13}'s {FD 17}!",
+  "pt": "O Terreno Elétrico ativou\\n{FD 17} de {FD 13}!",
+  "max_lines": 2,
+  "max_width": 170
+ },
+ {
+  "offset": "0864750",
+  "en": "{FD 0F}'s {FD 18}\\nweakened the {FD 00} of\\lall surrounding Pokémon!\\p",
+  "pt": "{FD 18} de {FD 0F}\\nenfraqueceu {FD 00} de\\ltodas as CAPTURAS ao redor!\\p"
+ },
+ {
+  "offset": "0864785",
+  "en": "BOWSER gained strength\\nfrom the fallen!",
+  "pt": "BOWSER ganhou força\\ncom os caídos!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "08647AD",
+  "en": "{FD 0F} set a shell trap!",
+  "pt": "{FD 0F} armou uma armadilha!",
+  "max_width": 155
+ },
+ {
+  "offset": "08647C2",
+  "en": "{FD 0F}'s shell trap didn't work!",
+  "pt": "A Armadilha Concha de {FD 0F} falhou!"
+ },
+ {
+  "offset": "08647DF",
+  "en": "{FD 10} couldn't fully protect\\nitself and got hurt!",
+  "pt": "{FD 10} não se protegeu\\ntotalmente e se feriu!",
+  "max_lines": 2,
+  "max_width": 171
+ },
+ {
+  "offset": "086480E",
+  "en": "{FD 0F}'s stockpiled\\neffect wore off!",
+  "pt": "O efeito acumulado de\\n{FD 0F} acabou!",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "086482F",
+  "en": "{FD 00} was revived and\\nis ready to fight again!",
+  "pt": "{FD 00} reviveu e já\\npode lutar de novo!",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "086485B",
+  "en": "{FD 00} had its\\nHP restored!",
+  "pt": "{FD 00} teve o\\nHP restaurado!",
+  "max_lines": 2,
+  "max_width": 92
+ },
+ {
+  "offset": "0864873",
+  "en": "{FD 00} had\\nits status healed!",
+  "pt": "{FD 00} teve\\no status curado!",
+  "max_lines": 2,
+  "max_width": 106
+ },
+ {
+  "offset": "086488D",
+  "en": "{FD 00} had its\\nPP restored!",
+  "pt": "{FD 00} teve o\\nPP restaurado!",
+  "max_lines": 2,
+  "max_width": 92
+ },
+ {
+  "offset": "08648A5",
+  "en": "{FD 0F} trapped\\nthe {FD 10}!",
+  "pt": "{FD 0F} prendeu\\n{FD 10}!",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "08648B8",
+  "en": "{FD 13} used its {FD 16}\\nto mirror its opponent's stat changes!",
+  "pt": "{FD 13} usou {FD 16} para copiar\\nas mudanças de atributos do oponente!",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "08648EE",
+  "en": "{FD 0F} corroded\\n{FD 10}'s {FD 16}!",
+  "pt": "{FD 0F} corroeu\\n{FD 16} de {FD 10}!",
+  "max_lines": 2,
+  "max_width": 110
+ },
+ {
+  "offset": "0864903",
+  "en": "Bright light is about to\\nburst out of {FD 0F}!",
+  "pt": "Uma luz intensa vai\\nirromper de {FD 0F}!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "086492D",
+  "en": "{FD 0F} regained its\\ntrue power through Ultra Burst!",
+  "pt": "{FD 0F} recuperou o poder\\nverdadeiro com a Ultra Explosão!",
+  "max_lines": 2,
+  "max_width": 175
+ },
+ {
+  "offset": "086495D",
+  "en": "The rest of your team gained EXP.\\nPoints thanks to the {FD 16}!\\p",
+  "pt": "O resto da sua equipe ganhou Pontos\\nde EXP. graças a {FD 16}!\\p"
+ },
+ {
+  "offset": "0864999",
+  "en": "{FD 00} cannot be used!\\p",
+  "pt": "{FD 00} não pode ser usado!\\p"
+ },
+ {
+  "offset": "08649AD",
+  "en": "{FD 10} is being salt cured!",
+  "pt": "{FD 10} sofre com o Salgamento!",
+  "max_width": 171
+ },
+ {
+  "offset": "08649C5",
+  "en": "{FD 10} is hurt by {FD 00}!",
+  "pt": "{FD 10} se feriu com {FD 00}!",
+  "max_width": 169
+ },
+ {
+  "offset": "08649D7",
+  "en": "{FD 13} copied its\\nopponent's stat changes!",
+  "pt": "{FD 13} copiou as\\nalterações do oponente!",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08649FE",
+  "en": "{FD 10} got covered\\nin sticky candy syrup!",
+  "pt": "Calda grudenta\\ncobriu {FD 10}!",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "0864A24",
+  "en": "{FD 0F} shed its tail to create a decoy!",
+  "pt": "{FD 0F} soltou a cauda para criar uma isca!"
+ },
+ {
+  "offset": "0864A48",
+  "en": "{FD 0F} is preparing to tell\\na chillingly bad joke!",
+  "pt": "{FD 0F} vai contar uma\\npiada de gelar a espinha!",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "0864A77",
+  "en": "{FD 0F} is waiting for\\n{FD 0E}'s move…{PAUSE 10}",
+  "pt": "{FD 0F} espera o golpe\\nde {FD 0E}…{PAUSE 10}",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "0864A97",
+  "en": "A rainbow appeared in the sky on\\n{FD 38} team's side!",
+  "pt": "Um arco-íris surgiu no céu do\\nlado da equipe {FD 38}!",
+  "max_lines": 2,
+  "max_width": 178
+ },
+ {
+  "offset": "0864AC8",
+  "en": "The rainbow on {FD 38} team's side disappeared!",
+  "pt": "O arco-íris do lado da equipe {FD 38} sumiu!"
+ },
+ {
+  "offset": "0864AF3",
+  "en": "A sea of fire enveloped\\n{FD 3B} team!",
+  "pt": "Um mar de fogo envolveu\\na equipe {FD 3B}!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "0864B14",
+  "en": "{FD 0F} was hurt\\nby the sea of fire!",
+  "pt": "{FD 0F} se feriu\\nno mar de fogo!",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "0864B34",
+  "en": "The sea of fire around\\n{FD 38} team disappeared!",
+  "pt": "O mar de fogo em volta da\\nequipe {FD 38} sumiu!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0864B60",
+  "en": "A swamp enveloped {FD 3B} team!",
+  "pt": "Um pântano envolveu a equipe {FD 3B}!"
+ },
+ {
+  "offset": "0864B7B",
+  "en": "The swamp around {FD 38} team disappeared!",
+  "pt": "O pântano em volta da equipe {FD 38} sumiu!"
+ },
+ {
+  "offset": "0864BA1",
+  "en": "The two moves have become one!\\nIt's a combined move!{PAUSE 10}",
+  "pt": "Os dois golpes viraram um só!\\nÉ um golpe combinado!{PAUSE 10}",
+  "max_lines": 2,
+  "max_width": 173
+ },
+ {
+  "offset": "0864BD9",
+  "en": "SONIC used the power of the\\nCHAOS EMERALDS!",
+  "pt": "SONIC usou o poder das\\nESMERALDAS DO CAOS!",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "0864C05",
+  "en": "The CHAOS EMERALDS dispelled\\nall stat changes and ABILITIES!\\p",
+  "pt": "As ESMERALDAS DO CAOS anularam as\\nmudanças de atributos e HABILIDADES!\\p"
+ },
+ {
+  "offset": "0864C43",
+  "en": "BOWSER used the eight POWER STARS!",
+  "pt": "BOWSER usou as oito ESTRELAS DE PODER!"
+ },
+ {
+  "offset": "0864C66",
+  "en": "The POWER STARS dispelled\\nall stat changes!\\p",
+  "pt": "As ESTRELAS DE PODER anularam\\ntodas as mudanças de atributos!\\p"
+ },
+ {
+  "offset": "0864C93",
+  "en": "Bro, you're really\\ngood at this!\\p",
+  "pt": "Mano, você é muito\\nbom nisso!\\p"
+ },
+ {
+  "offset": "0864CB5",
+  "en": "How'd you do that,\\nbro?!\\p",
+  "pt": "Como você fez isso,\\nmano?!\\p"
+ },
+ {
+  "offset": "0864CCF",
+  "en": "Wow!\\nThat did more damage than I thought!\\p",
+  "pt": "Uau!\\nCausou mais dano do que eu achava!\\p"
+ },
+ {
+  "offset": "0864CFA",
+  "en": "Ok, Bitey!\\nLet's work together!\\p",
+  "pt": "Certo, Bitey!\\nVamos trabalhar juntos!\\p"
+ },
+ {
+  "offset": "0864D1B",
+  "en": "Ok, Blooey!\\nLet's work together!\\p",
+  "pt": "Certo, Blooey!\\nVamos trabalhar juntos!\\p"
+ },
+ {
+  "offset": "0864D3D",
+  "en": "Ok, Jerry!\\nLet's work together!\\p",
+  "pt": "Certo, Jerry!\\nVamos trabalhar juntos!\\p"
+ },
+ {
+  "offset": "0864D5E",
+  "en": "I don't know if I can win, but\\nI'm going to give it my all!\\p",
+  "pt": "Não sei se consigo vencer, mas\\nvou dar tudo de mim!\\p"
+ },
+ {
+  "offset": "0864D9B",
+  "en": "You did great, Chuck!\\nNow, who wants to battle next?\\p",
+  "pt": "Mandou bem, Chuck!\\nAgora, quem quer batalhar em seguida?\\p"
+ },
+ {
+  "offset": "0864DD1",
+  "en": "Let's do this together, Chuck!\\p",
+  "pt": "Vamos fazer isso juntos, Chuck!\\p"
+ },
+ {
+  "offset": "0864DF1",
+  "en": "I think I got my balance back!\\nWhat's happening?\\p",
+  "pt": "Acho que recuperei o equilíbrio!\\nO que está acontecendo?\\p"
+ },
+ {
+  "offset": "0864E23",
+  "en": "Wait is Chuckstack down?\\nI can barely keep up…\\p",
+  "pt": "Peraí, o Chuckstack caiu?\\nEu mal consigo acompanhar…\\p"
+ },
+ {
+  "offset": "0864E53",
+  "en": "Oof…I'm still pretty dizzy…\\p",
+  "pt": "Ufa…ainda estou bem tonto…\\p"
+ },
+ {
+  "offset": "0864E70",
+  "en": "The crowd is cheering loud for us,\\naren't they, MARIO!\\p",
+  "pt": "A torcida está vibrando por nós,\\nnão está, MARIO!\\p"
+ },
+ {
+  "offset": "0864EA8",
+  "en": "Chuckstack did great!\\nWe're not done yet!\\p",
+  "pt": "O Chuckstack mandou bem!\\nAinda não acabou!\\p"
+ },
+ {
+  "offset": "0864ED3",
+  "en": "It's been a while since we've battled,\\nMARIO. I'm excited!\\p",
+  "pt": "Faz tempo que não batalhamos,\\nMARIO. Que empolgação!\\p"
+ },
+ {
+  "offset": "0864F0F",
+  "en": "Maybe I was distracted by\\nthis RAINBOW ROAD.\\p",
+  "pt": "Talvez eu tenha me distraído\\ncom esta RAINBOW ROAD.\\p"
+ },
+ {
+  "offset": "0864F3D",
+  "en": "MARIO, that's a cool\\nteam you got there!\\p",
+  "pt": "MARIO, que equipe legal\\nvocê tem aí!\\p"
+ },
+ {
+  "offset": "0864F67",
+  "en": "Don't let the RAINBOW\\ndistract you, BRO!\\p",
+  "pt": "Não deixe o ARCO-ÍRIS\\nte distrair, MANO!\\p"
+ },
+ {
+  "offset": "0864F91",
+  "en": "It seems I'm on my last legs!\\nVery well!\\p",
+  "pt": "Parece que estou nas últimas!\\nMuito bem!\\p"
+ },
+ {
+  "offset": "0864FBB",
+  "en": "I will not falter!\\nFor the PRINCESS!\\p",
+  "pt": "Não vou vacilar!\\nPela PRINCESA!\\p"
+ },
+ {
+  "offset": "0864FE1",
+  "en": "You seem to be understanding\\nthis game quite quickly!\\p",
+  "pt": "Você parece estar entendendo\\neste jogo bem depressa!\\p"
+ },
+ {
+  "offset": "0865018",
+  "en": "How queer!\\nI've been STAB'd!\\p",
+  "pt": "Minha nossa!\\nLevei uma STABada!\\p"
+ },
+ {
+  "offset": "0865036",
+  "en": "Wonderful understanding of!\\nthe TYPE CHART!\\p",
+  "pt": "Que ótimo domínio da\\nTABELA DE TIPOS!\\p"
+ },
+ {
+  "offset": "0865063",
+  "en": "I wish to see if your\\nstudying has paid off.\\p",
+  "pt": "Quero ver se os seus\\nestudos valeram a pena.\\p"
+ },
+ {
+  "offset": "0865091",
+  "en": "NO MORE PLAYING FAIR!!\\p",
+  "pt": "CHEGA DE JOGAR LIMPO!!\\p"
+ },
+ {
+  "offset": "08650A9",
+  "en": "HOW ARE YOU WINNING!!!\\n{FONT 00}ow that hurt…\\p",
+  "pt": "COMO VOCÊ ESTÁ GANHANDO!!!\\n{FONT 00}ai, isso doeu…\\p"
+ },
+ {
+  "offset": "08650D2",
+  "en": "WHAT?! THAT WAS LIKE\\nONE HIT!\\p",
+  "pt": "QUÊ?! FOI TIPO\\nUM GOLPE SÓ!\\p"
+ },
+ {
+  "offset": "08650F1",
+  "en": "WHAT DO YOU MEAN UNAFFECTED?!\\nI THOUGHT I WAS CHEATING?!\\p",
+  "pt": "COMO ASSIM NÃO AFETOU?!\\nEU NÃO ESTAVA TRAPACEANDO?!\\p"
+ },
+ {
+  "offset": "086512B",
+  "en": "Uuuuh…\\nI CHOOSE YOU, GOOMBA!\\p",
+  "pt": "Ããããh…\\nEU ESCOLHO VOCÊ, GOOMBA!\\p"
+ },
+ {
+  "offset": "0865149",
+  "en": "MARIO! I'M GOING TO DECORATE YOUR\\nFACE WITH MY FIRE!\\p",
+  "pt": "MARIO! VOU DECORAR A SUA\\nCARA COM O MEU FOGO!\\p"
+ },
+ {
+  "offset": "08651A7",
+  "en": "USELESS GOONS-I MEAN\\nMINIONS-I MEAN CAPTURES!\\p",
+  "pt": "CAPANGAS INÚTEIS-QUER DIZER\\nLACAIOS-QUER DIZER CAPTURAS!\\p"
+ },
+ {
+  "offset": "08651D6",
+  "en": "MARIO!\\nTHIS IS WHERE I END YOU!\\p",
+  "pt": "MARIO!\\nÉ AQUI QUE EU ACABO COM VOCÊ!\\p"
+ },
+ {
+  "offset": "08651F7",
+  "en": "WHY CAN'T YOU CAPTURES DO\\nANYTHING RIGHT?!\\p",
+  "pt": "POR QUE VOCÊS, CAPTURAS, NÃO\\nFAZEM NADA DIREITO?!\\p"
+ },
+ {
+  "offset": "0865242",
+  "en": "KAMEK! HELP ME OUT HERE!\\p",
+  "pt": "KAMEK! ME AJUDA AQUI!\\p"
+ },
+ {
+  "offset": "086525C",
+  "en": "NO MORE TALKING!\\nFIGHT NOW!\\p",
+  "pt": "CHEGA DE CONVERSA!\\nLUTE AGORA!\\p"
+ },
+ {
+  "offset": "0865279",
+  "en": "Kamek, no more spread moves please…\\p",
+  "pt": "Kamek, chega de golpes em área, por favor…\\p"
+ },
+ {
+  "offset": "08652C0",
+  "en": "KAMEK! PULL YOUR WEIGHT!\\p",
+  "pt": "KAMEK! FAÇA A SUA PARTE!\\p"
+ },
+ {
+  "offset": "08652DA",
+  "en": "BWAHAHAHAHA!\\n2 vs. 1 + USELESS FUNGUS!\\p",
+  "pt": "BWAHAHAHAHA!\\n2 vs. 1 + FUNGO INÚTIL!\\p"
+ },
+ {
+  "offset": "086530A",
+  "en": "Lalalala\\nLaalaa!\\p",
+  "pt": ""
+ },
+ {
+  "offset": "086531C",
+  "en": "You're a quick learner,\\nMARIO!\\p",
+  "pt": "Você aprende rápido,\\nMARIO!\\p"
+ },
+ {
+  "offset": "086533C",
+  "en": "Let's see how you handle a\\nSTAR LEADER!\\p",
+  "pt": "Vamos ver como você lida com\\num LÍDER ESTELAR!\\p"
+ },
+ {
+  "offset": "0865365",
+  "en": "This is the perfect time\\nfor a comeback!\\p",
+  "pt": "Esta é a hora perfeita\\npara uma virada!\\p"
+ },
+ {
+  "offset": "086538F",
+  "en": "Come on ref!\\nWhere's the red card!\\p",
+  "pt": "Qual é, juiz!\\nCadê o cartão vermelho!\\p"
+ },
+ {
+  "offset": "08653B3",
+  "en": "Hope you're prepared for\\nmy MEGA STRIKE!\\p",
+  "pt": "Espero que esteja preparado\\npara o meu MEGA STRIKE!\\p"
+ },
+ {
+  "offset": "08653DD",
+  "en": "I'M GONNA WIN!\\p",
+  "pt": "EU VOU GANHAR!\\p"
+ },
+ {
+  "offset": "08653ED",
+  "en": "Uh oh…\\p",
+  "pt": "Ih…\\p"
+ },
+ {
+  "offset": "08653F5",
+  "en": "IT'S WARIO TIME!\\p",
+  "pt": "É HORA DO WARIO!\\p"
+ },
+ {
+  "offset": "0865407",
+  "en": "Time to\\nplay dirty!\\p",
+  "pt": "Hora de\\njogar sujo!\\p"
+ },
+ {
+  "offset": "086541C",
+  "en": "You cheated!\\nI couldn't BATON PASS!\\p",
+  "pt": "Você trapaceou!\\nEu não consegui usar PASSAR O BASTÃO!\\p"
+ },
+ {
+  "offset": "0865441",
+  "en": "You should give up now!\\nNo use facing the ULTIMATE GAMER!\\p",
+  "pt": "Melhor desistir logo! Não adianta\\nenfrentar o JOGADOR SUPREMO!\\p"
+ },
+ {
+  "offset": "086547C",
+  "en": "(DK pounds his chest.)\\p",
+  "pt": "(DK bate no peito.)\\p"
+ },
+ {
+  "offset": "0865494",
+  "en": "Oooo ooo?\\p",
+  "pt": ""
+ },
+ {
+  "offset": "086549F",
+  "en": "(DK starts flexing his pecs.)\\p",
+  "pt": "(DK começa a exibir o peitoral.)\\p"
+ },
+ {
+  "offset": "08654BE",
+  "en": "The coda, everyone!\\p",
+  "pt": "A coda, pessoal!\\p"
+ },
+ {
+  "offset": "08654D3",
+  "en": "I'm not even through the\\nfirst verse yet!\\p",
+  "pt": "Eu nem terminei a\\nprimeira estrofe ainda!\\p"
+ },
+ {
+  "offset": "08654FE",
+  "en": "Are you ready for a\\nSUPER STAR battle?\\p",
+  "pt": "Está pronto para uma\\nbatalha SUPERESTELAR?\\p"
+ },
+ {
+  "offset": "0865526",
+  "en": "Stars…\\nGuide me…\\p",
+  "pt": "Estrelas…\\nGuiem-me…\\p"
+ },
+ {
+  "offset": "0865538",
+  "en": "That does not mean I will\\nlet up my pressure, MARIO…\\p",
+  "pt": "Isso não significa que vou\\naliviar a pressão, MARIO…\\p"
+ },
+ {
+  "offset": "086556E",
+  "en": "My victory is…unforeseen…?\\nUniquely expected…\\p",
+  "pt": "Minha vitória é…imprevista…?\\nSingularmente esperada…\\p"
+ },
+ {
+  "offset": "086559D",
+  "en": "YOU REALLY DON'T\\nKNOW WHEN TO QUIT!\\p",
+  "pt": "VOCÊ NÃO SABE MESMO\\nQUANDO DESISTIR!\\p"
+ },
+ {
+  "offset": "08655C2",
+  "en": "KAMEK! WHY DO I KEEP TRUSTING\\nYOU TO BUILD GOOD TEAMS?!\\p",
+  "pt": "KAMEK! POR QUE EU SEMPRE CONFIO\\nEM VOCÊ PARA MONTAR BOAS EQUIPES?!\\p"
+ },
+ {
+  "offset": "08655FB",
+  "en": "TODAY YOU LOSE MARIO!\\nMY ARENA! MY RULES!\\p",
+  "pt": "HOJE VOCÊ PERDE, MARIO!\\nMINHA ARENA! MINHAS REGRAS!\\p"
+ },
+ {
+  "offset": "0865626",
+  "en": "MASTER MARIO, you have become quite\\nthe COMMANDER.\\p",
+  "pt": "MESTRE MARIO, você se tornou um belo\\nCOMANDANTE.\\p"
+ },
+ {
+  "offset": "086565A",
+  "en": "A swell start\\nto our bout!\\p",
+  "pt": "Um ótimo começo\\npara o nosso duelo!\\p"
+ },
+ {
+  "offset": "0865676",
+  "en": "I hope you learned much\\nMASTER MARIO. Let's begin.\\p",
+  "pt": "Espero que tenha aprendido muito,\\nMESTRE MARIO. Vamos começar.\\p"
+ },
+ {
+  "offset": "08656AA",
+  "en": "My hypothesis seems to be true.\\nYou truly are skilled!\\p",
+  "pt": "Minha hipótese parece estar certa.\\nVocê é mesmo habilidoso!\\p"
+ },
+ {
+  "offset": "08656E2",
+  "en": "Yes! Use everything\\nat your disposal!\\p",
+  "pt": "Isso! Use tudo\\nque estiver ao seu alcance!\\p"
+ },
+ {
+  "offset": "0865709",
+  "en": "Let the experiment\\nbegin!\\p",
+  "pt": "Que comece\\no experimento!\\p"
+ },
+ {
+  "offset": "0865724",
+  "en": "I hope I was at least\\na tough opponent.\\p",
+  "pt": "Espero ter sido pelo menos\\num oponente difícil.\\p"
+ },
+ {
+  "offset": "086574D",
+  "en": "WHAT? Ahem, I mean…\\nWHAT?!\\p",
+  "pt": "QUÊ? Aham, quer dizer…\\nQUÊ?!\\p"
+ },
+ {
+  "offset": "0865769",
+  "en": "I may play by the book,\\nbut my magic plays dirty!\\p",
+  "pt": "Eu posso seguir as regras,\\nmas a minha magia joga sujo!\\p"
+ },
+ {
+  "offset": "086579C",
+  "en": "Did this battle remind you\\nof our first, MARIO?\\p",
+  "pt": "Esta batalha te lembrou\\nda nossa primeira, MARIO?\\p"
+ },
+ {
+  "offset": "08657CD",
+  "en": "Pink is\\npowerful!\\p",
+  "pt": "Rosa é\\npoderoso!\\p"
+ },
+ {
+  "offset": "08657E0",
+  "en": "This PRINCESS is about to\\nsend you to another castle!\\p",
+  "pt": "Esta PRINCESA vai mandar você\\npara outro castelo!\\p"
+ },
+ {
+  "offset": "0865817",
+  "en": "I, MR. L, will not quit,\\nnot even at my last CAPTURE!\\p",
+  "pt": "Eu, MR. L, não vou desistir,\\nnem na minha última CAPTURA!\\p"
+ },
+ {
+  "offset": "086584E",
+  "en": "I think I need to start\\nshowing off my L-POWER!\\p",
+  "pt": "Acho que preciso começar a\\nmostrar o meu PODER-L!\\p"
+ },
+ {
+  "offset": "086587F",
+  "en": "The GREEN THUNDER\\nstrikes like lightning!\\p",
+  "pt": "O TROVÃO VERDE\\ncai como um raio!\\p"
+ },
+ {
+  "offset": "08658AA",
+  "en": "I guess what I'm trying to ask here is…\\pDid you have fun?\\p",
+  "pt": "Acho que o que eu quero perguntar é…\\pVocê se divertiu?\\p"
+ },
+ {
+  "offset": "08658E5",
+  "en": "Because at the end of the day,\\nthat's what these games are for.\\pSo I'll ask you one last time:\\nDID YOU HAVE FUN!?\\lSCREAM IT SO EVERYONE CAN HEAR YOU!\\p",
+  "pt": "Porque, no fim das contas, é pra\\nisso que esses jogos existem.\\pEntão vou perguntar uma última vez:\\nVOCÊ SE DIVERTIU!?\\lGRITE PRA TODO MUNDO OUVIR!\\p"
+ },
+ {
+  "offset": "086597C",
+  "en": "Are you a POKéMON fan or a MARIO fan?\\nWhat do you wish we did differently?\\lWould you recommend this to a friend?\\pYour input is extremely valuable and\\nyour voice is heard!\\p",
+  "pt": "Você é fã de POKéMON ou do MARIO?\\nO que você queria que fosse diferente?\\lRecomendaria isto pra um amigo?\\pA sua opinião é muito valiosa e\\na sua voz é ouvida!\\p"
+ },
+ {
+  "offset": "0865A28",
+  "en": "Did the characters feel true?\\nDo you like running around the WORLDs?\\lAny weird glitches along the way?\\pI can always get more\\npens and paper!\\p",
+  "pt": "Os personagens pareceram autênticos?\\nVocê gosta de correr pelos MUNDOS?\\lAchou bugs estranhos pelo caminho?\\pEu sempre posso arranjar mais\\ncanetas e papel!\\p"
+ },
+ {
+  "offset": "0865AB6",
+  "en": "Who's your favorite CAPTURE?\\nWhat surprised you the most?\\lAre people watching you play?\\pI will never stop trying to learn about\\nthe human experience through art!\\p",
+  "pt": "Qual é a sua CAPTURA favorita?\\nO que mais te surpreendeu?\\lTem gente vendo você jogar?\\pNunca vou parar de tentar entender\\na experiência humana pela arte!\\p"
+ },
+ {
+  "offset": "0865B59",
+  "en": "Was it casual or nuzlocke?\\nDid you find all the hidden items?\\lDo you have any shinies other than\\lBULLET BILL?\\pCome on!\\nKeep telling me!\\p",
+  "pt": "Foi casual ou nuzlocke?\\nAchou todos os itens escondidos?\\lTem algum shiny além do\\lBULLET BILL?\\pVamos lá!\\nContinue me contando!\\p"
+ },
+ {
+  "offset": "0865BE2",
+  "en": "How many hours did you put in?\\nWhat team did you finish with?\\lDid it feel like you were playing a new\\lgeneration of POKéMON?\\pTell me everything with this battle,\\nand spare no details!\\p",
+  "pt": "Quantas horas você jogou?\\nCom que equipe você terminou?\\lPareceu que você estava jogando uma\\lnova geração de POKéMON?\\pMe conte tudo com esta batalha,\\nsem poupar detalhes!\\p"
+ },
+ {
+  "offset": "0866ACC",
+  "en": "What?\\n{STR_VAR_1} is evolving!",
+  "pt": "O quê?\\n{STR_VAR_1} vai evoluir!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "0866AE2",
+  "en": "Congratulations! Your {STR_VAR_1}\\nevolved into {STR_VAR_2}!{WAIT_SE}\\p",
+  "pt": "Parabéns! {STR_VAR_1}\\nevoluiu para {STR_VAR_2}!{WAIT_SE}\\p"
+ },
+ {
+  "offset": "0866B0F",
+  "en": "Huh? {STR_VAR_1}\\nstopped evolving!\\p",
+  "pt": "Hã? {STR_VAR_1}\\nparou de evoluir!\\p"
+ },
+ {
+  "offset": "0866B2F",
+  "en": "What will\\n{FD 00} do?",
+  "pt": "O que {FD 00}\\nvai fazer?",
+  "max_lines": 2,
+  "max_width": 73
+ },
+ {
+  "offset": "0866B40",
+  "en": "What will\\n{FD 23} do?",
+  "pt": "O que {FD 23}\\nvai fazer?",
+  "max_lines": 2,
+  "max_width": 73
+ },
+ {
+  "offset": "0866B51",
+  "en": "What will\\nWALLY do?",
+  "pt": "O que WALLY\\nvai fazer?",
+  "max_lines": 2,
+  "max_width": 61
+ },
+ {
+  "offset": "0866B65",
+  "en": "{PAUSE 10}Link standby…",
+  "pt": "{PAUSE 10}Aguardando link…",
+  "max_width": 97
+ },
+ {
+  "offset": "0866B76",
+  "en": "FIGHT{CLEAR_TO 38}BAG\\nCAPTURES{CLEAR_TO 38}RUN",
+  "pt": "LUTAR{CLEAR_TO 38}BOLSA\\nEQUIPE{CLEAR_TO 38}FUGIR",
+  "max_lines": 2,
+  "max_width": 76
+ },
+ {
+  "offset": "0866BAC",
+  "en": "PP ",
+  "pt": "",
+  "max_width": 21
+ },
+ {
+  "offset": "0866BB0",
+  "en": "TYPE/",
+  "pt": "TIPO/",
+  "max_width": 36
+ },
+ {
+  "offset": "0866BF8",
+  "en": "{PALETTE 05}{COLOR_HIGHLIGHT_SHADOW 0D 0E 0F}Yes\\nNo",
+  "pt": "{PALETTE 05}{COLOR_HIGHLIGHT_SHADOW 0D 0E 0F}Sim\\nNão",
+  "max_lines": 2,
+  "max_width": 28
+ },
+ {
+  "offset": "0866C07",
+  "en": "{PALETTE 05}{COLOR_HIGHLIGHT_SHADOW 0D 0E 0F}Switch\\nwhich?",
+  "pt": "{PALETTE 05}{COLOR_HIGHLIGHT_SHADOW 0D 0E 0F}Trocar\\nqual?",
+  "max_lines": 2,
+  "max_width": 44
+ },
+ {
+  "offset": "0866C48",
+  "en": "{HIGHLIGHT 02}SAFARI BALLS",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "0866C58",
+  "en": "{HIGHLIGHT 02}Left: ",
+  "pt": "{HIGHLIGHT 02}Restam: ",
+  "max_width": 54
+ },
+ {
+  "offset": "0866C66",
+  "en": "sleep",
+  "pt": "sono",
+  "max_width": 52
+ },
+ {
+  "offset": "0866C6C",
+  "en": "poison",
+  "pt": "veneno",
+  "max_width": 58
+ },
+ {
+  "offset": "0866C73",
+  "en": "burn",
+  "pt": "queima",
+  "max_width": 47
+ },
+ {
+  "offset": "0866C78",
+  "en": "paralysis",
+  "pt": "paralisia",
+  "max_width": 73
+ },
+ {
+  "offset": "0866C82",
+  "en": "ice",
+  "pt": "gelo",
+  "max_width": 40
+ },
+ {
+  "offset": "0866C86",
+  "en": "confusion",
+  "pt": "confusão",
+  "max_width": 76
+ },
+ {
+  "offset": "0866C90",
+  "en": "love",
+  "pt": "amor",
+  "max_width": 46
+ },
+ {
+  "offset": "0866C95",
+  "en": " and ",
+  "pt": " e ",
+  "max_width": 48
+ },
+ {
+  "offset": "0866CA4",
+  "en": "are",
+  "pt": "estão",
+  "max_width": 41
+ },
+ {
+  "offset": "0866CA8",
+  "en": "are",
+  "pt": "estão",
+  "max_width": 41
+ },
+ {
+  "offset": "0866CAC",
+  "en": "Bad EGG",
+  "pt": "OVO Ruim",
+  "max_width": 63
+ },
+ {
+  "offset": "0866CB4",
+  "en": "RED",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0866CC1",
+  "en": "{HIGHLIGHT 00}Win",
+  "pt": "{HIGHLIGHT 00}Vitória",
+  "max_width": 40
+ },
+ {
+  "offset": "0866CC8",
+  "en": "{HIGHLIGHT 00}Loss",
+  "pt": "{HIGHLIGHT 00}Derrota",
+  "max_width": 48
+ },
+ {
+  "offset": "0866CD0",
+  "en": "{HIGHLIGHT 00}Draw",
+  "pt": "{HIGHLIGHT 00}Empate",
+  "max_width": 47
+ },
+ {
+  "offset": "0866CD8",
+  "en": " is",
+  "pt": " é",
+  "max_width": 37
+ },
+ {
+  "offset": "0866CDF",
+  "en": "a NORMAL move",
+  "pt": "um golpe NORMAL",
+  "max_width": 96
+ },
+ {
+  "offset": "0866E22",
+  "en": "BATTLE TOURNEY",
+  "pt": "TORNEIO",
+  "max_width": 87
+ },
+ {
+  "offset": "0866E31",
+  "en": "Round 1",
+  "pt": "Rodada 1",
+  "max_width": 63
+ },
+ {
+  "offset": "0866E39",
+  "en": "Round 2",
+  "pt": "Rodada 2",
+  "max_width": 63
+ },
+ {
+  "offset": "0866E41",
+  "en": "Semifinal",
+  "pt": "",
+  "max_width": 72
+ },
+ {
+  "offset": "0866E4B",
+  "en": "Final",
+  "pt": "",
+  "max_width": 50
+ },
+ {
+  "offset": "0866EE9",
+  "en": "VS",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "0866EEF",
+  "en": "Mind",
+  "pt": "Mente",
+  "max_width": 46
+ },
+ {
+  "offset": "0866EF4",
+  "en": "Skill",
+  "pt": "Técnica",
+  "max_width": 48
+ },
+ {
+  "offset": "0866EFA",
+  "en": "Body",
+  "pt": "Corpo",
+  "max_width": 48
+ },
+ {
+  "offset": "0866EFF",
+  "en": "{FD 00}{CLEAR 0D}Judgment{CLEAR 0D}{PLAYER}",
+  "pt": "{FD 00}{CLEAR 0D}Julgamento{CLEAR 0D}{PLAYER}",
+  "max_width": 156
+ },
+ {
+  "offset": "0866F12",
+  "en": "{FD 1C} {FD 1D} sent\\nout {RIVAL}!\\p{FD 2E} {FD 2F} sent\\nout {AQUA}!",
+  "pt": "{FD 1C} {FD 1D}\\nenviou {RIVAL}!\\p{FD 2E} {FD 2F}\\nenviou {AQUA}!"
+ },
+ {
+  "offset": "0866F38",
+  "en": "{FD 2E} {FD 2F} sent\\nout {FD 00}!",
+  "pt": "{FD 2E} {FD 2F}\\nenviou {FD 00}!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "0866F4B",
+  "en": "{FD 1C} {FD 1D} and\\n{FD 2E} {FD 2F}\\lwant to battle!\\p",
+  "pt": "{FD 1C} {FD 1D} e\\n{FD 2E} {FD 2F}\\lquerem batalhar!\\p"
+ },
+ {
+  "offset": "0866F6C",
+  "en": "{FD 32} {FD 33} sent\\nout {VERSION}!\\lGo, {KUN}!",
+  "pt": "{FD 32} {FD 33}\\nenviou {VERSION}!\\lVai, {KUN}!",
+  "max_lines": 3,
+  "max_width": 124
+ },
+ {
+  "offset": "0866F87",
+  "en": "{FD 1C} {FD 1D} and\\n{FD 2E} {FD 2F}\\lwere defeated!\\p",
+  "pt": "{FD 1C} {FD 1D} e\\n{FD 2E} {FD 2F}\\lforam derrotados!\\p"
+ },
+ {
+  "offset": "0866FAA",
+  "en": "{FD 0F} appears incapable\\nof using its power!",
+  "pt": "{FD 0F} parece incapaz\\nde usar seu poder!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0866FD3",
+  "en": "A glint appears in\\n{FD 13}'s eyes!",
+  "pt": "Um brilho surge nos\\nolhos de {FD 13}!",
+  "max_lines": 2,
+  "max_width": 102
+ },
+ {
+  "offset": "0866FF1",
+  "en": "{FD 13} is getting into\\nposition!",
+  "pt": "{FD 13} está se\\nposicionando!",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "086700E",
+  "en": "{FD 13} began growling deeply!",
+  "pt": "{FD 13} começou a rosnar fundo!"
+ },
+ {
+  "offset": "0867028",
+  "en": "{FD 13} is eager for more!",
+  "pt": "{FD 13} quer mais!",
+  "max_width": 161
+ },
+ {
+  "offset": "0867088",
+  "en": "REFEREE: That's it! We will now go to\\njudging to determine the winner!",
+  "pt": "JUIZ: Acabou! Agora vamos para o\\njulgamento para decidir o vencedor!",
+  "max_lines": 2,
+  "max_width": 195
+ },
+ {
+  "offset": "08670CF",
+  "en": "REFEREE: Judging category 1, Mind!\\nThe POKéMON showing the most guts!\\p",
+  "pt": "JUIZ: Categoria 1, Mente!\\nA CAPTURA que mostrou mais garra!\\p"
+ },
+ {
+  "offset": "0867116",
+  "en": "REFEREE: Judging category 2, Skill!\\nThe POKéMON using moves the best!\\p",
+  "pt": "JUIZ: Categoria 2, Técnica!\\nA CAPTURA que melhor usou os golpes!\\p"
+ },
+ {
+  "offset": "086715D",
+  "en": "REFEREE: Judging category 3, Body!\\nThe POKéMON with the most vitality!\\p",
+  "pt": "JUIZ: Categoria 3, Corpo!\\nA CAPTURA com mais vitalidade!\\p"
+ },
+ {
+  "offset": "08671A5",
+  "en": "REFEREE: Judgment: {FD 00} to {PLAYER}!\\nThe winner is {FD 23}'s {KUN}!\\p",
+  "pt": "JUIZ: Julgamento: {FD 00} a {PLAYER}!\\nO vencedor é {KUN} de {FD 23}!\\p"
+ },
+ {
+  "offset": "08671DA",
+  "en": "REFEREE: Judgment: {FD 00} to {PLAYER}!\\nThe winner is {FD 1D}'s {RIVAL}!\\p",
+  "pt": "JUIZ: Julgamento: {FD 00} a {PLAYER}!\\nO vencedor é {RIVAL} de {FD 1D}!\\p"
+ },
+ {
+  "offset": "086720F",
+  "en": "REFEREE: Judgment: 3 to 3!\\nWe have a draw!\\p",
+  "pt": "JUIZ: Julgamento: 3 a 3!\\nTemos um empate!\\p"
+ },
+ {
+  "offset": "086723B",
+  "en": "{KUN} defeated the opponent\\n{RIVAL} in a REFEREE's decision!",
+  "pt": "{KUN} venceu o oponente\\n{RIVAL} por decisão do JUIZ!",
+  "max_lines": 2,
+  "max_width": 179
+ },
+ {
+  "offset": "0867270",
+  "en": "{KUN} lost to the opponent\\n{RIVAL} in a REFEREE's decision!",
+  "pt": "{KUN} perdeu para o oponente\\n{RIVAL} por decisão do JUIZ!",
+  "max_lines": 2,
+  "max_width": 179
+ },
+ {
+  "offset": "08672A4",
+  "en": "{KUN} tied the opponent\\n{RIVAL} in a REFEREE's decision!",
+  "pt": "{KUN} empatou com o oponente\\n{RIVAL} por decisão do JUIZ!",
+  "max_lines": 2,
+  "max_width": 179
+ },
+ {
+  "offset": "08672D5",
+  "en": "REFEREE: {KUN} VS {RIVAL}!\\nCommence battling!",
+  "pt": "JUIZ: {KUN} VS {RIVAL}!\\nComecem a batalha!",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "0867320",
+  "en": "Would you like to forfeit the match\\nand quit now?",
+  "pt": "Deseja desistir da partida\\ne sair agora?",
+  "max_lines": 2,
+  "max_width": 193
+ },
+ {
+  "offset": "0867352",
+  "en": "{FD 23} forfeited the match!",
+  "pt": "{FD 23} desistiu da partida!"
+ },
+ {
+  "offset": "0867380",
+  "en": "Player lost against\\n{FD 1C} {FD 1D}!",
+  "pt": "{FD 1C} {FD 1D}\\nvenceu o jogador!",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "086739B",
+  "en": "Player battled to a draw against\\n{FD 1C} {FD 1D}!",
+  "pt": "O jogador empatou com\\n{FD 1C} {FD 1D}!",
+  "max_lines": 2,
+  "max_width": 179
+ },
+ {
+  "offset": "08673C3",
+  "en": "Would you like to record your battle\\non your FRONTIER PASS?",
+  "pt": "Deseja registrar sua batalha\\nno PASSE DA FRONTEIRA?",
+  "max_lines": 2,
+  "max_width": 197
+ },
+ {
+  "offset": "08673FF",
+  "en": "{FD 23}'s battle result was recorded\\non the FRONTIER PASS.",
+  "pt": "O resultado de {FD 23} foi registrado\\nno PASSE DA FRONTEIRA.",
+  "max_lines": 2,
+  "max_width": 204
+ },
+ {
+  "offset": "0867435",
+  "en": "{FD 20}\\nwants to battle!{PAUSE 31}",
+  "pt": "{FD 20}\\nquer batalhar!{PAUSE 31}",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "086744C",
+  "en": "{FD 20} and {FD 21}\\nwant to battle!{PAUSE 31}",
+  "pt": "{FD 20} e {FD 21}\\nquerem batalhar!{PAUSE 31}",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "0867469",
+  "en": "Your",
+  "pt": "aliada",
+  "max_width": 47
+ },
+ {
+  "offset": "086746E",
+  "en": "The opposing",
+  "pt": "adversária",
+  "max_width": 91
+ },
+ {
+  "offset": "086747B",
+  "en": "your",
+  "pt": "aliada",
+  "max_width": 47
+ },
+ {
+  "offset": "0867480",
+  "en": "the opposing",
+  "pt": "adversária",
+  "max_width": 91
+ },
+ {
+  "offset": "08696E0",
+  "en": "¡   BRADY",
+  "pt": "",
+  "max_width": 49
+ },
+ {
+  "offset": "0879084",
+  "en": "%   JOLIE",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "087A4B4",
+  "en": "%   BRENNA",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "087B224",
+  "en": "%   AMBER",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "088245C",
+  "en": "MARIOMON",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "0882465",
+  "en": "Credits",
+  "pt": "Créditos",
+  "max_width": 63
+ },
+ {
+  "offset": "088246D",
+  "en": "Executive Director",
+  "pt": "Diretor Executivo",
+  "max_width": 123
+ },
+ {
+  "offset": "0882480",
+  "en": "Director",
+  "pt": "Diretor",
+  "max_width": 68
+ },
+ {
+  "offset": "0882489",
+  "en": "Art Director",
+  "pt": "Diretor de Arte",
+  "max_width": 88
+ },
+ {
+  "offset": "0882496",
+  "en": "Battle Director",
+  "pt": "Diretor de Batalha",
+  "max_width": 105
+ },
+ {
+  "offset": "08824A6",
+  "en": "Main Programmer",
+  "pt": "Programador-Chefe",
+  "max_width": 106
+ },
+ {
+  "offset": "08824B6",
+  "en": "Battle System Programmers",
+  "pt": "Programação de Batalha",
+  "max_width": 163
+ },
+ {
+  "offset": "08824D0",
+  "en": "Field System Programmer",
+  "pt": "Programação de Campo",
+  "max_width": 149
+ },
+ {
+  "offset": "08824E8",
+  "en": "Programmers",
+  "pt": "Programadores",
+  "max_width": 87
+ },
+ {
+  "offset": "08824F4",
+  "en": "Main Graphic Designer",
+  "pt": "Designer Gráfico-Chefe",
+  "max_width": 136
+ },
+ {
+  "offset": "088250A",
+  "en": "Graphic Designers",
+  "pt": "Designers Gráficos",
+  "max_width": 117
+ },
+ {
+  "offset": "088251C",
+  "en": "POKéMON Designers",
+  "pt": "Designers de POKéMON",
+  "max_width": 120
+ },
+ {
+  "offset": "088252E",
+  "en": "Music",
+  "pt": "Música",
+  "max_width": 52
+ },
+ {
+  "offset": "0882534",
+  "en": "Sound Effects & POKéMON Voices",
+  "pt": "Efeitos Sonoros e Vozes de POKéMON"
+ },
+ {
+  "offset": "0882553",
+  "en": "Game Designers",
+  "pt": "Design de Jogo",
+  "max_width": 102
+ },
+ {
+  "offset": "0882562",
+  "en": "Scenario Plot",
+  "pt": "Enredo",
+  "max_width": 94
+ },
+ {
+  "offset": "0882570",
+  "en": "Scenario",
+  "pt": "Roteiro",
+  "max_width": 69
+ },
+ {
+  "offset": "0882579",
+  "en": "Script Designers",
+  "pt": "Roteiristas",
+  "max_width": 111
+ },
+ {
+  "offset": "088258A",
+  "en": "Map Designers",
+  "pt": "Design de Mapas",
+  "max_width": 96
+ },
+ {
+  "offset": "0882598",
+  "en": "Map Data Designers",
+  "pt": "Dados de Mapas",
+  "max_width": 123
+ },
+ {
+  "offset": "08825AB",
+  "en": "Parametric Designers",
+  "pt": "Design de Parâmetros",
+  "max_width": 134
+ },
+ {
+  "offset": "08825C0",
+  "en": "POKéDEX Text",
+  "pt": "Texto da POKéDEX",
+  "max_width": 93
+ },
+ {
+  "offset": "08825CD",
+  "en": "Environment & Tool Programmers",
+  "pt": "Programação de Ambiente e Ferramentas"
+ },
+ {
+  "offset": "08825EC",
+  "en": "NCL Product Testing",
+  "pt": "Testes de Produto NCL",
+  "max_width": 129
+ },
+ {
+  "offset": "0882600",
+  "en": "Special Thanks",
+  "pt": "Agradecimentos",
+  "max_width": 101
+ },
+ {
+  "offset": "088260F",
+  "en": "Coordinators",
+  "pt": "Coordenadores",
+  "max_width": 92
+ },
+ {
+  "offset": "088261C",
+  "en": "Producers",
+  "pt": "Produtores",
+  "max_width": 76
+ },
+ {
+  "offset": "0882626",
+  "en": "Executive Producers",
+  "pt": "Produtores Executivos",
+  "max_width": 131
+ },
+ {
+  "offset": "088263A",
+  "en": "Information Supervisors",
+  "pt": "Supervisores de Informação",
+  "max_width": 152
+ },
+ {
+  "offset": "0882652",
+  "en": "Task Managers",
+  "pt": "Gestão de Tarefas",
+  "max_width": 98
+ },
+ {
+  "offset": "0882660",
+  "en": "Braille Code Check",
+  "pt": "Revisão do Braille",
+  "max_width": 119
+ },
+ {
+  "offset": "0882673",
+  "en": "World Director",
+  "pt": "Diretor de Mundo",
+  "max_width": 98
+ },
+ {
+  "offset": "0882682",
+  "en": "Rental Facility Data",
+  "pt": "Dados de Aluguel",
+  "max_width": 130
+ },
+ {
+  "offset": "0882697",
+  "en": "Support Programmers",
+  "pt": "Programadores de Apoio",
+  "max_width": 131
+ },
+ {
+  "offset": "08826AB",
+  "en": "Artwork",
+  "pt": "Arte",
+  "max_width": 64
+ },
+ {
+  "offset": "08826B3",
+  "en": "Lead Programmers",
+  "pt": "Programadores-Chefe",
+  "max_width": 114
+ },
+ {
+  "offset": "08826C4",
+  "en": "Lead Graphic Artist",
+  "pt": "Artista Gráfico-Chefe",
+  "max_width": 126
+ },
+ {
+  "offset": "08826D8",
+  "en": "Satoshi Tajiri",
+  "pt": "",
+  "max_width": 97
+ },
+ {
+  "offset": "08826E7",
+  "en": "Junichi Masuda",
+  "pt": "",
+  "max_width": 101
+ },
+ {
+  "offset": "08826F6",
+  "en": "Ken Sugimori",
+  "pt": "",
+  "max_width": 88
+ },
+ {
+  "offset": "0882703",
+  "en": "Shigeki Morimoto",
+  "pt": "",
+  "max_width": 110
+ },
+ {
+  "offset": "0882714",
+  "en": "Tetsuya Watanabe",
+  "pt": "",
+  "max_width": 117
+ },
+ {
+  "offset": "0882725",
+  "en": "Hisashi Sogabe",
+  "pt": "",
+  "max_width": 101
+ },
+ {
+  "offset": "0882734",
+  "en": "Sosuke Tamada",
+  "pt": "",
+  "max_width": 99
+ },
+ {
+  "offset": "0882742",
+  "en": "Akito Mori",
+  "pt": "",
+  "max_width": 76
+ },
+ {
+  "offset": "088274D",
+  "en": "Keita Kagaya",
+  "pt": "",
+  "max_width": 91
+ },
+ {
+  "offset": "088275A",
+  "en": "Yoshinori Matsuda",
+  "pt": "",
+  "max_width": 118
+ },
+ {
+  "offset": "088276C",
+  "en": "Hiroyuki Nakamura",
+  "pt": "",
+  "max_width": 117
+ },
+ {
+  "offset": "088277E",
+  "en": "Masao Taya",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "0882789",
+  "en": "Satoshi Nohara",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "0882798",
+  "en": "Tomomichi Ohta",
+  "pt": "",
+  "max_width": 101
+ },
+ {
+  "offset": "08827A7",
+  "en": "Miyuki Iwasawa",
+  "pt": "",
+  "max_width": 101
+ },
+ {
+  "offset": "08827B6",
+  "en": "Takenori Ohta",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "08827C4",
+  "en": "Hironobu Yoshida",
+  "pt": "",
+  "max_width": 112
+ },
+ {
+  "offset": "08827D5",
+  "en": "Motofumi Fujiwara",
+  "pt": "",
+  "max_width": 117
+ },
+ {
+  "offset": "08827E7",
+  "en": "Satoshi Ohta",
+  "pt": "",
+  "max_width": 91
+ },
+ {
+  "offset": "08827F4",
+  "en": "Asuka Iwashita",
+  "pt": "",
+  "max_width": 103
+ },
+ {
+  "offset": "0882803",
+  "en": "Aimi Tomita",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "088280F",
+  "en": "Takao Unno",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "088281A",
+  "en": "Kanako Eo",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "0882824",
+  "en": "Jun Okutani",
+  "pt": "",
+  "max_width": 85
+ },
+ {
+  "offset": "0882830",
+  "en": "Atsuko Nishida",
+  "pt": "",
+  "max_width": 101
+ },
+ {
+  "offset": "088283F",
+  "en": "Muneo Saito",
+  "pt": "",
+  "max_width": 85
+ },
+ {
+  "offset": "088284B",
+  "en": "Rena Yoshikawa",
+  "pt": "",
+  "max_width": 103
+ },
+ {
+  "offset": "088285A",
+  "en": "GAMEFREAK for Emerald/FRLG OST",
+  "pt": "GAMEFREAK pela trilha de Emerald/FRLG"
+ },
+ {
+  "offset": "0882879",
+  "en": "Morikazu Aoki",
+  "pt": "",
+  "max_width": 94
+ },
+ {
+  "offset": "0882887",
+  "en": "Koji Nishino",
+  "pt": "",
+  "max_width": 86
+ },
+ {
+  "offset": "0882894",
+  "en": "Kenji Matsushima",
+  "pt": "",
+  "max_width": 112
+ },
+ {
+  "offset": "08828A5",
+  "en": "Tetsuji Ohta",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "08828B2",
+  "en": "Hitomi Sato",
+  "pt": "",
+  "max_width": 83
+ },
+ {
+  "offset": "08828BE",
+  "en": "Takeshi Kawachimaru",
+  "pt": "",
+  "max_width": 130
+ },
+ {
+  "offset": "08828D2",
+  "en": "Teruyuki Shimoyamada",
+  "pt": "",
+  "max_width": 136
+ },
+ {
+  "offset": "08828E7",
+  "en": "Shigeru Ohmori",
+  "pt": "",
+  "max_width": 99
+ },
+ {
+  "offset": "08828F6",
+  "en": "Tadashi Takahashi",
+  "pt": "",
+  "max_width": 119
+ },
+ {
+  "offset": "0882908",
+  "en": "Toshinobu Matsumiya",
+  "pt": "",
+  "max_width": 131
+ },
+ {
+  "offset": "088291C",
+  "en": "Akihito Tomisawa",
+  "pt": "",
+  "max_width": 111
+ },
+ {
+  "offset": "088292D",
+  "en": "Hiroki Enomoto",
+  "pt": "",
+  "max_width": 100
+ },
+ {
+  "offset": "088293C",
+  "en": "Kazuyuki Terada",
+  "pt": "",
+  "max_width": 108
+ },
+ {
+  "offset": "088294C",
+  "en": "Yuri Sakurai",
+  "pt": "",
+  "max_width": 87
+ },
+ {
+  "offset": "0882959",
+  "en": "Hiromi Sagawa",
+  "pt": "",
+  "max_width": 94
+ },
+ {
+  "offset": "0882967",
+  "en": "Kenji Tominaga",
+  "pt": "",
+  "max_width": 100
+ },
+ {
+  "offset": "0882976",
+  "en": "Yoshio Tajiri",
+  "pt": "",
+  "max_width": 91
+ },
+ {
+  "offset": "0882984",
+  "en": "Teiko Sasaki",
+  "pt": "",
+  "max_width": 89
+ },
+ {
+  "offset": "0882991",
+  "en": "Sachiko Hamano",
+  "pt": "",
+  "max_width": 103
+ },
+ {
+  "offset": "08829A0",
+  "en": "Chie Matsumiya",
+  "pt": "",
+  "max_width": 101
+ },
+ {
+  "offset": "08829AF",
+  "en": "Akiko Shinozaki",
+  "pt": "",
+  "max_width": 105
+ },
+ {
+  "offset": "08829BF",
+  "en": "Astuko Fujii",
+  "pt": "",
+  "max_width": 88
+ },
+ {
+  "offset": "08829CC",
+  "en": "Nozomu Saito",
+  "pt": "",
+  "max_width": 91
+ },
+ {
+  "offset": "08829D9",
+  "en": "Kenkichi Toyama",
+  "pt": "",
+  "max_width": 107
+ },
+ {
+  "offset": "08829E9",
+  "en": "Suguru Nakatsui",
+  "pt": "",
+  "max_width": 108
+ },
+ {
+  "offset": "08829F9",
+  "en": "Yumi Funasaka",
+  "pt": "",
+  "max_width": 97
+ },
+ {
+  "offset": "0882A07",
+  "en": "Naoko Yanase",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "0882A14",
+  "en": "NCL Super Mario Club",
+  "pt": "",
+  "max_width": 129
+ },
+ {
+  "offset": "0882A29",
+  "en": "Atsushi Tada",
+  "pt": "",
+  "max_width": 91
+ },
+ {
+  "offset": "0882A36",
+  "en": "Takahiro Ohnishi",
+  "pt": "",
+  "max_width": 110
+ },
+ {
+  "offset": "0882A47",
+  "en": "Norihide Okamura",
+  "pt": "",
+  "max_width": 111
+ },
+ {
+  "offset": "0882A58",
+  "en": "Hiro Nakamura",
+  "pt": "",
+  "max_width": 95
+ },
+ {
+  "offset": "0882A66",
+  "en": "Hiroyuki Uesugi",
+  "pt": "",
+  "max_width": 104
+ },
+ {
+  "offset": "0882A76",
+  "en": "Teruki Murakawa",
+  "pt": "",
+  "max_width": 107
+ },
+ {
+  "offset": "0882A86",
+  "en": "Akira Kinashi",
+  "pt": "",
+  "max_width": 92
+ },
+ {
+  "offset": "0882A94",
+  "en": "Michiko Takizawa",
+  "pt": "",
+  "max_width": 111
+ },
+ {
+  "offset": "0882AA5",
+  "en": "Makiko Takada",
+  "pt": "",
+  "max_width": 97
+ },
+ {
+  "offset": "0882AB3",
+  "en": "Takanao Kondo",
+  "pt": "",
+  "max_width": 99
+ },
+ {
+  "offset": "0882AC1",
+  "en": "Ai Mashima",
+  "pt": "",
+  "max_width": 77
+ },
+ {
+  "offset": "0882ACC",
+  "en": "Gakuji Nomoto",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "0882ADA",
+  "en": "Takehiro Izushi",
+  "pt": "",
+  "max_width": 106
+ },
+ {
+  "offset": "0882AEA",
+  "en": "Hitoshi Yamagami",
+  "pt": "",
+  "max_width": 111
+ },
+ {
+  "offset": "0882AFB",
+  "en": "Kyoko Watanabe",
+  "pt": "",
+  "max_width": 105
+ },
+ {
+  "offset": "0882B0A",
+  "en": "Takao Nakano",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "0882B17",
+  "en": "Hiroyuki Jinnai",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "0882B27",
+  "en": "Hiroaki Tsuru",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "0882B35",
+  "en": "Tsunekaz Ishihara",
+  "pt": "",
+  "max_width": 120
+ },
+ {
+  "offset": "0882B47",
+  "en": "Satoru Iwata",
+  "pt": "",
+  "max_width": 92
+ },
+ {
+  "offset": "0882B54",
+  "en": "Kazuya Suyama",
+  "pt": "",
+  "max_width": 99
+ },
+ {
+  "offset": "0882B62",
+  "en": "Satoshi Mitsuhara",
+  "pt": "",
+  "max_width": 118
+ },
+ {
+  "offset": "0882B74",
+  "en": "Japan Braille Library",
+  "pt": "",
+  "max_width": 133
+ },
+ {
+  "offset": "0882B8A",
+  "en": "Tomotaka Komura",
+  "pt": "",
+  "max_width": 110
+ },
+ {
+  "offset": "0882B9A",
+  "en": "Mikiko Ohhashi",
+  "pt": "",
+  "max_width": 99
+ },
+ {
+  "offset": "0882BA9",
+  "en": "Daisuke Hoshino",
+  "pt": "",
+  "max_width": 107
+ },
+ {
+  "offset": "0882BB9",
+  "en": "Kenjiro Ito",
+  "pt": "",
+  "max_width": 83
+ },
+ {
+  "offset": "0882BC5",
+  "en": "Rui Kawaguchi",
+  "pt": "",
+  "max_width": 95
+ },
+ {
+  "offset": "0882BD3",
+  "en": "Shunsuke Kohori",
+  "pt": "",
+  "max_width": 108
+ },
+ {
+  "offset": "0882BE3",
+  "en": "Sachiko Nakamichi",
+  "pt": "",
+  "max_width": 117
+ },
+ {
+  "offset": "0882BF5",
+  "en": "Fujiko Nomura",
+  "pt": "",
+  "max_width": 95
+ },
+ {
+  "offset": "0882C03",
+  "en": "Kazuki Yoshihara",
+  "pt": "",
+  "max_width": 112
+ },
+ {
+  "offset": "0882C14",
+  "en": "Retsuji Nomoto",
+  "pt": "",
+  "max_width": 102
+ },
+ {
+  "offset": "0882C23",
+  "en": "Azusa Tajima",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "0882C30",
+  "en": "Shusaku Egami",
+  "pt": "",
+  "max_width": 97
+ },
+ {
+  "offset": "0882C3E",
+  "en": "Package & Manual Illustration",
+  "pt": "Ilustração da Caixa e do Manual"
+ },
+ {
+  "offset": "0882C5C",
+  "en": "English Version Coordinators",
+  "pt": "Coordenadores da Versão em Inglês"
+ },
+ {
+  "offset": "0882C79",
+  "en": "Translator",
+  "pt": "Tradutor",
+  "max_width": 80
+ },
+ {
+  "offset": "0882C84",
+  "en": "Text Editor",
+  "pt": "Editor de Texto",
+  "max_width": 84
+ },
+ {
+  "offset": "0882C90",
+  "en": "NCL Coordinator",
+  "pt": "Coordenador NCL",
+  "max_width": 107
+ },
+ {
+  "offset": "0882CA0",
+  "en": "Graphic Designer",
+  "pt": "Designer Gráfico",
+  "max_width": 111
+ },
+ {
+  "offset": "0882CB1",
+  "en": "NOA Product Testing",
+  "pt": "Testes de Produto NOA",
+  "max_width": 129
+ },
+ {
+  "offset": "0882CC5",
+  "en": "Hideyuki Nakajima",
+  "pt": "",
+  "max_width": 116
+ },
+ {
+  "offset": "0882CD7",
+  "en": "Hidenori Saeki",
+  "pt": "",
+  "max_width": 98
+ },
+ {
+  "offset": "0882CE6",
+  "en": "Yoko Watanabe",
+  "pt": "",
+  "max_width": 99
+ },
+ {
+  "offset": "0882CF4",
+  "en": "Sakae Kimura",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "0882D01",
+  "en": "Chiaki Shinkai",
+  "pt": "",
+  "max_width": 97
+ },
+ {
+  "offset": "0882D10",
+  "en": "Seth McMahill",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "0882D1E",
+  "en": "Nob Ogasawara",
+  "pt": "",
+  "max_width": 98
+ },
+ {
+  "offset": "0882D2C",
+  "en": "Teresa Lillygren",
+  "pt": "",
+  "max_width": 109
+ },
+ {
+  "offset": "0882D3D",
+  "en": "Kimiko Nakamichi",
+  "pt": "",
+  "max_width": 109
+ },
+ {
+  "offset": "0882D4E",
+  "en": "Souichi Yamamoto",
+  "pt": "",
+  "max_width": 113
+ },
+ {
+  "offset": "0882D5F",
+  "en": "Yuichiro Ito",
+  "pt": "",
+  "max_width": 88
+ },
+ {
+  "offset": "0882D6C",
+  "en": "Thomas Hertzog",
+  "pt": "",
+  "max_width": 104
+ },
+ {
+  "offset": "0882D7B",
+  "en": "Mika Kurosawa",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "0882D89",
+  "en": "National Federation of the Blind",
+  "pt": ""
+ },
+ {
+  "offset": "0882DAA",
+  "en": "Patricia A. Maurer",
+  "pt": "",
+  "max_width": 116
+ },
+ {
+  "offset": "0882DBD",
+  "en": "European Blind Union",
+  "pt": "",
+  "max_width": 131
+ },
+ {
+  "offset": "0882DD2",
+  "en": "Australian Braille Authority",
+  "pt": "",
+  "max_width": 171
+ },
+ {
+  "offset": "0882DEF",
+  "en": "Royal New Zealand Federation for the Blind",
+  "pt": ""
+ },
+ {
+  "offset": "0882E1A",
+  "en": "Motoyasu Tojima",
+  "pt": "",
+  "max_width": 108
+ },
+ {
+  "offset": "0882E2A",
+  "en": "Nicola Pratt-Barlow",
+  "pt": "",
+  "max_width": 127
+ },
+ {
+  "offset": "0882E3E",
+  "en": "Shellie Dow",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "0882E4A",
+  "en": "Erik Johnson",
+  "pt": "",
+  "max_width": 90
+ },
+ {
+  "offset": "0883350",
+  "en": "Alpharad",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "0883359",
+  "en": "Alaina 'Kobazco' Robsahm",
+  "pt": "",
+  "max_width": 152
+ },
+ {
+  "offset": "0883372",
+  "en": "marinepez",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "088337C",
+  "en": "Lux 'Cannons' Thornton",
+  "pt": "",
+  "max_width": 143
+ },
+ {
+  "offset": "0883393",
+  "en": "Jordanos",
+  "pt": "",
+  "max_width": 71
+ },
+ {
+  "offset": "088339C",
+  "en": "Animal-nel",
+  "pt": "",
+  "max_width": 78
+ },
+ {
+  "offset": "08833A7",
+  "en": "Muno",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "08833AC",
+  "en": "Haxxi",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "08833B2",
+  "en": "Ruby",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "08833B7",
+  "en": "Captain Kidd",
+  "pt": "",
+  "max_width": 89
+ },
+ {
+  "offset": "08833C4",
+  "en": "NyxTheShield",
+  "pt": "",
+  "max_width": 92
+ },
+ {
+  "offset": "08833D1",
+  "en": "Mimi",
+  "pt": "",
+  "max_width": 44
+ },
+ {
+  "offset": "08833D6",
+  "en": "MelonSpeedruns",
+  "pt": "",
+  "max_width": 105
+ },
+ {
+  "offset": "0884421",
+  "en": "EMERALD",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0884429",
+  "en": "AQUA",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088442E",
+  "en": "MAGMA",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0884434",
+  "en": "ARCHIE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088443B",
+  "en": "MAXIE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0884441",
+  "en": "KYOGRE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0884448",
+  "en": "GROUDON",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0884450",
+  "en": "BRENDAN",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0884458",
+  "en": "MAY",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "088445C",
+  "en": "EGG",
+  "pt": "OVO",
+  "max_width": 24
+ },
+ {
+  "offset": "0884460",
+  "en": "CAPTURE",
+  "pt": "CAPTURA",
+  "max_width": 48
+ },
+ {
+  "offset": "0884468",
+  "en": "PROF. BIRCH",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "08844BD",
+  "en": "MYSTERY GIFT",
+  "pt": "PRESENTE",
+  "max_width": 75
+ },
+ {
+  "offset": "08844CA",
+  "en": "MYSTERY GIFT",
+  "pt": "PRESENTE",
+  "max_width": 75
+ },
+ {
+  "offset": "08844D7",
+  "en": "MYSTERY EVENTS",
+  "pt": "EVENTOS",
+  "max_width": 87
+ },
+ {
+  "offset": "08844E6",
+  "en": "The Wireless Adapter is not\\nconnected.",
+  "pt": "O Adaptador Sem Fio não está\\nconectado.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "088450D",
+  "en": "MYSTERY GIFT can't be used while\\nthe Wireless Adapter is attached.",
+  "pt": "O PRESENTE MISTERIOSO não pode\\nser usado com o Adaptador Sem Fio.",
+  "max_lines": 2,
+  "max_width": 185
+ },
+ {
+  "offset": "0884550",
+  "en": "MYSTERY EVENTS can't be used while\\nthe Wireless Adapter is attached.",
+  "pt": "Os EVENTOS MISTERIOSOS não podem\\nser usados com o Adaptador Sem Fio.",
+  "max_lines": 2,
+  "max_width": 192
+ },
+ {
+  "offset": "08845EA",
+  "en": "The save file is corrupted. The\\nprevious save file will be loaded.",
+  "pt": "O arquivo salvo está corrompido. O\\narquivo anterior será carregado.",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "088462D",
+  "en": "The save file has been erased\\ndue to corruption or damage.",
+  "pt": "O arquivo salvo foi apagado por\\nestar corrompido.",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "088467B",
+  "en": "The internal battery has run dry.\\nThe game can be played.\\pHowever, clock-based events will\\nno longer occur.",
+  "pt": "A bateria interna acabou.\\nO jogo ainda pode ser jogado.\\pPorém, eventos baseados no relógio\\nnão vão mais acontecer."
+ },
+ {
+  "offset": "08846F8",
+  "en": "TIME",
+  "pt": "TEMPO",
+  "max_width": 30
+ },
+ {
+  "offset": "0884784",
+  "en": "{F8 0A}PICK {F8 00}NEXT {F8 01}CANCEL",
+  "pt": "{F8 0A}OK {F8 00}PRÓX. {F8 01}SAIR",
+  "max_width": 132
+ },
+ {
+  "offset": "088479C",
+  "en": "{F8 0A}PICK {F8 00}{F8 01}CANCEL",
+  "pt": "{F8 0A}OK {F8 00}{F8 01}SAIR",
+  "max_width": 105
+ },
+ {
+  "offset": "08847B0",
+  "en": "{F8 00}EXIT",
+  "pt": "{F8 00}SAIR",
+  "max_width": 42
+ },
+ {
+  "offset": "08847B7",
+  "en": "BOY",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "08847BB",
+  "en": "GIRL",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "08847C0",
+  "en": "MARIO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088483C",
+  "en": "KIMMY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0884842",
+  "en": "TIARA",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0884848",
+  "en": "BELLA",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088484E",
+  "en": "JAYLA",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0884854",
+  "en": "ALLIE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088485A",
+  "en": "LIANNA",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0884861",
+  "en": "SARA",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "0884866",
+  "en": "MONICA",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088486D",
+  "en": "CAMILA",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0884874",
+  "en": "AUBREE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088487B",
+  "en": "RUTHIE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0884882",
+  "en": "HAZEL",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0884888",
+  "en": "NADINE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088488F",
+  "en": "TANJA",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0884895",
+  "en": "YASMIN",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088489C",
+  "en": "NICOLA",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "08848A3",
+  "en": "LILLIE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "08848AA",
+  "en": "TERRA",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08848B0",
+  "en": "LUCY",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "08848B5",
+  "en": "HALIE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "0884949",
+  "en": "CRY OF",
+  "pt": "VOZ DE",
+  "max_width": 39
+ },
+ {
+  "offset": "0884951",
+  "en": "SIZE COMPARED TO MARIO",
+  "pt": "TAMANHO PERTO DO MARIO",
+  "max_width": 147
+ },
+ {
+  "offset": "0884968",
+  "en": "TATTLEDEX registration completed.",
+  "pt": "Registro na TATTLEDEX concluído."
+ },
+ {
+  "offset": "088498A",
+  "en": "HT",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "088498D",
+  "en": "WT",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "0884990",
+  "en": "Searching…\\nPlease wait.",
+  "pt": "Buscando…\\nAguarde.",
+  "max_lines": 2,
+  "max_width": 72
+ },
+ {
+  "offset": "08849A8",
+  "en": "Search completed.",
+  "pt": "Busca concluída.",
+  "max_width": 117
+ },
+ {
+  "offset": "08849BA",
+  "en": "No matching CAPTURES were found.",
+  "pt": "Nenhuma CAPTURA foi encontrada."
+ },
+ {
+  "offset": "08849DB",
+  "en": "Search for CAPTURES based on\\nselected parameters.",
+  "pt": "Busca CAPTURAS conforme os\\nparâmetros escolhidos.",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "0884A0D",
+  "en": "Switch TATTLEDEX listings.",
+  "pt": "Troca a listagem da TATTLEDEX.",
+  "max_width": 163
+ },
+ {
+  "offset": "0884A28",
+  "en": "Return to the TATTLEDEX.",
+  "pt": "Volta para a TATTLEDEX.",
+  "max_width": 155
+ },
+ {
+  "offset": "0884A41",
+  "en": "Select the TATTLEDEX mode.",
+  "pt": "Escolhe o modo da TATTLEDEX.",
+  "max_width": 166
+ },
+ {
+  "offset": "0884A5C",
+  "en": "Select the TATTLEDEX listing mode.",
+  "pt": "Escolhe o modo de listagem da TATTLEDEX."
+ },
+ {
+  "offset": "0884A7F",
+  "en": "List by the first letter in the name.\\nSpotted CAPTURES only.",
+  "pt": "Lista pela primeira letra do nome.\\nSó CAPTURAS vistas.",
+  "max_lines": 2,
+  "max_width": 198
+ },
+ {
+  "offset": "0884ABC",
+  "en": "List by body color.\\nSpotted CAPTURES only.",
+  "pt": "Lista pela cor do corpo.\\nSó CAPTURAS vistas.",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "0884AE7",
+  "en": "List by type.\\nOwned CAPTURES only.",
+  "pt": "Lista por tipo.\\nSó CAPTURAS obtidas.",
+  "max_lines": 2,
+  "max_width": 119
+ },
+ {
+  "offset": "0884B0A",
+  "en": "Execute search/switch.",
+  "pt": "Executa a busca/troca.",
+  "max_width": 147
+ },
+ {
+  "offset": "0884B21",
+  "en": "MUSHROOM KINGDOM DEX",
+  "pt": "DEX REINO COGUMELOS",
+  "max_width": 138
+ },
+ {
+  "offset": "0884B36",
+  "en": "NATIONAL DEX",
+  "pt": "DEX NACIONAL",
+  "max_width": 75
+ },
+ {
+  "offset": "0884B43",
+  "en": "NUMERICAL MODE",
+  "pt": "MODO NUMÉRICO",
+  "max_width": 87
+ },
+ {
+  "offset": "0884B52",
+  "en": "A TO Z MODE",
+  "pt": "MODO A-Z",
+  "max_width": 63
+ },
+ {
+  "offset": "0884B5E",
+  "en": "HEAVIEST MODE",
+  "pt": "MAIS PESADO",
+  "max_width": 81
+ },
+ {
+  "offset": "0884B6C",
+  "en": "LIGHTEST MODE",
+  "pt": "MAIS LEVE",
+  "max_width": 81
+ },
+ {
+  "offset": "0884B7A",
+  "en": "TALLEST MODE",
+  "pt": "MAIS ALTO",
+  "max_width": 75
+ },
+ {
+  "offset": "0884B87",
+  "en": "SMALLEST MODE",
+  "pt": "MAIS BAIXO",
+  "max_width": 81
+ },
+ {
+  "offset": "0884B95",
+  "en": "ABC",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884B99",
+  "en": "DEF",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884B9D",
+  "en": "GHI",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884BA1",
+  "en": "JKL",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884BA5",
+  "en": "MNO",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884BA9",
+  "en": "PQR",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884BAD",
+  "en": "STU",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884BB1",
+  "en": "VWX",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884BB5",
+  "en": "YZ",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "0884BB8",
+  "en": "RED",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0884BBC",
+  "en": "BLUE",
+  "pt": "AZUL",
+  "max_width": 30
+ },
+ {
+  "offset": "0884BC1",
+  "en": "YELLOW",
+  "pt": "AMARELO",
+  "max_width": 42
+ },
+ {
+  "offset": "0884BC8",
+  "en": "GREEN",
+  "pt": "VERDE",
+  "max_width": 36
+ },
+ {
+  "offset": "0884BCE",
+  "en": "BLACK",
+  "pt": "PRETO",
+  "max_width": 36
+ },
+ {
+  "offset": "0884BD4",
+  "en": "BROWN",
+  "pt": "MARROM",
+  "max_width": 36
+ },
+ {
+  "offset": "0884BDA",
+  "en": "PURPLE",
+  "pt": "ROXO",
+  "max_width": 42
+ },
+ {
+  "offset": "0884BE1",
+  "en": "GRAY",
+  "pt": "CINZA",
+  "max_width": 30
+ },
+ {
+  "offset": "0884BE6",
+  "en": "WHITE",
+  "pt": "BRANCO",
+  "max_width": 36
+ },
+ {
+  "offset": "0884BEC",
+  "en": "PINK",
+  "pt": "ROSA",
+  "max_width": 30
+ },
+ {
+  "offset": "0884BF1",
+  "en": "MUSHROOM KINGDOM's TATTLEDEX",
+  "pt": "TATTLEDEX do REINO DOS COGUMELOS"
+ },
+ {
+  "offset": "0884C0E",
+  "en": "National edition POKéDEX",
+  "pt": "TATTLEDEX edição Nacional",
+  "max_width": 154
+ },
+ {
+  "offset": "0884C27",
+  "en": "CAPTURES are listed according to their\\nnumber.",
+  "pt": "As CAPTURAS são listadas pelo\\nnúmero.",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "0884C56",
+  "en": "Spotted and owned CAPTURES are listed\\nalphabetically.",
+  "pt": "As CAPTURAS vistas e obtidas são\\nlistadas em ordem alfabética.",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "0884C8C",
+  "en": "Owned CAPTURES are listed from the\\nheaviest to the lightest.",
+  "pt": "As CAPTURAS obtidas são listadas da\\nmais pesada para a mais leve.",
+  "max_lines": 2,
+  "max_width": 193
+ },
+ {
+  "offset": "0884CC9",
+  "en": "Owned CAPTURES are listed from the\\nlightest to the heaviest.",
+  "pt": "As CAPTURAS obtidas são listadas da\\nmais leve para a mais pesada.",
+  "max_lines": 2,
+  "max_width": 193
+ },
+ {
+  "offset": "0884D06",
+  "en": "Owned CAPTURES are listed from the\\ntallest to the smallest.",
+  "pt": "As CAPTURAS obtidas são listadas da\\nmais alta para a mais baixa.",
+  "max_lines": 2,
+  "max_width": 193
+ },
+ {
+  "offset": "0884D42",
+  "en": "Owned CAPTURES are listed from the\\nsmallest to the tallest.",
+  "pt": "As CAPTURAS obtidas são listadas da\\nmais baixa para a mais alta.",
+  "max_lines": 2,
+  "max_width": 193
+ },
+ {
+  "offset": "0884D7F",
+  "en": "DON'T SPECIFY.",
+  "pt": "QUALQUER",
+  "max_width": 81
+ },
+ {
+  "offset": "0884D8E",
+  "en": "NONE",
+  "pt": "NADA",
+  "max_width": 30
+ },
+ {
+  "offset": "0884D97",
+  "en": "Welcome to the HALL OF FAME!",
+  "pt": "Bem-vindo ao HALL DA FAMA!",
+  "max_width": 173
+ },
+ {
+  "offset": "0884E37",
+  "en": "The HALL OF FAME data is corrupted.",
+  "pt": "Os dados do HALL DA FAMA estão corrompidos."
+ },
+ {
+  "offset": "0884E5B",
+  "en": "HALL OF FAME No. {STR_VAR_1}",
+  "pt": "HALL DA FAMA No. {STR_VAR_1}",
+  "max_width": 153
+ },
+ {
+  "offset": "0884E6F",
+  "en": "C.A.P. CHALLENGE CHAMPION!\\nCONGRATULATIONS!",
+  "pt": "CAMPEÃO DO DESAFIO C.A.P.!\\nPARABÉNS!",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0884E9B",
+  "en": "No. ",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0884EA0",
+  "en": "Lv. ",
+  "pt": "Nv. ",
+  "max_width": 42
+ },
+ {
+  "offset": "0884EAD",
+  "en": "NAME",
+  "pt": "NOME",
+  "max_width": 30
+ },
+ {
+  "offset": "0884EB2",
+  "en": "IDNo.",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "0884EB8",
+  "en": "PROF. BIRCH is in trouble!\\nRelease a POKéMON and rescue him!",
+  "pt": "O PROF. BIRCH está em apuros!\\nEscolha uma CAPTURA e salve-o!",
+  "max_lines": 2,
+  "max_width": 186
+ },
+ {
+  "offset": "0884EF5",
+  "en": "Do you choose this POKéMON?",
+  "pt": "Você escolhe esta CAPTURA?",
+  "max_width": 172
+ },
+ {
+  "offset": "0884F19",
+  "en": "WARP to where?",
+  "pt": "WARP para onde?",
+  "max_width": 101
+ },
+ {
+  "offset": "0884F28",
+  "en": "USE",
+  "pt": "USAR",
+  "max_width": 24
+ },
+ {
+  "offset": "0884F2C",
+  "en": "TOSS",
+  "pt": "JOGAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0884F31",
+  "en": "REGISTER",
+  "pt": "REGISTRAR",
+  "max_width": 54
+ },
+ {
+  "offset": "0884F3A",
+  "en": "GIVE",
+  "pt": "DAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0884F3F",
+  "en": "CHECK TAG",
+  "pt": "VER FICHA",
+  "max_width": 57
+ },
+ {
+  "offset": "0884F49",
+  "en": "CONFIRM",
+  "pt": "OK",
+  "max_width": 48
+ },
+ {
+  "offset": "0884F51",
+  "en": "WALK",
+  "pt": "ANDAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0884F56",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0884F5D",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0884F64",
+  "en": "SHOW",
+  "pt": "VER",
+  "max_width": 30
+ },
+ {
+  "offset": "0884F71",
+  "en": "ITEM",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "0884F76",
+  "en": "MAIL",
+  "pt": "CARTA",
+  "max_width": 30
+ },
+ {
+  "offset": "0884F7B",
+  "en": "TAKE",
+  "pt": "PEGAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0884F80",
+  "en": "STORE",
+  "pt": "GUARDA",
+  "max_width": 36
+ },
+ {
+  "offset": "0884F86",
+  "en": "CHECK",
+  "pt": "VER",
+  "max_width": 36
+ },
+ {
+  "offset": "0884F8C",
+  "en": "NONE",
+  "pt": "NADA",
+  "max_width": 30
+ },
+ {
+  "offset": "0884F91",
+  "en": "DESELECT",
+  "pt": "DESMARCAR",
+  "max_width": 54
+ },
+ {
+  "offset": "0884FC8",
+  "en": "Go back to the\\nprevious menu.",
+  "pt": "Volta para o\\nmenu anterior.",
+  "max_lines": 2,
+  "max_width": 85
+ },
+ {
+  "offset": "0884FE6",
+  "en": "What would you like to do?",
+  "pt": "O que você gostaria de fazer?",
+  "max_width": 159
+ },
+ {
+  "offset": "0885001",
+  "en": "GIVE",
+  "pt": "DAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0885011",
+  "en": "{STR_VAR_1} COINS",
+  "pt": "{STR_VAR_1} MOEDAS",
+  "max_width": 81
+ },
+ {
+  "offset": "088501A",
+  "en": "CLOSE BAG",
+  "pt": "FECHAR",
+  "max_width": 57
+ },
+ {
+  "offset": "0885024",
+  "en": "{STR_VAR_1} is\\nselected.",
+  "pt": "{STR_VAR_1} foi\\nselecionado.",
+  "max_lines": 2,
+  "max_width": 65
+ },
+ {
+  "offset": "0885034",
+  "en": "You can't write\\nMAIL here.",
+  "pt": "Não dá para\\nusar CARTA aqui.",
+  "max_lines": 2,
+  "max_width": 88
+ },
+ {
+  "offset": "088504F",
+  "en": "There are no\\nCAPTURES.",
+  "pt": "Não há\\nCAPTURAS.",
+  "max_lines": 2,
+  "max_width": 74
+ },
+ {
+  "offset": "0885066",
+  "en": "Move the\\n{STR_VAR_1}\\nwhere?",
+  "pt": "Para onde\\nmover\\n{STR_VAR_1}?",
+  "max_lines": 3,
+  "max_width": 55
+ },
+ {
+  "offset": "0885079",
+  "en": "The {STR_VAR_1} can't be held.",
+  "pt": "Não dá para segurar {STR_VAR_1}.",
+  "max_width": 160
+ },
+ {
+  "offset": "088508F",
+  "en": "The {STR_VAR_1} can't be held\\nhere.",
+  "pt": "{STR_VAR_1} não pode ser\\nsegurado aqui.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08850AA",
+  "en": "Deposit how many\\n{STR_VAR_1}(s)?",
+  "pt": "Guardar quantos\\n{STR_VAR_1}(s)?",
+  "max_lines": 2,
+  "max_width": 98
+ },
+ {
+  "offset": "08850C2",
+  "en": "Deposited {STR_VAR_2}\\n{STR_VAR_1}(s).",
+  "pt": "Guardou {STR_VAR_2}\\n{STR_VAR_1}(s).",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "08850D6",
+  "en": "There's no room to\\nstore items.",
+  "pt": "Não há espaço para\\nguardar itens.",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "08850F6",
+  "en": "Important items\\ncan't be stored in\\nthe PC!",
+  "pt": "Itens importantes\\nnão podem ficar\\nno PC!",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0885121",
+  "en": "That's much too\\nimportant to toss\\nout!",
+  "pt": "Isso é importante\\ndemais para\\njogar fora!",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0885148",
+  "en": "Toss out how many\\n{STR_VAR_1}(s)?",
+  "pt": "Jogar fora quantos\\n{STR_VAR_1}(s)?",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "0885161",
+  "en": "Threw away {STR_VAR_2}\\n{STR_VAR_1}(s).",
+  "pt": "Jogou fora {STR_VAR_2}\\n{STR_VAR_1}(s).",
+  "max_lines": 2,
+  "max_width": 111
+ },
+ {
+  "offset": "0885176",
+  "en": "Is it okay to\\nthrow away {STR_VAR_2}\\n{STR_VAR_1}(s)?",
+  "pt": "Tudo bem jogar\\nfora {STR_VAR_2}\\n{STR_VAR_1}(s)?",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08851D3",
+  "en": "LUIGI's advice…\\nMARIO, there's a time and place for\\neverything!{PAUSE_UNTIL_PRESS}",
+  "pt": "Conselho do LUIGI…\\nMARIO, tem hora e lugar para\\ntudo!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 3,
+  "max_width": 190
+ },
+ {
+  "offset": "0885215",
+  "en": "You can't use CANDIES from the overworld!{PAUSE_UNTIL_PRESS}",
+  "pt": "Você não pode usar DOCES fora da batalha!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885241",
+  "en": "CAPTAIN TOAD: MARIO! You can't use\\nthat while I'm following you!{PAUSE_UNTIL_PRESS}",
+  "pt": "CAPTAIN TOAD: MARIO! Você não pode\\nusar isso enquanto eu te sigo!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 191
+ },
+ {
+  "offset": "0885284",
+  "en": "You can't dismount your KART here.{PAUSE_UNTIL_PRESS}",
+  "pt": "Você não pode descer do seu KART aqui.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "08852A9",
+  "en": "You don't have a saved battle!{PAUSE_UNTIL_PRESS}",
+  "pt": "Você não tem uma batalha salva!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "08852CA",
+  "en": "Huh?\\nThe ITEMFINDER's responding!\\pThere's an item buried around here!{PAUSE_UNTIL_PRESS}",
+  "pt": "Hã?\\nO DETECTOR está respondendo!\\pTem um item enterrado por aqui!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885312",
+  "en": "Oh!\\nThe ITEMFINDER's shaking wildly!{PAUSE_UNTIL_PRESS}",
+  "pt": "Oh!\\nO DETECTOR está tremendo muito!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 180
+ },
+ {
+  "offset": "0885339",
+  "en": "… … … …Nope!\\nThere's no response.{PAUSE_UNTIL_PRESS}",
+  "pt": "… … … …Nada!\\nNão há resposta.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "088535D",
+  "en": "Your COINS:\\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}",
+  "pt": "Suas MOEDAS:\\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 69
+ },
+ {
+  "offset": "088536E",
+  "en": "Booted up a TM.",
+  "pt": "Ligou um TM.",
+  "max_width": 102
+ },
+ {
+  "offset": "088537E",
+  "en": "Booted up an HM.",
+  "pt": "Ligou um HM.",
+  "max_width": 108
+ },
+ {
+  "offset": "088538F",
+  "en": "It contained\\n{STR_VAR_1}.\\pTeach {STR_VAR_1}\\nto a CAPTURE?",
+  "pt": "Ela continha\\n{STR_VAR_1}.\\pEnsinar {STR_VAR_1}\\na uma CAPTURA?"
+ },
+ {
+  "offset": "08853B7",
+  "en": "MARIO used the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "pt": "MARIO usou\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 88
+ },
+ {
+  "offset": "08853CC",
+  "en": "But the effects of a REPEL\\nlingered from earlier.{PAUSE_UNTIL_PRESS}",
+  "pt": "Mas o efeito de um REPELENTE\\nainda continua.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "0885400",
+  "en": "But the effects of a Lure\\nlingered from earlier.{PAUSE_UNTIL_PRESS}",
+  "pt": "Mas o efeito de uma Isca\\nainda continua.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "0885433",
+  "en": "MARIO used the\\n{STR_VAR_2}.\\pWild CAPTURES will be lured.{PAUSE_UNTIL_PRESS}",
+  "pt": "MARIO usou\\n{STR_VAR_2}.\\pCAPTURAS selvagens serão atraídas.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885444",
+  "en": ".\\pWild CAPTURES will be lured.{PAUSE_UNTIL_PRESS}",
+  "pt": ".\\pCAPTURAS selvagens serão atraídas.{PAUSE_UNTIL_PRESS}"
+ }
+]

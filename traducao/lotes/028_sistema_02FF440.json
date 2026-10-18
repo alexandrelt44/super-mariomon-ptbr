@@ -1,0 +1,692 @@
+[
+ {
+  "offset": "02FF440",
+  "en": "{STR_VAR_1}{STR_VAR_3} would also be an effective\\nnickname.",
+  "pt": "{STR_VAR_1}{STR_VAR_3} também seria um apelido muito bom."
+ },
+ {
+  "offset": "02FF46A",
+  "en": "What should always be avoided is using\\nanother POKéMON species name.\\pFor instance, avoid taking the name of\\n{STR_VAR_2} to make the nickname {STR_VAR_1}{STR_VAR_3}.\\lThat is unacceptable.",
+  "pt": "O que sempre deve ser evitado é usar o nome de outra espécie de CAPTURA.\\pPor exemplo, evite pegar o nome {STR_VAR_2} para formar o apelido {STR_VAR_1}{STR_VAR_3}. Isso é inaceitável."
+ },
+ {
+  "offset": "02FF50A",
+  "en": "I must say that {STR_VAR_1} is quite\\na good nickname.\\pI hope that the TRAINER will continue\\nto treat {STR_VAR_1} with love.\\pThat's it for today's show.\\nMay we meet again.",
+  "pt": "Devo dizer que {STR_VAR_1} é um apelido muito bom.\\pEspero que o TREINADOR continue tratando {STR_VAR_1} com carinho.\\pE o programa de hoje fica por aqui. Até a próxima!"
+ },
+ {
+  "offset": "02FF5A3",
+  "en": "{STR_VAR_2} ANGLER\\pANNOUNCER: Hello! Today, we'll get tips\\non fishing for {STR_VAR_2}.\\pGURU, what advice can you give for\\ncatching {STR_VAR_2}?\\pGURU: Hm? Catching {STR_VAR_2}?\\nWell, let me tell you, be patient and\\lwait. That's the bottom line.\\pDo you see {STR_VAR_1} over there?\\nThat TRAINER makes a good example.\\pThat TRAINER's already had\\n{STR_VAR_3} POKéMON get away.\\pBut there {STR_VAR_1} waits. No giving up.\\nThat's the law for catching {STR_VAR_2}.\\pANNOUNCER: I see…\\pOh! {STR_VAR_1} has finally landed an\\nelusive {STR_VAR_2}!\\pThe TRAINER appears close to tears\\nout of sheer joy!\\pSeeing that elated look, I'm getting\\nthe itch to go fishing, too!\\pViewers, why not take this as a cue to\\ntry some {STR_VAR_2} fishing?\\pUntil our next broadcast, farewell and\\ngood fishing to you all!",
+  "pt": "PESCADOR DE {STR_VAR_2}\\pAPRESENTADOR: Olá! Hoje vamos receber dicas de como pescar {STR_VAR_2}.\\pGURU, que conselho você pode dar para quem quer pegar {STR_VAR_2}?\\pGURU: Hum? Pegar {STR_VAR_2}? Bom, vou te dizer: tenha paciência e espere. Esse é o segredo.\\pEstá vendo {STR_VAR_1} ali? Esse TREINADOR é um bom exemplo.\\pO TREINADOR já deixou {STR_VAR_3} CAPTURAS escaparem.\\pMas {STR_VAR_1} continua ali, esperando. Sem desistir. Essa é a lei para pegar {STR_VAR_2}.\\pAPRESENTADOR: Entendo…\\pOh! {STR_VAR_1} finalmente fisgou {STR_VAR_2}, que é tão difícil de pegar!\\pO TREINADOR parece prestes a chorar de tanta alegria!\\pVendo essa cara de felicidade, também fiquei com vontade de pescar!\\pTelespectadores, que tal aproveitar a deixa e tentar pescar {STR_VAR_2} também?\\pAté a nossa próxima transmissão, adeus e boa pescaria a todos!"
+ },
+ {
+  "offset": "02FF850",
+  "en": "{STR_VAR_2} ANGLER\\pANNOUNCER: Hello! Today, we'll get tips\\non fishing for {STR_VAR_2}.\\pGURU, what advice can you give for\\ncatching {STR_VAR_2}?\\pGURU: Hm? Catching {STR_VAR_2}?\\nWell, let me tell you, use your fishing\\lROD with vigor!\\pDo you see {STR_VAR_1} over there?\\nSee how the ROD is handled?\\pThat TRAINER's already caught\\n{STR_VAR_3} in a row.\\pANNOUNCER: It's incredible!\\nIt looks like a storm…\\pSeeing technique of that caliber, I'm\\ngetting the itch to go fishing, too.\\pViewers, why not take this as a cue to\\ntry some {STR_VAR_2} fishing?\\pUntil our next broadcast, farewell and\\ngood fishing to you all!",
+  "pt": "PESCADOR DE {STR_VAR_2}\\pAPRESENTADOR: Olá! Hoje vamos receber dicas de como pescar {STR_VAR_2}.\\pGURU, que conselho você pode dar para quem quer pegar {STR_VAR_2}?\\pGURU: Hum? Pegar {STR_VAR_2}? Bom, vou te dizer: use a sua VARA de pesca com vigor!\\pEstá vendo {STR_VAR_1} ali? Repare como a VARA é manejada.\\pEsse TREINADOR já pegou {STR_VAR_3} seguidos.\\pAPRESENTADOR: É incrível! Parece até uma tempestade…\\pVendo uma técnica desse nível, também fiquei com vontade de pescar.\\pTelespectadores, que tal aproveitar a deixa e tentar pescar {STR_VAR_2} também?\\pAté a nossa próxima transmissão, adeus e boa pescaria a todos!"
+ },
+ {
+  "offset": "02FFA6F",
+  "en": "Hello!\\pIt's time for POKéMON TODAY!\\pBIG SIS: Hi! Is everyone peachy and\\nperky today?\\pToday, we're going to look at {STR_VAR_1}'s\\nPOKéMON {STR_VAR_2}!\\pBIG BRO: Yeah! That's what we're going\\nto do!",
+  "pt": "Olá!\\pEstá na hora de CAPTURAS HOJE!\\pMANA: Oi! Todo mundo animado e cheio de energia hoje?\\pHoje vamos conhecer {STR_VAR_2}, a CAPTURA de {STR_VAR_1}!\\pMANO: Isso aí! É isso que a gente vai fazer!"
+ },
+ {
+  "offset": "02FFB21",
+  "en": "Oh!\\nSpeaking of {STR_VAR_1}…\\pBIG SIS, I saw the TRAINER with my very\\nown eyes!\\pBIG SIS: Oh, what did you see?\\pBIG BRO: Well, I had to go on a trip to\\n{STR_VAR_2}.\\pThat's when I happened to come across\\n{STR_VAR_1}, who was trying to catch the\\lPOKéMON {STR_VAR_3}, but…",
+  "pt": "Ah! Falando em {STR_VAR_1}…\\pMANA, eu vi esse TREINADOR com os meus próprios olhos!\\pMANA: Ah, e o que você viu?\\pMANO: Bom, eu tive que fazer uma viagem até {STR_VAR_2}.\\pFoi aí que por acaso encontrei {STR_VAR_1}, tentando pegar a CAPTURA {STR_VAR_3}, mas…"
+ },
+ {
+  "offset": "02FFC09",
+  "en": "The POKéMON managed to get away!\\pIt ended up wasting this many\\nPOKé BALLS: {STR_VAR_2}!\\pYou should have seen the expression\\nof frustration on {STR_VAR_1}'s face when\\lthe POKéMON took off!",
+  "pt": "A CAPTURA conseguiu escapar!\\pNo fim, foram {STR_VAR_2} CAPs desperdiçados!\\pVocê tinha que ver a cara de frustração de {STR_VAR_1} quando a CAPTURA fugiu!"
+ },
+ {
+  "offset": "02FFCB3",
+  "en": "But {STR_VAR_1} goofed and made the\\nPOKéMON faint!\\pIt ended up wasting this many\\nPOKé BALLS: {STR_VAR_2}!\\pYou should have seen the expression\\nof stunned dismay on {STR_VAR_1}'s face\\lwhen the POKéMON fainted!",
+  "pt": "Mas {STR_VAR_1} vacilou e fez a CAPTURA desmaiar!\\pNo fim, foram {STR_VAR_2} CAPs desperdiçados!\\pVocê tinha que ver a cara de espanto e desânimo de {STR_VAR_1} quando a CAPTURA desmaiou!"
+ },
+ {
+  "offset": "02FFD68",
+  "en": "BIG SIS: Hey, there!\\nThat's not nice!\\pYou shouldn't be laughing at other\\npeople's misfortune!\\pOh, poor {STR_VAR_1}.\\nWhat a shame!\\pBIG BRO: That's true!\\nSorry for laughing.",
+  "pt": "MANA: Ei, peraí! Isso não é legal!\\pVocê não devia rir da desgraça dos outros!\\pAi, pobre {STR_VAR_1}. Que pena!\\pMANO: É verdade! Desculpa por rir."
+ },
+ {
+  "offset": "02FFE0B",
+  "en": "BIG SIS: Bufufu…\\pBIG BRO: Hey!\\nYou just laughed, too!\\pBIG SIS: Huh?!\\pI didn't laugh!\\nHonestly, I didn't!\\pOh, poor {STR_VAR_1}.\\nWhat a shame!\\pBIG BRO: …",
+  "pt": "MANA: Bufufu…\\pMANO: Ei! Você também riu!\\pMANA: Hã?!\\pEu não ri! Juro que não!\\pAi, pobre {STR_VAR_1}. Que pena!\\pMANO: …"
+ },
+ {
+  "offset": "02FFE9A",
+  "en": "BIG SIS: That's enough silliness!\\nLet's look at today's POKéMON…\\pHuh?\\nWe're out of time already?\\pAww!\\nWe couldn't profile a POKéMON today!\\pBIG BRO: See you again next time!\\pBIG SIS: Hey, don't end the show\\nwithout me!",
+  "pt": "MANA: Chega de bobeira! Vamos ver a CAPTURA de hoje…\\pHã? O nosso tempo já acabou?\\pAhh! Não deu pra apresentar nenhuma CAPTURA hoje!\\pMANO: Até a próxima!\\pMANA: Ei, não encerra o programa sem mim!"
+ },
+ {
+  "offset": "02FFF74",
+  "en": "Hello!\\pIt's time for POKéMON TODAY!\\pBIG SIS: Hi! Is everyone peachy and\\nperky today?\\pToday, we're going to look at {STR_VAR_1}'s\\nPOKéMON {STR_VAR_2}!\\pBIG BRO: Yeah! That's what we're going\\nto do!",
+  "pt": "Olá!\\pEstá na hora de CAPTURAS HOJE!\\pMANA: Oi! Todo mundo animado e cheio de energia hoje?\\pHoje vamos conhecer {STR_VAR_2}, a CAPTURA de {STR_VAR_1}!\\pMANO: Isso aí! É isso que a gente vai fazer!"
+ },
+ {
+  "offset": "0300000",
+  "en": " Yeah! That's what we're going\\nto do!",
+  "pt": ""
+ },
+ {
+  "offset": "0300026",
+  "en": "BIG SIS: {STR_VAR_1} gave the nickname\\n{STR_VAR_3} to the {STR_VAR_2}!\\pIt sounds like {STR_VAR_3} is getting\\ngood, loving care!",
+  "pt": "MANA: {STR_VAR_1} deu o apelido {STR_VAR_3} para {STR_VAR_2}!\\pParece que {STR_VAR_3} está recebendo muito carinho e cuidado!"
+ },
+ {
+  "offset": "0300082",
+  "en": "BIG BRO: The TRAINER had to throw this\\nmany POKé BALLS to catch it: {STR_VAR_3}!\\pIt finally took a single {STR_VAR_2}\\nto catch it!",
+  "pt": "MANO: O TREINADOR teve que arremessar esta quantidade de CAPs para pegá-la: {STR_VAR_3}!\\pNo fim, quem resolveu foi um único {STR_VAR_2}!"
+ },
+ {
+  "offset": "03000F3",
+  "en": "BIG SIS: If it was that easy to catch,\\nit must have been destiny that brought\\l{STR_VAR_1} and the {STR_VAR_2} together!",
+  "pt": "MANA: Se foi tão fácil de pegar, deve ter sido o destino que uniu {STR_VAR_1} e {STR_VAR_2}!"
+ },
+ {
+  "offset": "0300159",
+  "en": "BIG SIS: Wow! That's so neat!\\pBut you know what they say, a POKéMON\\nthat takes a lot of effort to catch\\learns the love of its TRAINER!",
+  "pt": "MANA: Uau! Que demais!\\pMas, como dizem por aí, a CAPTURA que dá muito trabalho para pegar aprende a amar o seu TREINADOR!"
+ },
+ {
+  "offset": "03001E0",
+  "en": "BIG SIS: {STR_VAR_1}'s {STR_VAR_2} is a\\nmemorable POKéMON because it took an\\linvaluable MASTER BALL to catch!\\pBIG BRO: Wow! That's mega-awesome!\\pBIG SIS: {STR_VAR_1} must have really\\nwanted that {STR_VAR_2}, for sure!",
+  "pt": "MANA: {STR_VAR_2} de {STR_VAR_1} é uma CAPTURA memorável, porque foi preciso um valioso CAP COROA para pegá-la!\\pMANO: Uau! Que megaincrível!\\pMANA: {STR_VAR_1} devia querer muito {STR_VAR_2}, com certeza!"
+ },
+ {
+  "offset": "0300296",
+  "en": "BIG BRO: Then to give the nickname\\n{STR_VAR_3} to that {STR_VAR_2}…\\pYou really get a good idea about\\n{STR_VAR_1}'s TRAINER sense.\\pBIG SIS: I second that notion!",
+  "pt": "MANO: E ainda dar o apelido {STR_VAR_3} para {STR_VAR_2}…\\pDá pra ter uma boa noção do talento de {STR_VAR_1} como TREINADOR.\\pMANA: Concordo plenamente!"
+ },
+ {
+  "offset": "030031C",
+  "en": "If it were me, I'd give that nickname\\nto something like this {STR_VAR_3}!\\pBIG BRO: Whoa! That could be the start\\nof something new!",
+  "pt": "Se fosse eu, daria esse apelido para alguém como {STR_VAR_3}!\\pMANO: Opa! Isso pode ser o começo de algo novo!"
+ },
+ {
+  "offset": "0300396",
+  "en": "{STR_VAR_2} the {STR_VAR_1}?\\nDoesn't that sound perfect?\\pThe letters and everything--they\\nsound just right for the POKéMON\\l{STR_VAR_1}!\\pBIG BRO: Yeah, true, that!",
+  "pt": "{STR_VAR_2}, o {STR_VAR_1}? Não soa perfeito?\\pAs letras e tudo mais combinam direitinho com a CAPTURA {STR_VAR_1}!\\pMANO: É, verdade, isso aí!"
+ },
+ {
+  "offset": "030041E",
+  "en": "As far as I know, no TRAINER has ever\\ngiven the nickname {STR_VAR_2} to their\\l{STR_VAR_1}!\\pBIG BRO: That just goes to show what\\ngreat taste the TRAINER has in picking\\lnicknames!",
+  "pt": "Até onde eu sei, nenhum TREINADOR jamais deu o apelido {STR_VAR_2} para a sua CAPTURA {STR_VAR_1}!\\pMANO: Isso só mostra o bom gosto do TREINADOR na hora de escolher apelidos!"
+ },
+ {
+  "offset": "03004BE",
+  "en": "The next time I catch a POKéMON,\\nI should give it the name {STR_VAR_2}.\\pBIG BRO: Huh? Me, too!\\nI'll use the nickname {STR_VAR_2}, too!",
+  "pt": "Da próxima vez que eu pegar uma CAPTURA, vou chamá-la de {STR_VAR_2}.\\pMANO: Hã? Eu também! Também vou usar o apelido {STR_VAR_2}!"
+ },
+ {
+  "offset": "0300533",
+  "en": "BIG SIS: Oh, no!\\nLook at the time!\\pWell, gang, this is it for today.\\nSee you again next time!\\pBIG BRO: Remember, it could be your\\nPOKéMON in the spotlight next time!",
+  "pt": "MANA: Ai, não! Olha a hora!\\pBom, pessoal, por hoje é só. Até a próxima!\\pMANO: Lembrem-se: da próxima vez, quem pode estar em destaque é a sua CAPTURA!"
+ },
+ {
+  "offset": "03005D9",
+  "en": "Hello!\\pIt's time for TODAY'S SMART SHOPPER.\\pINTERVIEWER: How are you, viewers?\\pToday we're visiting a shop\\nin {STR_VAR_2}.\\pLet's check on what the hot sellers\\nhave been recently.",
+  "pt": "Olá!\\pEstá na hora do COMPRADOR ESPERTO DE HOJE.\\pREPÓRTER: Como vão, telespectadores?\\pHoje estamos visitando uma loja em {STR_VAR_2}.\\pVamos ver o que anda vendendo mais ultimamente."
+ },
+ {
+  "offset": "0300683",
+  "en": "Let's interview the clerk to get the\\nlowdown.\\pHi, how's your business?\\pCLERK: Oh, we're doing excellent.\\pRecently, {STR_VAR_2} has been\\nselling especially strongly.\\pWhy, just the other day a TRAINER\\nnamed {STR_VAR_1} bought {STR_VAR_3}.",
+  "pt": "Vamos entrevistar o balconista para saber das novidades.\\pOi, como vão os negócios?\\pBALCONISTA: Ah, estão excelentes.\\pUltimamente, {STR_VAR_2} tem vendido especialmente bem.\\pOutro dia mesmo, um TREINADOR chamado {STR_VAR_1} comprou {STR_VAR_3} unidades."
+ },
+ {
+  "offset": "0300755",
+  "en": "INTERVIEWER: The TRAINER bought\\n{STR_VAR_3} {STR_VAR_2}S? That's a haul!\\pIf I may say so, {STR_VAR_1} must have\\nbeen stocking up for a long journey\\lto far-off places.\\pFor traveling, {STR_VAR_2}S are so\\nimportant!",
+  "pt": "REPÓRTER: O TREINADOR comprou {STR_VAR_3} unidades de {STR_VAR_2}? Que compra!\\pSe me permitem dizer, {STR_VAR_1} devia estar se abastecendo para uma longa jornada até lugares distantes.\\pPara quem viaja, {STR_VAR_2} é importantíssimo!"
+ },
+ {
+  "offset": "0300806",
+  "en": "INTERVIEWER: Speaking of the item\\n{STR_VAR_2}, I just bought {STR_VAR_3} of\\lthem recently.\\pAfter all, {STR_VAR_2}'s a great item!",
+  "pt": "REPÓRTER: Falando no item {STR_VAR_2}, eu também comprei {STR_VAR_3} unidades há pouco tempo.\\pAfinal, {STR_VAR_2} é um ótimo item!"
+ },
+ {
+  "offset": "030086D",
+  "en": "INTERVIEWER: {STR_VAR_2}?!\\nBut {STR_VAR_3} of them?!\\pI didn't think there would be anyone\\nbuying that many.\\pMy goodness, I can only afford one or\\ntwo at a time…",
+  "pt": "REPÓRTER: {STR_VAR_2}?! Mas {STR_VAR_3} unidades?!\\pEu não imaginava que alguém comprasse tanto assim.\\pMinha nossa, eu só consigo comprar um ou dois de cada vez…"
+ },
+ {
+  "offset": "03008FC",
+  "en": "INTERVIEWER: One time, I bought\\na whole lot of the item {STR_VAR_2}.\\pBut it turned out to be too many.\\nI ended up regretting it…\\pSince then, I only buy strictly what\\nI absolutely need…\\pOops!\\pThere's no point talking about me!",
+  "pt": "REPÓRTER: Uma vez, comprei uma montanha do item {STR_VAR_2}.\\pMas acabou sendo demais. Depois me arrependi…\\pDesde então, só compro estritamente o que eu realmente preciso…\\pOpa!\\pNão adianta ficar falando de mim!"
+ },
+ {
+  "offset": "03009D5",
+  "en": "CLERK: {STR_VAR_1} also bought the item\\n{STR_VAR_2} in bulk, taking {STR_VAR_3}.\\pINTERVIEWER: Oh, that's smart.\\n{STR_VAR_2}'s a very good item, too.",
+  "pt": "BALCONISTA: {STR_VAR_1} também comprou o item {STR_VAR_2} no atacado, levando {STR_VAR_3} unidades.\\pREPÓRTER: Ah, que esperto. {STR_VAR_2} também é um item muito bom."
+ },
+ {
+  "offset": "0300A46",
+  "en": "CLERK: And, the TRAINER also bought\\n{STR_VAR_3} of the item {STR_VAR_2}.",
+  "pt": "BALCONISTA: E o TREINADOR também comprou {STR_VAR_3} unidades do item {STR_VAR_2}."
+ },
+ {
+  "offset": "0300A7D",
+  "en": "CLERK: Plus, it was during a big sale.\\nThat's smart shopping.",
+  "pt": "BALCONISTA: E ainda foi durante uma grande liquidação. Isso é que é comprar com esperteza."
+ },
+ {
+  "offset": "0300ABB",
+  "en": "INTERVIEWER: Hmm… {STR_VAR_1} sounds like\\nquite the shrewd bargain hunter!\\pIn total, {STR_VAR_1}'s purchases came to…\\p¥{STR_VAR_2}?!\\nWhat an amazing sum!\\pOops! We're out of time!\\nSee you on our next broadcast!",
+  "pt": "REPÓRTER: Hmm… {STR_VAR_1} parece ser fera em caçar pechinchas!\\pNo total, as compras de {STR_VAR_1} somaram…\\p¥{STR_VAR_2}?! Que quantia impressionante!\\pOpa! Nosso tempo acabou! Até a próxima transmissão!"
+ },
+ {
+  "offset": "0300B72",
+  "en": "CLERK: {STR_VAR_1} is a VIP customer,\\nno doubt about it.",
+  "pt": "BALCONISTA: {STR_VAR_1} é cliente VIP, sem dúvida nenhuma."
+ },
+ {
+  "offset": "0300BA2",
+  "en": "Let's interview the clerk to get the\\nlowdown.\\pHi, how's your business?\\pCLERK: Oh, we're doing unbelievable\\nbusiness. It's almost overwhelming.\\pRecently, a TRAINER named {STR_VAR_1}\\nbought the item {STR_VAR_2} in bulk.\\pThe TRAINER almost cleared out our\\nentire stock of {STR_VAR_2}S.\\pI never dreamt that any customer\\nwould ever need so many {STR_VAR_2}S.\\lIt's just unheard of!\\pINTERVIEWER: So that would be like 100\\nor 200 sold?\\pCLERK: Oh, no, much more than that!\\pINTERVIEWER: Oh, my goodness!\\n{STR_VAR_1} must be a special shopper!\\pCLERK: {STR_VAR_1} is a VIP customer,\\nno doubt about it.",
+  "pt": "Vamos entrevistar o balconista para saber das novidades.\\pOi, como vão os negócios?\\pBALCONISTA: Ah, os negócios estão inacreditáveis. Chega a ser demais.\\pUltimamente, um TREINADOR chamado {STR_VAR_1} comprou o item {STR_VAR_2} no atacado.\\pO TREINADOR quase esvaziou o nosso estoque inteiro de {STR_VAR_2}.\\pNunca sonhei que algum cliente fosse precisar de tanto {STR_VAR_2}. É inédito!\\pREPÓRTER: Então foram umas 100 ou 200 unidades vendidas?\\pBALCONISTA: Ah, não, muito mais que isso!\\pREPÓRTER: Minha nossa! {STR_VAR_1} deve ser um comprador especial!\\pBALCONISTA: {STR_VAR_1} é cliente VIP, sem dúvida nenhuma."
+ },
+ {
+  "offset": "0300DBA",
+  "en": "INTERVIEWER: Hmm…\\nThat is amazing.\\pBut why would the TRAINER need to buy\\nso many?\\p… …\\pThe mystery deepens, but this is all\\nthe time we have today.\\lSee you on our next broadcast!\\pStill, {STR_VAR_1} is certainly an enigma…",
+  "pt": "REPÓRTER: Hmm… Isso é impressionante.\\pMas por que o TREINADOR precisaria comprar tanto?\\p… …\\pO mistério só aumenta, mas é todo o tempo que temos hoje. Até a próxima transmissão!\\pAinda assim, {STR_VAR_1} é mesmo um enigma…"
+ },
+ {
+  "offset": "0300E8E",
+  "en": "THE WORLD OF MASTERS\\pHello, viewers.\\pPerhaps you are aware of a TRAINER\\nnamed {STR_VAR_1}.\\p{STR_VAR_1} is famous as a master at\\ncatching POKéMON.\\p{STR_VAR_1}'s quest for POKéMON depends\\nentirely on a careful search on foot.\\pOn one memorable day, the TRAINER\\nwalked some {STR_VAR_2} steps.\\pThe total number of POKéMON caught\\nthat day reached an impressive {STR_VAR_3}!",
+  "pt": "O MUNDO DOS MESTRES\\pOlá, telespectadores.\\pTalvez vocês conheçam um TREINADOR chamado {STR_VAR_1}.\\p{STR_VAR_1} tem fama de mestre na arte de pegar CAPTURAS.\\pA missão de {STR_VAR_1} em busca de CAPTURAS depende inteiramente de uma procura cuidadosa a pé.\\pNum dia memorável, o TREINADOR andou uns {STR_VAR_2} passos.\\pO total de CAPTURAS pegas naquele dia chegou a impressionantes {STR_VAR_3}!"
+ },
+ {
+  "offset": "0300FD1",
+  "en": "That remarkable feat must have been\\npossible because of the trust between\\lthe TRAINER and {STR_VAR_1}.",
+  "pt": "Esse feito notável só deve ter sido possível graças à confiança entre o TREINADOR e {STR_VAR_1}."
+ },
+ {
+  "offset": "030102F",
+  "en": "The master caught the day's last\\n{STR_VAR_3} near {STR_VAR_2}.\\pThat POKéMON apparently enjoys\\na special status as a record holder.\\pSkilled TRAINERS should be encouraged\\nto challenge this fine record.\\pThat's all for today.\\nPlease tune in next time.",
+  "pt": "O mestre pegou a última CAPTURA do dia, {STR_VAR_3}, perto de {STR_VAR_2}.\\pAo que parece, essa CAPTURA tem um status especial de recordista.\\pTREINADORES habilidosos devem ser incentivados a desafiar esse belo recorde.\\pPor hoje é só. Sintonizem na próxima!"
+ },
+ {
+  "offset": "0301115",
+  "en": "TODAY'S RIVAL TRAINER!\\pHello, fellow POKéMON TRAINERS!\\nHow are we all doing today?\\pToday, like every other day,\\nwe'll examine one of our rivals!",
+  "pt": "O TREINADOR RIVAL DE HOJE!\\pOlá, colegas TREINADORES! Como estamos todos hoje?\\pHoje, como todo dia, vamos analisar um dos nossos rivais!"
+ },
+ {
+  "offset": "03011A6",
+  "en": "Today's rival TRAINER is {STR_VAR_1},\\nwho's around {STR_VAR_3} now.\\p{STR_VAR_1} has so far registered\\n{STR_VAR_2} POKéMON in the POKéDEX.",
+  "pt": "O TREINADOR rival de hoje é {STR_VAR_1}, que está perto de {STR_VAR_3} agora.\\pAté agora, {STR_VAR_1} registrou {STR_VAR_2} CAPTURAS na TATTLEDEX."
+ },
+ {
+  "offset": "030120C",
+  "en": "Today's rival TRAINER is {STR_VAR_1},\\nwho's in a SECRET BASE now.\\p{STR_VAR_1} has so far registered\\n{STR_VAR_2} POKéMON in the POKéDEX.",
+  "pt": "O TREINADOR rival de hoje é {STR_VAR_1}, que está numa BASE SECRETA agora.\\pAté agora, {STR_VAR_1} registrou {STR_VAR_2} CAPTURAS na TATTLEDEX."
+ },
+ {
+  "offset": "0301279",
+  "en": "Today's rival TRAINER is {STR_VAR_1}.\\pSo far, {STR_VAR_1} has registered\\n{STR_VAR_2} POKéMON in the POKéDEX.",
+  "pt": "O TREINADOR rival de hoje é {STR_VAR_1}.\\pAté agora, {STR_VAR_1} registrou {STR_VAR_2} CAPTURAS na TATTLEDEX."
+ },
+ {
+  "offset": "03012CB",
+  "en": "Today's rival TRAINER is {STR_VAR_1},\\nwho's on a ferry now.\\p{STR_VAR_1} has so far registered\\n{STR_VAR_2} POKéMON in the POKéDEX.",
+  "pt": "O TREINADOR rival de hoje é {STR_VAR_1}, que está numa balsa agora.\\pAté agora, {STR_VAR_1} registrou {STR_VAR_2} CAPTURAS na TATTLEDEX."
+ },
+ {
+  "offset": "0301333",
+  "en": "And how many BADGES does our rival\\nhave? The number is {STR_VAR_1}!",
+  "pt": "E quantas INSÍGNIAS o nosso rival tem? O número é {STR_VAR_1}!"
+ },
+ {
+  "offset": "030136E",
+  "en": "But our rival hasn't obtained\\na single BADGE yet!",
+  "pt": "Mas o nosso rival ainda não conseguiu nenhuma INSÍGNIA!"
+ },
+ {
+  "offset": "03013A0",
+  "en": "Our rival hasn't obtained a single\\nBATTLE FRONTIER Symbol yet.",
+  "pt": "O nosso rival ainda não conseguiu nenhum Símbolo da FRONTEIRA DE BATALHA."
+ },
+ {
+  "offset": "03013DF",
+  "en": "Let's see how many BATTLE FRONTIER\\nSymbols our rival has.\\pGold Symbols: {STR_VAR_1}!\\nSilver Symbols: {STR_VAR_2}!",
+  "pt": "Vamos ver quantos Símbolos da FRONTEIRA DE BATALHA o nosso rival tem.\\pSímbolos de Ouro: {STR_VAR_1}! Símbolos de Prata: {STR_VAR_2}!"
+ },
+ {
+  "offset": "030143F",
+  "en": "Our rival has collected {STR_VAR_1} Battle\\nPoint(s) at the BATTLE FRONTIER.",
+  "pt": "O nosso rival juntou {STR_VAR_1} Ponto(s) de Batalha na FRONTEIRA DE BATALHA."
+ },
+ {
+  "offset": "0301482",
+  "en": "So, how did you measure up in\\ncomparison to {STR_VAR_1}?\\pThe adventure rolls on!\\pFellow TRAINERS!\\pLet's all keep moving forward\\nand ahead of our rivals!",
+  "pt": "E aí, como você se saiu em comparação com {STR_VAR_1}?\\pA aventura continua!\\pColegas TREINADORES!\\pVamos todos seguir em frente e deixar os nossos rivais para trás!"
+ },
+ {
+  "offset": "0301512",
+  "en": "DEWFORD TREND-WATCHER NETWORK!\\pMC: Wassup?\\nWe'll keep it real with the latest on\\lwhat's hip and happening in DEWFORD.\\pOur guest today is this old cat whose\\nclaim to fame is being the authority\\lon all things in DEWFORD.\\pOld man: Glad to be here.\\pMC: Let's cut to the chase, right on.\\pWhat's your word on what's groovin'\\nthe good folks of DEWFORD?\\pOld man: {STR_VAR_1} {STR_VAR_2}.\\pMC: {STR_VAR_1} {STR_VAR_2},\\nyou say?\\pOld man: No.\\p{STR_VAR_1} {STR_VAR_2} never\\ndid get popular at all.\\pWould you like to hear about it?\\pMC: Uh, no. What we want to know is\\nwhat's the in thing of the moment…",
+  "pt": "REDE DE TENDÊNCIAS DE DEWFORD!\\pLOCUTOR: E aí, galera? Vamos mandar a real sobre o que tá na moda e bombando em DEWFORD.\\pO nosso convidado de hoje é este coroa, famoso por ser a maior autoridade em tudo o que rola em DEWFORD.\\pVelhinho: É um prazer estar aqui.\\pLOCUTOR: Vamos direto ao ponto, falou?\\pQual é a boa que tá agitando o povo de DEWFORD?\\pVelhinho: {STR_VAR_1} {STR_VAR_2}.\\pLOCUTOR: {STR_VAR_1} {STR_VAR_2}, você diz?\\pVelhinho: Não.\\p{STR_VAR_1} {STR_VAR_2} nunca chegou a fazer sucesso.\\pQuer ouvir a história?\\pLOCUTOR: Hã, não. O que a gente quer saber é o que tá na moda no momento…"
+ },
+ {
+  "offset": "0301729",
+  "en": "Old man: {STR_VAR_1} {STR_VAR_2}\\nwas what {STR_VAR_3} from LITTLEROOT\\ltaught me as being trendy…",
+  "pt": "Velhinho: {STR_VAR_1} {STR_VAR_2} foi o que {STR_VAR_3}, de LITTLEROOT, me ensinou que estava na moda…"
+ },
+ {
+  "offset": "030176F",
+  "en": "Old man: {STR_VAR_1} {STR_VAR_2}\\nwas what {STR_VAR_3} from LITTLEROOT\\ltaught me as being trendy…",
+  "pt": "Velhinho: {STR_VAR_1} {STR_VAR_2} foi o que {STR_VAR_3}, de LITTLEROOT, me ensinou que estava na moda…"
+ },
+ {
+  "offset": "03017B5",
+  "en": "But it was utterly hopeless.\\p{STR_VAR_1} {STR_VAR_2} festival!\\p{STR_VAR_1} {STR_VAR_2} contest!\\pI tried teaching everyone the best\\nI could, but…\\pPerhaps the {STR_VAR_1} part just\\nwasn't right…\\pMC: Uh, excuse me, compadre, I need\\nto hear about what's in now…",
+  "pt": "Mas não teve jeito.\\pFestival {STR_VAR_1} {STR_VAR_2}!\\pConcurso {STR_VAR_1} {STR_VAR_2}!\\pTentei ensinar todo mundo o melhor que pude, mas…\\pTalvez o problema fosse a parte {STR_VAR_1}…\\pLOCUTOR: Hã, com licença, compadre, eu preciso saber o que tá na moda agora…"
+ },
+ {
+  "offset": "030188A",
+  "en": "Old man: {STR_VAR_3}!\\nPlease, tell me something bigger than\\lthat {STR_VAR_1} {STR_VAR_2}!",
+  "pt": "Velhinho: {STR_VAR_3}! Por favor, me conte algo maior que esse {STR_VAR_1} {STR_VAR_2}!"
+ },
+ {
+  "offset": "03018C9",
+  "en": "Old man: {STR_VAR_3}!\\nPlease, tell me something bigger than\\lthat {STR_VAR_1} {STR_VAR_2}!",
+  "pt": "Velhinho: {STR_VAR_3}! Por favor, me conte algo maior que esse {STR_VAR_1} {STR_VAR_2}!"
+ },
+ {
+  "offset": "0301908",
+  "en": "MC: …Uh… So, there you have it,\\nall you trendy, hep cats out there!\\p{STR_VAR_1} {STR_VAR_2}…uh…\\nDidn't get hip or happening in DEWFORD!\\pMy time is up. Catch you on the fly!\\pOld man: {STR_VAR_1} {STR_VAR_2}!",
+  "pt": "LOCUTOR: …Hã… Então, é isso aí, todos vocês, gatos descolados e antenados!\\p{STR_VAR_1} {STR_VAR_2}…hã… Não pegou nem bombou em DEWFORD!\\pMeu tempo acabou. Fui, galera!\\pVelhinho: {STR_VAR_1} {STR_VAR_2}!"
+ },
+ {
+  "offset": "03019B3",
+  "en": "HOENN TREASURE INVESTIGATORS!\\pHi, gang!\\nScore any secret items lately?\\pAs always, we'll examine eyewitness\\nreports of secrets from all over!\\pLet's start with a letter.\\nIt says, “{STR_VAR_1} discovered!”",
+  "pt": "INVESTIGADORES DE TESOUROS DE HOENN!\\pOi, pessoal! Acharam algum item secreto ultimamente?\\pComo sempre, vamos analisar relatos de testemunhas sobre segredos de todos os cantos!\\pVamos começar com uma carta. Ela diz: “Descoberta: {STR_VAR_1}!”"
+ },
+ {
+  "offset": "0301A75",
+  "en": "Wow, we'd better check this letter\\nout! Let me read it to you.\\p…Dear INVESTIGATORS,\\nI hope you are well.\\pI recently saw {STR_VAR_2} somewhere\\naround {STR_VAR_3}.\\pThe TRAINER found the item\\n{STR_VAR_1}. It made me envious.\\p…Well, good going, {STR_VAR_2}!\\pViewers, let that motivate you to\\nfire up your ITEMFINDERS and search!\\pI'll be waiting for exciting news\\nfrom all of you!",
+  "pt": "Uau, é melhor a gente conferir esta carta! Vou ler pra vocês.\\p…Queridos INVESTIGADORES, espero que estejam bem.\\pRecentemente, vi {STR_VAR_2} em algum lugar perto de {STR_VAR_3}.\\pO TREINADOR encontrou o item {STR_VAR_1}. Fiquei com inveja.\\p…Bom, mandou bem, {STR_VAR_2}!\\pTelespectadores, que isso sirva de motivação para ligarem os seus DETECTORES e procurarem!\\pVou ficar esperando notícias empolgantes de todos vocês!"
+ },
+ {
+  "offset": "0301BC9",
+  "en": "Wow, we'd better check this letter\\nout! Let me read it to you.\\p…Dear INVESTIGATORS,\\nI hope you are well.\\pI recently saw {STR_VAR_2} on a ferry.\\pThe TRAINER found the item\\n{STR_VAR_1}. It made me envious.\\p…Well, good going, {STR_VAR_2}!\\pViewers, let that motivate you to\\nfire up your ITEMFINDERS and search!\\pI'll be waiting for exciting news\\nfrom all of you!",
+  "pt": "Uau, é melhor a gente conferir esta carta! Vou ler pra vocês.\\p…Queridos INVESTIGADORES, espero que estejam bem.\\pRecentemente, vi {STR_VAR_2} numa balsa.\\pO TREINADOR encontrou o item {STR_VAR_1}. Fiquei com inveja.\\p…Bom, mandou bem, {STR_VAR_2}!\\pTelespectadores, que isso sirva de motivação para ligarem os seus DETECTORES e procurarem!\\pVou ficar esperando notícias empolgantes de todos vocês!"
+ },
+ {
+  "offset": "0301D14",
+  "en": "FIND THAT GAMER!\\pHey, all you gamers!\\nHow's your {STR_VAR_2} spinning?\\pLike always, we'll cast our spotlight\\non a rare TRAINER who's visited the\\lGAME CORNER!\\pToday, our no. 1 gamer is…\\n{STR_VAR_1}!",
+  "pt": "ACHE ESSE JOGADOR!\\pEi, jogadores! E aí, {STR_VAR_2} girando bem?\\pComo sempre, vamos colocar os holofotes num TREINADOR raro que visitou o CASSINO!\\pHoje, o nosso jogador número 1 é… {STR_VAR_1}!"
+ },
+ {
+  "offset": "0301DC8",
+  "en": "{STR_VAR_1} played the {STR_VAR_2} game\\nand won a rare {STR_VAR_3} COINS.\\p“When {STR_VAR_1} comes, we need to\\nmake sure we have enough COINS.”\\pThat's what the GAME CORNER clerks\\nmutter when our gamer is in play!\\pViewers, it's best to watch your COINS\\nlike {STR_VAR_1} if you visit the GAME\\lCORNER and play the {STR_VAR_2} game.\\pThis is live from the GAME CORNER--\\nwhere you can feel the excitement!\\pThat's all for today!",
+  "pt": "{STR_VAR_1} jogou {STR_VAR_2} e ganhou incríveis {STR_VAR_3} MOEDAS.\\p“Quando {STR_VAR_1} aparece, a gente precisa garantir que tem MOEDAS suficientes.”\\pÉ o que os funcionários do CASSINO murmuram quando o nosso jogador está em ação!\\pTelespectadores, se forem ao CASSINO jogar {STR_VAR_2}, o melhor é ficar de olho nas suas MOEDAS como {STR_VAR_1}.\\pFalamos ao vivo do CASSINO, onde dá pra sentir a emoção no ar!\\pPor hoje é só!"
+ },
+ {
+  "offset": "0301F37",
+  "en": "{STR_VAR_1} played the {STR_VAR_2} game\\nand lost {STR_VAR_3} COINS.\\p“When {STR_VAR_1} comes, our COIN\\nsales seem to increase.”\\pThat's what the GAME CORNER clerks\\nsay when our gamer is in play!",
+  "pt": "{STR_VAR_1} jogou {STR_VAR_2} e perdeu {STR_VAR_3} MOEDAS.\\p“Quando {STR_VAR_1} aparece, as nossas vendas de MOEDAS parecem aumentar.”\\pÉ o que os funcionários do CASSINO dizem quando o nosso jogador está em ação!"
+ },
+ {
+  "offset": "0301FD4",
+  "en": "Viewers, it's best to watch your COINS\\nlike {STR_VAR_1} if you visit the GAME\\lCORNER and play the {STR_VAR_2} game.\\pThis is live from the GAME CORNER--\\nwhere you can feel the excitement!\\pThat's all for today!",
+  "pt": "Telespectadores, se forem ao CASSINO jogar {STR_VAR_2}, o melhor é ficar de olho nas suas MOEDAS como {STR_VAR_1}.\\pFalamos ao vivo do CASSINO, onde dá pra sentir a emoção no ar!\\pPor hoje é só!"
+ },
+ {
+  "offset": "0302093",
+  "en": "BREAKING NEWS TV!",
+  "pt": "PLANTÃO DE NOTÍCIAS!"
+ },
+ {
+  "offset": "03020A5",
+  "en": "Rare {STR_VAR_2} caught by\\n{STR_VAR_1}!\\pWe're live from the vicinity of\\n{STR_VAR_3}!\\p{STR_VAR_1} successfully captured\\na rare {STR_VAR_2} earlier here!",
+  "pt": "{STR_VAR_1} pega CAPTURA rara: {STR_VAR_2}!\\pEstamos ao vivo das redondezas de {STR_VAR_3}!\\p{STR_VAR_1} conseguiu pegar aqui, há pouco, a rara CAPTURA {STR_VAR_2}!"
+ },
+ {
+  "offset": "0302110",
+  "en": "When {STR_VAR_1} encountered the rare\\n{STR_VAR_2}, the TRAINER sent out\\lthe POKéMON {STR_VAR_3}.",
+  "pt": "Quando {STR_VAR_1} encontrou a rara CAPTURA {STR_VAR_2}, o TREINADOR mandou {STR_VAR_3} para a batalha."
+ },
+ {
+  "offset": "0302156",
+  "en": "In the battle, the number of POKé\\nBALLS thrown by the TRAINER was {STR_VAR_1}.\\pUltimately, the rare POKéMON was\\ncaught by the {STR_VAR_2} used last.",
+  "pt": "Na batalha, o número de CAPs arremessados pelo TREINADOR foi {STR_VAR_1}.\\pNo fim, a CAPTURA rara foi pega pelo último {STR_VAR_2} usado."
+ },
+ {
+  "offset": "03021D9",
+  "en": "In that instant, {STR_VAR_2}\\nechoed with {STR_VAR_1}'s roars of\\ltriumphant joy.\\pI must say I'm a little envious of\\n{STR_VAR_1}. I'd love to roar, too.\\p…That ends the live feed from\\nthe happy scene!",
+  "pt": "Naquele instante, os rugidos de alegria triunfante de {STR_VAR_1} ecoaram por {STR_VAR_2}.\\pDevo dizer que sinto um pouco de inveja de {STR_VAR_1}. Eu também adoraria rugir.\\p…E assim termina a nossa transmissão ao vivo desta cena feliz!"
+ },
+ {
+  "offset": "0302284",
+  "en": "{STR_VAR_1} fails to capture a rare\\n{STR_VAR_2}!\\pWe're live from the vicinity of\\n{STR_VAR_3}!\\pIt was here that {STR_VAR_1} failed\\nto capture a rare {STR_VAR_2}!",
+  "pt": "{STR_VAR_1} não consegue pegar CAPTURA rara: {STR_VAR_2}!\\pEstamos ao vivo das redondezas de {STR_VAR_3}!\\pFoi aqui que {STR_VAR_1} não conseguiu pegar a rara CAPTURA {STR_VAR_2}!"
+ },
+ {
+  "offset": "03022F8",
+  "en": "When {STR_VAR_1} encountered the rare\\n{STR_VAR_2}, the TRAINER sent out\\lthe POKéMON {STR_VAR_3}.",
+  "pt": "Quando {STR_VAR_1} encontrou a rara CAPTURA {STR_VAR_2}, o TREINADOR mandou {STR_VAR_3} para a batalha."
+ },
+ {
+  "offset": "030233E",
+  "en": "The TRAINER made the {STR_VAR_2}\\nuse the move {STR_VAR_1}.\\pWithout meaning to, the TRAINER\\nmade the rare POKéMON faint…",
+  "pt": "O TREINADOR mandou {STR_VAR_2} usar o golpe {STR_VAR_1}.\\pSem querer, o TREINADOR fez a CAPTURA rara desmaiar…"
+ },
+ {
+  "offset": "03023A4",
+  "en": "However, {STR_VAR_1} panicked at\\nthe sight of the rare {STR_VAR_2}.\\pIn confusion, the TRAINER ordered\\n{STR_VAR_3} to attack.\\pWithout meaning to, the TRAINER\\nmade the rare POKéMON faint.",
+  "pt": "Porém, {STR_VAR_1} entrou em pânico ao ver a rara CAPTURA {STR_VAR_2}.\\pNa confusão, o TREINADOR mandou {STR_VAR_3} atacar.\\pSem querer, o TREINADOR fez a CAPTURA rara desmaiar."
+ },
+ {
+  "offset": "0302443",
+  "en": "In that instant, {STR_VAR_2}\\nechoed with {STR_VAR_1}'s shrieks of\\lfrustration…",
+  "pt": "Naquele instante, os gritos de frustração de {STR_VAR_1} ecoaram por {STR_VAR_2}…"
+ },
+ {
+  "offset": "0302480",
+  "en": "However, {STR_VAR_1} seemed to run\\nout of POKé BALLS.\\pThe TRAINER had to break off\\nthe battle with the rare {STR_VAR_2}.\\pIn that instant, {STR_VAR_3}\\nechoed with {STR_VAR_1}'s shrieks of\\lfrustration…",
+  "pt": "Porém, os CAPs de {STR_VAR_1} parecem ter acabado.\\pO TREINADOR teve que abandonar a batalha contra a rara CAPTURA {STR_VAR_2}.\\pNaquele instante, os gritos de frustração de {STR_VAR_1} ecoaram por {STR_VAR_3}…"
+ },
+ {
+  "offset": "0302524",
+  "en": "However, the {STR_VAR_2} fled without\\nwarning.\\pIn that instant, {STR_VAR_3}\\nechoed with {STR_VAR_1}'s shrieks of\\lfrustration…",
+  "pt": "Porém, {STR_VAR_2} fugiu sem aviso.\\pNaquele instante, os gritos de frustração de {STR_VAR_1} ecoaram por {STR_VAR_3}…"
+ },
+ {
+  "offset": "0302587",
+  "en": "I must say I feel for {STR_VAR_1}.\\nWhy, it makes me want to shriek, too.\\p…That ends the live feed from\\nthe melancholy scene!",
+  "pt": "Devo dizer que sinto muito por {STR_VAR_1}. Puxa, até me dá vontade de gritar também.\\p…E assim termina a nossa transmissão ao vivo desta cena melancólica!"
+ },
+ {
+  "offset": "03025FB",
+  "en": "Hello, folks!\\nIt's time again for\\la SECRET BASE VISIT.\\pToday, we visit the SECRET BASE\\nof {STR_VAR_1}.\\pHow has {STR_VAR_1} personalized\\nthe SECRET BASE?\\pLet's find out!\\n… … … … … …",
+  "pt": "Olá, pessoal! Chegou a hora de mais uma VISITA À BASE SECRETA.\\pHoje vamos visitar a BASE SECRETA de {STR_VAR_1}.\\pComo será que {STR_VAR_1} personalizou a BASE SECRETA?\\pVamos descobrir!\\n… … … … … …"
+ },
+ {
+  "offset": "030269E",
+  "en": "Oh!\\nHow marvelous!\\pThis {STR_VAR_2}…\\nIt's not what one would expect to\\lfind here!",
+  "pt": "Oh! Que maravilha!\\p{STR_VAR_2}… Não é algo que se espera encontrar aqui!"
+ },
+ {
+  "offset": "03026E7",
+  "en": "Oh!\\nHow remarkable!\\pThere isn't a single piece\\nof furniture or interior goods!\\pMere mortals couldn't hope to\\nimitate this bold statement!\\pIt's simple, but it bursts, yes,\\nbursts with wildness!\\pMy hat's off to you, {STR_VAR_1}.\\nIt had to be you!",
+  "pt": "Oh! Que notável!\\pNão há um único móvel ou objeto de decoração!\\pMeros mortais jamais conseguiriam imitar uma declaração tão ousada!\\pÉ simples, mas explode, sim, explode de selvageria!\\pTiro o chapéu para você, {STR_VAR_1}. Só podia ser você!"
+ },
+ {
+  "offset": "03027D3",
+  "en": "Oh! I see!\\nWith perfect clarity, I see it!\\pThis {STR_VAR_2} being here…\\nIt sends an effective message!",
+  "pt": "Oh! Entendi! Com perfeita clareza, entendi!\\pA presença de {STR_VAR_2} aqui… Transmite uma mensagem e tanto!"
+ },
+ {
+  "offset": "0302831",
+  "en": "Oh! I see!\\nWith perfect clarity, I see it!\\pThis space is kept deliberately\\nclear of interior items!\\pIt sends an effective message!",
+  "pt": "Oh! Entendi! Com perfeita clareza, entendi!\\pEste espaço é mantido vazio de propósito, sem nenhum objeto de decoração!\\pTransmite uma mensagem e tanto!"
+ },
+ {
+  "offset": "03028B4",
+  "en": "Wheeew!\\pThe pairing of the {STR_VAR_2}\\nwith the {STR_VAR_3}!\\pIt's a dream combination if there\\never was one!",
+  "pt": "Uaaaau!\\pA dupla {STR_VAR_2} e {STR_VAR_3}!\\pSe existe uma combinação dos sonhos, é essa!"
+ },
+ {
+  "offset": "030290F",
+  "en": "Wheeew!\\pThe placement of this {STR_VAR_2}\\nright here…\\pIt has a presence that fills\\nthe entire SECRET BASE!",
+  "pt": "Uaaaau!\\pA posição de {STR_VAR_2} bem aqui…\\pTem uma presença que preenche a BASE SECRETA inteira!"
+ },
+ {
+  "offset": "0302971",
+  "en": "Wheeew!\\pThere's nothing in place here.\\pThis empty space has an effect on\\nthe entire SECRET BASE.",
+  "pt": "Uaaaau!\\pNão há nada aqui.\\pEste espaço vazio causa um efeito na BASE SECRETA inteira."
+ },
+ {
+  "offset": "03029D2",
+  "en": "Oh!\\nHere comes {STR_VAR_1}!\\lLet's challenge the TRAINER!\\p… … … … … …\\n… … … … … …",
+  "pt": "Oh! Lá vem {STR_VAR_1}! Vamos desafiar o TREINADOR!\\p… … … … … …\\n… … … … … …"
+ },
+ {
+  "offset": "0302A1A",
+  "en": "Sigh…\\nI've got to hand it to {STR_VAR_1}.\\pThe TRAINER's POKéMON were truly\\nworthy of the CHAMPION's title.\\pThey gave ample proof of {STR_VAR_1}'s\\ntoughness as a TRAINER.\\pThat the {STR_VAR_2} knew the move\\n{STR_VAR_3}…\\pIt shows you what sort of a TRAINER\\n{STR_VAR_1} is.\\pCertainly, it was quite a lesson!",
+  "pt": "Ai, ai… Tenho que reconhecer o mérito de {STR_VAR_1}.\\pAs CAPTURAS do TREINADOR eram realmente dignas do título de CAMPEÃO.\\pDeram prova de sobra da força de {STR_VAR_1} como TREINADOR.\\pO fato de {STR_VAR_2} saber o golpe {STR_VAR_3}…\\pIsso mostra que tipo de TREINADOR {STR_VAR_1} é.\\pFoi mesmo uma bela lição!"
+ },
+ {
+  "offset": "0302B1D",
+  "en": "Aiyeeh!\\nI've got to hand it to {STR_VAR_1}.\\pThe TRAINER's POKéMON were\\nmonstrously tough!\\pThey gave ample proof of {STR_VAR_1}'s\\ntenacity as a TRAINER.\\pThat the {STR_VAR_2} knew the move\\n{STR_VAR_3}…\\pIt shows you what sort of a TRAINER\\n{STR_VAR_1} is.\\pCertainly, it was quite a lesson!",
+  "pt": "Aiiii! Tenho que reconhecer o mérito de {STR_VAR_1}.\\pAs CAPTURAS do TREINADOR eram monstruosamente fortes!\\pDeram prova de sobra da tenacidade de {STR_VAR_1} como TREINADOR.\\pO fato de {STR_VAR_2} saber o golpe {STR_VAR_3}…\\pIsso mostra que tipo de TREINADOR {STR_VAR_1} é.\\pFoi mesmo uma bela lição!"
+ },
+ {
+  "offset": "0302C0E",
+  "en": "Wheeew!\\nI've got to hand it to {STR_VAR_1}.\\pThe TRAINER's POKéMON were clearly\\nraised in a well-balanced manner.\\pThey gave ample proof of {STR_VAR_1}'s\\nthoughtfulness as a TRAINER.\\pThat the {STR_VAR_2} knew the move\\n{STR_VAR_3}…\\pIt shows you what sort of a TRAINER\\n{STR_VAR_1} is.\\pCertainly, it was quite a lesson!",
+  "pt": "Uaaaau! Tenho que reconhecer o mérito de {STR_VAR_1}.\\pAs CAPTURAS do TREINADOR foram claramente criadas de forma equilibrada.\\pDeram prova de sobra do cuidado de {STR_VAR_1} como TREINADOR.\\pO fato de {STR_VAR_2} saber o golpe {STR_VAR_3}…\\pIsso mostra que tipo de TREINADOR {STR_VAR_1} é.\\pFoi mesmo uma bela lição!"
+ },
+ {
+  "offset": "0302D1C",
+  "en": "Well, well!\\nI've got to hand it to {STR_VAR_1}.\\pThe TRAINER's POKéMON showed\\ngreat promise for future growth.\\pThey represented {STR_VAR_1}'s\\nhopes and dreams.\\pThat the {STR_VAR_2} knew the move\\n{STR_VAR_3}…\\pIt shows you what sort of a TRAINER\\n{STR_VAR_1} is.\\pCertainly, it was quite a lesson!",
+  "pt": "Ora, ora! Tenho que reconhecer o mérito de {STR_VAR_1}.\\pAs CAPTURAS do TREINADOR mostraram muito potencial de crescimento.\\pElas representavam as esperanças e os sonhos de {STR_VAR_1}.\\pO fato de {STR_VAR_2} saber o golpe {STR_VAR_3}…\\pIsso mostra que tipo de TREINADOR {STR_VAR_1} é.\\pFoi mesmo uma bela lição!"
+ },
+ {
+  "offset": "0302E14",
+  "en": "I must say, what a superb SECRET BASE\\nit was!\\pViewers, if you have the chance,\\ndo visit {STR_VAR_1}'s SECRET BASE.\\pUntil next time, I bid you adieu!",
+  "pt": "Devo dizer: que BASE SECRETA magnífica!\\pTelespectadores, se tiverem a chance, visitem a BASE SECRETA de {STR_VAR_1}.\\pAté a próxima, eu me despeço!"
+ },
+ {
+  "offset": "0302EA0",
+  "en": "It's exciting!\\nIt's dramatic!\\pIt's the POKéMON LOTTERY\\nWINNER FLASH REPORT!\\pHello! We're coming at you live from\\nthe POKéMON LOTTERY CORNER on\\lthe ground floor of the LILYCOVE\\lDEPARTMENT STORE!\\pLike it always happens, another\\nlucky TRAINER appeared today!\\pThat TRAINER's name…\\n{STR_VAR_1}!\\p{STR_VAR_1} won the {STR_VAR_2} prize\\nand took home the {STR_VAR_3}!\\p{STR_VAR_1}!\\nCongratulations!\\pViewers, don't just watch,\\nget in on the action!\\pAll of us at the LILYCOVE DEPARTMENT\\nSTORE look forward to your next visit!\\pThis has been a live broadcast from\\nthe LILYCOVE DEPARTMENT STORE,\\loffering you the greatest selection\\lin all HOENN!",
+  "pt": "É emocionante! É dramático!\\pÉ o BOLETIM-RELÂMPAGO DOS GANHADORES DA LOTERIA C.A.P.!\\pOlá! Falamos ao vivo do SETOR DA LOTERIA C.A.P., no térreo da LOJA DE DEPARTAMENTOS DE LILYCOVE!\\pComo sempre acontece, mais um TREINADOR sortudo apareceu hoje!\\pO nome desse TREINADOR… {STR_VAR_1}!\\p{STR_VAR_1} ganhou o {STR_VAR_2} prêmio e levou para casa: {STR_VAR_3}!\\p{STR_VAR_1}! Parabéns!\\pTelespectadores, não fiquem só olhando, participem também!\\pTodos nós da LOJA DE DEPARTAMENTOS DE LILYCOVE aguardamos a sua próxima visita!\\pEsta foi uma transmissão ao vivo da LOJA DE DEPARTAMENTOS DE LILYCOVE, com a maior variedade de produtos de toda HOENN!"
+ },
+ {
+  "offset": "03030EA",
+  "en": "THE POKéMON BATTLE SEMINAR!\\pWe examine battles to see what\\nlessons we may learn from others.\\pToday's case study is on {STR_VAR_1}'s\\nbattle.\\p{STR_VAR_1}'s {STR_VAR_2} was\\nbattling one {STR_VAR_3}…",
+  "pt": "SEMINÁRIO DE BATALHAS DE CAPTURAS!\\pAnalisamos batalhas para ver que lições podemos aprender com os outros.\\pO estudo de caso de hoje é a batalha de {STR_VAR_1}.\\p{STR_VAR_2} de {STR_VAR_1} estava enfrentando {STR_VAR_3}…"
+ },
+ {
+  "offset": "030318A",
+  "en": "And it used the move {STR_VAR_3}\\non the {STR_VAR_2}…\\pHmm… {STR_VAR_1}!\\nThat's the wrong thing to do!",
+  "pt": "E usou o golpe {STR_VAR_3} em {STR_VAR_2}…\\pHmm… {STR_VAR_1}! Isso foi um erro!"
+ },
+ {
+  "offset": "03031D4",
+  "en": "In addition to the doomed move,\\nthe TRAINER's {STR_VAR_1} also knew",
+  "pt": "Além do golpe fatídico, {STR_VAR_1} do TREINADOR também sabia"
+ },
+ {
+  "offset": "030320F",
+  "en": "the moves {STR_VAR_1}, {STR_VAR_2},\\nand {STR_VAR_3}.",
+  "pt": "os golpes {STR_VAR_1}, {STR_VAR_2} e {STR_VAR_3}."
+ },
+ {
+  "offset": "0303229",
+  "en": "the moves {STR_VAR_1} and\\n{STR_VAR_2}.",
+  "pt": "os golpes {STR_VAR_1} e {STR_VAR_2}."
+ },
+ {
+  "offset": "030323E",
+  "en": "the move {STR_VAR_2}.",
+  "pt": "o golpe {STR_VAR_2}."
+ },
+ {
+  "offset": "030324B",
+  "en": "So, in this situation, what should\\nthe TRAINER have used?\\p… … … … … …\\nThe move {STR_VAR_1}!\\pThe move {STR_VAR_1} would have been\\nabsolutely better than {STR_VAR_2}.\\pViewers, I urge you to learn from this\\ncase and battle with intelligence!\\pUntil next time, farewell!",
+  "pt": "Então, nessa situação, o que o TREINADOR deveria ter usado?\\p… … … … … …\\nO golpe {STR_VAR_1}!\\pO golpe {STR_VAR_1} teria sido muito melhor que {STR_VAR_2}.\\pTelespectadores, peço que aprendam com este caso e batalhem com inteligência!\\pAté a próxima, adeus!"
+ },
+ {
+  "offset": "030333A",
+  "en": "All together now!\\nTRAINER FAN CLUB!\\pMC: How's everyone groovin'?\\nToday, we've rounded up the fans of\\lthe hyper-popular TRAINER {STR_VAR_1}!\\pFANS: Wrooooooaaaaah!\\pFANS: {STR_VAR_1}!\\pMC: Everyone!\\nHow do you like {STR_VAR_1}?!\\pFANS: We love {STR_VAR_1}!\\pMC: What do you love about\\n{STR_VAR_1}?!",
+  "pt": "Todos juntos agora! FÃ-CLUBE DO TREINADOR!\\pLOCUTOR: Como vai essa galera? Hoje reunimos os fãs do hiperpopular TREINADOR {STR_VAR_1}!\\pFÃS: Uhuuuuuuuuuul!\\pFÃS: {STR_VAR_1}!\\pLOCUTOR: Pessoal! O que vocês acham de {STR_VAR_1}?!\\pFÃS: A gente ama {STR_VAR_1}!\\pLOCUTOR: O que vocês amam em {STR_VAR_1}?!"
+ },
+ {
+  "offset": "0303432",
+  "en": "FANS: Their cool way of throwing\\nPOKé BALLS!",
+  "pt": "FÃS: O jeito estiloso de arremessar CAPs!"
+ },
+ {
+  "offset": "030345F",
+  "en": "FANS: Their adorable way of running!",
+  "pt": "FÃS: O jeito fofo de correr!"
+ },
+ {
+  "offset": "0303484",
+  "en": "FANS: How the TRAINER turns tough\\nwhen the going gets tough!",
+  "pt": "FÃS: Como o TREINADOR endurece quando o bicho pega!"
+ },
+ {
+  "offset": "03034C1",
+  "en": "FANS: The TRAINER's knowledge of\\nPOKéMON!",
+  "pt": "FÃS: O conhecimento do TREINADOR sobre CAPTURAS!"
+ },
+ {
+  "offset": "03034EB",
+  "en": "FANS: The TRAINER's kindness toward\\nall POKéMON!",
+  "pt": "FÃS: A gentileza do TREINADOR com todas as CAPTURAS!"
+ },
+ {
+  "offset": "030351C",
+  "en": "FANS: The TRAINER's amazing\\nBIKE-riding techniques!",
+  "pt": "FÃS: As incríveis técnicas do TREINADOR na BICICLETA!"
+ },
+ {
+  "offset": "0303550",
+  "en": "FANS: The TRAINER's impressive\\nitem-buying style!",
+  "pt": "FÃS: O estilo impressionante do TREINADOR na hora de comprar itens!"
+ },
+ {
+  "offset": "0303582",
+  "en": "FANS: The TRAINER's charming way\\nof nicknaming POKéMON!",
+  "pt": "FÃS: O jeito charmoso do TREINADOR de dar apelidos às CAPTURAS!"
+ },
+ {
+  "offset": "03035BA",
+  "en": "FANS: The TRAINER's nifty style of\\ndecorating a SECRET BASE!",
+  "pt": "FÃS: O estilo bacana do TREINADOR de decorar a BASE SECRETA!"
+ },
+ {
+  "offset": "03035F7",
+  "en": "FANS: The TRAINER's bold ways of\\nusing TMs!",
+  "pt": "FÃS: O jeito ousado do TREINADOR de usar TMs!"
+ },
+ {
+  "offset": "0303623",
+  "en": "MC: As you've just seen, {STR_VAR_1}\\nis hot! Like, too hot to touch, yow!\\pAmong {STR_VAR_1}'s FANS\\nthere's a special slogan!\\pMC: When I say {STR_VAR_1},\\nyou say…\\pFANS: {STR_VAR_2}!\\pFANS: {STR_VAR_3}!\\pFANS: {STR_VAR_2}!\\pFANS: {STR_VAR_3}!\\pMC: That's right, when someone says,\\n“{STR_VAR_1}”…\\pCome back with, “{STR_VAR_2}\\n{STR_VAR_3}!”\\pThat has such a unique ring to it!\\nI can see why people become FANS\\lof {STR_VAR_1}!\\pOkay, you, in front of the TV, join us!\\nAll together now!\\pMC: When I say {STR_VAR_1},\\nyou say…\\pFANS: {STR_VAR_2}!\\pFANS: {STR_VAR_3}!\\pFANS: {STR_VAR_2}!\\pFANS: {STR_VAR_3}!\\pMC: Thanks for joining us, all you\\nwild FANS of {STR_VAR_1}!\\lThat's the show! See you again!\\pMC: When I say {STR_VAR_1},\\nyou say…\\pFANS: {STR_VAR_2}!\\pFANS: {STR_VAR_3}!",
+  "pt": "LOCUTOR: Como vocês acabaram de ver, {STR_VAR_1} está bombando! Tipo, quente demais pra tocar, ui!\\pEntre os FÃS de {STR_VAR_1} existe um grito de guerra especial!\\pLOCUTOR: Quando eu disser {STR_VAR_1}, vocês dizem…\\pFÃS: {STR_VAR_2}!\\pFÃS: {STR_VAR_3}!\\pFÃS: {STR_VAR_2}!\\pFÃS: {STR_VAR_3}!\\pLOCUTOR: Isso mesmo, quando alguém disser “{STR_VAR_1}”…\\pResponda com “{STR_VAR_2} {STR_VAR_3}!”\\pIsso tem uma sonoridade única! Dá pra entender por que tanta gente vira FÃ de {STR_VAR_1}!\\pIsso aí, você aí na frente da TV, junte-se a nós! Todos juntos agora!\\pLOCUTOR: Quando eu disser {STR_VAR_1}, vocês dizem…\\pFÃS: {STR_VAR_2}!\\pFÃS: {STR_VAR_3}!\\pFÃS: {STR_VAR_2}!\\pFÃS: {STR_VAR_3}!\\pLOCUTOR: Valeu por participarem, todos vocês, FÃS fervorosos de {STR_VAR_1}! E esse foi o programa! Até a próxima!\\pLOCUTOR: Quando eu disser {STR_VAR_1}, vocês dizem…\\pFÃS: {STR_VAR_2}!\\pFÃS: {STR_VAR_3}!"
+ },
+ {
+  "offset": "0303863",
+  "en": "SPOT THE CUTIES!\\nPOKéMON IN RIBBONS!\\pHello, my sweet viewers!\\pI just know you'll agree, but a POKéMON\\nwearing RIBBONS is simply divine!\\pToday, I want to share with you\\na lovely POKéMON I spotted while\\lout on a stroll in town.\\pToday's featured pretty POKéMON\\nis {STR_VAR_1}'s {STR_VAR_2}.",
+  "pt": "CAÇA ÀS FOFURAS! CAPTURAS COM FITAS!\\pOlá, meus queridos telespectadores!\\pTenho certeza de que vocês vão concordar: uma CAPTURA usando FITAS é simplesmente divina!\\pHoje, quero mostrar a vocês uma CAPTURA adorável que vi enquanto passeava pela cidade.\\pA bela CAPTURA em destaque hoje é {STR_VAR_2}, de {STR_VAR_1}."
+ },
+ {
+  "offset": "0303971",
+  "en": "The number of RIBBONS that\\n{STR_VAR_2} wears is {STR_VAR_3}.\\pIt says a lot about how much\\n{STR_VAR_1} adores the POKéMON.",
+  "pt": "O número de FITAS que {STR_VAR_2} usa é {STR_VAR_3}.\\pIsso mostra o quanto {STR_VAR_1} adora essa CAPTURA."
+ },
+ {
+  "offset": "03039D0",
+  "en": "{STR_VAR_2} wears an amazing\\n{STR_VAR_3} RIBBONS!\\pIt speaks volumes about {STR_VAR_1}'s\\ncommitment to the POKéMON!",
+  "pt": "{STR_VAR_2} usa impressionantes {STR_VAR_3} FITAS!\\pIsso diz muito sobre a dedicação de {STR_VAR_1} a essa CAPTURA!"
+ },
+ {
+  "offset": "0303A28",
+  "en": "{STR_VAR_2} wears an incredible\\n{STR_VAR_3} RIBBONS!\\pIt shows you {STR_VAR_1}'s total\\ndedication as a collector!",
+  "pt": "{STR_VAR_2} usa inacreditáveis {STR_VAR_3} FITAS!\\pIsso mostra a dedicação total de {STR_VAR_1} às coleções!"
+ },
+ {
+  "offset": "0303A7E",
+  "en": "Let us take a closer look at the many\\nRIBBONS worn by {STR_VAR_2}.",
+  "pt": "Vamos dar uma olhada mais de perto nas muitas FITAS que {STR_VAR_2} usa."
+ },
+ {
+  "offset": "0303AB8",
+  "en": "The CHAMPION RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it upon entering\\nthe HALL OF FAME.\\pIt verily draws out the bravery\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the CHAMP RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DE CAMPEÃO é especialmente encantadora.\\p{STR_VAR_2} a recebeu ao entrar para o HALL DA FAMA.\\pEla realça de verdade a bravura de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DE CAMPEÃO! A combinação é supereficaz!"
+ },
+ {
+  "offset": "0303B77",
+  "en": "The COOL RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it for winning\\na COOL CONTEST.\\pIt verily draws out the coolness\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the COOL RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DE ESTILO é especialmente encantadora.\\p{STR_VAR_2} a recebeu por vencer um CONCURSO DE ESTILO.\\pEla realça de verdade o estilo de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DE ESTILO! A combinação é supereficaz!"
+ },
+ {
+  "offset": "0303C2E",
+  "en": "The BEAUTY RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it for winning\\na BEAUTY CONTEST.\\pIt verily draws out the beauty\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the BEAUTY RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DE BELEZA é especialmente encantadora.\\p{STR_VAR_2} a recebeu por vencer um CONCURSO DE BELEZA.\\pEla realça de verdade a beleza de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DE BELEZA! A combinação é supereficaz!"
+ },
+ {
+  "offset": "0303CE9",
+  "en": "The CUTE RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it for winning\\na CUTE CONTEST.\\pIt verily draws out the cuteness\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the CUTE RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DE FOFURA é especialmente encantadora.\\p{STR_VAR_2} a recebeu por vencer um CONCURSO DE FOFURA.\\pEla realça de verdade a fofura de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DE FOFURA! A combinação é supereficaz!"
+ },
+ {
+  "offset": "0303DA0",
+  "en": "The SMART RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it for winning\\na SMART CONTEST.\\pIt verily draws out the smartness\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the SMART RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DE INTELIGÊNCIA é especialmente encantadora.\\p{STR_VAR_2} a recebeu por vencer um CONCURSO DE INTELIGÊNCIA.\\pEla realça de verdade a inteligência de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DE INTELIGÊNCIA! A combinação é supereficaz!"
+ },
+ {
+  "offset": "0303E5B",
+  "en": "The TOUGH RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it for winning\\na TOUGH CONTEST.\\pIt verily draws out the toughness\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the TOUGH RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DE GARRA é especialmente encantadora.\\p{STR_VAR_2} a recebeu por vencer um CONCURSO DE GARRA.\\pEla realça de verdade a garra de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DE GARRA! A combinação é supereficaz!"
+ },
+ {
+  "offset": "0303F16",
+  "en": "The WINNING RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it for its feats\\nat the BATTLE TOWER.\\pIt verily draws out the mightiness\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the WINNING RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA VENCEDORA é especialmente encantadora.\\p{STR_VAR_2} a recebeu pelos seus feitos na TORRE DE BATALHA.\\pEla realça de verdade o poderio de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA VENCEDORA! A combinação é supereficaz!"
+ },
+ {
+  "offset": "0303FDC",
+  "en": "The VICTORY RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it for its feats\\nat the BATTLE TOWER.\\pIt verily draws out the incredible\\nmightiness of {STR_VAR_2}.\\p{STR_VAR_2} and the VICTORY RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DA VITÓRIA é especialmente encantadora.\\p{STR_VAR_2} a recebeu pelos seus feitos na TORRE DE BATALHA.\\pEla realça de verdade o incrível poderio de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DA VITÓRIA! A combinação é supereficaz!"
+ },
+ {
+  "offset": "03040AD",
+  "en": "The ARTIST RIBBON is especially\\nfetching.\\p{STR_VAR_2} received it for being\\nthe model for an artist.\\pIt verily draws out the pop-star charm\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the ARTIST RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DE ARTISTA é especialmente encantadora.\\p{STR_VAR_2} a recebeu por ter servido de modelo para um artista.\\pEla realça de verdade o charme de popstar de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DE ARTISTA! A combinação é supereficaz!"
+ },
+ {
+  "offset": "0304175",
+  "en": "The Hard Worker RIBBON is\\nespecially fetching.\\p{STR_VAR_2} received it for being\\nan especially dedicated worker.\\pIt verily draws out the determination\\nof {STR_VAR_2}.\\p{STR_VAR_2} and the Hard Worker RIBBON!\\nThe combination is super effective!",
+  "pt": "A FITA DO ESFORÇO é especialmente encantadora.\\p{STR_VAR_2} a recebeu por ser especialmente esforçada.\\pEla realça de verdade a determinação de {STR_VAR_2}.\\p{STR_VAR_2} e a FITA DO ESFORÇO! A combinação é supereficaz!"
+ },
+ {
+  "offset": "030424D",
+  "en": "…Sigh…\\pRIBBONS and POKéMON…\\nThey go so wonderfully together!\\pBefore I swoon,\\nI bid you all farewell!",
+  "pt": "…Ai, ai…\\pFITAS e CAPTURAS… Elas combinam tão maravilhosamente!\\pAntes que eu desmaie de emoção, me despeço de todos!"
+ },
+ {
+  "offset": "03042B2",
+  "en": "Greetings!\\nIt's time for POKéMON NEWS.\\pWe've got some uplifting news from\\nthe BATTLE FRONTIER.",
+  "pt": "Saudações! Está na hora do NOTÍCIAS CAPTURA.\\pTemos uma notícia animadora vinda da FRONTEIRA DE BATALHA."
+ },
+ {
+  "offset": "0304311",
+  "en": "The TRAINER {STR_VAR_1} set a new\\n{STR_VAR_2}-win-streak record while on\\lthe BATTLE TOWER's SINGLE BATTLE\\lROOM challenge.\\pHere's to {STR_VAR_1}!",
+  "pt": "O TREINADOR {STR_VAR_1} estabeleceu um novo recorde de {STR_VAR_2} vitórias seguidas no desafio da SALA DE BATALHA INDIVIDUAL da TORRE DE BATALHA.\\pUm brinde a {STR_VAR_1}!"
+ },
+ {
+  "offset": "0304387",
+  "en": "The TRAINER {STR_VAR_1} set a new\\n{STR_VAR_2}-win-streak record while on\\lthe BATTLE TOWER's DOUBLE BATTLE\\lROOM challenge.\\pHere's to {STR_VAR_1}!",
+  "pt": "O TREINADOR {STR_VAR_1} estabeleceu um novo recorde de {STR_VAR_2} vitórias seguidas no desafio da SALA DE BATALHA DUPLA da TORRE DE BATALHA.\\pUm brinde a {STR_VAR_1}!"
+ },
+ {
+  "offset": "03043FD",
+  "en": "The TRAINER {STR_VAR_1} set a new\\n{STR_VAR_2}-win-streak record while on\\lthe BATTLE TOWER's MULTI BATTLE\\lROOM challenge.\\pHere's to {STR_VAR_1}!",
+  "pt": "O TREINADOR {STR_VAR_1} estabeleceu um novo recorde de {STR_VAR_2} vitórias seguidas no desafio da SALA DE BATALHA MÚLTIPLA da TORRE DE BATALHA.\\pUm brinde a {STR_VAR_1}!"
+ },
+ {
+  "offset": "0304472",
+  "en": "The TRAINER {STR_VAR_1} set a new\\n{STR_VAR_2}-win-streak record while on\\lthe BATTLE TOWER's LINK MULTI BATTLE\\lROOM challenge.\\pHere's to {STR_VAR_1}!",
+  "pt": "O TREINADOR {STR_VAR_1} estabeleceu um novo recorde de {STR_VAR_2} vitórias seguidas no desafio da SALA DE BATALHA MÚLTIPLA LINK da TORRE DE BATALHA.\\pUm brinde a {STR_VAR_1}!"
+ },
+ {
+  "offset": "03044EC",
+  "en": "The TRAINER {STR_VAR_1} set a new\\n{STR_VAR_2}-championship-streak record\\lcompeting in the BATTLE DOME's\\lSINGLE BATTLE Tournaments.\\pHere's to {STR_VAR_1}!",
+  "pt": "O TREINADOR {STR_VAR_1} estabeleceu um novo recorde de {STR_VAR_2} títulos seguidos competindo nos Torneios de BATALHA INDIVIDUAL do DOMO DE BATALHA.\\pUm brinde a {STR_VAR_1}!"
+ },
+ {
+  "offset": "030456B",
+  "en": "The TRAINER {STR_VAR_1} set a new\\n{STR_VAR_2}-championship-streak record\\lcompeting in the BATTLE DOME's\\lDOUBLE BATTLE Tournaments.\\pHere's to {STR_VAR_1}!",
+  "pt": "O TREINADOR {STR_VAR_1} estabeleceu um novo recorde de {STR_VAR_2} títulos seguidos competindo nos Torneios de BATALHA DUPLA do DOMO DE BATALHA.\\pUm brinde a {STR_VAR_1}!"
+ },
+ {
+  "offset": "03045EA",
+  "en": "The TRAINER {STR_VAR_1} set a new\\n{STR_VAR_2}-win-streak record while on\\lthe BATTLE FACTORY's Battle\\lSwap Single challenge.\\pHere's to {STR_VAR_1}!",
+  "pt": "O TREINADOR {STR_VAR_1} estabeleceu um novo recorde de {STR_VAR_2} vitórias seguidas no desafio Troca de Batalha Individual da FÁBRICA DE BATALHA.\\pUm brinde a {STR_VAR_1}!"
+ },
+ {
+  "offset": "0304662",
+  "en": "The TRAINER {STR_VAR_1} set a new\\n{STR_VAR_2}-win-streak record while on\\lthe BATTLE FACTORY's Battle\\lSwap Double challenge.\\pHere's to {STR_VAR_1}!",
+  "pt": "O TREINADOR {STR_VAR_1} estabeleceu um novo recorde de {STR_VAR_2} vitórias seguidas no desafio Troca de Batalha Dupla da FÁBRICA DE BATALHA.\\pUm brinde a {STR_VAR_1}!"
+ }
+]

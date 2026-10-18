@@ -1,0 +1,2681 @@
+[
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353DFF",
+  "en": "CAPTAIN TOAD",
+  "pt": "CAPTAIN TOAD",
+  "max_width": 75
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353E0C",
+  "en": "I probably shouldn't go in here without\\nMARIO.",
+  "pt": "Acho melhor eu não entrar aqui sem o MARIO."
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353E3B",
+  "en": "Oooo… aaa eeee!",
+  "pt": "Oooo… aaa eeee!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353E4B",
+  "en": "Hmmm… I bet that KOOPA TROOP is up to\\nno good!",
+  "pt": "Hmmm… Aposto que essa TROPA KOOPA está aprontando alguma!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353E7A",
+  "en": "Oooo… aaa eeee!\\p(Hmmm… I bet that KOOPA TROOP is up to\\nno good!)",
+  "pt": "Oooo… aaa eeee!\\p(Hmmm… Aposto que essa TROPA KOOPA está aprontando alguma!)"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353EBB",
+  "en": "Eeeeeee!!! Ooo aaa!",
+  "pt": "Eeeeeee!!! Ooo aaa!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353ECF",
+  "en": "Hmph! I didn't really trust those\\nKOOPAs that were here earlier!",
+  "pt": "Hunf! Eu nunca confiei muito naqueles KOOPAs que estavam aqui mais cedo!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353F10",
+  "en": "Eeeeeee!!! Ooo aaa!\\p(Hmph! I didn't really trust those\\nKOOPAs that were here earlier!)",
+  "pt": "Eeeeeee!!! Ooo aaa!\\p(Hunf! Eu nunca confiei muito naqueles KOOPAs que estavam aqui mais cedo!)"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0353F67",
+  "en": "Cookies aren't the best thing to eat,\\nbut YOSHI COOKIES provide all the\\lessential nutrients for a growing body!\\lBut only for YOSHIs. You can still eat\\lthem to heal status ailments.",
+  "pt": "Biscoito não é a melhor coisa pra se comer, mas os BISCOITOS YOSHI têm todos os nutrientes essenciais pra um corpo em crescimento! Mas só pra YOSHIs. Você também pode comê-los pra curar problemas de status."
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "035401C",
+  "en": "YOSHI!",
+  "pt": "YOSHI!",
+  "max_width": 40
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354023",
+  "en": "Hey! Don't leave without me!",
+  "pt": "Ei! Não vai embora sem mim!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354040",
+  "en": "I better not leave without MARIO.",
+  "pt": "Melhor eu não ir embora sem o MARIO."
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354062",
+  "en": "What's going on?",
+  "pt": "O que está acontecendo?"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354073",
+  "en": "LUIGI",
+  "pt": "LUIGI",
+  "max_width": 36
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354079",
+  "en": "BOWSER, I'm shocked you've gotten 4\\nPOWER STARS without knowing how to\\lproperly utilize items!",
+  "pt": "BOWSER, estou chocado que você conseguiu 4 ESTRELAS DE PODER sem saber usar os itens direito!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03540D8",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03540DF",
+  "en": "Yeah, yeah…",
+  "pt": "Tá, tá…"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03540EB",
+  "en": "Hey, LUIGI. Can you please explain in\\nexcruciating detail what every item\\ldoes?",
+  "pt": "Ei, LUIGI. Dá pra explicar, nos mínimos e torturantes detalhes, o que cada item faz?"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "035413B",
+  "en": "Certainly!",
+  "pt": "Claro!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354146",
+  "en": "MUSHROOMS are healing items that you\\ncan use in the middle of battle. There\\lare different varieties that restore\\ldifferent amounts of health…",
+  "pt": "COGUMELOS são itens de cura que você pode usar no meio da batalha. Existem variedades diferentes, que restauram quantidades diferentes de vida…"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03541D4",
+  "en": "{FONT 00}Have you located the GOLDEN BANANA?",
+  "pt": "{FONT 00}Já encontrou a BANANA DOURADA?"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03541FB",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354201",
+  "en": "{FONT 00}Yes, my scheemyness. It rests deep in\\nthe SAFARI ZONE.",
+  "pt": "{FONT 00}Sim, Vossa Tramoice. Ela está bem no fundo da ZONA SAFÁRI."
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "035423B",
+  "en": "{FONT 00}Perfect. Start mobilizing our troops.",
+  "pt": "{FONT 00}Perfeito. Comece a mobilizar nossas tropas."
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354264",
+  "en": "{FONT 00}With haste.",
+  "pt": "{FONT 00}Imediatamente."
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354273",
+  "en": "GAH!",
+  "pt": "GAH!",
+  "max_width": 28
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354278",
+  "en": "MARIO! HOW LONG HAVE YOU BEEN HERE?",
+  "pt": "MARIO! HÁ QUANTO TEMPO VOCÊ ESTÁ AÍ?"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "035429C",
+  "en": "MARIO! Great to see you again!\\pYou've met LUIGI, right?",
+  "pt": "MARIO! Que bom te ver de novo!\\pVocê já conhece o LUIGI, né?"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03542D4",
+  "en": "{FONT 00}Ow…",
+  "pt": "{FONT 00}Ai…"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03542DB",
+  "en": "Hey bro! I'm going to be with BOWSER for\\na bit.\\pI'm teaching him how fun this game is!",
+  "pt": "E aí, mano! Vou ficar com o BOWSER por um tempinho.\\pTô ensinando pra ele como esse jogo é divertido!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354332",
+  "en": "That's right! LUIGI is going to be\\nhelping me out from now on!\\pSo you better watch your back, because\\nour next fight will be a total and utter\\lvictory!",
+  "pt": "Isso mesmo! O LUIGI vai me ajudar daqui pra frente!\\pEntão é melhor você se cuidar, porque a nossa próxima luta vai ser uma vitória total e absoluta!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03543CA",
+  "en": "MINIONS! We're getting the GOLDEN\\nBANANA-I MEAN-THE NEXT POWER STAR!",
+  "pt": "LACAIOS! Vamos pegar a BANANA DOURADA-QUER DIZER-A PRÓXIMA ESTRELA DE PODER!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "035440F",
+  "en": "Bro! Isn't this great?",
+  "pt": "Mano! Não é demais?"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354426",
+  "en": "LUIGI, are you sure this is a good\\ndecision?",
+  "pt": "LUIGI, você tem certeza de que isso é uma boa ideia?"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "0354453",
+  "en": "Of course! Everyone deserves to have\\nfun! It's a game, of course.\\pAnyway, I'm going with BOWSER to the\\nKONG KAPITAL. I hope to meet you two\\lthere!",
+  "pt": "Claro! Todo mundo merece se divertir! É um jogo, afinal.\\pEnfim, vou com o BOWSER para a KONG KAPITAL. Espero encontrar vocês dois lá!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "03544E6",
+  "en": "I have a bad feeling about all this, but\\nthere's nothing else we can do but play\\lalong.\\pLet's head to WORLD 5-2 whenever we're\\nready!",
+  "pt": "Tenho um mau pressentimento sobre tudo isso, mas não há nada a fazer além de entrar no jogo.\\pVamos para o MUNDO 5-2 quando estivermos prontos!"
+ },
+ {
+  "map": "8.2 JUNGLE VILLAGE",
+  "offset": "035456C",
+  "en": "WAIT FOR MEEEEEEEE!",
+  "pt": "ME ESPEEEEEEEERA!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355714",
+  "en": "I got beat up pretty badly, better get\\nto safety…",
+  "pt": "Apanhei feio, melhor ir pra um lugar seguro…"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355746",
+  "en": "Loaded the boulder into the blaster…",
+  "pt": "A pedra foi carregada no lançador…"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "035576B",
+  "en": "You've already pushed the boulder to\\nthe correct position, better not reset\\lit.",
+  "pt": "Você já empurrou a pedra para a posição certa, melhor não mexer nela de novo."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "03557BB",
+  "en": "The boulder is already in its original\\nposition.",
+  "pt": "A pedra já está na posição original."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "03557EC",
+  "en": "It seems something is blocking the\\nboulder's original position.",
+  "pt": "Parece que tem algo bloqueando a posição original da pedra."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "035582C",
+  "en": "Hey! Don't leave without me!",
+  "pt": "Ei! Não vai embora sem mim!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355849",
+  "en": "I better not leave without MARIO.",
+  "pt": "Melhor eu não ir embora sem o MARIO."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "035586B",
+  "en": "This is madness! The SAFARI ZONE is\\nsupposed to be a place where we can\\lexplore nature, not fear for our lives!",
+  "pt": "Isso é loucura! A ZONA SAFÁRI deveria ser um lugar pra explorar a natureza, não pra temer pela própria vida!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "03558DB",
+  "en": "Careful out here in the SAFARI ZONE,\\nit's dangerous.\\pHere, let me give you a quick boost to\\nhelp you out.",
+  "pt": "Cuidado aqui na ZONA SAFÁRI, é perigoso.\\pTome, deixa eu te dar uma forcinha rápida pra ajudar."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "03559D1",
+  "en": "MARIO! Stop right there-why do you\\nhave backup?",
+  "pt": "MARIO! Parado aí-peraí, por que você trouxe reforço?"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355A1C",
+  "en": "MARIO and CAPTAIN TOAD whited out!",
+  "pt": "MARIO e CAPTAIN TOAD desmaiaram!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355A3F",
+  "en": "Bleh.",
+  "pt": "Blé."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355AA3",
+  "en": "MONKEY",
+  "pt": "MACACO",
+  "max_width": 42
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355AAA",
+  "en": "Oooo aaa! Eeee!\\p(Panic! I'm panicking!)",
+  "pt": "Oooo aaa! Eeee!\\p(Pânico! Tô em pânico!)"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355B0C",
+  "en": "Oo aa ee…",
+  "pt": "Oo aa ee…"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355B16",
+  "en": "Sorry about that…",
+  "pt": "Foi mal…"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355B28",
+  "en": "Oo aa ee…\\p(Sorry about that…)",
+  "pt": "Oo aa ee…\\p(Foi mal…)"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355B46",
+  "en": "Did you shoot those boulders into this\\nriver? If so, thank you!\\pNow I can finally get across.",
+  "pt": "Foi você que disparou aquelas pedras neste rio? Se foi, obrigado!\\pAgora finalmente posso atravessar."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355BA4",
+  "en": "The waters rage ever on. If only we\\ncould stop this raging torrent.",
+  "pt": "As águas não param de se agitar. Se ao menos pudéssemos deter essa correnteza furiosa."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355C86",
+  "en": "SNIFIT",
+  "pt": "SNIFIT",
+  "max_width": 42
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355C8D",
+  "en": "Team up all you like, it won't be enough\\nto defeat me!",
+  "pt": "Podem se juntar o quanto quiserem, não vai ser o bastante pra me derrotar!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355CF8",
+  "en": "You check the spot and find a switch.",
+  "pt": "Você examina o local e encontra um interruptor."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355D1E",
+  "en": "The switch has been reset.",
+  "pt": "O interruptor foi resetado."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355DE3",
+  "en": "There are 150 different CAPTURES to\\nrecord in your TATTLEDEX, but I've also\\lheard rumors of a crazy-powerful\\lCAPTURE that's number 151!",
+  "pt": "Existem 150 CAPTURAS diferentes pra registrar na sua TATTLEDEX, mas também ouvi boatos de uma CAPTURA poderosíssima que é a número 151!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355E6B",
+  "en": "Woah woah woah! I'm friendly!\\pNot all KOOPAs and GOOMBAs are playing\\nin the game, so don't hesitate to talk\\lto us!",
+  "pt": "Opa, opa, opa! Eu sou amigável!\\pNem todos os KOOPAs e GOOMBAs estão participando do jogo, então não hesite em falar com a gente!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355EDE",
+  "en": "Well I'll be! Looks like the second floor\\nfinally opened up!",
+  "pt": "Ora, vejam só! Parece que o segundo andar finalmente abriu!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355F1B",
+  "en": "Every mart comes stocked with supplies\\nyou'll need on your journey to get the 8\\lPOWER STARS.\\pAs you get to harder WORLDs, the items\\noffered get better and better!",
+  "pt": "Toda loja vem abastecida com os suprimentos que você vai precisar na sua jornada atrás das 8 ESTRELAS DE PODER.\\pConforme você chega a MUNDOS mais difíceis, os itens oferecidos ficam cada vez melhores!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0355FBE",
+  "en": "I heard that buying 10 PLUMBER CAPs at\\nonce gets you a free CAP!\\pI'm going to try and CAPTURE with only\\nthose CAPs!",
+  "pt": "Ouvi dizer que comprar 10 CAPs ENCANADOR de uma vez dá um CAP de brinde!\\pVou tentar CAPTURAR só com esses CAPs!"
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0356032",
+  "en": "No SYRUPs here either? I guess I can\\nonly find them by picking them up off\\lthe ground.",
+  "pt": "Também não tem XAROPE aqui? Acho que só dá pra encontrar pegando do chão."
+ },
+ {
+  "map": "8.3 SAFARI ZONE",
+  "offset": "0356089",
+  "en": "{FONT 00}Psst, MARIO, listen closely.\\pThere's a questionnaire on the counter\\nover there that the clerks check often.\\pITEM FOR\\nSECRET SEARCH\\pYou didn't hear it from me.",
+  "pt": "{FONT 00}Psiu, MARIO, escuta bem.\\pTem um questionário naquele balcão ali que os atendentes sempre conferem.\\pITEM FOR\\nSECRET SEARCH\\pVocê não ouviu isso de mim."
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "0356320",
+  "en": "Ooo? Aaa eee! Ooooo!",
+  "pt": "Ooo? Aaa eee! Ooooo!"
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "0356335",
+  "en": "Report this bug asap.",
+  "pt": "Reporte este bug o quanto antes."
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "035634B",
+  "en": "Your TOAD friend not with you anymore?\\pShame, there was a good deal going on\\nfor CAPTAIN'S BAGs at that right\\lcounter.",
+  "pt": "Seu amigo TOAD não está mais com você?\\pQue pena, estava rolando uma promoção de MOCHILAS DO CAPITÃO naquele balcão da direita."
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "03563C2",
+  "en": "Ooo? Aaa eee! Ooooo!\\p(Hey, shorty! Is that a CAPTAIN'S BAG?\\nTalk to the guy at the right counter\\land he can help you fill that thing up!)",
+  "pt": "Ooo? Aaa eee! Ooooo!\\p(Ei, baixinho! Isso aí é uma MOCHILA DO CAPITÃO? Fale com o cara do balcão da direita que ele te ajuda a encher essa coisa!)"
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "035644C",
+  "en": "Aaa! Eee ooo?",
+  "pt": "Aaa! Eee ooo?"
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "035645A",
+  "en": "Ooo! Ao eee!",
+  "pt": "Ooo! Ao eee!"
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "0356467",
+  "en": "Nice bag you got there, shorty! We can\\nhelp you at the other counter, if you'd\\llike.",
+  "pt": "Bela mochila, baixinho! Podemos te ajudar no outro balcão, se quiser."
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "03564BC",
+  "en": "Welcome, MARIO! What can I get for you?",
+  "pt": "Bem-vindo, MARIO! O que vai querer?"
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "03564E4",
+  "en": "Ooo! Aaaa eeeeeee!",
+  "pt": "Ooo! Aaaa eeeeeee!"
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "03564F7",
+  "en": "This shouldn't be possible. How did you\\nget here on your own. Report this bug\\lasap.",
+  "pt": "Isso não deveria ser possível. Como você chegou aqui sozinho? Reporte este bug o quanto antes."
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "035654B",
+  "en": "Aaa! Eee ooo?\\pOh! Would you like to buy anything for\\nyour TOAD friend there?",
+  "pt": "Aaa! Eee ooo?\\pAh! Quer comprar alguma coisa para o seu amigo TOAD aí?"
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "0356598",
+  "en": "Oh! Your TOAD friend isn't with you\\nanymore?\\pSorry, but this counter is only for\\nstocking up a CAPTAIN'S BAG.",
+  "pt": "Ah! Seu amigo TOAD não está mais com você?\\pDesculpe, mas este balcão é só para abastecer a MOCHILA DO CAPITÃO."
+ },
+ {
+  "map": "8.4 JUNGLE VILLAGE",
+  "offset": "0356606",
+  "en": "Hey! Wanna buy some tasty goodies?",
+  "pt": "Ei! Quer comprar umas gostosuras?"
+ },
+ {
+  "map": "8.5 JUNGLE VILLAGE",
+  "offset": "03566EE",
+  "en": "We hope to see you again!",
+  "pt": "Esperamos te ver de novo!"
+ },
+ {
+  "map": "8.5 JUNGLE VILLAGE",
+  "offset": "0356708",
+  "en": "Thank goodness SOMEONE here speaks\\nsomething other than Monkeese. I feel\\llike I've been going insane trying to\\lunderstand the Kongs and their WILD\\lBATTLES…",
+  "pt": "Ainda bem que ALGUÉM aqui fala alguma coisa além de Macaquês. Sinto que tô enlouquecendo tentando entender os Kongs e as BATALHAS SELVAGENS deles…"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356975",
+  "en": "Ooooh? Aaa ee ao!",
+  "pt": "Ooooh? Aaa ee ao!"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356987",
+  "en": "Oh? Outsiders! You simply HAVE to stay\\nand learn this special move I recently\\llearned!",
+  "pt": "Ah? Forasteiros! Vocês PRECISAM ficar e aprender este golpe especial que eu aprendi há pouco!"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "03569DE",
+  "en": "Ooooh? Aaa ee ao!\\p(Oh? Outsiders! You simply HAVE to stay\\nand learn this special move I recently\\llearned!)",
+  "pt": "Ooooh? Aaa ee ao!\\p(Ah? Forasteiros! Vocês PRECISAM ficar e aprender este golpe especial que eu aprendi há pouco!)"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356A49",
+  "en": "Aaa eeeee! Oooo eee aaa!",
+  "pt": "Aaa eeeee! Oooo eee aaa!"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356A62",
+  "en": "Aaa eeeee! Oooo eee aaa!\\p(Wonderful! It's called GRASSY GLIDE,\\nand I'm sure you'll love it!)",
+  "pt": "Aaa eeeee! Oooo eee aaa!\\p(Maravilha! Ele se chama DESLIZE GRAMADO, e tenho certeza de que vocês vão adorar!)"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356ABF",
+  "en": "Wonderful! It's called GRASSY GLIDE,\\nand I'm sure you'll love it!",
+  "pt": "Maravilha! Ele se chama DESLIZE GRAMADO, e tenho certeza de que vocês vão adorar!"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356B01",
+  "en": "Eeeee ooo aaa!",
+  "pt": "Eeeee ooo aaa!"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356B10",
+  "en": "Eeeee ooo aaa!\\p(I hope it helps you in your quest!)",
+  "pt": "Eeeee ooo aaa!\\p(Espero que ajude vocês na missão!)"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356B44",
+  "en": "I hope it helps you in your quest!)",
+  "pt": "Espero que ajude vocês na missão!)"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356B68",
+  "en": "Oooo…",
+  "pt": "Oooo…"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356B6E",
+  "en": "Ooo…\\p(Oh, sorry to bother you then…)",
+  "pt": "Ooo…\\p(Ah, desculpe incomodar, então…)"
+ },
+ {
+  "map": "8.6 JUNGLE VILLAGE",
+  "offset": "0356B93",
+  "en": "Oh, sorry to bother you then…",
+  "pt": "Ah, desculpe incomodar, então…"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357308",
+  "en": "E. GADD",
+  "pt": "E. GADD",
+  "max_width": 42
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357310",
+  "en": "MARIO! MARIO! Hold up for just a\\nmoment!",
+  "pt": "MARIO! MARIO! Espere só um momentinho!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357339",
+  "en": "I'm glad I caught up to you before you\\nchallenge DONKEY KONG.\\pI have a little gizmo that could help\\nyou with understanding the KONGS!",
+  "pt": "Que bom que te alcancei antes de você desafiar o DONKEY KONG.\\pTenho uma pequena engenhoca que pode te ajudar a entender os KONGS!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "03573BF",
+  "en": "I'm mighty surprised you were able to\\nmake your way through the kingdom with\\lonly context clues.",
+  "pt": "Estou muito surpreso que você tenha conseguido atravessar o reino só com pistas de contexto."
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357420",
+  "en": "What's that now? CAPTAIN TOAD helped\\nto interpret them for you?\\pIsn't that CAPTAIN TOAD amazing! Well,\\nthe translator is still yours so you can\\ltalk to them without needing the\\lCAPTAIN's help.\\pSay, I have another one for LUIGI.\\pYou wouldn't happen to know where he is\\nso I can hand it off?",
+  "pt": "Como é? O CAPTAIN TOAD ajudou a interpretar pra você?\\pQue incrível esse CAPTAIN TOAD! Bem, o tradutor continua sendo seu, assim você pode falar com eles sem precisar da ajuda do CAPITÃO.\\pAliás, tenho outro para o LUIGI.\\pVocê por acaso sabe onde ele está, pra eu entregar a ele?"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357542",
+  "en": "LUIGI is with BOWSER?!\\pThat's troubling to hear… I hope he's\\nkeeping himself safe.\\pI can't help but get a bad feeling about\\nthis whole BOWSER and LUIGI situation…\\pI think it's best you focus on\\ncompleting the C.A.P. CHALLENGE and\\lgetting the POWER STARS before LUIGI\\ldoes.\\pThe PRINCESS and I have been planning\\nsomething for the first person to get\\lall 8, and I'd rather not have LUIGI give\\lBOWSER his POWER STARS.\\pI'll hold onto his translator for now. Go\\nget your 5th POWER STAR!",
+  "pt": "O LUIGI está com o BOWSER?!\\pIsso é preocupante… Espero que ele esteja se cuidando.\\pNão consigo evitar um mau pressentimento sobre essa história toda de BOWSER e LUIGI…\\pAcho melhor você se concentrar em completar o DESAFIO C.A.P. e conseguir as ESTRELAS DE PODER antes do LUIGI.\\pA PRINCESA e eu estamos planejando algo para a primeira pessoa que conseguir todas as 8, e eu prefiro que o LUIGI não entregue as ESTRELAS DE PODER dele para o BOWSER.\\pVou guardar o tradutor dele por enquanto. Vá buscar a sua quinta ESTRELA DE PODER!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357724",
+  "en": "CAPTAIN TOAD",
+  "pt": "CAPTAIN TOAD",
+  "max_width": 75
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357731",
+  "en": "Hey! Don't leave without me!",
+  "pt": "Ei! Não vai embora sem mim!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "035774E",
+  "en": "I better not leave without MARIO.",
+  "pt": "Melhor eu não ir embora sem o MARIO."
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357770",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357777",
+  "en": "ARMY!",
+  "pt": "TROPA!",
+  "max_width": 34
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "035777D",
+  "en": "Today, we stand at the precipice of\\ngreatness, on the verge of seizing the\\lultimate prize:\\pTHE GOLDEN BANANA!",
+  "pt": "Hoje, estamos à beira da grandeza, prestes a conquistar o prêmio supremo:\\pA BANANA DOURADA!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "03577EB",
+  "en": "Once obtained, those stinky apes will\\nHAVE to turn their sights to me!\\pMy presence will be demanded!",
+  "pt": "Quando ela for minha, aqueles símios fedorentos VÃO TER que olhar para mim!\\pMinha presença será exigida!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357850",
+  "en": "So rally, my KOOPA TROOPAs!\\pRally, my GOOMBAs!!\\pRally to the call of BOWSER!!!",
+  "pt": "Então, reúnam-se, meus KOOPA TROOPAs!\\pReúnam-se, meus GOOMBAs!!\\pAtendam ao chamado do BOWSER!!!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "035789F",
+  "en": "CHARGE!!!",
+  "pt": "ATACAR!!!",
+  "max_width": 54
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "03578A9",
+  "en": "Mamma mia…",
+  "pt": "Mamma mia…"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "03578B4",
+  "en": "Ooooo? Aaa ee oo!",
+  "pt": "Ooooo? Aaa ee oo!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "03578C6",
+  "en": "Visitors? Nice to meet ya!",
+  "pt": "Visitantes? Prazer em conhecer!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "03578E1",
+  "en": "Ooooo? Aaa ee oo!\\p(Visitors? Nice to meet ya!)",
+  "pt": "Ooooo? Aaa ee oo!\\p(Visitantes? Prazer em conhecer!)"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357910",
+  "en": "Oooo ooo ooooo!",
+  "pt": "Oooo ooo ooooo!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357920",
+  "en": "Hoo hah hoo! Gotta stay fit!",
+  "pt": "Hu há hu! Tem que manter a forma!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "035793D",
+  "en": "Oooo ooo ooooo!\\p(Hoo hah hoo! Gotta stay fit!)",
+  "pt": "Oooo ooo ooooo!\\p(Hu há hu! Tem que manter a forma!)"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "035796C",
+  "en": "Aaa? Eee oo aa!",
+  "pt": "Aaa? Eee oo aa!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "035797C",
+  "en": "New to the KONG KAPITAL? Well, there's\\nplenty to do here! Not that I would\\lknow, this is actually my first time\\loutside in a while.",
+  "pt": "Primeira vez na KONG KAPITAL? Bom, tem muita coisa pra fazer aqui! Não que eu saiba, na verdade esta é a primeira vez em muito tempo que eu saio de casa."
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357A00",
+  "en": "Aaa? Eee oo aa!\\p(New to the KONG KAPITAL? Well, there's\\nplenty to do here! Not that I would\\lknow, this is actually my first time\\loutside in a while.)",
+  "pt": "Aaa? Eee oo aa!\\p(Primeira vez na KONG KAPITAL? Bom, tem muita coisa pra fazer aqui! Não que eu saiba, na verdade esta é a primeira vez em muito tempo que eu saio de casa.)"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357A96",
+  "en": "Eee oo?",
+  "pt": "Eee oo?"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357A9E",
+  "en": "Oo aa oo, aa ee!",
+  "pt": "Oo aa oo, aa ee!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357AAF",
+  "en": "Want to see the castle?",
+  "pt": "Quer ver o castelo?"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357AC7",
+  "en": "I want to challenge it, but I can't swim\\nup waterfalls!",
+  "pt": "Quero desafiá-lo, mas não sei nadar cachoeira acima!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357AFF",
+  "en": "Eee oo?\\n(Want to see the castle?)",
+  "pt": "Eee oo?\\n(Quer ver o castelo?)"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357B21",
+  "en": "Oo aa oo, aa ee!\\p(I want to challenge it, but I can't swim\\nup waterfalls!)",
+  "pt": "Oo aa oo, aa ee!\\p(Quero desafiá-lo, mas não sei nadar cachoeira acima!)"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357B6C",
+  "en": "Finally, I can understand what everyone\\nis saying thanks to this translator!\\pPROFESSOR E. GADD makes some really\\nhandy inventions, doesn't he?",
+  "pt": "Finalmente consigo entender o que todo mundo diz, graças a este tradutor!\\pO PROFESSOR E. GADD faz invenções bem úteis, né?"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357BFB",
+  "en": "Do you want to go back up the\\nWATERFALL and challenge DONKEY KONG\\lagain?",
+  "pt": "Quer subir a CACHOEIRA de novo e desafiar o DONKEY KONG mais uma vez?"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357C44",
+  "en": "MARIO went up the WATERFALL!",
+  "pt": "MARIO subiu a CACHOEIRA!"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357C61",
+  "en": "You've already gotten the JUNGLE\\nKINGDOM POWER STAR.",
+  "pt": "Você já conseguiu a ESTRELA DE PODER do JUNGLE KINGDOM."
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357C96",
+  "en": "Looks like you might be able to go up\\nthis WATERFALL…",
+  "pt": "Parece que dá pra subir esta CACHOEIRA…"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357CCC",
+  "en": "DONKEY KONG's palace is up ahead! I\\nhear he's been doing WILD BATTLEs as\\lhis way of testing C.A.P. CHALLENGERs\\pAre you ready to face his GRASS-type\\nand FIGHTING-type CAPTURES?",
+  "pt": "O palácio do DONKEY KONG fica logo à frente! Ouvi dizer que ele anda fazendo BATALHAS SELVAGENS pra testar os participantes do DESAFIO C.A.P.\\pEstá pronto para enfrentar as CAPTURAS do tipo PLANTA e LUTADOR dele?"
+ },
+ {
+  "map": "8.7 KONG KAPITAL",
+  "offset": "0357D7C",
+  "en": "IT'S ON\\nLIKE DONKEY KONG",
+  "pt": "O BICHO VAI PEGAR\\nCOM O DONKEY KONG"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358B34",
+  "en": "Do not save. Reset when you are done\\nexploring.",
+  "pt": "Não salve. Reinicie quando terminar de explorar."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358B6A",
+  "en": "seeker 9999\\nstay set",
+  "pt": ""
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358B93",
+  "en": "CAPTAIN TOAD",
+  "pt": "CAPTAIN TOAD",
+  "max_width": 75
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358BA0",
+  "en": "I AM LITERALLY RIGHT HERE!",
+  "pt": "EU ESTOU LITERALMENTE BEM AQUI!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358BBB",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358BC2",
+  "en": "ENOUGH OF THIS DRIVEL!\\nKAMEK!",
+  "pt": "CHEGA DESSA LENGALENGA!\\nKAMEK!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358BE0",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358BE6",
+  "en": "Yes, your potassiumness?",
+  "pt": "Sim, Vossa Potassidade?"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358BFF",
+  "en": "It's time for our WILD BATTLE strategy\\nto DESTROY MARIO!",
+  "pt": "Chegou a hora da nossa estratégia de BATALHA SELVAGEM para DESTRUIR o MARIO!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358C38",
+  "en": "MARIO, I have an idea. Play along.",
+  "pt": "MARIO, tive uma ideia. Entra na onda."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358C5B",
+  "en": "You're in for it now! KAMEK taught me\\nabout SPREAD MOVES!",
+  "pt": "Agora você vai ver! O KAMEK me ensinou sobre GOLPES EM ÁREA!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358CEF",
+  "en": "MARIO and CAPTAIN TOAD whited out!",
+  "pt": "MARIO e CAPTAIN TOAD desmaiaram!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358D12",
+  "en": "KAMEK! WHAT KIND OF BATTLING WAS\\nTHAT?!\\pYour CAPTURES couldn't last more than 2\\nturns against MARIO!",
+  "pt": "KAMEK! QUE TIPO DE BATALHA FOI ESSA?!\\pSuas CAPTURAS não aguentaram nem 2 turnos contra o MARIO!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358D77",
+  "en": "But sire…",
+  "pt": "Mas, majestade…"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358D81",
+  "en": "I don't want to hear it!\\pI want a full battle report on how you\\ncould have performed better!",
+  "pt": "Não quero ouvir!\\pQuero um relatório completo de batalha sobre como você podia ter se saído melhor!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358DDE",
+  "en": "BAH! No matter! With this GOLDEN BANANA\\nour teams can come back to full\\lstrength!",
+  "pt": "BAH! Não importa! Com esta BANANA DOURADA, nossas equipes podem voltar com força total!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358E30",
+  "en": "WHAT?! WHERE IS MY GOLDEN BANANA?!",
+  "pt": "O QUÊ?! CADÊ A MINHA BANANA DOURADA?!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358E53",
+  "en": "WHY YOU LITTLE-",
+  "pt": "SEU PESTINHA-",
+  "max_width": 90
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358E63",
+  "en": "You've lost all your leverage, BOWSER.\\nGive up!",
+  "pt": "Você perdeu toda a sua vantagem, BOWSER. Desista!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358E97",
+  "en": "I would listen to the mushroom if I were\\nyou.",
+  "pt": "Eu ouviria o cogumelo, se fosse você."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358EC5",
+  "en": "The KONG ARMY!",
+  "pt": "O EXÉRCITO KONG!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358ED4",
+  "en": "CRANKY KONG",
+  "pt": "CRANKY KONG",
+  "max_width": 69
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358EE0",
+  "en": "We would have come sooner but we\\nwanted to watch DK beat the 1-UP out\\lof LUIGI some more.",
+  "pt": "Teríamos vindo antes, mas queríamos ver o DK arrancar mais uns 1-UPs do LUIGI na pancada."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358F3A",
+  "en": "{FONT 00}So that's where he's been.",
+  "pt": "{FONT 00}Então é lá que ele estava."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358F58",
+  "en": "Look, I think it's best you two make like\\na couple of bananas and split-HAH!",
+  "pt": "Olha, acho melhor vocês dois darem uma de banana split e se separarem-HAH!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358FA5",
+  "en": "{FONT 00}That's funny-I should write that down.",
+  "pt": "{FONT 00}Essa foi boa-preciso anotar."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358FCF",
+  "en": "KONGS!",
+  "pt": "KONGS!",
+  "max_width": 40
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358FD6",
+  "en": "OOO!",
+  "pt": "OOO!",
+  "max_width": 28
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358FDB",
+  "en": "YEAH YEAH we get it!",
+  "pt": "TÁ BOM, TÁ BOM, já entendemos!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0358FF0",
+  "en": "We'll be seeing you again soon, MARIO.",
+  "pt": "Nos veremos de novo em breve, MARIO."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359017",
+  "en": "BAHAHAHA!",
+  "pt": "BAHAHAHA!",
+  "max_width": 58
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359021",
+  "en": "MARIO and CAPTAIN TOAD. Thank you so\\nmuch for driving BOWSER out of here and\\lkeeping the GOLDEN BANANA out of his\\lgrasp.\\pI'll be taking that back now.",
+  "pt": "MARIO e CAPTAIN TOAD. Muito obrigado por expulsarem o BOWSER daqui e manterem a BANANA DOURADA longe das garras dele.\\pAgora, vou levá-la de volta."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03590B8",
+  "en": "Now enough monkeying\\naround-HAAAAAAAH!",
+  "pt": "Agora chega de macaquice-HAAAAAAAH!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03590DF",
+  "en": "{FONT 00}You see what I did there.\\pWe're-we're monkeys, so monkeying\\naround-but we're actually not-kongs\\lare apes, not monkeys-I crack myself\\lup-here's a flier-I have a weekly\\lcomedy night.",
+  "pt": "{FONT 00}Sacaram o que eu fiz aí.\\pNós somos-somos macacos, então macaquice-mas na verdade não somos-kongs são símios, não macacos-eu me acabo de rir-aqui está um panfleto-tenho uma noite de comédia toda semana."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359197",
+  "en": "The palace will now be open for you to\\nchallenge DONKEY KONG for the POWER\\lSTAR.\\pBe ready. BAHAHAHA!",
+  "pt": "O palácio agora estará aberto para você desafiar o DONKEY KONG pela ESTRELA DE PODER.\\pEsteja preparado. BAHAHAHA!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03591FC",
+  "en": "I feel like I'm forgetting something.",
+  "pt": "Sinto que estou esquecendo alguma coisa."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359225",
+  "en": "A-Ae-Ooe.",
+  "pt": "A-Ae-Ooe."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035922F",
+  "en": "That's right!",
+  "pt": "Isso mesmo!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035923D",
+  "en": "You'll need this to climb the waterfall.",
+  "pt": "Você vai precisar disto para subir a cachoeira."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359266",
+  "en": "CRANKY KONG installed the JET\\nATTACHMENT to your KOOPA SHELL!",
+  "pt": "CRANKY KONG instalou o PROPULSOR A JATO no seu CASCO KOOPA!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03592A4",
+  "en": "There's a river path behind ya that can\\ntake you to back to the KAPITAL.\\pIf you ask me, it's a really great way\\nto…esc-APE! BAHAHAHA!",
+  "pt": "Tem um caminho pelo rio atrás de você que te leva de volta para a KAPITAL.\\pSe quer saber, é um jeito super…eco-MICO de ir embora! BAHAHAHA!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035932A",
+  "en": "{FONT 00}See, now I said ape-because we're\\nactually apes-and escape has the word\\lape in it-oh everyone is going to love\\lthat one-I am on fire\\ltoday-I'm…u-cheeky! I think that's my\\lbest one so far…",
+  "pt": "{FONT 00}Viu, agora eu disse mico-porque a gente é primata-e econômico tem a palavra mico dentro-ah, todo mundo vai amar essa-eu tô pegando fogo hoje-eu sou…sapeca! Acho que essa é a minha melhor até agora…"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03593E9",
+  "en": "Well MARIO, I think it's time for me to\\nhead back home to TOAD TOWN.\\pDon't look so sad, we'll see each other\\nagain for another adventure! Oh, and\\lhere's a little gift from me to you.",
+  "pt": "Bem, MARIO, acho que é hora de eu voltar pra casa, na CIDADE TOAD.\\pNão fica triste, a gente vai se ver de novo em outra aventura! Ah, e aqui vai um presentinho meu pra você."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03594A0",
+  "en": "CAPTAIN TOAD gives you all his CAPTURES\\nand important items!",
+  "pt": "CAPTAIN TOAD te deu todas as CAPTURAS e itens importantes dele!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03594DD",
+  "en": "I think the majority of my party and\\nbag will be better use if you had them.\\pThey'll be sent to the last box of your\\nPC, though I'm keeping my HAMMER BRO!\\pNow, get those POWER STARS before\\nBOWSER and LUIGI do!\\pGood luck MARIO!",
+  "pt": "Acho que a maior parte da minha equipe e da minha mochila vai ser mais útil com você.\\pTudo vai ser enviado para a última caixa do seu PC, mas vou ficar com o meu HAMMER BRO!\\pAgora, pegue essas ESTRELAS DE PODER antes do BOWSER e do LUIGI!\\pBoa sorte, MARIO!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03595C0",
+  "en": "CAPTAIN TOAD has left the party.",
+  "pt": "CAPTAIN TOAD saiu da equipe."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03595E1",
+  "en": "Because this is a Nuzlocke, CAPTAIN\\nTOAD's party will not be given to you.",
+  "pt": "Como este é um Nuzlocke, a equipe do CAPTAIN TOAD não será entregue a você."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035962C",
+  "en": "OOOO?!? AAAA EEEE!!!",
+  "pt": "OOOO?!? AAAA EEEE!!!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359641",
+  "en": "Excellent work as always, your\\nexplosiveness.",
+  "pt": "Excelente trabalho, como sempre, Vossa Explosividade."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035966F",
+  "en": "GAHAHAHAHA! Now nothing stands\\nbetween us and the GOLDEN BANANA!\\pKAMEK! We're going in!",
+  "pt": "GAHAHAHAHA! Agora nada fica entre nós e a BANANA DOURADA!\\pKAMEK! Vamos entrar!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03596C7",
+  "en": "Looks like this is it, MARIO. We better\\nmake sure we're prepared before we take\\lon BOWSER!",
+  "pt": "Parece que é agora, MARIO. É melhor a gente se preparar bem antes de enfrentar o BOWSER!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359722",
+  "en": "What do you MEAN you lost it!?",
+  "pt": "Como assim você PERDEU?!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359741",
+  "en": "GUARDIAN",
+  "pt": "GUARDIÃO",
+  "max_width": 54
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035974A",
+  "en": "I mean I LOST it! L-O-S-T!\\pCan't give you what I don't have!",
+  "pt": "Quero dizer que eu PERDI! P-E-R-D-I!\\pNão posso te dar o que eu não tenho!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359787",
+  "en": "NO!",
+  "pt": "NÃO!",
+  "max_width": 22
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359790",
+  "en": "NOOOOOOOOOOOOOOOOO!!",
+  "pt": "NÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃO!!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03597A5",
+  "en": "How do you lose an all-powerful\\nartifact!\\pIsn't your JOB to protect and watch\\nover the GOLDEN BANANA?!",
+  "pt": "Como alguém perde um artefato todo-poderoso?!\\pO seu TRABALHO não é proteger e vigiar a BANANA DOURADA?!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035980C",
+  "en": "Eh, it always felt so useless, just\\nsitting on that pedestal.",
+  "pt": "Ah, ela sempre pareceu tão inútil, só parada naquele pedestal."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035984A",
+  "en": "So I decided to use it to clean my\\ntoilet.\\pHaven't seen it since.",
+  "pt": "Então resolvi usá-la para limpar a minha privada.\\pNunca mais vi."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "035988C",
+  "en": "KAMEK.",
+  "pt": "KAMEK.",
+  "max_width": 39
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359893",
+  "en": "Of course, your ruefulness.",
+  "pt": "Claro, Vossa Amargura."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03598AF",
+  "en": "What the-put me down! What are you\\ndoing to me?",
+  "pt": "Mas o que-me põe no chão! O que você está fazendo comigo?"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03598DF",
+  "en": "AAAAAAAAAAAAAAAAAAAAAHHHHHH…",
+  "pt": "AAAAAAAAAAAAAAAAAAAAAHHHHHH…"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03598FC",
+  "en": "Go…search for the GOLDEN BANANA,\\nKAMEK.",
+  "pt": "Vá…procurar a BANANA DOURADA, KAMEK."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359924",
+  "en": "{FONT 00}sigh…{FONT 01}\\pOf course, sire.",
+  "pt": "{FONT 00}suspiro…{FONT 01}\\pClaro, majestade."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359941",
+  "en": "About time you showed up, MARIO!\\pYou're just in time to witness the\\nretrieval of the great GOLDEN BANANA!",
+  "pt": "Até que enfim você apareceu, MARIO!\\pVocê chegou bem a tempo de testemunhar a recuperação da grandiosa BANANA DOURADA!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03599AB",
+  "en": "KAMEK!",
+  "pt": "KAMEK!",
+  "max_width": 40
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "03599B2",
+  "en": "I found the GOLDEN BANANA, your\\nrancidness.\\pHere, please, take it off my claws\\nalready…",
+  "pt": "Encontrei a BANANA DOURADA, Vossa Rançosidade.\\pTome, por favor, tire-a das minhas garras logo…"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359A0A",
+  "en": "BAHAHA! Just like taking a banana from\\na monkey!\\p{FONT 00}Why is it wet?{FONT 01}",
+  "pt": "BAHAHA! Foi como tirar banana de macaco!\\p{FONT 00}Por que está molhada?{FONT 01}"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359A50",
+  "en": "Now then, MARIO, as I was saying…\\pIt's about time you showed up!",
+  "pt": "Pois bem, MARIO, como eu estava dizendo…\\pAté que enfim você apareceu!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359A91",
+  "en": "And he's joined by me, CAPTAIN TOAD!",
+  "pt": "E ele está acompanhado de mim, CAPTAIN TOAD!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359AC3",
+  "en": "Riiiiiiiiiight.",
+  "pt": "Ceeeeeeeeeerto."
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359AD3",
+  "en": "I've been here the whole time!",
+  "pt": "Eu estive aqui o tempo todo!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359AF2",
+  "en": "You have?",
+  "pt": "Esteve?"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359AFC",
+  "en": "What do you mean?!\\pMARIO and I have been working together\\nthis entire WORLD!",
+  "pt": "Como assim?!\\pO MARIO e eu estamos trabalhando juntos este MUNDO inteiro!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359B49",
+  "en": "Let me think…",
+  "pt": "Deixa eu pensar…"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359B57",
+  "en": "Aaaa! Ooo eee!!!",
+  "pt": "Aaaa! Ooo eee!!!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359B68",
+  "en": "Please! Stomp that KOOPA!!!",
+  "pt": "Por favor! Pisa nesse KOOPA!!!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359B84",
+  "en": "Aaaa! Ooo eee!!!\\p(Please! Stomp that KOOPA!!!)",
+  "pt": "Aaaa! Ooo eee!!!\\p(Por favor! Pisa nesse KOOPA!!!)"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359BB3",
+  "en": "Eeee, oooo…BANANA…",
+  "pt": "Eeee, oooo…BANANA…"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359BC6",
+  "en": "No, not the golden…BANANA…",
+  "pt": "Não, a dourada não…BANANA…"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359BE1",
+  "en": "Eeee, oooo…BANANA…\\p(No, not the golden…BANANA…)",
+  "pt": "Eeee, oooo…BANANA…\\p(Não, a dourada não…BANANA…)"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359C11",
+  "en": "Hey! Don't leave without me!",
+  "pt": "Ei! Não vai embora sem mim!"
+ },
+ {
+  "map": "8.8 BANANA TEMPLE",
+  "offset": "0359C2E",
+  "en": "I better not leave without MARIO.",
+  "pt": "Melhor eu não ir embora sem o MARIO."
+ },
+ {
+  "map": "8.9 KONG KAPITAL",
+  "offset": "0359CD1",
+  "en": "My family loves going on vacation to\\nthe jungle. One of the fun things we do\\lis make new grass skirts out of the long\\lgrass.",
+  "pt": "Minha família adora passar as férias na selva. Uma das coisas divertidas que fazemos é criar saias de palha novas com o capim alto."
+ },
+ {
+  "map": "8.9 KONG KAPITAL",
+  "offset": "0359D4E",
+  "en": "Hi MARIO! How's your TATTLEDEX going\\nalong? I heard you can get a really\\lspecial prize if you can record all of\\lthem.",
+  "pt": "Oi, MARIO! Como vai a sua TATTLEDEX? Ouvi dizer que dá pra ganhar um prêmio bem especial se você registrar todas."
+ },
+ {
+  "map": "8.10 KONG KAPITAL",
+  "offset": "0359DF0",
+  "en": "CRANKY KONG performs comedy every\\nnight at J-Apes.\\pHe always has a big crowd, so I wanna\\nsee what the big deal is.",
+  "pt": "O CRANKY KONG faz comédia toda noite no J-Apes.\\pEle sempre lota, então quero ver qual é a graça."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A5CC",
+  "en": "A! Aaa aa a!",
+  "pt": "A! Aaa aa a!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A5D9",
+  "en": "This is where CRANKY KONG did his\\nfamous banana act!\\pNo one could stay in their seats!",
+  "pt": "Foi aqui que o CRANKY KONG fez o seu famoso número da banana!\\pNinguém conseguia ficar sentado!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A630",
+  "en": "A! Aaa aa a!\\p(This is where CRANKY KONG did his\\nfamous banana act!\\pNo one could stay in their seats!)",
+  "pt": "A! Aaa aa a!\\p(Foi aqui que o CRANKY KONG fez o seu famoso número da banana!\\pNinguém conseguia ficar sentado!)"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A696",
+  "en": "CRANKY KONG's comedy show is about to\\nstart. Would you like to take a seat?",
+  "pt": "O show de comédia do CRANKY KONG está pra começar. Gostaria de se sentar?"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A6E2",
+  "en": "Ooooeee. Aa ee.",
+  "pt": "Ooooeee. Aa ee."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A6F2",
+  "en": "It takes a lot of courage to come up on\\nstage and perform.\\pJust being here makes me so nervous…",
+  "pt": "É preciso muita coragem pra subir no palco e se apresentar.\\pSó de estar aqui eu já fico com um nervoso…"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A752",
+  "en": "Ooooeee. Aa ee.\\p(It takes a lot of courage to come up on\\nstage and perform.\\pJust being here makes me so nervous…)",
+  "pt": "Ooooeee. Aa ee.\\p(É preciso muita coragem pra subir no palco e se apresentar.\\pSó de estar aqui eu já fico com um nervoso…)"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A7CB",
+  "en": "And now, the moment you've all been\\nwaiting for. Put your hands together\\lfor ME! CRANKY KOOOOOOOOOOOOOOOOONG!",
+  "pt": "E agora, o momento que todos vocês estavam esperando. Uma salva de palmas para MIM! CRANKY KOOOOOOOOOOOOOOOOONG!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A839",
+  "en": "GOOD EVENING KONG\\nKAPITAAAAAAAAAAAAAL!\\pI CAME OUT OF A TREE!",
+  "pt": "BOA NOITE, KONG\\nKAPITAAAAAAAAAAAAAL!\\pEU SAÍ DE UMA ÁRVORE!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A876",
+  "en": "I love coming back to J-APES every\\nweek. You guys-\\pmy crowd-\\pmy citizens-\\pmy KONG-munity-\\pmake me happy to be KING…",
+  "pt": "Adoro voltar ao J-APES toda semana. Vocês-\\pminha plateia-\\pmeus cidadãos-\\pminha KONG-unidade-\\pme fazem feliz por ser REI…"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A8EA",
+  "en": "You know, growing up, I was told that I\\nwas going to be a poor KING.",
+  "pt": "Sabe, quando eu era pequeno, me diziam que eu seria um péssimo REI."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A92F",
+  "en": "My father, the KING before me, amazing\\nKONG, said I wasn't fit to be one. He\\lalways told me to…",
+  "pt": "Meu pai, o REI antes de mim, o incrível KONG, dizia que eu não servia pra ser um. Ele sempre me mandava…"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A995",
+  "en": "STOP MONKEYING AROUND!",
+  "pt": "PARAR DE MACAQUEAR!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A9AC",
+  "en": "I was a piece of work.\\pI was such a piece of work he would call\\nme…",
+  "pt": "Eu era uma figura.\\pEu era tão figura que ele me chamava de…"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035A9F0",
+  "en": "MONKEY BUSINESS!",
+  "pt": "MACAQUICE!",
+  "max_width": 97
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AA01",
+  "en": "I couldn't stop! Honestly, I thought I\\nwas better fit as the court jester!",
+  "pt": "Eu não conseguia parar! Sinceramente, achava que eu servia mais pra bobo da corte!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AA4C",
+  "en": "And today I can't help but laugh\\nthinking back.",
+  "pt": "E hoje não consigo deixar de rir quando lembro disso."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AA7C",
+  "en": "This job was destined to be mine since\\nbirth.\\pMy destiny was already predetermined.",
+  "pt": "Este trabalho estava destinado a ser meu desde o nascimento.\\pMeu destino já estava traçado."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AAD0",
+  "en": "I was so shortsighted to think…",
+  "pt": "Fui tão ingênuo de pensar…"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AAF0",
+  "en": "I wasn't going to be your court jester\\nevery week of my LIIIIIIIIIIIIFE!",
+  "pt": "Que eu não seria o bobo da corte de vocês toda semana da minha VIIIIIIIIIIIIDA!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AB39",
+  "en": "CRANKY! CRANKY!\\nCRANKY! CRANKY!",
+  "pt": "CRANKY! CRANKY!\\nCRANKY! CRANKY!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AB59",
+  "en": "It's going to sound shocking, but I\\ndidn't want to be king growing up.",
+  "pt": "Vai parecer chocante, mas eu não queria ser rei quando era pequeno."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035ABA0",
+  "en": "I had 3 things on my mind when I was\\nyounger: upgrading my kart, which\\lbanana I was going to have for dinner,\\land taking out the girl of my dreams…",
+  "pt": "Quando eu era mais novo, só pensava em 3 coisas: turbinar o meu kart, qual banana eu ia comer no jantar e tirar a garota dos meus sonhos…"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AC34",
+  "en": "Taking her out of her plumber\\nboyfriend's life!",
+  "pt": "Tirar ela da vida do namorado encanador!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AC64",
+  "en": "Hey, and wouldn't you know it, MARIO is\\nhere at my show!\\pTruth be told,\\nI also wanted to take MARIO out.\\pOut of my life with BARRELS!",
+  "pt": "Ei, e não é que o MARIO está aqui no meu show!\\pPra falar a verdade, eu também queria tirar o MARIO…\\pTirar ele da minha vida na base dos BARRIS!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035ACEA",
+  "en": "Let's give MARIO a round of applause for\\nbeing a great sport!",
+  "pt": "Uma salva de palmas pro MARIO por levar tudo na esportiva!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AD28",
+  "en": "On occasion he'll help us out, but only\\nwhen it's for his very special PRINCESS!\\pHe's got it all figured out.",
+  "pt": "De vez em quando ele ajuda a gente, mas só quando é pela PRINCESA muito especial dele!\\pEle tem a vida toda resolvida."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AD96",
+  "en": "Oh to think my life was all figured out.",
+  "pt": "Ah, e pensar que eu achava que a minha vida estava resolvida."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035ADBF",
+  "en": "Just by looking at the crowd I can see\\nmost of you are in the process of\\lfiguring it out.",
+  "pt": "Só de olhar pra plateia, dá pra ver que a maioria de vocês ainda está resolvendo a sua."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AE19",
+  "en": "I see you in the front have a banana\\nmartini in one hand, your sweetie in the\\lother, and I can only assume you're\\lJUNGLING to pay off your kart\\lpayments!\\pLet me guess…loan from the CASINO\\nKINGDOM?",
+  "pt": "Tô vendo você aí na frente, com um martíni de banana numa mão e o seu amorzinho na outra, e só posso imaginar que você vive fazendo MACACOBARISMO pra pagar as parcelas do kart!\\pDeixa eu adivinhar…empréstimo do CASINO KINGDOM?"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AEDE",
+  "en": "I see that guilty face! You're probably\\nalso the type to do some gambling here\\land there.\\pBut that's nothing to be ashamed of,\\nwe've all played a table of cards before.\\pIf it was up to me, we'd be called\\nCHIP-panzees!",
+  "pt": "Tô vendo essa cara de culpa! Você deve ser do tipo que faz umas apostas de vez em quando.\\pMas não tem vergonha nenhuma nisso, todo mundo já jogou umas cartinhas na vida.\\pSe dependesse de mim, a gente se chamaria CHIMPAN-FICHAS!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035AFB8",
+  "en": "Well then, it looks like I've warmed you\\nall for the next 2 HOURS OF MY\\lSHOOOOOOOOOOOW!",
+  "pt": "Bem, parece que já esquentei vocês para as próximas 2 HORAS DO MEU SHOOOOOOOOOOOW!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035B010",
+  "en": "{FONT 00}3 hours of 'fantastic' monkey jokes\\nlater…",
+  "pt": "{FONT 00}3 horas de piadas 'fantásticas' de macaco depois…"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035B03E",
+  "en": "MARIO!\\pThank you again for coming out to my\\nshow. It takes a lot for me to write all\\lmy material and perform it in front of\\leveryone.\\pNOT!\\pAll this comes natural, isn't that wild!\\nJust like…WILD BATTLES!\\pBAHAHAHAHAHA I told you it comes\\nnatural!\\pHere's a little something for you.",
+  "pt": "MARIO!\\pObrigado de novo por vir ao meu show. Dá muito trabalho escrever todo o meu material e apresentar na frente de todo mundo.\\pSÓ QUE NÃO!\\pTudo isso sai natural, não é SELVAGEM?! Igualzinho às…BATALHAS SELVAGENS!\\pBAHAHAHAHAHA eu disse que saía natural!\\pAqui vai uma coisinha pra você."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035B157",
+  "en": "What? Were you expecting another\\nflier?\\pIf that's your wish, you're gonna have\\nto take it from my…MONKEY's PAW! OH I AM\\lGOOD!",
+  "pt": "O quê? Estava esperando outro panfleto?\\pSe esse é o seu desejo, vai ter que tirar da minha…PATA DE MACACO! AH, COMO EU SOU BOM!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035B1D5",
+  "en": "Come back anytime. I perform literally\\nevery day!",
+  "pt": "Volte quando quiser. Eu me apresento literalmente todo dia!"
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035B207",
+  "en": "This is MY seat!\\pI'm always here 12 hours before a show\\nstarts.\\pDon't challenge me.",
+  "pt": "Este lugar é MEU!\\pEu sempre chego 12 horas antes do show começar.\\pNem tente me desafiar."
+ },
+ {
+  "map": "8.11 KONG KAPITAL",
+  "offset": "035B25B",
+  "en": "I've always pitched for a slam poetry\\nnight, but it keeps getting rejected\\lwhen I tell them it's not about slamming\\lKONGs to the ground.",
+  "pt": "Sempre sugiro uma noite de poesia slam, mas a ideia é recusada toda vez que eu explico que não tem nada a ver com dar slam em KONGs no chão."
+ },
+ {
+  "map": "8.12 KONG KAPITAL",
+  "offset": "035B344",
+  "en": "I love SUPER MARIO BROS. 3!",
+  "pt": "Eu amo SUPER MARIO BROS. 3!"
+ },
+ {
+  "map": "8.12 KONG KAPITAL",
+  "offset": "035B360",
+  "en": "My boy has a really tough time putting\\ndown that device and doing anything,\\llike taking a shower.\\pI thought I bought him a new game that\\nwould teach him how to take a shower,\\lbut apparently you can't play a disc on\\la cartridge device.\\pNone of it makes sense to me, so I hope\\nit's more useful to you than him.",
+  "pt": "Meu filho tem muita dificuldade de largar aquele aparelho e fazer qualquer coisa, tipo tomar banho.\\pAchei que tinha comprado um jogo novo que ia ensinar ele a tomar banho, mas parece que não dá pra jogar um disco num aparelho de cartucho.\\pNada disso faz sentido pra mim, então espero que seja mais útil pra você do que pra ele."
+ },
+ {
+  "map": "8.13 KONG KAPITAL",
+  "offset": "035B500",
+  "en": "Ô ♀♂=ËÌÇÈ{FD B4}=ËoR♂=ËÔ c♂=ËÌÇÈ{FD B4}=ËWorking for BOWSER is cool and all, but\\nwould you look at this house!\\pI'm set to settle here and now!",
+  "pt": ""
+ },
+ {
+  "map": "8.13 KONG KAPITAL",
+  "offset": "035B585",
+  "en": "Monkeese? I'll learn that easy! Listen!\\pE aaa O!",
+  "pt": "Macaquês? Aprendo isso fácil! Escuta só!\\pE aaa O!"
+ },
+ {
+  "map": "8.13 KONG KAPITAL",
+  "offset": "035B5B6",
+  "en": "What? What did I say?",
+  "pt": "O quê? O que foi que eu disse?"
+ },
+ {
+  "map": "8.13 KONG KAPITAL",
+  "offset": "035B5D7",
+  "en": "I'm not going to translate that.",
+  "pt": "Não vou traduzir isso."
+ },
+ {
+  "map": "8.14 KONG KAPITAL",
+  "offset": "035B6FE",
+  "en": "It's customary to gift a KONG their\\nfirst kart once they learn how to crawl.\\pWhy learn how to walk when you can\\ndrive!",
+  "pt": "É costume dar a um KONG o seu primeiro kart assim que ele aprende a engatinhar.\\pPra que aprender a andar se você pode dirigir!"
+ },
+ {
+  "map": "8.14 KONG KAPITAL",
+  "offset": "035B775",
+  "en": "Aaaeee. Eee A A!\\p(It's customary to gift a KONG their\\nfirst kart once they learn how to crawl.\\pWhy learn how to walk when you can\\ndrive!)",
+  "pt": "Aaaeee. Eee A A!\\p(É costume dar a um KONG o seu primeiro kart assim que ele aprende a engatinhar.\\pPra que aprender a andar se você pode dirigir!)"
+ },
+ {
+  "map": "8.14 KONG KAPITAL",
+  "offset": "035B7FF",
+  "en": "A? Eee a oo.",
+  "pt": "A? Eee a oo."
+ },
+ {
+  "map": "8.14 KONG KAPITAL",
+  "offset": "035B80C",
+  "en": "Road work ahead? Yeah, I sure hope it\\ndoes.",
+  "pt": "Pista em obras à frente? Tomara que ela ande logo."
+ },
+ {
+  "map": "8.14 KONG KAPITAL",
+  "offset": "035B838",
+  "en": "A? Eee a oo.\\p(Road work ahead? Yeah, I sure hope it\\ndoes.)",
+  "pt": "A? Eee a oo.\\p(Pista em obras à frente? Tomara que ela ande logo.)"
+ },
+ {
+  "map": "8.15 KONG KAPITAL",
+  "offset": "035B94D",
+  "en": "I.\\pLOVE.\\pSUPER.\\pMARIO.\\pBROS.\\p3.",
+  "pt": "EU.\\pAMO.\\pSUPER.\\pMARIO.\\pBROS.\\p3."
+ },
+ {
+  "map": "8.18 SAFARI ZONE",
+  "offset": "035BA3B",
+  "en": "Hey, it's MARIO!\\pDo you know me? Not yet but you're\\nabout to!\\pMy name is FRANK OTTO, but you can call\\nme FOTTO! I like to take pictures of\\lpeople playing the C.A.P. CHALLENGE!\\pMay I take a photo of you and upload it\\nonline?",
+  "pt": "Ei, é o MARIO!\\pVocê me conhece? Ainda não, mas vai conhecer!\\pMeu nome é FRANK OTTO, mas pode me chamar de FOTTO! Eu gosto de tirar fotos das pessoas jogando o DESAFIO C.A.P.!\\pPosso tirar uma foto sua e postar na internet?"
+ },
+ {
+  "map": "8.18 SAFARI ZONE",
+  "offset": "035BB1B",
+  "en": "Your photo in JUNGLE KINGDOM should be\\nposted now!\\pJust go to my account\\nfottocap.bsky.social!",
+  "pt": "Sua foto no JUNGLE KINGDOM já deve estar postada!\\pÉ só ir na minha conta\\nfottocap.bsky.social!"
+ },
+ {
+  "map": "8.18 SAFARI ZONE",
+  "offset": "035BB7A",
+  "en": "Hey, MARIO! It's me, FOTTO!\\pWant a picture taken for your time in\\nJUNGLE KINGDOM?",
+  "pt": "Ei, MARIO! Sou eu, o FOTTO!\\pQuer uma foto da sua passagem pelo JUNGLE KINGDOM?"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C244",
+  "en": "ÌÌÌ\\nMARIO! You're back! DONKEY KONG is\\nwaiting.",
+  "pt": ""
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C248",
+  "en": "MARIO! You're back! DONKEY KONG is\\nwaiting.",
+  "pt": "MARIO! Você voltou! O DONKEY KONG está esperando."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C274",
+  "en": "Here we are. Good luck, MARIO.",
+  "pt": "Chegamos. Boa sorte, MARIO."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C293",
+  "en": "CRANKY KONG",
+  "pt": "CRANKY KONG",
+  "max_width": 69
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C29F",
+  "en": "MARIO! It's great to see you again. I've\\nbeen coming up with new material and\\lI've been dying to tell you.",
+  "pt": "MARIO! Que bom te ver de novo. Andei criando material novo e tô doido pra te contar."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C30A",
+  "en": "Where does a KONG go to train their\\nCAPTURES?",
+  "pt": "Aonde um KONG vai pra treinar as suas CAPTURAS?"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C338",
+  "en": "What do you call KONGs that are best\\nfriends?",
+  "pt": "Como se chamam KONGs que são melhores amigos?"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C366",
+  "en": "THE JUNGLE GYM!",
+  "pt": "NA MACACADEMIA!",
+  "max_width": 88
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C376",
+  "en": "PrimAPES!",
+  "pt": "MACAMIGOS!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C380",
+  "en": "I bet you want another flyer, MARIO!\\nTake one, I insist!",
+  "pt": "Aposto que você quer outro panfleto, MARIO! Pega um, eu insisto!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C3B9",
+  "en": "CRANKY KONG gives you another flier for\\nhis comedy night.",
+  "pt": "CRANKY KONG te deu outro panfleto da noite de comédia dele."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C3F3",
+  "en": "Anyway!",
+  "pt": "Enfim!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C3FB",
+  "en": "Ahem!",
+  "pt": "Hum-hum!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C401",
+  "en": "He's the leader of the bunch! You know\\nhim well!",
+  "pt": "Ele é o líder do bando! Vocês conhecem ele bem!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C432",
+  "en": "ALL",
+  "pt": "CORO",
+  "max_width": 24
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C436",
+  "en": "D! K!\\pDONKEY! KONG!",
+  "pt": "D! K!\\pDONKEY! KONG!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C44F",
+  "en": "D! K!\\pDONKEY KONG HAS LOST!",
+  "pt": "D! K!\\pDONKEY KONG PERDEU!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C46B",
+  "en": "Well, that's a shame, but I'm not\\nsurprised.",
+  "pt": "Bom, que pena, mas não estou surpreso."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C498",
+  "en": "DK, why don't you make like a banana and\\nsplit.",
+  "pt": "DK, por que você não dá uma de banana split e se manda daqui."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C4C8",
+  "en": "I believe this belongs to you.",
+  "pt": "Acredito que isto pertence a você."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C4EE",
+  "en": "Come by J-Apes to see my show!",
+  "pt": "Passe no J-Apes pra ver o meu show!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C50D",
+  "en": "OOO!",
+  "pt": "OOO!",
+  "max_width": 28
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C512",
+  "en": "Greetings. You must be MARIO, no?\\pAre you ready to face DONKEY KONG in a\\nWILD BATTLE?",
+  "pt": "Saudações. Você deve ser o MARIO, não?\\pEstá pronto para enfrentar o DONKEY KONG numa BATALHA SELVAGEM?"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C568",
+  "en": "Then I suggest you turn back and\\nprepare yourself.",
+  "pt": "Então sugiro que volte e se prepare."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C59B",
+  "en": "Very well. Please follow me.",
+  "pt": "Muito bem. Por favor, me acompanhe."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C5B8",
+  "en": "MARIO! What a surprise to see you SWING\\nby!",
+  "pt": "MARIO! Que surpresa ver você DAR UM PULO por aqui!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C5E4",
+  "en": "No? Like swinging on vines and tree\\nbranches?\\pYou're right, I'm just trying to be…",
+  "pt": "Não? Tipo pular de cipó em cipó e de galho em galho?\\pVocê tem razão, só estou tentando ser…"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C637",
+  "en": "U-CHEEKY!",
+  "pt": "SAPECA!",
+  "max_width": 58
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C641",
+  "en": "{FONT 00}I knew you all were going to love that-I\\nhad that planned for a while-and using\\lit with a bait and switch-that's\\lgreat-I'm hilarious-here's a flier.",
+  "pt": "{FONT 00}Eu sabia que vocês iam adorar essa-eu planejei faz um tempão-e usar ela com uma pegadinha-isso é genial-eu sou hilário-aqui está um panfleto."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C6D9",
+  "en": "Now, DONKEY KONG. What did I tell you\\nabout throwing yourself into battle?",
+  "pt": "Agora, DONKEY KONG. O que eu te disse sobre se jogar de cabeça na batalha?"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C724",
+  "en": "That's right, only losers do that.",
+  "pt": "Isso mesmo, só perdedores fazem isso."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C747",
+  "en": "Well as much as I hate to admit it,\\nDONKEY KONG, and by extension, the\\lKONGS, have lost to both the MARIO\\lbrothers.",
+  "pt": "Bom, por mais que eu odeie admitir, o DONKEY KONG, e por tabela os KONGS, perderam para os dois irmãos MARIO."
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C7BB",
+  "en": "MARIO received the JUNGLE KINGDOM\\nPOWER STAR!",
+  "pt": "MARIO recebeu a ESTRELA DE PODER do JUNGLE KINGDOM!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C7E9",
+  "en": "And don't forget this!",
+  "pt": "E não se esqueça disto!"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C800",
+  "en": "Wait, that gave me an idea…\\pWhat do you call a plumber struggling on\\na clogged toilet?",
+  "pt": "Espera, isso me deu uma ideia…\\pComo se chama um encanador sofrendo numa privada entupida?"
+ },
+ {
+  "map": "8.19 JUNGLE VILLAGE",
+  "offset": "035C857",
+  "en": "HEAVY DOODY!",
+  "pt": "ENCANA-DOR!",
+  "max_width": 73
+ },
+ {
+  "map": "8.21 BANANA TEMPLE",
+  "offset": "0360BE3",
+  "en": "Now then…",
+  "pt": "Pois bem…"
+ },
+ {
+  "map": "8.21 BANANA TEMPLE",
+  "offset": "0360BED",
+  "en": "I am the GUARDIAN of the GOLDEN\\nBANANA, and keeper of the ways of the\\lWILD BATTLE.\\pWould you like me to teach your\\nCAPTURES a special move?",
+  "pt": "Eu sou o GUARDIÃO da BANANA DOURADA e mestre dos caminhos da BATALHA SELVAGEM.\\pGostaria que eu ensinasse um golpe especial às suas CAPTURAS?"
+ },
+ {
+  "map": "8.21 BANANA TEMPLE",
+  "offset": "0360D37",
+  "en": "You'd like to stop? Come back later if\\nyou change your mind, then.",
+  "pt": "Quer parar? Então volte mais tarde, se mudar de ideia."
+ },
+ {
+  "map": "8.21 BANANA TEMPLE",
+  "offset": "0360D7A",
+  "en": "You'd like me to teach the move\\n{STR_VAR_1}?",
+  "pt": "Gostaria que eu ensinasse o golpe {STR_VAR_1}?"
+ },
+ {
+  "map": "8.21 BANANA TEMPLE",
+  "offset": "0360D9E",
+  "en": "There we go. Make sure to use it wisely.",
+  "pt": "Pronto. Use-o com sabedoria."
+ },
+ {
+  "map": "8.21 BANANA TEMPLE",
+  "offset": "0360DC7",
+  "en": "Oh, you've changed your mind?\\pOr would you like to select a different\\nmove?",
+  "pt": "Ah, mudou de ideia?\\pOu gostaria de escolher outro golpe?"
+ },
+ {
+  "map": "9.0 W. 1 UNDERGROUND",
+  "offset": "02C7EB3",
+  "en": "Did you see my BALD CLEFT? You can get\\none for yourself if you break some of\\lthe rocks around here with your HAMMER!",
+  "pt": "Viu o meu BALD CLEFT? Você pode conseguir um também se quebrar algumas pedras por aqui com o seu MARTELO!"
+ },
+ {
+  "map": "9.1 W. 1 UNDERGROUND",
+  "offset": "02C8073",
+  "en": "This is bad! We gotta tell the boss!",
+  "pt": "Isso é ruim! Temos que avisar o chefe!"
+ },
+ {
+  "map": "9.1 W. 1 UNDERGROUND",
+  "offset": "02C80A9",
+  "en": "Defeated",
+  "pt": "Derrotado"
+ },
+ {
+  "map": "9.1 W. 1 UNDERGROUND",
+  "offset": "02C80E1",
+  "en": "Hohoho! Well done taking down my\\nevolved CAPTURE! Here, let me heal your\\lparty as a reward.",
+  "pt": "Hohoho! Muito bem, você derrotou minha CAPTURA evoluída! Tome, deixe eu curar a sua equipe como recompensa."
+ },
+ {
+  "map": "9.1 W. 1 UNDERGROUND",
+  "offset": "02C813D",
+  "en": "The exit to the warp pipe is just up\\nahead, you're in the home stretch!",
+  "pt": "A saída para o cano warp fica logo à frente, você está na reta final!"
+ },
+ {
+  "map": "9.2 W. 1 UNDERGROUND",
+  "offset": "02C823C",
+  "en": "That's right! You can fish in lava.\\nThough you won't be hooking much more\\lthan PODOBOO…",
+  "pt": "Isso mesmo! Dá pra pescar na lava. Mas você não vai fisgar muita coisa além de PODOBOO…"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC3DC",
+  "en": "Ever since the WARP PIPE has been\\nacting up, TOSTARENA has been getting\\la lot more tourism. So I guess I can't\\lreally complain.",
+  "pt": "Desde que o CANO WARP começou a dar problema, TOSTARENA tem recebido muito mais turistas. Então acho que não posso reclamar."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC493",
+  "en": "There aren't actually any SANDSTORMs\\naround here. You should be more\\lconcerned about the harsh sun.",
+  "pt": "Na verdade, não tem nenhuma TEMPESTADE DE AREIA por aqui. Você devia se preocupar mais com o sol forte."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC536",
+  "en": "I don't think this stretch of the\\ndesert is too big. Shouldn't be much\\llonger 'til I arrive in TOSTARENA.",
+  "pt": "Acho que este trecho do deserto não é tão grande. Não deve faltar muito pra eu chegar em TOSTARENA."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC5A0",
+  "en": "Looking to get into TOSTARENA?",
+  "pt": "Quer entrar em TOSTARENA?"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC5BF",
+  "en": "Go on!",
+  "pt": "Pode ir!"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC5C6",
+  "en": "TOSTARENA is right ahead, enjoy the\\ntown!",
+  "pt": "TOSTARENA fica logo à frente, aproveite a cidade!"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC614",
+  "en": "Traversing the desert really takes a\\ntoll on the body.",
+  "pt": "Atravessar o deserto realmente acaba com o corpo."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC64B",
+  "en": "Can we please go now?",
+  "pt": "Será que dá pra gente ir agora?"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC661",
+  "en": "Not until he stops counting.",
+  "pt": "Só quando ele parar de contar."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC699",
+  "en": "Come on, he's using letters now…",
+  "pt": "Ah, qual é, agora ele tá usando letras…"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC6BA",
+  "en": "Count how much sand there is, GRUNT.\\nThat's your first mission.",
+  "pt": "Conte quanta areia tem aqui, RECRUTA. Essa é a sua primeira missão."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC6FA",
+  "en": "OK.",
+  "pt": "OK.",
+  "max_width": 21
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC707",
+  "en": "Why would you make him do that?",
+  "pt": "Por que você faz ele fazer isso?"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC72D",
+  "en": "It passes the time.",
+  "pt": "Ajuda a passar o tempo."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC741",
+  "en": "It's gonna take so loooooooong.",
+  "pt": "Isso vai demorar muiiiiiiiito."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC76D",
+  "en": "KOOPATROL…",
+  "pt": "KOOPATROL…",
+  "max_width": 66
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC780",
+  "en": "It's going to be so annoying…",
+  "pt": "Vai ser tão chato…"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC79E",
+  "en": "I'm curious what the biggest number is.",
+  "pt": "Fico curioso pra saber qual é o maior número."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC812",
+  "en": "There are only 30 million sand particles\\nin this desert.",
+  "pt": "Só tem 30 milhões de grãos de areia neste deserto."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC84B",
+  "en": "See, that was easy.",
+  "pt": "Viu, foi fácil."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC85F",
+  "en": "Oh my stars…",
+  "pt": "Minha nossa…"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC86C",
+  "en": "Trainer 6",
+  "pt": "Treinador 6"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC876",
+  "en": "Defeated",
+  "pt": "Derrotado"
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC87F",
+  "en": "Defeated.",
+  "pt": "Derrotado."
+ },
+ {
+  "map": "9.3 WORLD 6-1",
+  "offset": "02CC889",
+  "en": "TOSTARENA TOWER - Rest stop for\\ntravelers!",
+  "pt": "TORRE TOSTARENA - Parada de descanso para viajantes!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8E0A",
+  "en": "Your party was healed!",
+  "pt": "Sua equipe foi curada!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8E2B",
+  "en": "It seems the rock wasn't the only\\nmystery this tower was holding! Never\\lthought we'd find a way to the top…",
+  "pt": "Parece que a pedra não era o único mistério que esta torre guardava! Nunca pensei que acharíamos um caminho até o topo…"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8E97",
+  "en": "This rock is quite mysterious. It seems\\nto have special healing properties,\\lmaking this a rest stop of sorts for\\ltravelers.",
+  "pt": "Esta pedra é bem misteriosa. Parece ter propriedades curativas especiais, o que torna este lugar uma espécie de parada de descanso para viajantes."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8F21",
+  "en": "Oh, MARIO…",
+  "pt": "Ah, MARIO…"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8F2C",
+  "en": "I hate to admit it, but I'm not quite up\\nto the C.A.P. CHALLENGE. I feel bad for\\lmy JABBLE partner though. Would you\\lmind taking them with you, MARIO?",
+  "pt": "Odeio admitir, mas não estou à altura do DESAFIO C.A.P. Só fico com pena do meu parceiro JABBLE. Você se importaria de levá-lo com você, MARIO?"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8FC3",
+  "en": "Thanks, MARIO!",
+  "pt": "Valeu, MARIO!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8FD2",
+  "en": "{PLAYER} received JABBLE!",
+  "pt": "{PLAYER} recebeu JABBLE!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C8FE6",
+  "en": "JABBLE was sent to the PC.",
+  "pt": "JABBLE foi enviado ao PC."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9001",
+  "en": "Aw…",
+  "pt": "Ah…"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9005",
+  "en": "Hey MARIO!\\pHow's my JABBLE doing?",
+  "pt": "Ei, MARIO!\\pComo vai o meu JABBLE?"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9034",
+  "en": "I knew it! I knew there was a way up the\\ntower! I can't wait 'til someone gets up\\lthere and gives KAMEK what's coming to\\lhim!",
+  "pt": "Eu sabia! Eu sabia que tinha um jeito de subir na torre! Mal posso esperar alguém chegar lá em cima e dar ao KAMEK o que ele merece!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C90B2",
+  "en": "Feeling lost, MARIO? I've heard we\\nshould check ALL the rocks in here, but\\lI don't know why.",
+  "pt": "Perdido, MARIO? Ouvi dizer que devemos examinar TODAS as pedras aqui dentro, mas não sei por quê."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C910F",
+  "en": "I wonder what's up with this tower… I\\ncan't understand a single thing on\\lthese weird rocks.",
+  "pt": "O que será que essa torre tem… Não consigo entender nada nessas pedras estranhas."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C916B",
+  "en": "I was told that I could get to METRO\\nKINGDOM through this tower, but there's\\lno way to the top! What a scam!",
+  "pt": "Me disseram que eu podia chegar ao METRO KINGDOM por esta torre, mas não tem como subir até o topo! Que golpe!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C91D8",
+  "en": "A way up! Finally, I can get out of here!",
+  "pt": "Um caminho pra cima! Finalmente posso sair daqui!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9202",
+  "en": "I'm sorry, but the path to METRO\\nKINGDOM has been closed off by KAMEK.\\pIf only there was something we could\\ndo…",
+  "pt": "Sinto muito, mas o caminho para o METRO KINGDOM foi bloqueado pelo KAMEK.\\pSe ao menos houvesse algo que pudéssemos fazer…"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9272",
+  "en": "The way up is back! Now we can finally\\ncommunicate with METRO KINGDOM again\\land get these tourists out of here!",
+  "pt": "O caminho pra cima voltou! Agora finalmente podemos nos comunicar com o METRO KINGDOM de novo e tirar esses turistas daqui!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C92E2",
+  "en": "The tower's secret has already been\\nunlocked.",
+  "pt": "O segredo da torre já foi desvendado."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9310",
+  "en": "There's something engraved on the\\nrock…",
+  "pt": "Tem algo gravado na pedra…"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9338",
+  "en": "Touch the strange marking?",
+  "pt": "Tocar na marca estranha?"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9353",
+  "en": "Something jumped out to attack you!",
+  "pt": "Algo saltou para te atacar!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9377",
+  "en": "You heard a clicking noise!",
+  "pt": "Você ouviu um clique!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9393",
+  "en": "You decided to not touch the rock.",
+  "pt": "Você decidiu não tocar na pedra."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C93B6",
+  "en": "II",
+  "pt": "II",
+  "max_width": 18
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C93B9",
+  "en": "I…I",
+  "pt": "I…I",
+  "max_width": 24
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C93C5",
+  "en": "Something changed in the tower!",
+  "pt": "Algo mudou na torre!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C93E5",
+  "en": "Hey, MARIO! You better come over here.",
+  "pt": "Ei, MARIO! É melhor você vir até aqui."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C940C",
+  "en": "Strange rocks, right? Don't worry if you\\ncan't solve their riddles, the ancient\\lTOSTARENAN language has been lost for\\lyears.\\pI called up an archaeologist to help us\\nout with the tower, and they should be\\lhere at any moment.",
+  "pt": "Pedras estranhas, né? Não se preocupe se não conseguir resolver os enigmas delas, a antiga língua tostarenense se perdeu há anos.\\pChamei um arqueólogo pra nos ajudar com a torre, deve chegar a qualquer momento."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C94EC",
+  "en": "That should be them now. CAPTAIN! Over\\nhere!",
+  "pt": "Deve ser ele agora. CAPITÃO! Aqui!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9519",
+  "en": "CAPTAIN TOAD",
+  "pt": "CAPTAIN TOAD",
+  "max_width": 75
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9526",
+  "en": "MARIO! You're here too?",
+  "pt": "MARIO! Você também está aqui?"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C953E",
+  "en": "You know the CAPTAIN, MARIO?",
+  "pt": "Você conhece o CAPITÃO, MARIO?"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C955B",
+  "en": "Of course we know each other! We just\\nwent through the entire JUNGLE\\lKINGDOM together!",
+  "pt": "Claro que a gente se conhece! A gente acabou de atravessar o JUNGLE KINGDOM inteiro juntos!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C95B2",
+  "en": "So that's what had you away for so long,\\neh? Well never mind that, we've got a\\lpuzzle that needs solving!",
+  "pt": "Então foi isso que te deixou fora tanto tempo, hein? Bom, deixa isso pra lá, temos um quebra-cabeça pra resolver!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C961C",
+  "en": "Right, the TOSTARENAN ROCKS, right?\\nThis one is easy.\\pAll you gotta do is touch all of the\\nrocks and then go to the center one!",
+  "pt": "Certo, as PEDRAS TOSTARENENSES, né? Essa é fácil.\\pÉ só tocar em todas as pedras e depois ir na do centro!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C969C",
+  "en": "Huh? You already touched all the rocks?\\nPerfect! Then all we gotta do is touch\\lthis one, and the way should open.",
+  "pt": "Hã? Você já tocou em todas as pedras? Perfeito! Então é só tocar nesta aqui e o caminho deve abrir."
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C970E",
+  "en": "Woah! Where'd that ladder come from?",
+  "pt": "Uau! De onde saiu essa escada?"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9733",
+  "en": "Hah! I knew it! That'll lead you right to\\nthe top of the TOWER!",
+  "pt": "Rá! Eu sabia! Isso vai te levar direto ao topo da TORRE!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C9773",
+  "en": "You want me to come with you again?\\nSorry MARIO, but I gotta be heading\\lback into the desert. Besides, you\\lshouldn't rely on me so much.\\pI'm sure we'll get a chance to work\\ntogether again sometime in the future,\\lbut for now, it's goodbye once more!",
+  "pt": "Quer que eu vá com você de novo? Desculpa, MARIO, mas tenho que voltar pro deserto. Além disso, você não devia depender tanto de mim.\\pTenho certeza de que vamos ter a chance de trabalhar juntos de novo no futuro, mas por enquanto, é tchau mais uma vez!"
+ },
+ {
+  "map": "9.4 TOSTARENA TOWER",
+  "offset": "02C986C",
+  "en": "Gone, just like that.\\pWell, you better not waste any time.\\nKAMEK is up there, and he needs to be\\lstopped!",
+  "pt": "Sumiu, assim do nada.\\pBom, é melhor você não perder tempo. O KAMEK está lá em cima, e ele precisa ser detido!"
+ },
+ {
+  "map": "9.6 TOSTARENA TOWER",
+  "offset": "02C994B",
+  "en": "Why is it so c-cold…",
+  "pt": "Por que está tão f-frio…"
+ },
+ {
+  "map": "9.6 TOSTARENA TOWER",
+  "offset": "02C9960",
+  "en": "MARIO! Hurry, I think I'm gonna freeze\\nto death. Point me to the way out of\\lhere!",
+  "pt": "MARIO! Rápido, acho que vou congelar até a morte. Me mostra a saída daqui!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02C9FD9",
+  "en": "Whew… Am I almost to the tower? I need\\nto get to METRO KINGDOM as fast as\\lpossible!",
+  "pt": "Ufa… Já estou chegando na torre? Preciso chegar ao METRO KINGDOM o mais rápido possível!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA02D",
+  "en": "Hey there, come on in! We've got a rest\\nstop set up inside for estranged\\ltourists.",
+  "pt": "Olá, pode entrar! Montamos uma parada de descanso lá dentro para turistas perdidos."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA080",
+  "en": "Wow… the desert sure is vast. Hard to\\nimagine crossing it all.",
+  "pt": "Nossa… o deserto é imenso mesmo. Difícil imaginar atravessar ele todo."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA0BF",
+  "en": "Isn't the TOSTARENA desert amazing?\\nThere's so much history to explore\\lhere!",
+  "pt": "O deserto de TOSTARENA não é incrível? Tem tanta história pra explorar aqui!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA111",
+  "en": "Alright local heroes!\\nLet's use our powers for good!",
+  "pt": "Muito bem, heróis locais! Vamos usar nossos poderes para o bem!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA14A",
+  "en": "Sometimes I'll play along in KIDD's\\ngames, if it means getting out of work.",
+  "pt": "Às vezes eu entro nas brincadeiras do KIDD, se isso me livrar do trabalho."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA196",
+  "en": "PAPA T.",
+  "pt": "PAPA T.",
+  "max_width": 42
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA19E",
+  "en": "KIDD over there likes playing heroes\\nwith us. Who am I to say no, he even gave\\lus rocks glued to nuts.",
+  "pt": "O KIDD ali adora brincar de herói com a gente. Quem sou eu pra dizer não, ele até deu pra gente pedras coladas em nozes."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA209",
+  "en": "Meow.",
+  "pt": "Miau."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA20F",
+  "en": "Don't tell them I can talk.",
+  "pt": "Não conta pra eles que eu falo."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA230",
+  "en": "SMASH! SMASH!! SMASH!!!",
+  "pt": "ESMAGA! ESMAGA!! ESMAGA!!!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA253",
+  "en": "What does the young KOOPA KING even\\nwant with these… UMBRELLAS? Better\\lnot to question his orders actually.",
+  "pt": "O que o jovem REI KOOPA quer com esses… GUARDA-CHUVAS? Melhor não questionar as ordens dele, na verdade."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA2BF",
+  "en": "Huh? MARIO? I'm not doing anything\\nsinister, I promise!",
+  "pt": "Hã? MARIO? Não estou fazendo nada de suspeito, eu juro!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA2F7",
+  "en": "The young lord is gonna kill me…",
+  "pt": "O jovem lorde vai me matar…"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA318",
+  "en": "Is this what I was meant to snatch?\\nDoesn't look very important…",
+  "pt": "Era isso que eu tinha que roubar? Não parece muito importante…"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA359",
+  "en": "What's that? What am I doing in this\\ncorner? Nothing, now scram!",
+  "pt": "O que foi? O que eu tô fazendo neste canto? Nada, agora some daqui!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA39A",
+  "en": "Oh nonono… This is NOT going to end well\\nfor me. I'll make sure you regret this,\\lMARIO!",
+  "pt": "Ah, não não não… Isso NÃO vai acabar bem pra mim. Vou fazer você se arrepender disso, MARIO!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA3F2",
+  "en": "It seems the KOOPA dropped something…",
+  "pt": "Parece que o KOOPA deixou cair alguma coisa…"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA418",
+  "en": "MARIO picked up two UMBRELLAS!",
+  "pt": "MARIO pegou dois GUARDA-CHUVAS!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA437",
+  "en": "Better return these to their rightful\\nowner!",
+  "pt": "Melhor devolver isto ao dono!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA464",
+  "en": "Sorry, we can't let you pass MARIO.\\pThe sandstorm between TOSTARENA and\\nSARASALAND makes traveling too\\lchallenging.\\pMaybe come back in, say, months from\\nnow once the dust has settled?",
+  "pt": "Desculpe, não podemos deixar você passar, MARIO.\\pA tempestade de areia entre TOSTARENA e SARASALAND torna a viagem difícil demais.\\pQue tal voltar daqui a, sei lá, alguns meses, quando a poeira baixar?"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA51C",
+  "en": "Hey! Thanks to you, we were able to\\nunfreeze everyone! Thanks so much!",
+  "pt": "Ei! Graças a você, conseguimos descongelar todo mundo! Muito obrigado!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA563",
+  "en": "Get that wand away from KAMEK, please!",
+  "pt": "Tire aquela varinha do KAMEK, por favor!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA58A",
+  "en": "Hey there!",
+  "pt": "Olá!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA5A0",
+  "en": "Did you come from TOAD TOWN? Sorry\\nabout the WARP PIPE not working\\lproperly. We've been running into some\\lissues and could really use the help.",
+  "pt": "Você veio da CIDADE TOAD? Desculpe pelo CANO WARP não estar funcionando direito. Estamos enfrentando alguns problemas e uma ajuda viria muito bem."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA630",
+  "en": "All the tourists bound for METRO\\nKINGDOM are getting a little antsy\\labout being blocked in.",
+  "pt": "Todos os turistas que estão indo para o METRO KINGDOM estão ficando meio impacientes por estarem presos aqui."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA68C",
+  "en": "And lastly, we have KAMEK trying to\\nfreeze the entire desert!",
+  "pt": "E, por último, temos o KAMEK tentando congelar o deserto inteiro!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA6CA",
+  "en": "What's gonna happen to our trip to\\nMETRO KINGDOM?",
+  "pt": "O que vai acontecer com a nossa viagem ao METRO KINGDOM?"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA6FC",
+  "en": "Don't worry! TOADSWORTH will figure\\nsomething out!",
+  "pt": "Não se preocupe! O TOADSWORTH vai dar um jeito!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA72F",
+  "en": "MARIO, is that you! Thank goodness, our\\ntrip is saved!",
+  "pt": "MARIO, é você! Ainda bem, nossa viagem está salva!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA766",
+  "en": "Tch… I didn't even wanna go to METRO\\nKINGDOM in the first place, and now I'm\\lstuck in this unbearable desert!",
+  "pt": "Tsc… Eu nem queria ir pro METRO KINGDOM, pra começo de conversa, e agora tô preso neste deserto insuportável!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA7D4",
+  "en": "Welcome to TOSTARENA! Sorry about the\\nPIPE issue, although you can still get\\lto METRO KINGDOM through the painting\\lin the TOWER!",
+  "pt": "Bem-vindo a TOSTARENA! Desculpe pelo problema no CANO, mas você ainda pode chegar ao METRO KINGDOM pelo quadro na TORRE!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA855",
+  "en": "TOADSWORTH",
+  "pt": "TOADSWORTH",
+  "max_width": 66
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA860",
+  "en": "Ah, MASTER MARIO! Thank you so much for\\nrescuing my cohort. Thanks to you, we\\lcan get back to our trip to the METRO\\lKINGDOM.\\pHere, take this is a token of our\\nappreciation.",
+  "pt": "Ah, MESTRE MARIO! Muito obrigado por resgatar o meu companheiro. Graças a você, podemos retomar a nossa viagem ao METRO KINGDOM.\\pTome, aceite isto como um símbolo da nossa gratidão."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA90D",
+  "en": "That item is one of the PRINCESS'\\nfavorite TMs! It contains the move\\lRETURN, and I am certain you can put it\\lto good use.\\pNow then, I must escort these toads to\\nNEW DONK CITY, posthaste!",
+  "pt": "Esse item é um dos TMs favoritos da PRINCESA! Ele contém o golpe RETORNO, e tenho certeza de que você saberá usá-lo bem.\\pPois bem, preciso escoltar estes TOADs até NEW DONK CITY, sem demora!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CA9C8",
+  "en": "MASTER MARIO, have you had any luck\\nfinding any of the TOADs?",
+  "pt": "MESTRE MARIO, teve alguma sorte em encontrar algum dos TOADs?"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAA06",
+  "en": "MASTER MARIO! Were you also attempting\\nto go to the METRO KINGDOM?",
+  "pt": "MESTRE MARIO! Você também estava tentando ir ao METRO KINGDOM?"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAA49",
+  "en": "I was given the duty of bringing this\\ngroup of TOADs there as well, although\\lit seems we've found ourselves stuck\\lhere.",
+  "pt": "Recebi a missão de levar este grupo de TOADs até lá também, mas parece que ficamos presos aqui."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAAC1",
+  "en": "What's worse, some of our group has\\ngotten lost in the desert! MASTER\\lMARIO, I wish to ask for your help in\\lthis matter, although I feel I must\\ltest you in order to ensure you are\\lprepared for the harsh desert.\\pAre you ready to do battle?",
+  "pt": "Pior ainda, alguns do nosso grupo se perderam no deserto! MESTRE MARIO, gostaria de pedir a sua ajuda nesta questão, embora sinta que devo testá-lo para ter certeza de que está preparado para o deserto implacável.\\pEstá pronto para a batalha?"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CABB0",
+  "en": "Do your best, MASTER MARIO!",
+  "pt": "Dê o seu melhor, MESTRE MARIO!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CABCC",
+  "en": "Stupendous job, MASTER MARIO.",
+  "pt": "Trabalho estupendo, MESTRE MARIO."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CABEA",
+  "en": "No worries, come back when you are\\nbetter equipped.",
+  "pt": "Sem problemas, volte quando estiver mais bem preparado."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAC1E",
+  "en": "MASTER MARIO, are you sufficiently\\nprepared this time?",
+  "pt": "MESTRE MARIO, está suficientemente preparado desta vez?"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAC55",
+  "en": "Excellent job as always, MASTER MARIO.\\nI apologize for testing you, but I felt\\lit necessary.\\pNow then, about the lost TOADs.",
+  "pt": "Excelente trabalho, como sempre, MESTRE MARIO. Peço desculpas por testá-lo, mas achei necessário.\\pAgora, quanto aos TOADs perdidos."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CACD2",
+  "en": "I've marked down their likely locations\\nin your QUEST BOOK. I hope you are able\\lto deliver them to safety.",
+  "pt": "Marquei os lugares onde eles provavelmente estão no seu LIVRO DE MISSÕES. Espero que consiga levá-los em segurança."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAD3D",
+  "en": "Hey, thanks again! That quicksand came\\nout of nowhere…",
+  "pt": "Ei, valeu de novo! Aquela areia movediça surgiu do nada…"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAD74",
+  "en": "Thanks for finding me, MARIO! That\\nledge was scary, but TOADSWORTH is even\\lscarier when upset!",
+  "pt": "Obrigado por me encontrar, MARIO! Aquela beirada dava medo, mas o TOADSWORTH bravo dá ainda mais medo!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CADD3",
+  "en": "The tower is all-consuming… I don't\\nthink I wanna go to METRO KINGDOM if it\\linvolves going back in there.",
+  "pt": "A torre é sufocante… Acho que não quero mais ir pro METRO KINGDOM se isso envolver voltar lá pra dentro."
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAE3D",
+  "en": "TOSTARENA CAPTURE CENTER",
+  "pt": "CENTRO CAPTURA DE TOSTARENA"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAE56",
+  "en": "TOSTARENA GENERAL STORE",
+  "pt": "ARMAZÉM DE TOSTARENA"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAE74",
+  "en": "Hey, it's MARIO!\\pDo you know me? Not yet but you're\\nabout to!\\pMy name is FRANK OTTO, but you can call\\nme FOTTO! I like to take pictures of\\lpeople playing the C.A.P. CHALLENGE!\\pMay I take a photo of you and upload it\\nonline?",
+  "pt": "Ei, é o MARIO!\\pVocê me conhece? Ainda não, mas vai conhecer!\\pMeu nome é FRANK OTTO, mas pode me chamar de FOTTO! Eu gosto de tirar fotos das pessoas jogando o DESAFIO C.A.P.!\\pPosso tirar uma foto sua e postar na internet?"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAF54",
+  "en": "Your photo in TOSTARENA should be\\nposted now!\\pJust go to my account\\nfottocap.bsky.social!",
+  "pt": "Sua foto em TOSTARENA já deve estar postada!\\pÉ só ir na minha conta\\nfottocap.bsky.social!"
+ },
+ {
+  "map": "9.7 TOSTARENA",
+  "offset": "02CAFAE",
+  "en": "Hey, MARIO! It's me, FOTTO!\\pWant a picture taken for your time in\\nTOSTARENA?",
+  "pt": "Ei, MARIO! Sou eu, o FOTTO!\\pQuer uma foto da sua passagem por TOSTARENA?"
+ }
+]

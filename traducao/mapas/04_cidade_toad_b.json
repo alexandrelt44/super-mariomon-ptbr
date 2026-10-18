@@ -1,0 +1,537 @@
+[
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BE92E",
+  "en": "MARIO, over here!",
+  "pt": "MARIO, por aqui!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BE940",
+  "en": "This here is TOADETTE. She's the\\ninstructor of the TOAD TOWN Battle\\lSchool!\\pI'll let her take things from here, I\\nreally must be on my way.",
+  "pt": "Esta aqui é a TOADETTE. Ela é a instrutora da Escola de Batalha da CIDADE TOAD!\\pVou deixar que ela continue daqui, eu preciso mesmo ir andando."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BE9D5",
+  "en": "Hi MARIO! I'm the instructor at this\\nBattle School.\\pI'll be offering a number of interesting\\nand unique challenges you can take on\\lfor some fabulous rewards! Of course,\\lthat's only if you can defeat me!",
+  "pt": "Oi, MARIO! Eu sou a instrutora desta Escola de Batalha.\\pVou oferecer vários desafios interessantes e únicos que você pode encarar em troca de recompensas fabulosas! Claro, isso só se você conseguir me derrotar!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEAAD",
+  "en": "I'm sorry, but please approach the\\narena from the left side.",
+  "pt": "Desculpe, mas, por favor, entre na arena pelo lado esquerdo."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEAEA",
+  "en": "Welcome to the Battle School!\\pWould you like to take on TOADETTE's\\ncurrent challenge?",
+  "pt": "Bem-vindo à Escola de Batalha!\\pGostaria de encarar o desafio atual da TOADETTE?"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEB40",
+  "en": "Would you like to enter TOADETTE's 6v6\\nchallenge with your current party?\\pAny members over level 28 will have\\ntheir level automatically adjusted to\\lbe 28.",
+  "pt": "Gostaria de entrar no desafio 6x6 da TOADETTE com sua equipe atual?\\pMembros acima do nível 28 terão o nível ajustado automaticamente para 28."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEBDB",
+  "en": "Good luck on your challenge!",
+  "pt": "Boa sorte no seu desafio!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEBF8",
+  "en": "Would you like to enter TOADETTE's WILD\\nBATTLE challenge with your current\\lparty?\\pAny members over level 36 will have\\ntheir level automatically adjusted to\\lbe 36.",
+  "pt": "Gostaria de entrar no desafio BATALHA SELVAGEM da TOADETTE com sua equipe atual?\\pMembros acima do nível 36 terão o nível ajustado automaticamente para 36."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEC9B",
+  "en": "Would you like to enter TOADETTE's final\\nchallenge with your current party?\\pAny members over level 70 will have\\ntheir level automatically adjusted to\\lbe 70.",
+  "pt": "Gostaria de entrar no desafio final da TOADETTE com sua equipe atual?\\pMembros acima do nível 70 terão o nível ajustado automaticamente para 70."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BED38",
+  "en": "I'm sorry, but you've cleared every\\nchallenge we have available at the\\lmoment.",
+  "pt": "Desculpe, mas você já concluiu todos os desafios disponíveis no momento."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BED87",
+  "en": "Please select your party.",
+  "pt": "Por favor, escolha sua equipe."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEDA1",
+  "en": "Very well. I hope you come try some\\nother time!",
+  "pt": "Muito bem. Espero que volte para tentar outra hora!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEDD1",
+  "en": "Would you like to proceed with this\\nparty?",
+  "pt": "Gostaria de continuar com esta equipe?"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEDFC",
+  "en": "TOADETTE's current challenge is the 3v3\\nbeginner course.\\pYou will bring a party of 3 in a\\nrestricted battle where any party\\lmembers you bring over level 10 will be\\llowered to that level.",
+  "pt": "O desafio atual da TOADETTE é o curso 3x3 para iniciantes.\\pVocê vai levar uma equipe de 3 para uma batalha restrita, em que qualquer membro acima do nível 10 será rebaixado para esse nível."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEEB7",
+  "en": "TOADETTE's current challenge is the 4v4\\nVGC beginner course.\\pThis format is a double battle in which\\nyou will bring a party of 4, and your\\lparty member's levels will be lowered to\\llevel 18.",
+  "pt": "O desafio atual da TOADETTE é o curso VGC 4x4 para iniciantes.\\pNesse formato de batalha dupla, você vai levar uma equipe de 4, e o nível dos membros será reduzido para 18."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BEF75",
+  "en": "TOADETTE's current challenge is the 6v6\\nintermediate course.\\pThis format is a single battle where you\\nwill bring your entire team, and your\\lparty member's levels will be lowered to\\llevel 28.\\pAs a reward for completing this battle,\\nTOADETTE has informed me that she will\\lgive you access to changing the\\lABILITIES of your party members.",
+  "pt": "O desafio atual da TOADETTE é o curso 6x6 intermediário.\\pNesse formato de batalha individual, você leva a equipe inteira, e o nível dos membros será reduzido para 28.\\pComo recompensa por vencer essa batalha, a TOADETTE me avisou que vai liberar a troca de HABILIDADES dos membros da sua equipe."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF0C4",
+  "en": "TOADETTE's current challenge is the\\nWILD BATTLE course.\\pThis format is a double battle where\\nyou will bring your entire team, and your\\lparty's member's levels will be lowered\\lto level 36.\\pThis is the battle format that the\\nKONGS of WORLD 5 use.",
+  "pt": "O desafio atual da TOADETTE é o curso BATALHA SELVAGEM.\\pNesse formato de batalha dupla, você leva a equipe inteira, e o nível dos membros será reduzido para 36.\\pEsse é o formato de batalha que os KONGS do MUNDO 5 usam."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF1B9",
+  "en": "TOADETTE's current challenge is the 3v3\\ndifficult course.\\pThis format is a single battle in which\\nyou will bring a party of 3, and your\\lparty member's levels will be lowered to\\llevel 50.",
+  "pt": "O desafio atual da TOADETTE é o curso 3x3 difícil.\\pNesse formato de batalha individual, você vai levar uma equipe de 3, e o nível dos membros será reduzido para 50."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF274",
+  "en": "TOADETTE's current challenge is the 4v4\\nVGC course.\\pThis format is a double battle in which\\nyou will bring a party of 4, and your\\lparty member's levels will be lowered to\\l50.",
+  "pt": "O desafio atual da TOADETTE é o curso VGC 4x4.\\pNesse formato de batalha dupla, você vai levar uma equipe de 4, e o nível dos membros será reduzido para 50."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF323",
+  "en": "TOADETTE's final challenge is the 6v6\\nall-out battle.\\pI hope you'll give her a good challenge,\\nMARIO.\\pOh, and all of your party member's levels\\nwill be lowered to level 70.",
+  "pt": "O desafio final da TOADETTE é a batalha total 6x6.\\pEspero que você dê trabalho a ela, MARIO.\\pAh, e o nível de todos os membros da sua equipe será reduzido para 70."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF3D0",
+  "en": "So you decided to challenge me, eh\\nMARIO?\\pWell I hope you're ready, because I\\nwon't be holding back!",
+  "pt": "Então você decidiu me desafiar, hein, MARIO?\\pEspero que esteja pronto, porque eu não vou pegar leve!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF443",
+  "en": "You're back!\\pI hope you're ready for a different\\ntype of battle, MARIO.\\pThis here is a double battle!",
+  "pt": "Você voltou!\\pEspero que esteja pronto para um tipo diferente de batalha, MARIO.\\pEsta aqui é uma batalha dupla!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF4A9",
+  "en": "I hope you're ready MARIO.\\pThis time, I'll be holding nothing back!",
+  "pt": "Espero que esteja pronto, MARIO.\\pDesta vez, não vou me segurar nem um pouco!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF4ED",
+  "en": "MARIO! Are you ready to experience the\\nWILD BATTLEs of the KONG KAPITAL?\\pI hope this helps prepare you for WORLD\\n5!",
+  "pt": "MARIO! Está pronto para viver as BATALHAS SELVAGENS da KONG KAPITAL?\\pEspero que isso ajude você a se preparar para o MUNDO 5!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF561",
+  "en": "Hey MARIO! Are you ready for my\\ncompetitive battle format?! 3v3! Level\\l50! Over used CAPTURES!\\pHope you're ready!",
+  "pt": "Ei, MARIO! Pronto para o meu formato competitivo?! 3x3! Nível 50! CAPTURAS do tier OU!\\pEspero que esteja pronto!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF5D3",
+  "en": "MARIO! I hope you're ready for the\\nultimate double battle!\\pWhat's that? WILD BATTLE?\\nNonono, this is a DOUBLE BATTLE.\\pCompletely different things.",
+  "pt": "MARIO! Espero que esteja pronto para a batalha dupla definitiva!\\pComo é? BATALHA SELVAGEM? Nãonãonão, isto é uma BATALHA DUPLA.\\pSão coisas completamente diferentes."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF666",
+  "en": "Well, MARIO. Here we are.\\pThis is the ultimate challenge! Are you\\nready?!",
+  "pt": "Bem, MARIO. Chegamos.\\pEste é o desafio definitivo! Está pronto?!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF6B0",
+  "en": "Tough luck, MARIO!\\nCome back sometime and try again.",
+  "pt": "Que azar, MARIO! Volte outra hora e tente de novo."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF6E5",
+  "en": "How unfortunate.\\nPlease try your luck some other time.",
+  "pt": "Que pena. Por favor, tente a sorte outra hora."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF71C",
+  "en": "Incredible!\\pDefeating me is no easy feat, even at\\nsuch a low level.\\pDid you notice some of my party's\\nspecial traits?\\pKeep winning here, and I may let you in\\non how to up your party's strength to\\lbe like mine!",
+  "pt": "Incrível!\\pMe derrotar não é tarefa fácil, ainda mais num nível tão baixo.\\pVocê reparou em algumas características especiais da minha equipe?\\pContinue vencendo aqui, e talvez eu te conte como deixar sua equipe tão forte quanto a minha!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF7EE",
+  "en": "For now though, here's your reward.",
+  "pt": "Por enquanto, aqui está sua recompensa."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF812",
+  "en": "Congratulations!\\pNot everyone is able to defeat\\nTOADETTE like that.\\pYou should come back soon!\\nIn fact, let me update your quest book…\\lThere! Hope to see you again!",
+  "pt": "Parabéns!\\pNem todo mundo consegue derrotar a TOADETTE desse jeito.\\pVolte logo! Aliás, deixe eu atualizar seu livro de missões… Pronto! Espero ver você de novo!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF8B7",
+  "en": "You've done it again MARIO!\\pI really thought a double battle would\\nthrow you off, but you handled that\\lwonderfully.",
+  "pt": "Você conseguiu de novo, MARIO!\\pEu achei mesmo que uma batalha dupla ia te atrapalhar, mas você se saiu muito bem."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF92B",
+  "en": "Here, take this. It should help you in\\nfuture double battles.",
+  "pt": "Tome, pegue isto. Deve ajudar você em futuras batalhas duplas."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF969",
+  "en": "Congratulations!\\pTOADETTE has given you access to some\\ntutor moves.\\pCheck the leftmost PC to see what you\\ncan learn.",
+  "pt": "Parabéns!\\pA TOADETTE liberou para você alguns golpes de tutor.\\pConfira o PC mais à esquerda para ver o que pode aprender."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BF9DE",
+  "en": "Incredible job, MARIO! Not everyone is\\nable to handle such advanced tactics\\llike that.\\pAnd that's not even mentioning our held\\nitems!\\pHere, take this as a reward.",
+  "pt": "Que trabalho incrível, MARIO! Nem todo mundo consegue lidar com táticas avançadas assim.\\pE isso sem falar nos nossos itens segurados!\\pTome, aceite isto como recompensa."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFA81",
+  "en": "Congratulations!\\pTOADETTE has given you access to some\\nspecial battle items!\\pCheck out the rightmost PC to see what\\nyou can learn.",
+  "pt": "Parabéns!\\pA TOADETTE liberou para você alguns itens especiais de batalha!\\pConfira o PC mais à direita para ver o que está disponível."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFB04",
+  "en": "Great job, MARIO! Were you perhaps\\nalready familiar with the WILD BATTLEs\\lof WORLD 5?\\pRegardless, I hope this was a fruitful\\nbattle for you!",
+  "pt": "Muito bem, MARIO! Será que você já conhecia as BATALHAS SELVAGENS do MUNDO 5?\\pDe qualquer forma, espero que essa batalha tenha sido proveitosa para você!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFB91",
+  "en": "Congratulations!\\pAs a reward, TOADETTE has called in a\\nKONG from the KONG KAPITAL to help\\lprovide you with resources for WILD\\lBATTLEs.\\pPlease make use of the services as you\\nsee fit.",
+  "pt": "Parabéns!\\pComo recompensa, a TOADETTE chamou um KONG da KONG KAPITAL para oferecer recursos para BATALHAS SELVAGENS.\\pFique à vontade para usar os serviços como quiser."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFC48",
+  "en": "You're so strong, MARIO! I can't believe\\nyou managed to beat HALF of my over\\lused team!\\pWhat's that, only half! Well of course,\\nsilly! Everyone knows the REAL battles\\lare in 6v6, not 3v3! Come back again\\lsometime and fight me at my full\\lstrength, will you?",
+  "pt": "Você é forte demais, MARIO! Nem acredito que conseguiu vencer METADE da minha equipe OU!\\pComo assim, só metade? Ora, claro, bobinho! Todo mundo sabe que as batalhas DE VERDADE são 6x6, não 3x3! Volte outra hora e lute comigo com força total, combinado?"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFD49",
+  "en": "Congratulations!\\pAs a reward, the PIANTA on the right\\nside of the room will now sell you his\\lwares!",
+  "pt": "Parabéns!\\pComo recompensa, o PIANTA do lado direito da sala agora vai vender as mercadorias dele para você!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFDAD",
+  "en": "No way, MARIO! You handled that double\\nbattle so well, it's almost as if you've\\ldone an entire world based on the\\lconcept!\\pBut that'd be silly, of course.\\pHere, I want you to have this.",
+  "pt": "Não acredito, MARIO! Você lidou tão bem com aquela batalha dupla que até parece que já passou por um mundo inteiro baseado nesse conceito!\\pMas isso seria bobagem, claro.\\pTome, quero que fique com isto."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFE67",
+  "en": "TOADETTE gave you a bunch of BEANS!",
+  "pt": "A TOADETTE te deu um monte de FEIJÕES!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFE8B",
+  "en": "Those BEANS will raise the EFFORT\\nVALUES of your CAPTURES, making them\\lstronger. Just remember that you can\\lonly have 252 of each in a stat!",
+  "pt": "Esses FEIJÕES aumentam os VALORES DE ESFORÇO (EVs) das suas CAPTURAS, deixando-as mais fortes. Só lembre que cada atributo aceita no máximo 252!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFF18",
+  "en": "Congratulations!\\pWe hope you come back soon to face\\nTOADETTE's final challenge!",
+  "pt": "Parabéns!\\pEsperamos que você volte logo para encarar o desafio final da TOADETTE!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02BFF68",
+  "en": "Incredible, MARIO! That was definitely\\nthe most intense battle I've ever had.\\pI know it may not seem like much, but I\\nwant to give your CAPTURES this RIBBON.\\lPlease, I insist.",
+  "pt": "Incrível, MARIO! Essa foi, sem dúvida, a batalha mais intensa que já tive.\\pSei que pode não parecer grande coisa, mas quero dar esta FITA às suas CAPTURAS. Por favor, eu insisto."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0018",
+  "en": "Your CAPTURES got the SHROOM RIBBON!",
+  "pt": "Suas CAPTURAS ganharam a FITA COGUMELO!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C003D",
+  "en": "TOADETE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0045",
+  "en": "Come back and fight me again anytime\\nyou'd like! I'll battle you whenever!",
+  "pt": "Volte para lutar comigo quando quiser! Eu topo batalhar a qualquer hora!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0090",
+  "en": "Congratulations!\\pI can't believe you managed to defeat\\nTOADETTE's most powerful team! Come\\lback whenever you feel like to fight\\lher again!",
+  "pt": "Parabéns!\\pNem acredito que você derrotou a equipe mais poderosa da TOADETTE! Volte quando quiser para enfrentá-la de novo!"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C011B",
+  "en": "Just as strong as always, huh MAIRO?\\pHere, let me get you those RIBBONs.",
+  "pt": "Forte como sempre, hein, MARIO?\\pTome, deixe eu te dar essas FITAS."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0164",
+  "en": "Excuse me, but please select a\\nchallenge first.",
+  "pt": "Com licença, mas, por favor, escolha um desafio primeiro."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0194",
+  "en": "BATTLE ITEM MACHINE IS CURRENTLY\\nOFFLINE.\\pASK ADMIN FOR ASSISTANCE.",
+  "pt": "A MÁQUINA DE ITENS DE BATALHA ESTÁ OFFLINE NO MOMENTO.\\pPEÇA AJUDA AO ADMINISTRADOR."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C01D8",
+  "en": "BATTLE ITEM MACHINE STATUS: ONLINE",
+  "pt": "STATUS DA MÁQUINA DE ITENS DE BATALHA: ONLINE"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C01FB",
+  "en": "WHAT ITEM WOULD YOU LIKE TO PURCHASE?",
+  "pt": "QUAL ITEM VOCÊ GOSTARIA DE COMPRAR?"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0221",
+  "en": "TUTOR MACHINE IS CURRENTLY OFFLINE.\\nASK ADMIN FOR ASSISTANCE.",
+  "pt": "A MÁQUINA TUTORA ESTÁ OFFLINE NO MOMENTO. PEÇA AJUDA AO ADMINISTRADOR."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C025F",
+  "en": "BEGINNER TUTOR MACHINE STATUS:\\nONLINE",
+  "pt": "STATUS DA MÁQUINA TUTORA PARA INICIANTES: ONLINE"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0285",
+  "en": "WHAT MOVE WOULD YOU LIKE TO LEARN?\\nPRICE: 5000 COINS.",
+  "pt": "QUAL GOLPE VOCÊ GOSTARIA DE APRENDER?\\nPREÇO: 5000 MOEDAS."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C02BB",
+  "en": "WHICH PARTY MEMBER?",
+  "pt": "QUAL MEMBRO DA EQUIPE?"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C02CF",
+  "en": "PROCESS: CANCELLED.",
+  "pt": "PROCESSO: CANCELADO."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C02E3",
+  "en": "PROCESS: COMPLETE.",
+  "pt": "PROCESSO: CONCLUÍDO."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C02F6",
+  "en": "ERROR: NOT ENOUGH COINS.",
+  "pt": "ERRO: MOEDAS INSUFICIENTES."
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C030F",
+  "en": "Ooo aa eee oooo ah?",
+  "pt": ""
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0323",
+  "en": "Welcome. Would you like some WILD\\nBATTLE items?",
+  "pt": "Bem-vindo. Gostaria de alguns itens de BATALHA SELVAGEM?"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0353",
+  "en": "Hey, chum! Wanna buy some of my special\\nbattle items?",
+  "pt": "E aí, camarada! Quer comprar alguns dos meus itens de batalha especiais?"
+ },
+ {
+  "map": "2.7 TOAD TOWN",
+  "offset": "02C0389",
+  "en": "Hey, chum! You wanna buy my wares? Come\\nback when you're a little, mmmm,\\lstronger!\\pI bet you can't even stand up to\\nTOADETTE's OU team!",
+  "pt": "E aí, camarada! Quer comprar minhas mercadorias? Volte quando estiver um pouco, mmmm, mais forte!\\pAposto que você nem aguenta a equipe OU da TOADETTE!"
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0628",
+  "en": "Hey MARIO! What'd you like to do?",
+  "pt": "Ei, MARIO! O que você gostaria de fazer?"
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C064A",
+  "en": "Here at the TROUBLE CENTER, we offer\\nyou various TROUBLES, or QUESTS,\\lposted by the people of the MUSHROOM\\lKINGDOM and beyond.\\pWe won't always have a TROUBLE listed\\nfor you to take on, but I do suggest\\lcoming back periodically to check what\\lwe have.\\pWe also might have some TROUBLEs\\nposted that you may have missed while\\lout exploring the world.\\pIf you ever have any QUESTS marked as\\nneeding a reward that says to come to\\lthe TROUBLE CENTER, we can help you\\lwrap up that QUEST!",
+  "pt": "Aqui na CENTRAL DE PROBLEMAS, oferecemos vários PROBLEMAS, ou MISSÕES, publicados pelo povo do REINO DOS COGUMELOS e de outros lugares.\\pNem sempre vamos ter um PROBLEMA para você resolver, mas sugiro voltar de vez em quando para ver o que temos.\\pTambém pode haver PROBLEMAS publicados que você perdeu enquanto explorava o mundo.\\pSe você tiver alguma MISSÃO com recompensa marcada para retirar na CENTRAL DE PROBLEMAS, podemos ajudar a encerrar essa MISSÃO!"
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0828",
+  "en": "Hey MARIO! First time at the trouble\\ncenter?\\pHere, let me help you get started then.",
+  "pt": "Ei, MARIO! Primeira vez na central de problemas?\\pEntão deixe eu te ajudar a começar."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C087D",
+  "en": "That right there is a QUEST BOOK.\\pWith it, you can keep track of all the\\ntasks you've taken on from people\\laround the MUSHROOM KINGDOM.\\pIn fact, since it's your first time here,\\nlet me get you started.",
+  "pt": "Aquilo ali é um LIVRO DE MISSÕES.\\pCom ele, você acompanha todas as tarefas que aceitou do pessoal do REINO DOS COGUMELOS.\\pAliás, já que é sua primeira vez aqui, deixe eu te dar uma ajuda para começar."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0947",
+  "en": "It seems there's a TOAD trapped in an\\nunderground area of ROUTE 1-1, think\\lyou can go give them a hand?\\pCome back here after completing it, and\\nwe can give you some COINS or other\\lrewards for your time.",
+  "pt": "Parece que tem um TOAD preso numa área subterrânea da ROTA 1-1. Acha que pode dar uma mão?\\pVolte aqui depois de concluir, e podemos te dar algumas MOEDAS ou outras recompensas pelo seu tempo."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0A12",
+  "en": "Hey MARIO! Oh, you already have a QUEST\\nBOOK?\\pWell that certainly speeds things up.\\nHere, a request just came in from a lost\\lTOAD on Route 1-1.",
+  "pt": "Ei, MARIO! Ah, você já tem um LIVRO DE MISSÕES?\\pBom, isso com certeza agiliza as coisas. Olha, acabou de chegar um pedido de um TOAD perdido na ROTA 1-1."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0AA2",
+  "en": "It seems there's a TOAD trapped in an\\nunderground area of route 1-1, think\\lyou can go give them a hand?\\pCome back here after completing it, and\\nwe can give you some COINS or other\\lrewards for your time.",
+  "pt": "Parece que tem um TOAD preso numa área subterrânea da ROTA 1-1. Acha que pode dar uma mão?\\pVolte aqui depois de concluir, e podemos te dar algumas MOEDAS ou outras recompensas pelo seu tempo."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0B6D",
+  "en": "Hey MARIO, we don't have any troubles\\nlisted currently.",
+  "pt": "Ei, MARIO, não temos nenhum problema listado no momento."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0BA5",
+  "en": "Hey MARIO, did you find that TOAD?\\p…I see. So the TOAD wasn't actually\\nlost, and just trying to hide.\\pWell, that's no concern of ours!\\pAs far as we care, the quest is\\ncomplete, so here's your reward.",
+  "pt": "Ei, MARIO, achou aquele TOAD?\\p…Entendi. Então o TOAD não estava perdido de verdade, só estava se escondendo.\\pBom, isso não é problema nosso!\\pNo que nos diz respeito, a missão está concluída, então aqui está sua recompensa."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0C6D",
+  "en": "MARIO obtained 1500 COINS!",
+  "pt": "MARIO obteve 1500 MOEDAS!"
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0C88",
+  "en": "Come back again later and we may have\\nsome new quests ready for you, MARIO.",
+  "pt": "Volte mais tarde, talvez a gente tenha novas missões prontas para você, MARIO."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0CD4",
+  "en": "Sorry MARIO, we don't have any rewards\\navailable for you to pick up at this\\ltime.",
+  "pt": "Desculpe, MARIO, não temos nenhuma recompensa para você retirar no momento."
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0D26",
+  "en": "Hey MARIO. There seems to be a TOAD\\njust outside who REALLY wants to see a\\lYOSHI.\\pWho can blame him though, they're such\\nadorable creatures!",
+  "pt": "Ei, MARIO. Parece que tem um TOAD bem ali fora que quer MUITO ver um YOSHI.\\pE quem pode culpá-lo? Eles são criaturas adoráveis!"
+ },
+ {
+  "map": "2.8 TOAD TOWN",
+  "offset": "02C0DB3",
+  "en": "Sorry MARIO, we don't have any troubles\\nlisted currently.",
+  "pt": "Desculpe, MARIO, não temos nenhum problema listado no momento."
+ },
+ {
+  "map": "2.10 TOAD TOWN",
+  "offset": "02C0EB8",
+  "en": "(He seems to be eating the pieces when\\nshe's not looking.)",
+  "pt": "(Parece que ele come as peças quando ela não está olhando.)"
+ },
+ {
+  "map": "2.11 TOAD TOWN",
+  "offset": "02C0F53",
+  "en": "It's a guide book for SUPER MARIO BROS.\\n3.",
+  "pt": "É um guia de SUPER MARIO BROS. 3."
+ },
+ {
+  "map": "2.11 TOAD TOWN",
+  "offset": "02C0F7E",
+  "en": "It's chock full of copies of SUPER\\nMARIO BROS. 3 for GAMEBOY ADVANCE.",
+  "pt": "Está lotado de cópias de SUPER MARIO BROS. 3 para GAMEBOY ADVANCE."
+ },
+ {
+  "map": "2.11 TOAD TOWN",
+  "offset": "02C0FC4",
+  "en": "A marathon of SUPER MARIO BROS. 3\\nspeedruns is playing.",
+  "pt": "Está passando uma maratona de speedruns de SUPER MARIO BROS. 3."
+ },
+ {
+  "map": "2.11 TOAD TOWN",
+  "offset": "02C0FFC",
+  "en": "I love SUPER MARIO BROS. 3!",
+  "pt": "Eu amo SUPER MARIO BROS. 3!"
+ },
+ {
+  "map": "2.12 TOAD TOWN",
+  "offset": "02C104C",
+  "en": "MARIO! I wish I could be a part of the\\nC.A.P. CHALLENGE!\\pI have to stay in here and watch this\\nscreen.\\pWhy?\\pBecause I was told to.",
+  "pt": "MARIO! Queria tanto participar do DESAFIO C.A.P.!\\pEu tenho que ficar aqui dentro vigiando esta tela.\\pPor quê?\\pPorque me mandaram."
+ },
+ {
+  "map": "2.12 TOAD TOWN",
+  "offset": "02C10CF",
+  "en": "I'm a handyman! That means I'm handy,\\nman!",
+  "pt": "Sou um quebra-galho! Quebro qualquer galho, cara!"
+ },
+ {
+  "map": "2.12 TOAD TOWN",
+  "offset": "02C10FA",
+  "en": "We see a lot of ships come in, but\\nnothing like the ODYSSEY you brought in\\learlier.",
+  "pt": "Vemos muitos navios chegarem, mas nada como a ODYSSEY que você trouxe mais cedo."
+ },
+ {
+  "map": "2.12 TOAD TOWN",
+  "offset": "02C114E",
+  "en": "Zzz…",
+  "pt": ""
+ }
+]

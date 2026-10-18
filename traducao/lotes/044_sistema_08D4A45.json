@@ -1,0 +1,4817 @@
+[
+ {
+  "offset": "08D4A45",
+  "en": "Attacks everything with a\\ndestructive sound wave.",
+  "pt": "Ataca todos ao redor com uma onda sonora destrutiva.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08D4A77",
+  "en": "Locks down the battlefield\\npreventing escape next turn.",
+  "pt": "Tranca o campo de batalha e impede fugas no próximo turno.",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "08D4AAF",
+  "en": "Evades damage, and sharply\\nreduces Attack if struck.",
+  "pt": "Evita o dano e reduz muito o Ataque de quem o tocar.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D4AE4",
+  "en": "Befriend the foe, lowering\\nits Attack without fail.",
+  "pt": "Faz amizade e reduz o Ataque do alvo sem falhar.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08D4B18",
+  "en": "Shares a secret with the\\nfoe, lowering Sp. Atk.",
+  "pt": "Conta um segredo ao alvo e reduz o At. Esp. dele.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "08D4B48",
+  "en": "Whips up a storm of\\ndiamonds. May up Defense.",
+  "pt": "Tempestade de diamantes. Pode subir a Defesa.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08D4B76",
+  "en": "Immerses the foe in heated\\nsteam. May inflict a burn.",
+  "pt": "Envolve o alvo em vapor quente. Pode queimar.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D4BAC",
+  "en": "Uses a warp hole to attack.\\nCan't be evaded.",
+  "pt": "Ataca por um buraco warp. Não pode ser evitado.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D4BD9",
+  "en": "Throws 2 to 5 stars that\\nare sure to strike first.",
+  "pt": "Lança de 2 a 5 estrelas que sempre atacam antes.",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "08D4C0C",
+  "en": "Breathes a special, hot\\nfire. Lowers Sp. Atk.",
+  "pt": "Sopra um fogo especial e quente. Reduz o At. Esp.",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "08D4C3A",
+  "en": "Evades attack, and damages\\nthe foe if struck.",
+  "pt": "Evita ataques e fere o alvo se for golpeado.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D4C68",
+  "en": "Raises the Sp. Def of a\\npartner CAPTURE.",
+  "pt": "Aumenta a Def. Esp. de uma CAPTURA aliada.",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "08D4C91",
+  "en": "Exposes the foe to a pulse\\nthat sharply cuts Sp. Atk.",
+  "pt": "Expõe o alvo a um pulso que reduz muito o At. Esp.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D4CC7",
+  "en": "Lowers the Attack, Sp. Atk\\nand Speed of a poisoned foe.",
+  "pt": "Alvo envenenado perde Ataque, At. Esp. e Velocidade.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D4CFF",
+  "en": "Damages the foe if it uses\\na Fire-type move.",
+  "pt": "Fere o alvo se ele usar um golpe do tipo Fogo.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D4D2C",
+  "en": "Raises Sp. Atk, Sp. Def and\\nSpeed on the 2nd turn.",
+  "pt": "No turno 2, sobe At. Esp., Def. Esp. e Velocidade.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08D4D5F",
+  "en": "Boosts the defenses of\\nthose with Plus or Minus.",
+  "pt": "Eleva as defesas de quem tem Mais ou Menos.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "08D4D90",
+  "en": "Doubles the amount of\\nPrize Money received.",
+  "pt": "Dobra o dinheiro de prêmio recebido.",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "08D4DBC",
+  "en": "Electrifies the ground for\\n5 turns. Prevents sleep.",
+  "pt": "Eletrifica o chão por 5 turnos. Impede o sono.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08D4DF0",
+  "en": "Damages foes by emitting\\na bright flash.",
+  "pt": "Fere os oponentes com um clarão intenso.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08D4E19",
+  "en": "Congratulates you on your\\nspecial day.",
+  "pt": "Parabeniza você pelo seu dia especial.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D4E40",
+  "en": "The user and ally hold hands\\nmaking them happy.",
+  "pt": "O usuário e um aliado dão as mãos e ficam felizes.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D4E70",
+  "en": "Lowers the foe's Attack\\nbefore it can move.",
+  "pt": "Reduz o Ataque do alvo antes que ele aja.",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "08D4E9C",
+  "en": "Rubs its cheecks against\\nthe foe, paralyzing it.",
+  "pt": "Esfrega as bochechas no alvo e o paralisa.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08D4ECD",
+  "en": "The foe is infested and\\nattacked for 4 or 5 turns.",
+  "pt": "Infesta o alvo e o ataca por 4 ou 5 turnos.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08D4F00",
+  "en": "A hard punch that raises\\nthe user's Attack.",
+  "pt": "Um soco forte que aumenta o Ataque do usuário.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "08D4F2C",
+  "en": "Can hit Flying foes, then\\nknocks them to the ground.",
+  "pt": "Atinge alvos do tipo Voador e os derruba no chão.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D4F61",
+  "en": "Those hit by the wave can\\nno longer escape.",
+  "pt": "Quem é atingido pela onda não pode mais fugir.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08D4F8D",
+  "en": "Gathers the energy of the\\nland to attack every foe.",
+  "pt": "Reúne a força da terra e ataca todos os oponentes.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08D4FC1",
+  "en": "Fires a great beam of light\\nthat also hurts the user.",
+  "pt": "Dispara um raio de luz que também fere o usuário.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D4FF7",
+  "en": "Beams of glowing blue light\\nblast both foes.",
+  "pt": "Raios de luz azul brilhante atingem os dois oponentes.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D5024",
+  "en": "Fearsome blades of stone\\nattack both foes.",
+  "pt": "Lâminas de pedra temíveis atacam os dois oponentes.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08D504F",
+  "en": "Scarlet flames torch\\neverything around the user.",
+  "pt": "Chamas escarlates queimam tudo ao redor do usuário.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D5080",
+  "en": "Whips up a storm of leaves.\\nHarshly lowers the Sp. Atk.",
+  "pt": "Tempestade de folhas. Reduz muito o At. Esp.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D50B8",
+  "en": "Restores the user's HP.\\nMore HP in a sandstorm.",
+  "pt": "Restaura HP. Cura mais em tempestade de areia.",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "08D50E8",
+  "en": "Hits hard and first.\\nOnly works first turn.",
+  "pt": "Ataca forte e antes. Só no primeiro turno.",
+  "max_lines": 2,
+  "max_width": 123
+ },
+ {
+  "offset": "08D5114",
+  "en": "Protects user and poisons\\nfoes on contact.",
+  "pt": "Protege o usuário e envenena quem o tocar.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D513F",
+  "en": "After being hit, foes can\\nno longer escape.",
+  "pt": "Após o golpe, os oponentes não podem mais fugir.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08D516B",
+  "en": "Swings the arms to strike\\nIt ignores stat changes.",
+  "pt": "Gira os braços e ignora\\nmudanças de atributo.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08D519E",
+  "en": "Sings with bubbles. Cures\\nburns on contact.",
+  "pt": "Canta com bolhas. Cura queimaduras dos atingidos.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08D51CA",
+  "en": "Swings the fist to strike.\\nLowers the user's Speed.",
+  "pt": "Golpeia com o punho. Reduz a Velocidade do usuário.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D51FE",
+  "en": "Restores an ally's HP.\\nHeals more on grass.",
+  "pt": "Restaura HP de aliado. Cura mais na grama.",
+  "max_lines": 2,
+  "max_width": 122
+ },
+ {
+  "offset": "08D522A",
+  "en": "Slams hard into the foe with\\nits entire body.",
+  "pt": "Investe com força contra o alvo com o corpo inteiro.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D5258",
+  "en": "Saps the foe's Attack to\\nheal HP, then drops Attack.",
+  "pt": "Drena o Ataque do alvo para curar HP e o reduz.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D528D",
+  "en": "Charges first turn, then\\nchops with a blade of light.",
+  "pt": "Carrega um turno e depois corta com uma lâmina de luz.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "08D52C3",
+  "en": "Attacks with a flurry of\\nsmall leaves.",
+  "pt": "Ataca com uma rajada de folhinhas.",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "08D52EA",
+  "en": "Makes the foe attack the\\nspotlighted CAPTURE.",
+  "pt": "Faz o oponente atacar a CAPTURA sob o holofote.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08D5318",
+  "en": "Attacks with a thread that\\npoisons and drops Speed.",
+  "pt": "Ataca com um fio que envenena e reduz Velocidade.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D534C",
+  "en": "Guarantees the next move\\nwill be a critical hit.",
+  "pt": "Garante que o próximo golpe seja um golpe crítico.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D537D",
+  "en": "Boosts the attacks of\\nthose with Plus or Minus.",
+  "pt": "Eleva os ataques de quem tem Mais ou Menos.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "08D53AD",
+  "en": "Chops the throat to disable\\nsound moves for a while.",
+  "pt": "Golpeia a garganta e bloqueia golpes sonoros por um tempo.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D53E2",
+  "en": "Explodes on foes, but\\nrestores ally's HP.",
+  "pt": "Explode nos oponentes, mas cura aliados.",
+  "max_lines": 2,
+  "max_width": 122
+ },
+ {
+  "offset": "08D540C",
+  "en": "Strangles the foe with a\\nchain. The foe can't escape.",
+  "pt": "Estrangula o alvo com uma corrente. Ele não pode fugir.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D5442",
+  "en": "The ground turns weird for\\n5 turns. Blocks priority.",
+  "pt": "O chão fica estranho por 5 turnos. Bloqueia prioridade.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08D5477",
+  "en": "Lunges at the foe to lower\\nits Attack stat.",
+  "pt": "Avança contra o alvo e reduz o Ataque dele.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08D54A3",
+  "en": "Whips the foe with fire\\nlowering its Defense.",
+  "pt": "Chicoteia o alvo com fogo e reduz a Defesa.",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "08D54D1",
+  "en": "It hits harder the more\\nstat boosts the user has.",
+  "pt": "Mais forte a cada aumento de atributo do usuário.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D5503",
+  "en": "Burns out the user fully\\nremoving the Fire type.",
+  "pt": "Queima o usuário todo, que perde o tipo Fogo.",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "08D5534",
+  "en": "Swaps user's Speed with\\nthe target's.",
+  "pt": "Troca a Velocidade do usuário com a do alvo.",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "08D555A",
+  "en": "Hits with an accurate\\nhorn that never misses.",
+  "pt": "Golpeia com um chifre preciso que nunca erra.",
+  "max_lines": 2,
+  "max_width": 132
+ },
+ {
+  "offset": "08D5588",
+  "en": "Cures the foe's status\\nto restore HP.",
+  "pt": "Cura o status do alvo para restaurar HP.",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "08D55AE",
+  "en": "Dances with mystical power.\\nMatches user's first type.",
+  "pt": "Dança com poder místico. Tem o tipo principal do usuário.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08D55E5",
+  "en": "Hits with a ray that\\nnullifies the foe's ability.",
+  "pt": "Atinge com um raio que anula a habilidade do alvo.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D5617",
+  "en": "An intense kick from the\\ntropics. Lowers Attack.",
+  "pt": "Um chute intenso dos trópicos. Reduz o Ataque.",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "08D5648",
+  "en": "Orders the target to use\\nits last move again.",
+  "pt": "Ordena que o alvo use de novo seu último golpe.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08D5676",
+  "en": "Heats up beak to attack.\\nBurns foe on contact.",
+  "pt": "Aquece o bico para atacar. Queima quem o tocar.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08D56A5",
+  "en": "Makes a big noise with\\nits scales. Drops Defense.",
+  "pt": "Faz um barulhão com as escamas. Reduz a Defesa.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08D56D7",
+  "en": "Swings its whole body\\nlike a hammer to damage.",
+  "pt": "Balança o corpo como um martelo para ferir.",
+  "max_lines": 2,
+  "max_width": 134
+ },
+ {
+  "offset": "08D5706",
+  "en": "Violently swings around\\nto hurt everyone nearby.",
+  "pt": "Gira com violência e fere todos ao redor.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08D5737",
+  "en": "Weakens all attacks, but\\nonly usable with hail.",
+  "pt": "Enfraquece todo ataque. Só funciona com granizo.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "08D5767",
+  "en": "Sets a shell trap that\\ndamages on contact.",
+  "pt": "Arma armadilha de casco que fere ao contato.",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "08D5792",
+  "en": "A strong ray that harshly\\nlowers Sp. Attack.",
+  "pt": "Um raio forte que reduz muito o At. Esp.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08D57BF",
+  "en": "Chomps with psychic fangs.\\nDestroys any barriers.",
+  "pt": "Morde com presas psíquicas. Destrói qualquer barreira.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D57F1",
+  "en": "Stomps around angrily.\\nStronger after a failure.",
+  "pt": "Pisoteia com raiva. Mais forte após uma falha.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08D5822",
+  "en": "Strikes with a haunted\\nbone. Might drop Defense.",
+  "pt": "Golpe com osso assombrado. Pode reduzir a Defesa.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08D5853",
+  "en": "Hits with a high-speed\\nrock that always goes first.",
+  "pt": "Atinge com uma pedra veloz que sempre ataca primeiro.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D5887",
+  "en": "Slams the foe with water.\\nCan lower Defense.",
+  "pt": "Golpeia o alvo com água. Pode reduzir a Defesa.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08D58B4",
+  "en": "A high power laser that\\nforces recharge next turn.",
+  "pt": "Um laser potente que exige recarga no próximo turno.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D58E7",
+  "en": "Steals the target's stat\\nboosts, then attacks.",
+  "pt": "Rouba os aumentos de atributo do alvo e ataca.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08D5916",
+  "en": "A sun-fueled strike that\\nignores abilities.",
+  "pt": "Um golpe movido a sol que ignora habilidades.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08D5942",
+  "en": "A moon-powered beam that\\nignores abilities.",
+  "pt": "Um raio movido a lua que ignora habilidades.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D596E",
+  "en": "The user tears up, dropping\\nAttack and Sp. Attack.",
+  "pt": "O usuário chora, reduzindo o Ataque e o At. Esp.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "08D59A1",
+  "en": "An electrified impact that\\ncan cause flinching.",
+  "pt": "Um impacto elétrico que pode fazer recuar.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08D59D1",
+  "en": "Halves the foe's HP with\\nthe power of nature.",
+  "pt": "Tira metade do HP do alvo com a força da natureza.",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "08D59FF",
+  "en": "An attack that changes\\nwith Memories.",
+  "pt": "Um ataque que muda conforme as Memórias.",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "08D5A25",
+  "en": "It explodes the user's head\\nto damage everything around.",
+  "pt": "Explode a cabeça do usuário para ferir tudo ao redor.",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "08D5A5E",
+  "en": "Hits with electrical fists.\\nNormal moves become Electric.",
+  "pt": "Golpeia com punhos elétricos. Golpes Normal viram Elétrico.",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "08D5A98",
+  "en": "User's highest attack stat\\ndetermines its category.",
+  "pt": "O maior ataque do usuário define a categoria.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D5ACC",
+  "en": "Electric bursts always go\\nfirst and land a critical hit.",
+  "pt": "Rajadas elétricas que sempre vêm primeiro e são críticas.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D5B05",
+  "en": "A huge electrified wave that\\nmay paralyze the foe.",
+  "pt": "Uma onda eletrificada enorme que pode paralisar o alvo.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D5B38",
+  "en": "Floats in air and dives at\\nangle. May cause flinching.",
+  "pt": "Flutua e mergulha inclinado. Pode fazer recuar.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D5B6F",
+  "en": "Pikachu's love increases its\\npower. It never misses.",
+  "pt": "O amor de Pikachu aumenta o poder. Nunca erra.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D5BA4",
+  "en": "An attack that absorbs\\nall the damage inflicted.",
+  "pt": "Um ataque que absorve todo o dano causado.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "08D5BD5",
+  "en": "Shoots a jolt of electricity\\nthat always paralyzes.",
+  "pt": "Dispara um choque elétrico que sempre paralisa.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D5C09",
+  "en": "User cloaked in fire charges.\\nLeaves the foe with a burn.",
+  "pt": "Envolto em fogo, o usuário investe. Deixa o alvo queimado.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D5C43",
+  "en": "Telekinetic force that sets\\nwall, lowering Sp. Atk damage.",
+  "pt": "Força telecinética que ergue barreira contra dano especial.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D5C7E",
+  "en": "Acting badly, attacks. Sets\\nwall, lowering Attack damage.",
+  "pt": "Ataca agindo mal. Ergue barreira contra dano físico.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D5CB8",
+  "en": "Giant stalk scatters seeds\\nthat drain HP every turn.",
+  "pt": "Um caule solta sementes que\\ndrenam HP a cada turno.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "08D5CED",
+  "en": "Crystal from cold haze hits.\\nEliminates all stat changes.",
+  "pt": "Cristais de névoa gelada. Anula mudanças de atributo.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D5D27",
+  "en": "Wrap foe with whirlwind of\\nscent. Heals party's status.",
+  "pt": "Redemoinho de aroma no alvo. Cura status da equipe.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D5D5F",
+  "en": "Eevee's love increases its\\npower. It never misses.",
+  "pt": "O amor de Eevee aumenta o poder. Nunca erra.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D5D92",
+  "en": "The user spins and hits with\\nits arms. May cause flinch.",
+  "pt": "O usuário gira e golpeia com os braços. Pode fazer recuar.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D5DCB",
+  "en": "Fires a strong beam. Deals\\n2x damage to Dynamaxed foes.",
+  "pt": "Dispara um raio forte. Dano em dobro em alvos Dynamax.",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "08D5E03",
+  "en": "The user ignores effects\\nthat draw in moves.",
+  "pt": "O usuário ignora efeitos que atraem golpes.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08D5E30",
+  "en": "Prevents the user and\\nthe target from escaping.",
+  "pt": "Impede o usuário e o alvo de fugir.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D5E60",
+  "en": "Consumes the user's Berry,\\nthen sharply raises Def.",
+  "pt": "Come a Fruta do usuário e aumenta muito a Defesa.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08D5E94",
+  "en": "Raises all of the user's\\nstats but prevents escape.",
+  "pt": "Aumenta todos os atributos, mas impede a fuga.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08D5EC8",
+  "en": "Lowers the foe's Speed and\\nmakes it weak to Fire.",
+  "pt": "Reduz a Velocidade do alvo e o deixa fraco ao tipo Fogo.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D5EFA",
+  "en": "Magic powder changes the\\ntarget into a Psychic-type.",
+  "pt": "Um pó mágico transforma o alvo em tipo Psíquico.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D5F2F",
+  "en": "The user attacks twice. Two\\ntargets are hit once each.",
+  "pt": "Ataca duas vezes. Com dois alvos, um golpe em cada.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D5F66",
+  "en": "All CAPTURES have teatime\\nand eat their Berries.",
+  "pt": "Todas as CAPTURAS tomam chá e comem suas Frutas.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08D5F97",
+  "en": "Traps the foe to lower Def\\nand Sp. Def fall each turn.",
+  "pt": "Prende o alvo; a Defesa e a Def. Esp. caem a cada turno.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D5FCE",
+  "en": "Double power if the user\\nmoves before the target.",
+  "pt": "Poder dobrado se o usuário agir antes do alvo.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08D6000",
+  "en": "Double power if the user\\nmoves before the target.",
+  "pt": "Poder dobrado se o usuário agir antes do alvo.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08D6032",
+  "en": "The user swaps effects on\\neither side of the field.",
+  "pt": "O usuário troca os efeitos entre os lados do campo.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D6066",
+  "en": "The user uses some of its\\nHP to raise all its stats.",
+  "pt": "Gasta HP para aumentar todos os seus atributos.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08D609B",
+  "en": "Does more damage the\\nhigher the user's Def.",
+  "pt": "Mais dano quanto maior a Defesa do usuário.",
+  "max_lines": 2,
+  "max_width": 123
+ },
+ {
+  "offset": "08D60C7",
+  "en": "The user sharply raises\\nthe target's Atk and Sp.Atk",
+  "pt": "O usuário aumenta muito o Ataque e o At. Esp. do alvo.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08D60FB",
+  "en": "Plays a drum to attack.\\nThe foe's Speed is lowered.",
+  "pt": "Toca um tambor para atacar. Reduz a Velocidade do alvo.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D612F",
+  "en": "Snares the target in a snap\\ntrap for four to five turns.",
+  "pt": "Prende o alvo numa armadilha por quatro ou cinco turnos.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D6168",
+  "en": "Launches a fiery ball at the\\ntarget. It may cause a burn.",
+  "pt": "Lança uma bola de fogo no alvo. Pode causar queimadura.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D61A2",
+  "en": "Strikes as a sword. Deals 2x\\ndamage to Dynamaxed foes.",
+  "pt": "Golpe de espada. Dano em dobro em alvos Dynamax.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D61D9",
+  "en": "Attacks as a shield. Deals 2x\\ndamage to Dynamaxed foes.",
+  "pt": "Ataca como um escudo. Dano em dobro em alvos Dynamax.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D6211",
+  "en": "Raises Speed to attack. The\\nType is based on its form.",
+  "pt": "Sobe a Velocidade ao atacar. O tipo depende da forma.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D6248",
+  "en": "Swings its tail to attack.\\nLowers the Atk of those hit.",
+  "pt": "Ataca com a cauda. Reduz o Ataque dos atingidos.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D6280",
+  "en": "The user pokes the target\\nwith a pointed branch.",
+  "pt": "O usuário cutuca o alvo com um galho pontudo.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08D62B1",
+  "en": "The user twangs its guitar,\\ncausing strong vibrations.",
+  "pt": "Toca a guitarra e causa fortes vibrações.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D62E8",
+  "en": "Attacks with tart apple acid\\nto lower the foe's Sp. Def.",
+  "pt": "Ácido de maçã azeda. Reduz a Def. Esp. do alvo.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D6321",
+  "en": "Drops an apple from above.\\nLowers the foe's Defense.",
+  "pt": "Derruba uma maçã do alto. Reduz a Defesa do alvo.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D6356",
+  "en": "Attacks with spirit-breaking\\nforce. Lowers Sp. Atk.",
+  "pt": "Ataca com força que abala o espírito. Reduz o At. Esp.",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "08D638A",
+  "en": "Emits a strange steam to\\npotentially confuse the foe.",
+  "pt": "Solta um vapor estranho que pode confundir o alvo.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D63C0",
+  "en": "Scatters water to restore\\nthe HP of itself and allies.",
+  "pt": "Espalha água e restaura o HP do usuário e dos aliados.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D63F7",
+  "en": "Protects itself, harshly\\nlowering Def on contact.",
+  "pt": "Protege-se e reduz muito a Defesa de quem o tocar.",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "08D6429",
+  "en": "Bows to stab the foe\\nwith hair. It never misses.",
+  "pt": "Faz reverência e fura o alvo com o cabelo. Nunca erra.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08D645A",
+  "en": "Attacks with a thick leek.\\nThe user must then rest.",
+  "pt": "Ataca com um alho-poró grosso. Depois descansa.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08D648E",
+  "en": "Eternatus' strongest move.\\nThe user rests next turn.",
+  "pt": "O golpe mais forte de Eternatus. Descansa depois.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "08D64C3",
+  "en": "Fires a beam of steel from\\nits body. It hurts the user.",
+  "pt": "Dispara um raio de aço do corpo. Fere o usuário.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08D64FB",
+  "en": "Power goes up and damages\\nall foes on Psychic Terrain.",
+  "pt": "No Terreno Psíquico, fica mais forte e atinge todos.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08D6532",
+  "en": "Destroys terrain. Fails if\\nground isn't terrain.",
+  "pt": "Destrói o terreno. Falha se não houver terreno.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08D6563",
+  "en": "Shoots scales 2 to 5 times.\\nUps Speed, lowers defense.",
+  "pt": "Dispara escamas 2 a 5 vezes. Sobe Velocidade, cai Defesa.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D659A",
+  "en": "A 2-turn move that raises\\nSp. Attack before attacking.",
+  "pt": "Golpe de 2 turnos que sobe o At. Esp. antes de atacar.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D65D1",
+  "en": "Deals better of physical and\\nspecial damage. May poison.",
+  "pt": "Usa o melhor entre dano físico e especial. Pode envenenar.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D660A",
+  "en": "Hit everything and faint.\\nPowers up on Misty Terrain.",
+  "pt": "Atinge tudo e desmaia. Mais forte no Terreno Nebuloso.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D6640",
+  "en": "Gliding on ground, hits. Goes\\nfirst on Grassy Terrain.",
+  "pt": "Desliza pelo chão e ataca. Vai primeiro no Terreno Gramado.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D6677",
+  "en": "This move's power doubles\\nwhen on Electric Terrain.",
+  "pt": "O poder deste golpe dobra no Terreno Elétrico.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08D66AB",
+  "en": "Type and power changes\\ndepending on the terrain.",
+  "pt": "O tipo e o poder mudam conforme o terreno.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08D66DC",
+  "en": "User skitters behind foe to\\nattack. Lowers foe's Sp. Atk.",
+  "pt": "Esgueira-se por trás do alvo e ataca. Reduz o At. Esp.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D6716",
+  "en": "Foes that have stats upped\\nduring the turn get burned.",
+  "pt": "Queima oponentes que subiram atributos neste turno.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D674D",
+  "en": "If stats lowered during this\\nturn, power is doubled.",
+  "pt": "Se seus atributos caíram neste turno, o poder dobra.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D6782",
+  "en": "Control foe's item to attack.\\nFails if foe has no item.",
+  "pt": "Usa o item do alvo para atacar. Falha se ele não tiver item.",
+  "max_lines": 2,
+  "max_width": 161
+ },
+ {
+  "offset": "08D67BA",
+  "en": "Highly acidic gas melts items\\nheld by surrounding CAPTURES.",
+  "pt": "Gás muito ácido derrete os itens das CAPTURAS ao redor.",
+  "max_lines": 2,
+  "max_width": 166
+ },
+ {
+  "offset": "08D67F6",
+  "en": "Properly coaches allies to\\nup their Attack and Defense.",
+  "pt": "Treina os aliados e aumenta o Ataque e a Defesa deles.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D682E",
+  "en": "Attacks and rushes back to\\nswitch with a party CAPTURE.",
+  "pt": "Ataca e volta para trocar com uma CAPTURA da equipe.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D6866",
+  "en": "A 3-kick attack that gets\\nmore powerful with each hit.",
+  "pt": "Três chutes que ficam mais fortes a cada acerto.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D689D",
+  "en": "User slams the target with\\nwings and hits twice in a row.",
+  "pt": "Golpeia o alvo com as asas duas vezes seguidas.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D68D7",
+  "en": "Throws scorching sand at\\nthe target. May leave a burn.",
+  "pt": "Joga areia escaldante no alvo. Pode causar queimadura.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D690E",
+  "en": "Heals HP and status of\\nitself and allies in battle.",
+  "pt": "Cura HP e status do usuário e dos aliados em batalha.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D6942",
+  "en": "Mastering the Dark style,\\nstrikes with a critical hit.",
+  "pt": "Domina o estilo Sombrio e sempre acerta golpe crítico.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D6979",
+  "en": "Mastering the Water style,\\nstrikes with 3 critical hits.",
+  "pt": "Domina o estilo Água e acerta 3 golpes críticos.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D69B2",
+  "en": "Traps the foe in a cage of\\nelectricity for 4 or 5 turns.",
+  "pt": "Prende o alvo numa jaula elétrica por 4 ou 5 turnos.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D69EB",
+  "en": "The higher the user's HP\\nthe more damage caused.",
+  "pt": "Quanto mais HP o usuário tiver, maior o dano.",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "08D6A1C",
+  "en": "Shoots psychic power from\\nthe eyes. May frostbite.",
+  "pt": "Dispara poder psíquico pelos olhos. Pode congelar.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D6A4F",
+  "en": "An attack fueled by your\\nwrath. May cause flinching.",
+  "pt": "Ataque movido pela sua ira. Pode fazer recuar.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D6A84",
+  "en": "Uses a lightning-like kick\\nto hit. Lowers foe's Defense.",
+  "pt": "Um chute veloz como um raio. Reduz a Defesa do alvo.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D6ABD",
+  "en": "Strikes by hurling a blizzard-\\ncloaked icicle lance at foes.",
+  "pt": "Lança nos oponentes uma lança de gelo envolta em nevasca.",
+  "max_lines": 2,
+  "max_width": 165
+ },
+ {
+  "offset": "08D6AFA",
+  "en": "Strikes by sending a frightful\\namount of ghosts at foes.",
+  "pt": "Lança um bando assustador de fantasmas nos oponentes.",
+  "max_lines": 2,
+  "max_width": 168
+ },
+ {
+  "offset": "08D6B33",
+  "en": "Attacks with psychic power.\\nFoe's last move has 3 PP cut.",
+  "pt": "Ataque psíquico. Tira 3 PP do último golpe do alvo.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D6B6D",
+  "en": "High critical hit chance. May\\nparalyze, poison or drowse.",
+  "pt": "Alto crítico. Pode paralisar,\\nenvenenar ou adormecer.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D6BA7",
+  "en": "Hits a foe with psychic\\nenergy. May raise Defense.",
+  "pt": "Ataca com energia psíquica. Pode subir a Defesa.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D6BDA",
+  "en": "The user swaps its Attack\\nand Defense stats.",
+  "pt": "Troca o Ataque e a Defesa do usuário.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "08D6C07",
+  "en": "High critical hit ratio. Sets\\nSplinters that hurt the foe.",
+  "pt": "Alta taxa de crítico. Espalha farpas que ferem o alvo.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D6C42",
+  "en": "Wraps a foe in fierce winds.\\nVaries with the user's form.",
+  "pt": "Envolve o alvo em ventos ferozes. Varia com a forma.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08D6C7C",
+  "en": "A mysterious power strikes,\\nraising the user's Sp. Atk.",
+  "pt": "Um poder misterioso ataca e sobe o At. Esp. do usuário.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "08D6CB4",
+  "en": "A rampage of 2 to 3 turns\\nthat confuses the user.",
+  "pt": "Fúria de 2 a 3 turnos\\nque confunde o usuário.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08D6CE6",
+  "en": "A slam shrouded in water.\\nIt also hurts the user.",
+  "pt": "Investida envolta em água que também fere o usuário.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08D6D18",
+  "en": "A user-hurting blast of\\namassed chlorophyll.",
+  "pt": "Rajada de clorofila que também fere o usuário.",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "08D6D45",
+  "en": "Giant chunks of ice damage\\nthe foe. It may flinch.",
+  "pt": "Blocos de gelo gigantes. Pode fazer o alvo recuar.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D6D78",
+  "en": "Dances to raise Attack,\\nDefense and Speed.",
+  "pt": "Dança e aumenta Ataque, Defesa e Velocidade.",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "08D6DA3",
+  "en": "Hits with a full-body tackle.\\nLowers the users's defenses.",
+  "pt": "Investida com o corpo todo. Reduz as defesas do usuário.",
+  "max_lines": 2,
+  "max_width": 161
+ },
+ {
+  "offset": "08D6DDE",
+  "en": "Can poison on impact. Powers\\nup against poisoned foes.",
+  "pt": "Pode envenenar. Mais forte contra alvos envenenados.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D6E15",
+  "en": "High critical hit ratio.\\nUps the user's Speed.",
+  "pt": "Alta taxa de crítico.\\nSobe a Velocidade.",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "08D6E44",
+  "en": "A spine-chilling resentment.\\nMay inflict frostbite.",
+  "pt": "Um rancor de arrepiar a espinha. Pode congelar.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D6E78",
+  "en": "The user hardens their skin,\\nsharply raising its Defense.",
+  "pt": "O usuário endurece a pele e aumenta muito a Defesa.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D6EB2",
+  "en": "High critical hit ratio.\\nMay lower Defense or flinch.",
+  "pt": "Alto crítico. Pode reduzir a\\nDefesa ou fazer recuar.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D6EE8",
+  "en": "Hurts a foe harder if it has\\nan ailment. May leave a burn.",
+  "pt": "Mais forte se o alvo tiver status. Pode queimar.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D6F23",
+  "en": "High critical hit ratio. Sets\\nSplinters that hurt the foe.",
+  "pt": "Alta taxa de crítico. Espalha farpas que ferem o alvo.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D6F5E",
+  "en": "Hits with brutal, cold winds.\\nMay lower the foe's Speed.",
+  "pt": "Ventos frios e brutais. Pode reduzir a Velocidade do alvo.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D6F97",
+  "en": "Hits with a brutal tempest.\\nMay inflict paralysis.",
+  "pt": "Atinge com uma tempestade brutal. Pode paralisar.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D6FCA",
+  "en": "Hits with brutally hot sand.\\nMay inflict a burn.",
+  "pt": "Atinge com areia brutalmente quente. Pode queimar.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D6FFB",
+  "en": "The user heals and cures\\nitself and its ally.",
+  "pt": "Cura HP e status do usuário e do aliado.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "08D7029",
+  "en": "The user lifts its spirits to\\nheal and strengthen itself.",
+  "pt": "O usuário se anima para se curar e se fortalecer.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D7063",
+  "en": "If the user's Terastallized,\\nit hits with its Tera-type.",
+  "pt": "Com Terastal, ataca com o tipo Tera do usuário.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D709C",
+  "en": "Protects itself, lowering\\nSpeed on contact.",
+  "pt": "Protege-se e reduz a Velocidade de quem tocar.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "08D70C8",
+  "en": "May miss and hurt the kicker.\\nMay cause confusion.",
+  "pt": "Se errar, fere quem chutou. Pode causar confusão.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D70FB",
+  "en": "This move deals more damage\\nfor each defeated ally.",
+  "pt": "Causa mais dano para cada aliado derrotado.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D712F",
+  "en": "A mind-affecting light\\nharshly lowers Sp. Def.",
+  "pt": "Luz que afeta a mente e reduz muito a Def. Esp.",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "08D715E",
+  "en": "Boosts a user's stats\\ndepending on Tatsugiri.",
+  "pt": "Aumenta atributos conforme o Tatsugiri.",
+  "max_lines": 2,
+  "max_width": 132
+ },
+ {
+  "offset": "08D718C",
+  "en": "A punch is thrown at blinding\\nspeed to strike first.",
+  "pt": "Um soco em velocidade ofuscante que ataca primeiro.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D71C1",
+  "en": "Sharply ups target's Attack,\\nharshly lowers its Defense.",
+  "pt": "Sobe muito o Ataque do alvo e reduz muito a Defesa.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D71FA",
+  "en": "Furiously strains its legs.\\nHarshly lowers user's Speed.",
+  "pt": "Força as pernas com fúria. Reduz muito a Velocidade.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D7233",
+  "en": "The user's fellows hit one\\nto ten times in a row.",
+  "pt": "Os parceiros do usuário atacam de 1 a 10 vezes.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D7265",
+  "en": "Ice-covered feet hit a foe\\nand destroy the terrain.",
+  "pt": "Pés cobertos de gelo atingem o alvo e destroem o terreno.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D7299",
+  "en": "Foe attacks next turn can't\\nmiss and do double damage.",
+  "pt": "Depois, golpes no usuário não erram e dão o dobro de dano.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D72D0",
+  "en": "Revives a fainted party {PK}{MN}\\nand restores half of its HP.",
+  "pt": "Revive uma CAPTURA desmaiada com metade do HP.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D7308",
+  "en": "Hurts foe every turn. Double\\ndamage to Steel and Water.",
+  "pt": "Fere o alvo todo turno. Dano dobrado nos tipos Aço e Água.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D7340",
+  "en": "Hits target with splashes\\nof water 3 times in a row.",
+  "pt": "Atinge o alvo com jatos de água 3 vezes seguidas.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D7375",
+  "en": "Erases trap moves and Leech\\nSeed. Poisons adjecent foes.",
+  "pt": "Remove armadilhas e Semente Parasita. Envenena oponentes.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D73AE",
+  "en": "Changes user's and ally's\\nAbility into the target's.",
+  "pt": "Dá ao usuário e ao aliado a habilidade do alvo.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08D73E3",
+  "en": "Sharply boosts offenses and\\nSpeed by using its own HP.",
+  "pt": "Gasta HP para aumentar muito os ataques e a Velocidade.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D741A",
+  "en": "User slashes the foe after\\nkowtowing. It never misses.",
+  "pt": "Corta o alvo após se curvar em reverência. Nunca erra.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "08D7451",
+  "en": "Rigged bouquet. Always gets\\na critical hit, never missing.",
+  "pt": "Buquê armado. Sempre causa golpe crítico e nunca erra.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D748C",
+  "en": "Flames scorch the target.\\nBoosts the user's Sp. Atk.",
+  "pt": "Chamas queimam o alvo. Sobe o At. Esp. do usuário.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D74C1",
+  "en": "Hits with light, fluid dance\\nsteps. Ups the user's Speed.",
+  "pt": "Passos de dança leves e fluidos. Sobe a Velocidade.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D74FB",
+  "en": "Tackle that breaks barriers.\\nUser's form determines type.",
+  "pt": "Quebra barreiras. O tipo depende da forma do usuário.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D7535",
+  "en": "Lowers the user's Sp. Atk.\\nMoney is recovered after.",
+  "pt": "Reduz o At. Esp. do usuário. Depois recolhe o dinheiro.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "08D756A",
+  "en": "Summons a ruinous disaster\\nand cuts half the foe's HP.",
+  "pt": "Invoca um desastre ruinoso e corta metade do HP do alvo.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D75A1",
+  "en": "Prehistoric explosion that's\\nstronger if supereffective.",
+  "pt": "Explosão pré-histórica, mais forte se for supereficaz.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D75DA",
+  "en": "Futuristic electricity. It's\\nstronger if supereffective.",
+  "pt": "Eletricidade futurista, mais forte se for supereficaz.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D7613",
+  "en": "Creates a Substitute for\\nitself before switching out.",
+  "pt": "Cria um Substituto para si antes de sair de campo.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D7649",
+  "en": "Bad joke summons snowstorm.\\nThe user also switches out.",
+  "pt": "Uma piada ruim invoca uma nevasca. O usuário também sai.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D7681",
+  "en": "User tidies up hazards and\\nraises its Attack and Speed.",
+  "pt": "Limpa as armadilhas do campo e sobe Ataque e Velocidade.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D76B9",
+  "en": "Summons a snowstorm that\\nlasts for five turns.",
+  "pt": "Invoca uma nevasca que dura cinco turnos.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D76E8",
+  "en": "The user pounces on the foe,\\nlowering its Speed.",
+  "pt": "O usuário salta no alvo e reduz a Velocidade dele.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D7719",
+  "en": "The user attacks suddenly,\\nraising its Speed.",
+  "pt": "O usuário ataca de surpresa e sobe a Velocidade.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D7747",
+  "en": "A shower with ice-cold water\\nlowers the target's Attack.",
+  "pt": "Um banho de água gelada reduz o Ataque do alvo.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "08D7780",
+  "en": "A spinning pointed part\\nbypasses a foe's Protect.",
+  "pt": "Uma ponta giratória que ignora a Proteção do alvo.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D77B2",
+  "en": "Mystical eye-beams that hit\\nthe target twice in a row.",
+  "pt": "Raios místicos dos olhos que atingem o alvo duas vezes.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D77E9",
+  "en": "The more the user has been\\nhit, the stronger the move.",
+  "pt": "Quanto mais o usuário for atingido, mais forte o golpe.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D7820",
+  "en": "A strong attack but lowers\\nthe defensive stats.",
+  "pt": "Ataque forte, mas diminui os atributos defensivos.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D7850",
+  "en": "An attack that absorbs\\nhalf the damage inflicted.",
+  "pt": "Ataque que absorve metade do dano causado.",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "08D7882",
+  "en": "Discharges all electricity,\\nlosing the Electric type.",
+  "pt": "Descarrega toda a energia e perde o tipo Elétrico.",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "08D78B8",
+  "en": "Swings a huge hammer. Can't\\nbe used twice in a row.",
+  "pt": "Martelo enorme. Não pode ser usado 2 vezes seguidas.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "08D78EC",
+  "en": "Retaliates strongly against\\nwho last hurt the user.",
+  "pt": "Revida com força contra quem feriu o usuário por último.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "08D7920",
+  "en": "Pressurized water cut with a\\nhigh critical-hit ratio.",
+  "pt": "Corte de água pressurizada com alta taxa de crítico.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "08D796A",
+  "en": "This move's power increases\\nwhen on Electric Terrain.",
+  "pt": "O poder deste golpe aumenta no Terreno Elétrico.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D79A0",
+  "en": "This move's power increases\\nunder harsh sunlight.",
+  "pt": "O poder deste golpe aumenta sob sol forte.",
+  "max_lines": 2,
+  "max_width": 154
+ },
+ {
+  "offset": "08D79D2",
+  "en": "Throws a hammer 2-5 times.\\nEffect changes with weather.",
+  "pt": "Joga um martelo de 2 a 5 vezes. O efeito muda com o clima.",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "08D7A0A",
+  "en": "Throws a boomerang twice\\nthat can flinch opponents.",
+  "pt": "Joga um bumerangue duas vezes. Pode fazer recuar.",
+  "max_lines": 2,
+  "max_width": 150
+ },
+ {
+  "offset": "08D7A3E",
+  "en": "Tosses fire balls up to 3\\ntimes. Can burn opponents.",
+  "pt": "Lança bolas de fogo até 3 vezes. Pode queimar.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08D7A73",
+  "en": "Tosses balls of ice up to 3\\ntimes. Can give frostbite.",
+  "pt": "Lança bolas de gelo até 3 vezes. Pode congelar.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "08D7AAA",
+  "en": "Sound waves that damage and\\nprevent healing for 2 turns.",
+  "pt": "Ondas sonoras que ferem e impedem a cura por 2 turnos.",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "08D7AE3",
+  "en": "Lowers the foe's speed\\neach turn for 3 turns.",
+  "pt": "Reduz a Velocidade do alvo por 3 turnos.",
+  "max_lines": 2,
+  "max_width": 129
+ },
+ {
+  "offset": "08D7B11",
+  "en": "Increases allies' critical hit\\nratio, especially if Dragons.",
+  "pt": "Sobe a taxa de crítico dos aliados, mais ainda se Dragão.",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "08D7B4E",
+  "en": "Confuses foe if its stats\\nwere boosted this turn.",
+  "pt": "Confunde o alvo se ele subiu atributo neste turno.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08D7B80",
+  "en": "A desperation attack. Power\\ndoubles if last move failed.",
+  "pt": "Ataque desesperado. Dobra se o último golpe falhou.",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "08D7BB9",
+  "en": "An electrified slam. If it\\nmisses, the user is hurt.",
+  "pt": "Investida elétrica. Se errar, o usuário se fere.",
+  "max_lines": 2,
+  "max_width": 140
+ },
+ {
+  "offset": "08D7BEE",
+  "en": "Makes the target flinch if\\nreadying a priority move.",
+  "pt": "Faz o alvo recuar se ele for usar golpe prioritário.",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "08D7C23",
+  "en": "This move can't be used. Its\\neffect is in development.",
+  "pt": "Golpe inutilizável. O efeito está em desenvolvimento.",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08D8978",
+  "en": "Hardy",
+  "pt": "Rija",
+  "max_width": 53
+ },
+ {
+  "offset": "08D897E",
+  "en": "Lonely",
+  "pt": "Sozinha",
+  "max_width": 58
+ },
+ {
+  "offset": "08D8985",
+  "en": "Brave",
+  "pt": "Brava",
+  "max_width": 53
+ },
+ {
+  "offset": "08D898B",
+  "en": "Adamant",
+  "pt": "Firme",
+  "max_width": 66
+ },
+ {
+  "offset": "08D8993",
+  "en": "Naughty",
+  "pt": "Levada",
+  "max_width": 66
+ },
+ {
+  "offset": "08D899B",
+  "en": "Bold",
+  "pt": "Ousada",
+  "max_width": 46
+ },
+ {
+  "offset": "08D89A0",
+  "en": "Docile",
+  "pt": "Dócil",
+  "max_width": 56
+ },
+ {
+  "offset": "08D89A7",
+  "en": "Relaxed",
+  "pt": "Folgada",
+  "max_width": 64
+ },
+ {
+  "offset": "08D89AF",
+  "en": "Impish",
+  "pt": "Marota",
+  "max_width": 58
+ },
+ {
+  "offset": "08D89B6",
+  "en": "Lax",
+  "pt": "Relapsa",
+  "max_width": 42
+ },
+ {
+  "offset": "08D89BA",
+  "en": "Timid",
+  "pt": "Tímida",
+  "max_width": 50
+ },
+ {
+  "offset": "08D89C0",
+  "en": "Hasty",
+  "pt": "Afobada",
+  "max_width": 54
+ },
+ {
+  "offset": "08D89C6",
+  "en": "Serious",
+  "pt": "Séria",
+  "max_width": 63
+ },
+ {
+  "offset": "08D89CE",
+  "en": "Jolly",
+  "pt": "Alegre",
+  "max_width": 50
+ },
+ {
+  "offset": "08D89D4",
+  "en": "Naive",
+  "pt": "Ingênua",
+  "max_width": 52
+ },
+ {
+  "offset": "08D89DA",
+  "en": "Modest",
+  "pt": "Modesta",
+  "max_width": 60
+ },
+ {
+  "offset": "08D89E1",
+  "en": "Mild",
+  "pt": "Branda",
+  "max_width": 44
+ },
+ {
+  "offset": "08D89E6",
+  "en": "Quiet",
+  "pt": "Quieta",
+  "max_width": 52
+ },
+ {
+  "offset": "08D89EC",
+  "en": "Bashful",
+  "pt": "Acanhada",
+  "max_width": 64
+ },
+ {
+  "offset": "08D89F4",
+  "en": "Rash",
+  "pt": "Afoita",
+  "max_width": 48
+ },
+ {
+  "offset": "08D89F9",
+  "en": "Calm",
+  "pt": "Calma",
+  "max_width": 46
+ },
+ {
+  "offset": "08D89FE",
+  "en": "Gentle",
+  "pt": "Gentil",
+  "max_width": 58
+ },
+ {
+  "offset": "08D8A05",
+  "en": "Sassy",
+  "pt": "Abusada",
+  "max_width": 54
+ },
+ {
+  "offset": "08D8A0B",
+  "en": "Careful",
+  "pt": "Zelosa",
+  "max_width": 63
+ },
+ {
+  "offset": "08D8A13",
+  "en": "Quirky",
+  "pt": "Peculiar",
+  "max_width": 57
+ },
+ {
+  "offset": "08DC800",
+  "en": "Becalm fighting emotions.",
+  "pt": "Acalmar os ânimos da luta.",
+  "max_width": 157
+ },
+ {
+  "offset": "08DC81A",
+  "en": "Fragrant GRASS POKéMON.",
+  "pt": "CAPTURAS PLANTA cheirosas.",
+  "max_width": 151
+ },
+ {
+  "offset": "08DC832",
+  "en": "Soothing aromas make the",
+  "pt": "Aromas suaves deixam o",
+  "max_width": 156
+ },
+ {
+  "offset": "08DC84B",
+  "en": "body and mind healthy.",
+  "pt": "corpo e a mente saudáveis.",
+  "max_width": 140
+ },
+ {
+  "offset": "08DC862",
+  "en": "I'm not very good at this.",
+  "pt": "Não levo muito jeito nisso.",
+  "max_width": 156
+ },
+ {
+  "offset": "08DC87D",
+  "en": "Ruin-exploration partners.",
+  "pt": "Parceiros explorando ruínas.",
+  "max_width": 165
+ },
+ {
+  "offset": "08DC898",
+  "en": "I am searching for undersea",
+  "pt": "Procuro ruínas e relíquias",
+  "max_width": 169
+ },
+ {
+  "offset": "08DC8B4",
+  "en": "ruins and relics.",
+  "pt": "no fundo do mar.",
+  "max_width": 109
+ },
+ {
+  "offset": "08DC8C6",
+  "en": "Overwhelm with power!",
+  "pt": "Esmagar com força!",
+  "max_width": 136
+ },
+ {
+  "offset": "08DC8DC",
+  "en": "Craggy ROCK POKéMON.",
+  "pt": "CAPTURAS PEDRA rústicas.",
+  "max_width": 134
+ },
+ {
+  "offset": "08DC8F1",
+  "en": "In search of ancient lore,",
+  "pt": "Em busca de saberes antigos,",
+  "max_width": 159
+ },
+ {
+  "offset": "08DC90C",
+  "en": "I travel the world.",
+  "pt": "eu viajo pelo mundo.",
+  "max_width": 120
+ },
+ {
+  "offset": "08DC920",
+  "en": "I'm going to try hard!",
+  "pt": "Vou dar o meu melhor!",
+  "max_width": 135
+ },
+ {
+  "offset": "08DC937",
+  "en": "Good swimmer POKéMON.",
+  "pt": "CAPTURAS que nadam bem.",
+  "max_width": 138
+ },
+ {
+  "offset": "08DC94D",
+  "en": "I wish I could swim without",
+  "pt": "Queria conseguir nadar",
+  "max_width": 163
+ },
+ {
+  "offset": "08DC969",
+  "en": "using an inner tube.",
+  "pt": "sem usar boia.",
+  "max_width": 127
+ },
+ {
+  "offset": "08DC97E",
+  "en": "I don't know. I'll try hard.",
+  "pt": "Sei lá. Vou me esforçar.",
+  "max_width": 159
+ },
+ {
+  "offset": "08DC99B",
+  "en": "WATER POKéMON are buddies.",
+  "pt": "CAPTURAS ÁGUA são amigas.",
+  "max_width": 165
+ },
+ {
+  "offset": "08DC9B6",
+  "en": "It's not like I can't swim.",
+  "pt": "Não é que eu não saiba nadar.",
+  "max_width": 156
+ },
+ {
+  "offset": "08DC9D2",
+  "en": "I just like my inner tube.",
+  "pt": "Só gosto da minha boia.",
+  "max_width": 154
+ },
+ {
+  "offset": "08DC9ED",
+  "en": "We split our duties.",
+  "pt": "Dividimos as tarefas.",
+  "max_width": 125
+ },
+ {
+  "offset": "08DCA02",
+  "en": "We like friendly POKéMON.",
+  "pt": "Curtimos CAPTURAS dóceis.",
+  "max_width": 153
+ },
+ {
+  "offset": "08DCA1C",
+  "en": "We enjoy POKéMON together",
+  "pt": "Curtimos CAPTURAS juntos",
+  "max_width": 163
+ },
+ {
+  "offset": "08DCA36",
+  "en": "as sister and brother.",
+  "pt": "como irmã e irmão.",
+  "max_width": 139
+ },
+ {
+  "offset": "08DCA4D",
+  "en": "I finish with power moves!",
+  "pt": "Finalizo com golpes fortes!",
+  "max_width": 159
+ },
+ {
+  "offset": "08DCA68",
+  "en": "A mix of different types.",
+  "pt": "Uma mistura de tipos.",
+  "max_width": 154
+ },
+ {
+  "offset": "08DCA82",
+  "en": "I aim to become the ultimate",
+  "pt": "Quero ser o TREINADOR",
+  "max_width": 171
+ },
+ {
+  "offset": "08DCA9F",
+  "en": "TRAINER!",
+  "pt": "supremo!",
+  "max_width": 52
+ },
+ {
+  "offset": "08DCAA8",
+  "en": "Exploit the foe's weakness.",
+  "pt": "Explorar a fraqueza do rival.",
+  "max_width": 167
+ },
+ {
+  "offset": "08DCAC4",
+  "en": "Balance is crucial.",
+  "pt": "Equilíbrio é essencial.",
+  "max_width": 120
+ },
+ {
+  "offset": "08DCAD8",
+  "en": "My goal is to become the",
+  "pt": "Meu objetivo é ser o",
+  "max_width": 149
+ },
+ {
+  "offset": "08DCAF1",
+  "en": "POKéMON CHAMPION.",
+  "pt": "CAMPEÃO da LIGA.",
+  "max_width": 120
+ },
+ {
+  "offset": "08DCB03",
+  "en": "Upset the opponent.",
+  "pt": "Desestabilizar o rival.",
+  "max_width": 129
+ },
+ {
+  "offset": "08DCB17",
+  "en": "Type doesn't matter.",
+  "pt": "O tipo não importa.",
+  "max_width": 131
+ },
+ {
+  "offset": "08DCB2C",
+  "en": "I'm a top student at the",
+  "pt": "Sou destaque na ESCOLA",
+  "max_width": 150
+ },
+ {
+  "offset": "08DCB45",
+  "en": "TRAINER'S SCHOOL.",
+  "pt": "DE TREINADORES.",
+  "max_width": 117
+ },
+ {
+  "offset": "08DCB57",
+  "en": "Slow, steady suffering.",
+  "pt": "Dor lenta e constante.",
+  "max_width": 145
+ },
+ {
+  "offset": "08DCB6F",
+  "en": "Scary to meet at night.",
+  "pt": "Assustadoras à noite.",
+  "max_width": 144
+ },
+ {
+  "offset": "08DCB87",
+  "en": "I see things that others",
+  "pt": "Vejo coisas que os outros",
+  "max_width": 153
+ },
+ {
+  "offset": "08DCBA0",
+  "en": "can't see...",
+  "pt": "não veem...",
+  "max_width": 81
+ },
+ {
+  "offset": "08DCBAD",
+  "en": "Anything to win.",
+  "pt": "Tudo pela vitória.",
+  "max_width": 107
+ },
+ {
+  "offset": "08DCBBE",
+  "en": "Gorgeous type!",
+  "pt": "Tipo deslumbrante!",
+  "max_width": 102
+ },
+ {
+  "offset": "08DCBCD",
+  "en": "I have a pool specially for",
+  "pt": "Tenho em casa uma piscina só",
+  "max_width": 162
+ },
+ {
+  "offset": "08DCBE9",
+  "en": "my POKéMON at home.",
+  "pt": "pras minhas CAPTURAS.",
+  "max_width": 126
+ },
+ {
+  "offset": "08DCBFD",
+  "en": "You'll fall under my spell!",
+  "pt": "Você vai cair no meu feitiço!",
+  "max_width": 156
+ },
+ {
+  "offset": "08DCC19",
+  "en": "Mature WATER type.",
+  "pt": "Tipo ÁGUA maduro.",
+  "max_width": 122
+ },
+ {
+  "offset": "08DCC2C",
+  "en": "I dream of cruising around",
+  "pt": "Sonho em dar a volta ao mundo",
+  "max_width": 161
+ },
+ {
+  "offset": "08DCC47",
+  "en": "the world on a luxury liner.",
+  "pt": "num transatlântico de luxo.",
+  "max_width": 163
+ },
+ {
+  "offset": "08DCC64",
+  "en": "I'll lead you astray.",
+  "pt": "Vou te desorientar.",
+  "max_width": 128
+ },
+ {
+  "offset": "08DCC7A",
+  "en": "Cute, of course.",
+  "pt": "Fofas, é claro.",
+  "max_width": 107
+ },
+ {
+  "offset": "08DCC8B",
+  "en": "I love the SAFARI ZONE.",
+  "pt": "Amo a ZONA SAFÁRI.",
+  "max_width": 145
+ },
+ {
+  "offset": "08DCCA3",
+  "en": "I seem to end up there.",
+  "pt": "Sempre acabo indo lá.",
+  "max_width": 143
+ },
+ {
+  "offset": "08DCCBB",
+  "en": "Strategy? Who needs it?",
+  "pt": "Estratégia? Pra quê?",
+  "max_width": 150
+ },
+ {
+  "offset": "08DCCD3",
+  "en": "I spent big money on it!",
+  "pt": "Gastei uma fortuna nela!",
+  "max_width": 147
+ },
+ {
+  "offset": "08DCCEC",
+  "en": "I, being rich, sleep in a",
+  "pt": "Sou rico e durmo numa cama",
+  "max_width": 144
+ },
+ {
+  "offset": "08DCD06",
+  "en": "custom POKéMON bed.",
+  "pt": "de CAPTURA sob medida.",
+  "max_width": 129
+ },
+ {
+  "offset": "08DCD1A",
+  "en": "Wrestle down with power.",
+  "pt": "Derrubar na força.",
+  "max_width": 150
+ },
+ {
+  "offset": "08DCD33",
+  "en": "Took all night to catch.",
+  "pt": "Passei a noite pra pegar.",
+  "max_width": 147
+ },
+ {
+  "offset": "08DCD4C",
+  "en": "Big, burly, and buff",
+  "pt": "CAPTURAS grandes e",
+  "max_width": 124
+ },
+ {
+  "offset": "08DCD61",
+  "en": "POKéMON are the best...",
+  "pt": "parrudas são as melhores...",
+  "max_width": 143
+ },
+ {
+  "offset": "08DCD79",
+  "en": "Ram at full speed!",
+  "pt": "Investir a toda!",
+  "max_width": 117
+ },
+ {
+  "offset": "08DCD8C",
+  "en": "Funky WATER type!",
+  "pt": "Tipo ÁGUA estiloso!",
+  "max_width": 118
+ },
+ {
+  "offset": "08DCD9E",
+  "en": "If I can't be out swimming,",
+  "pt": "Se não estou nadando,",
+  "max_width": 161
+ },
+ {
+  "offset": "08DCDBA",
+  "en": "I'll be pumping weights.",
+  "pt": "estou puxando ferro.",
+  "max_width": 145
+ },
+ {
+  "offset": "08DCDD3",
+  "en": "Grand slam pummeling!",
+  "pt": "Pancadaria total!",
+  "max_width": 135
+ },
+ {
+  "offset": "08DCDE9",
+  "en": "FIGHTING type.",
+  "pt": "Tipo LUTADOR.",
+  "max_width": 102
+ },
+ {
+  "offset": "08DCDF8",
+  "en": "Not to brag, but I can bust",
+  "pt": "Sem querer me gabar, quebro",
+  "max_width": 164
+ },
+ {
+  "offset": "08DCE14",
+  "en": "ten roof tiles!",
+  "pt": "dez telhas!",
+  "max_width": 101
+ },
+ {
+  "offset": "08DCE24",
+  "en": "Witness karate power!",
+  "pt": "Veja o poder do caratê!",
+  "max_width": 138
+ },
+ {
+  "offset": "08DCE3A",
+  "en": "My partners in training!",
+  "pt": "Meus parceiros de treino!",
+  "max_width": 148
+ },
+ {
+  "offset": "08DCE53",
+  "en": "Let us discuss matters of",
+  "pt": "Vamos discutir os assuntos",
+  "max_width": 159
+ },
+ {
+  "offset": "08DCE6D",
+  "en": "the world with bare fists!",
+  "pt": "do mundo com os punhos!",
+  "max_width": 158
+ },
+ {
+  "offset": "08DCE88",
+  "en": "Rock to stunning sounds!",
+  "pt": "Rock de som atordoante!",
+  "max_width": 155
+ },
+ {
+  "offset": "08DCEA1",
+  "en": "Electric-and-sound combo!",
+  "pt": "Combo de eletricidade e som!",
+  "max_width": 164
+ },
+ {
+  "offset": "08DCEBB",
+  "en": "My compositions will shock",
+  "pt": "Minhas composições vão te",
+  "max_width": 161
+ },
+ {
+  "offset": "08DCED6",
+  "en": "you and stun you!",
+  "pt": "chocar e atordoar!",
+  "max_width": 115
+ },
+ {
+  "offset": "08DCEE8",
+  "en": "I'll electrify you!",
+  "pt": "Vou te eletrizar!",
+  "max_width": 118
+ },
+ {
+  "offset": "08DCEFC",
+  "en": "They're ELECTRIC!",
+  "pt": "São ELÉTRICAS!",
+  "max_width": 117
+ },
+ {
+  "offset": "08DCF0E",
+  "en": "I want to make people cry",
+  "pt": "Quero fazer o povo chorar",
+  "max_width": 156
+ },
+ {
+  "offset": "08DCF28",
+  "en": "with songs from my heart.",
+  "pt": "com canções do coração.",
+  "max_width": 155
+ },
+ {
+  "offset": "08DCF42",
+  "en": "Burn it all down!",
+  "pt": "Queimar tudo!",
+  "max_width": 108
+ },
+ {
+  "offset": "08DCF54",
+  "en": "Burn-inducing POKéMON.",
+  "pt": "CAPTURAS que queimam.",
+  "max_width": 145
+ },
+ {
+  "offset": "08DCF6B",
+  "en": "When you light a campfire,",
+  "pt": "Ao acender uma fogueira,",
+  "max_width": 158
+ },
+ {
+  "offset": "08DCF86",
+  "en": "be sure there's some water.",
+  "pt": "tenha água por perto.",
+  "max_width": 165
+ },
+ {
+  "offset": "08DCFA2",
+  "en": "Hang in and be tenacious!",
+  "pt": "Aguentar firme e insistir!",
+  "max_width": 156
+ },
+ {
+  "offset": "08DCFBC",
+  "en": "I'll raise any POKéMON.",
+  "pt": "Crio qualquer CAPTURA.",
+  "max_width": 140
+ },
+ {
+  "offset": "08DCFD4",
+  "en": "POKéMON raised in the wild",
+  "pt": "CAPTURAS criadas soltas",
+  "max_width": 159
+ },
+ {
+  "offset": "08DCFEF",
+  "en": "grow strong!",
+  "pt": "ficam fortes!",
+  "max_width": 89
+ },
+ {
+  "offset": "08DCFFC",
+  "en": "Our love lets us prevail.",
+  "pt": "Nosso amor nos faz vencer.",
+  "max_width": 149
+ },
+ {
+  "offset": "08DD016",
+  "en": "We've had them for years.",
+  "pt": "Estão conosco há anos.",
+  "max_width": 154
+ },
+ {
+  "offset": "08DD030",
+  "en": "Married 50 years, we've",
+  "pt": "Casados há 50 anos,",
+  "max_width": 142
+ },
+ {
+  "offset": "08DD048",
+  "en": "devotedly raised POKéMON.",
+  "pt": "criamos CAPTURAS com amor.",
+  "max_width": 160
+ },
+ {
+  "offset": "08DD062",
+  "en": "Attack in waves!",
+  "pt": "Atacar em ondas!",
+  "max_width": 110
+ },
+ {
+  "offset": "08DD073",
+  "en": "BUG POKéMON are cool.",
+  "pt": "INSETOS são legais.",
+  "max_width": 135
+ },
+ {
+  "offset": "08DD089",
+  "en": "I go into the forest every",
+  "pt": "Vou à floresta todo dia",
+  "max_width": 161
+ },
+ {
+  "offset": "08DD0A4",
+  "en": "day to catch BUG POKéMON.",
+  "pt": "pegar CAPTURAS INSETO.",
+  "max_width": 159
+ },
+ {
+  "offset": "08DD0BE",
+  "en": "Daze and confuse!",
+  "pt": "Atordoar e confundir!",
+  "max_width": 118
+ },
+ {
+  "offset": "08DD0D0",
+  "en": "Ones with weird powers.",
+  "pt": "As de poderes estranhos.",
+  "max_width": 144
+ },
+ {
+  "offset": "08DD0E8",
+  "en": "I can see through exactly",
+  "pt": "Consigo ver exatamente",
+  "max_width": 159
+ },
+ {
+  "offset": "08DD102",
+  "en": "what you're thinking!",
+  "pt": "o que você pensa!",
+  "max_width": 134
+ },
+ {
+  "offset": "08DD118",
+  "en": "Battle at full power.",
+  "pt": "Lutar com força total.",
+  "max_width": 131
+ },
+ {
+  "offset": "08DD12E",
+  "en": "POKéMON of many mysteries.",
+  "pt": "CAPTURAS cheias de mistério.",
+  "max_width": 165
+ },
+ {
+  "offset": "08DD149",
+  "en": "When we spoke, I was really",
+  "pt": "Enquanto falávamos, eu estava",
+  "max_width": 163
+ },
+ {
+  "offset": "08DD165",
+  "en": "using telepathy.",
+  "pt": "usando telepatia.",
+  "max_width": 110
+ },
+ {
+  "offset": "08DD176",
+  "en": "Calm and collected.",
+  "pt": "Calma e serenidade.",
+  "max_width": 123
+ },
+ {
+  "offset": "08DD18A",
+  "en": "POKéMON of distinction.",
+  "pt": "CAPTURAS distintas.",
+  "max_width": 147
+ },
+ {
+  "offset": "08DD1A2",
+  "en": "We enjoy a spot of tea",
+  "pt": "Tomamos um chazinho",
+  "max_width": 140
+ },
+ {
+  "offset": "08DD1B9",
+  "en": "every day. It's imported.",
+  "pt": "todo dia. É importado.",
+  "max_width": 152
+ },
+ {
+  "offset": "08DD1D3",
+  "en": "I use my head to battle.",
+  "pt": "Batalho com a cabeça.",
+  "max_width": 148
+ },
+ {
+  "offset": "08DD1EC",
+  "en": "I love any kind of POKéMON!",
+  "pt": "Amo qualquer tipo de CAPTURA!",
+  "max_width": 165
+ },
+ {
+  "offset": "08DD208",
+  "en": "My daddy gives me spending",
+  "pt": "Meu pai me dá uma mesada",
+  "max_width": 164
+ },
+ {
+  "offset": "08DD223",
+  "en": "money if I ace a test.",
+  "pt": "se eu gabaritar a prova.",
+  "max_width": 136
+ },
+ {
+  "offset": "08DD23A",
+  "en": "My knowledge rules!",
+  "pt": "Meu saber manda!",
+  "max_width": 125
+ },
+ {
+  "offset": "08DD24E",
+  "en": "Any smart POKéMON!",
+  "pt": "CAPTURAS espertas!",
+  "max_width": 123
+ },
+ {
+  "offset": "08DD261",
+  "en": "I want to be a POKéMON",
+  "pt": "Quero ser pesquisador de",
+  "max_width": 141
+ },
+ {
+  "offset": "08DD278",
+  "en": "researcher in the future.",
+  "pt": "CAPTURAS no futuro.",
+  "max_width": 156
+ },
+ {
+  "offset": "08DD292",
+  "en": "We talk it over first.",
+  "pt": "Conversamos antes.",
+  "max_width": 133
+ },
+ {
+  "offset": "08DD2A9",
+  "en": "POKéMON that we both like.",
+  "pt": "CAPTURAS que nós dois amamos.",
+  "max_width": 161
+ },
+ {
+  "offset": "08DD2C4",
+  "en": "We're senior and junior",
+  "pt": "Somos veterano e calouro",
+  "max_width": 142
+ },
+ {
+  "offset": "08DD2DC",
+  "en": "students into POKéMON!",
+  "pt": "fãs de CAPTURAS!",
+  "max_width": 146
+ },
+ {
+  "offset": "08DD2F3",
+  "en": "Go for it, my dears!",
+  "pt": "Vamos, meus queridos!",
+  "max_width": 123
+ },
+ {
+  "offset": "08DD308",
+  "en": "I have no likes or dislikes.",
+  "pt": "Não tenho preferências.",
+  "max_width": 163
+ },
+ {
+  "offset": "08DD325",
+  "en": "While out shopping for",
+  "pt": "Enquanto faço compras pro",
+  "max_width": 140
+ },
+ {
+  "offset": "08DD33C",
+  "en": "supper, I battle too.",
+  "pt": "jantar, batalho também.",
+  "max_width": 132
+ },
+ {
+  "offset": "08DD352",
+  "en": "I battle with love!",
+  "pt": "Batalho com amor!",
+  "max_width": 121
+ },
+ {
+  "offset": "08DD366",
+  "en": "A POKéMON raised with love!",
+  "pt": "Uma CAPTURA criada com amor!",
+  "max_width": 165
+ },
+ {
+  "offset": "08DD382",
+  "en": "It's important to build",
+  "pt": "É importante ganhar a",
+  "max_width": 143
+ },
+ {
+  "offset": "08DD39A",
+  "en": "trust with your POKéMON.",
+  "pt": "confiança das CAPTURAS.",
+  "max_width": 152
+ },
+ {
+  "offset": "08DD3B3",
+  "en": "I see through your moves!",
+  "pt": "Leio todos os seus golpes!",
+  "max_width": 158
+ },
+ {
+  "offset": "08DD3CD",
+  "en": "The essence of FIGHTING.",
+  "pt": "A essência da LUTA.",
+  "max_width": 156
+ },
+ {
+  "offset": "08DD3E6",
+  "en": "I'm not ready to give way",
+  "pt": "Ainda não vou dar lugar",
+  "max_width": 153
+ },
+ {
+  "offset": "08DD400",
+  "en": "to the young yet!",
+  "pt": "aos jovens!",
+  "max_width": 115
+ },
+ {
+  "offset": "08DD412",
+  "en": "Attack while defending.",
+  "pt": "Atacar enquanto defende.",
+  "max_width": 147
+ },
+ {
+  "offset": "08DD42A",
+  "en": "The FIGHTING type.",
+  "pt": "O tipo LUTADOR.",
+  "max_width": 123
+ },
+ {
+  "offset": "08DD43D",
+  "en": "Being old, I have my own",
+  "pt": "Sendo velho, tenho o meu",
+  "max_width": 146
+ },
+ {
+  "offset": "08DD456",
+  "en": "style of battling.",
+  "pt": "próprio jeito de lutar.",
+  "max_width": 117
+ },
+ {
+  "offset": "08DD469",
+  "en": "I do what I can.",
+  "pt": "Faço o que posso.",
+  "max_width": 105
+ },
+ {
+  "offset": "08DD47A",
+  "en": "I use different types.",
+  "pt": "Uso tipos variados.",
+  "max_width": 141
+ },
+ {
+  "offset": "08DD491",
+  "en": "I'm going to keep working",
+  "pt": "Vou continuar treinando até",
+  "max_width": 154
+ },
+ {
+  "offset": "08DD4AB",
+  "en": "until I beat a GYM LEADER.",
+  "pt": "vencer um LÍDER DE GINÁSIO.",
+  "max_width": 158
+ },
+ {
+  "offset": "08DD4C6",
+  "en": "I battle patiently.",
+  "pt": "Batalho com paciência.",
+  "max_width": 123
+ },
+ {
+  "offset": "08DD4DA",
+  "en": "WATER POKéMON to battle!",
+  "pt": "CAPTURAS ÁGUA pra lutar!",
+  "max_width": 155
+ },
+ {
+  "offset": "08DD4F3",
+  "en": "I'm the world's only guy to",
+  "pt": "Sou o único no mundo que",
+  "max_width": 160
+ },
+ {
+  "offset": "08DD50F",
+  "en": "catch a huge POKéMON!",
+  "pt": "pegou uma CAPTURA enorme!",
+  "max_width": 139
+ },
+ {
+  "offset": "08DD525",
+  "en": "Exploit the environment!",
+  "pt": "Aproveitar o ambiente!",
+  "max_width": 153
+ },
+ {
+  "offset": "08DD53E",
+  "en": "All hail the WATER type!",
+  "pt": "Viva o tipo ÁGUA!",
+  "max_width": 146
+ },
+ {
+  "offset": "08DD557",
+  "en": "I won't be beaten by some",
+  "pt": "Não vou perder pra um",
+  "max_width": 156
+ },
+ {
+  "offset": "08DD571",
+  "en": "beach bum SWIMMER!",
+  "pt": "NADADOR vagabundo!",
+  "max_width": 124
+ },
+ {
+  "offset": "08DD584",
+  "en": "Speed above all!",
+  "pt": "Rapidez é tudo!",
+  "max_width": 108
+ },
+ {
+  "offset": "08DD595",
+  "en": "I use a speedy POKéMON.",
+  "pt": "Uso uma CAPTURA veloz.",
+  "max_width": 147
+ },
+ {
+  "offset": "08DD5AD",
+  "en": "A marathon is a challenge",
+  "pt": "Uma maratona é um desafio",
+  "max_width": 155
+ },
+ {
+  "offset": "08DD5C7",
+  "en": "against your own self.",
+  "pt": "contra você mesmo.",
+  "max_width": 139
+ },
+ {
+  "offset": "08DD5DE",
+  "en": "Defense is crucial.",
+  "pt": "A defesa é essencial.",
+  "max_width": 122
+ },
+ {
+  "offset": "08DD5F2",
+  "en": "My POKéMON is solid.",
+  "pt": "Minha CAPTURA é sólida.",
+  "max_width": 126
+ },
+ {
+  "offset": "08DD607",
+  "en": "I started this for dieting,",
+  "pt": "Comecei pra emagrecer,",
+  "max_width": 163
+ },
+ {
+  "offset": "08DD623",
+  "en": "but I got right into it.",
+  "pt": "mas acabei pegando gosto.",
+  "max_width": 143
+ },
+ {
+  "offset": "08DD63C",
+  "en": "Strike before stricken!",
+  "pt": "Bater antes de apanhar!",
+  "max_width": 147
+ },
+ {
+  "offset": "08DD654",
+  "en": "A fast-running POKéMON!",
+  "pt": "Uma CAPTURA que corre muito!",
+  "max_width": 151
+ },
+ {
+  "offset": "08DD66C",
+  "en": "If you ran and ran, you'd",
+  "pt": "Se você corresse sem parar,",
+  "max_width": 151
+ },
+ {
+  "offset": "08DD686",
+  "en": "become one with the wind.",
+  "pt": "viraria um com o vento.",
+  "max_width": 155
+ },
+ {
+  "offset": "08DD6A0",
+  "en": "All-out offensive!",
+  "pt": "Ofensiva total!",
+  "max_width": 121
+ },
+ {
+  "offset": "08DD6B3",
+  "en": "WATER POKéMON rule!",
+  "pt": "CAPTURAS ÁGUA mandam!",
+  "max_width": 127
+ },
+ {
+  "offset": "08DD6C7",
+  "en": "I must swim over 6 miles",
+  "pt": "Preciso nadar mais de 10 km",
+  "max_width": 146
+ },
+ {
+  "offset": "08DD6E0",
+  "en": "every day.",
+  "pt": "todo dia.",
+  "max_width": 77
+ },
+ {
+  "offset": "08DD6EB",
+  "en": "Push and push again!",
+  "pt": "Empurrar sem parar!",
+  "max_width": 131
+ },
+ {
+  "offset": "08DD700",
+  "en": "The strength of STEEL.",
+  "pt": "A força do AÇO.",
+  "max_width": 143
+ },
+ {
+  "offset": "08DD717",
+  "en": "If you're sweating, get",
+  "pt": "Se estiver suando, beba",
+  "max_width": 144
+ },
+ {
+  "offset": "08DD72F",
+  "en": "fluids into you regularly.",
+  "pt": "líquidos com frequência.",
+  "max_width": 156
+ },
+ {
+  "offset": "08DD74A",
+  "en": "Draw the power of WATER.",
+  "pt": "Tirar a força da ÁGUA.",
+  "max_width": 151
+ },
+ {
+  "offset": "08DD763",
+  "en": "Toughened WATER POKéMON.",
+  "pt": "CAPTURAS ÁGUA calejadas.",
+  "max_width": 159
+ },
+ {
+  "offset": "08DD77C",
+  "en": "Training POKéMON is good,",
+  "pt": "Treinar CAPTURAS é bom,",
+  "max_width": 155
+ },
+ {
+  "offset": "08DD796",
+  "en": "but don't neglect yourself.",
+  "pt": "mas não se descuide.",
+  "max_width": 166
+ },
+ {
+  "offset": "08DD7B2",
+  "en": "It's about POKéMON power!",
+  "pt": "O que vale é a força delas!",
+  "max_width": 159
+ },
+ {
+  "offset": "08DD7CC",
+  "en": "See the power of DRAGONS!",
+  "pt": "Veja o poder dos DRAGÕES!",
+  "max_width": 159
+ },
+ {
+  "offset": "08DD7E6",
+  "en": "I'll become legendary as the",
+  "pt": "Um dia vou virar lenda",
+  "max_width": 170
+ },
+ {
+  "offset": "08DD803",
+  "en": "strongest one day!",
+  "pt": "como o mais forte!",
+  "max_width": 123
+ },
+ {
+  "offset": "08DD816",
+  "en": "I'll show you my technique!",
+  "pt": "Vou te mostrar minha técnica!",
+  "max_width": 163
+ },
+ {
+  "offset": "08DD832",
+  "en": "Elegantly wheeling BIRDS.",
+  "pt": "AVES em voos elegantes.",
+  "max_width": 157
+ },
+ {
+  "offset": "08DD84C",
+  "en": "My BIRD POKéMON, deliver my",
+  "pt": "Minhas AVES, levem o meu",
+  "max_width": 166
+ },
+ {
+  "offset": "08DD868",
+  "en": "love to that girl!",
+  "pt": "amor àquela garota!",
+  "max_width": 114
+ },
+ {
+  "offset": "08DD87B",
+  "en": "You'll suffer from poison!",
+  "pt": "Você vai sofrer com veneno!",
+  "max_width": 158
+ },
+ {
+  "offset": "08DD896",
+  "en": "Poisonous POKéMON.",
+  "pt": "CAPTURAS venenosas.",
+  "max_width": 124
+ },
+ {
+  "offset": "08DD8A9",
+  "en": "I undertake training so",
+  "pt": "Eu treino para um dia",
+  "max_width": 147
+ },
+ {
+  "offset": "08DD8C1",
+  "en": "that I may become a ninja.",
+  "pt": "me tornar um ninja.",
+  "max_width": 159
+ },
+ {
+  "offset": "08DD8DC",
+  "en": "The first strike wins!",
+  "pt": "Quem bate primeiro vence!",
+  "max_width": 137
+ },
+ {
+  "offset": "08DD8F3",
+  "en": "Speedy FIGHTING type.",
+  "pt": "Tipo LUTADOR veloz.",
+  "max_width": 141
+ },
+ {
+  "offset": "08DD909",
+  "en": "If my POKéMON lose,",
+  "pt": "Se a CAPTURA perder,",
+  "max_width": 124
+ },
+ {
+  "offset": "08DD91D",
+  "en": "I'll carry on the fight!",
+  "pt": "eu continuo a luta!",
+  "max_width": 143
+ },
+ {
+  "offset": "08DD936",
+  "en": "Go, go, my POKéMON!",
+  "pt": "Vai, vai, CAPTURAS!",
+  "max_width": 121
+ },
+ {
+  "offset": "08DD94A",
+  "en": "I'll raise anything.",
+  "pt": "Crio qualquer uma.",
+  "max_width": 123
+ },
+ {
+  "offset": "08DD95F",
+  "en": "UV rays are your skin's",
+  "pt": "Raios UV são inimigos da",
+  "max_width": 142
+ },
+ {
+  "offset": "08DD977",
+  "en": "enemy. Get protected.",
+  "pt": "pele. Proteja-se.",
+  "max_width": 137
+ },
+ {
+  "offset": "08DD98D",
+  "en": "No mercy!",
+  "pt": "Sem dó!",
+  "max_width": 72
+ },
+ {
+  "offset": "08DD997",
+  "en": "Cute WATER POKéMON.",
+  "pt": "CAPTURAS ÁGUA fofas.",
+  "max_width": 129
+ },
+ {
+  "offset": "08DD9AB",
+  "en": "I have too many fans.",
+  "pt": "Tenho fãs demais.",
+  "max_width": 135
+ },
+ {
+  "offset": "08DD9C1",
+  "en": "I was interviewed on TV.",
+  "pt": "Já dei entrevista na TV.",
+  "max_width": 148
+ },
+ {
+  "offset": "08DD9DA",
+  "en": "I think about this & that.",
+  "pt": "Penso nisso e naquilo.",
+  "max_width": 159
+ },
+ {
+  "offset": "08DD9F5",
+  "en": "I like all POKéMON.",
+  "pt": "Curto toda CAPTURA.",
+  "max_width": 118
+ },
+ {
+  "offset": "08DDA09",
+  "en": "What lies beyond that",
+  "pt": "O que haverá além",
+  "max_width": 137
+ },
+ {
+  "offset": "08DDA1F",
+  "en": "yonder hill?",
+  "pt": "daquela colina?",
+  "max_width": 86
+ },
+ {
+  "offset": "08DDA2C",
+  "en": "We battle together!",
+  "pt": "Batalhamos juntos!",
+  "max_width": 127
+ },
+ {
+  "offset": "08DDA40",
+  "en": "We train together!",
+  "pt": "Treinamos juntos!",
+  "max_width": 120
+ },
+ {
+  "offset": "08DDA53",
+  "en": "We like the same POKéMON,",
+  "pt": "Curtimos as mesmas CAPTURAS,",
+  "max_width": 155
+ },
+ {
+  "offset": "08DDA6D",
+  "en": "but different desserts.",
+  "pt": "mas sobremesas diferentes.",
+  "max_width": 149
+ },
+ {
+  "offset": "08DDA85",
+  "en": "I force things with power!",
+  "pt": "Resolvo tudo na força!",
+  "max_width": 160
+ },
+ {
+  "offset": "08DDAA0",
+  "en": "WATER and FIGHTING types.",
+  "pt": "Tipos ÁGUA e LUTADOR.",
+  "max_width": 162
+ },
+ {
+  "offset": "08DDABA",
+  "en": "Seamen are rough spirits!",
+  "pt": "Marujo é gente bruta!",
+  "max_width": 156
+ },
+ {
+  "offset": "08DDAD4",
+  "en": "Any complaints?",
+  "pt": "Algum problema?",
+  "max_width": 107
+ },
+ {
+  "offset": "08DDAE4",
+  "en": "Up for a fight anytime!",
+  "pt": "Topo briga a qualquer hora!",
+  "max_width": 143
+ },
+ {
+  "offset": "08DDAFC",
+  "en": "WATER POKéMON are my faves!",
+  "pt": "Amo as CAPTURAS ÁGUA!",
+  "max_width": 171
+ },
+ {
+  "offset": "08DDB18",
+  "en": "If you want to shout loud,",
+  "pt": "Pra gritar bem alto,",
+  "max_width": 160
+ },
+ {
+  "offset": "08DDB33",
+  "en": "suck in air with your belly!",
+  "pt": "puxe o ar com a barriga!",
+  "max_width": 163
+ },
+ {
+  "offset": "08DDB50",
+  "en": "Protect POKéMON from harm.",
+  "pt": "Proteger as CAPTURAS do mal.",
+  "max_width": 165
+ },
+ {
+  "offset": "08DDB6B",
+  "en": "I love rare POKéMON.",
+  "pt": "Amo CAPTURAS raras.",
+  "max_width": 128
+ },
+ {
+  "offset": "08DDB80",
+  "en": "I want to collect all the",
+  "pt": "Quero colecionar todas as",
+  "max_width": 151
+ },
+ {
+  "offset": "08DDB9A",
+  "en": "world's rare POKéMON.",
+  "pt": "CAPTURAS raras do mundo.",
+  "max_width": 133
+ },
+ {
+  "offset": "08DDBB0",
+  "en": "I count on power.",
+  "pt": "Conto com a força.",
+  "max_width": 113
+ },
+ {
+  "offset": "08DDBC2",
+  "en": "POKéMON are my children.",
+  "pt": "CAPTURAS são meus filhos.",
+  "max_width": 150
+ },
+ {
+  "offset": "08DDBDB",
+  "en": "It takes knowledge and",
+  "pt": "É preciso saber e amor",
+  "max_width": 145
+ },
+ {
+  "offset": "08DDBF2",
+  "en": "love to raise POKéMON.",
+  "pt": "para criar CAPTURAS.",
+  "max_width": 139
+ },
+ {
+  "offset": "08DDC09",
+  "en": "Full-on attack!",
+  "pt": "Ataque total!",
+  "max_width": 105
+ },
+ {
+  "offset": "08DDC19",
+  "en": "Anything. I'll raise it.",
+  "pt": "Qualquer uma. Eu crio.",
+  "max_width": 139
+ },
+ {
+  "offset": "08DDC49",
+  "en": "going after CONTEST titles.",
+  "pt": "atrás de títulos de CONCURSO.",
+  "max_width": 167
+ },
+ {
+  "offset": "08DDC65",
+  "en": "I raise POKéMON with care.",
+  "pt": "Crio CAPTURAS com carinho.",
+  "max_width": 159
+ },
+ {
+  "offset": "08DDC80",
+  "en": "Fun-to-raise POKéMON.",
+  "pt": "CAPTURAS legais de criar.",
+  "max_width": 141
+ },
+ {
+  "offset": "08DDC96",
+  "en": "Treat every POKéMON you",
+  "pt": "Respeite toda CAPTURA",
+  "max_width": 151
+ },
+ {
+  "offset": "08DDCAE",
+  "en": "meet with respect.",
+  "pt": "que encontrar.",
+  "max_width": 120
+ },
+ {
+  "offset": "08DDCC1",
+  "en": "I believe in my POKéMON.",
+  "pt": "Confio nas minhas CAPTURAS.",
+  "max_width": 147
+ },
+ {
+  "offset": "08DDCDA",
+  "en": "I like strong POKéMON.",
+  "pt": "Gosto de CAPTURAS fortes.",
+  "max_width": 139
+ },
+ {
+  "offset": "08DDCF1",
+  "en": "I'm training for rescue",
+  "pt": "Treino para fazer resgates",
+  "max_width": 143
+ },
+ {
+  "offset": "08DDD09",
+  "en": "work with my POKéMON.",
+  "pt": "com as minhas CAPTURAS.",
+  "max_width": 135
+ },
+ {
+  "offset": "08DDD1F",
+  "en": "Attack in waves!",
+  "pt": "Atacar em ondas!",
+  "max_width": 110
+ },
+ {
+  "offset": "08DDD30",
+  "en": "I use different types.",
+  "pt": "Uso tipos variados.",
+  "max_width": 141
+ },
+ {
+  "offset": "08DDD47",
+  "en": "Those who destroy nature",
+  "pt": "Quem destrói a natureza",
+  "max_width": 157
+ },
+ {
+  "offset": "08DDD60",
+  "en": "must never be forgiven!",
+  "pt": "jamais deve ser perdoado!",
+  "max_width": 147
+ },
+ {
+  "offset": "08DDD78",
+  "en": "I'll show you some guts!",
+  "pt": "Vou mostrar minha garra!",
+  "max_width": 147
+ },
+ {
+  "offset": "08DDD91",
+  "en": "Cute POKéMON are my faves!",
+  "pt": "Amo CAPTURAS fofas!",
+  "max_width": 165
+ },
+ {
+  "offset": "08DDDAC",
+  "en": "After a battle, I always",
+  "pt": "Depois da batalha, sempre",
+  "max_width": 148
+ },
+ {
+  "offset": "08DDDC5",
+  "en": "bathe with my POKéMON.",
+  "pt": "me banho com as CAPTURAS.",
+  "max_width": 142
+ },
+ {
+  "offset": "08DDDDC",
+  "en": "Lightning-fast attack!",
+  "pt": "Ataque veloz como um raio!",
+  "max_width": 147
+ },
+ {
+  "offset": "08DDDF3",
+  "en": "BUG POKéMON are number 1!",
+  "pt": "CAPTURAS INSETO são o máximo!",
+  "max_width": 158
+ },
+ {
+  "offset": "08DDE0D",
+  "en": "If you want to catch BUG",
+  "pt": "Pra pegar CAPTURAS INSETO,",
+  "max_width": 153
+ },
+ {
+  "offset": "08DDE26",
+  "en": "POKéMON, wake up early.",
+  "pt": "acorde bem cedo.",
+  "max_width": 144
+ },
+ {
+  "offset": "08DDE3E",
+  "en": "I battle with power.",
+  "pt": "Batalho com força.",
+  "max_width": 127
+ },
+ {
+  "offset": "08DDE53",
+  "en": "Hard-bodied POKéMON.",
+  "pt": "CAPTURAS de corpo duro.",
+  "max_width": 135
+ },
+ {
+  "offset": "08DDE68",
+  "en": "I've been planning a month",
+  "pt": "Planejei a trilha de hoje",
+  "max_width": 161
+ },
+ {
+  "offset": "08DDE83",
+  "en": "for today's hike.",
+  "pt": "por um mês.",
+  "max_width": 111
+ },
+ {
+  "offset": "08DDE95",
+  "en": "I like it hot!",
+  "pt": "Gosto de calor!",
+  "max_width": 91
+ },
+ {
+  "offset": "08DDEA4",
+  "en": "Hot POKéMON!",
+  "pt": "CAPTURA quente!",
+  "max_width": 91
+ },
+ {
+  "offset": "08DDEB1",
+  "en": "As much as I love POKéMON,",
+  "pt": "Por mais que eu ame CAPTURAS,",
+  "max_width": 160
+ },
+ {
+  "offset": "08DDECC",
+  "en": "I surely like hiking!",
+  "pt": "adoro fazer trilha!",
+  "max_width": 128
+ },
+ {
+  "offset": "08DDEE2",
+  "en": "Lovey-dovey strategy!",
+  "pt": "Estratégia apaixonada!",
+  "max_width": 144
+ },
+ {
+  "offset": "08DDEF8",
+  "en": "Lovey-dovey POKéMON!",
+  "pt": "CAPTURAS apaixonadas!",
+  "max_width": 139
+ },
+ {
+  "offset": "08DDF0D",
+  "en": "We're lovey-dovey!",
+  "pt": "Somos um grude!",
+  "max_width": 121
+ },
+ {
+  "offset": "08DDF20",
+  "en": "Forever lovey-dovey!",
+  "pt": "Melosos para sempre!",
+  "max_width": 135
+ },
+ {
+  "offset": "08DDF35",
+  "en": "We let it all hang out.",
+  "pt": "A gente se solta.",
+  "max_width": 136
+ },
+ {
+  "offset": "08DDF4D",
+  "en": "The 1st POKéMON I caught.",
+  "pt": "Minha primeira CAPTURA.",
+  "max_width": 159
+ },
+ {
+  "offset": "08DDF67",
+  "en": "POKéMON and I have grown",
+  "pt": "Eu e minhas CAPTURAS ficamos",
+  "max_width": 155
+ },
+ {
+  "offset": "08DDF80",
+  "en": "stronger together.",
+  "pt": "mais fortes juntos.",
+  "max_width": 123
+ },
+ {
+  "offset": "08DDF93",
+  "en": "ROCK-type power attack.",
+  "pt": "Ataque forte do tipo PEDRA.",
+  "max_width": 152
+ },
+ {
+  "offset": "08DDFAB",
+  "en": "I prefer rock-hard POKéMON.",
+  "pt": "Prefiro CAPTURAS duronas.",
+  "max_width": 170
+ },
+ {
+  "offset": "08DDFC7",
+  "en": "A LEADER of a big GYM bears",
+  "pt": "Um LÍDER de GINÁSIO grande",
+  "max_width": 165
+ },
+ {
+  "offset": "08DDFE3",
+  "en": "a lot of responsibility.",
+  "pt": "tem muita responsabilidade.",
+  "max_width": 145
+ },
+ {
+  "offset": "08DDFFC",
+  "en": "Direct physical action!",
+  "pt": "Ação física direta!",
+  "max_width": 145
+ },
+ {
+  "offset": "08DE014",
+  "en": "FIGHTING POKéMON rule!",
+  "pt": "CAPTURAS LUTADOR mandam!",
+  "max_width": 145
+ },
+ {
+  "offset": "08DE02B",
+  "en": "The world awaits me as the",
+  "pt": "O mundo me aguarda como",
+  "max_width": 160
+ },
+ {
+  "offset": "08DE046",
+  "en": "next big wave!",
+  "pt": "a próxima onda!",
+  "max_width": 98
+ },
+ {
+  "offset": "08DE055",
+  "en": "I choose to electrify.",
+  "pt": "Escolho eletrizar.",
+  "max_width": 139
+ },
+ {
+  "offset": "08DE06C",
+  "en": "Get shocked by electricity!",
+  "pt": "Leve um choque elétrico!",
+  "max_width": 168
+ },
+ {
+  "offset": "08DE088",
+  "en": "One must never throw a",
+  "pt": "Nunca se deve entregar",
+  "max_width": 142
+ },
+ {
+  "offset": "08DE09F",
+  "en": "match. Even I must not.",
+  "pt": "uma luta. Nem mesmo eu.",
+  "max_width": 144
+ },
+ {
+  "offset": "08DE0B7",
+  "en": "Battle aggressively.",
+  "pt": "Lutar com agressividade.",
+  "max_width": 131
+ },
+ {
+  "offset": "08DE0CC",
+  "en": "Burn with passion!",
+  "pt": "Arder de paixão!",
+  "max_width": 119
+ },
+ {
+  "offset": "08DE0DF",
+  "en": "Completely wash away daily",
+  "pt": "Lave todo o cansaço do dia",
+  "max_width": 163
+ },
+ {
+  "offset": "08DE0FA",
+  "en": "fatigue in hot springs!",
+  "pt": "nas fontes termais!",
+  "max_width": 144
+ },
+ {
+  "offset": "08DE112",
+  "en": "I flexibly adapt my style.",
+  "pt": "Adapto meu estilo com jeito.",
+  "max_width": 157
+ },
+ {
+  "offset": "08DE12D",
+  "en": "Grown in a balanced manner.",
+  "pt": "Criadas de forma equilibrada.",
+  "max_width": 165
+ },
+ {
+  "offset": "08DE149",
+  "en": "I walk the 30 minutes from",
+  "pt": "Ando 30 minutos de casa",
+  "max_width": 160
+ },
+ {
+  "offset": "08DE164",
+  "en": "home to here every day.",
+  "pt": "até aqui todo dia.",
+  "max_width": 145
+ },
+ {
+  "offset": "08DE17C",
+  "en": "I take advantage of speed.",
+  "pt": "Aproveito a velocidade.",
+  "max_width": 165
+ },
+ {
+  "offset": "08DE197",
+  "en": "Graceful sky dancers.",
+  "pt": "Bailarinas do céu.",
+  "max_width": 137
+ },
+ {
+  "offset": "08DE1AD",
+  "en": "The ultimate would be to",
+  "pt": "O ideal seria viver",
+  "max_width": 150
+ },
+ {
+  "offset": "08DE1C6",
+  "en": "live as one with nature.",
+  "pt": "em união com a natureza.",
+  "max_width": 146
+ },
+ {
+  "offset": "08DE1DF",
+  "en": "We battle in cooperation.",
+  "pt": "Batalhamos em cooperação.",
+  "max_width": 155
+ },
+ {
+  "offset": "08DE1F9",
+  "en": "Always friendly POKéMON.",
+  "pt": "CAPTURAS sempre amigáveis.",
+  "max_width": 152
+ },
+ {
+  "offset": "08DE212",
+  "en": "Papa has trouble telling",
+  "pt": "O papai tem dificuldade",
+  "max_width": 150
+ },
+ {
+  "offset": "08DE22B",
+  "en": "the two of us apart!",
+  "pt": "de distinguir nós dois!",
+  "max_width": 129
+ },
+ {
+  "offset": "08DE240",
+  "en": "I use splendid waterpower.",
+  "pt": "Uso o belo poder da água.",
+  "max_width": 162
+ },
+ {
+  "offset": "08DE25B",
+  "en": "POKéMON of elegance!",
+  "pt": "CAPTURAS elegantes!",
+  "max_width": 134
+ },
+ {
+  "offset": "08DE270",
+  "en": "The adulation of beautiful",
+  "pt": "A adoração de belas damas",
+  "max_width": 163
+ },
+ {
+  "offset": "08DE28B",
+  "en": "ladies fills me with energy!",
+  "pt": "me enche de energia!",
+  "max_width": 165
+ },
+ {
+  "offset": "08DE2A8",
+  "en": "Offense over defense!",
+  "pt": "Ataque acima da defesa!",
+  "max_width": 141
+ },
+ {
+  "offset": "08DE2BE",
+  "en": "The DARK side's beauties.",
+  "pt": "As belezas do lado SOMBRIO.",
+  "max_width": 155
+ },
+ {
+  "offset": "08DE2D8",
+  "en": "They said I was a punk, but",
+  "pt": "Diziam que eu era um rebelde,",
+  "max_width": 163
+ },
+ {
+  "offset": "08DE2F4",
+  "en": "I'm one of the ELITE FOUR!",
+  "pt": "mas sou da ELITE DOS QUATRO!",
+  "max_width": 160
+ },
+ {
+  "offset": "08DE30F",
+  "en": "Confuse and confound.",
+  "pt": "Confundir e desnortear.",
+  "max_width": 141
+ },
+ {
+  "offset": "08DE325",
+  "en": "There's nothing definite.",
+  "pt": "Nada é definitivo.",
+  "max_width": 155
+ },
+ {
+  "offset": "08DE33F",
+  "en": "I wonder how my grandma at",
+  "pt": "Como estará a minha avó",
+  "max_width": 163
+ },
+ {
+  "offset": "08DE35A",
+  "en": "MT. PYRE is doing?",
+  "pt": "no MT. PYRE?",
+  "max_width": 116
+ },
+ {
+  "offset": "08DE36D",
+  "en": "I use items for help.",
+  "pt": "Uso itens como ajuda.",
+  "max_width": 130
+ },
+ {
+  "offset": "08DE383",
+  "en": "Flaming passion in icy cold!",
+  "pt": "Paixão ardente no frio gelado!",
+  "max_width": 166
+ },
+ {
+  "offset": "08DE3A0",
+  "en": "The ICE type can be better",
+  "pt": "O tipo GELO treina melhor",
+  "max_width": 164
+ },
+ {
+  "offset": "08DE3BB",
+  "en": "trained in this hot land.",
+  "pt": "nesta terra quente.",
+  "max_width": 150
+ },
+ {
+  "offset": "08DE3D5",
+  "en": "Harness strong abilities.",
+  "pt": "Usar habilidades fortes.",
+  "max_width": 155
+ },
+ {
+  "offset": "08DE3EF",
+  "en": "The raw power of DRAGONS!",
+  "pt": "O poder bruto dos DRAGÕES!",
+  "max_width": 158
+ },
+ {
+  "offset": "08DE409",
+  "en": "I dedicate myself to the",
+  "pt": "Eu me dedico às CAPTURAS",
+  "max_width": 152
+ },
+ {
+  "offset": "08DE422",
+  "en": "POKéMON that saved me.",
+  "pt": "que me salvaram.",
+  "max_width": 144
+ },
+ {
+  "offset": "08DE439",
+  "en": "Dignity and respect.",
+  "pt": "Dignidade e respeito.",
+  "max_width": 130
+ },
+ {
+  "offset": "08DE44E",
+  "en": "I prefer POKéMON of grace.",
+  "pt": "Prefiro CAPTURAS graciosas.",
+  "max_width": 162
+ },
+ {
+  "offset": "08DE469",
+  "en": "I represent beauty as",
+  "pt": "Represento a beleza",
+  "max_width": 139
+ },
+ {
+  "offset": "08DE47F",
+  "en": "well as intelligence.",
+  "pt": "e também a inteligência.",
+  "max_width": 129
+ },
+ {
+  "offset": "08DFCAC",
+  "en": "CHAMPION-beating, HALL",
+  "pt": "FITA por vencer o CAMPEÃO",
+  "max_width": 148
+ },
+ {
+  "offset": "08DFCC3",
+  "en": "OF FAME Member RIBBON",
+  "pt": "e entrar no HALL DA FAMA",
+  "max_width": 140
+ },
+ {
+  "offset": "08DFCD9",
+  "en": "COOL CONTEST",
+  "pt": "CONC. ESTILO",
+  "max_width": 75
+ },
+ {
+  "offset": "08DFCE6",
+  "en": "BEAUTY CONTEST",
+  "pt": "CONC. BELEZA",
+  "max_width": 87
+ },
+ {
+  "offset": "08DFCF5",
+  "en": "CUTE CONTEST",
+  "pt": "CONC. FOFURA",
+  "max_width": 75
+ },
+ {
+  "offset": "08DFD02",
+  "en": "SMART CONTEST",
+  "pt": "CONC. INTELIG.",
+  "max_width": 81
+ },
+ {
+  "offset": "08DFD10",
+  "en": "TOUGH CONTEST",
+  "pt": "CONC. GARRA",
+  "max_width": 81
+ },
+ {
+  "offset": "08DFD1E",
+  "en": "Normal Rank winner!",
+  "pt": "Venceu o nível NORMAL!",
+  "max_width": 124
+ },
+ {
+  "offset": "08DFD32",
+  "en": "Super Rank winner!",
+  "pt": "Venceu o nível SUPER!",
+  "max_width": 120
+ },
+ {
+  "offset": "08DFD45",
+  "en": "Hyper Rank winner!",
+  "pt": "Venceu o nível HIPER!",
+  "max_width": 120
+ },
+ {
+  "offset": "08DFD58",
+  "en": "Master Rank winner!",
+  "pt": "Venceu o nível MESTRE!",
+  "max_width": 126
+ },
+ {
+  "offset": "08DFD6C",
+  "en": "For clearing LV50",
+  "pt": "Por vencer o NV50",
+  "max_width": 114
+ },
+ {
+  "offset": "08DFD7E",
+  "en": "at the BATTLE TOWER.",
+  "pt": "na TORRE DE BATALHA.",
+  "max_width": 132
+ },
+ {
+  "offset": "08DFD93",
+  "en": "For clearing Open Level",
+  "pt": "Por vencer o Nível Livre",
+  "max_width": 145
+ },
+ {
+  "offset": "08DFDAB",
+  "en": "at the BATTLE TOWER.",
+  "pt": "na TORRE DE BATALHA.",
+  "max_width": 132
+ },
+ {
+  "offset": "08DFDC0",
+  "en": "RIBBON for being chosen",
+  "pt": "FITA por ser escolhida",
+  "max_width": 150
+ },
+ {
+  "offset": "08DFDD8",
+  "en": "as a super sketch model.",
+  "pt": "como modelo de retrato.",
+  "max_width": 150
+ },
+ {
+  "offset": "08DFDF1",
+  "en": "RIBBON awarded for",
+  "pt": "FITA concedida por",
+  "max_width": 124
+ },
+ {
+  "offset": "08DFE04",
+  "en": "being a hard worker.",
+  "pt": "ser muito esforçada.",
+  "max_width": 127
+ },
+ {
+  "offset": "08DFEE4",
+  "en": "2003 REGIONAL TOURNEY",
+  "pt": "TORNEIO REGIONAL 2003",
+  "max_width": 144
+ },
+ {
+  "offset": "08DFEFA",
+  "en": "CHAMPION RIBBON",
+  "pt": "FITA DE CAMPEÃO",
+  "max_width": 93
+ },
+ {
+  "offset": "08DFF0A",
+  "en": "2003 NATIONAL TOURNEY",
+  "pt": "TORNEIO NACIONAL 2003",
+  "max_width": 144
+ },
+ {
+  "offset": "08DFF20",
+  "en": "2003 GLOBAL CUP",
+  "pt": "COPA GLOBAL 2003",
+  "max_width": 90
+ },
+ {
+  "offset": "08DFF30",
+  "en": "Runner-up RIBBON",
+  "pt": "FITA de vice-campeão",
+  "max_width": 116
+ },
+ {
+  "offset": "08DFF41",
+  "en": "Semifinalist RIBBON",
+  "pt": "FITA de semifinalista",
+  "max_width": 127
+ },
+ {
+  "offset": "08DFF55",
+  "en": "2004 REGIONAL TOURNEY",
+  "pt": "TORNEIO REGIONAL 2004",
+  "max_width": 144
+ },
+ {
+  "offset": "08DFF6B",
+  "en": "2004 NATIONAL TOURNEY",
+  "pt": "TORNEIO NACIONAL 2004",
+  "max_width": 144
+ },
+ {
+  "offset": "08DFF81",
+  "en": "2004 GLOBAL CUP",
+  "pt": "COPA GLOBAL 2004",
+  "max_width": 90
+ },
+ {
+  "offset": "08DFF91",
+  "en": "2005 REGIONAL TOURNEY",
+  "pt": "TORNEIO REGIONAL 2005",
+  "max_width": 144
+ },
+ {
+  "offset": "08DFFA7",
+  "en": "2005 NATIONAL TOURNEY",
+  "pt": "TORNEIO NACIONAL 2005",
+  "max_width": 144
+ },
+ {
+  "offset": "08DFFBD",
+  "en": "2005 GLOBAL CUP",
+  "pt": "COPA GLOBAL 2005",
+  "max_width": 90
+ },
+ {
+  "offset": "08DFFCD",
+  "en": "POKéMON BATTLE CUP",
+  "pt": "COPA BATALHA CAPTURA",
+  "max_width": 126
+ },
+ {
+  "offset": "08DFFE0",
+  "en": "Participation RIBBON",
+  "pt": "FITA de participação",
+  "max_width": 134
+ },
+ {
+  "offset": "08DFFF5",
+  "en": "POKéMON LEAGUE",
+  "pt": "LIGA CAPTURA",
+  "max_width": 105
+ },
+ {
+  "offset": "08E0004",
+  "en": "ADVANCE CUP",
+  "pt": "COPA ADVANCE",
+  "max_width": 69
+ },
+ {
+  "offset": "08E0010",
+  "en": "POKéMON Tournament",
+  "pt": "Torneio CAPTURA",
+  "max_width": 128
+ },
+ {
+  "offset": "08E0023",
+  "en": "Participation RIBBON",
+  "pt": "FITA de participação",
+  "max_width": 134
+ },
+ {
+  "offset": "08E0038",
+  "en": "POKéMON Event",
+  "pt": "Evento CAPTURA",
+  "max_width": 99
+ },
+ {
+  "offset": "08E0046",
+  "en": "POKéMON Festival",
+  "pt": "Festival CAPTURA",
+  "max_width": 113
+ },
+ {
+  "offset": "08E0057",
+  "en": "Difficulty-clearing",
+  "pt": "FITA comemorativa por",
+  "max_width": 127
+ },
+ {
+  "offset": "08E006B",
+  "en": "Commemorative RIBBON",
+  "pt": "superar dificuldades",
+  "max_width": 138
+ },
+ {
+  "offset": "08E0080",
+  "en": "RIBBON awarded for",
+  "pt": "FITA concedida por",
+  "max_width": 124
+ },
+ {
+  "offset": "08E0093",
+  "en": "clearing all challenges.",
+  "pt": "vencer todos os desafios.",
+  "max_width": 146
+ },
+ {
+  "offset": "08E00AC",
+  "en": "100-straight Win",
+  "pt": "100 vitórias em série",
+  "max_width": 112
+ },
+ {
+  "offset": "08E00BD",
+  "en": "DARKNESS TOWER Clear",
+  "pt": "TORRE DAS TREVAS vencida",
+  "max_width": 135
+ },
+ {
+  "offset": "08E00D2",
+  "en": "RED TOWER Clear",
+  "pt": "TORRE VERM. vencida",
+  "max_width": 105
+ },
+ {
+  "offset": "08E00E2",
+  "en": "BLACKIRON TOWER Clear",
+  "pt": "TORRE FERRO NEGRO vencida",
+  "max_width": 141
+ },
+ {
+  "offset": "08E00F8",
+  "en": "FINAL TOWER Clear",
+  "pt": "TORRE FINAL vencida",
+  "max_width": 117
+ },
+ {
+  "offset": "08E010A",
+  "en": "Legend-making",
+  "pt": "Criando lendas",
+  "max_width": 100
+ },
+ {
+  "offset": "08E0118",
+  "en": "POKéMON CENTER TOKYO",
+  "pt": "CENTRO CAPTURA TÓQUIO",
+  "max_width": 138
+ },
+ {
+  "offset": "08E012D",
+  "en": "POKéMON CENTER OSAKA",
+  "pt": "CENTRO CAPTURA OSAKA",
+  "max_width": 138
+ },
+ {
+  "offset": "08E0142",
+  "en": "POKéMON CENTER NAGOYA",
+  "pt": "CENTRO CAPTURA NAGOYA",
+  "max_width": 144
+ },
+ {
+  "offset": "08E0158",
+  "en": "POKéMON CENTER NY",
+  "pt": "CENTRO CAPTURA NY",
+  "max_width": 120
+ },
+ {
+  "offset": "08E016A",
+  "en": "Summer Holidays RIBBON",
+  "pt": "FITA das Férias de Verão",
+  "max_width": 145
+ },
+ {
+  "offset": "08E0182",
+  "en": "Winter Holidays RIBBON",
+  "pt": "FITA das Férias de Inverno",
+  "max_width": 143
+ },
+ {
+  "offset": "08E0199",
+  "en": "Spring Holidays RIBBON",
+  "pt": "FITA das Férias Primaveris",
+  "max_width": 143
+ },
+ {
+  "offset": "08E01B0",
+  "en": "Evergreen RIBBON",
+  "pt": "FITA Sempre-Verde",
+  "max_width": 115
+ },
+ {
+  "offset": "08E01C1",
+  "en": "Special Holiday RIBBON",
+  "pt": "FITA de Feriado Especial",
+  "max_width": 142
+ },
+ {
+  "offset": "08E01D8",
+  "en": "Hard Worker RIBBON",
+  "pt": "FITA da Dedicação",
+  "max_width": 123
+ },
+ {
+  "offset": "08E01EB",
+  "en": "Lots of Friends RIBBON",
+  "pt": "FITA dos Muitos Amigos",
+  "max_width": 144
+ },
+ {
+  "offset": "08E0202",
+  "en": "Full of Energy RIBBON",
+  "pt": "FITA Cheia de Energia",
+  "max_width": 136
+ },
+ {
+  "offset": "08E0218",
+  "en": "A commemorative RIBBON",
+  "pt": "Uma FITA comemorativa",
+  "max_width": 147
+ },
+ {
+  "offset": "08E022F",
+  "en": "for a loved POKéMON.",
+  "pt": "para uma CAPTURA amada.",
+  "max_width": 129
+ },
+ {
+  "offset": "08E0244",
+  "en": "RIBBON that shows",
+  "pt": "FITA que mostra amor",
+  "max_width": 120
+ },
+ {
+  "offset": "08E0256",
+  "en": "love for POKéMON.",
+  "pt": "pelas CAPTURAS.",
+  "max_width": 114
+ },
+ {
+  "offset": "08E7D8C",
+  "en": "{CLEAR 0B}A{CLEAR 06}B{CLEAR 06}C{CLEAR 1A}D{CLEAR 06}E{CLEAR 06}F{CLEAR 1A}others",
+  "pt": "",
+  "max_width": 95
+ },
+ {
+  "offset": "08E7DAE",
+  "en": "{CLEAR 0B}G{CLEAR 06}H{CLEAR 06}I{CLEAR 1A}J{CLEAR 06}K{CLEAR 06}L",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "08E7DC7",
+  "en": "{CLEAR 0B}M{CLEAR 06}N{CLEAR 06}O{CLEAR 1A}P{CLEAR 06}Q{CLEAR 06}R{CLEAR 06}S{CLEAR 1A} ",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "08E7DE8",
+  "en": "{CLEAR 0B}T{CLEAR 06}U{CLEAR 06}V{CLEAR 1A}W{CLEAR 06}X{CLEAR 06}Y{CLEAR 06}Z{CLEAR 1A} ",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "08E7E09",
+  "en": "{CLEAR 0B}a{CLEAR 06}b{CLEAR 06}c{CLEAR 1A}d{CLEAR 06}e{CLEAR 06}f{CLEAR 06} {CLEAR 1E}.",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "08E7E2A",
+  "en": "{CLEAR 0B}g{CLEAR 06}h{CLEAR 07}i{CLEAR 1B}j{CLEAR 07}k{CLEAR 07}l{CLEAR 07} {CLEAR 1E},",
+  "pt": "",
+  "max_width": 61
+ },
+ {
+  "offset": "08E7E4B",
+  "en": "{CLEAR 0B}m{CLEAR 06}n{CLEAR 06}o{CLEAR 1A}p{CLEAR 06}q{CLEAR 07}r{CLEAR 06}s{CLEAR 1B} ",
+  "pt": "",
+  "max_width": 68
+ },
+ {
+  "offset": "08E7E6C",
+  "en": "{CLEAR 0B}t{CLEAR 06}u{CLEAR 06}v{CLEAR 1A}w{CLEAR 06}x{CLEAR 06}y{CLEAR 06}z{CLEAR 1A} ",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "offset": "08E7E8D",
+  "en": "{CLEAR 0B}A{CLEAR 06}B{CLEAR 06}C{CLEAR 1A}D{CLEAR 06}E{CLEAR 06}F{CLEAR 06} {CLEAR 1E}.",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "08E7EAE",
+  "en": "{CLEAR 0B}G{CLEAR 06}H{CLEAR 06}I{CLEAR 1A}J{CLEAR 06}K{CLEAR 06}L{CLEAR 06} {CLEAR 1E},",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "08E7ECF",
+  "en": "{CLEAR 0B}M{CLEAR 06}N{CLEAR 06}O{CLEAR 1A}P{CLEAR 06}Q{CLEAR 06}R{CLEAR 06}S{CLEAR 1A} ",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "08E7EF0",
+  "en": "{CLEAR 0B}T{CLEAR 06}U{CLEAR 06}V{CLEAR 1A}W{CLEAR 06}X{CLEAR 06}Y{CLEAR 06}Z{CLEAR 1A} ",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "08E7F75",
+  "en": "ABCDE",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08E7F7B",
+  "en": "FGHIJ",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08E7F81",
+  "en": "KLMNO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08E7F87",
+  "en": "PQRST",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08E7F8D",
+  "en": "UVWXY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08E7FB1",
+  "en": "abcde",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "08E7FB7",
+  "en": "fghij",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "08E7FBD",
+  "en": "klmno",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "08E7FC3",
+  "en": "pqrst",
+  "pt": "",
+  "max_width": 53
+ },
+ {
+  "offset": "08E7FC9",
+  "en": "uvwxy",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "0939060",
+  "en": "Obtained a {STR_VAR_2} BERRY!\\nDad has it at PETALBURG GYM.",
+  "pt": "FRUTA {STR_VAR_2} obtida! Está\\ncom o papai no GIN. PETALBURG.",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "0939092",
+  "en": "The {STR_VAR_1} BERRY transformed into\\none {STR_VAR_2} BERRY.",
+  "pt": "A FRUTA {STR_VAR_1} se transformou em uma FRUTA {STR_VAR_2}.",
+  "max_lines": 2,
+  "max_width": 198
+ },
+ {
+  "offset": "09390BE",
+  "en": "The {STR_VAR_1} BERRY has already been\\nobtained.",
+  "pt": "A FRUTA {STR_VAR_1} já foi obtida.",
+  "max_lines": 2,
+  "max_width": 196
+ },
+ {
+  "offset": "09390E6",
+  "en": "A special RIBBON was awarded to\\nyour party POKéMON.",
+  "pt": "Uma FITA especial foi dada às CAPTURAS da sua equipe.",
+  "max_lines": 2,
+  "max_width": 176
+ },
+ {
+  "offset": "093911A",
+  "en": "The POKéDEX has been upgraded\\nwith the NATIONAL MODE.",
+  "pt": "A TATTLEDEX foi atualizada com o MODO NACIONAL.",
+  "max_lines": 2,
+  "max_width": 171
+ },
+ {
+  "offset": "0939150",
+  "en": "A rare word has been added.",
+  "pt": "Uma palavra rara foi incluída.",
+  "max_width": 165
+ },
+ {
+  "offset": "093916C",
+  "en": "{STR_VAR_1} was sent over!",
+  "pt": "Enviaram {STR_VAR_1}!",
+  "max_width": 144
+ },
+ {
+  "offset": "093917E",
+  "en": "Your party is full.\\n{STR_VAR_1} could not be sent over.",
+  "pt": "Sua equipe está cheia. Não foi possível enviar {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 175
+ },
+ {
+  "offset": "09391AD",
+  "en": "A new TRAINER has arrived in\\nHOENN.",
+  "pt": "Um novo TREINADOR chegou a HOENN.",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "0939202",
+  "en": "This data can't be used in\\nthis version.",
+  "pt": "Estes dados não podem ser usados nesta versão.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "0939700",
+  "en": "Thank you for using the MYSTERY\\nGIFT System.\\pYour BATTLE COUNT CARD keeps\\ntrack of your battle record against\\lTRAINERS with the same CARD.\\pLook for and battle TRAINERS who\\nhave the same CARD as you.\\pYou may check the overall rankings\\nby reading the NEWS.\\pPlease do give it a try!",
+  "pt": "Obrigado por usar o Sistema de PRESENTE MISTERIOSO.\\pO seu CARTÃO CONTA-BATALHAS registra o seu histórico contra TREINADORES com o mesmo CARTÃO.\\pProcure TREINADORES que tenham o mesmo CARTÃO que você e batalhe com eles.\\pVocê pode conferir a classificação geral lendo as NOTÍCIAS.\\pNão deixe de experimentar!"
+ },
+ {
+  "offset": "0939A13",
+  "en": "Oh, I'm sorry, {PLAYER}.\\nYour BAG's KEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
+  "pt": "Ah, sinto muito, {PLAYER}. O bolso de ITENS-CHAVE da sua BOLSA está cheio.\\pGuarde alguma coisa no seu PC e depois volte para pegar isto."
+ },
+ {
+  "offset": "0939BEB",
+  "en": "Oh, I'm sorry, {PLAYER}.\\nYour BAG's KEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
+  "pt": "Ah, sinto muito, {PLAYER}. O bolso de ITENS-CHAVE da sua BOLSA está cheio.\\pGuarde alguma coisa no seu PC e depois volte para pegar isto."
+ },
+ {
+  "offset": "0939C84",
+  "en": "Thank you for using the MYSTERY\\nGIFT System.\\pThere appears to be a rumor about\\nrare POKéMON sightings.\\pThe sightings reportedly came from\\nthe ALTERING CAVE on ROUTE 103.\\pPerhaps it would be worthwhile for\\nyou to investigate this rumor.",
+  "pt": "Obrigado por usar o Sistema de PRESENTE MISTERIOSO.\\pParece que há um boato sobre aparições de CAPTURAS raras.\\pDizem que elas foram vistas na ALTERING CAVE, na ROTA 103.\\pTalvez valha a pena você investigar esse boato."
+ },
+ {
+  "offset": "0939EE6",
+  "en": "Oh, I'm sorry, {PLAYER}.\\nYour BAG's KEY ITEMS POCKET is full.\\pPlease store something on your PC,\\nthen come back for this.",
+  "pt": "Ah, sinto muito, {PLAYER}. O bolso de ITENS-CHAVE da sua BOLSA está cheio.\\pGuarde alguma coisa no seu PC e depois volte para pegar isto."
+ },
+ {
+  "offset": "09B8F8C",
+  "en": "Âönfjruxwqmkhhkmszü",
+  "pt": "",
+  "max_width": 136
+ },
+ {
+  "offset": "0ABF708",
+  "en": "Xm:",
+  "pt": "",
+  "max_width": 39
+ },
+ {
+  "offset": "0BEC00C",
+  "en": "\\nzz\\n",
+  "pt": "",
+  "max_lines": 3,
+  "max_width": 22
+ },
+ {
+  "offset": "0C146BD",
+  "en": "jWl\\n",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 25
+ },
+ {
+  "offset": "0C48C34",
+  "en": "ig?j▶",
+  "pt": "",
+  "max_width": 53
+ },
+ {
+  "offset": "0C72884",
+  "en": "ëiRBT",
+  "pt": "",
+  "max_width": 52
+ },
+ {
+  "offset": "0CD04BD",
+  "en": "      ↑ÎRRSjzzz",
+  "pt": "",
+  "max_width": 96
+ },
+ {
+  "offset": "0D11B00",
+  "en": "ÚŒyiyyk▶zÓŒãhÓyyzl",
+  "pt": "",
+  "max_width": 131
+ },
+ {
+  "offset": "0E6120C",
+  "en": "LOXWXhmuuÄzuytokolfcaQTYhlmotyÖ:tÄÜÖÖÖ{F7 F6}äöÜ{F7 FD}",
+  "pt": ""
+ },
+ {
+  "offset": "0E95FC4",
+  "en": "NUZLOCKE",
+  "pt": "NUZLOCKE",
+  "max_width": 54
+ },
+ {
+  "offset": "0E97651",
+  "en": "NUZLOCKE",
+  "pt": "NUZLOCKE",
+  "max_width": 54
+ },
+ {
+  "offset": "0E976B2",
+  "en": "NORMAL",
+  "pt": "NORMAL",
+  "max_width": 42
+ },
+ {
+  "offset": "0E976B9",
+  "en": "HARD",
+  "pt": "HARD",
+  "max_width": 30
+ },
+ {
+  "offset": "0E976FE",
+  "en": "NORMAL",
+  "pt": "NORMAL",
+  "max_width": 42
+ },
+ {
+  "offset": "0E98005",
+  "en": "All Missions",
+  "pt": "Missões: Todas",
+  "max_width": 85
+ },
+ {
+  "offset": "0E98012",
+  "en": "Inactive Missions",
+  "pt": "Missões Inativas",
+  "max_width": 117
+ },
+ {
+  "offset": "0E98024",
+  "en": "Active Missions",
+  "pt": "Missões Ativas",
+  "max_width": 105
+ },
+ {
+  "offset": "0E98034",
+  "en": "Reward Available",
+  "pt": "Prêmio Disponível",
+  "max_width": 110
+ },
+ {
+  "offset": "0E98045",
+  "en": "Completed Missions",
+  "pt": "Missões Concluídas",
+  "max_width": 123
+ },
+ {
+  "offset": "0E98065",
+  "en": "Active",
+  "pt": "Ativa",
+  "max_width": 58
+ },
+ {
+  "offset": "0E9806C",
+  "en": "Reward",
+  "pt": "Prêmio",
+  "max_width": 59
+ },
+ {
+  "offset": "0E98073",
+  "en": "Done",
+  "pt": "Feita",
+  "max_width": 48
+ },
+ {
+  "offset": "0E98078",
+  "en": "Location: {STR_VAR_2}",
+  "pt": "Local: {STR_VAR_2}",
+  "max_width": 118
+ },
+ {
+  "offset": "0E98085",
+  "en": "Start for more details.",
+  "pt": "START para mais detalhes.",
+  "max_width": 143
+ },
+ {
+  "offset": "0E9809D",
+  "en": "Return to {STR_VAR_2}\\nto recieve your reward!",
+  "pt": "Volte a {STR_VAR_2} para receber o seu prêmio!",
+  "max_lines": 2,
+  "max_width": 131
+ },
+ {
+  "offset": "0E980C6",
+  "en": "{F8 03}Type",
+  "pt": "{F8 03}Tipo",
+  "max_width": 60
+ },
+ {
+  "offset": "0E980D4",
+  "en": "Found",
+  "pt": "Achados",
+  "max_width": 54
+ },
+ {
+  "offset": "0E980DF",
+  "en": "Back",
+  "pt": "Voltar",
+  "max_width": 48
+ },
+ {
+  "offset": "0E980E7",
+  "en": "Close",
+  "pt": "Fechar",
+  "max_width": 52
+ },
+ {
+  "offset": "0E980F1",
+  "en": " A-Z",
+  "pt": " A-Z",
+  "max_width": 27
+ },
+ {
+  "offset": "0E980F6",
+  "en": "WARIO",
+  "pt": "WARIO",
+  "max_width": 36
+ },
+ {
+  "offset": "0E980FC",
+  "en": "GONNA",
+  "pt": "VENCE",
+  "max_width": 36
+ },
+ {
+  "offset": "0E98102",
+  "en": "WIN",
+  "pt": "TUDO",
+  "max_width": 24
+ },
+ {
+  "offset": "0E98106",
+  "en": "Won",
+  "pt": "Venceu",
+  "max_width": 42
+ },
+ {
+  "offset": "0E981B4",
+  "en": "Begun",
+  "pt": "Iniciada",
+  "max_width": 54
+ },
+ {
+  "offset": "0E981C2",
+  "en": "Battle!",
+  "pt": "Batalha!",
+  "max_width": 62
+ },
+ {
+  "offset": "1179137",
+  "en": "   AÎ…QRAQR",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "139A6B8",
+  "en": "       z  zz lzë lìÙ zëy zÙz zWj    zzzzzzzzÙÙÙÙiiiizzzzëÙÙÙÙÙÙÙ    zzzzzzzzÙÙÙÙiiiizzzzÙÙÙÙÙÙÙÙ    zzzzzzzzÙÙÙÙiiiëzzzzÙÙÙyÙÙÙW    Ó   zÓ  yz  ÙzÓ ëyÓ ìmÓ jmÓ     zzzz",
+  "pt": ""
+ },
+ {
+  "offset": "139A758",
+  "en": "    zzzz",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "140E990",
+  "en": "TRUE",
+  "pt": "SIM",
+  "max_width": 30
+ },
+ {
+  "offset": "140E995",
+  "en": "FALSE",
+  "pt": "NÃO",
+  "max_width": 36
+ },
+ {
+  "offset": "140E9B1",
+  "en": "Continue…{CLEAR_TO 6E}→",
+  "pt": "Continuar…{CLEAR_TO 6E}→",
+  "max_width": 83
+ },
+ {
+  "offset": "140E9BF",
+  "en": "Utilities…{CLEAR_TO 6E}→",
+  "pt": "Utilidades…{CLEAR_TO 6E}→",
+  "max_width": 83
+ },
+ {
+  "offset": "140E9CE",
+  "en": "Scripts…{CLEAR_TO 6E}→",
+  "pt": "Scripts…{CLEAR_TO 6E}→",
+  "max_width": 76
+ },
+ {
+  "offset": "140E9DB",
+  "en": "Flags & Vars…{CLEAR_TO 6E}→",
+  "pt": "Flags e Vars…{CLEAR_TO 6E}→",
+  "max_width": 101
+ },
+ {
+  "offset": "140E9FD",
+  "en": "Give X…{CLEAR_TO 6E}→",
+  "pt": "Dar X…{CLEAR_TO 6E}→",
+  "max_width": 68
+ },
+ {
+  "offset": "140EA09",
+  "en": "Fill PC/Pockets…{CLEAR_TO 6E}→",
+  "pt": "Encher PC/Bolsos…{CLEAR_TO 6E}→",
+  "max_width": 118
+ },
+ {
+  "offset": "140EA1E",
+  "en": "Sound…{CLEAR_TO 6E}→",
+  "pt": "Som…{CLEAR_TO 6E}→",
+  "max_width": 67
+ },
+ {
+  "offset": "140EA29",
+  "en": "Access PC…{CLEAR_TO 6E}→",
+  "pt": "Acessar PC…{CLEAR_TO 6E}→",
+  "max_width": 88
+ },
+ {
+  "offset": "140EA38",
+  "en": "Cancel",
+  "pt": "Cancelar",
+  "max_width": 58
+ },
+ {
+  "offset": "140EA3F",
+  "en": "Reload Map",
+  "pt": "Recarr. Mapa",
+  "max_width": 79
+ },
+ {
+  "offset": "140EA4A",
+  "en": "Captain Toad",
+  "pt": "Captain Toad",
+  "max_width": 91
+ },
+ {
+  "offset": "140EA57",
+  "en": "Disable Randomizer",
+  "pt": "Desligar Randomizador",
+  "max_width": 122
+ },
+ {
+  "offset": "140EA6A",
+  "en": "Destroy Follower",
+  "pt": "Remover Seguidor",
+  "max_width": 111
+ },
+ {
+  "offset": "140EA7B",
+  "en": "Increment Level Cap",
+  "pt": "Subir Limite de Nível",
+  "max_width": 129
+ },
+ {
+  "offset": "140EA8F",
+  "en": "Decrement Level Cap",
+  "pt": "Baixar Limite de Nível",
+  "max_width": 129
+ },
+ {
+  "offset": "140EAA3",
+  "en": "Start Credits",
+  "pt": "Iniciar Créditos",
+  "max_width": 95
+ },
+ {
+  "offset": "140EAB1",
+  "en": "Toggle Nuzlocke",
+  "pt": "Alternar Nuzlocke",
+  "max_width": 107
+ },
+ {
+  "offset": "140EAC1",
+  "en": "Heal Party",
+  "pt": "Curar Equipe",
+  "max_width": 78
+ },
+ {
+  "offset": "140EACC",
+  "en": "Fly to map…{CLEAR_TO 6E}→",
+  "pt": "Voar p/ mapa…{CLEAR_TO 6E}→",
+  "max_width": 89
+ },
+ {
+  "offset": "140EADC",
+  "en": "Warp to map warp…{CLEAR_TO 6E}→",
+  "pt": "Warp p/ warp do mapa…{CLEAR_TO 6E}→",
+  "max_width": 122
+ },
+ {
+  "offset": "140EAF2",
+  "en": "Group: {STR_VAR_1}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n\\n{STR_VAR_3}{CLEAR_TO 5A}",
+  "pt": "Grupo: {STR_VAR_1}{CLEAR_TO 5A}\\n{CLEAR_TO 5A}\\n\\n{STR_VAR_3}{CLEAR_TO 5A}",
+  "max_lines": 4,
+  "max_width": 87
+ },
+ {
+  "offset": "140EB0A",
+  "en": "Map: {STR_VAR_1}{CLEAR_TO 5A}\\nMapSec:{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}\\n{STR_VAR_3}{CLEAR_TO 5A}",
+  "pt": "Mapa: {STR_VAR_1}{CLEAR_TO 5A}\\nMapSec:{CLEAR_TO 5A}\\n{STR_VAR_2}{CLEAR_TO 5A}\\n{STR_VAR_3}{CLEAR_TO 5A}",
+  "max_lines": 4,
+  "max_width": 76
+ },
+ {
+  "offset": "140EB4D",
+  "en": "Poison all mons",
+  "pt": "Envenenar todos",
+  "max_width": 102
+ },
+ {
+  "offset": "140EB5D",
+  "en": "SaveBlock Space…{CLEAR_TO 6E}→",
+  "pt": "Espaço SaveBlock…{CLEAR_TO 6E}→",
+  "max_width": 122
+ },
+ {
+  "offset": "140EB72",
+  "en": "ROM space…{CLEAR_TO 6E}→",
+  "pt": "Espaço ROM…{CLEAR_TO 6E}→",
+  "max_width": 88
+ },
+ {
+  "offset": "140EB81",
+  "en": "Set weather…{CLEAR_TO 6E}→",
+  "pt": "Definir clima…{CLEAR_TO 6E}→",
+  "max_width": 99
+ },
+ {
+  "offset": "140EB92",
+  "en": "Weather Id: {STR_VAR_3}\\n{STR_VAR_1}\\n{STR_VAR_2}",
+  "pt": "ID do clima: {STR_VAR_3}\\n{STR_VAR_1}\\n{STR_VAR_2}",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "140EBA7",
+  "en": "Check Wall Clock…{CLEAR_TO 6E}→",
+  "pt": "Ver relógio…{CLEAR_TO 6E}→",
+  "max_width": 121
+ },
+ {
+  "offset": "140EBBD",
+  "en": "Set Wall Clock…{CLEAR_TO 6E}→",
+  "pt": "Ajustar relógio…{CLEAR_TO 6E}→",
+  "max_width": 109
+ },
+ {
+  "offset": "140EBD1",
+  "en": "Watch Credits…{CLEAR_TO 6E}→",
+  "pt": "Ver créditos…{CLEAR_TO 6E}→",
+  "max_width": 109
+ },
+ {
+  "offset": "140EBE4",
+  "en": "Trainer name",
+  "pt": "Nome Treinador",
+  "max_width": 89
+ },
+ {
+  "offset": "140EBF1",
+  "en": "Toggle T. Gender",
+  "pt": "Mudar Gênero T.",
+  "max_width": 108
+ },
+ {
+  "offset": "140EC02",
+  "en": "New Trainer Id",
+  "pt": "Novo ID Trein.",
+  "max_width": 98
+ }
+]

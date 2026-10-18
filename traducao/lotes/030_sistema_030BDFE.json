@@ -1,0 +1,1012 @@
+[
+ {
+  "offset": "030BDFE",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER moved the SECRET BASE\\n{STR_VAR_1} times!\\p{STR_VAR_3} is a TRAINER who loves\\nto move houses often!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR mudou a BASE SECRETA de lugar {STR_VAR_1} vezes!\\p{STR_VAR_3} é um TREINADOR que adora se mudar!"
+ },
+ {
+  "offset": "030BE81",
+  "en": "The SPLASH-Happy TRAINER",
+  "pt": "O TREINADOR Fã de BORRIFADA"
+ },
+ {
+  "offset": "030BE9A",
+  "en": "Used SPLASH",
+  "pt": "Usou BORRIFADA"
+ },
+ {
+  "offset": "030BEA6",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER used SPLASH\\n{STR_VAR_1} times!\\p{STR_VAR_3} is a TRAINER who must love\\nSPLASHING around!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR usou BORRIFADA {STR_VAR_1} vezes!\\p{STR_VAR_3} é um TREINADOR que deve adorar sair BORRIFANDO por aí!"
+ },
+ {
+  "offset": "030BF1F",
+  "en": "The Tenacious TRAINER",
+  "pt": "O TREINADOR Insistente"
+ },
+ {
+  "offset": "030BF35",
+  "en": "Resorted to using STRUGGLE",
+  "pt": "Teve que recorrer à INSISTÊNCIA"
+ },
+ {
+  "offset": "030BF50",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER had to rely on STRUGGLE\\n{STR_VAR_1} times!\\p{STR_VAR_3} is a tenacious TRAINER\\nwho never gives in to adversity!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR teve que contar com a INSISTÊNCIA {STR_VAR_1} vezes!\\p{STR_VAR_3} é um TREINADOR insistente que nunca se entrega diante das adversidades!"
+ },
+ {
+  "offset": "030BFE0",
+  "en": "The SLOT Champ",
+  "pt": "O Campeão dos CAÇA-NÍQUEIS"
+ },
+ {
+  "offset": "030BFEF",
+  "en": "Won the jackpot on the SLOTS",
+  "pt": "Ganhou o prêmio máximo nos CAÇA-NÍQUEIS"
+ },
+ {
+  "offset": "030C00C",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER won the jackpot on\\nthe SLOTS {STR_VAR_1} times.\\p{STR_VAR_3} is a TRAINER who was lucky\\non the SLOTS!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR ganhou o prêmio máximo nos CAÇA-NÍQUEIS {STR_VAR_1} vezes.\\p{STR_VAR_3} é um TREINADOR que teve sorte nos CAÇA-NÍQUEIS!"
+ },
+ {
+  "offset": "030C092",
+  "en": "The ROULETTE Champ",
+  "pt": "O Campeão da ROLETA"
+ },
+ {
+  "offset": "030C0A5",
+  "en": "Had consecutive ROULETTE wins of",
+  "pt": "Vitórias seguidas na ROLETA"
+ },
+ {
+  "offset": "030C0C6",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER won in ROULETTE\\n{STR_VAR_1} times in a row.\\p{STR_VAR_3} was lucky when the ball\\nbounced in ROULETTE!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR venceu na ROLETA {STR_VAR_1} vezes seguidas.\\p{STR_VAR_3} teve sorte quando a bolinha quicou na ROLETA!"
+ },
+ {
+  "offset": "030C14C",
+  "en": "The BATTLE TOWER Challenger",
+  "pt": "O Desafiante da TORRE DE BATALHA"
+ },
+ {
+  "offset": "030C168",
+  "en": "Took the BATTLE TOWER challenge",
+  "pt": "Encarou o desafio da TORRE DE BATALHA"
+ },
+ {
+  "offset": "030C188",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER took the BATTLE TOWER\\nchallenge {STR_VAR_1} times!\\p{STR_VAR_3} is a TRAINER who aspires\\nfor excellence in the BATTLE TOWER!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR encarou o desafio da TORRE DE BATALHA {STR_VAR_1} vezes!\\p{STR_VAR_3} é um TREINADOR que busca a excelência na TORRE DE BATALHA!"
+ },
+ {
+  "offset": "030C225",
+  "en": "The Blend-Loving TRAINER",
+  "pt": "O TREINADOR Fã do LIQUIDIFICADOR"
+ },
+ {
+  "offset": "030C2CA",
+  "en": "The CONTEST-Loving TRAINER",
+  "pt": "O TREINADOR Fã de CONCURSOS"
+ },
+ {
+  "offset": "030C2E5",
+  "en": "Entered CONTESTS",
+  "pt": "Participou de CONCURSOS"
+ },
+ {
+  "offset": "030C2F6",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER entered CONTESTS\\n{STR_VAR_1} times!\\p{STR_VAR_3} must love showing off\\nPOKéMON to others!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR participou de CONCURSOS {STR_VAR_1} vezes!\\p{STR_VAR_3} deve adorar exibir as suas CAPTURAS para os outros!"
+ },
+ {
+  "offset": "030C370",
+  "en": "The CONTEST Master",
+  "pt": "O Mestre dos CONCURSOS"
+ },
+ {
+  "offset": "030C383",
+  "en": "Won CONTESTS",
+  "pt": "Venceu CONCURSOS"
+ },
+ {
+  "offset": "030C390",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER won CONTESTS\\n{STR_VAR_1} times!\\p{STR_VAR_3} must be an incredible\\nCONTEST master!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR venceu CONCURSOS {STR_VAR_1} vezes!\\p{STR_VAR_3} deve ser um mestre incrível dos CONCURSOS!"
+ },
+ {
+  "offset": "030C403",
+  "en": "The Happy Shopper",
+  "pt": "O Consumidor Feliz"
+ },
+ {
+  "offset": "030C415",
+  "en": "Shopped",
+  "pt": "Fez compras"
+ },
+ {
+  "offset": "030C41D",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER bought items in shops\\n{STR_VAR_1} times!\\p{STR_VAR_3} must be one of those\\npeople who are born to shop.",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR comprou itens nas lojas {STR_VAR_1} vezes!\\p{STR_VAR_3} deve ser uma daquelas pessoas que nasceram para fazer compras."
+ },
+ {
+  "offset": "030C4A5",
+  "en": "The Item-Finding TRAINER",
+  "pt": "O TREINADOR Caçador de Itens"
+ },
+ {
+  "offset": "030C4BE",
+  "en": "Used an ITEMFINDER",
+  "pt": "Usou um DETECTOR"
+ },
+ {
+  "offset": "030C4D1",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER used an ITEMFINDER\\n{STR_VAR_1} times!\\p{STR_VAR_3} must enjoy scouring the\\nground for hidden items!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR usou um DETECTOR {STR_VAR_1} vezes!\\p{STR_VAR_3} deve adorar vasculhar o chão atrás de itens escondidos!"
+ },
+ {
+  "offset": "030C555",
+  "en": "The Rain-Soaked TRAINER",
+  "pt": "O TREINADOR Encharcado"
+ },
+ {
+  "offset": "030C56D",
+  "en": "Got rained on",
+  "pt": "Tomou chuva"
+ },
+ {
+  "offset": "030C57B",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER got soaked by rain\\n{STR_VAR_1} times!\\p{STR_VAR_3}'s charisma must even\\nattract rain!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR ficou encharcado pela chuva {STR_VAR_1} vezes!\\pO carisma de {STR_VAR_3} deve atrair até a chuva!"
+ },
+ {
+  "offset": "030C5F1",
+  "en": "The Avid POKéDEX Reader",
+  "pt": "O Leitor Fiel da TATTLEDEX"
+ },
+ {
+  "offset": "030C609",
+  "en": "Checked a POKéDEX",
+  "pt": "Consultou uma TATTLEDEX"
+ },
+ {
+  "offset": "030C61B",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER checked a POKéDEX\\n{STR_VAR_1} times!\\p{STR_VAR_3} must love inspecting\\nPOKéMON in a POKéDEX!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR consultou uma TATTLEDEX {STR_VAR_1} vezes!\\p{STR_VAR_3} deve adorar examinar CAPTURAS numa TATTLEDEX!"
+ },
+ {
+  "offset": "030C698",
+  "en": "The RIBBON Collector",
+  "pt": "O Colecionador de FITAS"
+ },
+ {
+  "offset": "030C6AD",
+  "en": "Received RIBBONS",
+  "pt": "Recebeu FITAS"
+ },
+ {
+  "offset": "030C6BE",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER received RIBBONS\\n{STR_VAR_1} times!\\p{STR_VAR_3} must be a TRAINER who\\nloves to collect RIBBONS!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR recebeu FITAS {STR_VAR_1} vezes!\\p{STR_VAR_3} deve ser um TREINADOR que adora colecionar FITAS!"
+ },
+ {
+  "offset": "030C73F",
+  "en": "The Ledge-Jumping TRAINER",
+  "pt": "O TREINADOR Saltador de Beiradas"
+ },
+ {
+  "offset": "030C759",
+  "en": "Jumped down ledges",
+  "pt": "Pulou de beiradas"
+ },
+ {
+  "offset": "030C76C",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER jumped down ledges\\n{STR_VAR_1} times!\\pIf there's a ledge to be jumped,\\n{STR_VAR_3} can't ignore it!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR pulou de beiradas {STR_VAR_1} vezes!\\pSe tem uma beirada para pular, {STR_VAR_3} não consegue resistir!"
+ },
+ {
+  "offset": "030C7F1",
+  "en": "The Legendary TV Viewer",
+  "pt": "O Telespectador Lendário"
+ },
+ {
+  "offset": "030C809",
+  "en": "Watched TV",
+  "pt": "Assistiu à TV"
+ },
+ {
+  "offset": "030C814",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER watched TV\\n{STR_VAR_1} times!\\p{STR_VAR_3} must love watching TV!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR assistiu à TV {STR_VAR_1} vezes!\\p{STR_VAR_3} deve adorar assistir à TV!"
+ },
+ {
+  "offset": "030C876",
+  "en": "The Time-Conscious TRAINER",
+  "pt": "O TREINADOR Pontual"
+ },
+ {
+  "offset": "030C891",
+  "en": "Checked the time",
+  "pt": "Conferiu as horas"
+ },
+ {
+  "offset": "030C8A2",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER checked the time\\n{STR_VAR_1} times!\\p{STR_VAR_3} must be a punctual TRAINER\\nwho's conscious of the time.",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR conferiu as horas {STR_VAR_1} vezes!\\p{STR_VAR_3} deve ser um TREINADOR pontual, sempre atento ao horário."
+ },
+ {
+  "offset": "030C92B",
+  "en": "The POKéMON LOTTERY Wizard",
+  "pt": "O Mago da LOTERIA C.A.P."
+ },
+ {
+  "offset": "030C946",
+  "en": "Won POKéMON LOTTERIES",
+  "pt": "Ganhou na LOTERIA C.A.P."
+ },
+ {
+  "offset": "030C95C",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER won POKéMON LOTTERIES\\n{STR_VAR_1} times!\\p{STR_VAR_3} must have many friends\\nto trade POKéMON with!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR ganhou na LOTERIA C.A.P. {STR_VAR_1} vezes!\\p{STR_VAR_3} deve ter muitos amigos para trocar CAPTURAS!"
+ },
+ {
+  "offset": "030C9E0",
+  "en": "The DAY CARE-Using Trainer",
+  "pt": "O TREINADOR Cliente da CRECHE"
+ },
+ {
+  "offset": "030C9FB",
+  "en": "Left POKéMON at the DAY CARE",
+  "pt": "Deixou CAPTURAS na CRECHE"
+ },
+ {
+  "offset": "030CA18",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER left POKéMON with the\\nDAY CARE {STR_VAR_1} times!\\p{STR_VAR_3} must be a real go-getter\\nwho raises POKéMON aggressively!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR deixou CAPTURAS na CRECHE {STR_VAR_1} vezes!\\p{STR_VAR_3} deve ser alguém muito determinado, que cria CAPTURAS com afinco!"
+ },
+ {
+  "offset": "030CAB1",
+  "en": "The CABLE CAR-Loving TRAINER",
+  "pt": "O TREINADOR Fã do TELEFÉRICO"
+ },
+ {
+  "offset": "030CACE",
+  "en": "Rode the CABLE CAR",
+  "pt": "Andou de TELEFÉRICO"
+ },
+ {
+  "offset": "030CAE1",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER rode the CABLE CAR\\n{STR_VAR_1} times!\\p{STR_VAR_3} must be a busy TRAINER\\nwho's up and down all the time!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR andou de TELEFÉRICO {STR_VAR_1} vezes!\\p{STR_VAR_3} deve ser um TREINADOR ocupado, que vive subindo e descendo!"
+ },
+ {
+  "offset": "030CB6B",
+  "en": "The Hot Spring-Loving TRAINER",
+  "pt": "O TREINADOR Fã de Águas Termais"
+ },
+ {
+  "offset": "030CB89",
+  "en": "Bathed in hot springs",
+  "pt": "Banhou-se em fontes termais"
+ },
+ {
+  "offset": "030CB9F",
+  "en": "This is a tale of a TRAINER\\nnamed {STR_VAR_3}.\\pThis TRAINER bathed in hot springs\\n{STR_VAR_1} times!\\p{STR_VAR_3} must be a TRAINER with\\nbaby-smooth skin!",
+  "pt": "Esta é a história de um TREINADOR chamado {STR_VAR_3}.\\pEste TREINADOR se banhou em fontes termais {STR_VAR_1} vezes!\\p{STR_VAR_3} deve ser um TREINADOR com pele de bebê!"
+ },
+ {
+  "offset": "0310CB2",
+  "en": " so darling!",
+  "pt": " tão adorável!"
+ },
+ {
+  "offset": "0310CBF",
+  "en": " so relaxed!",
+  "pt": " tão relaxante!"
+ },
+ {
+  "offset": "0310CCC",
+  "en": " so sunny!",
+  "pt": " tão radiante!"
+ },
+ {
+  "offset": "0310CD7",
+  "en": " so desirable!",
+  "pt": " tão irresistível!"
+ },
+ {
+  "offset": "0310CE6",
+  "en": " so exciting!",
+  "pt": " tão emocionante!"
+ },
+ {
+  "offset": "0310CF4",
+  "en": " so amusing!",
+  "pt": " tão divertido!"
+ },
+ {
+  "offset": "0310D01",
+  "en": " so magical!",
+  "pt": " tão mágico!"
+ },
+ {
+  "offset": "0310D0E",
+  "en": " is",
+  "pt": " é"
+ },
+ {
+  "offset": "0310D12",
+  "en": "\\nDon't you agree?",
+  "pt": "\\nNão acha?"
+ },
+ {
+  "offset": "0310D24",
+  "en": "I so want to go on a vacation.\\nWould you happen to know a nice place?",
+  "pt": "Quero tanto sair de férias! Você conhece algum lugar legal?"
+ },
+ {
+  "offset": "0310D6A",
+  "en": "I bought crayons with 120 colors!\\nDon't you think that's nice?",
+  "pt": "Comprei uma caixa de giz de cera com 120 cores! Não acha isso legal?"
+ },
+ {
+  "offset": "0310DA9",
+  "en": "Wouldn't it be nice if we could float\\naway on a cloud of bubbles?",
+  "pt": "Não seria legal se a gente pudesse sair flutuando numa nuvem de bolhas?"
+ },
+ {
+  "offset": "0310DEB",
+  "en": "When you write on a sandy beach,\\nthey wash away. It makes me sad.",
+  "pt": "Quando a gente escreve na areia da praia, as ondas apagam tudo. Isso me deixa triste."
+ },
+ {
+  "offset": "0310E2D",
+  "en": "What's the bottom of the sea like?\\nJust once I would so love to go!",
+  "pt": "Como será o fundo do mar? Eu queria tanto ir lá, nem que fosse uma vez!"
+ },
+ {
+  "offset": "0310E71",
+  "en": "When you see the setting sun, does it\\nmake you want to go home?",
+  "pt": "Quando você vê o pôr do sol, não dá vontade de voltar pra casa?"
+ },
+ {
+  "offset": "0310EB1",
+  "en": "Lying back in the green grass…\\nOh, it's so, so nice!",
+  "pt": "Deitar na grama verdinha… Ah, é tão, tão bom!"
+ },
+ {
+  "offset": "0310EE6",
+  "en": "SECRET BASES are so wonderful!\\nCan't you feel the excitement?",
+  "pt": "As BASES SECRETAS são tão maravilhosas! Não sente a emoção?"
+ },
+ {
+  "offset": "0322712",
+  "en": "You don't have enough COINS.",
+  "pt": "Você não tem MOEDAS suficientes."
+ },
+ {
+  "offset": "032272F",
+  "en": "Special rate table right now!",
+  "pt": "Tabela de pagamento especial agora!"
+ },
+ {
+  "offset": "032274D",
+  "en": "Place your wager with the + Control\\nPad, then press the A Button.",
+  "pt": "Faça a sua aposta com o Direcional + e depois aperte o Botão A."
+ },
+ {
+  "offset": "032278F",
+  "en": "It's a hit!",
+  "pt": "Acertou!"
+ },
+ {
+  "offset": "032279B",
+  "en": "Jackpot!",
+  "pt": "Prêmio máximo!"
+ },
+ {
+  "offset": "03227A4",
+  "en": "Nothing doing!",
+  "pt": "Nada feito!"
+ },
+ {
+  "offset": "03227B3",
+  "en": "You've won {STR_VAR_1} COINS!",
+  "pt": "Você ganhou {STR_VAR_1} MOEDAS!"
+ },
+ {
+  "offset": "03227C8",
+  "en": "No COINS left…",
+  "pt": "Acabaram as MOEDAS…"
+ },
+ {
+  "offset": "03227D7",
+  "en": "Keep playing?",
+  "pt": "Continuar jogando?"
+ },
+ {
+  "offset": "03227E5",
+  "en": "The ROULETTE board will be cleared.",
+  "pt": "O tabuleiro da ROLETA será limpo."
+ },
+ {
+  "offset": "0322825",
+  "en": "Your COIN CASE is full!\\nCoins can be exchanged for prizes.",
+  "pt": "O seu PORTA-MOEDAS está cheio! As MOEDAS podem ser trocadas por prêmios."
+ },
+ {
+  "offset": "0322930",
+  "en": "Check your TATTLEDEX to see\\nwhere CAPTURES are!",
+  "pt": "Confira a sua TATTLEDEX para ver onde estão as CAPTURAS!"
+ },
+ {
+  "offset": "0322960",
+  "en": "I guess you're getting the hang\\nof it. But, it gets harder from here.",
+  "pt": "Parece que você está pegando o jeito. Mas daqui pra frente fica mais difícil."
+ },
+ {
+  "offset": "03229A6",
+  "en": "Some POKéMON only appear in\\ncertain areas.\\lYou must be persistent.",
+  "pt": "Algumas CAPTURAS só aparecem em certas áreas. Você precisa ser persistente."
+ },
+ {
+  "offset": "03229E9",
+  "en": "Well, it could use more quantity,\\nbut this is looking more like\\la POKéDEX now.",
+  "pt": "Bem, ainda faltam algumas, mas isto já está parecendo mais uma TATTLEDEX."
+ },
+ {
+  "offset": "0322A38",
+  "en": "This is coming along pretty good.\\nKeep up the effort.",
+  "pt": "Está ficando muito bom. Continue se esforçando."
+ },
+ {
+  "offset": "0322A6E",
+  "en": "Are you using any RODS?\\nThere are many POKéMON in the sea.",
+  "pt": "Você está usando alguma VARA? Há muitas CAPTURAS no mar."
+ },
+ {
+  "offset": "0322AA9",
+  "en": "Instead of just catching POKéMON,\\nhow about making them evolve, too?",
+  "pt": "Em vez de só pegar CAPTURAS, que tal fazê-las evoluir também?"
+ },
+ {
+  "offset": "0322AEE",
+  "en": "This is going to be a fantastic\\nPOKéDEX.\\lThat's the feeling I'm getting.",
+  "pt": "Esta vai ser uma TATTLEDEX fantástica. É o que estou sentindo."
+ },
+ {
+  "offset": "0322B37",
+  "en": "You've collected this many…\\nYour talent is remarkable!",
+  "pt": "Você já coletou tudo isso… O seu talento é impressionante!"
+ },
+ {
+  "offset": "0322B6E",
+  "en": "Have you visited the SAFARI ZONE?\\pI hear there are some POKéMON that\\ncan only be caught there.",
+  "pt": "Você já visitou a ZONA SAFÁRI?\\pOuvi dizer que existem CAPTURAS que só podem ser pegas lá."
+ },
+ {
+  "offset": "0322BCD",
+  "en": "You've finally reached\\nthe 100-kind mark.\\pThis is an impressive POKéDEX!",
+  "pt": "Você finalmente atingiu a marca de 100 espécies.\\pEsta TATTLEDEX é impressionante!"
+ },
+ {
+  "offset": "0322C16",
+  "en": "There might be POKéMON that can be\\nfound using ROCK SMASH.",
+  "pt": "Talvez existam CAPTURAS que podem ser encontradas usando ESMAGA PEDRAS."
+ },
+ {
+  "offset": "0322C51",
+  "en": "You should get some more POKéMON\\nby trading with others.",
+  "pt": "Você deveria conseguir mais CAPTURAS trocando com outras pessoas."
+ },
+ {
+  "offset": "0322C8A",
+  "en": "I've heard of POKéMON that evolve\\nwhen they come to fully love their\\lTRAINERS.",
+  "pt": "Ouvi falar de CAPTURAS que evoluem quando passam a amar de verdade os seus TREINADORES."
+ },
+ {
+  "offset": "0322CD9",
+  "en": "I had no idea that there were so\\nmany POKéMON species in the HOENN\\lregion.",
+  "pt": "Eu não fazia ideia de que existiam tantas espécies de CAPTURAS na região de HOENN."
+ },
+ {
+  "offset": "0322D24",
+  "en": "On occasion, some POKéMON appear\\nin large numbers like outbreaks.\\pDon't miss opportunities like\\nthose.",
+  "pt": "De vez em quando, algumas CAPTURAS aparecem em grandes quantidades, como num surto.\\pNão perca oportunidades como essas."
+ },
+ {
+  "offset": "0322D8B",
+  "en": "One can get a very good idea about\\nthe POKéMON of the HOENN region\\lby looking through your POKéDEX.",
+  "pt": "Dá para ter uma ótima ideia das CAPTURAS da região de HOENN olhando a sua TATTLEDEX."
+ },
+ {
+  "offset": "0322DEF",
+  "en": "I would say you already qualify as\\na POKéMON PROFESSOR, and a good\\lone, too!",
+  "pt": "Eu diria que você já se qualifica como PROFESSOR DE CAPTURAS, e dos bons!"
+ },
+ {
+  "offset": "0322E3C",
+  "en": "With a POKéDEX this complete,\\nyou're a real professional at this!",
+  "pt": "Com uma TATTLEDEX tão completa, você é um verdadeiro profissional nisso!"
+ },
+ {
+  "offset": "0322E7E",
+  "en": "You're very close to completing\\nthis POKéDEX.\\lI can feel it in my bones!",
+  "pt": "Você está muito perto de completar esta TATTLEDEX. Sinto isso nos meus ossos!"
+ },
+ {
+  "offset": "0322EC7",
+  "en": "Congratulations!\\nYour TATTLEDEX is complete!",
+  "pt": "Parabéns! A sua TATTLEDEX está completa!"
+ },
+ {
+  "offset": "03262F9",
+  "en": "Hi! {PLAYER}{KUN}, hello!\\nThis is {STR_VAR_1}.\\pI saw this {STR_VAR_2} a while back\\nbut I couldn't catch it.\\pIt was so close, too!\\nWell, see you again!",
+  "pt": "Oi! {PLAYER}{KUN}, olá! Aqui é {STR_VAR_1}.\\pVi um {STR_VAR_2} um tempinho atrás, mas não consegui pegá-lo.\\pFoi por tão pouco! Bem, até mais!"
+ },
+ {
+  "offset": "0326375",
+  "en": "Hello, {PLAYER}{KUN}.\\nIt's {STR_VAR_1}.\\pI tried to catch a nice {STR_VAR_2}\\na little while ago.\\pBut, it got away.\\nI was sure disappointed!\\pOkay, bye!",
+  "pt": "Olá, {PLAYER}{KUN}. É {STR_VAR_1}.\\pTentei pegar um belo {STR_VAR_2} agora há pouco.\\pMas ele fugiu. Que decepção!\\pCerto, tchau!"
+ },
+ {
+  "offset": "03263F0",
+  "en": "Hey there, {PLAYER}!\\nIt's me, {STR_VAR_1}.\\pI just took a shot at catching\\nthis {STR_VAR_2}, but it took off.\\pI came oh so close, too!\\pIt spoiled my day…\\nAll right, see you!",
+  "pt": "Olá, {PLAYER}! Sou eu, {STR_VAR_1}.\\pAcabei de tentar pegar um {STR_VAR_2}, mas ele deu no pé.\\pE eu cheguei tão perto!\\pEstragou o meu dia… Certo, até mais!"
+ },
+ {
+  "offset": "0326485",
+  "en": "Hey, {PLAYER}{KUN}.\\n{STR_VAR_1} here.\\pYou know the POKéMON {STR_VAR_2}?\\nI came close to getting one.\\pIt was just a while back.\\nI thought I had it but it escaped.\\pIf I see it again, I'll get it for\\nsure, though.\\pOkay, catch you later.",
+  "pt": "Ei, {PLAYER}{KUN}. {STR_VAR_1} falando.\\pConhece a CAPTURA {STR_VAR_2}? Quase consegui pegar um.\\pFoi agora há pouco. Achei que tinha pegado, mas ele escapou.\\pMas, se eu vir outro, com certeza vou pegar.\\pCerto, a gente se fala."
+ },
+ {
+  "offset": "0326554",
+  "en": "Hiya, {PLAYER}{KUN}!\\nIt's {STR_VAR_1}.\\lCatching any POKéMON lately?\\pA little while ago I came close to\\nnabbing one, but it got loose.\\pRight, take care!",
+  "pt": "Oi, {PLAYER}{KUN}! É {STR_VAR_1}. Tem pegado alguma CAPTURA ultimamente?\\pAgora há pouco quase consegui pegar uma, mas ela escapou.\\pCerto, se cuida!"
+ },
+ {
+  "offset": "03265DA",
+  "en": "Hey, {PLAYER}{KUN}.\\n{STR_VAR_1} here.\\lCaught any POKéMON lately?\\pI nearly nabbed one the other day.\\nBut it evaded me somehow.\\pYou take care.",
+  "pt": "Ei, {PLAYER}{KUN}. {STR_VAR_1} falando. Pegou alguma CAPTURA ultimamente?\\pOutro dia quase peguei uma. Mas ela escapou de algum jeito.\\pSe cuida."
+ },
+ {
+  "offset": "0326655",
+  "en": "…Uh, {PLAYER}{KUN}?\\nIt's me, {STR_VAR_1}.\\pOh, wait! Wait!\\nI can catch this {STR_VAR_2}…\\pAaarrrgh! It bolted loose!\\nThat wasn't just close!",
+  "pt": "…Hã, {PLAYER}{KUN}? Sou eu, {STR_VAR_1}.\\pAh, espera! Espera! Consigo pegar este {STR_VAR_2}…\\pAaarrrgh! Ele fugiu! Faltou nadinha!"
+ },
+ {
+  "offset": "03266C5",
+  "en": "Oh, {PLAYER}{KUN}, how do you do?\\nThis is {STR_VAR_1} speaking.\\pHave you had success catching\\nPOKéMON lately?\\pI came very close a little while\\nago, but my target got free.\\pI need to try harder!\\nSee you again!",
+  "pt": "Ah, {PLAYER}{KUN}, como vai? Aqui quem fala é {STR_VAR_1}.\\pTem tido sucesso em pegar CAPTURAS ultimamente?\\pEu cheguei bem perto agora há pouco, mas o meu alvo escapou.\\pPreciso me esforçar mais! Até a próxima!"
+ },
+ {
+  "offset": "0326784",
+  "en": "Oh, {PLAYER}{KUN}, hi there!\\nThis is {STR_VAR_1}!\\pSo? Are you getting more POKéMON\\ntogether?\\pI'm having a rotten time of it!\\nThey all get away from me!\\pSee you!",
+  "pt": "Ah, {PLAYER}{KUN}, oi! Aqui é {STR_VAR_1}!\\pE aí? Está juntando mais CAPTURAS?\\pEu estou num azar danado! Todas fogem de mim!\\pAté mais!"
+ },
+ {
+  "offset": "0326813",
+  "en": "Oh, {PLAYER}{KUN}, hello…\\nThis is {STR_VAR_1}.\\pListen, I came within a whisker of\\ncatching this {STR_VAR_2}…\\pBut, it gave me the slip…\\pI need to try harder.\\nSee you around.",
+  "pt": "Ah, {PLAYER}{KUN}, olá… Aqui é {STR_VAR_1}.\\pEscuta, faltou um triz pra eu pegar este {STR_VAR_2}…\\pMas ele me escapou…\\pPreciso me esforçar mais. A gente se vê."
+ },
+ {
+  "offset": "03268A5",
+  "en": "Ah, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\lHow are things with you?\\pI tried to catch a wild {STR_VAR_2}\\nearlier, but it managed to flee.\\pI feel defeated…",
+  "pt": "Ah, {PLAYER}{KUN}. Aqui é {STR_VAR_1}. Como vão as coisas?\\pTentei pegar um {STR_VAR_2} selvagem mais cedo, mas ele conseguiu fugir.\\pSinto o gosto amargo da derrota…"
+ },
+ {
+  "offset": "0326921",
+  "en": "Hello, {PLAYER}{KUN}.\\nIt's me, {STR_VAR_1}.\\lAre you still catching POKéMON?\\pI've been trying to catch them\\nmyself, but it's not so easy.\\pThe way of POKéMON is deep!",
+  "pt": "Olá, {PLAYER}{KUN}. Sou eu, {STR_VAR_1}. Ainda está pegando CAPTURAS?\\pEu também tenho tentado pegá-las, mas não é tão fácil.\\pO caminho das CAPTURAS é profundo!"
+ },
+ {
+  "offset": "03269B4",
+  "en": "Ah, hello, {PLAYER}{KUN}!\\nThis is {STR_VAR_1}!\\lHave you been catching POKéMON?\\pI've been trying to catch them\\nmyself, but with little success.\\pThe way of POKéMON is deep!",
+  "pt": "Ah, olá, {PLAYER}{KUN}! Aqui é {STR_VAR_1}! Tem pegado CAPTURAS?\\pEu também tenho tentado pegá-las, mas com pouco sucesso.\\pO caminho das CAPTURAS é profundo!"
+ },
+ {
+  "offset": "0326A4D",
+  "en": "Oh, hi, {PLAYER}{KUN}, how do you do?\\nThis is {STR_VAR_1}.\\pJust now, I tried to catch a cute\\n{STR_VAR_2}.\\pIt got away, though!\\nOh, you bet I was disappointed!\\pBye-bye!",
+  "pt": "Ah, oi, {PLAYER}{KUN}, como vai? Aqui é {STR_VAR_1}.\\pAgora há pouco, tentei pegar um {STR_VAR_2} fofo.\\pMas ele fugiu! Ah, pode apostar que foi uma decepção!\\pTchauzinho!"
+ },
+ {
+  "offset": "0326ADA",
+  "en": "Hey, {PLAYER}!\\nThis is {STR_VAR_1}!\\pI've been thinking about trying\\nto catch me some POKéMON.\\pBut I can't seem to find any.\\nIt's a real puzzler for me!\\pI'm at my wit's end!\\nSee you around!",
+  "pt": "Ei, {PLAYER}! Aqui é {STR_VAR_1}!\\pAndei pensando em tentar pegar umas CAPTURAS.\\pMas não consigo achar nenhuma. Isso é um mistério pra mim!\\pNão sei mais o que fazer! Até mais!"
+ },
+ {
+  "offset": "0326B88",
+  "en": "Hi! {PLAYER}{KUN}, hello!\\nThis is {STR_VAR_1}.\\pI tried battling another TRAINER,\\nbut I lost.\\pIt was really disappointing.\\nWell, see you again!",
+  "pt": "Oi! {PLAYER}{KUN}, olá! Aqui é {STR_VAR_1}.\\pTentei batalhar com outro TREINADOR, mas perdi.\\pFoi muito decepcionante. Bem, até mais!"
+ },
+ {
+  "offset": "0326C05",
+  "en": "Hello, {PLAYER}{KUN}.\\nIt's {STR_VAR_1}.\\pI challenged someone else after\\nwe battled.\\pI came close, but I ended up\\nlosing. Oh, well!",
+  "pt": "Olá, {PLAYER}{KUN}. É {STR_VAR_1}.\\pDesafiei outra pessoa depois da nossa batalha.\\pCheguei perto, mas acabei perdendo. Fazer o quê!"
+ },
+ {
+  "offset": "0326C76",
+  "en": "Hey there, {PLAYER}!\\nIt's me, {STR_VAR_1}.\\pI just got cleaned in a battle.\\pI guess I need to raise my team\\nsome more!",
+  "pt": "Olá, {PLAYER}! Sou eu, {STR_VAR_1}.\\pAcabei de levar uma surra numa batalha.\\pAcho que preciso treinar mais a minha equipe!"
+ },
+ {
+  "offset": "0326CDD",
+  "en": "Hey, {PLAYER}.\\n{STR_VAR_1} here.\\pI tried another battle yesterday,\\nbut I couldn't pull out the win.\\pMy team needs more raising.\\nOkay, catch you later.",
+  "pt": "Ei, {PLAYER}. {STR_VAR_1} falando.\\pTentei outra batalha ontem, mas não consegui vencer.\\pA minha equipe precisa de mais treino. Certo, a gente se fala."
+ },
+ {
+  "offset": "0326D65",
+  "en": "Hiya, {PLAYER}!\\nIt's {STR_VAR_1}.\\pHow are things with you?\\pI've been battling on,\\nbut I haven't won very often.\\pI can't get it together.\\nRight, take care!",
+  "pt": "Oi, {PLAYER}! É {STR_VAR_1}.\\pComo vão as coisas?\\pEu continuo batalhando, mas não tenho vencido muito.\\pNão consigo me acertar. Certo, se cuida!"
+ },
+ {
+  "offset": "0326DF1",
+  "en": "Hey, {PLAYER}.\\n{STR_VAR_1} here.\\pHow's it going for you?\\pI've been battling hard lately,\\nbut to little success.\\pI can't get into the groove.\\nYou take care.",
+  "pt": "Ei, {PLAYER}. {STR_VAR_1} falando.\\pComo vão as coisas por aí?\\pTenho batalhado bastante ultimamente, mas com pouco sucesso.\\pNão consigo entrar no ritmo. Se cuida."
+ },
+ {
+  "offset": "0326E7E",
+  "en": "{STR_VAR_1} here.\\nHow's it going lately?\\pI lost a battle yesterday,\\nand it's filled my thoughts.\\pI have to devise a plan…\\nSee you.",
+  "pt": "{STR_VAR_1} falando. Como vão as coisas?\\pPerdi uma batalha ontem e não paro de pensar nisso.\\pPreciso bolar um plano… Até mais."
+ },
+ {
+  "offset": "0326EF8",
+  "en": "Oh, {PLAYER}{KUN}, how do you do?\\nThis is {STR_VAR_1} speaking.\\pHow are your POKéMON doing?\\nI lost a match the other day.\\pI need to try harder!\\nSee you again!",
+  "pt": "Ah, {PLAYER}{KUN}, como vai? Aqui quem fala é {STR_VAR_1}.\\pComo estão as suas CAPTURAS? Eu perdi uma partida outro dia.\\pPreciso me esforçar mais! Até a próxima!"
+ },
+ {
+  "offset": "0326F85",
+  "en": "Oh, {PLAYER}{KUN}, hi there!\\nThis is {STR_VAR_1}!\\pListen, listen, you have to hear\\nthis!\\pI had a POKéMON battle earlier,\\nbut I lost at the last second.\\pOh, it burns me up!",
+  "pt": "Ah, {PLAYER}{KUN}, oi! Aqui é {STR_VAR_1}!\\pEscuta, escuta, você precisa ouvir isso!\\pTive uma batalha de CAPTURAS mais cedo, mas perdi no último segundo.\\pAi, que raiva!"
+ },
+ {
+  "offset": "032701F",
+  "en": "Oh, {PLAYER}{KUN}, hello…\\nThis is {STR_VAR_1}.\\pA little earlier, I was in a battle.\\nI lost, though.\\pI need to raise my POKéMON more.\\nSee you around.",
+  "pt": "Ah, {PLAYER}{KUN}, olá… Aqui é {STR_VAR_1}.\\pAgora há pouco, eu estava numa batalha. Mas perdi.\\pPreciso treinar mais as minhas CAPTURAS. A gente se vê."
+ },
+ {
+  "offset": "03270A2",
+  "en": "Ah, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\lHow are your POKéMON?\\pI just lost yet another battle.\\pWell, see you!",
+  "pt": "Ah, {PLAYER}{KUN}. Aqui é {STR_VAR_1}. Como estão as suas CAPTURAS?\\pAcabei de perder mais uma batalha.\\pBem, até mais!"
+ },
+ {
+  "offset": "03270FD",
+  "en": "Hello, {PLAYER}{KUN}.\\nIt's me, {STR_VAR_1}.\\lAre you still battling hard?\\pAs for me, I lost recently, so I've\\nbeen training my team all over.\\pLet's meet again.",
+  "pt": "Olá, {PLAYER}{KUN}. Sou eu, {STR_VAR_1}. Ainda está batalhando firme?\\pQuanto a mim, perdi recentemente, então estou treinando a minha equipe do zero.\\pVamos nos encontrar de novo."
+ },
+ {
+  "offset": "032718A",
+  "en": "Ah, hello, {PLAYER}{KUN}!\\nThis is {STR_VAR_1}!\\pI hope you've been keeping well.\\pI was in a battle just a little\\nwhile before this.\\p{PLAYER}{KUN}, try to be active like me.\\nSee you again!",
+  "pt": "Ah, olá, {PLAYER}{KUN}! Aqui é {STR_VAR_1}!\\pEspero que esteja tudo bem com você.\\pEu estive numa batalha pouco antes desta ligação.\\p{PLAYER}{KUN}, tente ser ativo como eu. Até a próxima!"
+ },
+ {
+  "offset": "032722A",
+  "en": "Oh, hi, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\pAre you doing good?\\pYou should go home every so often,\\nthough.\\pBye-bye!",
+  "pt": "Ah, oi, {PLAYER}{KUN}. Aqui é {STR_VAR_1}.\\pVocê está bem?\\pMas você deveria voltar pra casa de vez em quando.\\pTchauzinho!"
+ },
+ {
+  "offset": "032728C",
+  "en": "Hi! {PLAYER}{KUN}, hello!\\nThis is {STR_VAR_1}!\\pI battled another TRAINER earlier.\\nI won! I won!\\pMy {STR_VAR_2} really worked hard\\nfor me. This is so great!",
+  "pt": "Oi! {PLAYER}{KUN}, olá! Aqui é {STR_VAR_1}!\\pBatalhei com outro TREINADOR mais cedo. Ganhei! Ganhei!\\pO meu {STR_VAR_2} se esforçou muito por mim. Que demais!"
+ },
+ {
+  "offset": "032730D",
+  "en": "Hello, {PLAYER}{KUN}!\\nIt's {STR_VAR_1}!\\pI had a battle yesterday and\\nI won! It's fantastic!",
+  "pt": "Olá, {PLAYER}{KUN}! É {STR_VAR_1}!\\pTive uma batalha ontem e ganhei! É fantástico!"
+ },
+ {
+  "offset": "0327357",
+  "en": "Hey there, {PLAYER}!\\nIt's me, {STR_VAR_1}!\\lHow's your battling?\\pMe, I had a battle the other day,\\nand my {STR_VAR_2} came up huge!\\pThe next time I battle you,\\n{PLAYER}, it won't be me losing!",
+  "pt": "Olá, {PLAYER}! Sou eu, {STR_VAR_1}! Como andam as suas batalhas?\\pEu tive uma batalha outro dia, e o meu {STR_VAR_2} arrasou!\\pDa próxima vez que eu batalhar com você, {PLAYER}, não vou ser eu a perder!"
+ },
+ {
+  "offset": "03273F9",
+  "en": "Hey, {PLAYER}.\\n{STR_VAR_1} here.\\pI had a match earlier.\\nI managed to win, but it was close.\\pMy {STR_VAR_2} put on one\\ninspired showing.",
+  "pt": "Ei, {PLAYER}. {STR_VAR_1} falando.\\pTive uma partida mais cedo. Consegui vencer, mas foi apertado.\\pO meu {STR_VAR_2} deu um show inspirado."
+ },
+ {
+  "offset": "0327469",
+  "en": "Hiya, {PLAYER}{KUN}!\\nIt's {STR_VAR_1}.\\pHow are things with you?\\nBattling much?\\pI just won a while back!\\nMy {STR_VAR_2} was brilliant!\\pYou wait. I'm going to beat you\\nnext time! Right, take care!",
+  "pt": "Oi, {PLAYER}{KUN}! É {STR_VAR_1}.\\pComo vão as coisas? Batalhando muito?\\pEu acabei de vencer agora há pouco! O meu {STR_VAR_2} foi brilhante!\\pVocê vai ver. Vou te vencer na próxima vez! Certo, se cuida!"
+ },
+ {
+  "offset": "0327511",
+  "en": "Hey, {PLAYER}{KUN}.\\n{STR_VAR_1} here.\\pHow's it going for you?\\pI've been riding a hot streak.\\nWhy, I just won a battle.\\pWhen we have our next battle,\\nI'm sure not going to lose!",
+  "pt": "Ei, {PLAYER}{KUN}. {STR_VAR_1} falando.\\pComo vão as coisas por aí?\\pEstou numa maré de sorte. Acabei de vencer uma batalha.\\pNa nossa próxima batalha, com certeza não vou perder!"
+ },
+ {
+  "offset": "03275B0",
+  "en": "{PLAYER}{KUN}?\\n{STR_VAR_1} here.\\pMy {STR_VAR_2} is a force!\\nIt won me another battle just now!\\pI can't wait to have a rematch\\nwith you.",
+  "pt": "{PLAYER}{KUN}? {STR_VAR_1} falando.\\pO meu {STR_VAR_2} é uma força da natureza! Acabou de me dar mais uma vitória!\\pMal posso esperar pela revanche com você."
+ },
+ {
+  "offset": "032761D",
+  "en": "Oh, {PLAYER}{KUN}, how do you do?\\nThis is {STR_VAR_1} speaking.\\pI hope you've been well.\\nI wanted to tell you I just won.\\pMy {STR_VAR_2} worked especially\\nhard to get the win.\\pSee you again!",
+  "pt": "Ah, {PLAYER}{KUN}, como vai? Aqui quem fala é {STR_VAR_1}.\\pEspero que esteja tudo bem. Queria contar que acabei de vencer.\\pO meu {STR_VAR_2} se esforçou muito para conseguir a vitória.\\pAté a próxima!"
+ },
+ {
+  "offset": "03276C1",
+  "en": "Oh, {PLAYER}{KUN}, hi there!\\nThis is {STR_VAR_1}!\\pHow are your POKéMON holding up?\\nMine just won a battle!\\pMy {STR_VAR_2} was spectacular,\\nI must say!\\pI wish I could've shown you!\\nSee you again!",
+  "pt": "Ah, {PLAYER}{KUN}, oi! Aqui é {STR_VAR_1}!\\pComo estão as suas CAPTURAS? As minhas acabaram de vencer uma batalha!\\pO meu {STR_VAR_2} foi espetacular, devo dizer!\\pQueria que você tivesse visto! Até a próxima!"
+ },
+ {
+  "offset": "0327769",
+  "en": "Oh, {PLAYER}{KUN}, hello…\\nThis is {STR_VAR_1}.\\pHow has life been treating you?\\pMy POKéMON appear to be charged\\nwith energy.\\pI just won a battle with them.\\nSee you around.",
+  "pt": "Ah, {PLAYER}{KUN}, olá… Aqui é {STR_VAR_1}.\\pComo a vida tem te tratado?\\pAs minhas CAPTURAS parecem cheias de energia.\\pAcabei de vencer uma batalha com elas. A gente se vê."
+ },
+ {
+  "offset": "0327802",
+  "en": "Ah, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\pBeen in any battles lately?\\nI just won another one today!\\pI'm on a roll! Gahahaha!\\nWell, see you!",
+  "pt": "Ah, {PLAYER}{KUN}. Aqui é {STR_VAR_1}.\\pTem batalhado ultimamente? Eu acabei de vencer mais uma hoje!\\pEstou numa sequência daquelas! Gahahaha! Bem, até mais!"
+ },
+ {
+  "offset": "032787A",
+  "en": "Hello, {PLAYER}{KUN}.\\nIt's me, {STR_VAR_1}.\\pI trust you've been well?\\nI'm still bursting with life!\\pWhy, just now, I won another match.\\nI'm not stepping aside to you\\lyoungsters yet!",
+  "pt": "Olá, {PLAYER}{KUN}. Sou eu, {STR_VAR_1}.\\pImagino que esteja tudo bem? Eu continuo transbordando de vida!\\pAgora mesmo venci mais uma partida. Ainda não vou abrir caminho para vocês, jovens!"
+ },
+ {
+  "offset": "032791E",
+  "en": "Ah, hello, {PLAYER}{KUN}!\\nThis is {STR_VAR_1}!\\pI hope you've been keeping well.\\nI still have a bounce in my step!\\pWhy, I just won a battle yet again.\\nOh, I won't lose to young people\\lquite yet!\\pSee you again!",
+  "pt": "Ah, olá, {PLAYER}{KUN}! Aqui é {STR_VAR_1}!\\pEspero que esteja tudo bem com você. Eu ainda tenho muita disposição!\\pAgora mesmo venci mais uma batalha. Ah, ainda não vou perder para os jovens!\\pAté a próxima!"
+ },
+ {
+  "offset": "03279DD",
+  "en": "Oh, hi, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\pI was in a battle recently, and my\\n{STR_VAR_2} was exceptional!\\pI wish you could have seen it,\\n{PLAYER}{KUN}. Bye-bye!",
+  "pt": "Ah, oi, {PLAYER}{KUN}. Aqui é {STR_VAR_1}.\\pEstive numa batalha recentemente, e o meu {STR_VAR_2} foi excepcional!\\pQueria que você tivesse visto, {PLAYER}{KUN}. Tchauzinho!"
+ },
+ {
+  "offset": "0327A5C",
+  "en": "Hi! {PLAYER}, hello!\\nThis is {STR_VAR_1}.\\pHuh? Wait, you're near\\n{STR_VAR_2}?\\pOh, wow, we have to battle, then!\\nI'll be waiting! See you!",
+  "pt": "Oi! {PLAYER}, olá! Aqui é {STR_VAR_1}.\\pHã? Espera, você está perto de {STR_VAR_2}?\\pNossa, então a gente tem que batalhar! Vou ficar esperando! Até mais!"
+ },
+ {
+  "offset": "0327ACE",
+  "en": "Hello, {PLAYER}!\\nIt's {STR_VAR_1}.\\pOh? You happen to be around\\n{STR_VAR_2} right now?\\pWould you like to battle now?\\nI'll wait for you! See you!",
+  "pt": "Olá, {PLAYER}! É {STR_VAR_1}.\\pHã? Você está por perto de {STR_VAR_2} agora?\\pQuer batalhar agora? Vou te esperar! Até mais!"
+ },
+ {
+  "offset": "0327B46",
+  "en": "Hey there, {PLAYER}!\\nIt's me, {STR_VAR_1}.\\pOh, hey, are you near\\n{STR_VAR_2} right now?\\pHow would you like to battle with\\nme right now?\\pI'm not losing again!\\nI'll be waiting! Catch you soon!",
+  "pt": "Olá, {PLAYER}! Sou eu, {STR_VAR_1}.\\pAh, ei, você está perto de {STR_VAR_2} agora?\\pQue tal batalhar comigo agora mesmo?\\pNão vou perder de novo! Vou ficar esperando! Até já!"
+ },
+ {
+  "offset": "0327BED",
+  "en": "Hey, {PLAYER}{KUN}.\\n{STR_VAR_1} here.\\pWhereabouts are you now?\\nHuh? {STR_VAR_2}?\\pWant to battle now?\\nI'll wait for you. See you!",
+  "pt": "Ei, {PLAYER}{KUN}. {STR_VAR_1} falando.\\pOnde você está agora? Hã? {STR_VAR_2}?\\pQuer batalhar agora? Vou te esperar. Até mais!"
+ },
+ {
+  "offset": "0327C53",
+  "en": "Hiya, {PLAYER}{KUN}!\\nIt's {STR_VAR_1}.\\lHow are things with you?\\pYou're where now?\\n{STR_VAR_2}?\\pWell, how about we have a quick\\nrematch right away?\\pI'll keep an eye out for you.\\nSee you soon!",
+  "pt": "Oi, {PLAYER}{KUN}! É {STR_VAR_1}. Como vão as coisas?\\pOnde você está agora? {STR_VAR_2}?\\pBem, que tal uma revanche rapidinha agora mesmo?\\pVou ficar de olho em você. Até já!"
+ },
+ {
+  "offset": "0327CF7",
+  "en": "Hey, {PLAYER}{KUN}.\\n{STR_VAR_1} here.\\lHow are your POKéMON keeping?\\pOh, is that right? You're around\\n{STR_VAR_2}?\\pWell, then, we'd better have\\na rematch.\\pI can wait, sure.\\nSee you!",
+  "pt": "Ei, {PLAYER}{KUN}. {STR_VAR_1} falando. Como estão as suas CAPTURAS?\\pAh, é mesmo? Você está perto de {STR_VAR_2}?\\pBem, então é melhor a gente ter uma revanche.\\pPosso esperar, claro. Até mais!"
+ },
+ {
+  "offset": "0327D91",
+  "en": "…Er, {PLAYER}{KUN}?\\n{STR_VAR_1} here…\\pOh, you happen to be around\\n{STR_VAR_2}?\\pThen, let's battle.\\nRight away, I mean.\\pI'll show you my POKéMON.\\nI'll wait for you.",
+  "pt": "…Hã, {PLAYER}{KUN}? {STR_VAR_1} falando…\\pAh, você está por perto de {STR_VAR_2}?\\pEntão vamos batalhar. Agora mesmo, quero dizer.\\pVou te mostrar as minhas CAPTURAS. Vou te esperar."
+ },
+ {
+  "offset": "0327E1A",
+  "en": "Oh, {PLAYER}{KUN}, how do you do?\\nThis is {STR_VAR_1} speaking.\\pI hope you're doing well.\\nOh, you're near {STR_VAR_2}.\\pWould you like to have a battle\\nwith me, then?\\pI'll wait for you.\\nSee you soon!",
+  "pt": "Ah, {PLAYER}{KUN}, como vai? Aqui quem fala é {STR_VAR_1}.\\pEspero que esteja tudo bem. Ah, você está perto de {STR_VAR_2}.\\pEntão, gostaria de batalhar comigo?\\pVou te esperar. Até já!"
+ },
+ {
+  "offset": "0327EC6",
+  "en": "Oh, {PLAYER}{KUN}, hi there!\\nThis is {STR_VAR_1}!\\pAre you keeping up?\\nOh, you're near {STR_VAR_2}?\\pOh, well, then don't you think we\\nshould battle?\\pDon't keep me waiting too long!",
+  "pt": "Ah, {PLAYER}{KUN}, oi! Aqui é {STR_VAR_1}!\\pTudo em ordem? Ah, você está perto de {STR_VAR_2}?\\pAh, bem, então não acha que a gente deveria batalhar?\\pNão me faça esperar muito!"
+ },
+ {
+  "offset": "0327F5F",
+  "en": "Oh, {PLAYER}{KUN}, hello…\\nThis is {STR_VAR_1}.\\pHow are things with you?\\nOh, you're near {STR_VAR_2}.\\pWe should have a battle now, then.\\pI'm ready and waiting.\\nBe quick!",
+  "pt": "Ah, {PLAYER}{KUN}, olá… Aqui é {STR_VAR_1}.\\pComo vão as coisas? Ah, você está perto de {STR_VAR_2}.\\pEntão a gente deveria batalhar agora.\\pJá estou te esperando. Não demore!"
+ },
+ {
+  "offset": "0327FED",
+  "en": "Ah, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\pAh, so where you are now is\\n{STR_VAR_2}?\\pWell, then, we just have to have\\na battle, don't you think?\\pI'll wait around for you!\\nSee you real quick!",
+  "pt": "Ah, {PLAYER}{KUN}. Aqui é {STR_VAR_1}.\\pAh, então você está em {STR_VAR_2} agora?\\pBem, então a gente tem que batalhar, não acha?\\pVou ficar te esperando! Até daqui a pouco!"
+ },
+ {
+  "offset": "032808D",
+  "en": "Hello, {PLAYER}{KUN}.\\nIt's me, {STR_VAR_1}.\\lWhere might you be now?\\p{STR_VAR_2}?\\nThat's quite close by!\\pWhat do you say we have a battle\\nnow?\\pI can wait.\\nSee you!",
+  "pt": "Olá, {PLAYER}{KUN}. Sou eu, {STR_VAR_1}. Onde você estaria agora?\\p{STR_VAR_2}? Isso é bem pertinho!\\pQue tal a gente batalhar agora?\\pPosso esperar. Até mais!"
+ },
+ {
+  "offset": "0328115",
+  "en": "Ah, hello, {PLAYER}{KUN}!\\nThis is {STR_VAR_1}!\\pI hope you've been keeping well.\\nOh, you're near {STR_VAR_2}?\\pSince that's not very far away,\\ncome see me for a battle.\\pI'll wait for you.\\nBye for now.",
+  "pt": "Ah, olá, {PLAYER}{KUN}! Aqui é {STR_VAR_1}!\\pEspero que esteja tudo bem com você. Ah, você está perto de {STR_VAR_2}?\\pJá que não é muito longe, venha me ver para uma batalha.\\pVou te esperar. Até logo."
+ },
+ {
+  "offset": "03281C1",
+  "en": "Oh, hi, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\pYou're what? …{STR_VAR_2}?\\nThat's very close.\\pDon't you think we ought to have\\na battle?\\pI'll be looking for you!\\nBye-bye!",
+  "pt": "Ah, oi, {PLAYER}{KUN}. Aqui é {STR_VAR_1}.\\pVocê está onde? …{STR_VAR_2}? Isso é bem perto.\\pNão acha que a gente devia batalhar?\\pVou ficar te procurando! Tchauzinho!"
+ },
+ {
+  "offset": "032824D",
+  "en": "Hi! {PLAYER}, hello!\\nThis is {STR_VAR_1}.\\pWant to have a battle with me?\\pI'll be waiting for you around\\n{STR_VAR_2}!",
+  "pt": "Oi! {PLAYER}, olá! Aqui é {STR_VAR_1}.\\pQuer batalhar comigo?\\pVou ficar te esperando perto de {STR_VAR_2}!"
+ },
+ {
+  "offset": "03282AA",
+  "en": "Hello, {PLAYER}!\\nIt's {STR_VAR_1}.\\pWould you like to have a battle\\nwith me again?\\pYou can find me around\\n{STR_VAR_2}. I'll be waiting!",
+  "pt": "Olá, {PLAYER}! É {STR_VAR_1}.\\pQuer batalhar comigo de novo?\\pVocê pode me encontrar perto de {STR_VAR_2}. Vou ficar esperando!"
+ },
+ {
+  "offset": "0328319",
+  "en": "Hey there, {PLAYER}!\\nIt's me, {STR_VAR_1}.\\pMy POKéMON have grown a lot\\ntougher since last time.\\pI want to see how strong they've\\nbecome with your POKéMON, {PLAYER}.\\pSo, let's have a battle!\\pI'll be waiting for you around\\n{STR_VAR_2}.",
+  "pt": "Olá, {PLAYER}! Sou eu, {STR_VAR_1}.\\pAs minhas CAPTURAS ficaram bem mais fortes desde a última vez.\\pQuero ver o quanto elas ficaram fortes contra as suas CAPTURAS, {PLAYER}.\\pEntão, vamos batalhar!\\pVou ficar te esperando perto de {STR_VAR_2}."
+ },
+ {
+  "offset": "03283E5",
+  "en": "Hey, {PLAYER}{KUN}.\\n{STR_VAR_1} here.\\lHow are things with you?\\pMy POKéMON have grown pretty\\ntough lately.\\pHey, how would you like to have\\nanother battle with me?\\pLet's meet up around\\n{STR_VAR_2}, okay?",
+  "pt": "Ei, {PLAYER}{KUN}. {STR_VAR_1} falando. Como vão as coisas?\\pAs minhas CAPTURAS ficaram bem fortes ultimamente.\\pEi, que tal batalhar comigo de novo?\\pVamos nos encontrar perto de {STR_VAR_2}, combinado?"
+ },
+ {
+  "offset": "0328494",
+  "en": "Hiya, {PLAYER}{KUN}!\\nIt's {STR_VAR_1}.\\pMy POKéMON are growing up in\\ndecent ways.\\pI'd really like to have another\\nbattle with you.\\pI'll keep an eye out for you around\\n{STR_VAR_2}. See you soon!",
+  "pt": "Oi, {PLAYER}{KUN}! É {STR_VAR_1}.\\pAs minhas CAPTURAS estão crescendo direitinho.\\pEu queria muito batalhar com você de novo.\\pVou ficar de olho em você perto de {STR_VAR_2}. Até já!"
+ },
+ {
+  "offset": "032853A",
+  "en": "Hey, {PLAYER}{KUN}.\\n{STR_VAR_1} here.\\lI hope you're on top of things.\\pI was thinking I'd like another\\nbattle with you. What do you say?\\pIf you feel like a battle,\\ncome to {STR_VAR_2}.\\pSee you!",
+  "pt": "Ei, {PLAYER}{KUN}. {STR_VAR_1} falando. Espero que esteja tudo sob controle.\\pEstava pensando que queria batalhar com você de novo. O que me diz?\\pSe estiver a fim de uma batalha, venha até {STR_VAR_2}.\\pAté mais!"
+ },
+ {
+  "offset": "03285E0",
+  "en": "…Er, {PLAYER}{KUN}?\\n{STR_VAR_1} here…\\lSo? Are your POKéMON growing?\\pMine sure got stronger.\\nI'd like to show you.\\pI'll be around {STR_VAR_2}.\\nCome see me for a match.\\pSee you around.",
+  "pt": "…Hã, {PLAYER}{KUN}? {STR_VAR_1} falando… E aí? As suas CAPTURAS estão crescendo?\\pAs minhas com certeza ficaram mais fortes. Queria te mostrar.\\pVou estar perto de {STR_VAR_2}. Venha me ver para uma partida.\\pA gente se vê."
+ },
+ {
+  "offset": "032867C",
+  "en": "Oh, {PLAYER}{KUN}, how do you do?\\nThis is {STR_VAR_1} speaking.\\pI hope you're doing well.\\nMy POKéMON are very frisky.\\pIf you're ever in the area, please\\ngive me a rematch.\\pI'll be around {STR_VAR_2}.\\nUntil then, good-bye!",
+  "pt": "Ah, {PLAYER}{KUN}, como vai? Aqui quem fala é {STR_VAR_1}.\\pEspero que esteja tudo bem. As minhas CAPTURAS estão muito animadas.\\pSe algum dia passar pela área, por favor, me dê uma revanche.\\pVou estar perto de {STR_VAR_2}. Até lá, adeus!"
+ },
+ {
+  "offset": "032873F",
+  "en": "Oh, {PLAYER}{KUN}, hi there!\\nThis is {STR_VAR_1}!\\lHow are your POKéMON doing?\\pMy POKéMON keep getting better.\\nI'd like to show you, {PLAYER}{KUN}.\\pI'm around {STR_VAR_2} now,\\nso let's battle if you're close by.\\pHope I see you soon!",
+  "pt": "Ah, {PLAYER}{KUN}, oi! Aqui é {STR_VAR_1}! Como estão as suas CAPTURAS?\\pAs minhas CAPTURAS não param de melhorar. Queria te mostrar, {PLAYER}{KUN}.\\pEstou perto de {STR_VAR_2} agora, então vamos batalhar se você estiver por perto!\\pEspero te ver logo!"
+ },
+ {
+  "offset": "0328803",
+  "en": "Oh, {PLAYER}{KUN}, hello…\\nThis is {STR_VAR_1}.\\lSo, how are things with you?\\pMy POKéMON have grown much\\nstronger than before.\\pI'd love another battle with you,\\n{PLAYER}{KUN}.\\pI'll be around {STR_VAR_2}.\\nCome see me if you're close.",
+  "pt": "Ah, {PLAYER}{KUN}, olá… Aqui é {STR_VAR_1}. Então, como vão as coisas?\\pAs minhas CAPTURAS ficaram muito mais fortes do que antes.\\pEu adoraria batalhar com você de novo, {PLAYER}{KUN}.\\pVou estar perto de {STR_VAR_2}. Venha me ver se estiver por perto."
+ },
+ {
+  "offset": "03288C6",
+  "en": "Ah, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\lWhere might you be now?\\pMy POKéMON are full of life.\\nThey appear to be looking forward\\lto seeing your POKéMON, {PLAYER}{KUN}.\\pI'm around {STR_VAR_2} now.\\nI hope you'll seek us out.",
+  "pt": "Ah, {PLAYER}{KUN}. Aqui é {STR_VAR_1}. Onde você estaria agora?\\pAs minhas CAPTURAS estão cheias de vida. Parecem ansiosas para ver as suas CAPTURAS, {PLAYER}{KUN}.\\pEstou perto de {STR_VAR_2} agora. Espero que venha nos procurar."
+ },
+ {
+  "offset": "032897F",
+  "en": "Hello, {PLAYER}{KUN}.\\nIt's me, {STR_VAR_1}.\\pI should tell you, my POKéMON have\\ngrown to be quite robust lately.\\pI would like to see them in a battle\\nwith you, {PLAYER}{KUN}.\\pWe'll be around {STR_VAR_2}.\\nCome see us anytime!",
+  "pt": "Olá, {PLAYER}{KUN}. Sou eu, {STR_VAR_1}.\\pDevo dizer que as minhas CAPTURAS ficaram bem robustas ultimamente.\\pGostaria de vê-las numa batalha com você, {PLAYER}{KUN}.\\pVamos estar perto de {STR_VAR_2}. Venha nos ver quando quiser!"
+ },
+ {
+  "offset": "0328A3B",
+  "en": "Ah, hello, {PLAYER}{KUN}!\\nThis is {STR_VAR_1}!\\lAre your POKéMON keeping well?\\pMy POKéMON have been so healthy,\\nthey don't look capable of losing!\\pI would surely love to have another\\nbattle with you.\\pIf you're near {STR_VAR_2},\\ndo come see us.",
+  "pt": "Ah, olá, {PLAYER}{KUN}! Aqui é {STR_VAR_1}! As suas CAPTURAS estão bem?\\pAs minhas CAPTURAS andam tão saudáveis que nem parecem capazes de perder!\\pEu adoraria muito batalhar com você de novo.\\pSe estiver perto de {STR_VAR_2}, venha nos ver."
+ },
+ {
+  "offset": "0328B13",
+  "en": "Oh, hi, {PLAYER}{KUN}.\\nThis is {STR_VAR_1}.\\lKeeping well, I hope.\\pOh, yes! My POKéMON are\\nmuch stronger than before.\\pDon't you think we ought to have\\na battle, {PLAYER}{KUN}?\\pWe'll be waiting for you around\\n{STR_VAR_2}.\\pCome see us anytime, okay?",
+  "pt": "Ah, oi, {PLAYER}{KUN}. Aqui é {STR_VAR_1}. Espero que esteja tudo bem.\\pAh, sim! As minhas CAPTURAS estão muito mais fortes do que antes.\\pNão acha que a gente deveria batalhar, {PLAYER}{KUN}?\\pVamos ficar te esperando perto de {STR_VAR_2}.\\pVenha nos ver quando quiser, combinado?"
+ },
+ {
+  "offset": "0328BE6",
+  "en": "It's me, the mountain-loving\\n{STR_VAR_1}!\\pWell, since we met, have you grown\\nto appreciate the mountains more?\\pI rarely see you in the mountains…\\pNext time, we'll meet somewhere\\naround {STR_VAR_2}.",
+  "pt": "Sou eu, {STR_VAR_1}, fã de montanhas!\\pE então, desde que nos conhecemos, você passou a apreciar mais as montanhas?\\pQuase não te vejo nas montanhas…\\pDa próxima vez, vamos nos encontrar perto de {STR_VAR_2}."
+ },
+ {
+  "offset": "0328C9A",
+  "en": "This is {STR_VAR_1}.\\nHello.\\pI was just telling a new TRAINER\\nabout you.\\pI told her about a strong TRAINER\\nwho raises POKéMON with care.\\pI hope you'll become a TRAINER\\nthat everyone will admire.\\pI hope we meet again!",
+  "pt": "Aqui é {STR_VAR_1}. Olá.\\pEu estava agora mesmo falando de você para uma nova TREINADORA.\\pContei a ela sobre um TREINADOR forte que cria CAPTURAS com carinho.\\pEspero que você se torne um TREINADOR que todos admirem.\\pEspero que a gente se encontre de novo!"
+ },
+ {
+  "offset": "0328D69",
+  "en": "Hello! It's {STR_VAR_1}.\\pI love where I am now.\\nIt's pleasant with sweet aromas!\\pI think someone planted BERRIES,\\nand they burst into bloom.\\pSee you again sometime!",
+  "pt": "Olá! É {STR_VAR_1}.\\pAdoro o lugar onde estou agora. É agradável, com aromas doces!\\pAcho que alguém plantou FRUTAS, e elas floresceram.\\pAté a próxima!"
+ },
+ {
+  "offset": "0328E05",
+  "en": "Hello! Thirty years of exploration,\\n{STR_VAR_1} at your service!\\pIt seems that you're energetically\\ntraveling here and there.\\pHave you discovered any new ruins?\\nPlease tell if you have!\\pNow, if you'll excuse me,\\nI have ruins to explore.",
+  "pt": "Olá! Trinta anos de exploração, {STR_VAR_1} a seu dispor!\\pParece que você anda viajando cheio de energia por aí.\\pDescobriu alguma ruína nova? Por favor, me conte se descobriu!\\pAgora, se me der licença, tenho ruínas para explorar."
+ },
+ {
+  "offset": "0328EE9",
+  "en": "It's {STR_VAR_1}!\\pKnow what I'm doing today?\\nLooking at waves from the beach!\\pSigh… The waves are all sparkly.\\nThe sea is the prettiest from here.\\lI'm getting hungry, so bye-bye!",
+  "pt": "É {STR_VAR_1}!\\pSabe o que estou fazendo hoje? Olhando as ondas da praia!\\pAi… As ondas estão todas cintilantes. O mar é mais bonito daqui. Estou ficando com fome, então tchauzinho!"
+ },
+ {
+  "offset": "0328F93",
+  "en": "Munch-chew…\\nOh, hi, it's {STR_VAR_1}.\\lI love eating on the beach.\\pMy POKéMON and I have been doing\\ngreat. We're fully fueled!\\lI'm going for a swim. Bye!",
+  "pt": "Nhac, nhac… Ah, oi, é {STR_VAR_1}. Adoro comer na praia.\\pEu e as minhas CAPTURAS estamos ótimos. Estamos de tanque cheio! Vou nadar um pouco. Tchau!"
+ },
+ {
+  "offset": "0329023",
+  "en": "Hello, this is {STR_VAR_1}…\\pI've grown a little jaded with this\\nwhole COOLTRAINER thing…\\pEveryone thinks I'm a perfect\\nTRAINER, and that makes me try to\\llive up to that expectation.\\pBut I guess that goes with being\\na COOLTRAINER.\\pI'll just have to buckle down…\\nand grin and bear it.\\pYou're the only person that I could\\nconfide in like this.\\pBut when I see you next,\\ndon't worry, I won't whine!",
+  "pt": "Olá, aqui é {STR_VAR_1}…\\pAndo sem paciência pra essa história toda de TREINADOR ÁS…\\pTodo mundo acha que sou um TREINADOR perfeito, e isso me faz tentar corresponder a essa expectativa.\\pMas acho que isso faz parte de ser um TREINADOR ÁS.\\pVou ter que me dedicar… e aguentar firme com um sorriso.\\pVocê é a única pessoa com quem eu poderia desabafar assim.\\pMas, quando a gente se encontrar de novo, não se preocupe, não vou reclamar!"
+ },
+ {
+  "offset": "03291A4",
+  "en": "Yahoo, it's {STR_VAR_1}!\\nHow do you do?\\pI've been raising my POKéMON with\\nyou as the target.\\pI don't intend to lose when we\\nbattle again.\\pIsn't it great to have TRAINER\\nfriends? Let's meet again!",
+  "pt": "Eba, é {STR_VAR_1}! Como vai?\\pTenho treinado as minhas CAPTURAS com você como alvo.\\pNão pretendo perder quando a gente batalhar de novo.\\pNão é ótimo ter amigos TREINADORES? Vamos nos encontrar de novo!"
+ },
+ {
+  "offset": "032925F",
+  "en": "It's {STR_VAR_1}…\\nRight now, behind you…\\lWasn't there something…?\\pThe power of the POKéMON that\\nsleep here at MT. PYRE…\\pIt's telling me about you…\\pYou should walk away quickly and\\nnever once look back…\\pGiggle…\\nFarewell…",
+  "pt": "É {STR_VAR_1}… Agora mesmo, atrás de você… Não tinha alguma coisa…?\\pO poder das CAPTURAS que dormem aqui no MT. PYRE…\\pEstá me contando sobre você…\\pVocê deveria se afastar rápido e nunca olhar para trás…\\pHihi… Adeus…"
+ },
+ {
+  "offset": "0329332",
+  "en": "This is {STR_VAR_1}.\\nHow do you do?\\pIsn't it convenient that we can\\nchat like this at a distance?\\pBefore, if I wanted to speak with\\nanyone, I had to have my father\\ldrive me…\\pI should be going now.\\nI'm glad we had this chat.",
+  "pt": "Aqui é {STR_VAR_1}. Como vai?\\pNão é prático a gente poder conversar assim a distância?\\pAntes, se eu quisesse falar com alguém, tinha que pedir pro meu pai me levar de carro…\\pPreciso ir agora. Fico feliz que a gente tenha conversado."
+ },
+ {
+  "offset": "0329409",
+  "en": "It's {STR_VAR_1}!\\nWill you listen to this?\\pI like the SAFARI ZONE a lot,\\nbut whenever I go, I get lost!\\pAll that tall grass!\\nAnd it's much too spread out!\\pI feel better getting that off\\nmy chest!\\pI'm off to the SAFARI ZONE again!\\nCatch you!",
+  "pt": "É {STR_VAR_1}! Escuta só isso!\\pEu gosto muito da ZONA SAFÁRI, mas sempre que vou lá, me perco!\\pAquele mato alto todo! E é espalhado demais!\\pMe sinto melhor depois de desabafar!\\pVou para a ZONA SAFÁRI de novo! Até mais!"
+ },
+ {
+  "offset": "03294F1",
+  "en": "Hello, {STR_VAR_1} here.\\nYes, correct, I am rich, yes.\\pI should tell you, my wealth has\\ngrown since we last met.\\pWhat's more, my POKéMON have also\\ngrown stronger.\\pI can't shake the feeling that\\nthis world exists for me!\\pOh, no need to say a word!\\nEveryone knows it's true!\\pOh, you must excuse me, I have this\\nformal dinner to attend.",
+  "pt": "Olá, {STR_VAR_1} falando. Sim, correto, eu sou rico, sim.\\pDevo dizer que a minha fortuna cresceu desde a última vez que nos vimos.\\pE mais: as minhas CAPTURAS também ficaram mais fortes.\\pNão consigo me livrar da sensação de que este mundo existe para mim!\\pAh, não precisa dizer nada! Todo mundo sabe que é verdade!\\pAh, você vai ter que me dar licença, tenho um jantar formal a que comparecer."
+ },
+ {
+  "offset": "0329636",
+  "en": "Ufufufufu…\\nIt's me, {STR_VAR_1}…\\pCan you guess what I'm seeing?\\nA pair of {STR_VAR_2} in a battle.\\pMaybe I'll try catching the winner…\\nUfufufufufu…\\pI… I'm kind of busy now.\\nI have to go.",
+  "pt": "Ufufufufu… Sou eu, {STR_VAR_1}…\\pAdivinha o que estou vendo? Dois {STR_VAR_2} numa batalha.\\pTalvez eu tente pegar o vencedor… Ufufufufufu…\\pEu… Eu estou meio sem tempo agora. Preciso ir."
+ },
+ {
+  "offset": "03296DF",
+  "en": "Oh, it's {STR_VAR_1}!\\pI was just thinking I'm getting\\nbored of the ABANDONED SHIP.\\pBut since I'm already here,\\nand I want to beat you once,\\lI'll be sticking around a bit more.\\pIf you feel compelled, why don't\\nyou come see me?\\pI think today will be the day that\\nI finally challenge the man next\\ldoor to a match.\\pBe seeing you!",
+  "pt": "Ah, é {STR_VAR_1}!\\pEu estava pensando que o NAVIO ABANDONADO está ficando chato.\\pMas, já que estou aqui e quero te vencer pelo menos uma vez, vou ficar mais um pouco.\\pSe sentir vontade, por que não vem me ver?\\pAcho que hoje vai ser o dia em que finalmente vou desafiar o homem da cabine ao lado para uma partida.\\pAté mais!"
+ },
+ {
+  "offset": "032981C",
+  "en": "I'm {STR_VAR_1}!\\nThe man of the sea!\\pYou know what I think?\\pThe TRAINERS out at sea are\\nthe toughest of the tough!\\pYou should learn from me and train\\nin the sea…\\pWhoops, giant surf rising!\\pIt's a great training opportunity!\\nSorry, but I have to go!",
+  "pt": "Sou {STR_VAR_1}! O homem do mar!\\pSabe o que eu acho?\\pOs TREINADORES lá no mar são os mais durões dos durões!\\pVocê devia aprender comigo e treinar no mar…\\pOpa, lá vem uma onda gigante!\\pÉ uma ótima oportunidade de treino! Desculpe, mas preciso ir!"
+ },
+ {
+  "offset": "032990C",
+  "en": "It's {STR_VAR_1}! Listen, I've been\\nteaching karate to my POKéMON.\\pBut now they're better than me!\\nI've done nothing but lose to them!\\pBut even though I may lose to\\nPOKéMON, I won't lose to another\\lTRAINER, no sir!\\pWe have to battle again!\\nUgwaah!",
+  "pt": "É {STR_VAR_1}! Escuta, eu ando ensinando caratê pras minhas CAPTURAS.\\pMas agora elas estão melhores do que eu! Só faço perder pra elas!\\pMas, mesmo que eu perca pras CAPTURAS, não vou perder pra outro TREINADOR, de jeito nenhum!\\pA gente tem que batalhar de novo! Ugwaah!"
+ },
+ {
+  "offset": "03299FB",
+  "en": "It's me, {STR_VAR_1}.\\nHow're your travels unwinding?\\p…Whoa, is that right?\\nSounds awfully stimulating!\\pI think I could write a song about\\none of your episodes.\\p…Oh, hey, I'm feeling it.\\nI hear the riffs in my head.\\pI'd better get this tune properly\\nwritten, so I've got to fly! Later!",
+  "pt": "Sou eu, {STR_VAR_1}. Como andam as suas viagens?\\p…Uau, sério? Parece incrivelmente estimulante!\\pAcho que eu conseguiria escrever uma música sobre uma das suas aventuras.\\p…Ah, ei, estou sentindo. Estou ouvindo os riffs na minha cabeça.\\pPreciso escrever direito essa música, então tenho que voar! Até mais!"
+ },
+ {
+  "offset": "0329B0F",
+  "en": "This is {STR_VAR_1}…\\nHear my new song.\\pLalala, {STR_VAR_2}, {STR_VAR_2}!\\nWhy are you that {STR_VAR_2}?\\lWhy can't I be you, {STR_VAR_2}?\\lLala, {STR_VAR_2} and {STR_VAR_1},\\l{STR_VAR_1} and {STR_VAR_2}…\\pRepeat chorus, fade…",
+  "pt": "Aqui é {STR_VAR_1}… Ouça a minha música nova.\\pLalalá, {STR_VAR_2}, {STR_VAR_2}!\\nPor que você é tão {STR_VAR_2}?\\lPor que não sou você, {STR_VAR_2}?\\lLalá, {STR_VAR_2} e {STR_VAR_1},\\l{STR_VAR_1} e {STR_VAR_2}…\\pRepete o refrão, vai sumindo…"
+ },
+ {
+  "offset": "0329B9B",
+  "en": "I'm {STR_VAR_1}, you know,\\nthe camping expert!\\pWhen we battled, I couldn't help\\nbut lose to you.\\pAfter all, my expertise is in\\ncamping.\\pBut win or lose, I like to battle\\nwhen I'm camping.\\pBattle with us again, okay?\\nOh, and let's go camping, too!",
+  "pt": "Sou {STR_VAR_1}, sabe, o especialista em acampamento!\\pQuando batalhamos, não teve jeito, perdi pra você.\\pAfinal, a minha especialidade é acampar.\\pMas, ganhando ou perdendo, eu gosto de batalhar quando estou acampando.\\pBatalhe com a gente de novo, tá? Ah, e vamos acampar também!"
+ },
+ {
+  "offset": "0329C89",
+  "en": "It's me, me, {STR_VAR_1}!\\pI'd like to climb other mountains\\nthan this one, to be honest.\\pBut I'm not sure if there'd be any\\nladies like on MT. CHIMNEY.\\pIf you know any other mountain\\nwith ladies around, let me know!\\pEhehehe, see you around!",
+  "pt": "Sou eu, eu, {STR_VAR_1}!\\pPra ser sincero, eu queria escalar outras montanhas além desta.\\pMas não sei se teria moças como no MT. CHIMNEY.\\pSe você souber de outra montanha com moças por perto, me avise!\\pHehehe, a gente se vê!"
+ },
+ {
+  "offset": "0329DBC",
+  "en": "This is {STR_VAR_1}. Today, I had\\nthis feeling I would chat with you.\\pMy desire to defeat you builds\\nby day and by night.\\pYou have a rival like that, yes?\\nI wish it were me…\\pI'm glad you heard me out.\\nSee you!",
+  "pt": "Aqui é {STR_VAR_1}. Hoje eu tive a sensação de que ia conversar com você.\\pA minha vontade de te derrotar cresce dia e noite.\\pVocê tem um rival assim, não tem? Queria que fosse eu…\\pFico feliz que você tenha me ouvido. Até mais!"
+ },
+ {
+  "offset": "0329E85",
+  "en": "It's {STR_VAR_1}.\\pWhen there's a strong TRAINER\\nnearby, I can sometimes sense that\\lsomehow.\\pDid you pass close by, {PLAYER}{KUN}?\\nMaybe it was you.\\pI'll be waiting for your visit.\\nBye!",
+  "pt": "É {STR_VAR_1}.\\pQuando tem um TREINADOR forte por perto, às vezes eu consigo sentir, de algum jeito.\\pVocê passou aqui perto, {PLAYER}{KUN}? Talvez tenha sido você.\\pVou esperar a sua visita. Tchau!"
+ },
+ {
+  "offset": "0329F2C",
+  "en": "Hello, this is {STR_VAR_1}.\\nYou sound well, {PLAYER}{KUN}.\\pI've traveled around the world,\\nbut I must say I've taken a great\\lshine to this region.\\pI plan to stay here a while.\\nPerhaps we can meet again?\\pI've not forgotten your dazzling\\ntechniques.\\pI do hope for a rematch.",
+  "pt": "Olá, aqui é {STR_VAR_1}. Você parece bem, {PLAYER}{KUN}.\\pJá viajei pelo mundo todo, mas devo dizer que me afeiçoei muito a esta região.\\pPretendo ficar aqui por um tempo. Talvez a gente possa se encontrar de novo?\\pNão esqueci as suas técnicas deslumbrantes.\\pEspero muito por uma revanche."
+ }
+]

@@ -1,0 +1,707 @@
+[
+ {
+  "offset": "03356AC",
+  "en": "Waaaah!\\n{PLAYER} turned me down…\\lIt… It's an invaluable experience!\\p{PLAYER}, please! I want to hear\\nan affirmative answer this time!\\pI beg you for your guidance!",
+  "pt": "Buááá! {PLAYER} me recusou… É… É uma experiência valiosíssima!\\p{PLAYER}, por favor! Desta vez eu quero ouvir um sim!\\pEu imploro pela sua orientação!"
+ },
+ {
+  "offset": "0335743",
+  "en": "Hieeeeh! {PLAYER} said yes!\\n{PLAYER} said yes!\\pI won't be able to sleep tonight…\\nThank you ever so much!\\pThen, here's my question!\\pAt the BATTLE TOWER, what is right\\nfor me, Level 50 or Open Level?",
+  "pt": "Iiiiih! {PLAYER} disse sim! {PLAYER} disse sim!\\pNão vou conseguir dormir esta noite… Agradeço de coração!\\pEntão, lá vai a minha pergunta!\\pNa TORRE DE BATALHA, o que é melhor pra mim: Nível 50 ou Nível Livre?"
+ },
+ {
+  "offset": "03357FD",
+  "en": "{STR_VAR_1}! Perfectly understood!\\nI understand perfectly!\\lI'm deliriously delighted!\\pI hope you'll be willing to teach me\\nsome more another time.",
+  "pt": "{STR_VAR_1}! Perfeitamente entendido! Entendi perfeitamente! Que alegria delirante!\\pEspero que você aceite me ensinar mais uma outra hora."
+ },
+ {
+  "offset": "0335887",
+  "en": "Whoa! Could you be…\\nMight you be… {PLAYER}{KUN}?!\\lThat strong and famous TRAINER?\\lWell, hello, aren't I just the luckiest!\\pHello, the name's {STR_VAR_1}!\\pI've been on the lookout for\\na POKéMON teacher.\\pAnd with impeccably good timing,\\nalong came you, {PLAYER}{KUN}!\\pSo, there you have it, {PLAYER}{KUN}!\\nLet me apprentice under you!",
+  "pt": "Uau! Será que você é… Será possível que você seja… {PLAYER}{KUN}?! Aquele TREINADOR forte e famoso? Nossa, que sorte a minha!\\pOlá, meu nome é {STR_VAR_1}!\\pEu estava procurando um professor de CAPTURAS.\\pE, bem na hora certa, quem aparece? Você, {PLAYER}{KUN}!\\pEntão, é isso, {PLAYER}{KUN}! Me aceite como seu aprendiz!"
+ },
+ {
+  "offset": "03359B0",
+  "en": "Gwaaaah!\\nYou're quite cool and tough…\\pDon't be that way, please.\\nI'm asking you!",
+  "pt": "Gwaaaah! Você é bem frio e durão…\\pNão faça assim, por favor. Eu estou te pedindo!"
+ },
+ {
+  "offset": "0335A01",
+  "en": "Oh, yeah! That's a solid reply!\\nExcellent, I might add!\\pSo how about a first piece of advice\\non the BATTLE TOWER?\\pIf I were to go, what would be better?\\nLevel 50 or Open Level?",
+  "pt": "Isso! Que resposta firme! E excelente, devo dizer!\\pEntão, que tal um primeiro conselho sobre a TORRE DE BATALHA?\\pSe eu fosse, o que seria melhor? Nível 50 ou Nível Livre?"
+ },
+ {
+  "offset": "0335AB2",
+  "en": "Uh-huh, {STR_VAR_1} it is!\\nOK, A-OK!\\lI'll go show my mettle, like, jam!\\pAll right, I'll look to you as my mentor!\\nAdios!",
+  "pt": "Aham, {STR_VAR_1}, então! OK, tudo OK! Vou lá mostrar do que sou capaz, tipo, pá!\\pBeleza, de agora em diante você é o meu mentor! Adiós!"
+ },
+ {
+  "offset": "0335B22",
+  "en": "Oh, hey, {PLAYER}{KUN}, right?\\nThe police were looking for you!\\p… … …\\nOf course I'm lying!\\pMe, I'm {STR_VAR_1}. Despite the way\\nI look, I'm the POKéMON CHAMPION!\\l…That's a lie, too!\\pThis is no lie, though.\\nI'm not very good at battling.\\pSo, how about you becoming my master\\nabout all things POKéMON?",
+  "pt": "Ah, ei, você é {PLAYER}{KUN}, né? A polícia estava atrás de você!\\p… … … Claro que é mentira!\\pEu sou {STR_VAR_1}. Apesar da aparência, tenho o título de CAMPEÃO da LIGA CAPTURA! …Isso também é mentira!\\pMas isto não é mentira: eu não mando muito bem nas batalhas.\\pEntão, que tal você virar o meu mestre em tudo que é assunto de CAPTURA?"
+ },
+ {
+  "offset": "0335C3C",
+  "en": "If you're going to act cold like that,\\nI'll show you what I'll do!\\pWaaah! Waaah! Waaah!\\nHiccup!\\pHahaha, that was my FAKE TEARS!\\pCome on, will you please be\\nmy POKéMON master?",
+  "pt": "Se você vai agir com essa frieza, vou te mostrar o que eu faço!\\pBuááá! Buááá! Buááá! Hic!\\pHahaha, essas foram as minhas LÁGRIMAS FALSAS!\\pVamos lá, você aceita ser o meu mestre de CAPTURAS?"
+ },
+ {
+  "offset": "0335CEB",
+  "en": "Yippee!\\nI'll buy you a boat for that!\\pOf course I'm lying again!\\nBut… Thank you, master!\\pYou know how there's Level 50 and\\nOpen Level at the BATTLE TOWER?\\pI'm having trouble deciding which\\nlevel I should challenge…\\pCan you decide for me, master?",
+  "pt": "Oba! Vou te dar um barco por isso!\\pClaro que é mentira de novo! Mas… Valeu, mestre!\\pSabe que na TORRE DE BATALHA tem o Nível 50 e o Nível Livre?\\pEstou com dificuldade pra decidir qual nível desafiar…\\pVocê pode decidir por mim, mestre?"
+ },
+ {
+  "offset": "0335DE1",
+  "en": "Okay, so {STR_VAR_1} is better!\\nI'll go to the other level, then!\\pJust kidding!\\nI'll obey your teaching, master!\\pThanks, master!\\nI hope you'll keep teaching me!",
+  "pt": "Certo, então o {STR_VAR_1} é melhor! Então eu vou pro outro nível!\\pBrincadeira! Vou seguir os seus ensinamentos, mestre!\\pValeu, mestre! Espero que você continue me ensinando!"
+ },
+ {
+  "offset": "0335E79",
+  "en": "A-H-O-Y!\\nAnd that spells ahoy, and it means hi!\\pI'm {STR_VAR_1}, the rappin' SAILOR\\nam I!\\pYour turn now, tell me a little about\\nyourself, give it a try!\\pUh-huh, uh-huh!\\n{PLAYER}{KUN}'s your name,\\land POKéMON's your game!\\pAnd you're at a delicate age\\nwhen all the world's your stage!\\pAnyway, I just want to say,\\nthat you're the tenth TRAINER\\lI've spoken to today.\\pLet's make that a celebration!\\nBecome my mentor for commemoration!",
+  "pt": "A-H-O-Y! Isso é ahoy, que é oi em marinhês!\\pSou {STR_VAR_1}, o MARINHEIRO rimador, sim, senhor!\\pAgora é a sua vez, me conte de você, vamos, por favor!\\pAham, aham! {PLAYER}{KUN} é o seu nome, e as CAPTURAS são o que te consome!\\pE você tá numa idade delicada, com o mundo inteiro de palco pra sua jornada!\\pEnfim, só quero dizer que você é o décimo TREINADOR com quem eu falei hoje, pode crer!\\pVamos fazer uma comemoração! Vire o meu mentor, pra celebração!"
+ },
+ {
+  "offset": "0336015",
+  "en": "But!\\nYou have to work with me!\\pDon't be such a tease!\\nBecome my mentor, please!",
+  "pt": "Mas! Você tem que colaborar comigo!\\pNão fique me provocando, é sério! Seja o meu mentor, sem mistério!"
+ },
+ {
+  "offset": "0336065",
+  "en": "That's it!\\n{PLAYER}, you've got the spirit!\\pSo here's my first question\\nthat begs your suggestion!\\pIt's about the BATTLE TOWER,\\nand it hinges on my power!\\pLevel 50 and Open Level there be,\\nwhich is the one that's good for me?",
+  "pt": "É isso aí! {PLAYER}, você tem atitude!\\pEntão aqui vai a minha primeira questão, que pede a sua sugestão!\\pÉ sobre a TORRE DE BATALHA, e depende de como o meu poder trabalha!\\pLá tem Nível 50 e Nível Livre pra escolher, qual dos dois é o certo pra eu vencer?"
+ },
+ {
+  "offset": "0336141",
+  "en": "Okay, {STR_VAR_1} it is, you say!\\nI'll go and take it on my way!\\pIf it's advice I ever need,\\n{PLAYER}, your word I'll always heed!",
+  "pt": "Certo, {STR_VAR_1}, é o que você diz! Vou lá enfrentar, e vou ser feliz!\\pSe um dia eu precisar de um conselho, {PLAYER}, a sua palavra é o meu espelho!"
+ },
+ {
+  "offset": "03361B5",
+  "en": "Say, hey, aren't you {PLAYER}?\\nWhat should I do? Talk to you?\\lWhy not? I'm already talking to you!\\p{PLAYER}, are you surprised at me?\\nI'd better tell you who I happen to be!\\p{STR_VAR_1} is what you can call me.\\nThe brightest star in guitardom,\\lthat's me!\\pAre you receiving me?\\nYou are receiving me!\\pMy luck's at its best,\\nI'll hit you with a request!\\p{PLAYER}, let me be your underling!\\nI want you to teach me everything!",
+  "pt": "Ei, ei, você não é {PLAYER}? O que eu faço? Falo com você? Por que não? Já estou falando com você!\\p{PLAYER}, se surpreendeu comigo? É melhor eu contar quem eu sou, amigo!\\pPode me chamar de {STR_VAR_1}. A estrela mais brilhante da guitarra sou eu, sim!\\pCâmbio, você está me ouvindo? Está me ouvindo, sim!\\pMinha sorte tá nas alturas, vou te fazer um pedido sem frescuras!\\p{PLAYER}, quero ser seu aprendiz! Me ensine tudo, que eu vou ser feliz!"
+ },
+ {
+  "offset": "0336340",
+  "en": "You're turning me down, then?\\nI'll just have to ask you again!\\p{PLAYER}, I beg to be your underling!\\nI need you to teach me everything!",
+  "pt": "Vai me recusar, então? Pois eu peço de novo, com emoção!\\p{PLAYER}, eu imploro, quero ser seu aprendiz! Preciso que você me ensine tudo, é o que eu sempre quis!"
+ },
+ {
+  "offset": "03363C2",
+  "en": "Lucky, yeah, woohoo!\\nShould I pop a question to you?\\pSince we're near the BATTLE TOWER,\\nhow about a question about its power?\\pOf the choices you see,\\nwhich is the right one for me?",
+  "pt": "Que sorte, yeah, uhuu! Posso te fazer uma pergunta? Lá vai, uhuu!\\pJá que estamos perto da TORRE DE BATALHA, que tal uma pergunta sobre o poder que ela espalha?\\pDas opções que você está vendo, qual é a certa pra eu ir vencendo?"
+ },
+ {
+  "offset": "0336477",
+  "en": "If {STR_VAR_1} is what you suggest,\\nit must be the very best!\\pWell, {PLAYER}, I have to roam free,\\nbut don't you forget about me.\\pSee you again, my smart friend!",
+  "pt": "Se {STR_VAR_1} é a sua sugestão, deve ser a melhor opção!\\pBom, {PLAYER}, eu vou seguir livre pela estrada, mas não se esqueça de mim, camarada!\\pAté a próxima, meu amigo esperto!"
+ },
+ {
+  "offset": "033650A",
+  "en": "Oh, hi! You there!\\nCan I get you to massage my shoulder?\\p…Yes, there! That's it!\\nOuch, ouch! Oooh, that feels great!\\pMy name's {STR_VAR_1}.\\nI take karate training, but my body's\\lnot built to take the abuse…\\pI decided I'll battle POKéMON and\\ntoughen myself up.\\pYou're {PLAYER}{KUN}, aren't you?\\nThe POKéMON LEAGUE CHAMP?\\pListen, can I get you to give me\\nadvice?",
+  "pt": "Ah, oi! Você aí! Pode massagear o meu ombro?\\p…Isso, aí! É isso! Ai, ai! Ahhh, que delícia!\\pMeu nome é {STR_VAR_1}. Eu treino caratê, mas o meu corpo não foi feito pra aguentar tanta pancada…\\pDecidi batalhar com CAPTURAS pra ficar mais forte.\\pVocê é {PLAYER}{KUN}, não é? O CAMPEÃO da LIGA CAPTURA?\\pEscute, posso te pedir uns conselhos?"
+ },
+ {
+  "offset": "0336661",
+  "en": "Oh, why?\\pI won't be a big bother, I promise!\\nPlease?",
+  "pt": "Ah, por quê?\\pNão vou dar trabalho, prometo! Por favor?"
+ },
+ {
+  "offset": "0336696",
+  "en": "Thank you. Mighty good of you!\\n…Cough! Cough!\\pOogh, I have to toughen up quick…\\pI'll be heading off to the BATTLE TOWER\\nright away, but what would be better\\lfor me? Level 50 or Open Level?",
+  "pt": "Valeu. Muita bondade sua! …Cof! Cof!\\pUgh, eu tenho que ficar forte rápido…\\pVou direto pra TORRE DE BATALHA, mas o que seria melhor pra mim? Nível 50 ou Nível Livre?"
+ },
+ {
+  "offset": "0336753",
+  "en": "Hm, all right. That's {STR_VAR_1}.\\nI'll go there right away.\\pI hope I can keep hitting you up for\\nhelp--after all, you're my mentor!",
+  "pt": "Hum, tudo bem. {STR_VAR_1}, então. Vou pra lá agora mesmo.\\pEspero poder continuar te pedindo ajuda… afinal, você é o meu mentor!"
+ },
+ {
+  "offset": "03367CF",
+  "en": "Er… Um…\\n{PLAYER}{KUN}…?\\pPlease, don't look at me that way.\\nYou're making me all self-conscious.\\pI… I'm {STR_VAR_1}.\\pI'm really embarrassed to say this,\\nbut I explore ancient ruins and such.\\pI'm even more embarrassed to admit\\nI'm interested in the BATTLE FRONTIER.\\p{PLAYER}{KUN}, you have a reputation as\\na tough TRAINER…\\pIt's hard for me to say this,\\nbut I want to ask something.\\pCould you become my teacher and\\ngive me advice?",
+  "pt": "Hã… Hum… {PLAYER}{KUN}…?\\pPor favor, não me olhe desse jeito. Assim eu fico sem graça.\\pE… Eu sou {STR_VAR_1}.\\pMorro de vergonha de dizer isso, mas eu exploro ruínas antigas e coisas assim.\\pE tenho mais vergonha ainda de admitir que me interesso pela FRONTEIRA DE BATALHA.\\p{PLAYER}{KUN}, você tem fama de ser um TREINADOR durão…\\pÉ difícil pra mim dizer isso, mas quero te pedir uma coisa.\\pVocê poderia ser o meu professor e me dar conselhos?"
+ },
+ {
+  "offset": "0336960",
+  "en": "Please don't brush me off like this!\\nI can't live with the humiliation.\\pPlease become my teacher!\\nI need your advice!",
+  "pt": "Por favor, não me dispense assim! Não vou aguentar a humilhação.\\pPor favor, seja o meu professor! Preciso dos seus conselhos!"
+ },
+ {
+  "offset": "03369D6",
+  "en": "Th-thank you…\\pBut please don't look at me like that.\\nIt makes me all flustered.\\pPlease, answer me without looking\\nat my eyes.\\pAt the BATTLE TOWER…\\nWhich level should I attempt?",
+  "pt": "A-agradeço…\\pMas, por favor, não me olhe assim. Isso me deixa sem jeito.\\pPor favor, me responda sem olhar nos meus olhos.\\pNa TORRE DE BATALHA… Qual nível eu devo tentar?"
+ },
+ {
+  "offset": "0336A87",
+  "en": "Oh… Okay!\\nI'll try my hand at that.\\pI hope I can make a valiant challenge\\nwithout getting all flustered…\\pThank you, {PLAYER}{KUN}.\\nIf we meet again, I hope you will be\\las helpful.",
+  "pt": "Ah… Certo! Vou tentar esse.\\pEspero conseguir fazer um desafio valente sem ficar sem jeito…\\pAgradeço, {PLAYER}{KUN}. Se a gente se encontrar de novo, espero que você me ajude tanto quanto hoje."
+ },
+ {
+  "offset": "0336B32",
+  "en": "Hm? You appear to be {PLAYER}{KUN}…\\nBut are you really real?\\pYou may call me {STR_VAR_1}.\\pI have been toying with the idea of\\napprenticing under a strong TRAINER.\\pSo, I must say I'm lucky you came along!\\n…You really are {PLAYER}{KUN}, yes?\\pNo, no, if you are real, it's fine.\\nI merely want you to recognize me\\las your apprentice.",
+  "pt": "Hum? Você parece ser {PLAYER}{KUN}… Mas será que é real mesmo?\\pPode me chamar de {STR_VAR_1}.\\pEu andava pensando em virar aprendiz de um TREINADOR forte.\\pEntão, devo dizer que tive sorte de você aparecer! …Você é mesmo {PLAYER}{KUN}, certo?\\pNão, não, se você for real, tudo bem. Só quero que você me reconheça como seu aprendiz."
+ },
+ {
+  "offset": "0336C61",
+  "en": "Oh?\\nBut what would compel you to refuse?\\pI apologize for being skeptical about\\nyour identity.\\pPlease accept my apology and\\naccept me as your apprentice.",
+  "pt": "Hã? Mas o que levaria você a recusar?\\pPeço desculpas por ter duvidado da sua identidade.\\pPor favor, aceite as minhas desculpas e me aceite como seu aprendiz."
+ },
+ {
+  "offset": "0336CFA",
+  "en": "You really are accepting me?\\nI don't wish to celebrate prematurely.\\pIf it is true, I apologize.\\nBut now, I need your advice.\\pIf I were to enter the BATTLE TOWER,\\nwhat would be worthy of me?\\lLevel 50 or Open Level?",
+  "pt": "Você está mesmo me aceitando? Não quero comemorar antes da hora.\\pSe for verdade, peço desculpas. Mas agora preciso do seu conselho.\\pSe eu fosse entrar na TORRE DE BATALHA, o que estaria à minha altura? Nível 50 ou Nível Livre?"
+ },
+ {
+  "offset": "0336DD0",
+  "en": "{STR_VAR_1}?\\nAre you certain?\\pI see. If that's the case, that's fine.\\nI thank you for your time.\\pI realize I can annoy, but it delights\\nme that you have accepted me.\\pLet us meet again!",
+  "pt": "{STR_VAR_1}? Tem certeza?\\pEntendo. Se é assim, tudo bem. Agradeço pelo seu tempo.\\pSei que posso ser irritante, mas fico muito feliz que você tenha me aceitado.\\pAté o nosso próximo encontro!"
+ },
+ {
+  "offset": "0336E80",
+  "en": "Sigh… Sob…\\nOh, {PLAYER}!\\pI'm all tangled up in a dilemma\\nthat I can't decide.\\pI can't decide what I should make\\nmy {STR_VAR_1} hold.\\pPlease tell me, {PLAYER}.\\nWhat item should I make it hold?",
+  "pt": "Ai… Snif… Ah, {PLAYER}!\\pEstou num dilema que eu não consigo resolver.\\pNão consigo decidir o que o meu {STR_VAR_1} deve segurar.\\pPor favor, me diga, {PLAYER}. Que item eu devo dar pra ele segurar?"
+ },
+ {
+  "offset": "0336F2B",
+  "en": "Oh, really? I shouldn't make\\nmy {STR_VAR_1} hold anything?",
+  "pt": "Ah, é mesmo? Não devo dar nada pro meu {STR_VAR_1} segurar?"
+ },
+ {
+  "offset": "0336F5D",
+  "en": "Oh, okay! I'm delighted it's settled!\\nAwesome! Wicked! Awoooh!\\pThank you so much!",
+  "pt": "Ah, tá bom! Que alegria, está resolvido! Demais! Irado! Auuuuu!\\pAgradeço de coração!"
+ },
+ {
+  "offset": "0336FAF",
+  "en": "Oh, I'm so glad…\\nI think I have that {STR_VAR_1}, too.\\pI'm delighted it's settled!\\nAwesome! Wicked! Awoooh!\\pThank you so much!",
+  "pt": "Ah, que bom… Acho que eu também tenho o item {STR_VAR_1}.\\pQue alegria, está resolvido! Demais! Irado! Auuuuu!\\pAgradeço de coração!"
+ },
+ {
+  "offset": "0337025",
+  "en": "Waaaah! Please don't be mean!\\pThat item {STR_VAR_1} was already\\nrecommended to me before, sob…\\pOr do you mean I shouldn't make\\nmy {STR_VAR_2} hold anything?",
+  "pt": "Buááá! Por favor, não seja malvado!\\pO item {STR_VAR_1} já tinham me recomendado antes, snif…\\pOu você quer dizer que eu não devo dar nada pro meu {STR_VAR_2} segurar?"
+ },
+ {
+  "offset": "03370B0",
+  "en": "Yay! It's {PLAYER}!\\nGreat! I wanted to ask you something!\\pDo you make your POKéMON hold items?\\nI want to make mine hold items, but…\\pWhat item would be good for\\n{STR_VAR_1} to hold?\\pWhat do you think?",
+  "pt": "Oba! É o {PLAYER}! Que bom! Eu queria te perguntar uma coisa!\\pVocê dá itens pras suas CAPTURAS segurarem? Eu quero dar itens pras minhas, mas…\\pQue item seria bom pro {STR_VAR_1} segurar?\\pO que você acha?"
+ },
+ {
+  "offset": "0337169",
+  "en": "Huh? You mean my {STR_VAR_1} doesn't\\nhave to hold anything?",
+  "pt": "Hã? Quer dizer que o meu {STR_VAR_1} não precisa segurar nada?"
+ },
+ {
+  "offset": "033719C",
+  "en": "Oh, I get it! I'll do that!\\nThanks for teaching me!",
+  "pt": "Ah, entendi! Vou fazer isso! Valeu por me ensinar!"
+ },
+ {
+  "offset": "03371D0",
+  "en": "Oh, wow! One {STR_VAR_1}, huh?\\nOkay, I'll do that!\\pThanks for teaching me!",
+  "pt": "Uau! O item {STR_VAR_1}, é? Tá bom, vou fazer isso!\\pValeu por me ensinar!"
+ },
+ {
+  "offset": "0337212",
+  "en": "Oh, uh, no, that's not what I meant.\\nI want to know about a different item\\lthan the ones I already know.\\pOr do you mean that my POKéMON doesn't\\nhave to hold anything this time?",
+  "pt": "Ah, hã, não, não foi isso que eu quis dizer. Eu quero saber de um item diferente dos que eu já conheço.\\pOu você quer dizer que a minha CAPTURA não precisa segurar nada desta vez?"
+ },
+ {
+  "offset": "03372C3",
+  "en": "{PLAYER}, hello!\\nIt's about my {STR_VAR_1}…\\pI want to make it hold a good item.\\nWhat would be good for it?",
+  "pt": "{PLAYER}, olá! É sobre o meu {STR_VAR_1}…\\pQuero dar um item bom pra ele segurar. O que seria bom?"
+ },
+ {
+  "offset": "033731F",
+  "en": "Oh, then my {STR_VAR_1} doesn't have\\nto hold anything?",
+  "pt": "Ah, então o meu {STR_VAR_1} não precisa segurar nada?"
+ },
+ {
+  "offset": "033734D",
+  "en": "Okay, I got it!\\nSee you again!",
+  "pt": "Certo, entendi! Até mais!"
+ },
+ {
+  "offset": "033736C",
+  "en": "Oh, the item {STR_VAR_1}?\\nUnderstood!\\pI'll do my best to find one!\\nSee you again!",
+  "pt": "Ah, o item {STR_VAR_1}? Entendido!\\pVou me esforçar pra encontrar esse item! Até mais!"
+ },
+ {
+  "offset": "03373B5",
+  "en": "Somebody taught me about\\nthe {STR_VAR_1} already.\\pI want my POKéMON to hold a different\\nkind of item.\\pOr do you think {STR_VAR_2} doesn't\\nhave to hold anything?",
+  "pt": "Alguém já me ensinou sobre o item {STR_VAR_1}.\\pQuero que a minha CAPTURA segure um tipo diferente de item.\\pOu você acha que o {STR_VAR_2} não precisa segurar nada?"
+ },
+ {
+  "offset": "0337444",
+  "en": "Hello, {PLAYER}…\\nI'm sorry to disturb you, but I have\\lsomething else I wanted to ask you.\\pI don't think I'm good enough to win\\nmatches on my own, so I'm thinking of\\lmaking my {STR_VAR_1} hold an item.\\pBut I don't know what would be good.\\p{PLAYER}, please, could you decide\\nfor me?",
+  "pt": "Olá, {PLAYER}… Desculpe incomodar, mas tem outra coisa que eu queria te perguntar.\\pAcho que não tenho talento pra vencer partidas por conta própria, então estou pensando em dar um item pro meu {STR_VAR_1} segurar.\\pMas não sei o que seria bom.\\p{PLAYER}, por favor, você poderia decidir por mim?"
+ },
+ {
+  "offset": "0337548",
+  "en": "A POKéMON belonging to someone like me\\nwould be better off without an item?",
+  "pt": "Uma CAPTURA de alguém como eu ficaria melhor sem item?"
+ },
+ {
+  "offset": "0337594",
+  "en": "I understand…\\nYou're saying I shouldn't rely on items.\\lI'll do my best not to!\\pThank you very much!",
+  "pt": "Entendo… Você está dizendo que eu não devo depender de itens. Vou me esforçar pra não depender!\\pAgradeço muito!"
+ },
+ {
+  "offset": "03375F8",
+  "en": "The item {STR_VAR_1}, okay.\\nI'm not sure if I can get one…\\lNo! I'll do my best to get it.\\pThank you very much!",
+  "pt": "O item {STR_VAR_1}, certo. Não sei se vou conseguir um… Não! Vou me esforçar pra conseguir.\\pAgradeço muito!"
+ },
+ {
+  "offset": "033765E",
+  "en": "Oh, but…\\nI think I've heard about that before…\\pIs it maybe because I haven't handled\\nthe item {STR_VAR_1} very well?\\pOr do you mean I shouldn't make\\nmy {STR_VAR_2} hold anything?",
+  "pt": "Ah, mas… Acho que já ouvi falar disso antes…\\pSerá que é porque eu não soube usar bem o item {STR_VAR_1}?\\pOu você quer dizer que eu não devo dar nada pro meu {STR_VAR_2} segurar?"
+ },
+ {
+  "offset": "03376FF",
+  "en": "Oh, {PLAYER}{KUN}.\\nThere's something I wanted to ask you.\\pYou know how you decided which\\nPOKéMON I should have for me?\\pBut I never asked you what item\\nit should be holding.\\pSince you already gave me advice,\\nhow about seeing this to the end?\\pWhat would be good? I want to make\\nmy {STR_VAR_1} hold something.",
+  "pt": "Ah, {PLAYER}{KUN}. Tem uma coisa que eu queria te perguntar.\\pLembra que você decidiu qual CAPTURA eu deveria ter?\\pMas eu nunca te perguntei que item ela deveria segurar.\\pJá que você já me deu conselhos, que tal ir até o fim?\\pO que seria bom? Quero dar alguma coisa pro meu {STR_VAR_1} segurar."
+ },
+ {
+  "offset": "0337820",
+  "en": "Oh! So my {STR_VAR_1} should do\\nthe best it can empty-handed?",
+  "pt": "Ah! Então o meu {STR_VAR_1} deve dar o melhor de si de mãos vazias?"
+ },
+ {
+  "offset": "0337855",
+  "en": "If you think that's best, I'll do that.\\pKnowing that you made the decision,\\n{PLAYER}{KUN}, I won't be so upset if\\lI lose.\\pOkay, I'll look to you for advice again.\\nBye!",
+  "pt": "Se você acha que é o melhor, vou fazer isso.\\pSabendo que foi você quem decidiu, {PLAYER}{KUN}, não vou ficar tão mal se eu perder.\\pCerto, vou voltar a te pedir conselhos. Tchau!"
+ },
+ {
+  "offset": "03378F4",
+  "en": "The item {STR_VAR_1}, huh?\\nNot bad. I'll use it!\\pKnowing that you made the decision,\\n{PLAYER}{KUN}, I won't be so upset if\\lI lose.\\pOkay, I'll look to you for advice again.\\nBye!",
+  "pt": "O item {STR_VAR_1}, é? Nada mal. Vou usar!\\pSabendo que foi você quem decidiu, {PLAYER}{KUN}, não vou ficar tão mal se eu perder.\\pCerto, vou voltar a te pedir conselhos. Tchau!"
+ },
+ {
+  "offset": "0337993",
+  "en": "Huh? What are you saying?\\nYou told me about the {STR_VAR_1}\\lalready before.\\pOr do you mean my {STR_VAR_2} should\\ndo the best it can empty-handed?",
+  "pt": "Hã? O que você está dizendo? Você já me falou do item {STR_VAR_1} antes.\\pOu você quer dizer que o meu {STR_VAR_2} deve dar o melhor de si de mãos vazias?"
+ },
+ {
+  "offset": "0337A13",
+  "en": "Yo, {PLAYER}{KUN}!\\pWe're both busy, but we seem to run\\ninto each other often anyway!\\pToday I have to do some walking,\\ncleaning, and brushing.\\pI haven't even had the time to buy\\nmy precious {STR_VAR_1} anything.\\pI don't have any time, so how about\\ngiving me advice on what I should make\\lmy {STR_VAR_1} hold?",
+  "pt": "E aí, {PLAYER}{KUN}!\\pNós dois somos ocupados, mas parece que a gente vive se esbarrando mesmo assim!\\pHoje eu tenho que caminhar, limpar e escovar.\\pNem tive tempo de comprar nada pro meu precioso {STR_VAR_1}.\\pEstou sem tempo, então que tal me aconselhar sobre o que eu devo dar pro meu {STR_VAR_1} segurar?"
+ },
+ {
+  "offset": "0337B2B",
+  "en": "Oh, so me being a busy guy, you say\\nmy {STR_VAR_1} doesn't need anything?",
+  "pt": "Ah, então, como eu sou um cara ocupado, você diz que o meu {STR_VAR_1} não precisa de nada?"
+ },
+ {
+  "offset": "0337B6C",
+  "en": "Okay, gotcha.\\nI won't need any time for that.\\pThanks today!\\nSee you around!",
+  "pt": "Certo, saquei. Isso não vai me tomar tempo nenhum.\\pValeu por hoje! A gente se vê!"
+ },
+ {
+  "offset": "0337BB8",
+  "en": "Okay, gotcha.\\nI'll find time somehow and find\\lthat {STR_VAR_1} you recommended.\\pI'm glad I met a good mentor in you.\\nThanks! See you around!",
+  "pt": "Certo, saquei. Vou arranjar tempo de algum jeito e achar o item {STR_VAR_1} que você recomendou.\\pQue bom que encontrei um bom mentor em você. Valeu! A gente se vê!"
+ },
+ {
+  "offset": "0337C3C",
+  "en": "Huh? I already know about\\nthat {STR_VAR_1}.\\pOh, right, I get it.\\nSo me being a busy guy, you say\\lmy {STR_VAR_2} doesn't need anything?",
+  "pt": "Hã? Eu já conheço o item {STR_VAR_1}.\\pAh, tá, entendi. Então, como eu sou um cara ocupado, você diz que o meu {STR_VAR_2} não precisa de nada?"
+ },
+ {
+  "offset": "0337CB1",
+  "en": "Hiya, {PLAYER}! It's me!\\nI need to tap your mind again today.\\lPlease, I need your advice!\\pDrum roll, please!\\nThe question I have is…\\pIf I want to make my {STR_VAR_1} hold\\nan item, what should it be?",
+  "pt": "Oiê, {PLAYER}! Sou eu! Hoje preciso usar a sua cabeça de novo. Por favor, preciso do seu conselho!\\pRufem os tambores! A minha pergunta é…\\pSe eu quiser dar um item pro meu {STR_VAR_1} segurar, qual deve ser?"
+ },
+ {
+  "offset": "0337D69",
+  "en": "Is that right? My {STR_VAR_1} doesn't\\nneed to hold an item, you're saying.",
+  "pt": "É mesmo? Você está dizendo que o meu {STR_VAR_1} não precisa segurar item nenhum."
+ },
+ {
+  "offset": "0337DAB",
+  "en": "Okay, that's what I'll do!\\pI guess that's about all I wanted\\nto ask you today.\\pLet's meet here again, okay?\\nThanks!",
+  "pt": "Certo, é isso que eu vou fazer!\\pAcho que era só isso que eu queria te perguntar hoje.\\pVamos nos encontrar aqui de novo, tá? Valeu!"
+ },
+ {
+  "offset": "0337E1F",
+  "en": "Uh-huh! One {STR_VAR_1}.\\nWhat a cool choice!\\lI'll definitely try that!\\pI guess that's about all I wanted\\nto ask you today.\\pLet's meet here again, okay?\\nThanks!",
+  "pt": "Aham! O item {STR_VAR_1}. Que escolha legal! Vou experimentar, com certeza!\\pAcho que era só isso que eu queria te perguntar hoje.\\pVamos nos encontrar aqui de novo, tá? Valeu!"
+ },
+ {
+  "offset": "0337EB6",
+  "en": "Ahahah! That's silly!\\nYou already told me about that\\l{STR_VAR_1} before!\\pAre you feeling okay, {PLAYER}?\\pOh, wait! My {STR_VAR_2} doesn't\\nneed to hold an item, you're saying.",
+  "pt": "Ahahah! Que bobagem! Você já me falou do item {STR_VAR_1} antes!\\pVocê está se sentindo bem, {PLAYER}?\\pAh, espera! Você está dizendo que o meu {STR_VAR_2} não precisa segurar item nenhum."
+ },
+ {
+  "offset": "0337F4D",
+  "en": "Hello, {PLAYER}. I hope you've been\\nkeeping well.\\pMay I approach you for advice?\\pIn a recent battle, my opponent\\nseemed to have given his POKéMON\\lan item to hold.\\pAs a result, I was defeated…\\pI don't wish to be left behind.\\nI would like to make my {STR_VAR_1}\\lhold an item, too.\\pIt would please me if you could decide\\nwhat would be right for my POKéMON…",
+  "pt": "Olá, {PLAYER}. Espero que esteja bem.\\pPosso lhe pedir um conselho?\\pNuma batalha recente, parece que o meu oponente tinha dado um item para a CAPTURA dele segurar.\\pPor causa disso, acabei perdendo…\\pNão quero ficar para trás. Também gostaria de dar um item para o meu {STR_VAR_1} segurar.\\pFicaria muito contente se você pudesse decidir o que seria adequado para a minha CAPTURA…"
+ },
+ {
+  "offset": "03380A0",
+  "en": "In other words… My POKéMON has\\nno need to hold an item?",
+  "pt": "Em outras palavras… A minha CAPTURA não precisa segurar item nenhum?"
+ },
+ {
+  "offset": "03380D8",
+  "en": "I understand clearly now!\\nI will keep trying like this.\\pThank you, {PLAYER}.\\nI hope I can count on you again.\\lPlease take care!",
+  "pt": "Agora entendi claramente! Vou continuar tentando assim.\\pAgradeço, {PLAYER}. Espero poder contar com você de novo. Cuide-se!"
+ },
+ {
+  "offset": "0338152",
+  "en": "One {STR_VAR_1} it is!\\nI will order it right away.\\pThank you, {PLAYER}.\\nI hope I can count on you again.\\lPlease take care!",
+  "pt": "O item {STR_VAR_1}, então! Vou encomendá-lo agora mesmo.\\pAgradeço, {PLAYER}. Espero poder contar com você de novo. Cuide-se!"
+ },
+ {
+  "offset": "03381BE",
+  "en": "You've already told me about that,\\nand I already have it.\\pOr are you saying… My POKéMON has\\nno need to hold an item?",
+  "pt": "Você já me falou disso, e eu já tenho esse item.\\pOu você está dizendo… que a minha CAPTURA não precisa segurar item nenhum?"
+ },
+ {
+  "offset": "0338233",
+  "en": "Eek! {PLAYER}!\\nI… I'm overjoyed to see you again!\\pOh-oh-oh! There's something I just\\nhad to ask you, {PLAYER}!\\pPlease decide what my {STR_VAR_1}\\nshould be holding!",
+  "pt": "Iiih! {PLAYER}! E-eu… Que alegria imensa te ver de novo!\\pAh-ah-ah! Tem uma coisa que eu precisava muito te perguntar, {PLAYER}!\\pPor favor, decida o que o meu {STR_VAR_1} deve segurar!"
+ },
+ {
+  "offset": "03382C2",
+  "en": "Oh, wow! I didn't expect that answer!\\nSo, a hold item isn't necessary?",
+  "pt": "Nossa! Eu não esperava essa resposta! Então não precisa de item?"
+ },
+ {
+  "offset": "0338309",
+  "en": "Perfectly understood!\\nI'll keep at this without an item!\\pI hope you'll be willing to teach me\\nsome more another time.",
+  "pt": "Perfeitamente entendido! Vou seguir em frente sem item!\\pEspero que você aceite me ensinar mais uma outra hora."
+ },
+ {
+  "offset": "033837F",
+  "en": "{STR_VAR_1}! I'll use that!\\pUm… Could it be, {PLAYER}, you also\\nmake your POKéMON hold that item?\\pI'll be sure to get it!\\nI hope you'll be willing to teach me\\lsome more another time.",
+  "pt": "{STR_VAR_1}! Vou usar isso!\\pHum… Será que você também dá esse item pras suas CAPTURAS segurarem, {PLAYER}?\\pVou dar um jeito de conseguir! Espero que você aceite me ensinar mais uma outra hora."
+ },
+ {
+  "offset": "0338427",
+  "en": "Oh? You recommended that\\n{STR_VAR_1} before, too.\\pOr is it the best thing to hold?\\nOr do you mean that my {STR_VAR_2}\\ldoesn't need anything to hold?",
+  "pt": "Hã? Você já tinha me recomendado o item {STR_VAR_1} antes.\\pOu será que é a melhor coisa pra segurar? Ou você quer dizer que o meu {STR_VAR_2} não precisa segurar nada?"
+ },
+ {
+  "offset": "03384AA",
+  "en": "Hola!\\nMy maestro, {PLAYER}{KUN}!\\pI want to hit you up for advice on\\nPOKéMON tools.\\pWhat do you think would be good for\\nmy {STR_VAR_1} to hold?\\pDon't be shy now.\\nLet's blurt it out!",
+  "pt": "Hola! Meu maestro, {PLAYER}{KUN}!\\pQuero te pedir um conselho sobre itens de CAPTURA.\\pO que você acha que seria bom pro meu {STR_VAR_1} segurar?\\pNada de timidez, hein. Pode mandar na lata!"
+ },
+ {
+  "offset": "033854D",
+  "en": "Oh? So, you're saying my {STR_VAR_1}\\ncan win without holding any item?",
+  "pt": "Hã? Então você está dizendo que o meu {STR_VAR_1} pode vencer sem segurar item nenhum?"
+ },
+ {
+  "offset": "033858B",
+  "en": "Si, bueno!\\nI'll give it my best shot, like, slam!\\pAll right, thanks, as always!\\nAdios!",
+  "pt": "Sí, bueno! Vou dar o meu melhor, tipo, tum!\\pBeleza, valeu, como sempre! Adiós!"
+ },
+ {
+  "offset": "03385E2",
+  "en": "Uh-huh, that's one {STR_VAR_1}?\\nSi, bueno!\\lI'll go find me one, like, bam!\\pAll right, thanks, as always!\\nAdios!",
+  "pt": "Aham, então é o item {STR_VAR_1}? Sí, bueno! Vou atrás disso, tipo, bam!\\pBeleza, valeu, como sempre! Adiós!"
+ },
+ {
+  "offset": "0338649",
+  "en": "No, no! You already told me about\\nthat {STR_VAR_1} thing before.\\pOh, now wait just one minute here…\\nSo, you're saying my {STR_VAR_2}\\lcan win without holding any item?",
+  "pt": "Não, não! Você já me falou desse tal de {STR_VAR_1} antes.\\pAh, espera só um minutinho… Então você está dizendo que o meu {STR_VAR_2} pode vencer sem segurar item nenhum?"
+ },
+ {
+  "offset": "03386DE",
+  "en": "{PLAYER}{KUN}, something unbelievable\\nhas happened!\\pI woke up this morning, and my POKéMON\\nhad 10 NUGGETS!\\pOf course I'm lying!\\nWahahaha!\\pThis is no lie, though.\\nI'm not very good at thinking about\\lwhat items POKéMON should hold.\\pSo, how about deciding for me what\\nmy {STR_VAR_1} should hold, master?",
+  "pt": "{PLAYER}{KUN}, aconteceu uma coisa inacreditável!\\pAcordei hoje de manhã e a minha CAPTURA tinha 10 PEPITAS!\\pClaro que é mentira! Wahahaha!\\pMas isto não é mentira: eu não mando muito bem em pensar em que itens as CAPTURAS devem segurar.\\pEntão, que tal decidir por mim o que o meu {STR_VAR_1} deve segurar, mestre?"
+ },
+ {
+  "offset": "03387F9",
+  "en": "What's that mean?\\nDon't make it hold anything?",
+  "pt": "Como assim? Não é pra dar nada pra ele segurar?"
+ },
+ {
+  "offset": "0338828",
+  "en": "Okay, so it shouldn't hold anything.\\nThen, I'd better get something for it!\\pJust kidding!\\nI'll obey your teaching, master!\\pThanks, master!\\nI hope you'll keep teaching me!",
+  "pt": "Certo, então ele não deve segurar nada. Então é melhor eu arranjar alguma coisa pra ele!\\pBrincadeira! Vou seguir os seus ensinamentos, mestre!\\pValeu, mestre! Espero que você continue me ensinando!"
+ },
+ {
+  "offset": "03388D3",
+  "en": "Okay, so it's one {STR_VAR_1}!\\nI'll make it hold anything but that!\\pJust kidding!\\nI'll obey your teaching, master!\\pThanks, master!\\nI hope you'll keep teaching me!",
+  "pt": "Certo, então é o item {STR_VAR_1}! Vou dar qualquer coisa pra ele segurar, menos isso!\\pBrincadeira! Vou seguir os seus ensinamentos, mestre!\\pValeu, mestre! Espero que você continue me ensinando!"
+ },
+ {
+  "offset": "033896D",
+  "en": "Um, you told me about that before,\\ndidn't you?\\pIsn't there something else?\\pOr do you mean, don't make\\nmy {STR_VAR_2} hold anything?",
+  "pt": "Hum, você já me falou disso antes, não falou?\\pNão tem outra coisa?\\pOu você quer dizer pra não dar nada pro meu {STR_VAR_2} segurar?"
+ },
+ {
+  "offset": "03389E8",
+  "en": "A-H-O-Y!\\nAnd that spells ahoy!\\pThe rappin' SAILOR am I!\\nI present to you a question\\lthat's pretty fly!\\pIt's an item question\\nthat begs your suggestion!\\pMy {STR_VAR_1} needs an item to hold,\\nWhat should it be, if I may be bold?",
+  "pt": "A-H-O-Y! Isso é ahoy, que é oi em marinhês!\\pSou o MARINHEIRO rimador, sim, senhor! Trago uma pergunta pra você, das que têm valor!\\pÉ uma pergunta sobre item, que pede a sua sugestão!\\pO meu {STR_VAR_1} precisa de um item pra segurar, qual vai ser, se eu puder perguntar?"
+ },
+ {
+  "offset": "0338AC2",
+  "en": "Is that right?\\nMy {STR_VAR_1} doesn't need to be\\lholding anything tight?",
+  "pt": "É isso mesmo? O meu {STR_VAR_1} não precisa de nada pra segurar, nem pra agarrar?"
+ },
+ {
+  "offset": "0338B02",
+  "en": "Okay, I hear you, sure I do!\\nMy POKéMON will go empty-handed, too!\\pIf it's advice I ever need,\\n{PLAYER}, your word I'll always heed!",
+  "pt": "Certo, tô ouvindo, ouvi direitinho! A minha CAPTURA vai de mãos vazias pelo caminho!\\pSe um dia eu precisar de um conselho, {PLAYER}, a sua palavra é o meu espelho!"
+ },
+ {
+  "offset": "0338B81",
+  "en": "Okay, one {STR_VAR_1},\\nthat's what I'll use.\\lI was right to make you choose!\\pIf it's advice I ever need,\\n{PLAYER}, your word I'll always heed!",
+  "pt": "Certo, o item {STR_VAR_1}, é esse que eu vou usar. Fiz bem em deixar você escolher, sem pestanejar!\\pSe um dia eu precisar de um conselho, {PLAYER}, a sua palavra é o meu espelho!"
+ },
+ {
+  "offset": "0338C01",
+  "en": "Okay, one {STR_VAR_1}, you say?\\nYou told me that the other day.\\lI need a new idea, a brand new way.\\pOr, what, is that right?\\nMy POKéMON doesn't need to hold\\lanything tight?",
+  "pt": "Certo, o item {STR_VAR_1}, você diz? Já me falou disso outro dia, que deslize! Preciso de uma ideia nova, que me deixe feliz!\\pOu, peraí, é isso mesmo? A minha CAPTURA não precisa de nada pra segurar, nem pra agarrar?"
+ },
+ {
+  "offset": "0338CA5",
+  "en": "Say, hey, {PLAYER}!\\nI found you again today!\\pWhat should I do? Get your advice?\\nWhy not? I'm already talking to you!\\p{PLAYER}, are you getting sick of me?\\nNah, no way, that can't be.\\pWill you hear me out?\\nI'm looking for advice--that's what\\lI'm talking about.\\pIt's about a hold item for\\nmy {STR_VAR_1} that'd be good.\\lMy indecision is making me brood.",
+  "pt": "Ei, ei, {PLAYER}! Te encontrei de novo hoje, olha só você!\\pO que eu faço? Peço o seu conselho? Por que não? Já estou falando com você!\\p{PLAYER}, você está enjoando de mim? Nada, não pode ser assim!\\pVai me ouvir até o fim? Estou procurando um conselho, é disso que eu falo, sim!\\pÉ sobre um item bom pro meu {STR_VAR_1} segurar. A minha indecisão está me fazendo matutar."
+ },
+ {
+  "offset": "0338DF0",
+  "en": "My {STR_VAR_1} needs nothing?\\nDoesn't need to hold anything?",
+  "pt": "O meu {STR_VAR_1} não precisa de nada? Não precisa segurar nada?"
+ },
+ {
+  "offset": "0338E24",
+  "en": "If holding nothing is the best,\\nI'll do as you suggest!\\pWell, {PLAYER}, I have to roam free,\\nbut don't you forget about me.\\pSee you again, my smart friend!",
+  "pt": "Se não segurar nada é o melhor, vou fazer como você sugere, sem temor!\\pBom, {PLAYER}, eu vou seguir livre pela estrada, mas não se esqueça de mim, camarada!\\pAté a próxima, meu amigo esperto!"
+ },
+ {
+  "offset": "0338EBA",
+  "en": "If holding that {STR_VAR_1} is\\nthe best, I'll do as you suggest!\\pWell, {PLAYER}, I have to roam free,\\nbut don't you forget about me.\\pSee you again, my smart friend!",
+  "pt": "Se segurar o item {STR_VAR_1} é o melhor, vou fazer como você sugere, sem temor!\\pBom, {PLAYER}, eu vou seguir livre pela estrada, mas não se esqueça de mim, camarada!\\pAté a próxima, meu amigo esperto!"
+ },
+ {
+  "offset": "0338F50",
+  "en": "Haven't I heard about that\\n{STR_VAR_1} before?\\lI'm certain I have, that's for sure!\\pI need a new something!\\nOr, my {STR_VAR_2} needs nothing?\\lDoesn't need to hold anything?",
+  "pt": "Eu já não ouvi falar desse tal de {STR_VAR_1}? Tenho certeza que ouvi, isso eu garanto, meu amigo!\\pPreciso de alguma coisa nova! Ou o meu {STR_VAR_2} não precisa de nada? Não precisa segurar nada?"
+ },
+ {
+  "offset": "0338FEB",
+  "en": "Gwah! Ouch! {PLAYER}{KUN}, my arm's broken!\\nDon't touch it, please!\\pI must've broken it while I was trying\\nout different hold items with my posse\\lof POKéMON.\\pSo, things being this way,\\nI need you to decide for me.\\p{PLAYER}{KUN}, what do you think would be\\ngood for my {STR_VAR_1} to hold?",
+  "pt": "Gwah! Ai! {PLAYER}{KUN}, quebrei o braço! Não encoste, por favor!\\pDevo ter quebrado enquanto testava itens diferentes com a minha turma de CAPTURAS.\\pEntão, do jeito que as coisas estão, preciso que você decida por mim.\\p{PLAYER}{KUN}, o que você acha que seria bom pro meu {STR_VAR_1} segurar?"
+ },
+ {
+  "offset": "03390F1",
+  "en": "Ouch…\\pSo your suggestion is my {STR_VAR_1}\\ndoesn't have to hold anything?",
+  "pt": "Ai…\\pEntão a sua sugestão é que o meu {STR_VAR_1} não precisa segurar nada?"
+ },
+ {
+  "offset": "0339132",
+  "en": "Hm, all right. That would be easier\\nfor me, the way things are now.\\pI hope I can keep hitting you up\\nfor help like this.",
+  "pt": "Hum, tudo bem. Seria mais fácil pra mim, do jeito que as coisas estão.\\pEspero poder continuar te pedindo ajuda assim."
+ },
+ {
+  "offset": "03391AB",
+  "en": "Hm, all right. That's one {STR_VAR_1}.\\nMy POKéMON's arm is fine, so I'll make\\lit hold that item right away.\\pI hope I can keep hitting you up\\nfor help like this.",
+  "pt": "Hum, tudo bem. O item {STR_VAR_1}, então. O braço da minha CAPTURA está ótimo, então vou dar esse item pra ela segurar agora mesmo.\\pEspero poder continuar te pedindo ajuda assim."
+ },
+ {
+  "offset": "0339243",
+  "en": "No, no, you told me about that\\n{STR_VAR_1} before, remember?\\pHow about telling me something\\neven better?\\pOh, wait a second.\\nSo your suggestion is my {STR_VAR_2}\\ldoesn't have to hold anything?",
+  "pt": "Não, não, você já me falou desse tal de {STR_VAR_1} antes, lembra?\\pQue tal me dizer algo ainda melhor?\\pAh, espera um pouco. Então a sua sugestão é que o meu {STR_VAR_2} não precisa segurar nada?"
+ },
+ {
+  "offset": "03392F1",
+  "en": "Er… Um…\\n{PLAYER}{KUN}…\\pPlease, don't look at me that way.\\nMy POKéMON don't have anything.\\pI… I'm really embarrassed about this,\\nbut I really need your advice.\\pI can't decide what hold item would\\nmake my {STR_VAR_1} strong.\\p{PLAYER}{KUN}, what do you think would\\nbe good?",
+  "pt": "Hã… Hum… {PLAYER}{KUN}…\\pPor favor, não me olhe desse jeito. As minhas CAPTURAS não têm nada.\\pE… Eu tenho muita vergonha disso, mas preciso muito do seu conselho.\\pNão consigo decidir que item deixaria o meu {STR_VAR_1} forte.\\p{PLAYER}{KUN}, o que você acha que seria bom?"
+ },
+ {
+  "offset": "03393E5",
+  "en": "Oh… Then, you think it would be better\\nif my {STR_VAR_1} didn't have an item?",
+  "pt": "Ah… Então você acha que seria melhor o meu {STR_VAR_1} ficar sem item?"
+ },
+ {
+  "offset": "033942A",
+  "en": "Oh… Okay!\\nI'll go without an item.\\pThis is nerve-racking, though.\\nWouldn't it be too cool?\\pThank you, {PLAYER}{KUN}.\\nIf we meet again, I hope you will be\\las helpful.",
+  "pt": "Ah… Certo! Vou sem item.\\pMas isso me deixa com os nervos à flor da pele. Não seria descolado demais?\\pAgradeço, {PLAYER}{KUN}. Se a gente se encontrar de novo, espero que você me ajude tanto quanto hoje."
+ },
+ {
+  "offset": "03394C7",
+  "en": "Oh… Okay!\\nI'll go with that {STR_VAR_1}.\\pThis is nerve-racking, though.\\nWouldn't it be too cool?\\pThank you, {PLAYER}{KUN}.\\nIf we meet again, I hope you will be\\las helpful.",
+  "pt": "Ah… Certo! Vou com o item {STR_VAR_1}.\\pMas isso me deixa com os nervos à flor da pele. Não seria descolado demais?\\pAgradeço, {PLAYER}{KUN}. Se a gente se encontrar de novo, espero que você me ajude tanto quanto hoje."
+ },
+ {
+  "offset": "0339561",
+  "en": "B-but I already heard about that.\\pPlease don't brush me off like this!\\nI can't live with the humiliation.\\pOh… Am I jumping to conclusions?\\nDo you think it would be better if\\lmy {STR_VAR_2} didn't have an item?",
+  "pt": "M-mas eu já ouvi falar disso.\\pPor favor, não me dispense assim! Não vou aguentar a humilhação.\\pAh… Será que estou tirando conclusões precipitadas? Você acha que seria melhor o meu {STR_VAR_2} ficar sem item?"
+ },
+ {
+  "offset": "033962A",
+  "en": "Hm? You appear to be {PLAYER}{KUN}…\\nBut are you really?\\lPerhaps you're a twin?\\pOh, no, no, no, don't worry!\\nIf you really are {PLAYER}, please\\lforget about my rudeness.\\pWhat I would like is some more of\\nyour fine advice.\\pI have here my {STR_VAR_1} that I wish\\nto make hold a convenient item.\\pWhat would be worthy of it?",
+  "pt": "Hum? Você parece ser {PLAYER}{KUN}… Mas será mesmo? Talvez você seja um gêmeo?\\pAh, não, não, não, não se preocupe! Se você for mesmo {PLAYER}, por favor, esqueça a minha grosseria.\\pO que eu gostaria é de mais um dos seus ótimos conselhos.\\pTenho aqui o meu {STR_VAR_1}, e quero que ele segure um item conveniente.\\pO que estaria à altura dele?"
+ },
+ {
+  "offset": "0339752",
+  "en": "It's better if it held nothing?\\nAre you certain?",
+  "pt": "É melhor que ele não segure nada? Tem certeza?"
+ },
+ {
+  "offset": "0339783",
+  "en": "I see. If that's the case, that's fine.\\nI thank you for your time.\\pLet us meet again!",
+  "pt": "Entendo. Se é assim, tudo bem. Agradeço pelo seu tempo.\\pAté o nosso próximo encontro!"
+ },
+ {
+  "offset": "03397D9",
+  "en": "One {STR_VAR_1}?\\nAre you certain?\\pI see. If that's the case, that's fine.\\nI thank you for your time.\\pI do hope my POKéMON will be able to\\nput it to good use.\\pLet us meet again!",
+  "pt": "O item {STR_VAR_1}? Tem certeza?\\pEntendo. Se é assim, tudo bem. Agradeço pelo seu tempo.\\pEspero que a minha CAPTURA consiga fazer bom uso do item.\\pAté o nosso próximo encontro!"
+ },
+ {
+  "offset": "0339881",
+  "en": "No, no, wait a minute.\\nI believe you taught me that before.\\pI would like you to recommend\\nsomething different this time.\\pPerhaps you're suggesting that\\nmy {STR_VAR_2} should hold nothing?\\lAre you certain?",
+  "pt": "Não, não, espere um minuto. Acredito que você já me ensinou isso antes.\\pGostaria que você me recomendasse algo diferente desta vez.\\pTalvez você esteja sugerindo que o meu {STR_VAR_2} não deve segurar nada? Tem certeza?"
+ },
+ {
+  "offset": "0339945",
+  "en": "Waah, {PLAYER}!\\nI have a dilemma, sob…\\pI want to begin battling other people,\\nbut I don't know what to do.\\pHow should I line up my POKéMON\\nso they'll be at their strongest?\\pPlease tell me, {PLAYER}.\\nIf you were me, which of these POKéMON\\lwould you send out first?",
+  "pt": "Buááá, {PLAYER}! Estou num dilema, snif…\\pQuero começar a batalhar com outras pessoas, mas não sei o que fazer.\\pComo eu devo organizar as minhas CAPTURAS pra elas ficarem o mais fortes possível?\\pPor favor, me diga, {PLAYER}. Se você estivesse no meu lugar, qual destas CAPTURAS mandaria primeiro?"
+ },
+ {
+  "offset": "0339A41",
+  "en": "My {STR_VAR_1} should go first?\\nWaaaaah!\\pOh! I'm so sorry!\\nYou've made me happy by choosing\\lmy first POKéMON, and it's made me cry…\\pThank you so much!",
+  "pt": "O meu {STR_VAR_1} deve ir primeiro? Buááááá!\\pAh! Me desculpe! Você me deixou tão feliz escolhendo a minha primeira CAPTURA que eu até chorei…\\pAgradeço de coração!"
+ },
+ {
+  "offset": "0339ACF",
+  "en": "Yay! It's {PLAYER}!\\nGreat! I wanted to ask you something!\\pUm, of my POKéMON, which do you\\nthink should go out first?",
+  "pt": "Oba! É o {PLAYER}! Que bom! Eu queria te perguntar uma coisa!\\pHum, das minhas CAPTURAS, qual você acha que deve sair primeiro?"
+ },
+ {
+  "offset": "0339B3E",
+  "en": "My {STR_VAR_1}? That's true.\\nOkay, I'll do that!\\pThanks for teaching me!",
+  "pt": "O meu {STR_VAR_1}? É verdade. Tá bom, vou fazer isso!\\pValeu por me ensinar!"
+ },
+ {
+  "offset": "0339B7E",
+  "en": "{PLAYER}, hello!\\pI think, in a battle, it's very important\\nwhich POKéMON comes out first.\\pOut of the POKéMON that I have,\\nwhich would be good to send out first?",
+  "pt": "{PLAYER}, olá!\\pAcho que, numa batalha, é muito importante qual CAPTURA entra primeiro.\\pDas CAPTURAS que eu tenho, qual seria boa pra mandar primeiro?"
+ },
+ {
+  "offset": "0339C19",
+  "en": "My {STR_VAR_1} goes first?\\nOkay, I got it!\\pSee you again!",
+  "pt": "O meu {STR_VAR_1} vai primeiro? Certo, entendi!\\pAté mais!"
+ },
+ {
+  "offset": "0339C4A",
+  "en": "Hello, {PLAYER}…\\nI'm sorry to disturb you again with\\lanother question.\\pI have so little confidence, I don't\\nknow what I'd do without you, {PLAYER}.\\pIt may be a waste of time for me to\\neven worry about it, but I just can't\\ldecide something…\\pWhich of my POKéMON should I send\\nout first in a battle?",
+  "pt": "Olá, {PLAYER}… Desculpe incomodar de novo com mais uma pergunta.\\pTenho tão pouca confiança que não sei o que faria sem você, {PLAYER}.\\pTalvez seja perda de tempo eu me preocupar com isso, mas não consigo decidir uma coisa…\\pQual das minhas CAPTURAS eu devo mandar primeiro numa batalha?"
+ },
+ {
+  "offset": "0339D67",
+  "en": "My {STR_VAR_1}?\\nUnderstood!\\pI can't believe that you would bother\\nto answer my questions so often!\\pI'm so grateful that you would even\\nspeak with me… Thank you!",
+  "pt": "O meu {STR_VAR_1}? Entendido!\\pNem acredito que você se dá ao trabalho de responder às minhas perguntas tantas vezes!\\pSó de você falar comigo, já fico feliz demais… Agradeço muito!"
+ },
+ {
+  "offset": "0339DFF",
+  "en": "Oh, {PLAYER}{KUN}! It's me!\\nI'm so glad to see you because I have\\lthis little problem.\\pI can't decide how my POKéMON should\\nbe lined up. Could you decide for me?\\pOh, you don't need to decide the whole\\nparty right now.\\pHow about deciding just the first\\nPOKéMON for me?",
+  "pt": "Ah, {PLAYER}{KUN}! Sou eu! Que bom te ver, porque eu estou com um probleminha.\\pNão consigo decidir a ordem das minhas CAPTURAS. Você pode decidir por mim?\\pAh, não precisa decidir a equipe inteira agora.\\pQue tal decidir só a primeira CAPTURA pra mim?"
+ },
+ {
+  "offset": "0339F02",
+  "en": "My {STR_VAR_1}? That's great!\\pKnowing that you made the decision,\\n{PLAYER}{KUN}, I won't be so upset if\\lI lose.\\pOkay, I'll look to you for advice again.\\nBye!",
+  "pt": "O meu {STR_VAR_1}? Que ótimo!\\pSabendo que foi você quem decidiu, {PLAYER}{KUN}, não vou ficar tão mal se eu perder.\\pCerto, vou voltar a te pedir conselhos. Tchau!"
+ },
+ {
+  "offset": "0339F8E",
+  "en": "Hi, my teacher {PLAYER}{KUN}!\\nI'm busy again today!\\pI have to do some cycling, shopping,\\nand humming.\\pI haven't even had the time to decide\\nhow to line up my POKéMON team.\\pSo, how about checking out my team?\\nWhich one should go first?",
+  "pt": "Oi, meu professor {PLAYER}{KUN}! Hoje eu estou ocupado de novo!\\pTenho que pedalar, fazer compras e cantarolar.\\pNem tive tempo de decidir a ordem da minha equipe de CAPTURAS.\\pEntão, que tal dar uma olhada na minha equipe? Qual deve ir primeiro?"
+ },
+ {
+  "offset": "033A070",
+  "en": "Okay, gotcha.\\nI have enough time at least to put\\lmy {STR_VAR_1} at the head of the line!\\pWhoops, my girlfriend's waiting!\\nThanks! See you around!",
+  "pt": "Certo, saquei. Pelo menos tempo pra colocar o meu {STR_VAR_1} na frente da fila eu tenho!\\pOpa, a minha namorada está esperando! Valeu! A gente se vê!"
+ },
+ {
+  "offset": "033A0F9",
+  "en": "Yoohoo! Hiya, {PLAYER}!\\nYou always walk around looking tough!\\pListen, I need something from you\\nagain! It's the usual thing!\\pDrum roll, please!\\nThe question I have is about my team.\\pWhich POKéMON of mine should be first\\nto go out in a battle?",
+  "pt": "Uhuu! Oiê, {PLAYER}! Você sempre anda por aí com cara de durão!\\pEscuta, preciso de uma coisa sua de novo! O de sempre!\\pRufem os tambores! A minha pergunta é sobre a minha equipe.\\pQual CAPTURA minha deve ser a primeira a entrar na batalha?"
+ },
+ {
+  "offset": "033A1E6",
+  "en": "Hmhm!\\nMy {STR_VAR_1}, you say!\\lThanks for a most cool answer!\\pI guess that's about all I wanted\\nto ask you today.\\pLet's meet here again, okay?\\nThanks!",
+  "pt": "Hum-hum! O meu {STR_VAR_1}, você diz! Valeu pela resposta mais legal de todas!\\pAcho que era só isso que eu queria te perguntar hoje.\\pVamos nos encontrar aqui de novo, tá? Valeu!"
+ },
+ {
+  "offset": "033A274",
+  "en": "Thank you so much for stopping to\\nchat with me, {PLAYER}.\\pI know I'm taking advantage of your\\nkindness, but may I ask for advice?\\pI would like you to decide on the order\\nof my POKéMON team.\\pIt would please me if you could decide\\nwhich POKéMON should come first.",
+  "pt": "Agradeço muito por parar para conversar comigo, {PLAYER}.\\pSei que estou abusando da sua gentileza, mas posso lhe pedir um conselho?\\pGostaria que você decidisse a ordem da minha equipe de CAPTURAS.\\pFicaria muito contente se você pudesse decidir qual CAPTURA deve vir primeiro."
+ },
+ {
+  "offset": "033A374",
+  "en": "My {STR_VAR_1} it is!\\nI will put it first right away!\\pThank you, {PLAYER}.\\nI hope I can count on you again.\\lPlease take care!",
+  "pt": "O meu {STR_VAR_1}, então! Vou colocá-lo em primeiro agora mesmo!\\pAgradeço, {PLAYER}. Espero poder contar com você de novo. Cuide-se!"
+ },
+ {
+  "offset": "033A3E3",
+  "en": "Eek! {PLAYER}!\\nI… I'm overjoyed to see you again!\\pMy POKéMON have become much\\nstronger!\\pBut I don't always win. It seems to\\ndepend on which POKéMON goes first.\\p{PLAYER}, please, I need your help!\\pPlease decide which of my POKéMON\\nshould go out first!",
+  "pt": "Iiih! {PLAYER}! E-eu… Que alegria imensa te ver de novo!\\pAs minhas CAPTURAS ficaram muito mais fortes!\\pMas eu nem sempre venço. Parece que depende de qual CAPTURA entra primeiro.\\p{PLAYER}, por favor, preciso da sua ajuda!\\pPor favor, decida qual das minhas CAPTURAS deve entrar primeiro!"
+ },
+ {
+  "offset": "033A4D2",
+  "en": "Sigh… I'm overwhelmed with happiness…\\pIt's like a dream having you decide\\nfor me, {PLAYER}.\\pBut perfectly understood!\\nI will go with my {STR_VAR_1} first!\\pI hope you'll be willing to teach me\\nsome more another time.",
+  "pt": "Ai… Estou transbordando de felicidade…\\pÉ como um sonho você decidir por mim, {PLAYER}.\\pMas perfeitamente entendido! Vou começar com o meu {STR_VAR_1}!\\pEspero que você aceite me ensinar mais uma outra hora."
+ },
+ {
+  "offset": "033A59B",
+  "en": "Hello, hello!\\nMy mentor, {PLAYER}{KUN}!\\lHit me with your sage advice today!\\pYou see, I pulled together a team of\\nthree POKéMON. So far so good.\\pBut the team's battling order's not\\nsettled yet.\\pThis is where you come in, {PLAYER}{KUN}!\\nYou decide which POKéMON leads off!\\pDon't be shy now.\\nLet's blurt it out!",
+  "pt": "Olá, olá! Meu mentor, {PLAYER}{KUN}! Manda ver nos seus sábios conselhos hoje!\\pSabe, eu montei uma equipe de três CAPTURAS. Até aqui, tudo bem.\\pMas a ordem de batalha da equipe ainda não está definida.\\pÉ aí que você entra, {PLAYER}{KUN}! Você decide qual CAPTURA abre a batalha!\\pNada de timidez, hein. Pode mandar na lata!"
+ },
+ {
+  "offset": "033A6BE",
+  "en": "Uh-huh, my {STR_VAR_1} leads off!\\nOK, A-OK!\\lI'll reorder the lineup, like, wham!\\pAll right, thanks, as always!\\nAdios!",
+  "pt": "Aham, o meu {STR_VAR_1} abre a batalha! OK, tudo OK! Vou reorganizar a formação, tipo, vapt!\\pBeleza, valeu, como sempre! Adiós!"
+ },
+ {
+  "offset": "033A72B",
+  "en": "{PLAYER}{KUN}, listen!\\nIt's a crisis!\\pMy POKéMON, all three of them, go into\\nbattle at once!\\pOf course that's impossible!\\nWahahaha!\\pThis is no lie, though.\\nI'm not very good at thinking about\\lhow I should line up my POKéMON.\\pSo, how about deciding for me which\\nPOKéMON should go first, master?",
+  "pt": "{PLAYER}{KUN}, escuta! É uma crise!\\pAs minhas CAPTURAS, todas as três, entram na batalha ao mesmo tempo!\\pClaro que isso é impossível! Wahahaha!\\pMas isto não é mentira: eu não mando muito bem em pensar na ordem das minhas CAPTURAS.\\pEntão, que tal decidir por mim qual CAPTURA deve ir primeiro, mestre?"
+ },
+ {
+  "offset": "033A848",
+  "en": "Okay, so it's my {STR_VAR_1} you chose?\\nI'll let any but that one go first!\\pJust kidding!\\nI'll obey your teaching, master!\\pThanks, master!\\nI hope you'll keep teaching me!",
+  "pt": "Certo, então você escolheu o meu {STR_VAR_1}? Vou deixar qualquer um ir primeiro, menos esse!\\pBrincadeira! Vou seguir os seus ensinamentos, mestre!\\pValeu, mestre! Espero que você continue me ensinando!"
+ },
+ {
+  "offset": "033A8EA",
+  "en": "A-H-O-Y!\\nAnd that spells ahoy!\\pThe rappin' SAILOR am I!\\nI present to you a question\\lthat's pretty fly!\\pIt's a team lineup question\\nthat begs your suggestion!\\pOut of this lot, which should go first\\nas the first on the spot?",
+  "pt": "A-H-O-Y! Isso é ahoy, que é oi em marinhês!\\pSou o MARINHEIRO rimador, sim, senhor! Trago uma pergunta pra você, das que têm valor!\\pÉ uma pergunta sobre a minha formação, que pede a sua sugestão!\\pDesta turma aqui, qual vai primeiro, pra entrar no picadeiro?"
+ },
+ {
+  "offset": "033A9C9",
+  "en": "Okay, I hear you, sure I do!\\nI'll switch them up, that I'll do!\\pIf it's advice I ever need,\\n{PLAYER}, your word I'll always heed!",
+  "pt": "Certo, tô ouvindo, ouvi direitinho! Vou trocar a ordem deles rapidinho!\\pSe um dia eu precisar de um conselho, {PLAYER}, a sua palavra é o meu espelho!"
+ },
+ {
+  "offset": "033AA45",
+  "en": "Yahoo, {PLAYER}!\\nHow do you do?\\pWhat should I do? Go ahead and ask?\\nUh-huh, I have something to ask!\\lAre you receiving me?\\lYou are receiving me!\\pYou have to decide, which of my\\nPOKéMON is the first to ride!\\lInto battle, I mean to say.",
+  "pt": "Yahoo, {PLAYER}! Como vai você?\\pO que eu faço? Vou em frente e pergunto? Aham, tenho uma pergunta, é esse o assunto! Câmbio, você está me ouvindo? Está me ouvindo, sim!\\pVocê tem que decidir qual das minhas CAPTURAS vai primeiro, sem fugir! Pra batalha, quero dizer, pode conferir."
+ },
+ {
+  "offset": "033AB2A",
+  "en": "My {STR_VAR_1}? Yes!\\nThat'll do, there's no distress!\\pWell, {PLAYER}, I have to roam free,\\nbut don't you forget about me.\\pSee you again, my smart friend!",
+  "pt": "O meu {STR_VAR_1}? Sim! Isso serve, sem estresse!\\pBom, {PLAYER}, eu vou seguir livre pela estrada, mas não se esqueça de mim, camarada!\\pAté a próxima, meu amigo esperto!"
+ },
+ {
+  "offset": "033ABB5",
+  "en": "…Oof…ooch… {PLAYER}{KUN}…\\nMy stomach's hurting all of a sudden…\\p…It's getting better now…\\pI must've worried myself sick racking\\nmy brains on how I should line up\\lmy posse of POKéMON.\\pSo, things being this way,\\nI need you to decide for me.\\p{PLAYER}{KUN}, which of my POKéMON should\\ngo first? So I'd win, I mean.",
+  "pt": "…Ai… uii… {PLAYER}{KUN}… Do nada, a minha barriga começou a doer…\\p…Já está melhorando…\\pDevo ter ficado doente de tanto quebrar a cabeça pensando em como organizar a minha turma de CAPTURAS.\\pEntão, do jeito que as coisas estão, preciso que você decida por mim.\\p{PLAYER}{KUN}, qual das minhas CAPTURAS deve ir primeiro? Pra eu vencer, quero dizer."
+ },
+ {
+  "offset": "033ACDA",
+  "en": "Hm, all right.\\nMy {STR_VAR_1} goes first.\\pI'll fix the lineup like that after\\nI have my supper.\\pI hope I can keep hitting you up\\nfor help like this.",
+  "pt": "Hum, tudo bem. O meu {STR_VAR_1} vai primeiro.\\pVou ajustar a ordem assim depois de jantar.\\pEspero poder continuar te pedindo ajuda assim."
+ },
+ {
+  "offset": "033AD66",
+  "en": "Er… Um…\\n{PLAYER}{KUN}?\\pPlease, don't look at me that way.\\nYou're making me feel all flustered.\\pUm…\\nI really need your advice.\\pIt makes me bashful to say this,\\nbut I chose my 3-POKéMON team.\\lI can't decide on the order, though.\\pWhich POKéMON should I send out first\\nso I at least look capable?",
+  "pt": "Hã… Hum… {PLAYER}{KUN}?\\pPor favor, não me olhe desse jeito. Você está me deixando sem jeito.\\pHum… Preciso muito do seu conselho.\\pMe dá vergonha dizer isso, mas eu escolhi a minha equipe de 3 CAPTURAS. Só que não consigo decidir a ordem.\\pQual CAPTURA eu devo mandar primeiro pra pelo menos parecer que eu sei o que estou fazendo?"
+ },
+ {
+  "offset": "033AE82",
+  "en": "Oh… Okay!\\nI'll lead with my {STR_VAR_1}.\\pI hope I can do my best without\\ngetting all flustered.\\pThank you, {PLAYER}{KUN}.\\nIf we meet again, I hope you will be\\las helpful.",
+  "pt": "Ah… Certo! Vou começar com o meu {STR_VAR_1}.\\pEspero conseguir dar o meu melhor sem ficar sem jeito.\\pAgradeço, {PLAYER}{KUN}. Se a gente se encontrar de novo, espero que você me ajude tanto quanto hoje."
+ }
+]

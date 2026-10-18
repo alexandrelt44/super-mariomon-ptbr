@@ -1,0 +1,1609 @@
+[
+ {
+  "offset": "001884B",
+  "en": "WPlÂû Wclxl îs{F7 6A}",
+  "pt": "",
+  "max_width": 108
+ },
+ {
+  "offset": "001A811",
+  "en": "♂x{F7 29}\\nx{F7 79}",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 34
+ },
+ {
+  "offset": "00D67D1",
+  "en": "♂t{F7 8B}\\lX{F7 F9}",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 34
+ },
+ {
+  "offset": "0119CB8",
+  "en": " :B{F8 0D}l :E{F8 0A}l :t{F8 07}l :e{F8 04}l :h{F8 01}l :",
+  "pt": "",
+  "max_width": 170
+ },
+ {
+  "offset": "0119CC4",
+  "en": " :t{F8 07}l :e{F8 04}l :h{F8 01}l :",
+  "pt": "",
+  "max_width": 114
+ },
+ {
+  "offset": "0217978",
+  "en": "he",
+  "pt": ""
+ },
+ {
+  "offset": "0220608",
+  "en": "ú\\nÔ )ÉòËÌÁÁWhere has our WALLY gone?\\pWe have to leave for VERDANTURF TOWN\\nvery soon…",
+  "pt": ""
+ },
+ {
+  "offset": "022C44C",
+  "en": " we're here, honey!\\pIt must be tiring riding with our things\\nin the moving truck.\\pWell, this is LITTLEROOT TOWN.\\pHow do you like it?\\nThis is our new home!\\pIt has a quaint feel, but it seems to be\\nan easy place to live, don't you think?\\pAnd, you get your own room, {PLAYER}!\\nLet's go inside.",
+  "pt": ""
+ },
+ {
+  "offset": "023FDC5",
+  "en": " Ô d{FD 23}ËÌÁÁÔ é\\nóËÌÁÁWhen POKéMON battle, they eventually\\nlevel up and become stronger.",
+  "pt": ""
+ },
+ {
+  "offset": "023FDC6",
+  "en": "Ô d{FD 23}ËÌÁÁÔ é\\nóËÌÁÁWhen POKéMON battle, they eventually\\nlevel up and become stronger.",
+  "pt": ""
+ },
+ {
+  "offset": "0243A44",
+  "en": "I wish I could let my POKéMON\\nsoak, too.",
+  "pt": "Queria poder deixar minhas CAPTURAS de molho também."
+ },
+ {
+  "offset": "024B73E",
+  "en": " Ô ¿¥ôËÌÁÁÔ ♂¥ôËÌÁÁNORMAN became our town's new\\nGYM LEADER.\\pI think he called his family over from\\nsomewhere far away.",
+  "pt": ""
+ },
+ {
+  "offset": "024B73F",
+  "en": "Ô ¿¥ôËÌÁÁÔ ♂¥ôËÌÁÁNORMAN became our town's new\\nGYM LEADER.\\pI think he called his family over from\\nsomewhere far away.",
+  "pt": ""
+ },
+ {
+  "offset": "024B748",
+  "en": "Ô ♂¥ôËÌÁÁNORMAN became our town's new\\nGYM LEADER.\\pI think he called his family over from\\nsomewhere far away.",
+  "pt": ""
+ },
+ {
+  "offset": "025F4D8",
+  "en": "Ô pÁùËÌÂÁÔ áÂùËÌÂÁThis POKéMON won the BEAUTY CONTEST\\nhere before.\\pWell, guess what? Today, I made it\\nwin a SMARTNESS CONTEST!\\pMy abilities scare even me…",
+  "pt": ""
+ },
+ {
+  "offset": "026EBBC",
+  "en": "Ô ÁyùËÌÂÁMy big brother's the FOSSIL MANIAC…\\nHe's a nice guy who loves FOSSILS…\\pHe loves digging holes, too…\\nHe dug this hole by himself…\\pYou can have this, so you can DIG\\nholes just like my big brother…",
+  "pt": ""
+ },
+ {
+  "offset": "027BE24",
+  "en": "Ô &DúËÌÁÁUrrrrppp…\\pI'm getting queasy just being aboard\\nthis ship…\\pIt's not even moving, but…",
+  "pt": ""
+ },
+ {
+  "offset": "02882C6",
+  "en": "Um, my name's {STR_VAR_3}, and I'm\\n{STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\pSnivel…\\pI'm sorry!\\nThis tension is making me cry…",
+  "pt": "Hã, meu nome é {STR_VAR_3}, e sou\\naprendiz número {STR_VAR_2}\\lde {STR_VAR_1}.\\pSnif…\\pDesculpa! Essa tensão tá me fazendo chorar…"
+ },
+ {
+  "offset": "028832A",
+  "en": "{STR_VAR_3} advised me, so I have\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "{STR_VAR_3} me aconselhou, então tenho\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "0288356",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pSnivel…\\nPlease, please team up with me!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pSnif… Por favor, por favor, forme uma dupla comigo!"
+ },
+ {
+  "offset": "028838E",
+  "en": "Oh, really? You will?\\nAwesome! Wicked! Awoooh!\\pOh… I'm sorry…\\nI'm so happy, I'm crying…\\pI'll go register right away.\\nPlease don't go away!",
+  "pt": "Sério? Você topa? Demais! Irado! Uhuuul!\\pAi… Desculpa… Tô tão feliz que tô chorando…\\pVou fazer a inscrição agora mesmo. Por favor, não vá embora!"
+ },
+ {
+  "offset": "0288419",
+  "en": "Oh, b-but…\\nSob… Waaaaah!",
+  "pt": "Ah, m-mas…\\nSnif… Buááááá!"
+ },
+ {
+  "offset": "0288432",
+  "en": "Hi, there! I'm {STR_VAR_3}!\\nI'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!",
+  "pt": "Oi! Eu sou {STR_VAR_3}!\\nSou aprendiz número {STR_VAR_2}\\lde {STR_VAR_1}!"
+ },
+ {
+  "offset": "0288461",
+  "en": "{STR_VAR_3} recommended my crew.\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "{STR_VAR_3} recomendou o meu time.\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028848C",
+  "en": "one {STR_VAR_2} with {STR_VAR_1},\\nthat's what I have! Cool, huh?\\pSo come on!\\nLet's form a tag team!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1},\\né isso que eu tenho! Maneiro, né?\\pEntão vem! Vamos formar uma dupla!"
+ },
+ {
+  "offset": "02884DE",
+  "en": "Yay! Great!\\nOkay, I'll go register, okay?",
+  "pt": "Oba! Que ótimo! Vou fazer a inscrição, tá bom?"
+ },
+ {
+  "offset": "0288508",
+  "en": "Aww, why?\\nI wanted to team up, {PLAYER}!",
+  "pt": "Ah, por quê? Eu queria formar dupla com você, {PLAYER}!"
+ },
+ {
+  "offset": "028852B",
+  "en": "I'm {STR_VAR_3}, the no. {STR_VAR_2} apprentice\\nof the famous {STR_VAR_1}!",
+  "pt": "Eu sou {STR_VAR_3}, aprendiz número\\n{STR_VAR_2} do famoso {STR_VAR_1}!"
+ },
+ {
+  "offset": "028855B",
+  "en": "I looked to {STR_VAR_3} for advice.\\nOne {STR_VAR_1}-using {STR_VAR_2}",
+  "pt": "Pedi conselhos a {STR_VAR_3}.\\nUm {STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "0288586",
+  "en": "and one {STR_VAR_2} with {STR_VAR_1},\\nthat's my pair.\\pPlease, will you join me in\\na tag team?",
+  "pt": "e um {STR_VAR_2} com {STR_VAR_1},\\né a minha dupla.\\pPor favor, você forma uma dupla comigo?"
+ },
+ {
+  "offset": "02885D2",
+  "en": "Thank you!\\nI'll register right away!",
+  "pt": "Valeu! Vou fazer a inscrição agora mesmo!"
+ },
+ {
+  "offset": "02885F7",
+  "en": "{PLAYER}, I had been hoping to join\\nyou in a tag team…",
+  "pt": "{PLAYER}, eu estava torcendo para\\nformar uma dupla com você…"
+ },
+ {
+  "offset": "0288628",
+  "en": "Um… I'm sincerely happy that you\\nwould take the time to talk to me.\\pI'm {STR_VAR_3}.\\nI'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice…",
+  "pt": "Hã… Fico sinceramente feliz por você ter tirado um tempo para falar comigo.\\pEu sou {STR_VAR_3}.\\nSou aprendiz número {STR_VAR_2}\\lde {STR_VAR_1}…"
+ },
+ {
+  "offset": "0288690",
+  "en": "{STR_VAR_3} gave me advice.\\nI'm very grateful for it.\\pI have a team of one {STR_VAR_2}\\nwith {STR_VAR_1} and",
+  "pt": "{STR_VAR_3} me deu conselhos.\\nAgradeço muito por isso.\\pTenho um time com um {STR_VAR_2}\\ncom {STR_VAR_1} e"
+ },
+ {
+  "offset": "02886E1",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\nI know I'm asking a lot…\\pI don't think you'll be willing to,\\nbut may I join you as a partner?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\nSei que estou pedindo muito…\\pAcho que você não vai querer, mas posso formar dupla com você?"
+ },
+ {
+  "offset": "028874F",
+  "en": "Really? I can't believe it!\\nI can't believe you'll let me join you!\\lI… I won't let you down!\\pUm… If it's really okay, I'll go register\\nright this instant!",
+  "pt": "Sério? Não acredito! Não acredito que você vai me deixar entrar na sua dupla! Eu… Eu não vou te decepcionar!\\pHã… Se estiver tudo bem mesmo, vou fazer a inscrição neste instante!"
+ },
+ {
+  "offset": "02887EA",
+  "en": "Oh…\\nI didn't think I was good enough…",
+  "pt": "Ah…\\nEu achei mesmo que não estava à altura…"
+ },
+ {
+  "offset": "0288810",
+  "en": "Hi, I'm {STR_VAR_3}.\\nI'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!",
+  "pt": "Oi, eu sou {STR_VAR_3}.\\nSou aprendiz número {STR_VAR_2}\\lde {STR_VAR_1}!"
+ },
+ {
+  "offset": "0288838",
+  "en": "{STR_VAR_3} told me that it would be\\ngood to make this team:\\lone {STR_VAR_1}-using {STR_VAR_2}",
+  "pt": "{STR_VAR_3} me disse que seria\\nbom montar este time:\\lum {STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "028887C",
+  "en": "and one {STR_VAR_2} that knows how\\nto use {STR_VAR_1}.\\pNot bad, huh?\\nWant me to team up with you?",
+  "pt": "e um {STR_VAR_2} que sabe usar\\n{STR_VAR_1}.\\pNada mal, né?\\nQuer que eu forme dupla com você?"
+ },
+ {
+  "offset": "02888CC",
+  "en": "Okay, glad to join you!\\nI hope you won't mess things up for me!\\lI'll do my registration now.",
+  "pt": "Beleza, fico feliz em entrar na dupla! Só espero que você não estrague tudo pra mim! Vou fazer a inscrição agora."
+ },
+ {
+  "offset": "0288929",
+  "en": "Huh? Why did you turn me down?\\nYou're no judge of character!",
+  "pt": "Hein? Por que você me recusou?\\nVocê não sabe julgar ninguém!"
+ },
+ {
+  "offset": "0288966",
+  "en": "I'm {STR_VAR_3} and I'm a TRIATHLETE.\\nI'm busy every day what with jogging,\\ltraining, and rapping.\\pI also happen to be {STR_VAR_1}'s\\nno. {STR_VAR_2} apprentice.",
+  "pt": "Eu sou {STR_VAR_3}, TRIATLETA.\\nTenho a agenda cheia todo dia, com\\lcorrida, treino e rap.\\pTambém sou aprendiz número\\n{STR_VAR_2} de {STR_VAR_1}."
+ },
+ {
+  "offset": "02889EC",
+  "en": "This is what {STR_VAR_3} recommended.\\nOne {STR_VAR_1}-using {STR_VAR_2}",
+  "pt": "Isto foi o que {STR_VAR_3} recomendou.\\nUm {STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "0288A19",
+  "en": "and one {STR_VAR_1}-using\\n{STR_VAR_2}.\\pI put a lot of effort into raising\\nthem, even though I'm busy.\\pLet's form a tag team\\nand give it a go!",
+  "pt": "e um {STR_VAR_2} que usa\\n{STR_VAR_1}.\\pMesmo com a agenda cheia, me esforcei muito para treinar os dois.\\pVamos formar uma dupla e mandar ver!"
+ },
+ {
+  "offset": "0288A95",
+  "en": "Thanks, that's the spirit!\\nHang tight while I go register, okay?",
+  "pt": "Valeu, esse é o espírito! Espera um pouco que eu vou fazer a inscrição, tá?"
+ },
+ {
+  "offset": "0288AD6",
+  "en": "I took time from my busy schedule\\nto be here! Give me a break!",
+  "pt": "Tirei um tempo da minha agenda lotada pra vir aqui! Dá um tempo!"
+ },
+ {
+  "offset": "0288B15",
+  "en": "Hi!\\nHow's it going?\\pI'm {STR_VAR_3}, {STR_VAR_1}'s\\nno. {STR_VAR_2} apprentice. Glad to meet you!",
+  "pt": "Oi! Tudo bem?\\pEu sou {STR_VAR_3}, aprendiz número\\n{STR_VAR_2} de {STR_VAR_1}. Prazer!"
+ },
+ {
+  "offset": "0288B5B",
+  "en": "Listen, listen! You have to hear about\\nthe POKéMON {STR_VAR_3} recommended.\\lOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Escuta, escuta! Você tem que saber das\\nCAPTURAS que {STR_VAR_3} recomendou.\\lUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "0288BB1",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\nOf course I raised them superbly!\\pSo, want to team up?\\nI'm sure it'll be a great combo!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\nÉ claro que criei os dois muito bem!\\pE aí, quer formar dupla? Tenho certeza de que vai ser uma ótima combinação!"
+ },
+ {
+  "offset": "0288C19",
+  "en": "Yay, I think this will be fun!\\nI'll go register!",
+  "pt": "Oba, acho que vai ser divertido! Vou fazer a inscrição!"
+ },
+ {
+  "offset": "0288C4A",
+  "en": "Oh, you're mean!\\nI come recommended, you know.",
+  "pt": "Ah, que maldade!\\nEu tenho ótimas recomendações, sabia?"
+ },
+ {
+  "offset": "0288C79",
+  "en": "Please let me introduce myself.\\nI am {STR_VAR_3}.\\pI serve as {STR_VAR_1}'s\\nno. {STR_VAR_2} apprentice.",
+  "pt": "Permita que eu me apresente.\\nEu sou {STR_VAR_3}.\\pSirvo como aprendiz número\\n{STR_VAR_2} de {STR_VAR_1}."
+ },
+ {
+  "offset": "0288CC5",
+  "en": "I sought the sage advice of\\n{STR_VAR_3} and raised my team\\lof one {STR_VAR_2} with {STR_VAR_1}",
+  "pt": "Busquei os sábios conselhos de\\n{STR_VAR_3} e criei meu time\\lcom um {STR_VAR_2} com {STR_VAR_1}"
+ },
+ {
+  "offset": "0288D09",
+  "en": "and one {STR_VAR_2} with {STR_VAR_1}.\\pPlease agree to a tag team with me!",
+  "pt": "e um {STR_VAR_2} com {STR_VAR_1}.\\pPor favor, aceite formar uma dupla comigo!"
+ },
+ {
+  "offset": "0288D41",
+  "en": "Oh… I'm delighted!\\nI promise to give you my best!\\pOf course I will register us!\\nPlease wait!",
+  "pt": "Ah… Que alegria! Prometo dar o meu melhor!\\pClaro que eu faço a nossa inscrição! Aguarde, por favor!"
+ },
+ {
+  "offset": "0288D9E",
+  "en": "I had been hoping to join you,\\n{PLAYER}…",
+  "pt": "Eu estava torcendo para formar\\ndupla com você, {PLAYER}…"
+ },
+ {
+  "offset": "0288DC1",
+  "en": "Eek! You spoke to me!\\nI… I'm overjoyed!\\pI'm {STR_VAR_3}! I'm {STR_VAR_1}'s\\nno. {STR_VAR_2} apprentice!",
+  "pt": "Iiih! Você falou comigo!\\nEu… Eu tô nas nuvens!\\pEu sou {STR_VAR_3}! Sou aprendiz\\nnúmero {STR_VAR_2} de {STR_VAR_1}!"
+ },
+ {
+  "offset": "0288E0D",
+  "en": "On {STR_VAR_3}'s advice, I trained\\none {STR_VAR_1}-using {STR_VAR_2}",
+  "pt": "Seguindo o conselho de {STR_VAR_3}, treinei\\num {STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "0288E37",
+  "en": "and one {STR_VAR_1}-using\\n{STR_VAR_2}.\\pPlease, can you grant me my wish?\\nI want to be your tag-team partner!",
+  "pt": "e um {STR_VAR_2} que usa\\n{STR_VAR_1}.\\pPor favor, pode realizar o meu desejo? Eu quero formar dupla com você!"
+ },
+ {
+  "offset": "0288E92",
+  "en": "Eek! I… I feel giddy!\\nThank you so much!\\lI'll go register us right away!",
+  "pt": "Iiih! Eu… Minha cabeça tá rodando! Valeu demais! Vou fazer a nossa inscrição agora mesmo!"
+ },
+ {
+  "offset": "0288EDB",
+  "en": "Waaah! Don't you feel any pity?\\nBut that makes you cooler…",
+  "pt": "Buááá! Você não tem dó de mim?\\nMas isso te deixa ainda mais legal…"
+ },
+ {
+  "offset": "0288F16",
+  "en": "Yeehaw! I'm {STR_VAR_1}'s\\nno. {STR_VAR_2} apprentice!\\p{STR_VAR_3}'s my name, hello, hello!",
+  "pt": "Iiirrá! Sou aprendiz número {STR_VAR_2}\\nde {STR_VAR_1}!\\p{STR_VAR_3} é o meu nome, olá, olá!"
+ },
+ {
+  "offset": "0288F56",
+  "en": "My mentor {STR_VAR_3} recommended\\none {STR_VAR_1}-master {STR_VAR_2}",
+  "pt": "Meu mentor {STR_VAR_3} recomendou\\num {STR_VAR_2} mestre em {STR_VAR_1}"
+ },
+ {
+  "offset": "0288F80",
+  "en": "and one {STR_VAR_1}-master\\n{STR_VAR_2}.\\pGood stuff, huh?\\nYou'll partner with me, won't you?",
+  "pt": "e um {STR_VAR_2} mestre em\\n{STR_VAR_1}.\\pDa hora, né? Você vai ser meu parceiro, não vai?"
+ },
+ {
+  "offset": "0288FCA",
+  "en": "Okay, excellent!\\nI'll get the registration done quickly!",
+  "pt": "Beleza, excelente! Vou fazer a inscrição rapidinho!"
+ },
+ {
+  "offset": "0289003",
+  "en": "Gwaaah!\\nYou're a calculating one, {PLAYER}!",
+  "pt": "Aaaargh!\\nVocê é bem calculista, {PLAYER}!"
+ },
+ {
+  "offset": "0289029",
+  "en": "Hey! There's big trouble! This is\\nthe BATTLE TOWER's last day!\\p… … … … … …\\nI'm only joking!\\pPeople call me {STR_VAR_3} and I do, too!\\nI'm {STR_VAR_1}'s 1,000th apprentice!\\lActually, I'm no. {STR_VAR_2}!",
+  "pt": "Ei! Temos um problemão! Hoje é o último dia da TORRE DE BATALHA!\\p… … … … … …\\nÉ brincadeira!\\pTodo mundo me chama de {STR_VAR_3}, e\\neu também! Sou o milésimo aprendiz\\lde {STR_VAR_1}! Na verdade, sou o\\lnúmero {STR_VAR_2}!"
+ },
+ {
+  "offset": "02890D9",
+  "en": "{STR_VAR_3} gave me some advice.\\n{STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "{STR_VAR_3} me deu uns conselhos.\\n{STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "0289100",
+  "en": "{STR_VAR_2} with {STR_VAR_1}.\\nI've got ten of each kind!\\lActually, just one of each!\\pHow about it?\\nWant to try tag battles with me?",
+  "pt": "{STR_VAR_2} com {STR_VAR_1}.\\nTenho dez de cada!\\lNa verdade, só um de cada!\\pQue tal? Quer encarar batalhas em dupla comigo?"
+ },
+ {
+  "offset": "0289172",
+  "en": "Yippee!\\nI'll give you a POKéMON as my thanks!\\pJust joking! But I will really go do\\nthe registration, okay?",
+  "pt": "Uhuuu! Vou te dar uma CAPTURA como agradecimento!\\pBrincadeira! Mas eu vou mesmo fazer a inscrição, tá?"
+ },
+ {
+  "offset": "02891DD",
+  "en": "Oh, that's so cold! I'll have to wreck\\nthe BATTLE TOWER for that!\\pOf course I won't!",
+  "pt": "Ah, que frieza! Por isso vou ter que destruir a TORRE DE BATALHA!\\pÉ claro que não vou!"
+ },
+ {
+  "offset": "0289232",
+  "en": "Hey, there, I'm rockin' and a-rollin'!\\nPOKéMON, I be controllin'!\\pI'm {STR_VAR_3} the rappin' SAILOR.\\nDon't be mistakin' me for no wailer!\\pI'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\\nMe, you shouldn't be quick to dismiss!",
+  "pt": "Ei, aí, eu tô no rock, tô no embalo! CAPTURAS eu controlo, não dou intervalo!\\pSou {STR_VAR_3}, o MARUJO rapper.\\nNão me confunda com chorão,\\lque o meu negócio é refrão!\\pSou aprendiz número {STR_VAR_2}\\nde {STR_VAR_1}. Não me dispense\\lassim, tão rapidamente!"
+ },
+ {
+  "offset": "02892F7",
+  "en": "With the advice of {STR_VAR_3} I did\\nabide, put together my team of pride!\\lOne {STR_VAR_1}-using {STR_VAR_2}",
+  "pt": "Com o conselho de {STR_VAR_3} eu fiquei,\\no meu time de orgulho montei!\\lUm {STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "0289349",
+  "en": "and one {STR_VAR_1}-using\\n{STR_VAR_2}!\\pOur meeting we should commemorate,\\nwith a tag-team victory to celebrate!",
+  "pt": "e um {STR_VAR_2} que usa\\n{STR_VAR_1}!\\pO nosso encontro vamos comemorar, com uma vitória em dupla pra celebrar!"
+ },
+ {
+  "offset": "02893A7",
+  "en": "Hey, hey, I like your style!\\nOur registration, I will go file!",
+  "pt": "Ei, ei, curti seu estilo! A inscrição eu faço, tranquilo!"
+ },
+ {
+  "offset": "02893E6",
+  "en": "Oh, hey, {PLAYER}, now that's cold!\\nIf I may be so bold!",
+  "pt": "Ô, {PLAYER}, que frieza, hein!\\nSe me permite a franqueza, hein!"
+ },
+ {
+  "offset": "0289419",
+  "en": "Yippee-yahoo!\\nOh, don't run! I was just having fun!\\pHowdy! I'm {STR_VAR_3}!\\nI'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!",
+  "pt": "Iupi-iahu! Ei, não sai correndo, não! Era só zoeira, então!\\pOpa! Eu sou {STR_VAR_3}!\\nSou aprendiz número {STR_VAR_2}\\lde {STR_VAR_1}!"
+ },
+ {
+  "offset": "0289478",
+  "en": "{STR_VAR_3} told me what to do.\\nSo one {STR_VAR_1}-using {STR_VAR_2}",
+  "pt": "{STR_VAR_3} me disse o que fazer.\\nEntão um {STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "02894A2",
+  "en": "and one {STR_VAR_1}-using\\n{STR_VAR_2}, I did choose.\\pSo, what do you say?\\nCome on, make my day!\\pPlease, I'm begging you!\\nLet me join you, don't leave me blue!",
+  "pt": "e um {STR_VAR_2} que usa\\n{STR_VAR_1} eu fui escolher.\\pE aí, o que me diz? Vem, me deixa feliz!\\pPor favor, eu te imploro! Me deixa entrar, senão eu choro!"
+ },
+ {
+  "offset": "028952F",
+  "en": "Yeahah! Luck is with me!\\nIt sure makes me happy!\\pBefore we go join the fray,\\nI'll go register right away!",
+  "pt": "Iéééé! A sorte tá do meu lado! Que animação!\\pAntes de a gente ir pra batalha, vou fazer a inscrição sem falha!"
+ },
+ {
+  "offset": "0289599",
+  "en": "You're turning me down?\\n{PLAYER}, you're making me frown!",
+  "pt": "Você tá me recusando?\\n{PLAYER}, assim eu fico chorando!"
+ },
+ {
+  "offset": "02895CD",
+  "en": "Cough!\\pOh, sorry, I have a cold.\\nMy POKéMON are fine, though.\\pMy name's {STR_VAR_3}, {STR_VAR_1}'s\\nno. {STR_VAR_2} apprentice. Cough!",
+  "pt": "Cof!\\pAh, desculpa, tô com resfriado. Mas minhas CAPTURAS estão bem.\\pMeu nome é {STR_VAR_3}, aprendiz número\\n{STR_VAR_2} de {STR_VAR_1}. Cof!"
+ },
+ {
+  "offset": "0289638",
+  "en": "I took {STR_VAR_3}'s advice to heart\\nand put together my team of\\lone {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Levei a sério o conselho de {STR_VAR_3}\\ne montei o meu time com\\lum {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "0289683",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pI trained them every day,\\neven in wind and rain.\\pThat's why I have this cold,\\nI think.\\pThat's what I'm about.\\nWant to be my tag partner?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pEu treinei os dois todo dia, até com vento e chuva.\\pAcho que foi por isso que peguei esse resfriado.\\pEsse sou eu. Quer ser meu parceiro de dupla?"
+ },
+ {
+  "offset": "028971C",
+  "en": "Thanks, I appreciate this!\\nCough, cough!\\lHang on while I go register.",
+  "pt": "Valeu, agradeço muito! Cof, cof! Espera aí que eu vou fazer a inscrição."
+ },
+ {
+  "offset": "0289762",
+  "en": "Oh, you won't?\\n{PLAYER}, I think we'd make a good pair.",
+  "pt": "Ah, não vai? {PLAYER}, acho que a gente seria uma boa dupla."
+ },
+ {
+  "offset": "0289794",
+  "en": "Oh, hello!\\nThis is nerve-racking.\\pI'm {STR_VAR_3}.\\nI'm the no. {STR_VAR_2} apprentice of {STR_VAR_1}.",
+  "pt": "Ah, olá! Que nervoso.\\pEu sou {STR_VAR_3}.\\nSou aprendiz número {STR_VAR_2}\\lde {STR_VAR_1}."
+ },
+ {
+  "offset": "02897DF",
+  "en": "{STR_VAR_3} said this team'll be good--\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "{STR_VAR_3} disse que este time é bom:\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "0289811",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pI'm feeling self-conscious about this,\\nbut will you let me join you?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pEstou meio sem graça com isso, mas você me deixa entrar na sua dupla?"
+ },
+ {
+  "offset": "0289866",
+  "en": "Oh, gee, thank you!\\nI feel bashful, but I'll do my best!\\pI'll go get the registration done.",
+  "pt": "Puxa, valeu! Tô com vergonha, mas vou dar o meu melhor!\\pVou lá fazer a inscrição."
+ },
+ {
+  "offset": "02898C2",
+  "en": "Oh, please don't say no!\\nI feel self-conscious enough already…",
+  "pt": "Ah, por favor, não diga não! Eu já estou sem graça o bastante…"
+ },
+ {
+  "offset": "0289901",
+  "en": "I am {STR_VAR_3}, and that's no lie.\\nI am {STR_VAR_1}'s no. {STR_VAR_2} apprentice.",
+  "pt": "Eu sou {STR_VAR_3}, e isso não é mentira.\\nSou aprendiz número {STR_VAR_2}\\lde {STR_VAR_1}."
+ },
+ {
+  "offset": "028993A",
+  "en": "{STR_VAR_3} recommended my team.\\pSince the advice sounded sincere,\\nI decided to bring with me\\lmy {STR_VAR_1}-using {STR_VAR_2} and",
+  "pt": "{STR_VAR_3} recomendou o meu time.\\pComo o conselho parecia sincero,\\ndecidi trazer comigo\\lmeu {STR_VAR_2} que usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "02899A2",
+  "en": "my {STR_VAR_1}-using {STR_VAR_2}.\\pIf possible, I would like you to accept\\nme as your tag-team partner.",
+  "pt": "meu {STR_VAR_2} que usa {STR_VAR_1}.\\pSe possível, gostaria que você me aceitasse na sua dupla."
+ },
+ {
+  "offset": "02899F7",
+  "en": "You really will accept me?\\nIt would be too terrible otherwise.\\pBut since you've agreed, this is fine.\\nI shall go register the both of us.",
+  "pt": "Vai mesmo me aceitar? Seria terrível demais se não fosse assim.\\pMas, já que você aceitou, está tudo certo. Vou fazer a inscrição de nós dois."
+ },
+ {
+  "offset": "0289A81",
+  "en": "Hm? Now why would you refuse?\\nIs this your idea of a joke?",
+  "pt": "Hm? Por que você recusaria?\\nIsso é alguma piada sua?"
+ },
+ {
+  "offset": "0289ABC",
+  "en": "I'm {STR_VAR_1}, and I'm a LASS!",
+  "pt": "Eu sou {STR_VAR_1}, e sou MOÇA!"
+ },
+ {
+  "offset": "0289AD4",
+  "en": "What I have are one {STR_VAR_2}\\nthat uses {STR_VAR_1} and one",
+  "pt": "O que eu tenho é um {STR_VAR_2}\\nque usa {STR_VAR_1} e um"
+ },
+ {
+  "offset": "0289B00",
+  "en": "{STR_VAR_2} that uses {STR_VAR_1}.\\nThose are what I have with me.\\pWill you be my partner?",
+  "pt": "{STR_VAR_2} que usa {STR_VAR_1}.\\nÉ isso que eu trouxe comigo.\\pVocê quer ser meu parceiro?"
+ },
+ {
+  "offset": "0289B48",
+  "en": "Thank you!\\nI'll go do the registration!",
+  "pt": "Obrigada! Vou fazer a inscrição!"
+ },
+ {
+  "offset": "0289B70",
+  "en": "You don't want to be my partner?\\nYou'll regret it later!",
+  "pt": "Não quer ser meu parceiro? Você vai se arrepender depois!"
+ },
+ {
+  "offset": "0289BA9",
+  "en": "Hello!\\pI'm YOUNGSTER {STR_VAR_1}!",
+  "pt": "Olá!\\pEu sou o GAROTO {STR_VAR_1}!"
+ },
+ {
+  "offset": "0289BC2",
+  "en": "Want to know what I have?\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Quer saber o que eu tenho?\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "0289BEF",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pYou'll be my tag-team partner,\\nwon't you?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pVocê vai formar dupla comigo, não vai?"
+ },
+ {
+  "offset": "0289C29",
+  "en": "Yay!\\nI'll go and register, okay?",
+  "pt": "Oba! Vou fazer a inscrição, tá?"
+ },
+ {
+  "offset": "0289C4A",
+  "en": "Aww! If you'd form a tag team with\\nmy POKéMON, we'd be unstoppable!",
+  "pt": "Ah! Se você formasse uma dupla com as minhas CAPTURAS, ninguém ia segurar a gente!"
+ },
+ {
+  "offset": "0289C8E",
+  "en": "Yahoo!\\nI'm HIKER {STR_VAR_1}!",
+  "pt": "Iahu!\\nEu sou o ALPINISTA {STR_VAR_1}!"
+ },
+ {
+  "offset": "0289CA3",
+  "en": "Know what I have with me?\\nMy {STR_VAR_1}-using {STR_VAR_2} and",
+  "pt": "Sabe o que eu trouxe comigo?\\nMeu {STR_VAR_2} que usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "0289CD0",
+  "en": "my {STR_VAR_1}-using {STR_VAR_2}!\\pSounds good, eh?\\nWant to form a tag team?",
+  "pt": "meu {STR_VAR_2} que usa {STR_VAR_1}!\\pParece bom, né? Quer formar uma dupla?"
+ },
+ {
+  "offset": "0289D0A",
+  "en": "Yahoo!\\nI'll go do the registering, then.",
+  "pt": "Iahu! Então vou fazer a inscrição."
+ },
+ {
+  "offset": "0289D33",
+  "en": "I would've liked to battle with you\\nat my side.",
+  "pt": "Eu queria ter batalhado com você ao meu lado."
+ },
+ {
+  "offset": "0289D63",
+  "en": "Hello!\\nI'm {STR_VAR_1}, and I'm a BEAUTY!",
+  "pt": "Olá!\\nEu sou {STR_VAR_1}, uma BELDADE!"
+ },
+ {
+  "offset": "0289D84",
+  "en": "Do you know what I've been raising?\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Sabe o que eu ando criando?\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "0289DBB",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pWhat do you think?\\nWant to make a tag team together?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pO que acha? Quer formar uma dupla comigo?"
+ },
+ {
+  "offset": "0289E00",
+  "en": "Wonderful!\\nI'll get the registration done now!",
+  "pt": "Maravilha! Vou fazer a inscrição agora!"
+ },
+ {
+  "offset": "0289E2F",
+  "en": "How disappointing!\\pWe two together--we would've been\\nthe best!",
+  "pt": "Que decepção!\\pNós dois juntos… Seríamos os melhores!"
+ },
+ {
+  "offset": "0289E6E",
+  "en": "Yo!\\pYou know who I am?\\nI'm {STR_VAR_1} the FISHERMAN!",
+  "pt": "E aí!\\pSabe quem eu sou?\\nSou {STR_VAR_1}, o PESCADOR!"
+ },
+ {
+  "offset": "0289E9B",
+  "en": "I've got with me a team of one\\n{STR_VAR_1}-using {STR_VAR_2} and",
+  "pt": "Trouxe comigo um time com um\\n{STR_VAR_2} que usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "0289ECA",
+  "en": "one {STR_VAR_1}-using {STR_VAR_2}.\\pSo, how about it?\\nWill you battle at my side?",
+  "pt": "um {STR_VAR_2} que usa {STR_VAR_1}.\\pE então, que tal? Vai batalhar ao meu lado?"
+ },
+ {
+  "offset": "0289F09",
+  "en": "Good, good!\\nLeave it up to me!\\pI'll go and register us now.",
+  "pt": "Boa, boa! Pode deixar comigo!\\pVou fazer a nossa inscrição agora."
+ },
+ {
+  "offset": "0289F45",
+  "en": "We matched up perfectly, too…",
+  "pt": "E a gente combinava tão bem…"
+ },
+ {
+  "offset": "0289F63",
+  "en": "Glad to make your acquaintance.\\nI am {STR_VAR_1}, a LADY.",
+  "pt": "É um prazer conhecê-lo.\\nEu sou {STR_VAR_1}, uma DAMA."
+ },
+ {
+  "offset": "0289F94",
+  "en": "I am accompanied by a team of\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Estou acompanhada de um time com\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "0289FC5",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pI hope I meet your approval.\\nFor I wish to have you as my partner.",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pEspero que tenham a sua aprovação, pois desejo tê-lo como meu parceiro."
+ },
+ {
+  "offset": "028A018",
+  "en": "I thank you sincerely.\\nI shall handle the registration.",
+  "pt": "Agradeço sinceramente. Eu cuidarei da inscrição."
+ },
+ {
+  "offset": "028A050",
+  "en": "I'm sure that you will regret not\\nhaving me as your partner.",
+  "pt": "Tenho certeza de que você vai se arrepender de não me ter como parceira."
+ },
+ {
+  "offset": "028A08D",
+  "en": "I'm TRIATHLETE {STR_VAR_1}!",
+  "pt": "Sou {STR_VAR_1}, TRIATLETA!"
+ },
+ {
+  "offset": "028A0A0",
+  "en": "What I have…\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "O que eu tenho…\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028A0C0",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\nThat's my pair!\\pPlease?\\nWill you form a tag team with me?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\nEssa é a minha dupla!\\pPor favor? Forma uma dupla comigo?"
+ },
+ {
+  "offset": "028A10A",
+  "en": "Gee, thanks!\\nI'll go register at the counter.",
+  "pt": "Puxa, valeu! Vou fazer a inscrição no balcão."
+ },
+ {
+  "offset": "028A138",
+  "en": "We two together, we would've been\\ntough for certain!",
+  "pt": "Nós dois juntos seríamos durões, com certeza!"
+ },
+ {
+  "offset": "028A16D",
+  "en": "Hiya!\\nI'm BUG CATCHER {STR_VAR_1}!",
+  "pt": "Oi!\\nEu sou o CAÇA-INSETOS {STR_VAR_1}!"
+ },
+ {
+  "offset": "028A187",
+  "en": "Check out what I have!\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Olha só o que eu tenho!\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028A1B1",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pSo, listen!\\nDo you want to form a tag team?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pEntão, escuta! Quer formar uma dupla?"
+ },
+ {
+  "offset": "028A1ED",
+  "en": "Gotcha!\\pI'll go do the registration stuff\\nat the counter.",
+  "pt": "Fechado!\\pVou lá no balcão cuidar da inscrição."
+ },
+ {
+  "offset": "028A227",
+  "en": "Aww, my POKéMON are awesome.\\nI hope you won't regret this!",
+  "pt": "Ah, minhas CAPTURAS são incríveis. Espero que você não se arrependa!"
+ },
+ {
+  "offset": "028A262",
+  "en": "Good day!\\nI'm SCHOOL KID {STR_VAR_1}!",
+  "pt": "Bom dia!\\nEu sou o ESTUDANTE {STR_VAR_1}!"
+ },
+ {
+  "offset": "028A27F",
+  "en": "What I've been raising are one\\n{STR_VAR_2} that uses {STR_VAR_1}",
+  "pt": "O que eu ando criando é um\\n{STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "028A2AE",
+  "en": "and one {STR_VAR_2} that uses\\n{STR_VAR_1}.\\pNot too bad, don't you think?\\nWould you care to form a tag team?",
+  "pt": "e um {STR_VAR_2} que usa\\n{STR_VAR_1}.\\pNada mal, não acha? Gostaria de formar uma dupla?"
+ },
+ {
+  "offset": "028A308",
+  "en": "Thank you very much!\\nI'll get done with the registration.",
+  "pt": "Muito obrigado! Vou terminar a inscrição."
+ },
+ {
+  "offset": "028A342",
+  "en": "That's too bad…\\pI was hoping that I could learn\\nfrom you as your partner…",
+  "pt": "Que pena…\\pEu esperava aprender com você, sendo seu parceiro…"
+ },
+ {
+  "offset": "028A38C",
+  "en": "Yo! Let me tell you who I am!\\nI'm RICH BOY {STR_VAR_1}!",
+  "pt": "E aí! Deixa eu te contar quem eu sou!\\nSou o RIQUINHO {STR_VAR_1}!"
+ },
+ {
+  "offset": "028A3BB",
+  "en": "Guess what I got!\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Adivinha o que eu tenho!\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028A3E0",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pI'm willing to offer you the chance\\nto be in a tag team with me.",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pEstou disposto a te dar a chance de formar uma dupla comigo."
+ },
+ {
+  "offset": "028A431",
+  "en": "Smart move!\\pI'll finish up the registration\\nprocess quick!",
+  "pt": "Escolha inteligente!\\pVou terminar a inscrição rapidinho!"
+ },
+ {
+  "offset": "028A46C",
+  "en": "You'd turn me of all people down?\\nYou'll regret that decision for sure!",
+  "pt": "Você recusaria logo a mim? Com certeza vai se arrepender dessa decisão!"
+ },
+ {
+  "offset": "028A4B4",
+  "en": "Hiyah!\\nI am BLACK BELT {STR_VAR_1}.",
+  "pt": "Hiyah!\\nEu sou o FAIXA-PRETA {STR_VAR_1}."
+ },
+ {
+  "offset": "028A4CF",
+  "en": "As my companions, I have\\none {STR_VAR_2} using {STR_VAR_1}",
+  "pt": "Como companheiros, eu tenho\\num {STR_VAR_2} usando {STR_VAR_1}"
+ },
+ {
+  "offset": "028A4F8",
+  "en": "and one {STR_VAR_2} using\\n{STR_VAR_1}.\\pPlease, grant me my wish!\\nAllow me to be your tag partner!",
+  "pt": "e um {STR_VAR_2} usando\\n{STR_VAR_1}.\\pPor favor, realize o meu desejo! Permita que eu seja seu parceiro de dupla!"
+ },
+ {
+  "offset": "028A548",
+  "en": "Hiyah!\\nI will go register forthwith!",
+  "pt": "Hiyah! Vou fazer a inscrição imediatamente!"
+ },
+ {
+  "offset": "028A56D",
+  "en": "I see… I hope for an opportunity\\nthe next time we meet…",
+  "pt": "Entendo… Espero ter uma oportunidade da próxima vez que nos encontrarmos…"
+ },
+ {
+  "offset": "028A5A5",
+  "en": "Hi, there!\\nI'm {STR_VAR_1}, and I'm a TUBER!",
+  "pt": "Oi!\\nEu sou {STR_VAR_1}, da BOIA!"
+ },
+ {
+  "offset": "028A5C9",
+  "en": "I'll tell you what I have.\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Vou te contar o que eu tenho.\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028A5F7",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\nMay I please be on your tag team?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\nPosso entrar na sua dupla, por favor?"
+ },
+ {
+  "offset": "028A629",
+  "en": "Thank you!\\nI'll go register us now!",
+  "pt": "Obrigada! Vou fazer a nossa inscrição agora!"
+ },
+ {
+  "offset": "028A64D",
+  "en": "If we'd become partners, we could\\nhave been so strong!",
+  "pt": "Se a gente formasse uma dupla, podia ter ficado tão forte!"
+ },
+ {
+  "offset": "028A684",
+  "en": "Greetings…\\nI am HEX MANIAC {STR_VAR_1}…",
+  "pt": "Saudações…\\nEu sou a OCULTISTA {STR_VAR_1}…"
+ },
+ {
+  "offset": "028A6A3",
+  "en": "I bear with me one {STR_VAR_1}-using\\n{STR_VAR_2} together with one",
+  "pt": "Trago comigo um {STR_VAR_2} que usa\\n{STR_VAR_1}, junto com um"
+ },
+ {
+  "offset": "028A6D4",
+  "en": "{STR_VAR_1}-using {STR_VAR_2}…\\pI beseech you…\\nJoin me in a tag team…",
+  "pt": "{STR_VAR_2} que usa {STR_VAR_1}…\\pEu lhe suplico… Junte-se a mim numa dupla…"
+ },
+ {
+  "offset": "028A707",
+  "en": "I thank you…\\nI shall register us…",
+  "pt": "Eu lhe agradeço… Farei a nossa inscrição…"
+ },
+ {
+  "offset": "028A729",
+  "en": "I so longed to join you…",
+  "pt": "Eu desejava tanto me juntar a você…"
+ },
+ {
+  "offset": "028A742",
+  "en": "How do you do? I'm {STR_VAR_1},\\nand I'm a POKéMON BREEDER!",
+  "pt": "Como vai? Eu sou {STR_VAR_1},\\no CRIADOR DE CAPTURAS!"
+ },
+ {
+  "offset": "028A774",
+  "en": "I'm raising a couple good ones!\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Estou criando duas das boas!\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028A7A7",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pHow about it?\\nFeel like making a tag team with me?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pQue tal? Tá a fim de formar uma dupla comigo?"
+ },
+ {
+  "offset": "028A7EA",
+  "en": "Thank you kindly!\\pI'll go take care of the registration\\nstuff, so you wait right here!",
+  "pt": "Muito obrigado!\\pVou cuidar da inscrição, então espere bem aqui!"
+ },
+ {
+  "offset": "028A841",
+  "en": "I was looking forward to being\\nyour partner…",
+  "pt": "Eu estava ansioso para ser seu parceiro…"
+ },
+ {
+  "offset": "028A86E",
+  "en": "Well, hello!\\nI'm TRIATHLETE {STR_VAR_1}!",
+  "pt": "Ora, olá!\\nSou {STR_VAR_1}, TRIATLETA!"
+ },
+ {
+  "offset": "028A88E",
+  "en": "Want to know what I run with?\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Quer saber com quem eu corro?\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028A8BF",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pWell?\\nWant to be in a tag team with me?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pE aí? Quer formar uma dupla comigo?"
+ },
+ {
+  "offset": "028A8F7",
+  "en": "Good going!\\pI'll be quick and get the registration\\nall done!",
+  "pt": "Mandou bem!\\pVou deixar a inscrição prontinha rapidinho!"
+ },
+ {
+  "offset": "028A934",
+  "en": "You and me, we would've been tops.\\nIt's too bad…",
+  "pt": "Você e eu, a gente seria o máximo. É uma pena…"
+ },
+ {
+  "offset": "028A965",
+  "en": "Hey, there! My name's {STR_VAR_1}!\\nI'm a TRIATHLETE!",
+  "pt": "Ei, oi! Meu nome é {STR_VAR_1}!\\nEu sou TRIATLETA!"
+ },
+ {
+  "offset": "028A991",
+  "en": "I go on runs with my durable team--\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Eu corro com o meu time resistente:\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028A9C8",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pNot too shabby, huh?\\nWe should be in a tag team together!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pNada mal, né? A gente devia formar uma dupla!"
+ },
+ {
+  "offset": "028AA12",
+  "en": "All right!\\nI'll go register in a flash!",
+  "pt": "Muito bem! Vou fazer a inscrição num piscar de olhos!"
+ },
+ {
+  "offset": "028AA3A",
+  "en": "I really wanted to battle as your\\ntag-team partner…",
+  "pt": "Eu queria muito batalhar em dupla com você…"
+ },
+ {
+  "offset": "028AA6E",
+  "en": "I'm BATTLE GIRL {STR_VAR_1}!",
+  "pt": "Eu sou a LUTADORA {STR_VAR_1}!"
+ },
+ {
+  "offset": "028AA82",
+  "en": "I've been toughening up one\\n{STR_VAR_1}-using {STR_VAR_2} and",
+  "pt": "Ando deixando mais fortes um\\n{STR_VAR_2} que usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "028AAAE",
+  "en": "one {STR_VAR_1}-using {STR_VAR_2}!\\pDo you like that combo?\\nHow about you and me join up?",
+  "pt": "um {STR_VAR_2} que usa {STR_VAR_1}!\\pGostou dessa combinação? Que tal você e eu nos juntarmos?"
+ },
+ {
+  "offset": "028AAF5",
+  "en": "Why, thanks!\\pI'll get the registration done\\nright now!",
+  "pt": "Ora, valeu!\\pVou fazer a inscrição agora mesmo!"
+ },
+ {
+  "offset": "028AB2C",
+  "en": "With you, I thought we could form\\nthe ultimate tag team…",
+  "pt": "Com você, achei que a gente podia formar a dupla definitiva…"
+ },
+ {
+  "offset": "028AB65",
+  "en": "I'm TRIATHLETE {STR_VAR_1}!",
+  "pt": "Sou {STR_VAR_1}, TRIATLETA!"
+ },
+ {
+  "offset": "028AB78",
+  "en": "I've been running with one {STR_VAR_2}\\nthat knows how to use {STR_VAR_1}",
+  "pt": "Ando correndo com um {STR_VAR_2}\\nque sabe usar {STR_VAR_1}"
+ },
+ {
+  "offset": "028ABAF",
+  "en": "and one {STR_VAR_2} with {STR_VAR_1}!\\pWe could be in a tag team.\\nWouldn't that be great?",
+  "pt": "e um {STR_VAR_2} com {STR_VAR_1}!\\pA gente podia formar uma dupla. Não seria ótimo?"
+ },
+ {
+  "offset": "028ABF6",
+  "en": "Thank you!\\pI'll go register us, and that's\\nright now!",
+  "pt": "Valeu!\\pVou fazer a nossa inscrição, e é agora mesmo!"
+ },
+ {
+  "offset": "028AC2C",
+  "en": "Aww, that's too bad. We would've been\\nthe toughest tag team around!",
+  "pt": "Ah, que pena. A gente seria a dupla mais durona da área!"
+ },
+ {
+  "offset": "028AC70",
+  "en": "Me?\\nI'm TUBER {STR_VAR_1}!",
+  "pt": "Eu?\\nEu sou {STR_VAR_1}, da BOIA!"
+ },
+ {
+  "offset": "028AC82",
+  "en": "What do I have with me?\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "O que eu trouxe comigo?\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028ACAD",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pHey?\\nYou'll team up with me, right?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pEi! Você vai formar dupla comigo, né?"
+ },
+ {
+  "offset": "028ACE1",
+  "en": "Okay!\\pI'll go register!\\nLet's be excellent together!",
+  "pt": "Beleza!\\pVou fazer a inscrição! Vamos ser incríveis juntos!"
+ },
+ {
+  "offset": "028AD16",
+  "en": "My POKéMON are tough for sure…\\nIt's too bad you don't want to team up.",
+  "pt": "Minhas CAPTURAS são fortes, com certeza… Pena que você não quer formar dupla."
+ },
+ {
+  "offset": "028AD5D",
+  "en": "Yay-hey!\\nCall me GUITARIST {STR_VAR_1}!",
+  "pt": "Iê-iê! Pode me chamar de GUITARRISTA {STR_VAR_1}!"
+ },
+ {
+  "offset": "028AD7C",
+  "en": "Check out my entourage!\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Olha só a minha banda!\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028ADA7",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pYay-hey! Pretty wild, huh?\\nWe'll have to do a duet in a tag team!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pIê-iê! Bem radical, né? A gente tem que fazer um dueto numa dupla!"
+ },
+ {
+  "offset": "028ADF9",
+  "en": "Yay-hey! Right on!\\nI'll do that registration stuff now!",
+  "pt": "Iê-iê! Demais! Vou cuidar dessa inscrição agora!"
+ },
+ {
+  "offset": "028AE31",
+  "en": "My POKéMON rock hard!\\nYou'll be sorry, I tell you!",
+  "pt": "Minhas CAPTURAS são puro rock pesado! Você vai se arrepender, tô te falando!"
+ },
+ {
+  "offset": "028AE64",
+  "en": "Pleased to meet you.\\nI am {STR_VAR_1}, a GENTLEMAN.",
+  "pt": "Prazer em conhecê-lo.\\nEu sou {STR_VAR_1}, um CAVALHEIRO."
+ },
+ {
+  "offset": "028AE8F",
+  "en": "I am accompanied by my trusted\\n{STR_VAR_1}-using {STR_VAR_2} and",
+  "pt": "Estou acompanhado do meu confiável\\n{STR_VAR_2} que usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "028AEBE",
+  "en": "one {STR_VAR_1}-using {STR_VAR_2}.\\pMay I ask you to join me in a tag-team\\npartnership arrangement?",
+  "pt": "um {STR_VAR_2} que usa {STR_VAR_1}.\\pPosso lhe pedir que se junte a mim num acordo de parceria em dupla?"
+ },
+ {
+  "offset": "028AF0F",
+  "en": "Ah, I thank you for your trust.\\nI shall be done with the registration.",
+  "pt": "Ah, agradeço a sua confiança. Vou providenciar a inscrição."
+ },
+ {
+  "offset": "028AF56",
+  "en": "That is most unfortunate…\\pI shall look forward to the next\\nopportunity…",
+  "pt": "Isso é muito lamentável…\\pAguardarei com expectativa a próxima oportunidade…"
+ },
+ {
+  "offset": "028AF9E",
+  "en": "Hello, I'm {STR_VAR_1},\\nand I'm a POKéFAN.",
+  "pt": "Olá, eu sou {STR_VAR_1},\\num FÃ DE CAPTURAS."
+ },
+ {
+  "offset": "028AFC0",
+  "en": "I have with me now one {STR_VAR_2}\\nthat knows the move {STR_VAR_1} and",
+  "pt": "Agora eu tenho comigo um {STR_VAR_2}\\nque sabe o golpe {STR_VAR_1} e"
+ },
+ {
+  "offset": "028AFF5",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pDo you like what you see?\\nWhy don't you be my tag partner?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pGostou do que viu? Por que não forma uma dupla comigo?"
+ },
+ {
+  "offset": "028B040",
+  "en": "Thank you!\\nI'll look after the registration!",
+  "pt": "Obrigado! Eu cuido da inscrição!"
+ },
+ {
+  "offset": "028B06D",
+  "en": "My POKéMON are top grade…\\nIt's too bad you can't appreciate that.",
+  "pt": "Minhas CAPTURAS são de primeira… Pena que você não sabe dar valor a isso."
+ },
+ {
+  "offset": "028B0AF",
+  "en": "Hm!\\nI am {STR_VAR_1}, and an EXPERT am I!",
+  "pt": "Hm!\\nEu sou {STR_VAR_1}, e ESPECIALISTA eu sou!"
+ },
+ {
+  "offset": "028B0D0",
+  "en": "The POKéMON that I've toughened up are\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "As CAPTURAS que treinei pesado são\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B10A",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pWhat say you to a tag team with me?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pO que me diz de uma dupla comigo?"
+ },
+ {
+  "offset": "028B13E",
+  "en": "Hm!\\nI shall register us right away!\\lLet us both do our best!",
+  "pt": "Hm! Farei a nossa inscrição agora mesmo! Vamos dar o nosso melhor!"
+ },
+ {
+  "offset": "028B17B",
+  "en": "I will hope that your choice is\\nindeed correct…",
+  "pt": "Espero que a sua escolha esteja mesmo certa…"
+ },
+ {
+  "offset": "028B1AB",
+  "en": "Hello, hello.\\nI'm {STR_VAR_1}, and I'm an EXPERT.",
+  "pt": "Olá, olá.\\nEu sou {STR_VAR_1}, ESPECIALISTA."
+ },
+ {
+  "offset": "028B1D4",
+  "en": "I've raised my POKéMON thoroughly.\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Criei minhas CAPTURAS com capricho.\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B20A",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}--\\nthey're what I have.\\pWouldn't you like to team up with me?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}:\\né o que eu tenho.\\pVocê não gostaria de formar dupla comigo?"
+ },
+ {
+  "offset": "028B256",
+  "en": "Good, good.\\nI'll see to the registration right away.",
+  "pt": "Muito bem, muito bem. Vou cuidar da inscrição agora mesmo."
+ },
+ {
+  "offset": "028B28B",
+  "en": "Perhaps we can form a team the next\\ntime we meet.",
+  "pt": "Talvez a gente possa formar uma dupla da próxima vez que nos encontrarmos."
+ },
+ {
+  "offset": "028B2BD",
+  "en": "I'm DRAGON TAMER {STR_VAR_1}!",
+  "pt": "Eu sou o DOMADOR DE DRAGÕES {STR_VAR_1}!"
+ },
+ {
+  "offset": "028B2D2",
+  "en": "The team I've been toughening up is\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "O time que ando fortalecendo tem\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B309",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pHow about it?\\nWant to be my partner?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pQue tal? Quer ser meu parceiro?"
+ },
+ {
+  "offset": "028B33E",
+  "en": "Okay, I'll give it my best!\\nI'll go register now, all right?",
+  "pt": "Beleza, vou dar o meu melhor! Vou fazer a inscrição agora, tá bom?"
+ },
+ {
+  "offset": "028B37B",
+  "en": "You're not going to find many tougher\\npartners than me!",
+  "pt": "Você não vai achar muitos parceiros mais fortes do que eu!"
+ },
+ {
+  "offset": "028B3B3",
+  "en": "I'm BIRD KEEPER {STR_VAR_1}!",
+  "pt": "Eu sou o CRIADOR DE AVES {STR_VAR_1}!"
+ },
+ {
+  "offset": "028B3C7",
+  "en": "What POKéMON do I have?\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Que CAPTURAS eu tenho?\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B3F2",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pDon't you think we'd make a decent\\ntag team?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pVocê não acha que a gente formaria uma dupla decente?"
+ },
+ {
+  "offset": "028B42F",
+  "en": "Great, thanks!\\nI'll look after the registration!",
+  "pt": "Ótimo, valeu! Eu cuido da inscrição!"
+ },
+ {
+  "offset": "028B460",
+  "en": "My POKéMON and I are strong.\\nWhat a letdown.",
+  "pt": "Minhas CAPTURAS e eu somos fortes. Que decepção."
+ },
+ {
+  "offset": "028B48D",
+  "en": "I'm NINJA BOY {STR_VAR_1}!",
+  "pt": "Eu sou o GAROTO NINJA {STR_VAR_1}!"
+ },
+ {
+  "offset": "028B49F",
+  "en": "My POKéMON team consists of one\\n{STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Meu time de CAPTURAS tem um\\n{STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B4CE",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pLet's be in a tag team together!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pVamos formar uma dupla!"
+ },
+ {
+  "offset": "028B4FF",
+  "en": "Yay!\\nLet me go register!",
+  "pt": "Oba!\\nDeixa eu ir fazer a inscrição!"
+ },
+ {
+  "offset": "028B518",
+  "en": "You'll regret not having my tough\\nPOKéMON on your side!",
+  "pt": "Você vai se arrepender de não ter as minhas CAPTURAS fortes do seu lado!"
+ },
+ {
+  "offset": "028B550",
+  "en": "Hello!\\nI'm PARASOL LADY {STR_VAR_1}!",
+  "pt": "Olá!\\nEu sou a DAMA DA SOMBRINHA {STR_VAR_1}!"
+ },
+ {
+  "offset": "028B56C",
+  "en": "Escorting me now are my {STR_VAR_2}\\nthat uses {STR_VAR_1} and",
+  "pt": "Me acompanham agora o meu {STR_VAR_2}\\nque usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B598",
+  "en": "one {STR_VAR_2} that uses\\n{STR_VAR_1}.\\pAren't they nice?\\nCare to join us in a tag team?",
+  "pt": "um {STR_VAR_2} que usa\\n{STR_VAR_1}.\\pNão são uma graça? Quer se juntar a nós numa dupla?"
+ },
+ {
+  "offset": "028B5DE",
+  "en": "Thanks a bunch!\\pI'll go register at the counter.\\nLet's not disappoint each other!",
+  "pt": "Muito obrigada!\\pVou fazer a inscrição no balcão. Não vamos decepcionar um ao outro!"
+ },
+ {
+  "offset": "028B630",
+  "en": "My POKéMON are tremendously strong.\\nHow disappointing…",
+  "pt": "Minhas CAPTURAS são fortíssimas. Que decepção…"
+ },
+ {
+  "offset": "028B667",
+  "en": "Hello.\\nI'm {STR_VAR_1}, and I'm a BUG MANIAC!",
+  "pt": "Olá.\\nEu sou {STR_VAR_1}, MANÍACO POR INSETOS!"
+ },
+ {
+  "offset": "028B68C",
+  "en": "I have found my POKéMON, yes.\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Encontrei minhas CAPTURAS, sim.\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B6BD",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}--\\nthey are what I found.\\pCould I interest you in forming\\na tag team?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}:\\nfoi isso que eu encontrei.\\pPosso te convencer a formar uma dupla?"
+ },
+ {
+  "offset": "028B711",
+  "en": "Okay!\\nUnderstood!\\pI won't be long with the registration!",
+  "pt": "Beleza! Entendido!\\pNão vou demorar com a inscrição!"
+ },
+ {
+  "offset": "028B74A",
+  "en": "With the POKéMON I found, we wouldn't\\nhave lost…",
+  "pt": "Com as CAPTURAS que eu encontrei, a gente não teria perdido…"
+ },
+ {
+  "offset": "028B77B",
+  "en": "Ahoy, there!\\nI'm SAILOR {STR_VAR_1}!",
+  "pt": "Ahoy!\\nEu sou o MARUJO {STR_VAR_1}!"
+ },
+ {
+  "offset": "028B797",
+  "en": "Let me show you my pride and joy!\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Deixa eu te mostrar o meu orgulho!\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B7CC",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pOf course you're not going to turn\\nme down. We will team up, right?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pÉ claro que você não vai me recusar. Vamos formar dupla, certo?"
+ },
+ {
+  "offset": "028B820",
+  "en": "I didn't expect any less!\\nI'll go register now.",
+  "pt": "Eu não esperava menos! Vou fazer a inscrição agora."
+ },
+ {
+  "offset": "028B850",
+  "en": "We would've stormed through\\nthe opposition! Too bad!",
+  "pt": "A gente ia passar por cima dos adversários! Que pena!"
+ },
+ {
+  "offset": "028B885",
+  "en": "Hi, I'm {STR_VAR_1}.\\nI'm a COLLECTOR.",
+  "pt": "Oi, eu sou {STR_VAR_1}.\\nSou COLECIONADOR."
+ },
+ {
+  "offset": "028B8A2",
+  "en": "The jewels in my collection are\\nmy {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "As joias da minha coleção são\\nmeu {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B8D4",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pSwell, huh?\\nWe should be in a team together.",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pDemais, né? A gente devia formar um time juntos."
+ },
+ {
+  "offset": "028B911",
+  "en": "Oh, yeah!\\pWell, let's not waste any time.\\nI'll go register the two of us.",
+  "pt": "Ah, é isso aí!\\pBom, não vamos perder tempo. Vou fazer a inscrição de nós dois."
+ },
+ {
+  "offset": "028B95B",
+  "en": "Well, that's upsetting.\\nYou don't appreciate my POKéMON.",
+  "pt": "Bom, isso é chato. Você não dá valor às minhas CAPTURAS."
+ },
+ {
+  "offset": "028B994",
+  "en": "Howdy, I'm {STR_VAR_1}.\\nI'm a POKéMON RANGER.",
+  "pt": "Opa, eu sou {STR_VAR_1}.\\nSou PATRULHEIRO CAPTURA."
+ },
+ {
+  "offset": "028B9B9",
+  "en": "Keeping me company are one\\n{STR_VAR_1}-using {STR_VAR_2} and",
+  "pt": "Me fazem companhia um\\n{STR_VAR_2} que usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "028B9E4",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pDon't you think we'd make an impressive\\ntag team?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pVocê não acha que a gente formaria uma dupla impressionante?"
+ },
+ {
+  "offset": "028BA26",
+  "en": "That's super!\\nI'll deal with the registration now.",
+  "pt": "Que demais! Vou cuidar da inscrição agora."
+ },
+ {
+  "offset": "028BA59",
+  "en": "Next time, choose my POKéMON,\\nwill you?",
+  "pt": "Da próxima vez, escolha as minhas CAPTURAS, tá?"
+ },
+ {
+  "offset": "028BA81",
+  "en": "My name's {STR_VAR_1}.\\nI'm a POKéMON RANGER!",
+  "pt": "Meu nome é {STR_VAR_1}.\\nSou PATRULHEIRA CAPTURA!"
+ },
+ {
+  "offset": "028BAA5",
+  "en": "Let me tell you about my team. I have\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Vou te contar sobre o meu time. Tenho\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028BADE",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pHow would you like to form a tag team\\nwith my little posse?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pO que acha de formar uma dupla com a minha turminha?"
+ },
+ {
+  "offset": "028BB2A",
+  "en": "We'll be at our best!\\nI'll get the registration done quick!",
+  "pt": "A gente vai dar o nosso melhor! Vou fazer a inscrição rapidinho!"
+ },
+ {
+  "offset": "028BB66",
+  "en": "I hope you'll choose my POKéMON\\nnext time.",
+  "pt": "Espero que você escolha as minhas CAPTURAS da próxima vez."
+ },
+ {
+  "offset": "028BB91",
+  "en": "Pleased to meet you. I'm {STR_VAR_1}.\\nI consider myself an AROMA LADY.",
+  "pt": "Prazer em conhecê-lo. Sou {STR_VAR_1}.\\nEu me considero uma DAMA DOS AROMAS."
+ },
+ {
+  "offset": "028BBCF",
+  "en": "I travel with one {STR_VAR_2}\\nthat uses {STR_VAR_1} and",
+  "pt": "Eu viajo com um {STR_VAR_2}\\nque usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "028BBF5",
+  "en": "one {STR_VAR_2} that uses\\n{STR_VAR_1}.\\pI hope they strike your fancy.\\nWould you care to be my partner?",
+  "pt": "um {STR_VAR_2} que usa\\n{STR_VAR_1}.\\pEspero que sejam do seu agrado. Gostaria de ser meu parceiro?"
+ },
+ {
+  "offset": "028BC4A",
+  "en": "I'm honored by your acceptance.\\nI will go register right this instant.",
+  "pt": "Fico honrada por você aceitar. Vou fazer a inscrição neste instante."
+ },
+ {
+  "offset": "028BC91",
+  "en": "It would be wonderful if we could form\\na tag team the next time we meet.",
+  "pt": "Seria maravilhoso se pudéssemos formar uma dupla da próxima vez que nos encontrarmos."
+ },
+ {
+  "offset": "028BCDA",
+  "en": "Want to know who I am?\\nI'm {STR_VAR_1}, the RUIN MANIAC!",
+  "pt": "Quer saber quem eu sou?\\nSou {STR_VAR_1}, o MANÍACO POR RUÍNAS!"
+ },
+ {
+  "offset": "028BD0A",
+  "en": "The POKéMON that I have with me are\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "As CAPTURAS que eu trouxe comigo são\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028BD41",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pIntriguing, eh?\\nHow about you and I partner up?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pIntrigante, né? Que tal você e eu formarmos uma parceria?"
+ },
+ {
+  "offset": "028BD81",
+  "en": "That's a sound decision!\\nI'll go do the registration paperwork.",
+  "pt": "Decisão sensata! Vou cuidar da papelada da inscrição."
+ },
+ {
+  "offset": "028BDC1",
+  "en": "Hmm…\\nI think my POKéMON are tough…",
+  "pt": "Hmm… Eu acho que minhas CAPTURAS são fortes…"
+ },
+ {
+  "offset": "028BDE4",
+  "en": "I'm COOLTRAINER {STR_VAR_1}!",
+  "pt": "Eu sou o TREINADOR ÁS {STR_VAR_1}!"
+ },
+ {
+  "offset": "028BDF8",
+  "en": "The POKéMON I have right now are one\\n{STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "As CAPTURAS que tenho agora são um\\n{STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028BE2C",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\nCool, huh?\\pDon't you think it'd be pretty cool\\nif we made a tag team?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\nManeiro, né?\\pNão acha que seria bem maneiro se a gente formasse uma dupla?"
+ },
+ {
+  "offset": "028BE82",
+  "en": "Cool!\\nI'll go do the registration in a flash!",
+  "pt": "Maneiro! Vou fazer a inscrição num piscar de olhos!"
+ },
+ {
+  "offset": "028BEB0",
+  "en": "I thought that we'd make just\\nthe greatest team ever.",
+  "pt": "Eu achei que a gente seria simplesmente o melhor time de todos."
+ },
+ {
+  "offset": "028BEE6",
+  "en": "I'm COOLTRAINER {STR_VAR_1}!",
+  "pt": "Eu sou o TREINADOR ÁS {STR_VAR_1}!"
+ },
+ {
+  "offset": "028BEFA",
+  "en": "The team I've been raising has one\\n{STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "O time que ando criando tem um\\n{STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028BF2C",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pDoes that sound okay?\\nHow about we become tag partners?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pParece bom? Que tal virarmos parceiros de dupla?"
+ },
+ {
+  "offset": "028BF74",
+  "en": "Sounds A-OK!\\nI'd better do the registration.",
+  "pt": "Tudo certo! É melhor eu ir fazer a inscrição."
+ },
+ {
+  "offset": "028BFA1",
+  "en": "I was thinking how we would be\\none tough team…",
+  "pt": "Eu estava pensando no time forte que a gente seria…"
+ },
+ {
+  "offset": "028BFD0",
+  "en": "Heyo!\\nI'm {STR_VAR_1}, the POKéMANIAC!",
+  "pt": "Opa!\\nEu sou {STR_VAR_1}, o CAPTURAMANÍACO!"
+ },
+ {
+  "offset": "028BFEE",
+  "en": "What does a guy like me have?\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "O que um cara como eu tem?\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028C01F",
+  "en": "one {STR_VAR_2} with {STR_VAR_1},\\nthat's what!\\pLet's do it!\\nWe'll stomp around as a tag team!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1},\\né isso!\\pVamos nessa! A gente vai arrasar como dupla!"
+ },
+ {
+  "offset": "028C06B",
+  "en": "Good call!\\nI'll register the both of us!",
+  "pt": "Boa escolha! Vou fazer a inscrição de nós dois!"
+ },
+ {
+  "offset": "028C094",
+  "en": "My POKéMON are brutal!\\nIt's not my fault if you regret this!",
+  "pt": "Minhas CAPTURAS são brutais! Não é culpa minha se você se arrepender!"
+ },
+ {
+  "offset": "028C0D1",
+  "en": "Yo, there!\\nI'm KINDLER {STR_VAR_1}!",
+  "pt": "E aí!\\nEu sou o FOGUISTA {STR_VAR_1}!"
+ },
+ {
+  "offset": "028C0EC",
+  "en": "You know what my training cooked up?\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Sabe o que o meu treino cozinhou?\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028C124",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pWell, what do you say?\\nWant to form a tag team?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pE aí, o que me diz? Quer formar uma dupla?"
+ },
+ {
+  "offset": "028C164",
+  "en": "All right!\\nI'll get on with the registration.",
+  "pt": "Muito bem! Vou cuidar da inscrição."
+ },
+ {
+  "offset": "028C192",
+  "en": "Promise you'll partner up with me\\nthe next time we run into each other.",
+  "pt": "Promete que vai formar dupla comigo da próxima vez que a gente se esbarrar."
+ },
+ {
+  "offset": "028C1DA",
+  "en": "I'm {STR_VAR_1}, and I'm a CAMPER!",
+  "pt": "Eu sou {STR_VAR_1}, e sou CAMPISTA!"
+ },
+ {
+  "offset": "028C1F4",
+  "en": "I've been raising one {STR_VAR_1}-\\nusing {STR_VAR_2} and one",
+  "pt": "Ando criando um {STR_VAR_2} que\\nusa {STR_VAR_1} e um"
+ },
+ {
+  "offset": "028C21F",
+  "en": "{STR_VAR_1}-using {STR_VAR_2}.\\pDo you think it'd be fun to team up?\\nI bet it would be!",
+  "pt": "{STR_VAR_2} que usa {STR_VAR_1}.\\pVocê acha que seria divertido formar uma dupla? Aposto que seria!"
+ },
+ {
+  "offset": "028C264",
+  "en": "Yeah!\\nOff I go to register!",
+  "pt": "Isso aí! Lá vou eu fazer a inscrição!"
+ },
+ {
+  "offset": "028C280",
+  "en": "Next time, okay?\\nI want to be on your team.",
+  "pt": "Na próxima vez, tá bom? Eu quero estar no seu time."
+ },
+ {
+  "offset": "028C2AC",
+  "en": "Hello!\\nI'm {STR_VAR_1}, and I'm a PICNICKER!",
+  "pt": "Olá!\\nEu sou {STR_VAR_1}, e sou EXCURSIONISTA!"
+ },
+ {
+  "offset": "028C2D0",
+  "en": "The POKéMON I've been taking are\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "As CAPTURAS que ando levando são\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028C304",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pAre you interested in joining me\\non a tag team?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pVocê tem interesse em formar uma dupla comigo?"
+ },
+ {
+  "offset": "028C344",
+  "en": "Why, thank you!\\nI will do the registration now.",
+  "pt": "Ora, obrigada! Vou fazer a inscrição agora."
+ },
+ {
+  "offset": "028C374",
+  "en": "It would be nice if I could join you\\nsome other time.",
+  "pt": "Seria legal se eu pudesse me juntar a você outra hora."
+ },
+ {
+  "offset": "028C3AA",
+  "en": "I'm PSYCHIC {STR_VAR_1}!",
+  "pt": "Eu sou o MÉDIUM {STR_VAR_1}!"
+ },
+ {
+  "offset": "028C3BA",
+  "en": "The twosome I've been raising are\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "A dupla que ando criando é\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028C3EF",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pWould you like to form a tag team\\nwith me?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pVocê gostaria de formar uma dupla comigo?"
+ },
+ {
+  "offset": "028C42A",
+  "en": "Sure thing!\\nI'll take care of the registration!",
+  "pt": "Claro! Eu cuido da inscrição!"
+ },
+ {
+  "offset": "028C45A",
+  "en": "If we meet again, that's when I'd like\\nto team up with you.",
+  "pt": "Se a gente se encontrar de novo, aí eu vou querer formar dupla com você."
+ },
+ {
+  "offset": "028C496",
+  "en": "I'm {STR_VAR_1}.\\nI'm a PSYCHIC.",
+  "pt": "Eu sou {STR_VAR_1}.\\nSou MÉDIUM."
+ },
+ {
+  "offset": "028C4AD",
+  "en": "One {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Um {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028C4C0",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}--\\nthey're my disciples.\\pDoesn't the idea of forming a tag-team\\npartnership intrigue you?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}:\\nsão os meus discípulos.\\pA ideia de formar uma parceria em dupla não te intriga?"
+ },
+ {
+  "offset": "028C528",
+  "en": "Thank you.\\nI'll go deal with the registration.",
+  "pt": "Obrigada. Vou cuidar da inscrição."
+ },
+ {
+  "offset": "028C557",
+  "en": "I hope there will be another chance\\nto forge an alliance.",
+  "pt": "Espero que haja outra chance de firmarmos uma aliança."
+ },
+ {
+  "offset": "028C591",
+  "en": "I'm SCHOOL KID {STR_VAR_1}!",
+  "pt": "Eu sou a ESTUDANTE {STR_VAR_1}!"
+ },
+ {
+  "offset": "028C5A4",
+  "en": "One {STR_VAR_1}-using {STR_VAR_2}",
+  "pt": "Um {STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "028C5B4",
+  "en": "and one {STR_VAR_1}-using\\n{STR_VAR_2} are my POKéMON pair.\\pMay I please be your partner on\\na tag team?",
+  "pt": "e um {STR_VAR_2} que usa\\n{STR_VAR_1} são a minha dupla de CAPTURAS.\\pPosso ser sua parceira numa dupla, por favor?"
+ },
+ {
+  "offset": "028C609",
+  "en": "Ooh, thank you!\\nI'll register at the counter right away!",
+  "pt": "Ah, obrigada! Vou fazer a inscrição no balcão agora mesmo!"
+ },
+ {
+  "offset": "028C642",
+  "en": "Please?\\nMay I join you the next time?",
+  "pt": "Por favor? Posso me juntar a você da próxima vez?"
+ },
+ {
+  "offset": "028C668",
+  "en": "Hiya! The name's {STR_VAR_1}!\\nI'm a POKéMON BREEDER!",
+  "pt": "Oi! Meu nome é {STR_VAR_1}!\\nSou CRIADORA DE CAPTURAS!"
+ },
+ {
+  "offset": "028C694",
+  "en": "The POKéMON I've raised are one\\n{STR_VAR_1}-using {STR_VAR_2} and",
+  "pt": "As CAPTURAS que criei são um\\n{STR_VAR_2} que usa {STR_VAR_1} e"
+ },
+ {
+  "offset": "028C6C4",
+  "en": "one {STR_VAR_1}-using {STR_VAR_2}.\\pSound interesting?\\nHow about we form a tag team, then?",
+  "pt": "um {STR_VAR_2} que usa {STR_VAR_1}.\\pParece interessante? Então, que tal formarmos uma dupla?"
+ }
+]

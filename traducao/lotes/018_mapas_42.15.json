@@ -1,0 +1,1496 @@
+[
+ {
+  "map": "42.15 NEW DONK CITY",
+  "offset": "0287FD7",
+  "en": "{PLAYER}, you have not found a partner\\nfor your tag team.\\pWould you like to quit looking and\\nreturn to the reception counter?",
+  "pt": "{PLAYER}, você ainda não encontrou um parceiro para a sua dupla.\\pQuer parar de procurar e voltar ao balcão da recepção?"
+ },
+ {
+  "map": "42.15 NEW DONK CITY",
+  "offset": "028804F",
+  "en": "Then, please find a partner from\\nthe TRAINERS gathered here.",
+  "pt": "Então, por favor, encontre um parceiro entre os TREINADORES reunidos aqui."
+ },
+ {
+  "map": "42.15 NEW DONK CITY",
+  "offset": "028808C",
+  "en": "Thank you for choosing a partner.\\pI will now show you to your\\nMULTI BATTLE ROOM.",
+  "pt": "Obrigado por escolher um parceiro.\\pAgora vou te levar à sua SALA DE BATALHA MÚLTIPLA."
+ },
+ {
+  "map": "42.16 NEW DONK CITY",
+  "offset": "02A3903",
+  "en": "correct?",
+  "pt": ""
+ },
+ {
+  "map": "42.17 NEW DONK CITY",
+  "offset": "028D4BB",
+  "en": "The 3rd set of opponents is next.\\nAre you ready?",
+  "pt": "Agora vem o 3º grupo de oponentes. Está pronto?"
+ },
+ {
+  "map": "42.17 NEW DONK CITY",
+  "offset": "028D4EC",
+  "en": "The 4th set of opponents is next.\\nAre you ready?",
+  "pt": "Agora vem o 4º grupo de oponentes. Está pronto?"
+ },
+ {
+  "map": "42.17 NEW DONK CITY",
+  "offset": "028D51D",
+  "en": "The 5th set of opponents is next.\\nAre you ready?",
+  "pt": "Agora vem o 5º grupo de oponentes. Está pronto?"
+ },
+ {
+  "map": "42.17 NEW DONK CITY",
+  "offset": "028D54E",
+  "en": "The 6th set of opponents is next.\\nAre you ready?",
+  "pt": "Agora vem o 6º grupo de oponentes. Está pronto?"
+ },
+ {
+  "map": "42.17 NEW DONK CITY",
+  "offset": "028D57F",
+  "en": "The 7th set of opponents is next.\\nAre you ready?",
+  "pt": "Agora vem o 7º grupo de oponentes. Está pronto?"
+ },
+ {
+  "map": "42.17 NEW DONK CITY",
+  "offset": "028D6D0",
+  "en": "Link standby…",
+  "pt": "Aguardando conexão…"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028DE7D",
+  "en": "Would you like to challenge\\nthe SINGLE BATTLE Tournament?",
+  "pt": "Gostaria de encarar o Torneio de BATALHA INDIVIDUAL?"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028DEB7",
+  "en": "We hope to see you again.",
+  "pt": "Esperamos ver você de novo."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028DED1",
+  "en": "The SINGLE BATTLE Tournament\\nis exactly as the name suggests--\\la tournament of SINGLE BATTLES.\\pAll participating TRAINERS must\\nenter three POKéMON each.\\pIn each battle, one of the three\\nPOKéMON must be held in reserve.\\pThe other two POKéMON can battle\\none at a time.\\pChoose the two battling POKéMON after\\nexamining the opponent's trio.\\pYou win the tournament by defeating\\nfour TRAINERS.\\pBattle Points are awarded to\\nthe tournament winner.\\pIf you want to interrupt your\\ntournament, please save the game.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "O Torneio de BATALHA INDIVIDUAL é exatamente o que o nome diz: um torneio de BATALHAS INDIVIDUAIS.\\pTodos os TREINADORES participantes devem inscrever três CAPTURAS cada.\\pEm cada batalha, uma das três CAPTURAS deve ficar na reserva.\\pAs outras duas CAPTURAS batalham uma de cada vez.\\pEscolha as duas CAPTURAS que vão batalhar depois de examinar o trio do oponente.\\pVocê vence o torneio derrotando quatro TREINADORES.\\pO vencedor do torneio recebe Pontos de Batalha.\\pSe quiser interromper o seu torneio, salve o jogo, por favor.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E109",
+  "en": "Before I show you to the BATTLE DOME,\\nI must save the data. Is that okay?",
+  "pt": "Antes de te levar ao DOMO DE BATALHA, preciso salvar os dados. Tudo bem?"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E153",
+  "en": "The tournament offers two levels\\nof challenge, Level 50 and Open Level.\\lWhich is your choice?",
+  "pt": "O torneio oferece dois níveis de desafio: Nível 50 e Nível Livre. Qual você escolhe?"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E1B1",
+  "en": "Now select the three POKéMON that\\nyou wish to enter, please.",
+  "pt": "Agora escolha as três CAPTURAS que você quer inscrever, por favor."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E1EE",
+  "en": "Excuse me!\\pYou don't have three eligible POKéMON.\\pAlso, the POKéMON must be holding\\ndifferent kinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pPlease come see me when you are ready.",
+  "pt": "Com licença!\\pVocê não tem três CAPTURAS que possam participar.\\pAlém disso, as CAPTURAS precisam estar segurando itens diferentes.\\pOVOS{STR_VAR_1} proibidos.\\pVenha falar comigo quando estiver pronto."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E296",
+  "en": "Excuse me!\\pYou don't have three eligible POKéMON.\\pYou must have three different POKéMON\\nof Level 50 or less to enter.\\pThey also must be holding different\\nkinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pPlease come see me when you are ready.",
+  "pt": "Com licença!\\pVocê não tem três CAPTURAS que possam participar.\\pPara participar, você precisa de três CAPTURAS diferentes de Nível 50 ou menos.\\pElas também precisam estar segurando itens diferentes.\\pOVOS{STR_VAR_1} proibidos.\\pVenha falar comigo quando estiver pronto."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E37A",
+  "en": "I will now show you to\\nthe BATTLE DOME.",
+  "pt": "Agora vou te levar ao DOMO DE BATALHA."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E3A2",
+  "en": "Excuse me!\\pYou didn't save before you quit your\\nchallenge last time.\\pBecause of that, your challenge so far\\nhas been disqualified. Sorry!",
+  "pt": "Com licença!\\pVocê não salvou antes de abandonar o seu desafio da última vez.\\pPor causa disso, o seu desafio até aqui foi desclassificado. Desculpe!"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E42C",
+  "en": "Congratulations for winning\\nyour Battle Tournament!",
+  "pt": "Parabéns por vencer o seu Torneio de Batalha!"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E502",
+  "en": "Thank you for playing!",
+  "pt": "Obrigado por jogar!"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E519",
+  "en": "Your record will be saved.\\nPlease wait.",
+  "pt": "O seu recorde será salvo. Aguarde, por favor."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E541",
+  "en": "We've been waiting for you!",
+  "pt": "Estávamos esperando por você!"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E55D",
+  "en": "Before I show you to the BATTLE DOME,\\nI must save the data. Is that okay?",
+  "pt": "Antes de te levar ao DOMO DE BATALHA, preciso salvar os dados. Tudo bem?"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E5A7",
+  "en": "Where the strategies of TRAINERS\\nare put to the test!\\pWelcome to the BATTLE DOME!\\pI am your guide to the DOUBLE BATTLE\\nTournament.",
+  "pt": "Onde as estratégias dos TREINADORES são postas à prova!\\pBem-vindo ao DOMO DE BATALHA!\\pEu sou o seu guia no Torneio de BATALHA DUPLA."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E62A",
+  "en": "Would you like to challenge\\nthe DOUBLE BATTLE Tournament?",
+  "pt": "Gostaria de encarar o Torneio de BATALHA DUPLA?"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E664",
+  "en": "The DOUBLE BATTLE Tournament\\nis exactly as the name suggests--\\la tournament of DOUBLE BATTLES.\\pAll participating TRAINERS must\\nenter three POKéMON each.\\pIn each battle, one of the three\\nPOKéMON must be held in reserve.\\pThe remaining two POKéMON must take\\npart in a DOUBLE BATTLE.\\pChoose the two battling POKéMON after\\nexamining the opponent's trio.\\pYou win the tournament by defeating\\nfour TRAINERS.\\pBattle Points are awarded to\\nthe tournament winner.\\pIf you want to interrupt your\\ntournament, please save the game.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "O Torneio de BATALHA DUPLA é exatamente o que o nome diz: um torneio de BATALHAS DUPLAS.\\pTodos os TREINADORES participantes devem inscrever três CAPTURAS cada.\\pEm cada batalha, uma das três CAPTURAS deve ficar na reserva.\\pAs outras duas CAPTURAS participam de uma BATALHA DUPLA.\\pEscolha as duas CAPTURAS que vão batalhar depois de examinar o trio do oponente.\\pVocê vence o torneio derrotando quatro TREINADORES.\\pO vencedor do torneio recebe Pontos de Batalha.\\pSe quiser interromper o seu torneio, salve o jogo, por favor.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E8A9",
+  "en": "They're the results of the last\\nLevel 50 SINGLE BATTLE Tournament.",
+  "pt": "Estes são os resultados do último Torneio de BATALHA INDIVIDUAL de Nível 50."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E8EC",
+  "en": "They're the results of the last\\nLevel 50 DOUBLE BATTLE Tournament.",
+  "pt": "Estes são os resultados do último Torneio de BATALHA DUPLA de Nível 50."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E92F",
+  "en": "They're the results of the last\\nOpen Level SINGLE BATTLE Tournament.",
+  "pt": "Estes são os resultados do último Torneio de BATALHA INDIVIDUAL de Nível Livre."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E974",
+  "en": "They're the results of the last\\nOpen Level DOUBLE BATTLE Tournament.",
+  "pt": "Estes são os resultados do último Torneio de BATALHA DUPLA de Nível Livre."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028E9B9",
+  "en": "Did you see it?\\nThe last Battle Tournament?\\pThe winner, {STR_VAR_1}, was seriously\\ntough.\\pYou should check out the results\\non the monitor beside the PC.",
+  "pt": "Você viu? O último Torneio de Batalha?\\pO vencedor, {STR_VAR_1}, era muito forte, sério.\\pDá uma olhada nos resultados no monitor ao lado do PC."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EA49",
+  "en": "The BATTLE FRONTIER…\\nI've long dreamed about a place like it.",
+  "pt": "A FRONTEIRA DE BATALHA… Faz tempo que eu sonho com um lugar assim."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EA87",
+  "en": "The BATTLE DOME\\nBecome the Unbeatable Superstar!",
+  "pt": "DOMO DE BATALHA\\nTorne-se a Superestrela Imbatível!"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EAB8",
+  "en": "The ??????\\nUnder Construction!",
+  "pt": "??????\\nEm construção!"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EAD7",
+  "en": "When a TRAINER chains tournament\\nwins at the BATTLE DOME, he or she\\lgains a reputation as a star.\\pTough TRAINERS are drawn by that\\nreputation to the BATTLE DOME.\\pA true superstar is a TRAINER who\\ncan keep winning tournaments.",
+  "pt": "Quando um TREINADOR emenda vitórias seguidas em torneios no DOMO DE BATALHA, ganha fama de estrela.\\pEssa fama atrai TREINADORES fortes para o DOMO DE BATALHA.\\pUma verdadeira superestrela é quem consegue continuar vencendo torneios."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EBB9",
+  "en": "I ran into one of the tournament\\nfavorites in the very first round.\\pOf course I got trashed…",
+  "pt": "Dei de cara com um dos favoritos do torneio logo na primeira rodada.\\pClaro que eu levei uma surra…"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EC16",
+  "en": "I would've won if I'd kept this POKéMON\\nheld in reserve.\\pYou need to check your opponent's\\nPOKéMON carefully before choosing\\lyour battling POKéMON.",
+  "pt": "Eu teria vencido se tivesse deixado esta CAPTURA na reserva.\\pVocê precisa examinar bem as CAPTURAS do oponente antes de escolher as suas para a batalha."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028ECAA",
+  "en": "Congratulations!\\pYou defeated the DOME ACE and won\\nthe Battle Tournament!",
+  "pt": "Parabéns!\\pVocê derrotou o ÁS DO DOMO e venceu o Torneio de Batalha!"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028ECF4",
+  "en": "In recognition of your strategy--\\na thing of beauty it was, too--\\lwe award you these Battle Point(s)!",
+  "pt": "Em reconhecimento à sua estratégia, que foi uma beleza, diga-se de passagem, entregamos a você estes Ponto(s) de Batalha!"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028ED5A",
+  "en": "Would you like to record your\\nlast BATTLE DOME match on your\\lFRONTIER PASS?",
+  "pt": "Gostaria de gravar a sua última partida do DOMO DE BATALHA no seu PASSE DA FRONTEIRA?"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EDA6",
+  "en": "The Battle Tournament rules\\nare listed.",
+  "pt": "Estas são as regras do Torneio de Batalha."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EDCE",
+  "en": "Which heading do you want to read?",
+  "pt": "Qual tópico você quer ler?"
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EDF1",
+  "en": "The tournament matchups are drawn up\\nbased on the toughness of POKéMON\\lheld by TRAINERS.\\pThe matchups avoid having tough\\nTRAINERS face each other right away.",
+  "pt": "Os confrontos do torneio são definidos com base na força das CAPTURAS dos TREINADORES.\\pOs confrontos evitam que TREINADORES fortes se enfrentem logo de cara."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EE8F",
+  "en": "The tournament chart, or as we call it,\\nthe “Tree,” is available for viewing\\lin the Waiting Room from any guide.\\pThe Tournament Tree will provide\\nseveral kinds of data.\\pThe data on view includes the previous\\ntournament's results, the POKéMON held\\lby TRAINERS, and the battle styles of\\lTRAINERS.",
+  "pt": "A tabela do torneio, ou, como a chamamos, a “Árvore”, pode ser vista na Sala de Espera com qualquer guia.\\pA Árvore do Torneio mostra vários tipos de dados.\\pEntre os dados disponíveis estão os resultados do torneio anterior, as CAPTURAS dos TREINADORES e o estilo de batalha de cada TREINADOR."
+ },
+ {
+  "map": "42.18 NEW DONK CITY",
+  "offset": "028EFB6",
+  "en": "If battling POKéMON faint at the same\\ntime--a double KO--in a tournament\\lmatch, the REFEREES will review\\lthe match and declare the winner.",
+  "pt": "Se as CAPTURAS em batalha desmaiarem ao mesmo tempo numa partida do torneio, um nocaute duplo, os JUÍZES analisam a partida e declaram o vencedor."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F5CC",
+  "en": "Your 2nd-round match is next.\\nAre you ready?",
+  "pt": "Agora vem a sua partida da 2ª rodada. Está pronto?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F5F9",
+  "en": "Your semifinal match is next.\\nAre you ready?",
+  "pt": "Agora vem a sua partida da semifinal. Está pronto?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F626",
+  "en": "Your final match is next.\\nAre you ready?",
+  "pt": "Agora vem a sua partida final. Está pronto?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F64F",
+  "en": "Please choose the two POKéMON\\nthat are to appear in battle.",
+  "pt": "Escolha as duas CAPTURAS que vão entrar na batalha, por favor."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F68B",
+  "en": "Right this way, please.",
+  "pt": "Por aqui, por favor."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F6A3",
+  "en": "Thank you for competing!\\pI'll restore your POKéMON to\\nfull health.",
+  "pt": "Obrigado por competir!\\pVou recuperar totalmente as suas CAPTURAS."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F6E6",
+  "en": "All 1st-round matches have been\\ncompleted.\\pThese are the teams that advanced!",
+  "pt": "Todas as partidas da 1ª rodada foram concluídas.\\pEstes são os times que avançaram!"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F734",
+  "en": "All 2nd-round matches have been\\ncompleted.\\pThese are the teams that advanced!",
+  "pt": "Todas as partidas da 2ª rodada foram concluídas.\\pEstes são os times que avançaram!"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F782",
+  "en": "All semifinal matches have been\\ncompleted.\\pThese are the teams that advanced!",
+  "pt": "Todas as partidas da semifinal foram concluídas.\\pEstes são os times que avançaram!"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F8F8",
+  "en": "{PLAYER}'s next opponent\\nis this TRAINER.",
+  "pt": "O próximo oponente de {PLAYER} é este TREINADOR."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F91C",
+  "en": "The tournament is in the 1st round.",
+  "pt": "O torneio está na 1ª rodada."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F940",
+  "en": "The tournament is in the 2nd round.",
+  "pt": "O torneio está na 2ª rodada."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F964",
+  "en": "The tournament is in the semifinals.",
+  "pt": "O torneio está nas semifinais."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F989",
+  "en": "The tournament is up to the final.",
+  "pt": "O torneio chegou à final."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F9AC",
+  "en": "Would you like to save and\\nquit the game?",
+  "pt": "Gostaria de salvar e sair do jogo?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028F9D6",
+  "en": "Would you like to retire from your\\nBattle Tournament challenge?",
+  "pt": "Gostaria de desistir do seu desafio no Torneio de Batalha?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028FA16",
+  "en": "I am saving your data.\\nPlease wait.",
+  "pt": "Estou salvando os seus dados. Aguarde, por favor."
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028FA3A",
+  "en": "Should I record your last match\\non your FRONTIER PASS?",
+  "pt": "Devo gravar a sua última partida no seu PASSE DA FRONTEIRA?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028FA71",
+  "en": "Congratulations for advancing\\nto the final match.\\pFor the final match, you will challenge\\nthe DOME ACE TUCKER.\\pAre you ready?",
+  "pt": "Parabéns por avançar até a partida final.\\pNa partida final, você vai desafiar o ÁS DO DOMO, TUCKER.\\pEstá pronto?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028FAEF",
+  "en": "Congratulations for advancing\\nto the final match.\\pFor the final match, you will challenge\\nthe DOME ACE TUCKER.\\pAre you ready?",
+  "pt": "Parabéns por avançar até a partida final.\\pNa partida final, você vai desafiar o ÁS DO DOMO, TUCKER.\\pEstá pronto?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028FB6D",
+  "en": "Your final battle against TUCKER is\\nnext. Are you ready?",
+  "pt": "Agora vem a sua batalha final contra o TUCKER. Está pronto?"
+ },
+ {
+  "map": "42.20 NEW DONK CITY",
+  "offset": "028FBA6",
+  "en": "Your final battle against TUCKER is\\nnext. Are you ready?",
+  "pt": "Agora vem a sua batalha final contra o TUCKER. Está pronto?"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290913",
+  "en": "{STR_VAR_1}\\nmatch!\\p{PLAYER} versus {STR_VAR_2}!\\pLet the battle begin!",
+  "pt": "Partida da\\n{STR_VAR_1}!\\p{PLAYER} contra {STR_VAR_2}!\\pQue comece a batalha!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290941",
+  "en": "{PLAYER} is the winner!\\nCongratulations!",
+  "pt": "{PLAYER} é o vencedor! Parabéns!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290964",
+  "en": "{STR_VAR_2} is the winner!\\nCongratulations!",
+  "pt": "{STR_VAR_2} venceu! Parabéns!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290987",
+  "en": "{PLAYER} is the Level 50\\nBattle Tournament Champion!\\pCongratulations!",
+  "pt": "{PLAYER} é o Campeão do Torneio de Batalha de Nível 50!\\pParabéns!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02909C7",
+  "en": "{PLAYER} is the Open Level\\nBattle Tournament Champion!\\pCongratulations!",
+  "pt": "{PLAYER} é o Campeão do Torneio de Batalha de Nível Livre!\\pParabéns!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290A09",
+  "en": "What an unbelievable finish!\\nWe have a double knockout!\\pIn this event, the Battle Tournament\\nrules call for a REFEREE'S decision.\\pPlease wait while the judging\\nis under way.",
+  "pt": "Que final inacreditável! Temos um nocaute duplo!\\pNesse caso, as regras do Torneio de Batalha exigem uma decisão dos JUÍZES.\\pAguardem enquanto o julgamento é feito."
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290AB7",
+  "en": "The REFEREES have reached\\na decision!\\pThe winner is…\\nOh, my goodness!\\lThe winner is {STR_VAR_1}!\\lCongratulations!",
+  "pt": "Os JUÍZES chegaram a uma decisão!\\pQuem vence é…\\nMinha nossa!\\lQuem vence é {STR_VAR_1}!\\lParabéns!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290B20",
+  "en": "The REFEREES have reached\\na decision!\\pThe winner is…\\nOh, my goodness!\\lThe winner is {PLAYER}!\\lCongratulations!",
+  "pt": "Os JUÍZES chegaram a uma decisão!\\pQuem vence é…\\nMinha nossa!\\lQuem vence é {PLAYER}!\\lParabéns!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290B89",
+  "en": "The bright new hope!\\p",
+  "pt": "A nova grande esperança!\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290B9F",
+  "en": "The rising star!\\p",
+  "pt": "A estrela em ascensão!\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290BB1",
+  "en": "Will this TRAINER race to\\nthe championship?\\p",
+  "pt": "Será que este TREINADOR vai disparar rumo ao título?\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290BDE",
+  "en": "Can the feat of a championship\\non the first try be achieved?\\p",
+  "pt": "Será que vamos ver um título logo na primeira tentativa?\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290C1C",
+  "en": "Can the loss of the last match\\nbe avenged?\\p",
+  "pt": "Será que a derrota da última partida vai ser vingada?\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290C48",
+  "en": "The TRAINER is on fire for\\nthe first championship try!\\p",
+  "pt": "Este TREINADOR está pegando fogo na primeira tentativa de título!\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290C80",
+  "en": "A win here means this TRAINER\\nadvances to the final!\\p",
+  "pt": "Com uma vitória aqui, este TREINADOR avança para a final!\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290CB6",
+  "en": "Will the long-held dream of\\na championship finally come true?\\p",
+  "pt": "Será que o sonho antigo de um título vai finalmente se realizar?\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290CF5",
+  "en": "The invincible champion!\\p",
+  "pt": "O campeão invencível!\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290D0F",
+  "en": "Can anyone hope to beat this\\nTRAINER?\\p",
+  "pt": "Será que alguém consegue vencer este TREINADOR?\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290D36",
+  "en": "Do battles exist solely for\\nthis TRAINER?\\p",
+  "pt": "Será que as batalhas existem só para este TREINADOR?\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290D61",
+  "en": "The current champion aiming to\\nretain the title!\\p",
+  "pt": "O atual campeão em busca de manter o título!\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290D93",
+  "en": "The former champion has returned!\\p",
+  "pt": "O ex-campeão está de volta!\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290DB6",
+  "en": "The former toughness has returned!\\p",
+  "pt": "A antiga força está de volta!\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290DDA",
+  "en": "Will this TRAINER do as expected\\nand advance to the finals?\\p",
+  "pt": "Será que este TREINADOR vai fazer o esperado e avançar para a final?\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290E17",
+  "en": "Will the former champ regain\\nlost glory?\\p",
+  "pt": "Será que o ex-campeão vai recuperar a glória perdida?\\p"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290E41",
+  "en": "Feel the glow of a true master!",
+  "pt": "Sintam o brilho de um verdadeiro mestre!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290E61",
+  "en": "And now… The TRAINER standing in\\n{PLAYER}'s record-setting path…\\pYes! The one and only!\\nThe BATTLE DOME COMMISSIONER!\\lOur very own DOME ACE!\\lMake way for TUCKER!",
+  "pt": "E agora… O TREINADOR que está no caminho recordista de {PLAYER}…\\pSim! O único e inigualável!\\nO COMISSÁRIO do DOMO DE BATALHA!\\lO nosso ÁS DO DOMO!\\lAbram caminho para o TUCKER!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290EFD",
+  "en": "Spectators: TUCKER! TUCKER!\\nTUCKER! TUCKER! TUCKER!",
+  "pt": "Espectadores: TUCKER! TUCKER! TUCKER! TUCKER! TUCKER!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0290F31",
+  "en": "TUCKER: Ahahah!\\pDo you hear it? This crowd!\\nThey're all itching to see our match!\\pAhahah!\\pI bet you're twitching all over from\\nthe tension of getting to battle me!\\pBut don't you worry about a thing!\\pI'm the no. 1 star of the BATTLE DOME!\\nI, TUCKER the DOME ACE, will bathe you\\lin my brilliant glow!",
+  "pt": "TUCKER: Ahahah!\\pVocê está ouvindo? Esta plateia! Estão todos doidos pra ver a nossa partida!\\pAhahah!\\pAposto que você está tremendo da cabeça aos pés com a tensão de batalhar comigo!\\pMas não se preocupe com nada!\\pEu sou a estrela nº 1 do DOMO DE BATALHA! Eu, TUCKER, o ÁS DO DOMO, vou te banhar no meu brilho deslumbrante!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "029105C",
+  "en": "Your strategy!\\nLet's see it!",
+  "pt": "A sua estratégia! Vamos ver!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0291079",
+  "en": "Unbelievable! It's incredible!\\nThe victor is {PLAYER}!",
+  "pt": "Inacreditável! É incrível! O vitorioso é {PLAYER}!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02910AA",
+  "en": "The winner is TUCKER!\\nThe DOME ACE has prevailed!\\pCongratulations, TUCKER!",
+  "pt": "O vencedor é o TUCKER! O ÁS DO DOMO triunfou!\\pParabéns, TUCKER!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02910F5",
+  "en": "TUCKER: Rules are rules!\\nLet me see your FRONTIER PASS.",
+  "pt": "TUCKER: Regras são regras! Deixe-me ver o seu PASSE DA FRONTEIRA."
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "029112D",
+  "en": "The Tactics Symbol was embossed on\\nthe FRONTIER PASS!",
+  "pt": "O Símbolo da Tática foi gravado no PASSE DA FRONTEIRA!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0291163",
+  "en": "… … … … … …\\pI sorely underestimated you. I won't\\nmake the same mistake next time…",
+  "pt": "… … … … … …\\pEu te subestimei feio. Não vou cometer o mesmo erro da próxima vez…"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02911B5",
+  "en": "Can the win streak be stretched?\\nThe confidence is there!",
+  "pt": "Será que a sequência de vitórias vai aumentar? Confiança não falta!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02911EF",
+  "en": "Ladies and gentlemen!\\nBoys, girls, and POKéMON!\\pFinally!\\nFinally, the legend has returned!\\pYes, the name of that legend!\\nOur very own DOME ACE!\\lIt's none other than TUCKER!",
+  "pt": "Senhoras e senhores! Meninos, meninas e CAPTURAS!\\pFinalmente! Finalmente a lenda está de volta!\\pSim, o nome dessa lenda!\\nO nosso ÁS DO DOMO!\\lNinguém menos que o TUCKER!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "029129C",
+  "en": "TUCKER: Ah…\\nThe pummeling roar of the crowd…\\lTheir furnace-like heat of excitement…\\lThis is a wonderful place…\\pTo the crowd, I am the DOME ACE…\\nI represent their hopes and dreams…\\lI must never fade from their sight…\\pI must burn!\\nBrighter and more brilliant!\\lI must light all that gather here!",
+  "pt": "TUCKER: Ah… O rugido estrondoso da plateia… O calor de fornalha da empolgação… Este é um lugar maravilhoso…\\pPara a plateia, eu sou o ÁS DO DOMO… Represento as esperanças e os sonhos deles… Nunca posso sumir da vista deles…\\pEu preciso arder! Mais forte e mais brilhante! Preciso iluminar todos que estão aqui!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02913C1",
+  "en": "I will unleash all the power that\\nI possess! Right here and now!",
+  "pt": "Vou liberar todo o poder que eu tenho! Aqui e agora!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0291402",
+  "en": "TUCKER: You're genuinely fantastic!\\pNever before! I haven't ever lost in the\\ntimes I've had to unleash my power.\\pYes, quite fantastic!\\nYour FRONTIER PASS, please?",
+  "pt": "TUCKER: Você é realmente fantástico!\\pNunca antes! Eu nunca tinha perdido nas vezes em que precisei liberar o meu poder.\\pSim, simplesmente fantástico! O seu PASSE DA FRONTEIRA, por favor?"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02914A5",
+  "en": "The Tactics Symbol took on\\na golden shine!",
+  "pt": "O Símbolo da Tática ganhou um brilho dourado!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02914D0",
+  "en": "You're strong, but above all,\\nyou have a unique charm!\\pIn you, I see a definite potential for\\na superstar like me.\\pI will very much look forward to\\nour next encounter!",
+  "pt": "Você é forte, mas, acima de tudo, tem um charme único!\\pVejo em você um potencial claro para ser uma superestrela como eu.\\pVou ficar muito ansioso pelo nosso próximo encontro!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "02915FA",
+  "en": "The final match!\\p{PLAYER} versus the DOME ACE, TUCKER!\\pLet the battle begin!",
+  "pt": "A partida final!\\p{PLAYER} contra o ÁS DO DOMO, TUCKER!\\pQue comece a batalha!"
+ },
+ {
+  "map": "42.21 NEW DONK CITY",
+  "offset": "0291641",
+  "en": "The REFEREES have reached\\na decision!\\pThe winner is…\\nOh, my goodness!\\lThe winner is our very own DOME ACE!\\lIt's TUCKER!\\pCongratulations! And thank you!\\nLet's hear it for the DOME ACE, TUCKER!",
+  "pt": "Os JUÍZES chegaram a uma decisão!\\pQuem vence é…\\nMinha nossa!\\lQuem vence é o nosso ÁS DO DOMO!\\lÉ o TUCKER!\\pParabéns! E obrigado! Uma salva de palmas para o ÁS DO DOMO, TUCKER!"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0291D64",
+  "en": "Do you wish to take\\nthe SINGLE BATTLE HALL challenge?",
+  "pt": "Deseja encarar o desafio do SALÃO DE BATALHA INDIVIDUAL?"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0291D9A",
+  "en": "In the BATTLE PALACE, there are\\nseveral auditoriums for SINGLE BATTLES\\lthat are named SINGLE BATTLE HALLS.\\pThe SINGLE BATTLES are conducted in\\nthe usual way, except with one crucial\\lrule that must be obeyed.\\pTRAINERS are permitted only to switch\\ntheir POKéMON in and out.\\pTRAINERS are otherwise forbidden to\\ncommand their POKéMON.\\pThe POKéMON are to behave according\\nto their nature and battle on their own.\\pYou must put your trust in your\\nPOKéMON and watch over them.\\pIf you achieve the honor of beating\\nseven TRAINERS in succession,\\lwe will present you with Battle Points.\\pIf you want to interrupt your\\nchallenge, you must save the game.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "No PALÁCIO DE BATALHA, existem vários auditórios para BATALHAS INDIVIDUAIS, chamados SALÕES DE BATALHA INDIVIDUAL.\\pAs BATALHAS INDIVIDUAIS seguem o formato de sempre, mas com uma regra fundamental que precisa ser obedecida.\\pOs TREINADORES só podem trocar as suas CAPTURAS.\\pFora isso, os TREINADORES estão proibidos de dar ordens às suas CAPTURAS.\\pAs CAPTURAS devem agir de acordo com a sua natureza e batalhar sozinhas.\\pVocê precisa confiar nas suas CAPTURAS e cuidar delas.\\pSe conseguir a honra de vencer sete TREINADORES seguidos, entregaremos a você Pontos de Batalha.\\pSe quiser interromper o seu desafio, você precisa salvar o jogo.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "029205B",
+  "en": "When you have fortified your heart\\nand POKéMON, you must return.",
+  "pt": "Quando tiver fortalecido o seu coração e as suas CAPTURAS, volte."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "029209C",
+  "en": "There are two BATTLE HALLS,\\nLevel 50 and Open Level.\\lWhich is your choice of a challenge?",
+  "pt": "Existem dois SALÕES DE BATALHA: Nível 50 e Nível Livre. Qual desafio você escolhe?"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "02920F6",
+  "en": "Sigh…\\pYou do not have the three POKéMON\\nrequired for the challenge.\\pTo enter, you must provide three\\ndifferent kinds of POKéMON.\\pThese POKéMON must all be of\\nLevel 50 or lower.\\pThey also must not be holding\\nthe same kinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pCome back when you have made\\nyour preparations.",
+  "pt": "Ai, ai…\\pVocê não tem as três CAPTURAS necessárias para o desafio.\\pPara participar, você precisa trazer três tipos diferentes de CAPTURAS.\\pTodas elas precisam ser de Nível 50 ou menos.\\pElas também não podem estar segurando o mesmo tipo de item.\\pOVOS{STR_VAR_1} proibidos.\\pVolte quando tiver terminado os seus preparativos."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292221",
+  "en": "Sigh…\\pYou do not have the three POKéMON\\nrequired for the challenge.\\pTo enter, you must provide three\\ndifferent kinds of POKéMON.\\pThey also must not be holding\\nthe same kinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pCome back when you have made\\nyour preparations.",
+  "pt": "Ai, ai…\\pVocê não tem as três CAPTURAS necessárias para o desafio.\\pPara participar, você precisa trazer três tipos diferentes de CAPTURAS.\\pElas também não podem estar segurando o mesmo tipo de item.\\pOVOS{STR_VAR_1} proibidos.\\pVolte quando estiver preparado."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "029231C",
+  "en": "Good. Now, you must select your\\nthree POKéMON.",
+  "pt": "Ótimo. Agora, escolha as suas três CAPTURAS."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "029234B",
+  "en": "I must save before I show you to\\nthe BATTLE HALL. Is that okay?",
+  "pt": "Preciso salvar o jogo antes de te levar ao SALÃO DE BATALHA. Tudo bem?"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "029238B",
+  "en": "Good.\\nNow, follow me.",
+  "pt": "Ótimo.\\nAgora, me acompanhe."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "02923A1",
+  "en": "I feel privileged for having seen\\nyour POKéMON's exploits.\\pThe results will be recorded.\\nI must ask you to briefly wait.",
+  "pt": "Sinto-me honrado por ter visto os feitos das suas CAPTURAS.\\pOs resultados serão registrados. Peço que aguarde um instante."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "029241A",
+  "en": "To achieve a 7-win streak…\\pThe bonds that bind your heart with\\nyour POKéMON seem firm and true.",
+  "pt": "Conseguir uma sequência de 7 vitórias…\\pOs laços entre o seu coração e as suas CAPTURAS parecem firmes e verdadeiros."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "029247A",
+  "en": "Your feat will be recorded.\\nI must ask you to briefly wait.",
+  "pt": "O seu feito será registrado. Peço que aguarde um instante."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292666",
+  "en": "For a hardy fellow like me,\\nhardy POKéMON are the best.\\pOffense is the best defense!\\nA relentless attack is the ultimate!\\pBut that's not what I wanted to chat\\nabout.\\pEvery so often a really cute lady\\nswings by here.\\pShe says that she can tell what\\nPOKéMON are thinking.\\pI don't know about that part,\\nbut she is really cute.\\pHuh?\\nWhy are you looking at me like that?",
+  "pt": "Pra um cara destemido como eu, as melhores CAPTURAS são as destemidas.\\pO ataque é a melhor defesa! Um ataque implacável é o máximo!\\pMas não era disso que eu queria falar.\\pDe vez em quando, uma moça muito bonita passa por aqui.\\pEla diz que consegue saber o que as CAPTURAS estão pensando.\\pNão sei se isso é verdade, mas que ela é bonita, ela é.\\pHã? Por que você tá me olhando desse jeito?"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "02927D4",
+  "en": "Hmm…\\pIt appears that the nature of POKéMON\\nand the moves that they have been\\ltaught are the keys to battle here.\\pTo be more precise, it's how well\\nthe moves match the nature of\\lthe POKéMON.\\pIf your POKéMON is in trouble and\\nunable to live up to its potential,\\lyou may need to examine how well\\lits moves match its nature.",
+  "pt": "Hum…\\pParece que a natureza das CAPTURAS e os golpes que elas aprenderam são a chave das batalhas aqui.\\pPara ser mais exato, o que importa é o quanto os golpes combinam com a natureza da CAPTURA.\\pSe a sua CAPTURA estiver em apuros e não conseguir render o que pode, talvez você precise ver se os golpes dela combinam com a natureza dela."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292915",
+  "en": "My POKéMON is usually very docile.\\pBut when it's in a BATTLE HALL,\\nit sometimes seems to become\\ltransformed into something wicked!\\pIt becomes totally intimidating.\\nIt's shocking, even.",
+  "pt": "A minha CAPTURA costuma ser bem dócil.\\pMas, quando está num SALÃO DE BATALHA, às vezes parece que vira uma criatura malvada!\\pEla fica totalmente intimidadora. É até chocante."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "02929CE",
+  "en": "I wonder what sort of nature a POKéMON\\nwould have if it favored enfeebling its\\lopponents and chipping away slowly.\\pI'd be surprised if it was a LAX nature.\\pBut, nah, that can't be right.",
+  "pt": "Fico pensando que natureza teria uma CAPTURA que prefere enfraquecer os oponentes e desgastá-los aos poucos.\\pEu ficaria surpreso se fosse a natureza NEGLIGENTE.\\pMas não, não pode ser isso."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292A89",
+  "en": "Where the hearts of TRAINERS\\nare put to the test.\\pI welcome you to the BATTLE PALACE.\\pI accept challenges to the DOUBLE\\nBATTLE HALLS.",
+  "pt": "Onde o coração dos TREINADORES é posto à prova.\\pBem-vindo ao PALÁCIO DE BATALHA.\\pEu recebo os desafios dos SALÕES DE BATALHA DUPLA."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292B0F",
+  "en": "Do you wish to take\\nthe DOUBLE BATTLE HALL challenge?",
+  "pt": "Deseja encarar o desafio do SALÃO DE BATALHA DUPLA?"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292B45",
+  "en": "In the BATTLE PALACE, there are\\nseveral auditoriums for DOUBLE BATTLES\\lthat are named DOUBLE BATTLE HALLS.\\pThe DOUBLE BATTLES are conducted in\\nthe usual way, except with one crucial\\lrule that must be obeyed.\\pTRAINERS are permitted only to switch\\ntheir POKéMON in and out.\\pTRAINERS are otherwise forbidden to\\ncommand their POKéMON.\\pThe POKéMON are to behave according\\nto their nature and battle on their own.\\pYou must put your trust in your\\nPOKéMON and watch over them.\\pIf you achieve the honor of beating\\nseven TRAINERS in succession,\\lwe will present you with Battle Points.\\pIf you want to interrupt your\\nchallenge, please save the game.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "No PALÁCIO DE BATALHA, existem vários auditórios para BATALHAS DUPLAS, chamados SALÕES DE BATALHA DUPLA.\\pAs BATALHAS DUPLAS seguem o formato de sempre, mas com uma regra fundamental que precisa ser obedecida.\\pOs TREINADORES só podem trocar as suas CAPTURAS.\\pFora isso, os TREINADORES estão proibidos de dar ordens às suas CAPTURAS.\\pAs CAPTURAS devem agir de acordo com a sua natureza e batalhar sozinhas.\\pVocê precisa confiar nas suas CAPTURAS e cuidar delas.\\pSe conseguir a honra de vencer sete TREINADORES seguidos, entregaremos a você Pontos de Batalha.\\pSe quiser interromper o seu desafio, salve o jogo, por favor.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292E04",
+  "en": "To defeat the PALACE MAVEN\\nand seven TRAINERS in a row…",
+  "pt": "Derrotar o MESTRE DO PALÁCIO e sete TREINADORES seguidos…"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292E3C",
+  "en": "In honor of the bond you share with\\nyour POKéMON, we present you with\\lthese Battle Point(s).",
+  "pt": "Em homenagem ao laço que você tem com as suas CAPTURAS, entregamos a você estes Ponto(s) de Batalha."
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292E99",
+  "en": "Would you like to record your latest\\nBATTLE PALACE match on your\\lFRONTIER PASS?",
+  "pt": "Gostaria de gravar a sua última partida do PALÁCIO DE BATALHA no seu PASSE DA FRONTEIRA?"
+ },
+ {
+  "map": "42.22 NEW DONK CITY",
+  "offset": "0292EE9",
+  "en": "The BATTLE HALL rules are listed.",
+  "pt": "Estas são as regras do SALÃO DE BATALHA."
+ },
+ {
+  "map": "42.23 NEW DONK CITY",
+  "offset": "029355C",
+  "en": "ÌÌ{MN}\\nPeople and POKéMON, they are but\\nthe same…\\pTheir individual nature makes them\\ngood at certain things, and not good\\lat others.",
+  "pt": ""
+ },
+ {
+  "map": "42.23 NEW DONK CITY",
+  "offset": "0293560",
+  "en": "People and POKéMON, they are but\\nthe same…\\pTheir individual nature makes them\\ngood at certain things, and not good\\lat others.",
+  "pt": "Pessoas e CAPTURAS são, no fundo, iguais…\\pA natureza de cada um faz com que seja bom em certas coisas e não tão bom em outras."
+ },
+ {
+  "map": "42.23 NEW DONK CITY",
+  "offset": "02935DE",
+  "en": "Rather than trying to make a POKéMON\\ndo what it dislikes, try to let it do\\lwhat it likes and is good at doing.\\pPut yourself in the POKéMON's position\\nand consider what moves it would like.",
+  "pt": "Em vez de tentar fazer uma CAPTURA fazer o que ela não gosta, deixe que ela faça o que gosta e o que sabe fazer bem.\\pColoque-se no lugar da CAPTURA e pense em quais golpes ela gostaria de usar."
+ },
+ {
+  "map": "42.23 NEW DONK CITY",
+  "offset": "029369B",
+  "en": "A POKéMON's nature is a remarkable\\nthing…\\pSome POKéMON behave in a completely\\ndifferent way when they are cornered.",
+  "pt": "A natureza de uma CAPTURA é algo impressionante…\\pAlgumas CAPTURAS se comportam de um jeito completamente diferente quando estão encurraladas."
+ },
+ {
+  "map": "42.23 NEW DONK CITY",
+  "offset": "029370F",
+  "en": "Are you beginning to understand how\\na POKéMON's nature makes it behave?",
+  "pt": "Está começando a entender como a natureza de uma CAPTURA influencia o comportamento dela?"
+ },
+ {
+  "map": "42.23 NEW DONK CITY",
+  "offset": "0293757",
+  "en": "Ah… I see a strong, heartfelt bond\\nbetween you and your POKéMON…",
+  "pt": "Ah… Vejo um laço forte e sincero entre você e as suas CAPTURAS…"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0293F03",
+  "en": "The 4th opponent is next.\\nAre you prepared?",
+  "pt": "Agora vem o 4º oponente. Está preparado?"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0293F2F",
+  "en": "The 5th opponent is next.\\nAre you prepared?",
+  "pt": "Agora vem o 5º oponente. Está preparado?"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0293F5B",
+  "en": "The 6th opponent is next.\\nAre you prepared?",
+  "pt": "Agora vem o 6º oponente. Está preparado?"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0293F87",
+  "en": "The 7th opponent is next.\\nAre you prepared?",
+  "pt": "Agora vem o 7º oponente. Está preparado?"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294021",
+  "en": "Do you wish to record your latest\\nmatch on your FRONTIER PASS?",
+  "pt": "Deseja gravar a sua última partida no seu PASSE DA FRONTEIRA?"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294060",
+  "en": "And now…\\pBy winning consistently, you have\\nearned the privilege of challenging\\lour master, the PALACE MAVEN…",
+  "pt": "E agora…\\pPor vencer sem parar, você conquistou o privilégio de desafiar o nosso mestre, o MESTRE DO PALÁCIO…"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "02940CD",
+  "en": "I shall send for the PALACE MAVEN.\\nAre you ready?",
+  "pt": "Vou chamar o MESTRE DO PALÁCIO. Está pronto?"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "02940FF",
+  "en": "Let great fanfare announce the arrival\\nof the PALACE MAVEN, SPENSER!",
+  "pt": "Que uma grande fanfarra anuncie a chegada do MESTRE DO PALÁCIO, SPENSER!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294144",
+  "en": "SPENSER: My physical being is with\\nPOKéMON always!\\pMy heart beats as one with\\nPOKéMON always!\\pYoung one of a TRAINER!\\nDo you believe in your POKéMON?\\pCan you believe them through\\nand through?\\pIf your bonds of trust are frail,\\nyou will never beat my brethren!",
+  "pt": "SPENSER: O meu corpo está sempre com as CAPTURAS!\\pO meu coração bate sempre junto com o das CAPTURAS!\\pJovem TREINADOR! Você acredita nas suas CAPTURAS?\\pConsegue acreditar nelas de corpo e alma?\\pSe os seus laços de confiança forem frágeis, você nunca vai derrotar os meus irmãos!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294247",
+  "en": "The bond you share with your POKéMON!\\nProve it to me here!",
+  "pt": "O laço que você tem com as suas CAPTURAS! Prove pra mim aqui!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294282",
+  "en": "SPENSER: Gwahahah!\\pHah, you never fell for my bluster!\\nSorry for trying that stunt!\\pHere!\\nBring me the thing!",
+  "pt": "SPENSER: Guahahah!\\pHah, você nunca caiu na minha bravata! Desculpe pela encenação!\\pAqui! Me traga aquela coisa!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "02942F0",
+  "en": "My, my, if only you could maintain that\\nfacade of distinguished authority…\\pHere!\\nLet's see your FRONTIER PASS!",
+  "pt": "Ora, ora, se ao menos você conseguisse manter aquela pose de autoridade distinta…\\pAqui! Vamos ver o seu PASSE DA FRONTEIRA!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "029435F",
+  "en": "The Spirits Symbol was embossed on\\nthe FRONTIER PASS!",
+  "pt": "O Símbolo do Espírito foi gravado no PASSE DA FRONTEIRA!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294395",
+  "en": "SPENSER: Your POKéMON's eyes are \\ntruly clear and unclouded.\\pI will eagerly await the next\\nopportunity to see you.",
+  "pt": "SPENSER: Os olhos das suas CAPTURAS são realmente límpidos e sem nuvens.\\pVou aguardar ansioso a próxima oportunidade de te ver."
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294408",
+  "en": "SPENSER: Gwahahah!\\nYou've battled your way up again?\\pYou must have developed a truly\\nformidable bond with your POKéMON.\\pSo be it!\\pThis time, I won't bluster or hold back.\\nThis time, there's no fooling around.\\pReady now?\\nPrepare to lose!",
+  "pt": "SPENSER: Guahahah! Você subiu batalhando até aqui de novo?\\pVocê deve ter criado um laço realmente formidável com as suas CAPTURAS.\\pQue assim seja!\\pDesta vez, nada de bravata e nada de me conter. Desta vez, não tem brincadeira.\\pPronto? Prepare-se para perder!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294501",
+  "en": "SPENSER: Well, that was some display!\\nEven fully unleashed, my brethren\\lcould not overpower you.\\pYour team spirit is truly admirable!\\pHere!\\nBring me that thing, will you?",
+  "pt": "SPENSER: Bom, que demonstração! Nem com tudo liberado os meus irmãos conseguiram te superar.\\pO espírito da sua equipe é realmente admirável!\\pAqui! Me traga aquela coisa, pode ser?"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "02945AC",
+  "en": "My, my, if only you could maintain\\na certain level of decorum…\\pGaaah, here!\\nHurry with that FRONTIER PASS, you!",
+  "pt": "Ora, ora, se ao menos você conseguisse manter um certo decoro…\\pGaaah, aqui! Ande logo com esse PASSE DA FRONTEIRA!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "029461C",
+  "en": "The Spirits Symbol took on\\na golden shine!",
+  "pt": "O Símbolo do Espírito ganhou um brilho dourado!"
+ },
+ {
+  "map": "42.24 NEW DONK CITY",
+  "offset": "0294647",
+  "en": "SPENSER: Gwahahah!\\pCome see me time and again!\\nMy brethren and I will be waiting!",
+  "pt": "SPENSER: Guahahah!\\pVenha me ver sempre que quiser! Eu e os meus irmãos estaremos esperando!"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0294F08",
+  "en": "Have you the courage to embark on\\nthe Battle Quest challenge?",
+  "pt": "Você tem coragem de embarcar no desafio da Missão de Batalha?"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0294F46",
+  "en": "We await your challenge in the future!",
+  "pt": "Aguardamos o seu desafio no futuro!"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0294F6D",
+  "en": "The Battle Quest is a battling\\nevent in which you must explore\\lthe PYRAMID and try to reach the top.\\pIn the PYRAMID are seven floors of\\nmazes, all of them filled with not only\\lskilled TRAINERS but also wild CAPTURE.\\pYou must enter with three CAPTURE,\\nnone of them holding an item.\\pOn your ascent, you will be provided\\nwith a EXPLORER PACK for items.\\pIf you fail in your challenge, any item\\nplaced in the EXPLORER PACK disappears.\\pIf you want to interrupt your\\nchallenge, you must select “REST”\\land save the game.\\pIf you don't save before interrupting,\\nyou will be disqualified.",
+  "pt": "A Missão de Batalha é um evento de batalhas em que você precisa explorar a PIRÂMIDE e tentar chegar ao topo.\\pNa PIRÂMIDE há sete andares de labirintos, todos cheios não só de TREINADORES habilidosos, mas também de CAPTURAS selvagens.\\pVocê precisa entrar com três CAPTURAS, sem nenhuma segurando item.\\pNa subida, você vai receber uma MOCHILA DE EXPLORADOR para os seus itens.\\pSe falhar no desafio, todos os itens guardados na MOCHILA DE EXPLORADOR desaparecem.\\pSe quiser interromper o seu desafio, você precisa escolher “DESCANSAR” e salvar o jogo.\\pSe não salvar antes de interromper, você será desclassificado."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02951AF",
+  "en": "The PYRAMID offers two courses,\\nLevel 50 and Open Level.\\lWhich will you enter?",
+  "pt": "A PIRÂMIDE oferece dois cursos: Nível 50 e Nível Livre. Em qual você vai entrar?"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02951FE",
+  "en": "Very good. Now, please select the three\\nCAPTURE you wish to accompany you.",
+  "pt": "Muito bem. Agora, escolha as três CAPTURAS que vão te acompanhar."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295249",
+  "en": "A slight problem, adventurer!\\pYou seem to not have the three\\nCAPTURE qualified for the challenge.\\pPlease also remember to take all\\nitems from your CAPTURE.\\pEGGS{STR_VAR_1} ineligible.\\pWhen you are ready, please have\\na word with me.",
+  "pt": "Um pequeno problema, aventureiro!\\pParece que você não tem as três CAPTURAS qualificadas para o desafio.\\pLembre-se também de tirar todos os itens das suas CAPTURAS.\\pOVOS{STR_VAR_1} proibidos.\\pQuando estiver pronto, venha falar comigo."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295328",
+  "en": "A slight problem, adventurer!\\pYou seem to not have the three\\nCAPTURE qualified for the challenge.\\pThe three CAPTURE must be different\\nand each no higher than Level 50.\\pPlease also remember to take all\\nitems from your CAPTURE.\\pEGGS{STR_VAR_1} ineligible.\\pWhen you are ready, please have\\na word with me.",
+  "pt": "Um pequeno problema, aventureiro!\\pParece que você não tem as três CAPTURAS qualificadas para o desafio.\\pAs três CAPTURAS precisam ser diferentes e de Nível 50 ou menos.\\pLembre-se também de tirar todos os itens das suas CAPTURAS.\\pOVOS{STR_VAR_1} proibidos.\\pQuando estiver pronto, venha falar comigo."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029544D",
+  "en": "Before you enter the Pit,\\nthe game must be saved. Is that okay?",
+  "pt": "Antes de você entrar no POÇO, é preciso salvar o jogo. Tudo bem?"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029548D",
+  "en": "Very good. I will now show you into\\nthe PIT.",
+  "pt": "Muito bem. Agora vou te levar ao POÇO."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02954BA",
+  "en": "We will hold your BAG for safekeeping,\\nMARIO, while you are exploring.",
+  "pt": "Vamos guardar a sua BOLSA em segurança, MARIO, enquanto você explora."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295501",
+  "en": "In exchange, please take this EXPLORER\\nPACK, the one you used previously.",
+  "pt": "Em troca, leve esta MOCHILA DE EXPLORADOR, a mesma que você usou da última vez."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029554B",
+  "en": "In exchange, please take this\\nEXPLORER PACK.",
+  "pt": "Em troca, leve esta MOCHILA DE EXPLORADOR."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295578",
+  "en": "MARIO exchanged the BAG for\\nthe EXPLORER PACK.",
+  "pt": "MARIO trocou a BOLSA pela MOCHILA DE EXPLORADOR."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02955A7",
+  "en": "When you step on this floor panel,\\nyou will be transported to a lower\\lfloor in the PIT.\\pI hope for your sake that your\\nexploration goes safely!",
+  "pt": "Quando pisar neste painel do chão, você será levado a um andar mais abaixo no POÇO.\\pPara o seu bem, espero que a sua exploração seja segura!"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295637",
+  "en": "A major problem, explorer!\\pYou did not save before ending\\nyour challenge the last time.\\pConsequently, your challenge has\\nbeen disqualified, I'm sorry to say.\\pHere is the BAG we've been holding\\nfor you.\\pMARIO got the BAG back.",
+  "pt": "Um grande problema, explorador!\\pVocê não salvou antes de encerrar o seu desafio da última vez.\\pPor isso, sinto dizer, o seu desafio foi desclassificado.\\pAqui está a BOLSA que estávamos guardando para você.\\pMARIO recebeu a BOLSA de volta."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295719",
+  "en": "Excellent to see you back!\\pYou've conquered the PYRAMID!\\nHow splendid!",
+  "pt": "Que ótimo ver você de volta!\\pVocê conquistou a PIRÂMIDE! Que esplêndido!"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02958BF",
+  "en": "At least one CAPTURE is still\\nholding an item.",
+  "pt": "Pelo menos uma CAPTURA ainda está segurando um item."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02958EE",
+  "en": "Please pick the items you'll keep in the\\nEXPLORER PACK, and with your CAPTURE.",
+  "pt": "Escolha os itens que vão ficar na MOCHILA DE EXPLORADOR e com as suas CAPTURAS."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295ADC",
+  "en": "How disappointing for you…\\pHere is the BAG we've been holding\\nfor you.\\pMARIO got the BAG back.",
+  "pt": "Que decepção para você…\\pAqui está a BOLSA que estávamos guardando para você.\\pMARIO recebeu a BOLSA de volta."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295BC0",
+  "en": "Welcome…\\pI shall be pleased to tell you what\\nmisfortunes await in the PYRAMID…",
+  "pt": "Bem-vindo…\\pTerei o prazer de te contar que infortúnios te aguardam na PIRÂMIDE…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295C38",
+  "en": "I see a shower of sparks…\\p…And in it, I see your CAPTURE\\nstruggling with paralysis…",
+  "pt": "Vejo uma chuva de faíscas…\\p…E nela vejo as suas CAPTURAS lutando contra a paralisia…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295C8C",
+  "en": "I see poison…\\p…And, I see your CAPTURE suffering\\nfrom the effects of poison…",
+  "pt": "Vejo veneno…\\p…E vejo as suas CAPTURAS sofrendo com os efeitos do veneno…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295CD9",
+  "en": "I see bright red flames…\\p…And, I see your CAPTURE suffering\\nfrom burns…",
+  "pt": "Vejo chamas vermelhas e intensas…\\p…E vejo as suas CAPTURAS sofrendo com queimaduras…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295D21",
+  "en": "I sense the tremendous pressure of\\nunrequited anger…\\pIt is a curse…\\p…And, I see your CAPTURE drained of\\nPower Points and having no recourse\\lbut to use STRUGGLE…",
+  "pt": "Sinto a pressão tremenda de uma raiva não correspondida…\\pÉ uma maldição…\\p…E vejo as suas CAPTURAS sem Pontos de Poder, sem outra saída a não ser usar INSISTÊNCIA…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295DC2",
+  "en": "I see CAPTURE loftily airborne…\\p…And, I see your CAPTURE frustrated\\nby powerless GROUND-type moves…",
+  "pt": "Vejo CAPTURAS planando lá no alto…\\p…E vejo as suas CAPTURAS frustradas por golpes do tipo TERRESTRE sem efeito…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295E26",
+  "en": "I sense terrific energy rising from\\nthe ground below…\\p…And, I see your CAPTURE unable to\\nescape the power's clutches…",
+  "pt": "Sinto uma energia fortíssima subindo do chão…\\p…E vejo as suas CAPTURAS incapazes de escapar das garras desse poder…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295E9C",
+  "en": "I see ICE-type POKéMON…\\p…And, I see your CAPTURE fighting\\nthe freezing effects of ice…",
+  "pt": "Vejo CAPTURAS do tipo GELO…\\p…E vejo as suas CAPTURAS lutando contra os efeitos congelantes do gelo…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295EF3",
+  "en": "I see a flurry of moves that imperil\\nthe user…\\p…And, I see your CAPTURE falling\\nto them…",
+  "pt": "Vejo uma enxurrada de golpes que põem em perigo quem os usa…\\p…E vejo as suas CAPTURAS caindo diante deles…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295F4C",
+  "en": "I see PSYCHIC-type POKéMON…\\p…And, I see your CAPTURE in torment\\nfrom PSYCHIC moves…",
+  "pt": "Vejo CAPTURAS do tipo PSÍQUICO…\\p…E vejo as suas CAPTURAS atormentadas por golpes PSÍQUICOS…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295FA0",
+  "en": "I see ROCK-type POKéMON…\\p…And, I see your CAPTURE suffering\\nfrom ROCK moves…",
+  "pt": "Vejo CAPTURAS do tipo PEDRA…\\p…E vejo as suas CAPTURAS sofrendo com golpes de PEDRA…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0295FED",
+  "en": "I see FIGHTING-type POKéMON…\\p…And, I see your CAPTURE pummeled\\nby FIGHTING moves…",
+  "pt": "Vejo CAPTURAS do tipo LUTADOR…\\p…E vejo as suas CAPTURAS esmurradas por golpes de LUTADOR…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029603F",
+  "en": "RAIN DANCE… SUNNY DAY…\\nSANDSTORM… HAIL…\\pI see CAPTURE that become stronger\\nwith the weather…\\p…And, I see your CAPTURE confounded\\nby different types of moves…",
+  "pt": "DANÇA DA CHUVA… DIA ENSOLARADO… TEMPESTADE DE AREIA… GRANIZO…\\pVejo CAPTURAS que ficam mais fortes com o clima…\\p…E vejo as suas CAPTURAS confusas com golpes de tipos diferentes…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02960DD",
+  "en": "I see BUG-type POKéMON…\\p…And, I see your CAPTURE suffering\\nfrom different kinds of attacks…",
+  "pt": "Vejo CAPTURAS do tipo INSETO…\\p…E vejo as suas CAPTURAS sofrendo com vários tipos de ataques…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0296139",
+  "en": "I see DARK-type POKéMON…\\p…And, I see your CAPTURE suffering\\nfrom DARK-type moves…",
+  "pt": "Vejo CAPTURAS do tipo SOMBRIO…\\p…E vejo as suas CAPTURAS sofrendo com golpes do tipo SOMBRIO…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029618B",
+  "en": "I see WATER-type POKéMON…\\p…And, I see your CAPTURE suffering\\nfrom WATER-type moves…",
+  "pt": "Vejo CAPTURAS do tipo ÁGUA…\\p…E vejo as suas CAPTURAS sofrendo com golpes do tipo ÁGUA…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02961DF",
+  "en": "I see GHOST-type POKéMON…\\p…And, I see your CAPTURE suffering\\nfrom GHOST-type moves…",
+  "pt": "Vejo CAPTURAS do tipo FANTASMA…\\p…E vejo as suas CAPTURAS sofrendo com golpes do tipo FANTASMA…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0296233",
+  "en": "I see STEEL-type POKéMON…\\p…And, I see your CAPTURE suffering\\nfrom enormously powerful moves…",
+  "pt": "Vejo CAPTURAS do tipo AÇO…\\p…E vejo as suas CAPTURAS sofrendo com golpes poderosíssimos…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0296290",
+  "en": "I see flying POKéMON…\\p…And, I see your CAPTURE suffering\\nfrom enormously powerful moves…",
+  "pt": "Vejo CAPTURAS voadoras…\\p…E vejo as suas CAPTURAS sofrendo com golpes poderosíssimos…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02962E9",
+  "en": "I see those that have evolved from\\nthe power of stones…\\pI also sense fire, water,\\nand electricity…\\p…And, I see your CAPTURE suffering\\nfrom those three powers…",
+  "pt": "Vejo aquelas que evoluíram com o poder das pedras…\\pSinto também fogo, água e eletricidade…\\p…E vejo as suas CAPTURAS sofrendo com esses três poderes…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0296388",
+  "en": "I see NORMAL-type POKéMON…\\p…And, I see your CAPTURE suffering\\nfrom enormously powerful moves…",
+  "pt": "Vejo CAPTURAS do tipo NORMAL…\\p…E vejo as suas CAPTURAS sofrendo com golpes poderosíssimos…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02963E6",
+  "en": "Whether you believe my fortunes\\nor not, the choice is yours…\\pThe future can be changed anytime…\\nI wish you safe passage…",
+  "pt": "Se você acredita ou não nas minhas previsões, a escolha é sua…\\pO futuro pode mudar a qualquer momento… Desejo uma boa viagem…"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029645F",
+  "en": "Did you know?\\pIf you run fast, TRAINERS may notice\\nand come after you for a battle.\\pSo, if you want to avoid TRAINERS,\\ndon't catch their eyes, but sneak\\lcautiously and quietly past them.",
+  "pt": "Sabia?\\pSe você correr, os TREINADORES podem te notar e vir atrás de você pra batalhar.\\pEntão, se quiser evitar TREINADORES, não chame a atenção deles: passe de fininho, com cuidado e em silêncio."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029651A",
+  "en": "Awaaaaaaarrrrgh!\\pI had a whole lot of items, but I lost\\nthem all when I lost!\\pAwaaaaaaarrrrgh!",
+  "pt": "Aaaaaaaaarrrrgh!\\pEu tinha um montão de itens, mas perdi todos quando perdi a batalha!\\pAaaaaaaaarrrrgh!"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0296579",
+  "en": "Welcome back!\\nYou've done the unthinkable!\\pYou've defeated the PYRAMID KING\\nand conquered the BATTLE PYRAMID!",
+  "pt": "Bem-vindo de volta! Você fez o impensável!\\pVocê derrotou o REI DA PIRÂMIDE e conquistou a PIRÂMIDE DE BATALHA!"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02965E7",
+  "en": "Young explorer!\\nIn commendation of your courage,\\lwe give you these Battle Point(s)!",
+  "pt": "Jovem explorador! Em homenagem à sua coragem, entregamos a você estes Ponto(s) de Batalha!"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029663B",
+  "en": "The Battle Quest rules are listed.",
+  "pt": "Estas são as regras da Missão de Batalha."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029665E",
+  "en": "Which heading do you want to read?",
+  "pt": "Qual tópico você quer ler?"
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "0296681",
+  "en": "When the PYRAMID is conquered,\\nthe wild CAPTURE that appear in it\\lare replaced by different kinds.\\pExplore, observe, and learn what kinds\\nof wild CAPTURE you may encounter.",
+  "pt": "Quando a PIRÂMIDE é conquistada, as CAPTURAS selvagens que aparecem nela são trocadas por outros tipos.\\pExplore, observe e aprenda que tipos de CAPTURAS selvagens você pode encontrar."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "029672E",
+  "en": "TRAINERS are lying in wait for you\\ninside the PYRAMID.\\pOn each floor, there are up to\\neight TRAINERS.\\pWhen you defeat a TRAINER, you will\\nget a helpful hint for your adventure.",
+  "pt": "Há TREINADORES te esperando de tocaia dentro da PIRÂMIDE.\\pEm cada andar, há até oito TREINADORES.\\pQuando derrotar um TREINADOR, você vai receber uma dica útil para a sua aventura."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02967DF",
+  "en": "The mazes in the PYRAMID rearrange\\nthemselves every time you enter it.\\pThe mazes are poorly lit.\\nYou must advance with caution.\\pThe light grows brighter whenever you\\ndefeat a wild CAPTURE or a TRAINER.",
+  "pt": "Os labirintos da PIRÂMIDE mudam de forma toda vez que você entra.\\pOs labirintos são mal iluminados. Avance com cuidado.\\pA luz fica mais forte sempre que você derrota uma CAPTURA selvagem ou um TREINADOR."
+ },
+ {
+  "map": "42.25 NEW DONK CITY",
+  "offset": "02968A9",
+  "en": "The EXPLORER PACK serves as your BAG\\nwhile in the PYRAMID.\\pThere are two separate EXPLORER PACKS--\\none each for the Level 50 and\\lOpen Level adventures.\\pThey each can hold up to 99 pieces\\nof ten kinds of items.\\pThe contents of the EXPLORER PACK are\\nlost if you fail in your quest.",
+  "pt": "A MOCHILA DE EXPLORADOR serve como a sua BOLSA dentro da PIRÂMIDE.\\pExistem duas MOCHILAS DE EXPLORADOR separadas: uma para a aventura de Nível 50 e outra para a de Nível Livre.\\pCada uma comporta até 99 unidades de dez tipos de itens.\\pO conteúdo da MOCHILA DE EXPLORADOR se perde se você falhar na sua missão."
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "02995AD",
+  "en": "Young adventurer…\\pWouldn't you agree that explorations\\nare the grandest of adventures?\\pYour own wits!\\pYour own strength!\\pYour own POKéMON!\\pAnd, above all, only your own courage\\nto lead you through unknown worlds…",
+  "pt": "Jovem aventureiro…\\pVocê não concorda que as explorações são as maiores aventuras de todas?\\pA sua própria astúcia!\\pA sua própria força!\\pAs suas próprias CAPTURAS!\\pE, acima de tudo, só a sua própria coragem para te guiar por mundos desconhecidos…"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "0299682",
+  "en": "Aah, yes, indeed this life is grand!\\nGrand, it is! Eh?\\pI'm BRANDON!\\pI'm the PYRAMID KING, which means\\nI'm in charge here.\\pMost people call me the chief!\\pYou coming here means you have\\nthat much confidence in yourself,\\lam I right?\\pHahahah!\\nThis should be exciting!",
+  "pt": "Aah, sim, esta vida é mesmo grandiosa! Grandiosa, é o que ela é! Hein?\\pEu sou o BRANDON!\\pSou o REI DA PIRÂMIDE, o que quer dizer que eu mando aqui.\\pA maioria das pessoas me chama de chefe!\\pSe você veio até aqui, é porque confia muito em si mesmo, acertei?\\pHahahah! Isso vai ser empolgante!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "029978A",
+  "en": "Now, then!\\nBring your courage to our battle!",
+  "pt": "Muito bem, então! Traga a sua coragem para a nossa batalha!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "02997B7",
+  "en": "BRANDON: Hahahah! Grand it was!\\nGrand, yes, indeed!\\pWell done! You've earned recognition!\\nYour FRONTIER PASS, please!",
+  "pt": "BRANDON: Hahahah! Foi grandioso! Grandioso, sim, sem dúvida!\\pMuito bem! Você merece reconhecimento! O seu PASSE DA FRONTEIRA, por favor!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "029982D",
+  "en": "The Brave Symbol was embossed on\\nthe FRONTIER PASS!",
+  "pt": "O Símbolo da Bravura foi gravado no PASSE DA FRONTEIRA!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "0299861",
+  "en": "Young explorer!\\nI look forward to our next meeting!",
+  "pt": "Jovem explorador! Estou ansioso pelo nosso próximo encontro!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "0299895",
+  "en": "BRANDON: …You've finally returned,\\nyoung explorer…\\pYour love of adventure seems to come\\ndeep from within your heart…\\pYes… You are exactly as I was in\\nmy own youth…\\p… … …Ah…\\pThe passionate!\\pThe dangerous!\\pThe desperate!\\pThose days of death-defying,\\nlife-affirming adventures are back…",
+  "pt": "BRANDON: …Você finalmente voltou, jovem explorador…\\pO seu amor pela aventura parece vir do fundo do coração…\\pSim… Você é exatamente como eu era na minha juventude…\\p… … …Ah…\\pA paixão!\\pO perigo!\\pO desespero!\\pAqueles dias de aventuras que desafiavam a morte e celebravam a vida estão de volta…"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "02999B1",
+  "en": "Now, then!\\pI sense my own courage is off\\nthe meter!",
+  "pt": "Muito bem, então!\\pSinto que a minha coragem está nas alturas!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "02999E5",
+  "en": "Everything you have!\\nI'm braced for it all!",
+  "pt": "Tudo o que você tem! Estou pronto pra tudo!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "0299A11",
+  "en": "BRANDON: Hahahah!\\nRemarkable!\\lYes, it's grand, indeed!\\pYoung explorer!\\pYou've bested me through and through!\\nHere! I want you to have this!",
+  "pt": "BRANDON: Hahahah! Notável! Sim, é grandioso, sem dúvida!\\pJovem explorador!\\pVocê me superou de ponta a ponta! Tome! Quero que fique com isto!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "0299A9D",
+  "en": "The Brave Symbol took on\\na golden shine!",
+  "pt": "O Símbolo da Bravura ganhou um brilho dourado!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "0299AC6",
+  "en": "Ah, yes! It just goes to show that\\nI have much to learn still!\\pMay our paths cross again!\\nFarewell for now, young explorer!",
+  "pt": "Ah, sim! Isso só mostra que eu ainda tenho muito a aprender!\\pQue os nossos caminhos se cruzem de novo! Até breve, jovem explorador!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "0299B42",
+  "en": "Now, when you are ready, take courage\\nand step forward.",
+  "pt": "Agora, quando estiver pronto, crie coragem e dê um passo à frente."
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "02EAF51",
+  "en": "MARIO! Welcome to a PIT rest stop! This\\nmarks a checkpoint of sorts in the PIT,\\land you'll start from here next time you\\lchoose to proceed.\\pFor now, your CAPTURES must be\\nexhausted. They're gonna need a\\lsignificant break before they continue\\lon, so let's go back to NEW DONK CITY as\\lsoon as you're ready.",
+  "pt": "MARIO! Bem-vindo a uma ÁREA DE DESCANSO do POÇO! Ela funciona como uma espécie de ponto de controle do POÇO, e é daqui que você vai partir da próxima vez que decidir seguir em frente.\\pPor enquanto, as suas CAPTURAS devem estar exaustas. Elas vão precisar de um bom descanso antes de continuar, então vamos voltar pra NEW DONK CITY assim que você estiver pronto."
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "02EB082",
+  "en": "Congrats, MARIO! You've achieved a\\ngreat milestone today!",
+  "pt": "Parabéns, MARIO! Você alcançou um grande marco hoje!"
+ },
+ {
+  "map": "42.27 NEW DONK CITY",
+  "offset": "02EB0BC",
+  "en": "MARIO! Good job making it to another\\nrest stop… or so I'd like to say.\\pSomeone is up ahead waiting for you,\\nsaid they have some sort of score to\\lsettle from back in DIAMOND CITY?\\pI don't really know much, I'm just the\\nguide, but you should go check it out!",
+  "pt": "MARIO! Bom trabalho chegando a mais uma área de descanso… ou é o que eu gostaria de dizer.\\pTem alguém logo à frente esperando por você. Disse que tem umas contas pra acertar lá de DIAMOND CITY?\\pEu não sei de muita coisa, sou só o guia, mas você devia ir lá conferir!"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A12E",
+  "en": "Now, do you wish to take\\nthe BATTLE ARENA challenge?",
+  "pt": "E então, deseja encarar o desafio da ARENA DE BATALHA?"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A163",
+  "en": "We await your challenge on\\nanother occasion!",
+  "pt": "Aguardamos o seu desafio numa outra ocasião!"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A190",
+  "en": "In the BATTLE ARENA, we undertake\\nthe Set KO Tourney.\\pAll participants enter with a team of\\nthree POKéMON.\\pThe three POKéMON must be lined up in\\nthe order in which they are to appear.\\pDuring battle, the POKéMON will appear\\none at a time in the preset order.\\pOnce a POKéMON enters battle, it must\\nremain out until the match is decided.\\pIf a match remains undecided in\\nthree turns, it goes to judging.\\pIf you wish to interrupt your challenge,\\nplease save the game.\\pIf you don't save, you will not be able\\nto continue with your challenge.\\pIf you pull off the feat of beating\\nseven TRAINERS in succession,\\lwe will present you with Battle Points.",
+  "pt": "Na ARENA DE BATALHA, realizamos o Torneio Nocaute.\\pTodos os participantes entram com uma equipe de três CAPTURAS.\\pAs três CAPTURAS precisam ser organizadas na ordem em que vão entrar.\\pDurante a batalha, as CAPTURAS entram uma de cada vez, na ordem definida.\\pDepois que uma CAPTURA entra na batalha, ela precisa ficar até a partida ser decidida.\\pSe a partida não for decidida em três turnos, ela vai para o julgamento.\\pSe quiser interromper o seu desafio, salve o jogo, por favor.\\pSe não salvar, você não vai poder continuar o seu desafio.\\pSe conseguir a façanha de vencer sete TREINADORES seguidos, entregaremos a você Pontos de Batalha."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A412",
+  "en": "Before showing you to the BATTLE\\nARENA, you must save. Is that okay?",
+  "pt": "Antes de te levar à ARENA DE BATALHA, preciso salvar o jogo. Tudo bem?"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A457",
+  "en": "The BATTLE ARENA offers two levels\\nof challenge, Level 50 and Open Level.\\lWhich is your choice?",
+  "pt": "A ARENA DE BATALHA oferece dois níveis de desafio: Nível 50 e Nível Livre. Qual você escolhe?"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A4B7",
+  "en": "Very well, now select your\\nthree POKéMON, please.",
+  "pt": "Muito bem, agora escolha as suas três CAPTURAS, por favor."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A4E9",
+  "en": "My dear challenger!\\pYou do not have the three POKéMON\\nrequired for entry.\\pTo qualify, you must bring three\\ndifferent kinds of POKéMON.\\pThey also must not hold the same\\nkinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pWhen you have made your preparations,\\nplease do return.",
+  "pt": "Meu caro desafiante!\\pVocê não tem as três CAPTURAS necessárias para participar.\\pPara se qualificar, você precisa trazer três tipos diferentes de CAPTURAS.\\pElas também não podem segurar o mesmo tipo de item.\\pOVOS{STR_VAR_1} proibidos.\\pQuando estiver preparado, volte, por favor."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A5EC",
+  "en": "My dear challenger!\\pYou do not have the three POKéMON\\nrequired for entry.\\pTo qualify, you must bring three\\ndifferent kinds of POKéMON.\\pThe three different POKéMON\\nmust all be Level 50 or lower.\\pThey also must not hold the same\\nkinds of items.\\pEGGS{STR_VAR_1} ineligible.\\pWhen you have made your preparations,\\nplease do return.",
+  "pt": "Meu caro desafiante!\\pVocê não tem as três CAPTURAS necessárias para participar.\\pPara se qualificar, você precisa trazer três tipos diferentes de CAPTURAS.\\pAs três CAPTURAS diferentes precisam ser de Nível 50 ou menos.\\pElas também não podem segurar o mesmo tipo de item.\\pOVOS{STR_VAR_1} proibidos.\\pQuando estiver preparado, volte, por favor."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A72A",
+  "en": "I shall now guide you to\\nthe BATTLE ARENA.",
+  "pt": "Agora vou te levar à ARENA DE BATALHA."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A755",
+  "en": "My dear challenger!\\pYou did not save the game before\\nshutting down, did you?\\pIt is unfortunate, but that has\\nresulted in your disqualification\\lfrom your challenge.\\pYou may, of course, start with a fresh\\nchallenge.",
+  "pt": "Meu caro desafiante!\\pVocê não salvou o jogo antes de desligar, não é?\\pÉ uma pena, mas isso resultou na sua desclassificação do desafio.\\pÉ claro que você pode começar um desafio novo."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A82B",
+  "en": "We congratulate you for your splendid\\nstring of wins over seven TRAINERS!",
+  "pt": "Parabéns pela sua esplêndida sequência de vitórias sobre sete TREINADORES!"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A875",
+  "en": "Your achievement will be recorded.\\nPlease wait while I save the game.",
+  "pt": "A sua conquista será registrada. Aguarde enquanto eu salvo o jogo."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A970",
+  "en": "Thank you so much for participating!\\pPlease wait while I save the game.",
+  "pt": "Muito obrigado por participar!\\pAguarde enquanto eu salvo o jogo."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A9B8",
+  "en": "We await your challenge on\\nanother occasion!",
+  "pt": "Aguardamos o seu desafio numa outra ocasião!"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029A9E5",
+  "en": "We have been looking forward to\\nyour arrival.\\pBefore I show you to the BATTLE\\nARENA, I must save the game.\\lPlease wait.",
+  "pt": "Estávamos ansiosos pela sua chegada.\\pAntes de te levar à ARENA DE BATALHA, preciso salvar o jogo. Aguarde, por favor."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029AA5D",
+  "en": "Shall I record your last BATTLE ARENA\\nmatch on your FRONTIER PASS?",
+  "pt": "Devo gravar a sua última partida da ARENA DE BATALHA no seu PASSE DA FRONTEIRA?"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029AAA0",
+  "en": "I lost on the REFEREE's decision…\\pI don't think it was a good idea to only\\nuse defensive moves and not attack…",
+  "pt": "Perdi na decisão do JUIZ…\\pAcho que não foi uma boa ideia usar só golpes defensivos e não atacar…"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029AB0F",
+  "en": "I won in judging!\\pLanding hits consistently on\\nthe opponent's POKéMON worked!",
+  "pt": "Venci no julgamento!\\pAcertar golpes sem parar nas CAPTURAS do oponente funcionou!"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029AB5D",
+  "en": "Our match was declared a draw.\\pWhen we ran out of time, both my\\nPOKéMON and the opponent's had about\\lthe same amount of HP left.",
+  "pt": "A nossa partida terminou empatada.\\pQuando o tempo acabou, a minha CAPTURA e a do oponente tinham mais ou menos a mesma quantidade de HP."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029ABDE",
+  "en": "In the BATTLE ARENA, the order of\\nPOKéMON is totally important.\\pFor example, if your first POKéMON\\nhas certain type disadvantages,\\ltry making your second POKéMON one\\lwith moves that are super effective\\lagainst the first one.\\pI think that will be a good way of\\nmaking an effective team.",
+  "pt": "Na ARENA DE BATALHA, a ordem das CAPTURAS é superimportante.\\pPor exemplo, se a sua primeira CAPTURA tiver certas desvantagens de tipo, tente colocar como segunda uma CAPTURA com golpes supereficazes contra os tipos que vencem a primeira.\\pAcho que esse é um bom jeito de montar uma equipe eficiente."
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029B21D",
+  "en": "A victory snatched from the ARENA\\nTYCOON, and a seven-TRAINER sweep!\\pWe congratulate you on your most\\nsplendid challenge!",
+  "pt": "Uma vitória arrancada do MAGNATA DA ARENA e sete TREINADORES varridos!\\pParabéns pelo seu desafio mais que esplêndido!"
+ },
+ {
+  "map": "42.28 NEW DONK CITY",
+  "offset": "029B297",
+  "en": "My dear challenger, in recognition of\\nyour indefatigable spirit, please\\laccept these Battle Point(s).",
+  "pt": "Meu caro desafiante, em reconhecimento ao seu espírito incansável, aceite estes Ponto(s) de Batalha."
+ }
+]

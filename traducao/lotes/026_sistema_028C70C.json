@@ -1,0 +1,1397 @@
+[
+ {
+  "offset": "028C70C",
+  "en": "All righty!\\nYou leave the registration to me!",
+  "pt": "Beleza! Pode deixar a inscrição comigo!"
+ },
+ {
+  "offset": "028C73A",
+  "en": "You have to team up with me next time,\\nall right?",
+  "pt": "Da próxima vez, você tem que formar dupla comigo, combinado?"
+ },
+ {
+  "offset": "028C76C",
+  "en": "I'm {STR_VAR_1}, and I'm proud to say\\nthat I am a POKéFAN.",
+  "pt": "Sou {STR_VAR_1}, e tenho orgulho\\nde dizer que sou FÃ DE CAPTURAS."
+ },
+ {
+  "offset": "028C79E",
+  "en": "The darling POKéMON I've raised are\\none {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "As CAPTURAS queridas que eu criei são\\num {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028C7D5",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}.\\pAren't they just the cutest?\\nWe ought to make a team!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}.\\pNão são as coisas mais fofas? A gente devia formar uma dupla!"
+ },
+ {
+  "offset": "028C81B",
+  "en": "Thank you, dear!\\nI'll be on my way to register!",
+  "pt": "Que amor, querido! Vou já fazer a nossa inscrição!"
+ },
+ {
+  "offset": "028C84B",
+  "en": "My darling POKéMON are the best,\\nI'll have you know. How annoying!",
+  "pt": "Fique sabendo que as minhas CAPTURAS queridas são as melhores. Que irritante!"
+ },
+ {
+  "offset": "028C88E",
+  "en": "Hi, I'm SWIMMER {STR_VAR_1}.",
+  "pt": "Oi, sou o NADADOR {STR_VAR_1}."
+ },
+ {
+  "offset": "028C8A2",
+  "en": "One {STR_VAR_1}-using {STR_VAR_2}",
+  "pt": "Um {STR_VAR_2} que usa {STR_VAR_1}"
+ },
+ {
+  "offset": "028C8B2",
+  "en": "and one {STR_VAR_1}-using\\n{STR_VAR_2} are what I've trained.\\pYou and me, let's make a tag team.",
+  "pt": "e um {STR_VAR_2} que usa {STR_VAR_1}\\nsão as CAPTURAS que eu treinei.\\pVocê e eu, vamos formar uma dupla."
+ },
+ {
+  "offset": "028C900",
+  "en": "That's cool!\\nI'll register the two of us.",
+  "pt": "Que legal! Vou inscrever nós dois."
+ },
+ {
+  "offset": "028C92A",
+  "en": "If we meet again, you owe me\\na tag team!",
+  "pt": "Se a gente se encontrar de novo, você me deve uma dupla!"
+ },
+ {
+  "offset": "028C953",
+  "en": "What's happening?\\nI'm {STR_VAR_1}, and I'm a TRIATHLETE.",
+  "pt": "E aí, beleza?\\nSou {STR_VAR_1}, e sou TRIATLETA."
+ },
+ {
+  "offset": "028C983",
+  "en": "I got a couple decent POKéMON.\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Tenho duas CAPTURAS bem decentes.\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028C9B5",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pIt'd be neat if we made a tag team\\ntogether, so how about it?",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pSeria massa se a gente formasse uma dupla. Que tal?"
+ },
+ {
+  "offset": "028CA03",
+  "en": "Right on!\\nYou wait while I register, okay?",
+  "pt": "Isso aí! Espere enquanto eu faço a inscrição, tá?"
+ },
+ {
+  "offset": "028CA2E",
+  "en": "I expect you'll let me join you\\nnext time, how's that?",
+  "pt": "Espero que da próxima vez você me deixe formar dupla com você, que tal?"
+ },
+ {
+  "offset": "028CA65",
+  "en": "I'm the TRIATHLETE {STR_VAR_1}!",
+  "pt": "Sou {STR_VAR_1}, TRIATLETA!"
+ },
+ {
+  "offset": "028CA7C",
+  "en": "One {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Um {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028CA8F",
+  "en": "another {STR_VAR_2} that knows how\\nto use {STR_VAR_1}. That's my pair.\\pWhat do you think?\\nWe'd make a good team, I'd say.",
+  "pt": "outro {STR_VAR_2} que sabe usar\\n{STR_VAR_1}. Essa é a minha dupla.\\pO que acha? Eu diria que a gente formaria uma boa equipe."
+ },
+ {
+  "offset": "028CAF7",
+  "en": "I like that answer!\\nI'll get done with registration fast!",
+  "pt": "Gostei da resposta! Vou fazer a inscrição rapidinho!"
+ },
+ {
+  "offset": "028CB31",
+  "en": "You'll give me another chance to form\\na partnership, won't you?",
+  "pt": "Você vai me dar outra chance de formar uma parceria, né?"
+ },
+ {
+  "offset": "028CB71",
+  "en": "Hi, there! Hello!\\nI'm {STR_VAR_1}, and I'm a SWIMMER!",
+  "pt": "Oi! Olá!\\nSou {STR_VAR_1}, e sou NADADORA!"
+ },
+ {
+  "offset": "028CB9E",
+  "en": "Check out what I've been raising!\\nOne {STR_VAR_2} with {STR_VAR_1} and",
+  "pt": "Olha só o que eu ando criando!\\nUm {STR_VAR_2} com {STR_VAR_1} e"
+ },
+ {
+  "offset": "028CBD3",
+  "en": "one {STR_VAR_2} with {STR_VAR_1}!\\pSweet, huh?\\nIt'd be sweet to form a team, too!",
+  "pt": "um {STR_VAR_2} com {STR_VAR_1}!\\pDemais, né? Seria demais formar uma dupla também!"
+ },
+ {
+  "offset": "028CC12",
+  "en": "Much obliged!\\nI'll get this registration thing done!",
+  "pt": "Valeu mesmo! Vou resolver essa coisa da inscrição!"
+ },
+ {
+  "offset": "028CC47",
+  "en": "If we meet again, you have to team up\\nwith me. You'll do that, right?",
+  "pt": "Se a gente se encontrar de novo, você tem que formar dupla comigo. Vai fazer isso, né?"
+ },
+ {
+  "offset": "028D6DE",
+  "en": "Your partner has retired.\\pYour BATTLE ROOM challenge\\nwill be canceled.",
+  "pt": "O seu parceiro desistiu.\\pO seu desafio da SALA DE BATALHA será cancelado."
+ },
+ {
+  "offset": "0296C25",
+  "en": "Your BATTLE PIT quest will be\\nsaved so that you may quit for now.\\lIs that okay?",
+  "pt": "A sua missão no POÇO DE BATALHA será salva para que você possa parar por agora. Tudo bem?"
+ },
+ {
+  "offset": "0296C75",
+  "en": "Are you sure you want to quit your\\nPIT quest?",
+  "pt": "Tem certeza de que quer abandonar a sua missão no POÇO?"
+ },
+ {
+  "offset": "0296CA3",
+  "en": "This floor's exit is in\\nthat direction: ↑",
+  "pt": "A saída deste andar fica nesta direção: ↑"
+ },
+ {
+  "offset": "0296CCD",
+  "en": "This floor's exit is in\\nthat direction: ←",
+  "pt": "A saída deste andar fica nesta direção: ←"
+ },
+ {
+  "offset": "0296CF7",
+  "en": "This floor's exit is in\\nthat direction: →",
+  "pt": "A saída deste andar fica nesta direção: →"
+ },
+ {
+  "offset": "0296D21",
+  "en": "This floor's exit is in\\nthat direction: ↓",
+  "pt": "A saída deste andar fica nesta direção: ↓"
+ },
+ {
+  "offset": "0296D4B",
+  "en": "The exit on this floor is in\\nthe ↑ direction.",
+  "pt": "A saída deste andar fica na direção ↑."
+ },
+ {
+  "offset": "0296D79",
+  "en": "The exit on this floor is in\\nthe ← direction.",
+  "pt": "A saída deste andar fica na direção ←."
+ },
+ {
+  "offset": "0296DA7",
+  "en": "The exit on this floor is in\\nthe → direction.",
+  "pt": "A saída deste andar fica na direção →."
+ },
+ {
+  "offset": "0296DD5",
+  "en": "The exit on this floor is in\\nthe ↓ direction.",
+  "pt": "A saída deste andar fica na direção ↓."
+ },
+ {
+  "offset": "0296E03",
+  "en": "The exit is over\\nthat ↑ way.",
+  "pt": "A saída fica para aquele lado: ↑"
+ },
+ {
+  "offset": "0296E20",
+  "en": "The exit is over\\nthat ← way.",
+  "pt": "A saída fica para aquele lado: ←"
+ },
+ {
+  "offset": "0296E3D",
+  "en": "The exit is over\\nthat → way.",
+  "pt": "A saída fica para aquele lado: →"
+ },
+ {
+  "offset": "0296E5A",
+  "en": "The exit is over\\nthat ↓ way.",
+  "pt": "A saída fica para aquele lado: ↓"
+ },
+ {
+  "offset": "0296E77",
+  "en": "On this floor, the exit is somewhere\\nin the ↑ direction.",
+  "pt": "Neste andar, a saída fica em algum lugar na direção ↑."
+ },
+ {
+  "offset": "0296EB0",
+  "en": "On this floor, the exit is somewhere\\nin the ← direction.",
+  "pt": "Neste andar, a saída fica em algum lugar na direção ←."
+ },
+ {
+  "offset": "0296EE9",
+  "en": "On this floor, the exit is somewhere\\nin the → direction.",
+  "pt": "Neste andar, a saída fica em algum lugar na direção →."
+ },
+ {
+  "offset": "0296F22",
+  "en": "On this floor, the exit is somewhere\\nin the ↓ direction.",
+  "pt": "Neste andar, a saída fica em algum lugar na direção ↓."
+ },
+ {
+  "offset": "0296F5B",
+  "en": "The exit?\\nIt's that ↑ way.",
+  "pt": "A saída? É por ali: ↑"
+ },
+ {
+  "offset": "0296F76",
+  "en": "The exit?\\nIt's that ← way.",
+  "pt": "A saída? É por ali: ←"
+ },
+ {
+  "offset": "0296F91",
+  "en": "The exit?\\nIt's that → way.",
+  "pt": "A saída? É por ali: →"
+ },
+ {
+  "offset": "0296FAC",
+  "en": "The exit?\\nIt's that ↓ way.",
+  "pt": "A saída? É por ali: ↓"
+ },
+ {
+  "offset": "0296FC7",
+  "en": "The exit happens to be in\\nthe ↑ direction.",
+  "pt": "Por acaso, a saída fica na direção ↑."
+ },
+ {
+  "offset": "0296FF2",
+  "en": "The exit happens to be in\\nthe ← direction.",
+  "pt": "Por acaso, a saída fica na direção ←."
+ },
+ {
+  "offset": "029701D",
+  "en": "The exit happens to be in\\nthe → direction.",
+  "pt": "Por acaso, a saída fica na direção →."
+ },
+ {
+  "offset": "0297048",
+  "en": "The exit happens to be in\\nthe ↓ direction.",
+  "pt": "Por acaso, a saída fica na direção ↓."
+ },
+ {
+  "offset": "0297073",
+  "en": "Are you looking for items?\\pThere are eight items left to\\nbe found.",
+  "pt": "Está procurando itens?\\pAinda restam oito itens para encontrar."
+ },
+ {
+  "offset": "02970B6",
+  "en": "Are you looking for items?\\pThere are seven items left to\\nbe found.",
+  "pt": "Está procurando itens?\\pAinda restam sete itens para encontrar."
+ },
+ {
+  "offset": "02970F9",
+  "en": "Are you looking for items?\\pThere are six items left to\\nbe found.",
+  "pt": "Está procurando itens?\\pAinda restam seis itens para encontrar."
+ },
+ {
+  "offset": "029713A",
+  "en": "Are you looking for items?\\pThere are five items left to\\nbe found.",
+  "pt": "Está procurando itens?\\pAinda restam cinco itens para encontrar."
+ },
+ {
+  "offset": "029717C",
+  "en": "Are you looking for items?\\pThere are four items left to\\nbe found.",
+  "pt": "Está procurando itens?\\pAinda restam quatro itens para encontrar."
+ },
+ {
+  "offset": "02971BE",
+  "en": "Are you looking for items?\\pThere are three items left to\\nbe found.",
+  "pt": "Está procurando itens?\\pAinda restam três itens para encontrar."
+ },
+ {
+  "offset": "0297201",
+  "en": "Are you looking for items?\\pThere are two items left to\\nbe found.",
+  "pt": "Está procurando itens?\\pAinda restam dois itens para encontrar."
+ },
+ {
+  "offset": "0297242",
+  "en": "Are you looking for items?\\pThere is one item left to\\nbe found.",
+  "pt": "Está procurando itens?\\pAinda resta um item para encontrar."
+ },
+ {
+  "offset": "0297281",
+  "en": "Are you looking for items?\\pThere isn't anything left to\\nbe found!",
+  "pt": "Está procurando itens?\\pNão resta mais nada para encontrar!"
+ },
+ {
+  "offset": "02972C3",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere are eight items\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pHá oito itens espalhados por aqui."
+ },
+ {
+  "offset": "029731C",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere are seven items left\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pAinda há sete itens espalhados por aqui."
+ },
+ {
+  "offset": "029737A",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere are six items left\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pAinda há seis itens espalhados por aqui."
+ },
+ {
+  "offset": "02973D6",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere are five items left\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pAinda há cinco itens espalhados por aqui."
+ },
+ {
+  "offset": "0297433",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere are four items left\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pAinda há quatro itens espalhados por aqui."
+ },
+ {
+  "offset": "0297490",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere are three items left\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pAinda há três itens espalhados por aqui."
+ },
+ {
+  "offset": "02974EE",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere are two items left\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pAinda há dois itens espalhados por aqui."
+ },
+ {
+  "offset": "029754A",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere is just one item\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pSó há um item espalhado por aqui."
+ },
+ {
+  "offset": "02975A4",
+  "en": "Because you won, I'll tell you\\na little secret!\\pThere isn't anything left\\nlying around here.",
+  "pt": "Como você venceu, vou te contar um segredinho!\\pNão há mais nada espalhado por aqui."
+ },
+ {
+  "offset": "0297601",
+  "en": "How's your stock of items holding up?\\pI reckon there are eight items left\\nwaiting to be found on this floor.",
+  "pt": "Como está o seu estoque de itens?\\pAcho que ainda restam oito itens esperando para serem encontrados neste andar."
+ },
+ {
+  "offset": "029766E",
+  "en": "How's your stock of items holding up?\\pI reckon there are seven items left\\nwaiting to be found on this floor.",
+  "pt": "Como está o seu estoque de itens?\\pAcho que ainda restam sete itens esperando para serem encontrados neste andar."
+ },
+ {
+  "offset": "02976DB",
+  "en": "How's your stock of items holding up?\\pI reckon there are six items left\\nwaiting to be found on this floor.",
+  "pt": "Como está o seu estoque de itens?\\pAcho que ainda restam seis itens esperando para serem encontrados neste andar."
+ },
+ {
+  "offset": "0297746",
+  "en": "How's your stock of items holding up?\\pI reckon there are five items left\\nwaiting to be found on this floor.",
+  "pt": "Como está o seu estoque de itens?\\pAcho que ainda restam cinco itens esperando para serem encontrados neste andar."
+ },
+ {
+  "offset": "02977B2",
+  "en": "How's your stock of items holding up?\\pI reckon there are four items left\\nwaiting to be found on this floor.",
+  "pt": "Como está o seu estoque de itens?\\pAcho que ainda restam quatro itens esperando para serem encontrados neste andar."
+ },
+ {
+  "offset": "029781E",
+  "en": "How's your stock of items holding up?\\pI reckon there are three items left\\nwaiting to be found on this floor.",
+  "pt": "Como está o seu estoque de itens?\\pAcho que ainda restam três itens esperando para serem encontrados neste andar."
+ },
+ {
+  "offset": "029788B",
+  "en": "How's your stock of items holding up?\\pI reckon there are two items left\\nwaiting to be found on this floor.",
+  "pt": "Como está o seu estoque de itens?\\pAcho que ainda restam dois itens esperando para serem encontrados neste andar."
+ },
+ {
+  "offset": "02978F6",
+  "en": "How's your stock of items holding up?\\pI reckon there's but one item left\\nwaiting to be found on this floor.",
+  "pt": "Como está o seu estoque de itens?\\pAcho que só resta um item esperando para ser encontrado neste andar."
+ },
+ {
+  "offset": "0297962",
+  "en": "How's your stock of items holding up?\\pI reckon there are no more items\\nwaiting to be found on this floor.\\lYou take care now!",
+  "pt": "Como está o seu estoque de itens?\\pAcho que não restam mais itens esperando para serem encontrados neste andar. Se cuide!"
+ },
+ {
+  "offset": "02979DF",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appear to be eight more\\nitems on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que ainda há mais oito itens no chão."
+ },
+ {
+  "offset": "0297A3A",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appear to be seven more\\nitems on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que ainda há mais sete itens no chão."
+ },
+ {
+  "offset": "0297A95",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appear to be six more\\nitems on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que ainda há mais seis itens no chão."
+ },
+ {
+  "offset": "0297AEE",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appear to be five more\\nitems on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que ainda há mais cinco itens no chão."
+ },
+ {
+  "offset": "0297B48",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appear to be four more\\nitems on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que ainda há mais quatro itens no chão."
+ },
+ {
+  "offset": "0297BA2",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appear to be three more\\nitems on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que ainda há mais três itens no chão."
+ },
+ {
+  "offset": "0297BFD",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appear to be two more\\nitems on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que ainda há mais dois itens no chão."
+ },
+ {
+  "offset": "0297C56",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appears to be only one more\\nitem on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que só há mais um item no chão."
+ },
+ {
+  "offset": "0297CB4",
+  "en": "You're strong, so you've earned\\na hint!\\pThere appear to be no more\\nitems on the ground.",
+  "pt": "Você é forte, então merece uma dica!\\pParece que não há mais itens no chão."
+ },
+ {
+  "offset": "0297D0C",
+  "en": "On this floor of the PIT,\\nI hear there are eight items…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, há oito itens…"
+ },
+ {
+  "offset": "0297D44",
+  "en": "On this floor of the PIT,\\nI hear there are seven items…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, há sete itens…"
+ },
+ {
+  "offset": "0297D7C",
+  "en": "On this floor of the PIT,\\nI hear there are six items…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, há seis itens…"
+ },
+ {
+  "offset": "0297DB2",
+  "en": "On this floor of the PIT,\\nI hear there are five items…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, há cinco itens…"
+ },
+ {
+  "offset": "0297DE9",
+  "en": "On this floor of the PIT,\\nI hear there are four items…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, há quatro itens…"
+ },
+ {
+  "offset": "0297E20",
+  "en": "On this floor of the PIT,\\nI hear there are three items…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, há três itens…"
+ },
+ {
+  "offset": "0297E58",
+  "en": "On this floor of the PIT,\\nI hear there are two items…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, há dois itens…"
+ },
+ {
+  "offset": "0297E8E",
+  "en": "On this floor of the PIT,\\nI hear there is one item…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, há um item…"
+ },
+ {
+  "offset": "0297EC2",
+  "en": "On this floor of the PIT,\\nI hear there are no items…",
+  "pt": "Ouvi dizer que, neste andar do POÇO, não há nenhum item…"
+ },
+ {
+  "offset": "0297EF7",
+  "en": "Have you collected any items?\\pI believe there are eight more\\nitems on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que ainda há mais oito itens neste andar."
+ },
+ {
+  "offset": "0297F49",
+  "en": "Have you collected any items?\\pI believe there are seven more\\nitems on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que ainda há mais sete itens neste andar."
+ },
+ {
+  "offset": "0297F9B",
+  "en": "Have you collected any items?\\pI believe there are six more\\nitems on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que ainda há mais seis itens neste andar."
+ },
+ {
+  "offset": "0297FEB",
+  "en": "Have you collected any items?\\pI believe there are five more\\nitems on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que ainda há mais cinco itens neste andar."
+ },
+ {
+  "offset": "029803C",
+  "en": "Have you collected any items?\\pI believe there are four more\\nitems on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que ainda há mais quatro itens neste andar."
+ },
+ {
+  "offset": "029808D",
+  "en": "Have you collected any items?\\pI believe there are three more\\nitems on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que ainda há mais três itens neste andar."
+ },
+ {
+  "offset": "02980DF",
+  "en": "Have you collected any items?\\pI believe there are two more\\nitems on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que ainda há mais dois itens neste andar."
+ },
+ {
+  "offset": "029812F",
+  "en": "Have you collected any items?\\pI believe there is one more\\nitem on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que ainda há mais um item neste andar."
+ },
+ {
+  "offset": "029817D",
+  "en": "Have you collected any items?\\pI believe there are no more\\nitems on this floor.",
+  "pt": "Já pegou algum item?\\pAcredito que não há mais itens neste andar."
+ },
+ {
+  "offset": "02981CC",
+  "en": "You were really awesome!\\pBut there are still seven tough\\nTRAINERS other than me!",
+  "pt": "Você foi incrível!\\pMas ainda há sete TREINADORES durões além de mim!"
+ },
+ {
+  "offset": "029821D",
+  "en": "You were really awesome!\\pBut there are still six tough\\nTRAINERS other than me!",
+  "pt": "Você foi incrível!\\pMas ainda há seis TREINADORES durões além de mim!"
+ },
+ {
+  "offset": "029826C",
+  "en": "You were really awesome!\\pBut there are still five tough\\nTRAINERS other than me!",
+  "pt": "Você foi incrível!\\pMas ainda há cinco TREINADORES durões além de mim!"
+ },
+ {
+  "offset": "02982BC",
+  "en": "You were really awesome!\\pBut there are still four tough\\nTRAINERS other than me!",
+  "pt": "Você foi incrível!\\pMas ainda há quatro TREINADORES durões além de mim!"
+ },
+ {
+  "offset": "029830C",
+  "en": "You were really awesome!\\pBut there are still three tough\\nTRAINERS other than me!",
+  "pt": "Você foi incrível!\\pMas ainda há três TREINADORES durões além de mim!"
+ },
+ {
+  "offset": "029835D",
+  "en": "You were really awesome!\\pBut there are still two tough\\nTRAINERS other than me!",
+  "pt": "Você foi incrível!\\pMas ainda há dois TREINADORES durões além de mim!"
+ },
+ {
+  "offset": "02983AC",
+  "en": "You were really awesome!\\pBut there's still one tough\\nTRAINER other than me!",
+  "pt": "Você foi incrível!\\pMas ainda há um TREINADOR durão além de mim!"
+ },
+ {
+  "offset": "02983F8",
+  "en": "You were really awesome!\\pThere's no one left that\\ncan beat you!",
+  "pt": "Você foi incrível!\\pNão sobrou ninguém que consiga te vencer!"
+ },
+ {
+  "offset": "0298438",
+  "en": "This is so upsetting!\\pBut there are seven TRAINERS left!\\nSomeone will humble you!",
+  "pt": "Que frustrante!\\pMas ainda restam sete TREINADORES! Alguém vai te pôr no seu lugar!"
+ },
+ {
+  "offset": "029848A",
+  "en": "This is so upsetting!\\pBut there are six TRAINERS left!\\nSomeone will humble you!",
+  "pt": "Que frustrante!\\pMas ainda restam seis TREINADORES! Alguém vai te pôr no seu lugar!"
+ },
+ {
+  "offset": "02984DA",
+  "en": "This is so upsetting!\\pBut there are five TRAINERS left!\\nSomeone will humble you!",
+  "pt": "Que frustrante!\\pMas ainda restam cinco TREINADORES! Alguém vai te pôr no seu lugar!"
+ },
+ {
+  "offset": "029852B",
+  "en": "This is so upsetting!\\pBut there are four TRAINERS left!\\nSomeone will humble you!",
+  "pt": "Que frustrante!\\pMas ainda restam quatro TREINADORES! Alguém vai te pôr no seu lugar!"
+ },
+ {
+  "offset": "029857C",
+  "en": "This is so upsetting!\\pBut there are three TRAINERS left!\\nSomeone will humble you!",
+  "pt": "Que frustrante!\\pMas ainda restam três TREINADORES! Alguém vai te pôr no seu lugar!"
+ },
+ {
+  "offset": "02985CE",
+  "en": "This is so upsetting!\\pBut there are two TRAINERS left!\\nSomeone will humble you!",
+  "pt": "Que frustrante!\\pMas ainda restam dois TREINADORES! Alguém vai te pôr no seu lugar!"
+ },
+ {
+  "offset": "029861E",
+  "en": "This is so upsetting!\\pBut there's one TRAINER left!\\nI'm sure you will be humbled!",
+  "pt": "Que frustrante!\\pMas ainda resta um TREINADOR! Tenho certeza de que você vai levar uma lição!"
+ },
+ {
+  "offset": "0298670",
+  "en": "This is so upsetting!\\pBut there are no more TRAINERS\\nwho can engage you!",
+  "pt": "Que frustrante!\\pMas não há mais TREINADORES que possam te enfrentar!"
+ },
+ {
+  "offset": "02986B9",
+  "en": "That's pretty impressive!\\pBut there are seven more TRAINERS\\non this floor. Can you beat them all?",
+  "pt": "Impressionante!\\pMas há mais sete TREINADORES neste andar. Consegue vencer todos?"
+ },
+ {
+  "offset": "029871B",
+  "en": "That's pretty impressive!\\pBut there are six more TRAINERS\\non this floor. Can you beat them all?",
+  "pt": "Impressionante!\\pMas há mais seis TREINADORES neste andar. Consegue vencer todos?"
+ },
+ {
+  "offset": "029877B",
+  "en": "That's pretty impressive!\\pBut there are five more TRAINERS\\non this floor. Can you beat them all?",
+  "pt": "Impressionante!\\pMas há mais cinco TREINADORES neste andar. Consegue vencer todos?"
+ },
+ {
+  "offset": "02987DC",
+  "en": "That's pretty impressive!\\pBut there are four more TRAINERS\\non this floor. Can you beat them all?",
+  "pt": "Impressionante!\\pMas há mais quatro TREINADORES neste andar. Consegue vencer todos?"
+ },
+ {
+  "offset": "029883D",
+  "en": "That's pretty impressive!\\pBut there are three more TRAINERS\\non this floor. Can you beat them all?",
+  "pt": "Impressionante!\\pMas há mais três TREINADORES neste andar. Consegue vencer todos?"
+ },
+ {
+  "offset": "029889F",
+  "en": "That's pretty impressive!\\pBut there are two more TRAINERS\\non this floor. Can you beat them both?",
+  "pt": "Impressionante!\\pMas há mais dois TREINADORES neste andar. Consegue vencer os dois?"
+ },
+ {
+  "offset": "0298900",
+  "en": "That's pretty impressive!\\pBut there's still one more TRAINER\\non this floor. Can you prevail?",
+  "pt": "Impressionante!\\pMas ainda há mais um TREINADOR neste andar. Será que você vence?"
+ },
+ {
+  "offset": "029895D",
+  "en": "That's pretty impressive!\\pYou've gone through all the TRAINERS\\non this floor.",
+  "pt": "Impressionante!\\pVocê passou por todos os TREINADORES deste andar."
+ },
+ {
+  "offset": "02989AB",
+  "en": "Maybe you could sweep through\\nthe seven TRAINERS left on this floor.",
+  "pt": "Talvez você consiga fazer a limpa nos sete TREINADORES que restam neste andar."
+ },
+ {
+  "offset": "02989F0",
+  "en": "Maybe you could sweep through\\nthe six TRAINERS left on this floor.",
+  "pt": "Talvez você consiga fazer a limpa nos seis TREINADORES que restam neste andar."
+ },
+ {
+  "offset": "0298A33",
+  "en": "Maybe you could sweep through\\nthe five TRAINERS left on this floor.",
+  "pt": "Talvez você consiga fazer a limpa nos cinco TREINADORES que restam neste andar."
+ },
+ {
+  "offset": "0298A77",
+  "en": "Maybe you could sweep through\\nthe four TRAINERS left on this floor.",
+  "pt": "Talvez você consiga fazer a limpa nos quatro TREINADORES que restam neste andar."
+ },
+ {
+  "offset": "0298ABB",
+  "en": "Maybe you could sweep through\\nthe three TRAINERS left on this floor.",
+  "pt": "Talvez você consiga fazer a limpa nos três TREINADORES que restam neste andar."
+ },
+ {
+  "offset": "0298B00",
+  "en": "Maybe you could sweep through\\nthe two TRAINERS left on this floor.",
+  "pt": "Talvez você consiga fazer a limpa nos dois TREINADORES que restam neste andar."
+ },
+ {
+  "offset": "0298B43",
+  "en": "Maybe you could complete your sweep\\nwith the one TRAINER left on this floor.",
+  "pt": "Talvez você consiga completar a limpa com o único TREINADOR que resta neste andar."
+ },
+ {
+  "offset": "0298B90",
+  "en": "There isn't a single person left who\\ncan defeat you now…",
+  "pt": "Não sobrou uma única pessoa que possa te derrotar agora…"
+ },
+ {
+  "offset": "0298BC9",
+  "en": "You may have what it takes to beat\\nthe seven expert TRAINERS who remain.",
+  "pt": "Talvez você tenha o que é preciso para vencer os sete TREINADORES experientes que restam."
+ },
+ {
+  "offset": "0298C12",
+  "en": "You may have what it takes to beat\\nthe six expert TRAINERS who remain.",
+  "pt": "Talvez você tenha o que é preciso para vencer os seis TREINADORES experientes que restam."
+ },
+ {
+  "offset": "0298C59",
+  "en": "You may have what it takes to beat\\nthe five expert TRAINERS who remain.",
+  "pt": "Talvez você tenha o que é preciso para vencer os cinco TREINADORES experientes que restam."
+ },
+ {
+  "offset": "0298CA1",
+  "en": "You may have what it takes to beat\\nthe four expert TRAINERS who remain.",
+  "pt": "Talvez você tenha o que é preciso para vencer os quatro TREINADORES experientes que restam."
+ },
+ {
+  "offset": "0298CE9",
+  "en": "You may have what it takes to beat\\nthe three expert TRAINERS who remain.",
+  "pt": "Talvez você tenha o que é preciso para vencer os três TREINADORES experientes que restam."
+ },
+ {
+  "offset": "0298D32",
+  "en": "You may have what it takes to beat\\nthe two expert TRAINERS who remain.",
+  "pt": "Talvez você tenha o que é preciso para vencer os dois TREINADORES experientes que restam."
+ },
+ {
+  "offset": "0298D79",
+  "en": "You may have what it takes to beat\\nthe one expert TRAINER who remains.",
+  "pt": "Talvez você tenha o que é preciso para vencer o único TREINADOR experiente que resta."
+ },
+ {
+  "offset": "0298DC0",
+  "en": "Your skills are beyond reproach.\\pThere are no more TRAINERS here\\nwho have any chance of beating you.",
+  "pt": "As suas habilidades são impecáveis.\\pNão há mais TREINADORES aqui com qualquer chance de te vencer."
+ },
+ {
+  "offset": "0298E25",
+  "en": "Can you keep winning against\\nthe seven remaining TRAINERS?",
+  "pt": "Será que você continua vencendo os sete TREINADORES restantes?"
+ },
+ {
+  "offset": "0298E60",
+  "en": "Can you keep winning against\\nthe six remaining TRAINERS?",
+  "pt": "Será que você continua vencendo os seis TREINADORES restantes?"
+ },
+ {
+  "offset": "0298E99",
+  "en": "Can you keep winning against\\nthe five remaining TRAINERS?",
+  "pt": "Será que você continua vencendo os cinco TREINADORES restantes?"
+ },
+ {
+  "offset": "0298ED3",
+  "en": "Can you keep winning against\\nthe four remaining TRAINERS?",
+  "pt": "Será que você continua vencendo os quatro TREINADORES restantes?"
+ },
+ {
+  "offset": "0298F0D",
+  "en": "Can you keep winning against\\nthe three remaining TRAINERS?",
+  "pt": "Será que você continua vencendo os três TREINADORES restantes?"
+ },
+ {
+  "offset": "0298F48",
+  "en": "Can you keep winning against\\nthe two remaining TRAINERS?",
+  "pt": "Será que você continua vencendo os dois TREINADORES restantes?"
+ },
+ {
+  "offset": "0298F81",
+  "en": "Can you keep winning against\\nthe last remaining TRAINER?",
+  "pt": "Será que você continua vencendo contra o último TREINADOR restante?"
+ },
+ {
+  "offset": "0298FBA",
+  "en": "There aren't any TRAINERS left that\\ncan take you on now…",
+  "pt": "Não há mais TREINADORES que possam te enfrentar agora…"
+ },
+ {
+  "offset": "02A0D99",
+  "en": "The path is blocked!\\nAnd there is no turning back…",
+  "pt": "O caminho está bloqueado! E não dá para voltar atrás…"
+ },
+ {
+  "offset": "02A410D",
+  "en": "A large poster with a SMOOCHUM print.",
+  "pt": "Um pôster grande de SMOOCHUM."
+ },
+ {
+  "offset": "02A4133",
+  "en": "A SMOOCHUM cushion.\\nPlace it on a mat or a desk.",
+  "pt": "Uma almofada de SMOOCHUM.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A4164",
+  "en": "A SMOOCHUM DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO de SMOOCHUM.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A4192",
+  "en": "A TOGEPI DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO de TOGEPI.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A41BE",
+  "en": "A MEOWTH DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO de MEOWTH.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A41EA",
+  "en": "A CLEFAIRY DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO de CLEFAIRY.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A4218",
+  "en": "A DITTO DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO de DITTO.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A4243",
+  "en": "A CYNDAQUIL DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO de CYNDAQUIL.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A4272",
+  "en": "A CHIKORITA DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO de CHIKORITA.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A42A1",
+  "en": "A TOTODILE DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO de TOTODILE.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A42CF",
+  "en": "A large DOLL.\\nPlace it on a mat or a desk.",
+  "pt": "Um BONECO grande.\\nColoque num tapete ou numa mesa."
+ },
+ {
+  "offset": "02A42FA",
+  "en": "Raises the stat ATTACK of one\\nPOKéMON.",
+  "pt": "Aumenta o atributo ATAQUE de uma\\nCAPTURA."
+ },
+ {
+  "offset": "02A4321",
+  "en": "Raises the stat SP. ATK of one\\nPOKéMON.",
+  "pt": "Aumenta o atributo AT. ESP. de uma\\nCAPTURA."
+ },
+ {
+  "offset": "02A4349",
+  "en": "Raises the stat DEFENSE of one\\nPOKéMON.",
+  "pt": "Aumenta o atributo DEFESA de uma\\nCAPTURA."
+ },
+ {
+  "offset": "02A4371",
+  "en": "Raises the stat SP. DEF of one\\nPOKéMON.",
+  "pt": "Aumenta o atributo DEF. ESP. de uma\\nCAPTURA."
+ },
+ {
+  "offset": "02A4399",
+  "en": "Raises the stat SPEED of one\\nPOKéMON.",
+  "pt": "Aumenta o atributo VELOCIDADE de\\numa CAPTURA."
+ },
+ {
+  "offset": "02A43BF",
+  "en": "Raises the HP of one POKéMON.",
+  "pt": "Aumenta o HP de uma CAPTURA."
+ },
+ {
+  "offset": "02A43DD",
+  "en": "A hold item that gradually restores\\nHP in battle.",
+  "pt": "Item segurado que restaura HP aos\\npoucos durante a batalha."
+ },
+ {
+  "offset": "02A440F",
+  "en": "A hold item that restores any\\nlowered stat.",
+  "pt": "Item segurado que restaura\\natributos reduzidos."
+ },
+ {
+  "offset": "02A443B",
+  "en": "A hold item that occasionally allows\\nthe first strike.",
+  "pt": "Item segurado que às vezes permite\\natacar primeiro."
+ },
+ {
+  "offset": "02A4472",
+  "en": "A hold item that snaps POKéMON out\\nof infatuation.",
+  "pt": "Item segurado que livra a CAPTURA\\ndo estado de paixão."
+ },
+ {
+  "offset": "02A44A5",
+  "en": "A hold item that casts a glare to\\nreduce accuracy.",
+  "pt": "Item segurado que ofusca o alvo e\\nreduz a precisão dele."
+ },
+ {
+  "offset": "02A44D8",
+  "en": "Raises a move's power, but permits\\nonly that move.",
+  "pt": "Aumenta o poder de um golpe, mas\\nsó permite usar esse golpe."
+ },
+ {
+  "offset": "02A450B",
+  "en": "A hold item that may cause flinching\\nwhen the foe is hit.",
+  "pt": "Item segurado que pode fazer o\\noponente recuar ao ser atingido."
+ },
+ {
+  "offset": "02A4545",
+  "en": "A hold item that occasionally\\nprevents fainting.",
+  "pt": "Item segurado que às vezes evita\\no desmaio."
+ },
+ {
+  "offset": "02A4576",
+  "en": "A hold item that raises the\\ncritical-hit rate.",
+  "pt": "Item segurado que aumenta a taxa\\nde golpes críticos."
+ },
+ {
+  "offset": "02A46C0",
+  "en": "Ô E(ºËÌÁÁHowdy! When it comes to news about\\nthe BATTLE FRONTIER, I'm no. 1.\\pYou can think of me as\\nthe FRONTIER MANIAC.\\pJust checking, but you are a TRAINER,\\nisn't that right?\\pI'll happily share the hottest news\\nI gathered about the BATTLE FRONTIER.",
+  "pt": ""
+ },
+ {
+  "offset": "02A48D4",
+  "en": "Bet you didn't know this!\\pOne of those top TRAINERS that SCOTT\\ncalls the FRONTIER BRAINS is there.\\pIt's this mysterious TRAINER called\\nthe SALON MAIDEN that runs the place.",
+  "pt": "Aposto que você não sabia disso!\\pUm dos TREINADORES de elite que o SCOTT chama de CÉREBROS DA FRONTEIRA está lá.\\pQuem comanda o lugar é uma TREINADORA misteriosa chamada DAMA DO SALÃO."
+ },
+ {
+  "offset": "02A4981",
+  "en": "Have you battled the SALON MAIDEN?\\pWhen she's measuring up her opponent,\\nshe apparently uses these POKéMON:\\pA PSYCHIC-type PSI POKéMON,\\na FIRE-type VOLCANO POKéMON,\\land a NORMAL-type SLEEPING POKéMON.",
+  "pt": "Já batalhou com a DAMA DO SALÃO?\\pQuando ela está avaliando o oponente, parece que usa estas CAPTURAS:\\pUma CAPTURA PSI do tipo PSÍQUICO, uma CAPTURA VULCÃO do tipo FOGO e uma CAPTURA ADORMECIDA do tipo NORMAL."
+ },
+ {
+  "offset": "02A4A4A",
+  "en": "Have you battled the SALON MAIDEN\\nwhen she's serious?\\pWhen she's battling flat out,\\nshe apparently uses these POKéMON:\\pA DRAGON & PSYCHIC EON POKéMON,\\nan ELECTRIC-type THUNDER POKéMON,\\land a NORMAL-type SLEEPING POKéMON.",
+  "pt": "Já batalhou com a DAMA DO SALÃO quando ela está falando sério?\\pQuando ela batalha com tudo, parece que usa estas CAPTURAS:\\pUma CAPTURA ÉON DRAGÃO e PSÍQUICO, uma CAPTURA TROVÃO do tipo ELÉTRICO e uma CAPTURA ADORMECIDA do tipo NORMAL."
+ },
+ {
+  "offset": "02A4B27",
+  "en": "Bet you didn't know this!\\pOne of those top TRAINERS that SCOTT\\ncalls the FRONTIER BRAINS is there.\\pIt's this flamboyant TRAINER called\\nthe DOME ACE that runs the place.",
+  "pt": "Aposto que você não sabia disso!\\pUm dos TREINADORES de elite que o SCOTT chama de CÉREBROS DA FRONTEIRA está lá.\\pQuem comanda o lugar é um TREINADOR extravagante chamado ÁS DO DOMO."
+ },
+ {
+  "offset": "02A4BD0",
+  "en": "Have you battled the DOME ACE?\\pWhen he's treating the opponent\\nlightly, he uses these three POKéMON:\\pA DRAGON & FLYING DRAGON POKéMON,\\na WATER & GROUND MUD FISH POKéMON,\\land a FIRE & FLYING FLAME POKéMON.",
+  "pt": "Já batalhou com o ÁS DO DOMO?\\pQuando ele pega leve com o oponente, usa estas três CAPTURAS:\\pUma CAPTURA DRAGÃO DRAGÃO e VOADOR, uma CAPTURA PEIXE-DE-LAMA ÁGUA e TERRESTRE e uma CAPTURA CHAMA FOGO e VOADOR."
+ },
+ {
+  "offset": "02A4C9D",
+  "en": "Have you battled the DOME ACE\\nwhen he's serious?\\pWhen he's demonstrating his strategy,\\nhe uses these three POKéMON:\\pA DRAGON & FLYING EON POKéMON,\\na WATER & GROUND MUD FISH POKéMON,\\land a STEEL- & PSYCHIC-type IRON LEG\\lPOKéMON.",
+  "pt": "Já batalhou com o ÁS DO DOMO quando ele está falando sério?\\pQuando ele está mostrando a sua estratégia, usa estas três CAPTURAS:\\pUma CAPTURA ÉON DRAGÃO e VOADOR, uma CAPTURA PEIXE-DE-LAMA ÁGUA e TERRESTRE e uma CAPTURA PERNA DE FERRO dos tipos AÇO e PSÍQUICO."
+ },
+ {
+  "offset": "02A4D81",
+  "en": "Bet you didn't know this!\\pOne of those top TRAINERS that SCOTT\\ncalls the FRONTIER BRAINS is there.\\pIt's this freaky TRAINER called\\nthe FACTORY HEAD that runs the place.",
+  "pt": "Aposto que você não sabia disso!\\pUm dos TREINADORES de elite que o SCOTT chama de CÉREBROS DA FRONTEIRA está lá.\\pQuem comanda o lugar é um TREINADOR esquisitão chamado CHEFE DA FÁBRICA."
+ },
+ {
+  "offset": "02A4E2A",
+  "en": "Have you battled the FACTORY HEAD\\nalready?\\pLet me think… When he goes to battle,\\nhe just gets three rental POKéMON.\\pHe battles under pretty much the same\\nconditions as you.",
+  "pt": "Já batalhou com o CHEFE DA FÁBRICA?\\pDeixa eu pensar… Quando ele vai batalhar, só recebe três CAPTURAS de aluguel.\\pEle batalha praticamente nas mesmas condições que você."
+ },
+ {
+  "offset": "02A4ED7",
+  "en": "Have you battled the FACTORY HEAD\\nwhen he's serious?\\pWhen he goes seriously to battle,\\nhe still gets three rental POKéMON.\\pHe battles under virtually the same\\nconditions as you.",
+  "pt": "Já batalhou com o CHEFE DA FÁBRICA quando ele está falando sério?\\pMesmo quando ele batalha a sério, ainda recebe três CAPTURAS de aluguel.\\pEle batalha quase nas mesmas condições que você."
+ },
+ {
+  "offset": "02A4F89",
+  "en": "Bet you didn't know this!\\pOne of those top TRAINERS that SCOTT\\ncalls the FRONTIER BRAINS is there.\\pIt's this scary TRAINER called\\nthe PIKE QUEEN that runs the place.",
+  "pt": "Aposto que você não sabia disso!\\pUm dos TREINADORES de elite que o SCOTT chama de CÉREBROS DA FRONTEIRA está lá.\\pQuem comanda o lugar é uma TREINADORA assustadora chamada RAINHA DA TRILHA."
+ },
+ {
+  "offset": "02A502F",
+  "en": "Have you battled the PIKE QUEEN\\nbefore?\\pWhen she's in a good mood, they say\\nshe uses these three POKéMON:\\pA POISON-type FANG SNAKE POKéMON,\\na BUG & ROCK MOLD POKéMON,\\land a WATER-type TENDER POKéMON.",
+  "pt": "Já batalhou com a RAINHA DA TRILHA?\\pDizem que, quando ela está de bom humor, usa estas três CAPTURAS:\\pUma CAPTURA SERPENTE-PRESA do tipo VENENOSO, uma CAPTURA MOFO INSETO e PEDRA e uma CAPTURA TERNURA do tipo ÁGUA."
+ },
+ {
+  "offset": "02A50F7",
+  "en": "Have you battled the PIKE QUEEN\\nwhen she's serious?\\pWhen she's seriously annoyed, they say\\nshe uses these three POKéMON:\\pA POISON-type FANG SNAKE POKéMON,\\na STEEL & GROUND IRON SNAKE POKéMON,\\land a WATER- & FLYING-type ATROCIOUS\\lPOKéMON.",
+  "pt": "Já batalhou com a RAINHA DA TRILHA quando ela está falando sério?\\pDizem que, quando ela fica irritada de verdade, usa estas três CAPTURAS:\\pUma CAPTURA SERPENTE-PRESA do tipo VENENOSO, uma CAPTURA SERPENTE DE FERRO AÇO e TERRESTRE e uma CAPTURA ATROZ dos tipos ÁGUA e VOADOR."
+ },
+ {
+  "offset": "02A51E5",
+  "en": "Bet you didn't know this!\\pOne of those top TRAINERS that SCOTT\\ncalls the FRONTIER BRAINS is there.\\pIt's this cute TRAINER called\\nthe ARENA TYCOON that runs the place.",
+  "pt": "Aposto que você não sabia disso!\\pUm dos TREINADORES de elite que o SCOTT chama de CÉREBROS DA FRONTEIRA está lá.\\pQuem comanda o lugar é uma TREINADORA fofa chamada MAGNATA DA ARENA."
+ },
+ {
+  "offset": "02A528C",
+  "en": "Have you battled the ARENA TYCOON\\nbefore?\\pWhen she's assessing the foe's ability,\\nshe supposedly uses these POKéMON:\\pA BUG & FIGHTING SINGLE HORN POKéMON,\\na DARK-type MOONLIGHT POKéMON,\\land a BUG & GHOST SHED POKéMON.",
+  "pt": "Já batalhou com a MAGNATA DA ARENA?\\pQuando ela está avaliando a habilidade do oponente, supostamente usa estas CAPTURAS:\\pUma CAPTURA CHIFRE ÚNICO INSETO e LUTADOR, uma CAPTURA LUAR do tipo SOMBRIO e uma CAPTURA MUDA INSETO e FANTASMA."
+ },
+ {
+  "offset": "02A5366",
+  "en": "Have you battled the ARENA TYCOON\\nwhen she's serious?\\pWhen she battles for keeps,\\nshe supposedly uses these POKéMON:\\pA DARK-type MOONLIGHT POKéMON,\\na GHOST & POISON SHADOW POKéMON\\land a GRASS- & FIGHTING-type\\lMUSHROOM POKéMON.",
+  "pt": "Já batalhou com a MAGNATA DA ARENA quando ela está falando sério?\\pQuando ela batalha pra valer, supostamente usa estas CAPTURAS:\\pUma CAPTURA LUAR do tipo SOMBRIO, uma CAPTURA SOMBRA FANTASMA e VENENOSO e uma CAPTURA COGUMELO dos tipos PLANTA e LUTADOR."
+ },
+ {
+  "offset": "02A5449",
+  "en": "Bet you didn't know this!\\pOne of those top TRAINERS that SCOTT\\ncalls the FRONTIER BRAINS is there.\\pIt's this sinister TRAINER called\\nthe PALACE MAVEN that runs the place.",
+  "pt": "Aposto que você não sabia disso!\\pUm dos TREINADORES de elite que o SCOTT chama de CÉREBROS DA FRONTEIRA está lá.\\pQuem comanda o lugar é um TREINADOR sinistro chamado MESTRE DO PALÁCIO."
+ },
+ {
+  "offset": "02A54F4",
+  "en": "Have you battled the PALACE MAVEN\\nbefore?\\pWhen he's testing the opponent's\\nspirit, he's said to use these POKéMON:\\pA POISON & FLYING-type BAT POKéMON,\\na NORMAL-type LAZY POKéMON, and a\\lWATER- & ICE-type TRANSPORT POKéMON.",
+  "pt": "Já batalhou com o MESTRE DO PALÁCIO?\\pDizem que, quando ele testa o espírito do oponente, usa estas CAPTURAS:\\pUma CAPTURA MORCEGO VENENOSO e VOADOR, uma CAPTURA PREGUIÇOSA do tipo NORMAL e uma CAPTURA TRANSPORTE dos tipos ÁGUA e GELO."
+ },
+ {
+  "offset": "02A55D2",
+  "en": "Have you battled the PALACE MAVEN\\nwhen he's serious?\\pWhen he throws his entire might into\\nbattle, he's said to use these POKéMON:\\pA FIRE-type LEGENDARY POKéMON,\\na NORMAL-type LAZY POKéMON,\\land a WATER-type AURORA POKéMON.",
+  "pt": "Já batalhou com o MESTRE DO PALÁCIO quando ele está falando sério?\\pDizem que, quando ele joga toda a sua força na batalha, usa estas CAPTURAS:\\pUma CAPTURA LENDÁRIA do tipo FOGO, uma CAPTURA PREGUIÇOSA do tipo NORMAL e uma CAPTURA AURORA do tipo ÁGUA."
+ },
+ {
+  "offset": "02A56B0",
+  "en": "Bet you didn't know this!\\pOne of those top TRAINERS that SCOTT\\ncalls the FRONTIER BRAINS is there.\\pIt's this fiery-hot TRAINER called\\nthe PYRAMID KING that runs the place.",
+  "pt": "Aposto que você não sabia disso!\\pUm dos TREINADORES de elite que o SCOTT chama de CÉREBROS DA FRONTEIRA está lá.\\pQuem comanda o lugar é um TREINADOR esquentadíssimo chamado REI DA PIRÂMIDE."
+ },
+ {
+  "offset": "02A575C",
+  "en": "Have you battled the PYRAMID KING\\nbefore?\\pWhen he's checking the foe's power,\\nhe apparently uses these POKéMON:\\pA ROCK-type ROCK PEAK POKéMON,\\nan ICE-type ICEBERG POKéMON,\\land a STEEL-type IRON POKéMON.",
+  "pt": "Já batalhou com o REI DA PIRÂMIDE?\\pQuando ele está medindo a força do oponente, parece que usa estas CAPTURAS:\\pUma CAPTURA PICO ROCHOSO do tipo PEDRA, uma CAPTURA ICEBERG do tipo GELO e uma CAPTURA FERRO do tipo AÇO."
+ },
+ {
+  "offset": "02A5827",
+  "en": "Have you battled the PYRAMID KING\\nwhen he's serious?\\pWhen he's pumped with hot power,\\nhe apparently uses these POKéMON:\\pAn ICE & FLYING FREEZE POKéMON, an\\nELECTRIC & FLYING ELECTRIC POKéMON,\\land a FIRE- & FLYING-type FLAME\\lPOKéMON.",
+  "pt": "Já batalhou com o REI DA PIRÂMIDE quando ele está falando sério?\\pQuando ele está a todo vapor, parece que usa estas CAPTURAS:\\pUma CAPTURA CONGELANTE GELO e VOADOR, uma CAPTURA ELÉTRICA ELÉTRICO e VOADOR e uma CAPTURA CHAMA dos tipos FOGO e VOADOR."
+ },
+ {
+  "offset": "02A590F",
+  "en": "Sure, there are several places where\\nyou can enter DOUBLE BATTLES.\\pBut the DOUBLE BATTLE ROOMS of\\nthe BATTLE TOWER are, like, basic!\\pThey're where you should learn about\\nhow DOUBLE BATTLES are played here\\lin the BATTLE FRONTIER.",
+  "pt": "Claro, há vários lugares onde dá para entrar em BATALHAS DUPLAS.\\pMas as SALAS DE BATALHA DUPLA da TORRE DE BATALHA são, tipo, o básico!\\pÉ lá que você deve aprender como as BATALHAS DUPLAS funcionam aqui na FRONTEIRA DE BATALHA."
+ },
+ {
+  "offset": "02A59F4",
+  "en": "Watch yourself in the battles here.\\pI hear there are TRAINERS that have\\nstrategies they developed just for\\lDOUBLE BATTLES.",
+  "pt": "Tome cuidado nas batalhas daqui.\\pOuvi dizer que há TREINADORES com estratégias criadas só para BATALHAS DUPLAS."
+ },
+ {
+  "offset": "02A5A6F",
+  "en": "Once you're confident and comfortable\\nwith DOUBLE BATTLES here, you should\\lthink about challenging other places\\loffering DOUBLE BATTLES.",
+  "pt": "Quando estiver confiante e à vontade com as BATALHAS DUPLAS daqui, pense em desafiar outros lugares que oferecem BATALHAS DUPLAS."
+ },
+ {
+  "offset": "02A5AF8",
+  "en": "All sorts of TRAINERS gather in\\nthe BATTLE SALON.\\pJust think--you may run into your\\nfriends or followers!\\lYou should look carefully!",
+  "pt": "Todo tipo de TREINADOR se reúne no SALÃO DE BATALHA.\\pImagine só: você pode encontrar os seus amigos ou seguidores! Procure com atenção!"
+ },
+ {
+  "offset": "02A5B7D",
+  "en": "If you're with a friend, head for the\\nLINK MULTI BATTLE ROOM.\\pIf you play with a strong friend,\\nyou can expect to see tough foes!",
+  "pt": "Se estiver com um amigo, vá para a SALA DE BATALHA MÚLTIPLA LINK.\\pSe jogar com um amigo forte, pode esperar oponentes durões!"
+ },
+ {
+  "offset": "02A61C4",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be challenging the BATTLE\\lTOWER's SINGLE BATTLE ROOMS.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá desafiar as SALAS DE BATALHA INDIVIDUAL da TORRE DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A6270",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be challenging the BATTLE\\lTOWER's DOUBLE BATTLE ROOMS.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá desafiar as SALAS DE BATALHA DUPLA da TORRE DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A631C",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be challenging the BATTLE\\lTOWER's MULTI BATTLE ROOMS.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá desafiar as SALAS DE BATALHA MÚLTIPLA da TORRE DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A63C7",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be entering the BATTLE\\lDOME's SINGLE BATTLE Tourney.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá participar do Torneio de BATALHA INDIVIDUAL do DOMO DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A6471",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be entering the BATTLE\\lDOME's DOUBLE BATTLE Tourney.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá participar do Torneio de BATALHA DUPLA do DOMO DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A651B",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be entering the BATTLE\\lFACTORY's Battle Swap Single Tourney.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá participar do Torneio Troca de Batalha Individual da FÁBRICA DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A65CD",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be entering the BATTLE\\lFACTORY's Battle Swap Double Tourney.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá participar do Torneio Troca de Batalha Dupla da FÁBRICA DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A667F",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be challenging the BATTLE\\lPALACE's SINGLE BATTLE HALLS.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá desafiar os SALÕES DE BATALHA INDIVIDUAL do PALÁCIO DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A672C",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be challenging the BATTLE\\lPALACE's DOUBLE BATTLE HALLS.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá desafiar os SALÕES DE BATALHA DUPLA do PALÁCIO DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A67D9",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be entering the BATTLE\\lARENA's Set KO Tourney.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá participar do Torneio Nocaute da ARENA DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A687D",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be entering the BATTLE PIKE's\\lBattle Choice.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá participar da Escolha de Batalha da TRILHA DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A691F",
+  "en": "What I'm looking for is a TRAINER who's\\ngoing to be entering the BATTLE\\lPYRAMID's Battle Quest.\\pBut so far, I haven't seen a TRAINER\\nthat has that winning quality.",
+  "pt": "Estou procurando um TREINADOR que vá participar da Missão de Batalha da PIRÂMIDE DE BATALHA.\\pMas, até agora, não vi nenhum TREINADOR com aquele jeito de vencedor."
+ },
+ {
+  "offset": "02A6B67",
+  "en": "Get to the BATTLE TOWER's\\nSINGLE BATTLE ROOMS pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para as SALAS DE BATALHA INDIVIDUAL da TORRE DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A6BF3",
+  "en": "Get to the BATTLE TOWER's\\nDOUBLE BATTLE ROOMS pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para as SALAS DE BATALHA DUPLA da TORRE DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A6C7F",
+  "en": "Get to the BATTLE TOWER's\\nMULTI BATTLE ROOMS pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para as SALAS DE BATALHA MÚLTIPLA da TORRE DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A6D0A",
+  "en": "Get to the BATTLE DOME's\\nSINGLE BATTLE Tourney pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para o Torneio de BATALHA INDIVIDUAL do DOMO DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A6D97",
+  "en": "Get to the BATTLE DOME's\\nDOUBLE BATTLE Tourney pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para o Torneio de BATALHA DUPLA do DOMO DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A6E24",
+  "en": "Get to the BATTLE FACTORY's\\nBattle Swap Single Tourney pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para o Torneio Troca de Batalha Individual da FÁBRICA DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A6EB9",
+  "en": "Get to the BATTLE FACTORY's\\nBattle Swap Double Tourney pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para o Torneio Troca de Batalha Dupla da FÁBRICA DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A6F4E",
+  "en": "Get to the BATTLE PALACE's\\nSINGLE BATTLE HALLS pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para os SALÕES DE BATALHA INDIVIDUAL do PALÁCIO DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A6FDB",
+  "en": "Get to the BATTLE PALACE's\\nDOUBLE BATTLE HALLS pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para os SALÕES DE BATALHA DUPLA do PALÁCIO DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A7068",
+  "en": "Get to the BATTLE ARENA's\\nSet KO Tourney pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para o Torneio Nocaute da ARENA DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A70EF",
+  "en": "Get to the BATTLE PIKE's\\nBattle Choice pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para a Escolha de Batalha da TRILHA DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A7174",
+  "en": "Get to the BATTLE PYRAMID's\\nBattle Quest pronto!\\pIt's a must-win situation!\\nDon't blow your chance!\\lBoth of our futures depend on you!",
+  "pt": "Corra para a Missão de Batalha da PIRÂMIDE DE BATALHA agora mesmo!\\pÉ vencer ou vencer! Não desperdice a sua chance! O futuro de nós dois depende de você!"
+ },
+ {
+  "offset": "02A85F0",
+  "en": "Hmhm…\\pThis one says it likes to battle!\\nIt will battle even if it has a lot\\lof ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de batalhar! Vai batalhar mesmo se tiver muitos dodóis!"
+ },
+ {
+  "offset": "02A8648",
+  "en": "Hmhm…\\pThis one says it likes to be sneaky!\\nBut if it gets enough ouchies,\\lit will hit back!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de ser sorrateira! Mas, se ganhar dodóis demais, vai revidar!"
+ },
+ {
+  "offset": "02A86A4",
+  "en": "Hmhm…\\pThis one says it likes to battle!\\nBut if it gets enough ouchies,\\lit will worry about itself!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de batalhar! Mas, se ganhar dodóis demais, vai se preocupar consigo mesma!"
+ },
+ {
+  "offset": "02A8707",
+  "en": "Hmhm…\\pThis one says it likes to battle!\\nIt will battle even if it has a lot\\lof ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de batalhar! Vai batalhar mesmo se tiver muitos dodóis!"
+ },
+ {
+  "offset": "02A875F",
+  "en": "Hmhm…\\pThis one says it looks after itself!\\nBut if it gets enough ouchies,\\lit will hit back!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de se cuidar! Mas, se ganhar dodóis demais, vai revidar!"
+ },
+ {
+  "offset": "02A87BB",
+  "en": "Hmhm…\\pThis one says it likes to be sneaky!\\nBut if it gets enough ouchies,\\lit will worry about itself!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de ser sorrateira! Mas, se ganhar dodóis demais, vai se preocupar consigo mesma!"
+ },
+ {
+  "offset": "02A8821",
+  "en": "Hmhm…\\pThis one says it likes to battle!\\nIt will battle even if it has a lot\\lof ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de batalhar! Vai batalhar mesmo se tiver muitos dodóis!"
+ },
+ {
+  "offset": "02A8879",
+  "en": "Hmhm…\\pThis one says it likes to be sneaky!\\nBut if it gets enough ouchies,\\lit will hit back!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de ser sorrateira! Mas, se ganhar dodóis demais, vai revidar!"
+ },
+ {
+  "offset": "02A88D5",
+  "en": "Hmhm…\\pThis one says it likes to battle!\\nBut if it gets enough ouchies,\\lit will worry about itself!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de batalhar! Mas, se ganhar dodóis demais, vai se preocupar consigo mesma!"
+ },
+ {
+  "offset": "02A8938",
+  "en": "Hmhm…\\pThis one says it likes to be sneaky!\\nIt says it likes to be sneaky even\\lif it has a lot of ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de ser sorrateira! Diz que gosta de ser sorrateira mesmo com muitos dodóis!"
+ },
+ {
+  "offset": "02A89A2",
+  "en": "Hmhm…\\pThis one says it likes to battle!\\nBut if it gets enough ouchies,\\lit will turn sneaky!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de batalhar! Mas, se ganhar dodóis demais, vai ficar sorrateira!"
+ },
+ {
+  "offset": "02A89FE",
+  "en": "Hmhm…\\pThis one says it likes to battle!\\nIt will battle even if it has a lot\\lof ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de batalhar! Vai batalhar mesmo se tiver muitos dodóis!"
+ },
+ {
+  "offset": "02A8A56",
+  "en": "Hmhm…\\pThis one says it likes to be sneaky!\\nIt says it likes to be sneaky even\\lif it has a lot of ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de ser sorrateira! Diz que gosta de ser sorrateira mesmo com muitos dodóis!"
+ },
+ {
+  "offset": "02A8AC0",
+  "en": "Hmhm…\\pThis one says it likes to be sneaky!\\nBut if it gets enough ouchies,\\lit will worry about itself!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de ser sorrateira! Mas, se ganhar dodóis demais, vai se preocupar consigo mesma!"
+ },
+ {
+  "offset": "02A8B26",
+  "en": "Hmhm…\\pThis one says it looks after itself!\\nIt says it worries about itself whether\\lor not it has a lot of ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de se cuidar! Diz que se preocupa consigo mesma, tendo muitos dodóis ou não!"
+ },
+ {
+  "offset": "02A8B99",
+  "en": "Hmhm…\\pThis one says it looks after itself!\\nBut if it gets enough ouchies,\\lit will turn sneaky!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de se cuidar! Mas, se ganhar dodóis demais, vai ficar sorrateira!"
+ },
+ {
+  "offset": "02A8BF8",
+  "en": "Hmhm…\\pThis one says it looks after itself!\\nIt says it worries about itself even\\lif it has a lot of ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de se cuidar! Diz que se preocupa consigo mesma mesmo com muitos dodóis!"
+ },
+ {
+  "offset": "02A8C64",
+  "en": "Hmhm…\\pThis one says it likes to be sneaky!\\nIt says it likes to be sneaky even\\lif it has a lot of ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de ser sorrateira! Diz que gosta de ser sorrateira mesmo com muitos dodóis!"
+ },
+ {
+  "offset": "02A8CCE",
+  "en": "Hmhm…\\pThis one says it looks after itself!\\nIt says it worries about itself even\\lif it has a lot of ouchies!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de se cuidar! Diz que se preocupa consigo mesma mesmo com muitos dodóis!"
+ },
+ {
+  "offset": "02A8D3A",
+  "en": "Hmhm…\\pThis one says it looks after itself!\\nBut if it gets enough ouchies,\\lit will hit back!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de se cuidar! Mas, se ganhar dodóis demais, vai revidar!"
+ },
+ {
+  "offset": "02A8D96",
+  "en": "Hmhm…\\pThis one says it likes to battle!\\nBut if it gets enough ouchies,\\lit will turn sneaky!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de batalhar! Mas, se ganhar dodóis demais, vai ficar sorrateira!"
+ },
+ {
+  "offset": "02A8DF2",
+  "en": "Hmhm…\\pThis one says it looks after itself!\\nBut if it gets enough ouchies,\\lit will turn sneaky!",
+  "pt": "Hm-hm…\\pEsta aqui diz que gosta de se cuidar! Mas, se ganhar dodóis demais, vai ficar sorrateira!"
+ },
+ {
+  "offset": "02A9DE5",
+  "en": "Recovers up to\\nhalf the user's\\nmaximum HP.",
+  "pt": "Recupera até\\nmetade do HP\\nmáximo do usuário."
+ },
+ {
+  "offset": "02A9E10",
+  "en": "Inflicts damage\\nidentical to the\\nuser's level.",
+  "pt": "Causa dano igual\\nao nível do\\nusuário."
+ },
+ {
+  "offset": "02A9E3F",
+  "en": "Recovers half the\\ndamage inflicted\\non a sleeping foe.",
+  "pt": "Recupera metade\\ndo dano causado\\nnum alvo dormindo."
+ },
+ {
+  "offset": "02A9E75",
+  "en": "A strong punch\\nthrown with\\nincredible power.",
+  "pt": "Um soco forte\\ndesferido com\\npoder incrível."
+ },
+ {
+  "offset": "02A9EA2",
+  "en": "An extremely\\npowerful kick with\\nintense force.",
+  "pt": "Um chute muito\\nforte, desferido\\ncom força intensa."
+ },
+ {
+  "offset": "02A9ED1",
+  "en": "A full-body slam\\nthat may cause\\nparalysis.",
+  "pt": "Uma investida com\\no corpo todo que\\npode paralisar."
+ },
+ {
+  "offset": "02A9EFC",
+  "en": "Large boulders\\nare hurled. May\\ncause flinching.",
+  "pt": "Arremessa rochas\\nenormes. Pode\\nfazer recuar."
+ },
+ {
+  "offset": "02A9F2C",
+  "en": "Retaliates any\\nphysical hit with\\ndouble the power.",
+  "pt": "Revida qualquer\\ngolpe físico com\\no dobro do poder."
+ },
+ {
+  "offset": "02A9F5F",
+  "en": "A weak jolt of\\nelectricity that\\nparalyzes the foe.",
+  "pt": "Um choque fraco\\nde eletricidade\\nque paralisa."
+ },
+ {
+  "offset": "02A9F92",
+  "en": "A fighting dance\\nthat sharply\\nraises ATTACK.",
+  "pt": "Uma dança de luta\\nque aumenta muito\\no ATAQUE."
+ },
+ {
+  "offset": "02A9FBF",
+  "en": "Curls up to con-\\nceal weak spots\\nand raise DEFENSE.",
+  "pt": "Enrola-se, oculta\\nos pontos fracos\\ne sobe a DEFESA."
+ },
+ {
+  "offset": "02A9FF3",
+  "en": "A loud attack\\nthat can be used\\nonly while asleep.",
+  "pt": "Um ataque sonoro\\nque só pode ser\\nusado dormindo."
+ },
+ {
+  "offset": "02AA025",
+  "en": "Hurls mud in the\\nfoe's face to re-\\nduce its accuracy.",
+  "pt": "Joga lama na cara\\ndo oponente e\\nreduz a precisão."
+ },
+ {
+  "offset": "02AA05B",
+  "en": "Sprays star-\\nshaped rays\\nthat never miss.",
+  "pt": "Dispara raios em\\nforma de estrela\\nque nunca erram."
+ },
+ {
+  "offset": "02AA085",
+  "en": "A chilling attack\\nthat lowers the\\nfoe's SPEED.",
+  "pt": "Um ataque gélido\\nque reduz a VELO-\\nCIDADE do alvo."
+ },
+ {
+  "offset": "02AA0B4",
+  "en": "Endures any at-\\ntack for 1 turn,\\nleaving 1HP.",
+  "pt": "Aguenta qualquer\\ngolpe por 1 turno\\ne fica com 1HP."
+ },
+ {
+  "offset": "02AA0E2",
+  "en": "Copies the foe's\\neffect(s) and\\ngives to the user.",
+  "pt": "Copia os efeitos\\ndo oponente e os\\npassa ao usuário."
+ },
+ {
+  "offset": "02AA114",
+  "en": "An icy punch\\nthat may\\nfreeze the foe.",
+  "pt": "Um soco gelado\\nque pode congelar\\no oponente."
+ },
+ {
+  "offset": "02AA13A",
+  "en": "An electrified\\npunch that may\\nparalyze the foe.",
+  "pt": "Um soco elétrico\\nque pode paralisar\\no oponente."
+ },
+ {
+  "offset": "02AA16A",
+  "en": "A fiery punch\\nthat may burn\\nthe foe.",
+  "pt": "Um soco em chamas\\nque pode queimar\\no oponente."
+ },
+ {
+  "offset": "02AB688",
+  "en": "Ô ¿¥ºËÌÁÁÔ m¥ºËÌÁÁWhat a TRAINER needs…\\pKnowledge…\\nStrategy…\\lLuck…\\lGuts…\\lSpirit…\\lBravery…\\lAnd ability…\\pWell, I'm all set in every way!\\nI'll be unstoppable at every building!\\pHuh? POKéMON?\\nWhat's that?",
+  "pt": ""
+ },
+ {
+  "offset": "02ABAD4",
+  "en": "Ô ♂AºËÌÁÁWe came here to chaperon our\\ngrandson.\\pBut since we're here, we thought\\nwe should get some souvenirs.",
+  "pt": ""
+ },
+ {
+  "offset": "02ACCFB",
+  "en": "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.",
+  "pt": "{STR_VAR_1} min. {STR_VAR_2},{STR_VAR_3} seg."
+ }
+]

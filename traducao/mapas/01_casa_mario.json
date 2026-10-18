@@ -1,0 +1,338 @@
+[
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6309",
+  "en": "Hey bro! I've got information for you,\\nneed my advice?",
+  "pt": "E aí, mano! Tenho umas informações pra você. Quer um conselho?"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6340",
+  "en": "I hear the PROFESSOR has something for\\nyou, bro. You should head to NEW DONK\\lCITY and see what he wants!",
+  "pt": "Ouvi dizer que o PROFESSOR tem algo pra você, mano. Você devia ir até NEW DONK CITY ver o que ele quer!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B63A9",
+  "en": "Have you heard, bro? The GLITZ PIT is\\nopen again! You should go and compete\\lagain, I'm a huge fan of the GREAT\\lGONZALES!\\pJust head on over to the docks in TOAD\\nTOWN to get there!",
+  "pt": "Já soube, mano? O GLITZ PIT reabriu! Você devia ir competir de novo, eu sou muito fã do GREAT GONZALES!\\pÉ só ir até as docas da CIDADE TOAD pra chegar lá!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B645C",
+  "en": "Bro, did you hear? PENNY started up a\\nbrand new BATTLE FACTORY at the\\lDIAMOND ACADEMY! You should really go\\lcheck it out, I hear rental battles are\\ltough!",
+  "pt": "Mano, sabia? A PENNY abriu uma FÁBRICA DE BATALHA novinha na DIAMOND ACADEMY! Você devia ir conferir, dizem que as batalhas com equipes alugadas são difíceis!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B64F7",
+  "en": "The POWER STAR holders of each WORLD\\nwant a rematch, bro! You should head on\\lover to each of them and show them\\lwho's boss!",
+  "pt": "Os donos das ESTRELAS DE PODER de cada MUNDO querem revanche, mano! Vá visitar cada um deles e mostre quem manda!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6573",
+  "en": "Wow! You've defeated all eight POWER\\nSTAR holders again? You're so amazing,\\lbro!\\pYou know, I've been honing my skills as\\nwell. How about you come to MUSHROOM\\lHILL and fight me again?",
+  "pt": "Uau! Você derrotou os oito donos das ESTRELAS DE PODER de novo? Você é demais, mano!\\pSabe, eu também andei treinando. Que tal ir até COLINA COGUMELO e lutar comigo de novo?"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B662A",
+  "en": "Head over to MUSHROOM HILL soon, bro! I\\nwant a rematch!",
+  "pt": "Vá logo pra COLINA COGUMELO, mano! Eu quero revanche!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6662",
+  "en": "ROSALINA told me there's a LUMA that's\\nlooking for you at the COMET\\lOBSERVATORY.\\pApparently it has somewhere it wants to\\ntake you!",
+  "pt": "A ROSALINA me contou que tem um LUMA procurando você no COMET OBSERVATORY.\\pParece que ele quer te levar a algum lugar!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B66E5",
+  "en": "Have you gone and checked out what\\nthat LUMA at the COMET OBSERVATORY\\lwants from you yet?",
+  "pt": "Já foi ver o que aquele LUMA do COMET OBSERVATORY quer com você?"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B673F",
+  "en": "Have you heard about GLITTERING CAVE?\\nI hear there's been scary stories\\lcoming out of there, lately. Like the\\lroars of a dragon from below… Too scary\\lfor me! You should check it out, though.",
+  "pt": "Já ouviu falar da GRUTA CINTILANTE? Andam contando histórias assustadoras de lá ultimamente. Tipo rugidos de dragão vindo lá de baixo… Medo demais pra mim! Mas você devia dar uma olhada."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B67FE",
+  "en": "Did you ever check out the TOAD TOWN\\nUNDERGROUND? It's a little out of the\\lway, but if you find it, I'm sure there's\\lsomething there!",
+  "pt": "Você chegou a explorar o SUBTERRÂNEO DA CIDADE TOAD? Fica meio fora do caminho, mas se achar, aposto que tem alguma coisa lá!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6884",
+  "en": "Have you been to the NEW DONK CITY\\nPITS yet? I hear its a really cool\\lfacility where you can explore the\\ldepths of the underground!",
+  "pt": "Já foi ao NEW DONK CITY PITS? Dizem que é um lugar muito legal onde dá pra explorar as profundezas do subsolo!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6908",
+  "en": "There's this weird game developer who\\nwants to fight you, bro! Go to NEW DONK\\lCITY and see how strong they are!",
+  "pt": "Tem uma figura que desenvolve jogos e quer lutar com você, mano! Vá até NEW DONK CITY ver a força dessa pessoa!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6978",
+  "en": "Good luck out there, bro!",
+  "pt": "Boa sorte lá fora, mano!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6992",
+  "en": "If you ever don't know what to do, just\\ncome ask me! I'll do my best to give you\\lsound advice, bro.",
+  "pt": "Se algum dia não souber o que fazer, é só vir me perguntar! Vou fazer o possível pra te dar um bom conselho, mano."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B69F6",
+  "en": "MARIO! You're finally awake.",
+  "pt": "MARIO! Você finalmente acordou."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6A13",
+  "en": "That was one heck of a battle, eh bro?\\nYou really walloped me, even in my\\lspecial disguise!\\pHere, I wanted to give you something, as\\nthanks for being an awesome brother\\land congratulations for defeating me.",
+  "pt": "Que batalha, hein, mano? Você me deu uma surra, mesmo com o meu disfarce especial!\\pTome, quero te dar uma coisa, como agradecimento por ser um irmão incrível e parabéns por me derrotar."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6AF5",
+  "en": "LUIGI gave you a {STR_VAR_1}!",
+  "pt": "LUIGI te deu {STR_VAR_1}!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6B0A",
+  "en": "Would you like to give a nickname to\\n{STR_VAR_1}?",
+  "pt": "Quer dar um apelido para {STR_VAR_1}?"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6B33",
+  "en": "{STR_VAR_1} was sent to the PC.",
+  "pt": "{STR_VAR_1} foi para o PC."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6B4A",
+  "en": "After you beat me, I went ahead and let\\nmy party rest at the DIAMOND CITY DAY\\lCARE.\\pLittle did I know, good old\\n{STR_VAR_2} had left behind an egg!\\lI didn't even know {STR_VAR_1} could\\ldo that!",
+  "pt": "Depois que você me venceu, deixei minha equipe descansando na CRECHE de DIAMOND CITY.\\pMal sabia eu que o bom e velho {STR_VAR_2} tinha deixado um ovo! Eu nem sabia que {STR_VAR_1} podia fazer isso!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6BFA",
+  "en": "Also! The PROFESSOR was here earlier!\\nHe told me that there's still plenty\\lleft to do in the C.A.P. CHALLENGE, and\\lto keep filling up our TATTLEDEX!\\pI think I'll be taking a break though\\nand staying at home for a while. If you\\lever wanna battle though, just give me\\la call at MUSHROOM HILL! Me and my team\\lwill take you on anytime!\\pOh, and if you ever want my advice, just\\ncome talk to me here!",
+  "pt": "Ah! O PROFESSOR passou aqui mais cedo! Ele disse que ainda tem muita coisa pra fazer no DESAFIO C.A.P. e que é pra gente continuar completando a TATTLEDEX!\\pAcho que vou descansar e ficar em casa um pouco. Mas se quiser batalhar, é só me chamar em COLINA COGUMELO! Eu e minha equipe encaramos você quando quiser!\\pAh, e se precisar de conselho, é só vir falar comigo aqui!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6D85",
+  "en": "Good morning, MARIO!\\nDid you sleep well?",
+  "pt": "Bom dia, MARIO! Dormiu bem?"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6DAE",
+  "en": "Still a little groggy?",
+  "pt": "Ainda meio sonolento?"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6DC5",
+  "en": "Why don't you grab a MUSHROOM from the\\nfridge to get the day started!",
+  "pt": "Que tal pegar um COGUMELO na geladeira pra começar o dia?"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6E0B",
+  "en": "MARIO opens up the fridge.",
+  "pt": "MARIO abre a geladeira."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6E26",
+  "en": "MARIO opens up the fridge.\\pNothing but spaghetti.",
+  "pt": "MARIO abre a geladeira.\\pSó tem espaguete."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6E58",
+  "en": "MARIO opens up the fridge.\\pThere's a cake inside!",
+  "pt": "MARIO abre a geladeira.\\pTem um bolo lá dentro!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6E8A",
+  "en": "MARIO! That's not where the fridge is,\\nsilly!",
+  "pt": "MARIO! A geladeira não fica aí, bobinho!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6EB8",
+  "en": "It's in the kitchen! Grab the MUSHROOM\\nso we can start the day!",
+  "pt": "Fica na cozinha! Pegue o COGUMELO pra gente começar o dia!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6EF8",
+  "en": "You look groggy. Grab the MUSHROOM so\\nwe can start the day!",
+  "pt": "Você está com cara de sono. Pegue o COGUMELO pra gente começar o dia!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6F38",
+  "en": "Mail call!",
+  "pt": "Chegou carta!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6F43",
+  "en": "I'll get it.",
+  "pt": "Deixa que eu pego."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6F50",
+  "en": "It's a letter from PRINCESS PEACH! How\\nabout I read it to you, ok?",
+  "pt": "É uma carta da PRINCESA PEACH! Que tal eu ler pra você?"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B6F99",
+  "en": "Dear MARIO and LUIGI,\\pI am hosting a world-wide party with\\nhelp from PROF. E. GADD and friends from\\lother KINGDOMS.\\pIt should be a fun time with a prize in\\nthe end.\\pHe will be over shortly to explain more.\\nHave fun!",
+  "pt": "Queridos MARIO e LUIGI,\\pEstou organizando uma festa mundial com a ajuda do PROF. E. GADD e de amigos de outros REINOS.\\pVai ser muito divertido, com um prêmio no final.\\pEle vai passar aí logo para explicar melhor. Divirtam-se!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B7071",
+  "en": "Signed, the PRINCESS.",
+  "pt": "Assinado, a PRINCESA."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B7087",
+  "en": "This sounds super exciting, bro!\\nLet's meet the PROFESSOR!",
+  "pt": "Isso parece superempolgante, mano! Vamos encontrar o PROFESSOR!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B70C2",
+  "en": "LUIGI has become your partner!",
+  "pt": "LUIGI agora é seu parceiro!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "02B70E1",
+  "en": "Come on bro, let's go!",
+  "pt": "Vamos lá, mano!"
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "088CA00",
+  "en": "The quest '{STR_VAR_1}'\\nis now {STR_VAR_2}.",
+  "pt": "A missão '{STR_VAR_1}'\\nagora está {STR_VAR_2}."
+ },
+ {
+  "map": "1.0 MARIO's PAD",
+  "offset": "088CA23",
+  "en": "active",
+  "pt": "ativa"
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B72EC",
+  "en": "There's a copy of SUPER MARIO BROS. 3\\nin the NES.",
+  "pt": "Tem uma cópia de SUPER MARIO BROS. 3 no NES."
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B731E",
+  "en": "LUIGI's keys to happiness:\\p1. Always have a goal to work towards!\\p2. Remember the sad times as much as\\nthe good times!\\p3. Tell everyone you love them!",
+  "pt": "As chaves da felicidade do LUIGI:\\p1. Sempre tenha um objetivo pelo qual lutar!\\p2. Lembre-se dos momentos tristes tanto quanto dos bons!\\p3. Diga a todos que você os ama!"
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B73B5",
+  "en": "It's LUIGI's DIARY.\\nBetter not read it.",
+  "pt": "É o DIÁRIO do LUIGI.\\nMelhor não ler."
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B73DD",
+  "en": "Let's take a quick rest.",
+  "pt": "Vamos descansar um pouco."
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B73F6",
+  "en": "WAHOO!",
+  "pt": ""
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B73FD",
+  "en": "YEEHAW!",
+  "pt": ""
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B7405",
+  "en": "LET'S-A-GO!",
+  "pt": ""
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B7411",
+  "en": "MARIO TIME!",
+  "pt": ""
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B741D",
+  "en": "WOWIE ZOWIE!",
+  "pt": ""
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02B742A",
+  "en": "IT'S A\\nME MARIO",
+  "pt": ""
+ },
+ {
+  "map": "1.1 MARIO's PAD",
+  "offset": "02EC958",
+  "en": "MARIO booted up the PC.",
+  "pt": "MARIO ligou o PC."
+ },
+ {
+  "map": "1.2 MARIO's PAD",
+  "offset": "02B760C",
+  "en": "MARIO & LUIGI's house.",
+  "pt": "Casa do MARIO e do LUIGI."
+ },
+ {
+  "map": "1.2 MARIO's PAD",
+  "offset": "02B7623",
+  "en": "TIPTRON is detecting something hidden...",
+  "pt": "O TIPTRON está detectando algo escondido..."
+ },
+ {
+  "map": "1.2 MARIO's PAD",
+  "offset": "02B764C",
+  "en": "TIPTRON thinks there might be more to\\nthis puzzle. It asks you to see if Fotto\\lhas posted anything new.",
+  "pt": "O TIPTRON acha que esse enigma tem mais coisa. Ele pede pra você ver se o Fotto postou algo novo."
+ },
+ {
+  "map": "1.2 MARIO's PAD",
+  "offset": "02B76B4",
+  "en": "Mamma mia! You defeated me, Mario!",
+  "pt": "Mamma mia! Você me derrotou, Mario!"
+ }
+]

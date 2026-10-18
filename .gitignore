@@ -1,0 +1,5 @@
+*.gba
+*.sav
+build/
+__pycache__/
+.codegraph/

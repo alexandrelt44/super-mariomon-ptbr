@@ -1,0 +1,3304 @@
+[
+ {
+  "offset": "07DAFF3",
+  "en": "A large, mature mosquito. Its body grows\\nstubby hairs that allow it an enhanced\\nsense of touch. It is known to be very\\nterritorial and even wage tiny wars.",
+  "pt": "Um mosquito grande e adulto. Seu corpo tem pelinhos curtos que lhe dão um tato aguçado. É muito territorial e chega a travar guerrinhas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB08F",
+  "en": "The wandering spirit of a mouse. Its\\nphysical form is weak and can be\\ndispersed effortlessly. It inhabits old\\nhallways and rooms in spooky mansions.",
+  "pt": "O espírito errante de um rato. Sua forma física é fraca e se dispersa sem esforço. Vive em corredores e salas antigas de mansões assombradas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB124",
+  "en": "A large ghost. It is known to strike the\\nfloor, making a racket and creating a\\nshockwave attack. Strangely, it has a\\nfear of household vacuum cleaners.",
+  "pt": "Um fantasma grande. Golpeia o chão, fazendo um barulhão e criando uma onda de choque. Estranhamente, morre de medo de aspirador de pó.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB1BC",
+  "en": "A living boulder with eyes and arms. It\\nrolls around, trampling plants and bugs\\nin its path. In groups, it is known for\\na strong sense of camaraderie.",
+  "pt": "Uma rocha viva com olhos e braços. Rola por aí, esmagando plantas e insetos pelo caminho. Em grupo, tem um forte senso de camaradagem.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB253",
+  "en": "A boulder formed with a molten core.\\nIt leaves behind a trail of lava when\\nrolling around. Despite its shape it\\nshould not be used for soccer.",
+  "pt": "Uma rocha com o núcleo derretido. Deixa um rastro de lava quando rola. Apesar do formato, não deve ser usada para jogar futebol.",
+  "max_lines": 4,
+  "max_width": 200
+ },
+ {
+  "offset": "07DB2E2",
+  "en": "A mask that is found guarding treasure.\\nPeople seek out areas where it\\nis found, as riches are known\\nto be lurking nearby.",
+  "pt": "Uma máscara que fica guardando tesouros. As pessoas procuram os lugares onde ela aparece, pois as riquezas costumam estar por perto.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB35D",
+  "en": "A living tornado that whipped up sand\\nto become a dust devil. It has\\na hard time damaging enemies directly.\\nIt is great for parties.",
+  "pt": "Um tornado vivo que levantou areia e virou um redemoinho de poeira. Tem dificuldade para ferir os inimigos diretamente. É ótimo em festas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB3E2",
+  "en": "A creation from the X-NAUT army\\nmeant to help out YUX. Its shape\\nmakes it a sturdy foe because triangle\\nis the best shape ever. Period.",
+  "pt": "Uma criação do exército X-NAUT feita para ajudar o YUX. Seu formato o torna um inimigo resistente, pois o triângulo é a melhor forma que existe. Ponto.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB46A",
+  "en": "A living barrier. These alien\\ncreatures form locks on walls.\\nI mean, what else do I write here?\\nI'm not an alien expert, ok?",
+  "pt": "Uma barreira viva. Esses ETs viram trancas nas paredes. Sério, o que mais eu escrevo aqui? Não sou expert em alienígenas, ok?",
+  "max_lines": 4,
+  "max_width": 184
+ },
+ {
+  "offset": "07DB4E7",
+  "en": "A sword that's a little too proud.\\nIt can connect the MUSHROOM KINGDOM\\nto the WEAPON WORLD, but good\\nluck trying to get it to do so.",
+  "pt": "Uma espada orgulhosa demais. Ela pode ligar o REINO DOS COGUMELOS ao WEAPON WORLD, mas boa sorte tentando convencê-la a fazer isso.",
+  "max_lines": 4,
+  "max_width": 205
+ },
+ {
+  "offset": "07DB56C",
+  "en": "A dragon that was once a pet to\\nthe SHADOW QUEEN with her two siblings.\\nShe will eat anyone, and claims\\nshe has world-renowned feet.",
+  "pt": "Uma dragoa que foi bichinho de estimação da SHADOW QUEEN com seus dois irmãos. Ela come qualquer um e diz ter pés mundialmente famosos.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB5F1",
+  "en": "A dragon that was once a pet to\\nthe SHADOW QUEEN with his two siblings.\\nHe is sworn to his family, and\\nwill avenge anyone he cares for.",
+  "pt": "Um dragão que foi bichinho de estimação da SHADOW QUEEN com seus dois irmãos. É fiel à família e vinga qualquer um de quem goste.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB679",
+  "en": "A dragon that was once a pet to\\nthe SHADOW QUEEN with her two siblings.\\nHer cause of death is unknown, but\\nshe lives on through fighting.",
+  "pt": "Uma dragoa que foi bichinho de estimação da SHADOW QUEEN com seus dois irmãos. Sua causa da morte é um mistério, mas ela segue viva lutando.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB703",
+  "en": "A blue hedgehog and the fastest thing\\nalive. A friend to all, and if backed\\ninto a corner, he'll unleash an ultimate\\npower with the 7 CHAOS EMERALDS.",
+  "pt": "Um ouriço azul, a coisa mais rápida do mundo. Amigo de todos, se for encurralado, libera um poder supremo com as 7 ESMERALDAS DO CAOS.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB7C3",
+  "en": "The king of the Koopas! This\\nheavily armored turtle can withstand\\nincredible blows like it was nothing.\\nHe has a strange fixation to PEACH.",
+  "pt": "O rei dos Koopas! Esta tartaruga de armadura pesada aguenta golpes incríveis como se não fossem nada. Tem uma estranha fixação pela PEACH.",
+  "max_lines": 4,
+  "max_width": 203
+ },
+ {
+  "offset": "07DB84F",
+  "en": "A two legged salamander with an endless\\nappetite. It opens its mouth wide and\\ncharges towards its next dinner. It is\\nmy best friend and perfect in every way.",
+  "pt": "Uma salamandra de duas pernas com um apetite sem fim. Abre bem a boca e corre atrás do próximo jantar. É meu melhor amigo e perfeito em tudo.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB8ED",
+  "en": "The robotic recreation of an old friend\\ncreated by Professor E. GADD. Designed\\nto have infinite wisdom and the ability\\nto reveal hidden entrances.",
+  "pt": "A recriação robótica de um velho amigo, feita pelo Professor E. GADD. Projetada para ter sabedoria infinita e revelar entradas secretas.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07DB980",
+  "en": "A bat that fed on the nightmares\\nof a PI'ILLO. Once attempted to be\\nsealed in the DREAM WORLD, he escaped\\nand brought havok to all PI'ILLOs.",
+  "pt": "Um morcego que comia os pesadelos de um PI'ILLO. Tentaram selá-lo no DREAM WORLD, mas ele fugiu e levou o caos a todos os PI'ILLOs.",
+  "max_lines": 4,
+  "max_width": 207
+ },
+ {
+  "offset": "07E1177",
+  "en": "A Dragonair stores an enormous amount of\\nenergy inside its body. It is said to alter\\nthe weather around it by loosing energy\\nfrom the crystals on its neck and tail.",
+  "pt": "Um Dragonair guarda muita energia no corpo. Dizem que muda o clima ao seu redor liberando energia dos cristais do pescoço e da cauda.",
+  "max_lines": 4,
+  "max_width": 208
+ },
+ {
+  "offset": "07E9C28",
+  "en": "Unknown",
+  "pt": "Desconhec.",
+  "max_width": 66
+ },
+ {
+  "offset": "07F804C",
+  "en": "          Vy  y\\n Vz\\n yz\\nVzz\\nyzz\\nyzz\\nlzz\\n zz\\n lz\\n  z\\n  :",
+  "pt": "",
+  "max_lines": 11,
+  "max_width": 64
+ },
+ {
+  "offset": "0802BF0",
+  "en": "PIT FLOOR 1",
+  "pt": "POÇO ANDAR 1",
+  "max_width": 66
+ },
+ {
+  "offset": "0802BFC",
+  "en": "PIT FLOOR 2",
+  "pt": "POÇO ANDAR 2",
+  "max_width": 66
+ },
+ {
+  "offset": "0802C08",
+  "en": "PIT FLOOR 3",
+  "pt": "POÇO ANDAR 3",
+  "max_width": 66
+ },
+ {
+  "offset": "0802C14",
+  "en": "PIT FLOOR 4",
+  "pt": "POÇO ANDAR 4",
+  "max_width": 66
+ },
+ {
+  "offset": "0802C20",
+  "en": "PIT FLOOR 5",
+  "pt": "POÇO ANDAR 5",
+  "max_width": 66
+ },
+ {
+  "offset": "0802C2C",
+  "en": "PIT FLOOR 6",
+  "pt": "POÇO ANDAR 6",
+  "max_width": 66
+ },
+ {
+  "offset": "0802C38",
+  "en": "PIT FLOOR 7",
+  "pt": "POÇO ANDAR 7",
+  "max_width": 66
+ },
+ {
+  "offset": "0802C44",
+  "en": "PIT",
+  "pt": "POÇO",
+  "max_width": 24
+ },
+ {
+  "offset": "0803676",
+  "en": "Standard issue\\nGadd Science\\nrecruitment CAP.",
+  "pt": "CAP padrão de recrutamento da Gadd Science.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "08036A3",
+  "en": "A good CAP with a\\nhigher catch rate\\nthan a Plumber Cap.",
+  "pt": "Um bom CAP, com taxa de captura maior que a do Cap Encanador.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08036DB",
+  "en": "A better CAP with\\na higher catch rate\\nthan a Plumber Cap.",
+  "pt": "CAP melhor ainda,\\ncaptura mais fácil\\nque o Cap Encanador.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0803715",
+  "en": "The best CAP that\\nrecruits a CAPTURE\\nwithout fail.",
+  "pt": "O melhor CAP. Recruta uma CAPTURA sem falhar.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0803748",
+  "en": "An original CAP\\nmade to show your\\ncustomer loyalty.",
+  "pt": "Um CAP original que mostra que você é cliente fiel.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080377C",
+  "en": "A remedial CAP\\nthat restores\\nrecruited CAPTURES.",
+  "pt": "Um CAP curativo que restaura as CAPTURAS recrutadas.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "08037AD",
+  "en": "A CAP that works\\nwell on Water- and\\nBug-type CAPTURES.",
+  "pt": "Um CAP que funciona bem em CAPTURAS dos tipos Água e Inseto.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08037E4",
+  "en": "A CAP that works\\nbetter on lower\\nleveled CAPTURES.",
+  "pt": "Um CAP melhor em CAPTURAS de nível baixo.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0803817",
+  "en": "A CAP that works\\nbetter on CAPTURES\\nin the water.",
+  "pt": "Um CAP que funciona melhor em CAPTURAS na água.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0803849",
+  "en": "A CAP that works\\nwell if used in a\\ndark place.",
+  "pt": "Um CAP que funciona bem em lugares escuros.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "0803878",
+  "en": "A CAP that gains\\npower in battles\\ntaking many turns.",
+  "pt": "Um CAP que ganha força em batalhas de muitos turnos.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "08038AD",
+  "en": "A CAP that works\\nwell if used on\\nthe first turn.",
+  "pt": "Um CAP que funciona bem no primeiro turno.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "08038DE",
+  "en": "A CAP that works\\nbetter on CAPTURES\\nrecruited before.",
+  "pt": "Um CAP que funciona melhor em CAPTURAS já recrutadas.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0803914",
+  "en": "A CAP that makes \\nCAPTURES more\\nfriendly and fancy.",
+  "pt": "Um CAP que deixa as CAPTURAS mais amigáveis e chiques.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0803948",
+  "en": "A Ball that works\\nwell on lower\\nlevel Pokémon.",
+  "pt": "Uma Ball boa para CAPTURAS de nível baixo.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "0803977",
+  "en": "A Ball that works\\nwell on fished\\nup Pokémon.",
+  "pt": "Uma Ball boa para CAPTURAS pescadas.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "08039A4",
+  "en": "A Ball that works\\nwell on Moon\\nStone users.",
+  "pt": "Uma Ball boa para quem usa Pedra Lunar.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "08039D0",
+  "en": "A Ball that makes\\na Pokémon friendly\\nwhen caught.",
+  "pt": "Uma Ball que deixa a CAPTURA amigável ao ser pega.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0803A02",
+  "en": "Works well on\\nPokémon of the\\nopposite gender.",
+  "pt": "Funciona bem em CAPTURAS do gênero oposto.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "0803A30",
+  "en": "Works well on\\nvery fast\\nPokémon.",
+  "pt": "Funciona bem em CAPTURAS muito rápidas.",
+  "max_lines": 3,
+  "max_width": 77
+ },
+ {
+  "offset": "0803A51",
+  "en": "Works well on\\nvery heavy\\nPokémon.",
+  "pt": "Funciona bem em CAPTURAS muito pesadas.",
+  "max_lines": 3,
+  "max_width": 77
+ },
+ {
+  "offset": "0803A73",
+  "en": "A Ball that works\\nwell on sleeping\\nPokémon.",
+  "pt": "Uma Ball boa para CAPTURAS dormindo.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "0803A9F",
+  "en": "A CAP specially\\nmade for\\nCAPTAIN TOAD.",
+  "pt": "Um CAP feito sob medida para o CAPTAIN TOAD.",
+  "max_lines": 3,
+  "max_width": 88
+ },
+ {
+  "offset": "0803AC6",
+  "en": "A special Ball used\\nin the Bug-Catching\\nContest.",
+  "pt": "Uma Ball especial usada no Concurso de Insetos.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "0803AF7",
+  "en": "A special Ball for\\nthe Pal Park.",
+  "pt": "Uma Ball especial para o Pal Park.",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "0803B18",
+  "en": "A Ball designed to\\ncatch Ultra Beasts.",
+  "pt": "Uma Ball feita para pegar Ultracriaturas.",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "0803B3F",
+  "en": "A rare CAP made\\nin commemoration\\nof some event.",
+  "pt": "Um CAP raro feito para celebrar algum evento.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "0803B6F",
+  "en": "A fun fungus that\\nrestores HP by\\n20 points.",
+  "pt": "Um fungo divertido que restaura 20 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0803B9B",
+  "en": "Superior superfood\\nthat restores HP by\\n60 points.",
+  "pt": "Um superalimento que restaura 60 de HP.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "0803BCD",
+  "en": "Ult of umami that\\nrestores HP by\\n120 points.",
+  "pt": "O ápice do umami. Restaura 120 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0803BFA",
+  "en": "A monster meal that\\nfamously refuels\\nHP fully.",
+  "pt": "Uma refeição monstra famosa por recarregar todo o HP.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0803C29",
+  "en": "Gourmet gold that\\ngladly rejuvenates\\nHP and status.",
+  "pt": "Ouro gourmet que renova com gosto o HP e o status.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0803C5D",
+  "en": "A one-of-a-kind\\norganism(?) that \\nrevives to half HP.",
+  "pt": "Um organismo(?) único que revive com metade do HP.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0803C93",
+  "en": "A delicious\\nexperiment that\\nrevives to full HP.",
+  "pt": "Um experimento delicioso que revive com todo o HP.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0803CC3",
+  "en": "A nutritious nut\\nthat restores HP\\nby 30 points.",
+  "pt": "Uma noz nutritiva que restaura 30 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "0803CF3",
+  "en": "A delicious drupe\\nthat restores HP\\nby 50 points.",
+  "pt": "Uma drupa gostosa que restaura 50 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0803D24",
+  "en": "A food, full of fat,\\nthat restores HP\\nby 70 points.",
+  "pt": "Comida gordurosa que restaura 70 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0803D58",
+  "en": "A legendary legume\\nthat restores HP\\nby 100 points.",
+  "pt": "Um legume lendário que restaura 100 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0803D8B",
+  "en": "A bitter powder\\nthat restores HP\\nby 60 points.",
+  "pt": "Um pó amargo que restaura 60 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "0803DBA",
+  "en": "A bitter root\\nthat restores HP\\nby 120 points.",
+  "pt": "Uma raiz amarga que restaura 120 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "0803DE8",
+  "en": "A bitter powder\\nthat heals all\\nstatus problems.",
+  "pt": "Um pó amargo que cura problemas de status.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "0803E18",
+  "en": "A very bitter herb\\nthat revives a\\nfainted CAPTURE.",
+  "pt": "Uma erva bem amarga que revive uma CAPTURA desmaiada.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0803E4B",
+  "en": "Heals a poisoned\\nCAPTURE.",
+  "pt": "Cura uma CAPTURA envenenada.",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "0803E65",
+  "en": "Heals a paralyzed\\nCAPTURE.",
+  "pt": "Cura uma CAPTURA paralisada.",
+  "max_lines": 2,
+  "max_width": 101
+ },
+ {
+  "offset": "0803E80",
+  "en": "Heals CAPTURE\\nof a burn.",
+  "pt": "Cura a CAPTURA de queimadura.",
+  "max_lines": 2,
+  "max_width": 83
+ },
+ {
+  "offset": "0803E99",
+  "en": "Defrosts a frozen\\nCAPTURE.",
+  "pt": "Descongela uma CAPTURA congelada.",
+  "max_lines": 2,
+  "max_width": 104
+ },
+ {
+  "offset": "0803EB4",
+  "en": "Awakens a sleeping\\nCAPTURE.",
+  "pt": "Acorda uma CAPTURA que está dormindo.",
+  "max_lines": 2,
+  "max_width": 108
+ },
+ {
+  "offset": "0803ED0",
+  "en": "Heals all the\\nstatus problems of\\none CAPTURE.",
+  "pt": "Cura todos os problemas de status de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0803EFE",
+  "en": "Restores the PP\\nof a selected move\\nby 10.",
+  "pt": "Restaura 10 PP de um golpe escolhido.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0803F28",
+  "en": "Fully restores the\\nPP of a selected\\nmove.",
+  "pt": "Restaura todo o PP de um golpe escolhido.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0803F52",
+  "en": "Restores the PP\\nof all moves by 10.",
+  "pt": "Restaura 10 PP de todos os golpes.",
+  "max_lines": 2,
+  "max_width": 105
+ },
+ {
+  "offset": "0803F76",
+  "en": "Fully restores the\\nPP of a CAPTURE's\\nmoves.",
+  "pt": "Restaura todo o PP dos golpes de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0803FA2",
+  "en": "A 100% pure juice\\nthat restores HP\\nby 20 points.",
+  "pt": "Um suco 100% puro que restaura 20 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0803FD3",
+  "en": "Fully revives and\\nrestores all\\nfainted CAPTURES.",
+  "pt": "Revive e restaura todas as CAPTURAS desmaiadas.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0804004",
+  "en": "A sweet chocolate\\nthat restores HP\\nby 20 points.",
+  "pt": "Um chocolate doce que restaura 20 pontos de HP.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0804035",
+  "en": "Revives a fainted\\nCAPTURE with all\\nits HP.",
+  "pt": "Revive uma CAPTURA desmaiada com todo o HP.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0804060",
+  "en": "Heals all the\\nstatus problems of\\none CAPTURE.",
+  "pt": "Cura todos os problemas de status de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080408E",
+  "en": "Heals all the\\nstatus problems of\\none CAPTURE.",
+  "pt": "Cura todos os problemas de status de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08040BC",
+  "en": "A local specialty\\nthat heals all\\nstatus problems.",
+  "pt": "Iguaria local que cura todo problema de status.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "08040EE",
+  "en": "Has an odd face\\nbut you can't help\\nbut feel inspired.",
+  "pt": "Tem uma cara esquisita, mas inspira qualquer um.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0804124",
+  "en": "A device that can\\nplay any music\\nyou desire. Mostly.",
+  "pt": "Aparelho que toca qualquer música que você quiser. Quase.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0804159",
+  "en": "A device that can\\nrecord a battle at\\na Battle Facility.",
+  "pt": "Grava uma batalha numa Instalação de Batalha.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0804191",
+  "en": "Heals all the\\nstatus problems of\\none CAPTURE.",
+  "pt": "Cura todos os problemas de status de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08041BF",
+  "en": "Heals all the\\nstatus problems of\\none CAPTURE.",
+  "pt": "Cura todos os problemas de status de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08041ED",
+  "en": "Heals all the\\nstatus problems of\\none CAPTURE.",
+  "pt": "Cura todos os problemas de status de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080421B",
+  "en": "Heals all the\\nstatus problems of\\none CAPTURE.",
+  "pt": "Cura todos os problemas de status de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0804249",
+  "en": "Heals all the\\nstatus problems of\\none CAPTURE.",
+  "pt": "Cura todos os problemas de status de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0804277",
+  "en": "Raises the base HP\\nof one CAPTURE.",
+  "pt": "Aumenta o HP base de uma CAPTURA.",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "080429A",
+  "en": "Raises the base\\nAttack stat of one\\nCAPTURE.",
+  "pt": "Aumenta o Ataque base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08042C6",
+  "en": "Raises the base\\nDefense stat of\\none CAPTURE.",
+  "pt": "Aumenta a Defesa base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "08042F3",
+  "en": "Raises the base\\nSp. Atk stat of one\\nCAPTURE.",
+  "pt": "Aumenta o At. Esp. base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0804320",
+  "en": "Raises the base\\nSp. Def stat of one\\nCAPTURE.",
+  "pt": "Aumenta a Def. Esp. base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080434D",
+  "en": "Raises the base\\nSpeed stat of one\\nCAPTURE.",
+  "pt": "Aumenta a Velocidade base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0804378",
+  "en": "Raises the maximum\\nPP of a selected\\nmove.",
+  "pt": "Aumenta o PP máximo de um golpe escolhido.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08043A2",
+  "en": "Raises the PP of a\\nmove to its maximum\\npoints.",
+  "pt": "Aumenta o PP de um golpe até o máximo.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08043D1",
+  "en": "An item that raises\\nthe base HP of\\na CAPTURE.",
+  "pt": "Um item que aumenta o HP base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "08043FF",
+  "en": "An item that raises\\nthe base Attack of\\na CAPTURE.",
+  "pt": "Um item que aumenta o Ataque base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0804431",
+  "en": "An item that raises\\nthe base Defense\\nof a CAPTURE.",
+  "pt": "Um item que aumenta a Defesa base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0804464",
+  "en": "An item that raises\\nthe base Sp. Atk.\\nof a CAPTURE.",
+  "pt": "Um item que aumenta o At. Esp. base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0804498",
+  "en": "An item that raises\\nthe base Sp. Def.\\nof a CAPTURE.",
+  "pt": "Um item que aumenta a Def. Esp. base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "08044CC",
+  "en": "An item that raises\\nthe base Speed of\\na CAPTURE.",
+  "pt": "Um item que aumenta a Velocidade base de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "08044FD",
+  "en": "Switches a CAP-\\nTURE's ability.",
+  "pt": "Troca a habili-\\ndade da CAPTURA.",
+  "max_lines": 2,
+  "max_width": 92
+ },
+ {
+  "offset": "080451D",
+  "en": "Turns the ability\\nof a CAPTURE into\\na rare ability.",
+  "pt": "Muda a habilidade de uma CAPTURA para uma rara.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0804551",
+  "en": "Can be smelled. It\\nups Attack, but\\nreduces Defense.",
+  "pt": "Tem cheiro. Aumenta Ataque, mas reduz Defesa.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0804585",
+  "en": "Can be smelled. It\\nups Attack, but\\nreduces Sp. Atk.",
+  "pt": "Tem cheiro. Aumenta Ataque, mas reduz At. Esp.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08045B9",
+  "en": "Can be smelled. It\\nups Attack, but\\nreduces Sp. Def.",
+  "pt": "Tem cheiro. Aumenta Ataque, mas reduz Def. Esp.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08045ED",
+  "en": "Can be smelled. It\\nups Attack, but\\nreduces Speed.",
+  "pt": "Tem cheiro. Aumenta Ataque, mas reduz Velocidade.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080461F",
+  "en": "Can be smelled. It\\nups Defense, but\\nreduces Attack.",
+  "pt": "Tem cheiro. Aumenta Defesa, mas reduz Ataque.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0804653",
+  "en": "Can be smelled. It\\nups Defense, but\\nreduces Sp. Atk.",
+  "pt": "Tem cheiro. Aumenta Defesa, mas reduz At. Esp.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0804688",
+  "en": "Can be smelled. It\\nups Defense, but\\nreduces Sp. Def.",
+  "pt": "Tem cheiro. Aumenta Defesa, mas reduz Def. Esp.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08046BD",
+  "en": "Can be smelled. It\\nups Defense, but\\nreduces Speed.",
+  "pt": "Tem cheiro. Aumenta Defesa, mas reduz Velocidade.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08046F0",
+  "en": "Can be smelled. It\\nups Sp. Atk, but\\nreduces Attack.",
+  "pt": "Tem cheiro. Aumenta At. Esp., mas reduz Ataque.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0804724",
+  "en": "Can be smelled. It\\nups Sp. Atk, but\\nreduces Defense.",
+  "pt": "Tem cheiro. Aumenta At. Esp., mas reduz Defesa.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0804759",
+  "en": "Can be smelled. It\\nups Sp. Atk, but\\nreduces Sp. Def.",
+  "pt": "Tem cheiro. Aumenta At. Esp., mas reduz Def. Esp.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080478E",
+  "en": "Can be smelled. It\\nups Sp. Atk, but\\nreduces Speed.",
+  "pt": "Tem cheiro. Aumenta At. Esp., mas reduz Velocidade.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08047C1",
+  "en": "Can be smelled. It\\nups Sp. Def, but\\nreduces Attack.",
+  "pt": "Tem cheiro. Aumenta Def. Esp., mas reduz Ataque.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08047F5",
+  "en": "Can be smelled. It\\nups Sp. Def, but\\nreduces Defense.",
+  "pt": "Tem cheiro. Aumenta Def. Esp., mas reduz Defesa.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080482A",
+  "en": "Can be smelled. It\\nups Sp. Def, but\\nreduces Sp. Atk.",
+  "pt": "Tem cheiro. Aumenta Def. Esp., mas reduz At. Esp.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080485F",
+  "en": "Can be smelled. It\\nups Sp. Def, but\\nreduces Speed.",
+  "pt": "Tem cheiro. Aumenta Def. Esp., mas reduz Velocidade.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0804892",
+  "en": "Can be smelled. It\\nups Speed, but\\nreduces Attack.",
+  "pt": "Tem cheiro. Aumenta Velocidade, mas reduz Ataque.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08048C4",
+  "en": "Can be smelled. It\\nups Speed, but\\nreduces Defense.",
+  "pt": "Tem cheiro. Aumenta Velocidade, mas reduz Defesa.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08048F7",
+  "en": "Can be smelled. It\\nups Speed, but\\nreduces Sp. Atk.",
+  "pt": "Tem cheiro. Aumenta Velocidade, mas reduz At. Esp.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080492A",
+  "en": "Can be smelled. It\\nups Speed, but\\nreduces Sp. Def.",
+  "pt": "Tem cheiro. Aumenta Velocidade, mas reduz Def. Esp.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080495D",
+  "en": "Can be smelled. It\\nups Speed, but\\nreduces Attack.",
+  "pt": "Tem cheiro. Aumenta Velocidade, mas reduz Ataque.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "080498F",
+  "en": "Raises the level\\nof a CAPTURE by\\none.",
+  "pt": "Aumenta em um o nível de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "08049B5",
+  "en": "Gives a very small\\namount of Exp. to\\na single CAPTURE.",
+  "pt": "Dá uma quantidade muito pequena de Exp. a uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08049EC",
+  "en": "Gives a small\\namount of Exp. to\\na single CAPTURE.",
+  "pt": "Dá uma quantidade pequena de Exp. a uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0804A1E",
+  "en": "Gives a moderate\\namount of Exp. to\\na single CAPTURE.",
+  "pt": "Dá uma quantidade moderada de Exp. a uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0804A53",
+  "en": "Gives a large\\namount of Exp. to\\na single CAPTURE.",
+  "pt": "Dá uma quantidade grande de Exp. a uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0804A85",
+  "en": "Gives a very large\\namount of Exp. to\\na single CAPTURE.",
+  "pt": "Dá uma quantidade muito grande de Exp. a uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0804ABC",
+  "en": "Raises the Dynamax\\nLevel of a single\\nCAPTURE by one.",
+  "pt": "Aumenta em um o Nível Dynamax de uma CAPTURA.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0804AF1",
+  "en": "A glass flute that\\nawakens sleeping\\nCAPTURES.",
+  "pt": "Uma flauta de vidro que acorda CAPTURAS dormindo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0804B1F",
+  "en": "A glass flute that\\nsnaps CAPTURES\\nout of confusion.",
+  "pt": "Uma flauta de vidro que tira CAPTURAS da confusão.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0804B53",
+  "en": "A glass flute that\\nsnaps CAPTURES\\nout of attraction.",
+  "pt": "Uma flauta de vidro que livra CAPTURAS da paixão.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0804B88",
+  "en": "A glass flute that\\nkeeps away wild\\nCAPTURES.",
+  "pt": "Flauta de vidro que afasta CAPTURAS selvagens.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0804BB5",
+  "en": "A glass flute that\\nlures wild CAPTURES.",
+  "pt": "Flauta de vidro. Atrai CAPTURAS selvagens.",
+  "max_lines": 2,
+  "max_width": 114
+ },
+ {
+  "offset": "0804BDD",
+  "en": "Repels weak\\nCAPTURES for 100\\nsteps.",
+  "pt": "Repele CAPTURAS fracas por 100 passos.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0804C01",
+  "en": "Repels weak \\nCAPTURES for 200\\nsteps.",
+  "pt": "Repele CAPTURAS fracas por 200 passos.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0804C26",
+  "en": "Repels weak \\nCAPTURES for 250\\nsteps.",
+  "pt": "Repele CAPTURAS fracas por 250 passos.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0804C4B",
+  "en": "CAPTURES are more\\nlikely to appear\\nfor 100 steps.",
+  "pt": "CAPTURAS aparecem com mais chance por 100 passos.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0804C7D",
+  "en": "CAPTURES are more\\nlikely to appear\\nfor 200 steps.",
+  "pt": "CAPTURAS aparecem com mais chance por 200 passos.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0804CAF",
+  "en": "CAPTURES are more\\nlikely to appear\\nfor 250 steps.",
+  "pt": "CAPTURAS aparecem com mais chance por 250 passos.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0804CE1",
+  "en": "Use to escape\\ninstantly from a\\ncave or a dungeon.",
+  "pt": "Use para escapar na hora de uma caverna ou masmorra.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0804D13",
+  "en": "Sharply raises stat\\nAttack during\\none battle.",
+  "pt": "Aumenta muito o Ataque durante uma batalha.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0804D41",
+  "en": "Sharply raises stat\\nDefense during\\none battle.",
+  "pt": "Aumenta muito a Defesa durante uma batalha.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0804D70",
+  "en": "Sharply raises stat\\nSp. Atk during\\none battle.",
+  "pt": "Aumenta muito o\\nAt. Esp. durante\\numa batalha.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0804D9F",
+  "en": "Sharply raises stat\\nSp. Def during\\none battle.",
+  "pt": "Aumenta muito a\\nDef. Esp. durante\\numa batalha.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0804DCE",
+  "en": "Sharply raises stat\\nSpeed during\\none battle.",
+  "pt": "Aumenta muito a Velocidade durante uma batalha.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0804DFB",
+  "en": "Sharply raises move\\naccuracy during\\none battle.",
+  "pt": "Aumenta muito a precisão dos golpes durante uma batalha.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0804E2B",
+  "en": "Raises the\\ncritical-hit ratio\\nduring one battle.",
+  "pt": "Aumenta a chance de crítico durante uma batalha.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0804E5C",
+  "en": "Prevents stat\\nreduction when\\nused in battle.",
+  "pt": "Impede a queda de atributos numa batalha.",
+  "max_lines": 3,
+  "max_width": 88
+ },
+ {
+  "offset": "0804E89",
+  "en": "Use to flee from\\nany battle with\\na wild CAPTURE.",
+  "pt": "Use para fugir de qualquer batalha selvagem.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "0804EBA",
+  "en": "Use to flee from\\nany battle with\\na wild CAPTURE.",
+  "pt": "Use para fugir de qualquer batalha selvagem.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "0804EEB",
+  "en": "Use to flee from\\nany battle with\\na wild CAPTURE.",
+  "pt": "Use para fugir de qualquer batalha selvagem.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "0804F1C",
+  "en": "Raises every stat\\nduring one battle\\nby one stage.",
+  "pt": "Aumenta todos os atributos em um estágio na batalha.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0804F4E",
+  "en": "A beautiful bottle\\ncap that gives off\\na silver gleam.",
+  "pt": "Uma linda tampinha de garrafa com um brilho prateado.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0804F84",
+  "en": "A beautiful bottle\\ncap that gives off\\na golden gleam.",
+  "pt": "Uma linda tampinha de garrafa com um brilho dourado.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0804FBA",
+  "en": "A nugget of pure\\ngold. Can be sold at\\na high price.",
+  "pt": "Uma pepita de ouro puro. Pode ser vendida bem caro.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0804FEE",
+  "en": "A big nugget made\\nof gold, sellable\\nat a high price.",
+  "pt": "Uma pepita grande de ouro, vendável por um preço alto.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0805023",
+  "en": "A plain mushroom\\nthat would sell\\nat a cheap price.",
+  "pt": "Um cogumelo simples que seria vendido barato.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "0805056",
+  "en": "A rare mushroom\\nthat would sell at a\\nhigh price.",
+  "pt": "Um cogumelo raro que seria vendido por um preço alto.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0805087",
+  "en": "A rare mushroom\\nthat would sell at a\\nhigh price.",
+  "pt": "Um cogumelo raro que seria vendido por um preço alto.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08050B8",
+  "en": "A pretty pearl\\nthat would sell at a\\ncheap price.",
+  "pt": "Uma pérola bonita que seria vendida barato.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08050E9",
+  "en": "A lovely large pearl\\nthat would sell at a\\nhigh price.",
+  "pt": "Pérola grande e linda que seria vendida bem caro.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080511F",
+  "en": "Very large pearls\\nthat would sell at a\\nhigh price.",
+  "pt": "Pérolas bem grandes que seriam vendidas por um preço alto.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0805152",
+  "en": "Beautiful red sand.\\nCan be sold at a\\nhigh price.",
+  "pt": "Linda areia vermelha. Pode ser vendida bem caro.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805183",
+  "en": "A red gem shard.\\nIt would sell for a\\nvery high price.",
+  "pt": "Caco de joia vermelha. Seria vendido muito caro.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "08051B9",
+  "en": "A comet's shard.\\nIt would sell for a\\nhigh price.",
+  "pt": "Lasca de cometa. Seria vendida por um preço alto.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "08051EA",
+  "en": "Salt obtained from\\ndeep inside the\\nShoal Cave.",
+  "pt": "Sal obtido nas profundezas da Shoal Cave.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0805219",
+  "en": "A seashell found\\ndeep inside the\\nShoal Cave.",
+  "pt": "Uma concha achada no fundo da Shoal Cave.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "0805246",
+  "en": "A shard from an\\nancient item. Can\\nbe sold cheaply.",
+  "pt": "Um caco de um item antigo. Pode ser vendido barato.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0805279",
+  "en": "A shard from an\\nancient item. Can\\nbe sold cheaply.",
+  "pt": "Um caco de um item antigo. Pode ser vendido barato.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "08052AC",
+  "en": "A shard from an\\nancient item. Can\\nbe sold cheaply.",
+  "pt": "Um caco de um item antigo. Pode ser vendido barato.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "08052DF",
+  "en": "A shard from an\\nancient item. Can\\nbe sold cheaply.",
+  "pt": "Um caco de um item antigo. Pode ser vendido barato.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0805312",
+  "en": "A lovely scale.\\nIt is coveted by\\ncollectors.",
+  "pt": "Uma escama linda. É cobiçada por colecionadores.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "080533F",
+  "en": "Sweet honey that\\nattracts wild\\nCAPTURE when used.",
+  "pt": "Mel doce que atrai CAPTURAS selvagens quando usado.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0805371",
+  "en": "A very rare bone.\\nIt can be sold at\\na high price.",
+  "pt": "Um osso muito raro. Pode ser vendido por um preço alto.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "08053A3",
+  "en": "Voices can be heard\\nfrom this odd stone\\noccasionally.",
+  "pt": "Às vezes dá para ouvir vozes desta pedra estranha.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08053D9",
+  "en": "A beautiful yet\\nplain feather that\\ndoes nothing.",
+  "pt": "Uma pena linda, mas simples, que não faz nada.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080540A",
+  "en": "A copper coin used\\nlong ago. It sells\\nat a high price.",
+  "pt": "Antiga moeda de cobre. Vende por um preço alto.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0805441",
+  "en": "A silver coin used\\nlong ago. It sells\\nat a high price.",
+  "pt": "Antiga moeda de prata. Vende por um preço alto.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0805478",
+  "en": "A gold coin used\\nlong ago. It sells\\nat a high price.",
+  "pt": "Antiga moeda de ouro. Vende por um preço alto.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "08054AD",
+  "en": "A vase made long\\nago. It sells at\\na high price.",
+  "pt": "Um vaso feito há muito tempo. Vale um preço alto.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "08054DD",
+  "en": "An old bracelet.\\nIt sells at a\\nhigh price.",
+  "pt": "Uma pulseira antiga. Vale um preço alto.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0805508",
+  "en": "An old statue.\\nIt sells at a\\nhigh price.",
+  "pt": "Uma estátua antiga. Vale um preço alto.",
+  "max_lines": 3,
+  "max_width": 83
+ },
+ {
+  "offset": "0805531",
+  "en": "An old crown.\\nIt sells at a\\nhigh price.",
+  "pt": "Uma coroa antiga. Vale um preço alto.",
+  "max_lines": 3,
+  "max_width": 76
+ },
+ {
+  "offset": "0805559",
+  "en": "An ornament that\\ndepicts a Pokémon\\nfrom Alola.",
+  "pt": "Um enfeite que retrata uma CAPTURA de Alola.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0805588",
+  "en": "A piece of an\\nancient marine\\nPokémon's seashell.",
+  "pt": "Um pedaço da concha de uma antiga CAPTURA marinha.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08055B9",
+  "en": "A piece of an\\nancient marine\\nPokémon's shell.",
+  "pt": "Pedaço do casco de uma antiga CAPTURA marinha.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "08055E7",
+  "en": "A stone containing\\nthe genes of an\\nancient Pokémon.",
+  "pt": "Uma pedra que contém os genes de uma CAPTURA antiga.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080561B",
+  "en": "A fossil of an\\nancient, seafloor-\\ndwelling Pokémon.",
+  "pt": "Fóssil de uma antiga CAPTURA do fundo do mar.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "080564F",
+  "en": "A fossil of an\\nancient, seafloor-\\ndwelling Pokémon.",
+  "pt": "Fóssil de uma antiga CAPTURA do fundo do mar.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0805683",
+  "en": "A piece of a\\nprehistoric Poké-\\nmon's head.",
+  "pt": "Pedaço da cabeça de uma CAPTURA pré-histórica.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "08056AE",
+  "en": "A piece of a\\nprehistoric Poké-\\nmon's head.",
+  "pt": "Pedaço da cabeça de uma CAPTURA pré-histórica.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "08056D9",
+  "en": "A piece of a\\nprehistoric Poké-\\nmon's back.",
+  "pt": "Pedaço das costas de uma CAPTURA pré-histórica.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0805704",
+  "en": "A piece of a\\nprehistoric Poké-\\nmon's wing.",
+  "pt": "Um pedaço da asa de uma CAPTURA pré-histórica.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080572F",
+  "en": "A piece of a prehis-\\ntoric Pokémon's\\nlarge jaw.",
+  "pt": "Pedaço da mandíbula gigante de CAPTURA pré-histórica.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "080575F",
+  "en": "A piece of a prehis-\\ntoric Pokémon's\\nskin sail.",
+  "pt": "Um pedaço da vela de pele de uma CAPTURA pré-histórica.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "080578F",
+  "en": "A fossil of an\\nancient, sky-\\nsoaring Pokémon.",
+  "pt": "Fóssil de uma antiga CAPTURA que voava.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "08057BD",
+  "en": "A fossil of an\\nancient, sea-\\ndwelling Pokémon.",
+  "pt": "Fóssil de uma CAPTURA antiga que vivia no mar.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "08057EC",
+  "en": "A fossil of an\\nancient, land-\\nroaming Pokémon.",
+  "pt": "Fóssil de uma CAPTURA antiga que vivia em terra.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "080581B",
+  "en": "A fossil of an\\nancient, sea-\\ndwelling Pokémon.",
+  "pt": "Fóssil de uma CAPTURA antiga que vivia no mar.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "080584A",
+  "en": "A fertilizer that\\naccelerates the\\ngrowth of Berries.",
+  "pt": "Adubo que acelera o crescimento das Frutas.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080587F",
+  "en": "A fertilizer that\\ndecelerates the\\ngrowth of Berries.",
+  "pt": "Adubo que retarda o crescimento das Frutas.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "08058B4",
+  "en": "A fertilizer that\\nups the life time\\nof Berry trees.",
+  "pt": "Adubo que prolonga a vida dos pés de Fruta.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "08058E8",
+  "en": "A fertilizer that\\nmakes more Berries\\nregrow after fall.",
+  "pt": "Adubo que faz mais Frutas brotarem após caírem.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0805920",
+  "en": "A fertilizer that\\nups the number of\\nBerries harvested.",
+  "pt": "Um adubo que aumenta o número de Frutas colhidas.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0805957",
+  "en": "A fertilizer that\\nups the chance of\\nBerry mutations.",
+  "pt": "Adubo que aumenta a chance de Frutas mutantes.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080598C",
+  "en": "A fertilizer that\\nups the dry speed\\nof soft soil.",
+  "pt": "Um adubo que acelera a secagem do solo macio.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08059BE",
+  "en": "A fertilizer Rich\\nSurprising and\\nBoosting as well.",
+  "pt": "Um adubo Rico, Surpresa e também Impulso.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "08059F1",
+  "en": "A red apricorn.\\nIt assails your\\nnostrils.",
+  "pt": "Um apricorn vermelho. Ataca as suas narinas.",
+  "max_lines": 3,
+  "max_width": 89
+ },
+ {
+  "offset": "0805A1B",
+  "en": "A blue apricorn.\\nIt smells a bit\\nlike grass.",
+  "pt": "Um apricorn azul. Cheira um pouco a grama.",
+  "max_lines": 3,
+  "max_width": 91
+ },
+ {
+  "offset": "0805A48",
+  "en": "A yellow apricorn.\\nIt has an invigor-\\nating scent.",
+  "pt": "Um apricorn amarelo. Tem um aroma revigorante.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0805A7B",
+  "en": "A green apricorn.\\nIt has a strange,\\naromatic scent.",
+  "pt": "Um apricorn verde. Tem aroma estranho e forte.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0805AAF",
+  "en": "A pink apricorn.\\nIt has a nice,\\nsweet scent.",
+  "pt": "Um apricorn rosa. Tem um aroma doce e agradável.",
+  "max_lines": 3,
+  "max_width": 91
+ },
+ {
+  "offset": "0805ADC",
+  "en": "A white apricorn.\\nIt doesn't smell\\nlike anything.",
+  "pt": "Um apricorn branco. Não tem cheiro de nada.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "0805B0E",
+  "en": "A black apricorn.\\nIt has an inde-\\nscribable scent.",
+  "pt": "Um apricorn preto. Tem um aroma indescritível.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "0805B41",
+  "en": "Throw into a\\n{PK}{MN} Den to attract\\nDynamax Pokémon.",
+  "pt": "Jogue numa Toca {PK}{MN} para atrair CAPTURAS Dynamax.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0805B71",
+  "en": "A twig from a tree\\nin Galar called\\nGalarica.",
+  "pt": "Um galho de uma árvore de Galar chamada Galarica.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0805B9E",
+  "en": "A rare ore. Can be\\nfound in the Isle\\nof Armor at Galar.",
+  "pt": "Um minério raro. Fica na Isle of Armor, em Galar.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0805BD6",
+  "en": "A mysterious ore.\\nIt can be found in\\nGalar's Max Lair.",
+  "pt": "Um minério misterioso. Fica na Max Lair de Galar.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0805C0D",
+  "en": "A Zigzagoon-print\\nMail to be held by\\na Pokémon.",
+  "pt": "Carta de Zigzagoon para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0805C3D",
+  "en": "A Wingull-print\\nMail to be held by\\na Pokémon.",
+  "pt": "Carta com estampa de Wingull para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0805C6B",
+  "en": "A Pikachu-print\\nMail to be held by\\na Pokémon.",
+  "pt": "Carta de Pikachu para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0805C99",
+  "en": "A Magnemite-print\\nMail to be held by\\na Pokémon.",
+  "pt": "Carta de Magnemite para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0805CC9",
+  "en": "A Slakoth-print\\nMail to be held by\\na Pokémon.",
+  "pt": "Carta de Slakoth para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0805CF7",
+  "en": "A Wailmer-print\\nMail to be held by\\na Pokémon.",
+  "pt": "Carta com estampa de Wailmer para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0805D25",
+  "en": "Mail featuring a\\nsketch of the\\nholding Pokémon.",
+  "pt": "Carta com um esboço da CAPTURA que a segura.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "0805D55",
+  "en": "A Duskull-print\\nMail to be held by\\na Pokémon.",
+  "pt": "Carta com estampa de Duskull para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0805D83",
+  "en": "A Bellossom-print\\nMail to be held by\\na Pokémon.",
+  "pt": "Carta de Bellossom para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0805DB3",
+  "en": "Mail featuring a\\nsketch of the\\nholding Pokémon.",
+  "pt": "Carta com um esboço da CAPTURA que a segura.",
+  "max_lines": 3,
+  "max_width": 96
+ },
+ {
+  "offset": "0805DE3",
+  "en": "A gorgeous-print\\nMail to be held\\nby a Pokémon.",
+  "pt": "Carta com estampa linda para uma CAPTURA segurar.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0805E12",
+  "en": "Mail featuring the\\ndrawings of three\\nPokémon.",
+  "pt": "Carta com desenhos de três CAPTURAS.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0805E40",
+  "en": "Makes certain\\nspecies of CAPTURE\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805E69",
+  "en": "Makes certain\\nspecies of CAPTURE\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805E92",
+  "en": "Makes certain\\nspecies of CAPTURE\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805EBB",
+  "en": "Makes certain\\nspecies of CAPTURE\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805EE4",
+  "en": "Makes certain\\nspecies of Pokémon\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805F0D",
+  "en": "Makes certain\\nspecies of Pokémon\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805F36",
+  "en": "Makes certain\\nspecies of Pokémon\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805F5F",
+  "en": "Makes certain\\nspecies of Pokémon\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805F88",
+  "en": "Makes certain\\nspecies of Pokémon\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805FB1",
+  "en": "Makes certain\\nspecies of Pokémon\\nevolve.",
+  "pt": "Faz certas espécies de CAPTURA evoluírem.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0805FDA",
+  "en": "A very sweet apple\\nthat makes certain\\nPokémon evolve.",
+  "pt": "Uma maçã bem doce que faz certas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0806010",
+  "en": "A very tart apple\\nthat makes certain\\nPokémon evolve.",
+  "pt": "Uma maçã bem azeda que faz certas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0806045",
+  "en": "A cracked teapot\\nthat makes certain\\nPokémon evolve.",
+  "pt": "Um bule rachado que faz certas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0806079",
+  "en": "A chipped teapot\\nthat makes certain\\nPokémon evolve.",
+  "pt": "Um bule lascado que faz certas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08060AD",
+  "en": "A cuff from Galar\\nthat makes certain\\nPokémon evolve.",
+  "pt": "Uma pulseira de Galar que faz certas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08060E2",
+  "en": "A wreath made in\\nGalar. Makes some\\nPokémon evolve.",
+  "pt": "Coroa de Galar. Faz certas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0806115",
+  "en": "A strange scale\\nheld by Dragon-\\ntype Pokémon.",
+  "pt": "Escama estranha de CAPTURAS do tipo Dragão.",
+  "max_lines": 3,
+  "max_width": 91
+ },
+ {
+  "offset": "0806143",
+  "en": "A peculiar box made\\nby Silph Co.",
+  "pt": "Uma caixa peculiar feita pela Silph Co.",
+  "max_lines": 2,
+  "max_width": 110
+ },
+ {
+  "offset": "0806164",
+  "en": "Loved by a certain\\nPokémon. It's stiff\\nand heavy.",
+  "pt": "Adorado por certa CAPTURA. É duro e pesado.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0806196",
+  "en": "Loved by a certain\\nPokémon. It's full\\nof electric energy.",
+  "pt": "Adorado por certa CAPTURA. Cheio de energia elétrica.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08061D0",
+  "en": "Loved by a certain\\nPokémon. It's full\\nof magma energy.",
+  "pt": "Adorado por certa CAPTURA. Cheio de energia de magma.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0806207",
+  "en": "A transparent device\\noverflowing with\\ndubious data.",
+  "pt": "Aparelho transparente cheio de dados duvidosos.",
+  "max_lines": 3,
+  "max_width": 120
+ },
+ {
+  "offset": "080623B",
+  "en": "Loved by a certain\\nPokémon. Imbued with\\nspiritual energy.",
+  "pt": "Adorado por certa CAPTURA. Imbuído de energia espiritual.",
+  "max_lines": 3,
+  "max_width": 119
+ },
+ {
+  "offset": "0806275",
+  "en": "A mysterious scale\\nthat evolves certain\\nPokémon. It shines.",
+  "pt": "Escama misteriosa que faz certas CAPTURAS evoluírem. Brilha.",
+  "max_lines": 3,
+  "max_width": 119
+ },
+ {
+  "offset": "08062B1",
+  "en": "A soft and sweet\\ntreat loved by\\na certain Pokémon.",
+  "pt": "Um doce macio e açucarado adorado por certa CAPTURA.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "08062E4",
+  "en": "A sachet filled with\\nperfumes loved by\\na certain Pokémon.",
+  "pt": "Um sachê cheio de perfumes adorado por certa CAPTURA.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "080631E",
+  "en": "Makes a certain\\nPokémon evolve. It's\\nshaped like an egg.",
+  "pt": "Faz certa CAPTURA evoluir. Tem formato de ovo.",
+  "max_lines": 3,
+  "max_width": 116
+ },
+ {
+  "offset": "0806357",
+  "en": "Strawberry-shaped\\nsweet loved by\\nMilcery.",
+  "pt": "Doce em forma de morango adorado por Milcery.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0806381",
+  "en": "A heart-shaped\\nsweet loved by\\nMilcery.",
+  "pt": "Doce em forma de coração adorado por Milcery.",
+  "max_lines": 3,
+  "max_width": 90
+ },
+ {
+  "offset": "08063A8",
+  "en": "A berry-shaped\\nsweet loved by\\nMilcery.",
+  "pt": "Doce em forma de fruta adorado por Milcery.",
+  "max_lines": 3,
+  "max_width": 89
+ },
+ {
+  "offset": "08063CF",
+  "en": "A clover-shaped\\nsweet loved by\\nMilcery.",
+  "pt": "Doce em forma de trevo adorado por Milcery.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "08063F7",
+  "en": "A flower-shaped\\nsweet loved by\\nMilcery.",
+  "pt": "Doce em forma de flor adorado por Milcery.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "080641F",
+  "en": "A star-shaped\\nsweet loved by\\nMilcery.",
+  "pt": "Doce em forma de estrela adorado por Milcery.",
+  "max_lines": 3,
+  "max_width": 86
+ },
+ {
+  "offset": "0806445",
+  "en": "A ribbon-shaped\\nsweet loved by\\nMilcery.",
+  "pt": "Doce em forma de laço adorado por Milcery.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "080646D",
+  "en": "A wondrous hold\\nitem that prevents\\nevolution.",
+  "pt": "Um item incrível que impede a evolução de quem o segura.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080649B",
+  "en": "A black stone that\\nmakes some Pokémon\\nevolve.",
+  "pt": "Uma pedra preta que faz algumas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08064C9",
+  "en": "A mysterious string\\nthat makes some\\nPokémon evolve.",
+  "pt": "Um fio misterioso que faz algumas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08064FD",
+  "en": "A block of material\\nthat makes some\\nPokémon evolve.",
+  "pt": "Um bloco de material que faz algumas CAPTURAS evoluírem.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0806531",
+  "en": "Flower nectar that\\nchanges the form\\nof certain Pokémon.",
+  "pt": "Néctar de flor que muda a forma de certas CAPTURAS.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806569",
+  "en": "Flower nectar that\\nchanges the form\\nof certain Pokémon.",
+  "pt": "Néctar de flor que muda a forma de certas CAPTURAS.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08065A1",
+  "en": "Flower nectar that\\nchanges the form\\nof certain Pokémon.",
+  "pt": "Néctar de flor que muda a forma de certas CAPTURAS.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08065D9",
+  "en": "Flower nectar that\\nchanges the form\\nof certain Pokémon.",
+  "pt": "Néctar de flor que muda a forma de certas CAPTURAS.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806611",
+  "en": "A tablet that ups\\nthe power of\\nFire-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Fogo.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0806641",
+  "en": "A tablet that ups\\nthe power of\\nWater-type moves.",
+  "pt": "Uma placa que aumenta o poder dos golpes do tipo Água.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0806672",
+  "en": "A tablet that ups\\nthe power of Elec-\\ntric-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Elétrico.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "08066A8",
+  "en": "A tablet that ups\\nthe power of\\nGrass-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Planta.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "08066D9",
+  "en": "A tablet that ups\\nthe power of\\nIce-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Gelo.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0806708",
+  "en": "A tablet that ups\\nthe power of Fight-\\ning-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Lutador.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "080673E",
+  "en": "A tablet that ups\\nthe power of\\nPoison-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Venenoso.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0806770",
+  "en": "A tablet that ups\\nthe power of\\nGround-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Terrestre.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08067A2",
+  "en": "A tablet that ups\\nthe power of\\nFlying-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Voador.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08067D4",
+  "en": "A tablet that ups\\nthe power of Psy\\nchic-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Psíquico.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0806808",
+  "en": "A tablet that ups\\nthe power of\\nBug-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Inseto.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0806837",
+  "en": "A tablet that ups\\nthe power of\\nRock-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Pedra.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0806867",
+  "en": "A tablet that ups\\nthe power of\\nGhost-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Fantasma.",
+  "max_lines": 3,
+  "max_width": 106
+ },
+ {
+  "offset": "0806898",
+  "en": "A tablet that ups\\nthe power of\\nDragon-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Dragão.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08068CA",
+  "en": "A tablet that ups\\nthe power of\\nDark-type moves.",
+  "pt": "Placa que aumenta o poder dos golpes do tipo Sombrio.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "08068FA",
+  "en": "A tablet that ups\\nthe power of\\nSteel-type moves.",
+  "pt": "Uma placa que aumenta o poder dos golpes do tipo Aço.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "080692B",
+  "en": "A stone tablet that\\nboosts the power of\\nFairy-type moves.",
+  "pt": "Placa de pedra que fortalece golpes do tipo Fada.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "0806965",
+  "en": "Changes Genesect's\\nTechno Blast to\\nWater-type.",
+  "pt": "Muda a Rajada Tecnol. de Genesect para o tipo Água.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806994",
+  "en": "Changes Genesect's\\nTechno Blast to\\nElectric-type.",
+  "pt": "Muda a Rajada Tecnol. de Genesect para o tipo Elétrico.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08069C6",
+  "en": "Changes Genesect's\\nTechno Blast to\\nFire-type.",
+  "pt": "Muda a Rajada Tecnol. de Genesect para o tipo Fogo.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08069F4",
+  "en": "Changes Genesect's\\nTechno Blast to\\nIce-type.",
+  "pt": "Muda a Rajada Tecnol. de Genesect para o tipo Gelo.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806A21",
+  "en": "A disc with Fire\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Fogo. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806A57",
+  "en": "A disc with Water\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Água. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806A8E",
+  "en": "A disc with Electric\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Elétrico. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806AC8",
+  "en": "A disc with Grass\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Planta. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806AFF",
+  "en": "A disc with Ice\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Gelo. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806B34",
+  "en": "A disc with Fighting\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Lutador. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 113
+ },
+ {
+  "offset": "0806B6E",
+  "en": "A disc with Poison\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Venenoso. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806BA6",
+  "en": "A disc with Ground\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Terrestre. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806BDE",
+  "en": "A disc with Flying\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Voador. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806C16",
+  "en": "A disc with Psychic\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Psíquico. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806C4F",
+  "en": "A disc with Bug\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Inseto. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806C84",
+  "en": "A disc with Rock\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Pedra. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806CBA",
+  "en": "A disc with Ghost\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Fantasma. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806CF1",
+  "en": "A disc with Dragon\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Dragão. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806D29",
+  "en": "A disc with Dark\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Sombrio. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806D5F",
+  "en": "A disc with Steel\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Aço. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806D96",
+  "en": "A disc with Fairy\\ntype data. It swaps\\nSilvally's type.",
+  "pt": "Um disco com dados do tipo Fada. Muda o tipo de Silvally.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0806DCD",
+  "en": "A rusty sword. A\\nhero used it to\\nhalt a disaster.",
+  "pt": "Espada gasta. Um\\nherói deteve um\\ndesastre com ela.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0806DFF",
+  "en": "A rusty shield. A\\nhero used it to\\nhalt a disaster.",
+  "pt": "Escudo gasto. Um\\nherói deteve um\\ndesastre com ele.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "0806E32",
+  "en": "A red, glowing orb\\nsaid to contain an\\nancient power.",
+  "pt": "Um orbe vermelho e brilhante que dizem ter um poder antigo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0806E67",
+  "en": "A blue, glowing orb\\nsaid to contain an\\nancient power.",
+  "pt": "Um orbe azul e brilhante que dizem ter um poder antigo.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0806E9D",
+  "en": "This stone enables\\nVenusaur to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Venusaur Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0806ED3",
+  "en": "This stone enables\\nCharizard to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Charizard Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0806F0A",
+  "en": "This stone enables\\nBlastoise to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Blastoise Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0806F41",
+  "en": "This stone enables\\nBeedrill to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Beedrill Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0806F77",
+  "en": "This stone enables\\nPidgeot to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Pidgeot Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0806FAC",
+  "en": "This stone enables\\nAlakazam to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Alakazam Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0806FE2",
+  "en": "This stone enables\\nSlowbro to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Slowbro Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807017",
+  "en": "This stone enables\\nGengar to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Gengar Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080704B",
+  "en": "This stone enables\\nKangaskhan to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Kangaskhan Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "0807083",
+  "en": "This stone enables\\nPinsir to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Pinsir Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08070B7",
+  "en": "This stone enables\\nGyarados to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Gyarados Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08070ED",
+  "en": "This stone enables\\nAerodactyl to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Aerodactyl Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "0807125",
+  "en": "This stone enables\\nMewtwo to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Mewtwo Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807159",
+  "en": "This stone enables\\nAmpharos to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Ampharos Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080718F",
+  "en": "This stone enables\\nSteelix to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Steelix Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08071C4",
+  "en": "This stone enables\\nScizor to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Scizor Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08071F8",
+  "en": "This stone enables\\nHeracross to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Heracross Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080722F",
+  "en": "This stone enables\\nHoundoom to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Houndoom Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807265",
+  "en": "This stone enables\\nTyranitar to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Tyranitar Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080729C",
+  "en": "This stone enables\\nSceptile to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Sceptile Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08072D2",
+  "en": "This stone enables\\nBlaziken to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Blaziken Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807308",
+  "en": "This stone enables\\nSwampert to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Swampert Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080733E",
+  "en": "This stone enables\\nGardevoir to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Gardevoir Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807375",
+  "en": "This stone enables\\nSableye to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Sableye Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08073AA",
+  "en": "This stone enables\\nMawile to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Mawile Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08073DE",
+  "en": "This stone enables\\nAggron to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Aggron Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807412",
+  "en": "This stone enables\\nMedicham to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Medicham Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807448",
+  "en": "This stone enables\\nManectric to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Manectric Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080747F",
+  "en": "This stone enables\\nSharpedo to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Sharpedo Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08074B5",
+  "en": "This stone enables\\nCamerupt to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Camerupt Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08074EB",
+  "en": "This stone enables\\nAltaria to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Altaria Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807520",
+  "en": "This stone enables\\nBanette to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Banette Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807555",
+  "en": "This stone enables\\nAbsol to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Absol Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807588",
+  "en": "This stone enables\\nGlalie to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Glalie Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08075BC",
+  "en": "This stone enables\\nSalamence to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Salamence Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08075F3",
+  "en": "This stone enables\\nMetagross to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Metagross Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080762A",
+  "en": "This stone enables\\nLatias to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Latias Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080765E",
+  "en": "This stone enables\\nLatios to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Latios Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807692",
+  "en": "This stone enables\\nLopunny to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Lopunny Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08076C7",
+  "en": "This stone enables\\nGarchomp to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Garchomp Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08076FD",
+  "en": "This stone enables\\nLucario to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Lucario Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807732",
+  "en": "This stone enables\\nAbomasnow to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Abomasnow Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807769",
+  "en": "This stone enables\\nGallade to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Gallade Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080779E",
+  "en": "This stone enables\\nAudino to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Audino Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08077D2",
+  "en": "This stone enables\\nDiancie to Mega\\nEvolve in battle.",
+  "pt": "Esta pedra permite que Diancie Mega Evolua em batalha.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807807",
+  "en": "Increases the\\npower of Normal\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Normal.",
+  "max_lines": 3,
+  "max_width": 90
+ },
+ {
+  "offset": "0807831",
+  "en": "Increases the\\npower of Fire\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Fogo.",
+  "max_lines": 3,
+  "max_width": 84
+ },
+ {
+  "offset": "0807859",
+  "en": "Increases the\\npower of Water\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Água.",
+  "max_lines": 3,
+  "max_width": 86
+ },
+ {
+  "offset": "0807882",
+  "en": "Increases the\\npower of Electric\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Elétrico.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "08078AE",
+  "en": "Increases the\\npower of Grass\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Planta.",
+  "max_lines": 3,
+  "max_width": 86
+ },
+ {
+  "offset": "08078D7",
+  "en": "Increases the\\npower of Ice\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Gelo.",
+  "max_lines": 3,
+  "max_width": 84
+ },
+ {
+  "offset": "08078FE",
+  "en": "Increases the\\npower of Fighting\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Lutador.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "080792A",
+  "en": "Increases the\\npower of Poison\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Venenoso.",
+  "max_lines": 3,
+  "max_width": 91
+ },
+ {
+  "offset": "0807954",
+  "en": "Increases the\\npower of Ground\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Terrestre.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "080797E",
+  "en": "Increases the\\npower of Flying\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Voador.",
+  "max_lines": 3,
+  "max_width": 89
+ },
+ {
+  "offset": "08079A8",
+  "en": "Increases the\\npower of Psychic\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Psíquico.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "08079D3",
+  "en": "Increases the\\npower of Bug\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Inseto.",
+  "max_lines": 3,
+  "max_width": 84
+ },
+ {
+  "offset": "08079FA",
+  "en": "Increases the\\npower of Rock\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Pedra.",
+  "max_lines": 3,
+  "max_width": 84
+ },
+ {
+  "offset": "0807A22",
+  "en": "Increases the\\npower of Ghost\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Fantasma.",
+  "max_lines": 3,
+  "max_width": 87
+ },
+ {
+  "offset": "0807A4B",
+  "en": "Increases the\\npower of Dragon\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Dragão.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807A75",
+  "en": "Increases the\\npower of Dark\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Sombrio.",
+  "max_lines": 3,
+  "max_width": 84
+ },
+ {
+  "offset": "0807A9D",
+  "en": "Increases the\\npower of Steel\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Aço.",
+  "max_lines": 3,
+  "max_width": 85
+ },
+ {
+  "offset": "0807AC6",
+  "en": "Increases the\\npower of Fairy\\nType moves.",
+  "pt": "Aumenta o poder dos golpes do tipo Fada.",
+  "max_lines": 3,
+  "max_width": 84
+ },
+ {
+  "offset": "0807AEF",
+  "en": "Upgrade Normal-\\ntype moves into\\nZ-Moves.",
+  "pt": "Converte golpes do tipo Normal em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0807B18",
+  "en": "Upgrade Fire-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Fogo em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807B3F",
+  "en": "Upgrade Water-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Água em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807B67",
+  "en": "Upgrade Electric-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Elétrico em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0807B92",
+  "en": "Upgrade Grass-\\ntype moves into\\nZ-Moves.",
+  "pt": "Converte golpes do tipo Planta em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807BBA",
+  "en": "Upgrade Ice-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Gelo em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807BE0",
+  "en": "Upgrade Fighting-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Lutador em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 104
+ },
+ {
+  "offset": "0807C0B",
+  "en": "Upgrade Poison-\\ntype moves into\\nZ-Moves.",
+  "pt": "Converte golpes do tipo Venenoso em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 94
+ },
+ {
+  "offset": "0807C34",
+  "en": "Upgrade Ground-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Terrestre em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "0807C5D",
+  "en": "Upgrade Flying-\\ntype moves into\\nZ-Moves.",
+  "pt": "Converte golpes do tipo Voador em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807C86",
+  "en": "Upgrade Psychic-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Psíquico em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 100
+ },
+ {
+  "offset": "0807CB0",
+  "en": "Upgrade Bug-\\ntype moves into\\nZ-Moves.",
+  "pt": "Converte golpes do tipo Inseto em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807CD6",
+  "en": "Upgrade Rock-\\ntype moves into\\nZ-Moves.",
+  "pt": "Converte golpes do tipo Pedra em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807CFD",
+  "en": "Upgrade Ghost-\\ntype moves into\\nZ-Moves.",
+  "pt": "Converte golpes do tipo Fantasma em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807D25",
+  "en": "Upgrade Dragon-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Dragão em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "0807D4E",
+  "en": "Upgrade Dark-\\ntype moves into\\nZ-Moves.",
+  "pt": "Converte golpes do tipo Sombrio em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807D75",
+  "en": "Upgrade Steel-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Aço em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807D9D",
+  "en": "Upgrade Fairy-\\ntype moves into\\nZ-Moves.",
+  "pt": "Transforma golpes do tipo Fada em Golpes Z.",
+  "max_lines": 3,
+  "max_width": 92
+ },
+ {
+  "offset": "0807DC5",
+  "en": "Upgrade Pikachu's\\nVolt Tackle\\ninto a Z-Move.",
+  "pt": "Converte Investida Trovão de Pikachu em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "0807DF2",
+  "en": "Upgrade Eevee's\\nLast Resort\\ninto a Z-Move.",
+  "pt": "Transforma Último Recurso de Eevee em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0807E1D",
+  "en": "Upgrade Snorlax's\\nGiga Impact\\ninto a Z-Move.",
+  "pt": "Transforma Gigaimpacto de Snorlax em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0807E4A",
+  "en": "Upgrade Mew's\\nPsychic into\\na Z-Move.",
+  "pt": "Transforma Psíquico de Mew em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 81
+ },
+ {
+  "offset": "0807E6F",
+  "en": "Upgrade Decidu-\\neye's Spirit Sha-\\nckle into a Z-Move.",
+  "pt": "Manilha Sombria de\\nDecidueye vira\\nGolpe Z.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807EA5",
+  "en": "Upgrade Incine-\\nroar's Darkest La-\\nriat into a Z-Move.",
+  "pt": "Lariat Escuro de Incineroar vira Golpe Z.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0807EDC",
+  "en": "Upgrade Primarina's\\nSparkling Aria\\ninto a Z-Move.",
+  "pt": "Transforma Aria Cintilante de Primarina em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0807F0E",
+  "en": "Upgrade Lycanroc's\\nStone Edge\\ninto a Z-Move.",
+  "pt": "Transforma Gume de Pedra de Lycanroc em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0807F3B",
+  "en": "Upgrade Mimikyu's\\nPlay Rough\\ninto a Z-Move.",
+  "pt": "Transforma Jogo Duro de Mimikyu em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 101
+ },
+ {
+  "offset": "0807F67",
+  "en": "Upgrade Kommo-o's\\nClanging Scales\\ninto a Z-Move.",
+  "pt": "Transforma Batida Escamas de Kommo-o em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0807F98",
+  "en": "Upgrade the tapu's\\nNature's Madness\\ninto a Z-Move.",
+  "pt": "Transforma Ira da Natureza dos tapus em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0807FCB",
+  "en": "Upgrade Solgaleo's\\nSunsteel Strike\\ninto a Z-Move.",
+  "pt": "Transforma Ataque Solaraço de Solgaleo em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0807FFD",
+  "en": "Upgrade Lunala's\\nMoongeist Beam\\ninto a Z-Move.",
+  "pt": "Transforma Feixe Espectral de Lunala em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "080802C",
+  "en": "Upgrade Marsha-\\ndow's Spectral Thi-\\nef into a Z-Move.",
+  "pt": "Ladrão Espectral de\\nMarshadow vira\\nGolpe Z.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0808062",
+  "en": "Upgrade Alolan\\nRaichu's Thunder-\\nbolt into a Z-Move.",
+  "pt": "Transforma Choque do Trovão de Raichu de Alola em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0808097",
+  "en": "Upgrade Pikachu w/\\na cap's Thunderbolt\\ninto a Z-Move.",
+  "pt": "Transforma Choque do Trovão de Pikachu de boné em Golpe Z.",
+  "max_lines": 3,
+  "max_width": 112
+ },
+ {
+  "offset": "08080CD",
+  "en": "A crystal to turn\\nfused Necrozma\\ninto a new form.",
+  "pt": "Um cristal que dá uma nova forma ao Necrozma fundido.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "08080FF",
+  "en": "A hold item that\\nparalyzes the\\ntarget if flung at.",
+  "pt": "Item segurado que paralisa o alvo se for arremessado.",
+  "max_lines": 3,
+  "max_width": 107
+ },
+ {
+  "offset": "0808132",
+  "en": "A hold item that\\nraises Farfetch'd's\\ncritical-hit ratio.",
+  "pt": "Item que aumenta a taxa de crítico de Farfetch'd.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080816B",
+  "en": "A hold item that \\nraises Cubone or\\nMarowak's Attack.",
+  "pt": "Item segurado. Sobe o Ataque de Cubone ou Marowak.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08081A0",
+  "en": "A hold item that\\nraises Chansey's\\ncritical-hit rate.",
+  "pt": "Item segurado que aumenta a taxa de crítico de Chansey.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "08081D5",
+  "en": "A hold item that\\nraises all KOOPA's\\nDefense.",
+  "pt": "Item segurado que aumenta a Defesa de qualquer KOOPA.",
+  "max_lines": 3,
+  "max_width": 102
+ },
+ {
+  "offset": "0808202",
+  "en": "An item to be held\\nby GOOMBAs. These\\nboots boost Speed.",
+  "pt": "Item de GOOMBAs. Estas botas sobem a Velocidade.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "080823A",
+  "en": "A hold item that\\nraises the Sp. Def\\nof Clamperl.",
+  "pt": "Item segurado que aumenta a Def. Esp. de Clamperl.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080826B",
+  "en": "A hold item that\\nraises the Sp. Atk\\nof Clamperl.",
+  "pt": "Item segurado que aumenta o At. Esp. de Clamperl.",
+  "max_lines": 3,
+  "max_width": 103
+ },
+ {
+  "offset": "080829C",
+  "en": "Powers up Latios' &\\nLatias' Psychic and\\nDragon-type moves.",
+  "pt": "Fortalece os golpes Psíquico e Dragão de Latios e Latias.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08082D7",
+  "en": "Boosts the power of\\nDialga's Dragon and\\nSteel-type moves.",
+  "pt": "Fortalece os golpes dos tipos Dragão e Aço de Dialga.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "0808311",
+  "en": "Boosts the power of\\nPalkia's Dragon and\\nWater-type moves.",
+  "pt": "Fortalece os golpes dos tipos Dragão e Água de Palkia.",
+  "max_lines": 3,
+  "max_width": 114
+ },
+ {
+  "offset": "080834B",
+  "en": "Powers up Giratina's\\nDragon and Ghost-\\ntype moves.",
+  "pt": "Fortalece os golpes dos tipos Dragão e Fantasma de Giratina.",
+  "max_lines": 3,
+  "max_width": 115
+ },
+ {
+  "offset": "080837E",
+  "en": "A hold item that\\nslightly boosts\\nWater-type moves.",
+  "pt": "Item segurado que fortalece um pouco golpes do tipo Água.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "08083B1",
+  "en": "A hold item that\\nslightly lowers the\\nfoe's accuracy.",
+  "pt": "Item que reduz um pouco a precisão do oponente.",
+  "max_lines": 3,
+  "max_width": 109
+ },
+ {
+  "offset": "08083E6",
+  "en": "A hold item that\\nboosts Psychic-\\ntype moves.",
+  "pt": "Item segurado que fortalece golpes do tipo Psíquico.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "0808413",
+  "en": "A hold item that\\nraises the power of\\nRock-type moves.",
+  "pt": "Item segurado que aumenta o poder dos golpes do tipo Pedra.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808449",
+  "en": "A held item that\\nmakes the holder\\nmove slower.",
+  "pt": "Item segurado que faz o portador agir mais devagar.",
+  "max_lines": 3,
+  "max_width": 97
+ },
+ {
+  "offset": "0808478",
+  "en": "A hold item that\\nslightly boosts\\nWater-type moves.",
+  "pt": "Item segurado que fortalece um pouco golpes do tipo Água.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "08084AB",
+  "en": "A hold item that\\nraises the power of\\nGrass-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Planta.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08084E2",
+  "en": "Doubles money in\\nbattle if the\\nholder takes part.",
+  "pt": "Dobra o dinheiro se o portador lutar na batalha.",
+  "max_lines": 3,
+  "max_width": 105
+ },
+ {
+  "offset": "0808514",
+  "en": "A hold item that\\nhelps repel wild\\nCAPTURES.",
+  "pt": "Item segurado. Repele CAPTURAS selvagens.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0808540",
+  "en": "A hold item that\\nraises Cool in\\nContests.",
+  "pt": "Item segurado. Aumenta o Estilo em Concursos.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "080856A",
+  "en": "A hold item that\\nraises Beauty in\\nContests.",
+  "pt": "Item segurado que aumenta a Beleza em Concursos.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "0808596",
+  "en": "A hold item that\\nraises Cute in\\nContests.",
+  "pt": "Item segurado. Aumenta a Fofura em Concursos.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "08085C0",
+  "en": "A hold item that\\nraises Smart in\\nContests.",
+  "pt": "Item segurado. Sobe Inteligência em Concursos.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "08085EB",
+  "en": "A hold item that\\nraises Tough in\\nContests.",
+  "pt": "Item segurado. Aumenta a Garra em Concursos.",
+  "max_lines": 3,
+  "max_width": 93
+ },
+ {
+  "offset": "0808616",
+  "en": "A hold item that\\npromotes growth,\\nbut reduces Speed.",
+  "pt": "Estimula o crescimento, mas reduz a Velocidade.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080864B",
+  "en": "A hold item that\\npromotes HP gain,\\nbut reduces Speed.",
+  "pt": "Estimula o ganho de HP, mas reduz a Velocidade.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "0808681",
+  "en": "A hold item that\\npromotes Atk gain,\\nbut reduces Speed.",
+  "pt": "Estimula o ganho de Ataque, mas reduz a Velocidade.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08086B8",
+  "en": "A hold item that\\npromotes Def gain,\\nbut reduces Speed.",
+  "pt": "Estimula o ganho de Defesa, mas reduz a Velocidade.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "08086EF",
+  "en": "Hold item that pro-\\nmotes Sp. Atk gain,\\nbut reduces Speed.",
+  "pt": "Estimula o ganho de At. Esp., mas reduz a Velocidade.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "080872A",
+  "en": "Hold item that pro-\\nmotes Sp. Def gain,\\nbut reduces Speed.",
+  "pt": "Estimula o ganho de Def. Esp., mas reduz a Velocidade.",
+  "max_lines": 3,
+  "max_width": 110
+ },
+ {
+  "offset": "0808765",
+  "en": "A hold item that\\npromotes Spd gain,\\nbut reduces Speed.",
+  "pt": "Estimula o ganho de Velocidade, mas reduz a Velocidade.",
+  "max_lines": 3,
+  "max_width": 108
+ },
+ {
+  "offset": "080879C",
+  "en": "A hold item that\\nraises the power of\\nNormal-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Normal.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08087D4",
+  "en": "A hold item that\\nraises the power of\\nFire-type moves.",
+  "pt": "Item segurado que aumenta o poder dos golpes do tipo Fogo.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "080880A",
+  "en": "A hold item that\\nraises the power of\\nWater-type moves.",
+  "pt": "Item segurado que aumenta o poder dos golpes do tipo Água.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808841",
+  "en": "A hold item that\\nboosts Electric-\\ntype moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Elétrico.",
+  "max_lines": 3,
+  "max_width": 98
+ },
+ {
+  "offset": "080886F",
+  "en": "A hold item that\\nraises the power of\\nGrass-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Planta.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08088A6",
+  "en": "A hold item that\\nraises the power of\\nIce-type moves.",
+  "pt": "Item segurado que aumenta o poder dos golpes do tipo Gelo.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08088DB",
+  "en": "A hold item that\\nboosts Fighting-\\ntype moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Lutador.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0808909",
+  "en": "A hold item that\\nraises the power of\\nPoison-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Venenoso.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808941",
+  "en": "A hold item that\\nraises the power of\\nGround-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Terrestre.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808979",
+  "en": "A hold item that\\nraises the power of\\nFlying-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Voador.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "08089B1",
+  "en": "A hold item that\\nboosts Psychic-\\ntype moves.",
+  "pt": "Item segurado que fortalece golpes do tipo Psíquico.",
+  "max_lines": 3,
+  "max_width": 95
+ },
+ {
+  "offset": "08089DE",
+  "en": "A hold item that\\nraises the power of\\nBug-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Inseto.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808A13",
+  "en": "A hold item that\\nraises the power of\\nRock-type moves.",
+  "pt": "Item segurado que aumenta o poder dos golpes do tipo Pedra.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808A49",
+  "en": "A hold item that\\nraises the power of\\nGhost-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Fantasma.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808A80",
+  "en": "A hold item that\\nraises the power of\\nDragon-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Dragão.",
+  "max_lines": 3,
+  "max_width": 111
+ },
+ {
+  "offset": "0808AB8",
+  "en": "A hold item that\\nraises the power of\\nDark-type moves.",
+  "pt": "Item segurado. Fortalece golpes do tipo Sombrio.",
+  "max_lines": 3,
+  "max_width": 111
+ }
+]

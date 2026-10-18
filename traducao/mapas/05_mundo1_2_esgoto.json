@@ -1,0 +1,477 @@
+[
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "03476FB",
+  "en": "PEACH'S CASTLE →",
+  "pt": "CASTELO PEACH →",
+  "max_width": 94
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "034770C",
+  "en": "MARIO! You made it out to WORLD 1-2,\\nhuh?\\pFrom here on out, there will probably be\\nother TOADs itching to try out this new\\lgame the PRINCESS came up with.\\pMake sure you give it all you got!",
+  "pt": "MARIO! Você chegou ao MUNDO 1-2, hein?\\pDaqui em diante, provavelmente vai ter outros TOADs doidos pra testar esse jogo novo que a PRINCESA inventou.\\pDê tudo de si!"
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "03477CA",
+  "en": "Hey MARIO!\\nHave you used any WARP PIPES yet? All\\lyou gotta do is go up to them and jump\\lon in!\\pWhy don't you try it with this one to\\nsee where it leads?",
+  "pt": "Ei, MARIO! Você já usou algum CANO WARP? É só chegar perto e pular dentro!\\pPor que não testa com este aqui pra ver aonde ele leva?"
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "0347863",
+  "en": "Whew… Now I just gotta go through one\\nof these castles in order to make it to\\lPEACH'S CASTLE.\\pI gotta enter a castle in order to get\\nto another one?\\pSeems kind of odd if you ask me.",
+  "pt": "Ufa… Agora só preciso passar por um desses castelos pra chegar ao CASTELO DA PEACH.\\pTenho que entrar num castelo pra chegar em outro castelo?\\pSe quer saber, acho isso meio esquisito."
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "0347919",
+  "en": "WORLD 1-2 sure is spacious, isn't it?\\pLots of TOADs love going for walks out\\nhere, although things have been a bit\\lmore exciting thanks to the C.A.P.\\lCHALLENGE!",
+  "pt": "O MUNDO 1-2 é bem espaçoso, não é?\\pMuitos TOADs adoram passear por aqui, mas as coisas andam bem mais agitadas graças ao DESAFIO C.A.P.!"
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "03479BA",
+  "en": "Hmmmm…\\nSo the castles lead to one another…\\pI wonder if there's any point to heading\\nwest to the other one then?",
+  "pt": "Hmmmm… Então os castelos levam um ao outro…\\pSerá que vale a pena ir pro oeste até o outro, então?"
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "0347A2A",
+  "en": "MARIO! Are you participating in the new\\nC.A.P. CHALLENGE? If so, I think you may\\lneed this.",
+  "pt": "MARIO! Você vai participar do novo DESAFIO C.A.P.? Se for, acho que vai precisar disto."
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "0347A86",
+  "en": "That there is a BERRY. Give it to one of\\nyour party members and they can heal\\lmid battle! Don't underestimate the\\lpower of held items!",
+  "pt": "Isso aí é uma FRUTA. Dê para um membro da sua equipe e ele vai poder se curar no meio da batalha! Não subestime o poder dos itens segurados!"
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "0347B0D",
+  "en": "MARIO, I've been waiting for you. This\\nwarp pipe will lead you straight to\\lPEACH'S CASTLE.",
+  "pt": "MARIO, eu estava esperando você. Este cano warp leva você direto ao CASTELO DA PEACH."
+ },
+ {
+  "map": "2.15 WORLD 1-2",
+  "offset": "0347B68",
+  "en": "SWEETS DRINK\\nGIVE POWER",
+  "pt": "DOCES E BEBIDAS\\nQUE DÃO ENERGIA"
+ },
+ {
+  "map": "2.17 TOAD TOWN SEWER",
+  "offset": "0372810",
+  "en": "Oh! MARIO! Uh, sorry, but we're not\\nreally in need of a plumber at the\\lmoment. The SEWERS are running great.",
+  "pt": "Ah! MARIO! Hã, foi mal, mas a gente não tá precisando de encanador no momento. O ESGOTO tá funcionando que é uma beleza."
+ },
+ {
+  "map": "2.17 TOAD TOWN SEWER",
+  "offset": "037287D",
+  "en": "Honestly, fishing in the SEWERS is kind\\nof a stupid idea. But that's okay. I\\lthink it's funny.",
+  "pt": "Sinceramente, pescar no ESGOTO é uma ideia meio idiota. Mas tudo bem. Eu acho engraçado."
+ },
+ {
+  "map": "2.17 TOAD TOWN SEWER",
+  "offset": "03728DC",
+  "en": "These rocks! Full of treasures! It\\nrocks!",
+  "pt": "Essas pedras! Cheias de tesouros! Que joia!"
+ },
+ {
+  "map": "2.18 TOAD TOWN SEWER",
+  "offset": "0372C2D",
+  "en": "I'm sorry, but there's no entry beyond\\nthis-\\pMARIO! Forgive me, I didn't know it was\\nyou. You can go on ahead, but please be\\lcareful.",
+  "pt": "Desculpe, mas não é permitido passar daqui-\\pMARIO! Me perdoe, não sabia que era você. Pode seguir em frente, mas tenha cuidado."
+ },
+ {
+  "map": "2.21 TOAD TOWN",
+  "offset": "0378491",
+  "en": "Welcome to the WARP ZONE!\\nUnfortunately, we're currently\\lundergoing maintenance.\\pIf you'd like to go to PEACH'S CASTLE,\\nplease exit the town using the east\\lexit.",
+  "pt": "Bem-vindo à ZONA WARP! Infelizmente, estamos em manutenção.\\pSe quiser ir ao CASTELO DA PEACH, saia da cidade pela saída leste."
+ },
+ {
+  "map": "2.21 TOAD TOWN",
+  "offset": "0378533",
+  "en": "The WARP ZONE was an ingenious idea\\nplanned by PROFESSOR E. GADD with the\\lhelp from PRINCESS PEACH.\\pIt makes it much easier for everyone to\\nget to all 8 WORLDS!",
+  "pt": "A ZONA WARP foi uma ideia genial do PROFESSOR E. GADD com a ajuda da PRINCESA PEACH.\\pEla facilita muito a vida de todo mundo pra chegar aos 8 MUNDOS!"
+ },
+ {
+  "map": "2.21 TOAD TOWN",
+  "offset": "03785D4",
+  "en": "Do I go to WORLD 3 or WORLD 4 first? I\\ncan't decide!",
+  "pt": "Vou primeiro pro MUNDO 3 ou pro MUNDO 4? Não consigo decidir!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "037952E",
+  "en": "Before you go, I should let you know\\nthat the WARP PIPE isn't working\\lproperly.\\pInstead of going to the METRO KINGDOM,\\nit's currently going to the SAND\\lKINGDOM. I have some other plumbers\\lcoming over to fix it because I know\\lyou're busy with the C.A.P. CHALLENGE.\\pYou can still get to the METRO KINGDOM\\nby passing through SAND KINGDOM, but\\lyou'll have to cross the desert first.\\pGood luck!",
+  "pt": "Antes de você ir, preciso avisar que o CANO WARP não está funcionando direito.\\pEm vez de ir para o METRO KINGDOM, ele está indo para o SAND KINGDOM. Chamei outros encanadores pra consertar, porque sei que você está ocupado com o DESAFIO C.A.P.\\pVocê ainda pode chegar ao METRO KINGDOM passando pelo SAND KINGDOM, mas vai ter que atravessar o deserto antes.\\pBoa sorte!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "03796C4",
+  "en": "MARIO! Boy, am I glad to see you! I've\\njust about finished up here. You should\\lbe able to go to {STR_VAR_1} in just\\la moment.",
+  "pt": "MARIO! Rapaz, que bom te ver! Estou quase terminando aqui. Daqui a pouquinho você vai poder ir para {STR_VAR_1}."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379739",
+  "en": "Hey MARIO. We're trying to get the warp\\nto {STR_VAR_2} fixed, but it may\\ltake a while… Why don't you go explore\\lthe other world and we'll hopefully be\\ldone when you get back.",
+  "pt": "Oi, MARIO. Estamos tentando consertar o warp para {STR_VAR_2}, mas pode demorar… Por que não vai explorar o outro mundo? Com sorte, vamos ter terminado quando você voltar."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "03797E3",
+  "en": "WAIT JUST A MINUTE!!!",
+  "pt": "ESPERE AÍ UM MINUTO!!!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "03797F9",
+  "en": "KAMEK",
+  "pt": "KAMEK",
+  "max_width": 36
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "03797FF",
+  "en": "Huff… puff…",
+  "pt": "Arf… arf…"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "037980B",
+  "en": "I, KAMEK, can't allow you to do that!\\nLORD BOWSER has tasked me with\\lensuring you don't repair this warp\\lpipe, and I won't let HIS BURLINESS\\ldown!",
+  "pt": "Eu, KAMEK, não posso permitir isso! O LORDE BOWSER me encarregou de garantir que você não conserte este cano warp, e eu não vou decepcionar SUA PARRUDEZ!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "03798AB",
+  "en": "No way… LORD BOWSER is going to kill me…",
+  "pt": "Não acredito… O LORDE BOWSER vai me matar…"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "03798D4",
+  "en": "Don't think this is over, MARIO! I'll let\\nyou go this time, as I need to think up\\lof an excuse to tell LORD BOWSER so I\\ldon't get into trouble!",
+  "pt": "Não pense que acabou, MARIO! Vou deixar você ir desta vez, porque preciso inventar uma desculpa pro LORDE BOWSER pra não me meter em encrenca!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379964",
+  "en": "Well that was… weird.",
+  "pt": "Bom, isso foi… estranho."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "037997A",
+  "en": "Let me just get this warp pipe all fixed\\nup then.",
+  "pt": "Deixa só eu terminar de consertar este cano warp, então."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "03799AC",
+  "en": "There you go, MARIO! That warp pipe\\nshould be all fixed up. Good luck out\\lthere!",
+  "pt": "Prontinho, MARIO! Esse cano warp já deve estar consertado. Boa sorte lá fora!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "03799FD",
+  "en": "BOWSER",
+  "pt": "BOWSER",
+  "max_width": 42
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379A04",
+  "en": "So MARIO thinks he can beat us by going\\nto {STR_VAR_2} first? HA! He doesn't\\lknow that {STR_VAR_3} is quicker to\\lgo through! He's going to be mighty\\lsurprised when he returns! KAMEK!",
+  "pt": "Então o MARIO acha que pode nos vencer\\nindo primeiro para {STR_VAR_2}? HA!\\lEle não sabe que {STR_VAR_3} é mais\\lrápido de atravessar! Vai levar um\\lsusto e tanto quando voltar! KAMEK!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379AA9",
+  "en": "Yes, your ugliness?",
+  "pt": "Sim, Vossa Feiura?"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379ABD",
+  "en": "Destroy this warp pipe!",
+  "pt": "Destrua este cano warp!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379AD5",
+  "en": "With gusto, my liege!",
+  "pt": "Com todo o prazer, meu soberano!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379AF0",
+  "en": "BAHAHAHAHA!",
+  "pt": "BAHAHAHAHA!",
+  "max_width": 70
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379AFC",
+  "en": "KAMEK! Onwards to {STR_VAR_3}!",
+  "pt": "KAMEK! Rumo a {STR_VAR_3}!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379B12",
+  "en": "…KAMEK?",
+  "pt": "…KAMEK?",
+  "max_width": 48
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379B1A",
+  "en": "Yes, my horridness?",
+  "pt": "Sim, Vossa Medonhice?"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379B2E",
+  "en": "Prepare the airship for\\n{STR_VAR_3}…",
+  "pt": "Prepare a aeronave para {STR_VAR_3}…"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379B8E",
+  "en": "This is a temporary WARP to CLOUD CAP.\\nUse it as you please.",
+  "pt": "Este é um WARP temporário para CLOUD CAP. Use à vontade."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379BCB",
+  "en": "Sorry, this WARP is currently\\nunavailable. It leads to CLOUD CAP, town\\lin the skies.",
+  "pt": "Desculpe, este WARP está indisponível no momento. Ele leva a CLOUD CAP, a cidade nos céus."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379C20",
+  "en": "Hey, MARIO. Interested in going to\\nworlds 5 or 6? Then you're in the right\\lplace.",
+  "pt": "Ei, MARIO. Quer ir para os mundos 5 ou 6? Então você está no lugar certo."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379C78",
+  "en": "WAHAHAHA! What an easy job! I couldn't\\nhave done it without you!",
+  "pt": "WAHAHAHA! Que serviço fácil! Eu não teria conseguido sem você!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379CB9",
+  "en": "WALUIGI",
+  "pt": "WALUIGI",
+  "max_width": 48
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379CC1",
+  "en": "Nothing is impossible when we work\\ntogether! Plus…",
+  "pt": "Nada é impossível quando a gente trabalha junto! E além disso…"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379CF4",
+  "en": "This place had plenty of spare parts!",
+  "pt": "Este lugar tinha peça de reposição de sobra!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379D1A",
+  "en": "I should have known better, that's on\\nme.",
+  "pt": "Eu devia ter imaginado, a culpa é minha."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379D44",
+  "en": "Hold it right there, pal.",
+  "pt": "Parado aí, chapa."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379D5E",
+  "en": "Youse da plumber that's been giving da\\nboss trouble with your PURPLE COIN\\lloan? It's time to pay up.",
+  "pt": "Cê é o encanador que tá dando dor de cabeça pro chefão com aquele empréstimo de MOEDAS ROXAS? Tá na hora de pagar."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379DC3",
+  "en": "Yeah! 1000 PURPLE COINS! Or if you\\ndon't have da PURPLE, we'll take da\\lGOLD! 10,000 of 'em!",
+  "pt": "Isso aí! 1000 MOEDAS ROXAS! Ou, se não tiver as ROXAS, a gente aceita as DOURADAS! 10.000 delas!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379E1F",
+  "en": "Hand 'em over, pal.",
+  "pt": "Passa pra cá, chapa."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379E33",
+  "en": "Wise choice, pal.",
+  "pt": "Escolha sábia, chapa."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379E45",
+  "en": "You lost 1,000 PURPLE COINS!",
+  "pt": "Você perdeu 1.000 MOEDAS ROXAS!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379E62",
+  "en": "You didn't have enough PURPLE COINS\\nand lost 10,000 COINS instead!",
+  "pt": "Você não tinha MOEDAS ROXAS suficientes e perdeu 10.000 MOEDAS no lugar!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379EA5",
+  "en": "Then it seems we'se gonna have to do\\nthis da hard way!",
+  "pt": "Então parece que a gente vai ter que resolver isso do jeito difícil!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379EDC",
+  "en": "Da boss ain't gonna like this.",
+  "pt": "O chefão não vai gostar nada disso."
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379F02",
+  "en": "Uhhhh, what do we do now?",
+  "pt": "Hããã, e agora, o que a gente faz?"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379F1C",
+  "en": "You dolt! We bail! Never tell da boss any\\nof this!",
+  "pt": "Seu pateta! A gente vaza! E nunca conta nada disso pro chefão!"
+ },
+ {
+  "map": "2.23 TOAD TOWN",
+  "offset": "0379F4F",
+  "en": "Youse made the right choice, friend.\\nWe'll be back for more later. Be nice\\luntil then, eh friend?",
+  "pt": "Cê fez a escolha certa, parceiro. A gente volta pra buscar mais depois. Fica de boa até lá, hein, parceiro?"
+ },
+ {
+  "map": "2.24 TOAD TOWN",
+  "offset": "037BBE9",
+  "en": "Huh?!\\nI can't hear you!",
+  "pt": "Hã?! Não tô te ouvindo!"
+ },
+ {
+  "map": "2.25 TOAD TOWN",
+  "offset": "037BC74",
+  "en": "Thank you for helping my best friend\\nout!\\pShe told me how you two jumped into the\\nclouds together. Scary!",
+  "pt": "Valeu por ajudar minha melhor amiga!\\pEla me contou como vocês pularam juntos nas nuvens. Que medo!"
+ },
+ {
+  "map": "2.25 TOAD TOWN",
+  "offset": "037BCDE",
+  "en": "My best friend left for a trip to the\\nCLOUD KINGDOM.\\pI haven't heard from her since, I hope\\nshe's doing alright.",
+  "pt": "Minha melhor amiga saiu de viagem para o CLOUD KINGDOM.\\pNão tive mais notícias dela desde então, espero que ela esteja bem."
+ },
+ {
+  "map": "2.25 TOAD TOWN",
+  "offset": "037BD4F",
+  "en": "Thank you for earlier, MARIO.\\pAnd don't worry about my lunch money, I\\nmade a sandwich.\\pThough, I do have something for you.",
+  "pt": "Valeu pela ajuda de antes, MARIO.\\pE não se preocupe com o dinheiro do meu lanche, eu fiz um sanduíche.\\pMas eu tenho uma coisa pra você."
+ },
+ {
+  "map": "2.25 TOAD TOWN",
+  "offset": "037BDCB",
+  "en": "I found that TM after bouncing on a\\nmushroom.\\pIt's no use to me, so feel free to take\\nit.",
+  "pt": "Achei esse TM depois de quicar num cogumelo.\\pNão tem utilidade pra mim, então pode ficar com ela."
+ },
+ {
+  "map": "2.26 TOAD TOWN",
+  "offset": "037D4CD",
+  "en": "Please, MARIO! My son should be\\nsomewhere on 1-2!",
+  "pt": "Por favor, MARIO! Meu filho deve estar em algum canto do 1-2!"
+ },
+ {
+  "map": "2.26 TOAD TOWN",
+  "offset": "037D4FF",
+  "en": "What's that? My son is alright? Thank\\nyou, MARIO. I was so worried about him!",
+  "pt": "O quê? Meu filho está bem? Você é demais, MARIO. Eu estava morrendo de preocupação com ele!"
+ },
+ {
+  "map": "2.26 TOAD TOWN",
+  "offset": "037D54D",
+  "en": "That brother of mine, always going off\\nexploring. Thankfully he's just\\lreckless, not stupid. He should be\\lalright.",
+  "pt": "Aquele meu irmão, sempre saindo por aí pra explorar. Ainda bem que ele é só imprudente, não burro. Ele deve estar bem."
+ },
+ {
+  "map": "2.28 TOAD TOWN SEWER",
+  "offset": "0383803",
+  "en": "What's happened to that GOLD BOTTLE\\nCAP over there?\\pI think a FREEZIE took it without me\\nlooking.",
+  "pt": "O que aconteceu com aquela TAMPINHA DOURADA ali?\\pAcho que um FREEZIE pegou ela quando eu não estava olhando."
+ },
+ {
+  "map": "2.28 TOAD TOWN SEWER",
+  "offset": "0383865",
+  "en": "There's supposed to be a very rare\\nCAPTURE you can find down here, but I\\lheard it'll only appear once out of\\levery 100 encounters.",
+  "pt": "Dizem que tem uma CAPTURA muito rara aqui embaixo, mas ouvi falar que ela só aparece uma vez a cada 100 encontros."
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "033ED00",
+  "en": "\\nhad to ask you!\\pA little while ago, I won a battle.\\nThat part was giddying!\\pBut it made me so overjoyed that\\nI choked up and couldn't say a thing!\\pSo now, {PLAYER}, please, I want you to\\nthink up an exit line for when I win!",
+  "pt": ""
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "0350118",
+  "en": "to\\nnotice you.",
+  "pt": ""
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "035083C",
+  "en": "g lately hasn't been that\\lgood.\\pDoesn't help that the PURPLE COIN\\neconomy recently crashed.\\pTell you what, help reimburse me for my\\nloss, and I'll let you through!\\pJust need a measly 5,000 COINS!",
+  "pt": ""
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "0350A00",
+  "en": "tta turn back.",
+  "pt": ""
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "0350A09",
+  "en": "back.",
+  "pt": ""
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "0353E00",
+  "en": "APTAIN TOAD",
+  "pt": "",
+  "max_width": 69
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "038083C",
+  "en": "ATERFALL blinded me!",
+  "pt": ""
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "0386DD5",
+  "en": "There used to be something here called\\na UNION ROOM. But it was ruled unlawful\\land divorced.\\pShame.",
+  "pt": "Antigamente tinha uma coisa aqui chamada SALA DA UNIÃO. Mas declararam a união ilegal e ela acabou em divórcio.\\pQue pena."
+ },
+ {
+  "map": "2.29 TOAD TOWN",
+  "offset": "07200D5",
+  "en": "C“A                i   Ci  AéÒ Cég VAÙAVAé“VAAAVBAA SBA :RR  ",
+  "pt": ""
+ }
+]

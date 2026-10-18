@@ -1,0 +1,7111 @@
+[
+ {
+  "offset": "0885465",
+  "en": "MARIO used the\\n{STR_VAR_2}.\\pWild CAPTURES will be repelled.{PAUSE_UNTIL_PRESS}",
+  "pt": "MARIO usou\\n{STR_VAR_2}.\\pCAPTURAS selvagens serão repelidas.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "088549A",
+  "en": "The BOX is full.{PAUSE_UNTIL_PRESS}",
+  "pt": "A CAIXA está cheia.{PAUSE_UNTIL_PRESS}",
+  "max_width": 102
+ },
+ {
+  "offset": "08854AD",
+  "en": "POWDER QTY: {STR_VAR_1}{PAUSE_UNTIL_PRESS}",
+  "pt": "QTD. DE PÓ: {STR_VAR_1}{PAUSE_UNTIL_PRESS}",
+  "max_width": 111
+ },
+ {
+  "offset": "08854BE",
+  "en": "the field",
+  "pt": "o campo",
+  "max_width": 71
+ },
+ {
+  "offset": "08854C8",
+  "en": "the battle",
+  "pt": "a batalha",
+  "max_width": 79
+ },
+ {
+  "offset": "08854D3",
+  "en": "the CAPTURE LIST",
+  "pt": "a LISTA DE CAPTURAS",
+  "max_width": 114
+ },
+ {
+  "offset": "08854E4",
+  "en": "the shop",
+  "pt": "a loja",
+  "max_width": 69
+ },
+ {
+  "offset": "08854ED",
+  "en": "the PC",
+  "pt": "o PC",
+  "max_width": 57
+ },
+ {
+  "offset": "08854F4",
+  "en": "The GADD-PEL has been turned on.{PAUSE_UNTIL_PRESS}",
+  "pt": "O GADD-PELENTE foi ligado.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885517",
+  "en": "The GADD-PEL has been turned off.{PAUSE_UNTIL_PRESS}",
+  "pt": "O GADD-PELENTE foi desligado.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "088557C",
+  "en": "Return to\\n{STR_VAR_1}.",
+  "pt": "Voltar para\\n{STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 60
+ },
+ {
+  "offset": "088558A",
+  "en": "ITEMS",
+  "pt": "ITENS",
+  "max_width": 36
+ },
+ {
+  "offset": "0885590",
+  "en": "CAPS",
+  "pt": "CAPS",
+  "max_width": 30
+ },
+ {
+  "offset": "0885595",
+  "en": "TMs & HMs",
+  "pt": "TMs e HMs",
+  "max_width": 73
+ },
+ {
+  "offset": "088559F",
+  "en": "BERRIES",
+  "pt": "FRUTAS",
+  "max_width": 48
+ },
+ {
+  "offset": "08855A7",
+  "en": "KEY ITEMS",
+  "pt": "IT. CHAVE",
+  "max_width": 57
+ },
+ {
+  "offset": "08855B1",
+  "en": "MEDICINE",
+  "pt": "REMÉDIOS",
+  "max_width": 54
+ },
+ {
+  "offset": "08855E9",
+  "en": "SIZE /",
+  "pt": "TAM. /",
+  "max_width": 39
+ },
+ {
+  "offset": "08855F0",
+  "en": "FIRM /",
+  "pt": "DUR. /",
+  "max_width": 39
+ },
+ {
+  "offset": "08855FE",
+  "en": "{STR_VAR_1}.{STR_VAR_2}cm",
+  "pt": "{STR_VAR_1},{STR_VAR_2}cm",
+  "max_width": 123
+ },
+ {
+  "offset": "0885606",
+  "en": "Very soft",
+  "pt": "Muito mole",
+  "max_width": 74
+ },
+ {
+  "offset": "0885610",
+  "en": "Soft",
+  "pt": "Mole",
+  "max_width": 48
+ },
+ {
+  "offset": "0885615",
+  "en": "Hard",
+  "pt": "Dura",
+  "max_width": 47
+ },
+ {
+  "offset": "088561A",
+  "en": "Very hard",
+  "pt": "Muito dura",
+  "max_width": 73
+ },
+ {
+  "offset": "0885624",
+  "en": "Super hard",
+  "pt": "Superdura",
+  "max_width": 79
+ },
+ {
+  "offset": "0885637",
+  "en": "BERRY TAG",
+  "pt": "ETIQUETA",
+  "max_width": 57
+ },
+ {
+  "offset": "08856E9",
+  "en": "SPICY",
+  "pt": "PICAN.",
+  "max_width": 36
+ },
+ {
+  "offset": "08856EF",
+  "en": "DRY",
+  "pt": "SECO",
+  "max_width": 24
+ },
+ {
+  "offset": "08856F3",
+  "en": "SWEET",
+  "pt": "DOCE",
+  "max_width": 36
+ },
+ {
+  "offset": "08856F9",
+  "en": "BITTER",
+  "pt": "AMARGO",
+  "max_width": 42
+ },
+ {
+  "offset": "0885700",
+  "en": "SOUR",
+  "pt": "AZEDO",
+  "max_width": 30
+ },
+ {
+  "offset": "0885710",
+  "en": "Stow CASE.",
+  "pt": "Fechar estojo.",
+  "max_width": 78
+ },
+ {
+  "offset": "088571F",
+  "en": "Throw away this\\n{STR_VAR_1}?",
+  "pt": "Jogar fora\\n{STR_VAR_1}?",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "0885733",
+  "en": "The {STR_VAR_1}\\nwas thrown away.",
+  "pt": "Você jogou fora\\n{STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "088574B",
+  "en": "{STR_VAR_1} ate the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} comeu\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "088575C",
+  "en": "{STR_VAR_1} happily ate the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} comeu feliz\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "0885775",
+  "en": "{STR_VAR_1} disdainfully ate the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} comeu com desdém\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 161
+ },
+ {
+  "offset": "0885793",
+  "en": "BUY",
+  "pt": "COMP",
+  "max_width": 24
+ },
+ {
+  "offset": "0885797",
+  "en": "SELL",
+  "pt": "VENDA",
+  "max_width": 30
+ },
+ {
+  "offset": "088579C",
+  "en": "QUIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "08857A1",
+  "en": "I'm sorry, but that item is sold out.{PAUSE_UNTIL_PRESS}",
+  "pt": "Sinto muito, mas esse item está esgotado.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "08857C9",
+  "en": "SOLD OUT",
+  "pt": "ESGOTADO",
+  "max_width": 51
+ },
+ {
+  "offset": "08857D2",
+  "en": "IN BAG: {STR_VAR_1}",
+  "pt": "BOLSA: {STR_VAR_1}",
+  "max_width": 87
+ },
+ {
+  "offset": "08857DD",
+  "en": "Quit shopping.",
+  "pt": "Sair da loja.",
+  "max_width": 98
+ },
+ {
+  "offset": "08857EC",
+  "en": "{STR_VAR_1}? Certainly.\\nHow many would you like?",
+  "pt": "{STR_VAR_1}? Certo.\\nQuantas unidades?",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "0885814",
+  "en": "{STR_VAR_1}? Certainly.\\nHow many would you like?",
+  "pt": "{STR_VAR_1}? Certo.\\nQuantas unidades?",
+  "max_lines": 2,
+  "max_width": 136
+ },
+ {
+  "offset": "088583C",
+  "en": "{STR_VAR_1}? And you wanted {STR_VAR_2}?\\nThat will be ¥{STR_VAR_3}.",
+  "pt": "{STR_VAR_1}? E você quer {STR_VAR_2}?\\nVai custar ¥{STR_VAR_3}.",
+  "max_lines": 2,
+  "max_width": 190
+ },
+ {
+  "offset": "0885865",
+  "en": "{STR_VAR_1}, is it?\\nThat'll be ¥{STR_VAR_2}. Do you want it?",
+  "pt": "{STR_VAR_1}, certo?\\nCusta ¥{STR_VAR_2}. Vai querer?",
+  "max_lines": 2,
+  "max_width": 196
+ },
+ {
+  "offset": "0885890",
+  "en": "You wanted {STR_VAR_1}?\\nThat'll be ¥{STR_VAR_2}. Will that be okay?",
+  "pt": "Você quer {STR_VAR_1}?\\nCusta ¥{STR_VAR_2}. Tudo bem?",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "08858C2",
+  "en": "Here you go!\\nThank you very much.",
+  "pt": "Aqui está!\\nVolte sempre!",
+  "max_lines": 2,
+  "max_width": 117
+ },
+ {
+  "offset": "08858E4",
+  "en": "Thank you!\\nI'll send it to your home PC.",
+  "pt": "Agradeço!\\nVou enviar ao PC da sua casa.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "088590D",
+  "en": "Thanks!\\nI'll send it to your PC at home.",
+  "pt": "Pronto!\\nVou enviar ao PC da sua casa.",
+  "max_lines": 2,
+  "max_width": 168
+ },
+ {
+  "offset": "0885936",
+  "en": "You don't have enough money.{PAUSE_UNTIL_PRESS}",
+  "pt": "Você não tem dinheiro suficiente.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885955",
+  "en": "You have no more room for this\\nitem.{PAUSE_UNTIL_PRESS}",
+  "pt": "Não há mais espaço para\\neste item.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 167
+ },
+ {
+  "offset": "088597C",
+  "en": "The space for {STR_VAR_1} is full.{PAUSE_UNTIL_PRESS}",
+  "pt": "Não há mais espaço para {STR_VAR_1}.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885998",
+  "en": "Is there anything else I can help\\nyou with?",
+  "pt": "Posso ajudar em mais alguma\\ncoisa?",
+  "max_lines": 2,
+  "max_width": 183
+ },
+ {
+  "offset": "08859C4",
+  "en": "Can I help you with anything else?",
+  "pt": "Posso ajudar em mais alguma coisa?"
+ },
+ {
+  "offset": "08859E7",
+  "en": "I'll throw in {STR_VAR_1} EMPLOYEE CAPS, too.{PAUSE_UNTIL_PRESS}",
+  "pt": "De brinde, vou dar {STR_VAR_1} CAPS EMPREGADO também.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885A0E",
+  "en": "{STR_VAR_2}? Oh, no.\\nI can't buy that.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_2}? Ah, não.\\nNão compro isso.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "0885A2E",
+  "en": "{STR_VAR_2}?\\nHow many would you like to sell?",
+  "pt": "{STR_VAR_2}?\\nQuantas unidades quer vender?",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "0885A53",
+  "en": "I can pay ¥{STR_VAR_1}.\\nWould that be okay?",
+  "pt": "Pago ¥{STR_VAR_1}.\\nPode ser?",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "0885A76",
+  "en": "Turned over the {STR_VAR_2}\\nand received ¥{STR_VAR_1}.",
+  "pt": "Você entregou {STR_VAR_2}\\ne recebeu ¥{STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "0885A9F",
+  "en": "SHIFT",
+  "pt": "TROCAR",
+  "max_width": 36
+ },
+ {
+  "offset": "0885AA5",
+  "en": "SEND OUT",
+  "pt": "ENVIAR",
+  "max_width": 51
+ },
+ {
+  "offset": "0885AAE",
+  "en": "SWITCH",
+  "pt": "TROCAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0885AB5",
+  "en": "SUMMARY",
+  "pt": "RESUMO",
+  "max_width": 48
+ },
+ {
+  "offset": "0885AC3",
+  "en": "ENTER",
+  "pt": "ENTRAR",
+  "max_width": 36
+ },
+ {
+  "offset": "0885AC9",
+  "en": "NO ENTRY",
+  "pt": "RETIRAR",
+  "max_width": 51
+ },
+ {
+  "offset": "0885AD2",
+  "en": "TAKE",
+  "pt": "PEGAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0885AD7",
+  "en": "READ",
+  "pt": "LER",
+  "max_width": 30
+ },
+ {
+  "offset": "0885ADC",
+  "en": "TRADE",
+  "pt": "TROCA",
+  "max_width": 36
+ },
+ {
+  "offset": "0885AE2",
+  "en": "HP",
+  "pt": "HP",
+  "max_width": 18
+ },
+ {
+  "offset": "0885AE5",
+  "en": "SP. ATK",
+  "pt": "AT.ESP.",
+  "max_width": 42
+ },
+ {
+  "offset": "0885AED",
+  "en": "SP. DEF",
+  "pt": "DEF.ESP.",
+  "max_width": 42
+ },
+ {
+  "offset": "0885AF5",
+  "en": "It won't have any effect.{PAUSE_UNTIL_PRESS}",
+  "pt": "Isso não terá efeito.{PAUSE_UNTIL_PRESS}",
+  "max_width": 156
+ },
+ {
+  "offset": "0885B11",
+  "en": "This can't be used on\\nthat CAPTURE.{PAUSE_UNTIL_PRESS}",
+  "pt": "Não pode ser usado\\nnessa CAPTURA.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 119
+ },
+ {
+  "offset": "0885B37",
+  "en": "{STR_VAR_1} can't be switched\\nout!{PAUSE_UNTIL_PRESS}",
+  "pt": "Não é possível trocar\\n{STR_VAR_1}!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "0885B53",
+  "en": "{STR_VAR_1} is already\\nin battle!{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} já está\\nna batalha!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 107
+ },
+ {
+  "offset": "0885B6E",
+  "en": "{STR_VAR_1} has already been\\nselected.{PAUSE_UNTIL_PRESS}",
+  "pt": "Você já escolheu\\n{STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "0885B8E",
+  "en": "{STR_VAR_1} has no energy\\nleft to battle!{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} não tem energia\\npara batalhar!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 126
+ },
+ {
+  "offset": "0885BB1",
+  "en": "You can't switch {STR_VAR_1}'s\\nCAPTURE with one of yours!{PAUSE_UNTIL_PRESS}",
+  "pt": "Não pode trocar a CAPTURA\\nde {STR_VAR_1} por uma sua!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0885BE4",
+  "en": "An EGG can't battle!{PAUSE_UNTIL_PRESS}",
+  "pt": "Um OVO não batalha!{PAUSE_UNTIL_PRESS}",
+  "max_width": 128
+ },
+ {
+  "offset": "0885C2F",
+  "en": "No more than {STR_VAR_1} CAPTURE\\nmay enter.{PAUSE_UNTIL_PRESS}",
+  "pt": "Só podem entrar até\\n{STR_VAR_1} CAPTURAS.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 165
+ },
+ {
+  "offset": "0885C54",
+  "en": "Send the removed MAIL to\\nyour PC?",
+  "pt": "Mandar a CARTA retirada\\npara o seu PC?",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "0885C76",
+  "en": "The MAIL was sent to your PC.{PAUSE_UNTIL_PRESS}",
+  "pt": "A CARTA foi enviada para o seu PC.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885C96",
+  "en": "Your PC's MAILBOX is full.{PAUSE_UNTIL_PRESS}",
+  "pt": "O CORREIO do PC está cheio.{PAUSE_UNTIL_PRESS}",
+  "max_width": 155
+ },
+ {
+  "offset": "0885CB3",
+  "en": "If the MAIL is removed, the\\nmessage will be lost. Okay?",
+  "pt": "Se tirar a CARTA, a mensagem\\nserá perdida. Tudo bem?",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "0885CEB",
+  "en": "MAIL must be removed before\\nholding an item.{PAUSE_UNTIL_PRESS}",
+  "pt": "Retire a CARTA antes de\\nsegurar um item.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 158
+ },
+ {
+  "offset": "0885D1A",
+  "en": "{STR_VAR_1} was given the\\n{STR_VAR_2} to hold.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} recebeu\\n{STR_VAR_2} para segurar.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 125
+ },
+ {
+  "offset": "0885D39",
+  "en": "{STR_VAR_1} is already holding\\none {STR_VAR_2}.\\pWould you like to switch the\\ntwo items?",
+  "pt": "{STR_VAR_1} já está segurando\\n{STR_VAR_2}.\\pQuer trocar os\\ndois itens?"
+ },
+ {
+  "offset": "0885D7F",
+  "en": "{STR_VAR_1} isn't holding\\nanything.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} não está\\nsegurando nada.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 121
+ },
+ {
+  "offset": "0885D9C",
+  "en": "Received the {STR_VAR_2}\\nfrom {STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
+  "pt": "Você recebeu {STR_VAR_2}\\nde {STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 122
+ },
+ {
+  "offset": "0885DB7",
+  "en": "MAIL was taken from the\\nCAPTURE.{PAUSE_UNTIL_PRESS}",
+  "pt": "A CARTA foi tirada da\\nCAPTURA.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 135
+ },
+ {
+  "offset": "0885DDA",
+  "en": "The {STR_VAR_2} was taken and\\nreplaced with the {STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
+  "pt": "Você trocou {STR_VAR_2}\\npor {STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 149
+ },
+ {
+  "offset": "0885E07",
+  "en": "This CAPTURE is holding an\\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}",
+  "pt": "Esta CAPTURA segura um\\nitem. Não pode ter CARTA.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "0885E3F",
+  "en": "MAIL was transferred from\\nthe MAILBOX.{PAUSE_UNTIL_PRESS}",
+  "pt": "A CARTA foi transferida do\\nCORREIO.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 147
+ },
+ {
+  "offset": "0885E68",
+  "en": "The BAG is full. The CAPTURE's\\nitem could not be removed.{PAUSE_UNTIL_PRESS}",
+  "pt": "A BOLSA está cheia. O item da\\nCAPTURA não pôde ser retirado.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "0885EA4",
+  "en": "{STR_VAR_1} learned\\n{STR_VAR_2}!",
+  "pt": "{STR_VAR_1} aprendeu\\n{STR_VAR_2}!",
+  "max_lines": 2,
+  "max_width": 94
+ },
+ {
+  "offset": "0885EB3",
+  "en": "{STR_VAR_1} and {STR_VAR_2}\\nare not compatible.\\p{STR_VAR_2} can't be\\nlearned.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} e {STR_VAR_2}\\nnão são compatíveis.\\p{STR_VAR_2} não pode ser\\naprendido.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885EE8",
+  "en": "{STR_VAR_1} wants to learn the\\nmove {STR_VAR_2}.\\pHowever, {STR_VAR_1} already\\nknows four moves.\\pShould a move be deleted and\\nreplaced with {STR_VAR_2}?",
+  "pt": "{STR_VAR_1} quer aprender o\\ngolpe {STR_VAR_2}.\\pMas {STR_VAR_1} já\\nconhece quatro golpes.\\pApagar um golpe e trocar\\npor {STR_VAR_2}?"
+ },
+ {
+  "offset": "0885F5C",
+  "en": "Stop trying to teach\\n{STR_VAR_2}?",
+  "pt": "Desistir de ensinar\\n{STR_VAR_2}?",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "0885F75",
+  "en": "{STR_VAR_1} did not learn the\\nmove {STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} não aprendeu o\\ngolpe {STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "0885F95",
+  "en": "Which move should be forgotten?{PAUSE_UNTIL_PRESS}",
+  "pt": "Qual golpe deve ser esquecido?{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885FB7",
+  "en": "1, {PAUSE 0F}2, and{PAUSE 0F}… {PAUSE 0F}… {PAUSE 0F}… {PAUSE 0F}{PLAY_SE 38 00}Poof!\\p{STR_VAR_1} forgot how to\\nuse {STR_VAR_2}.\\pAnd…{PAUSE_UNTIL_PRESS}",
+  "pt": "1, {PAUSE 0F}2 e{PAUSE 0F}… {PAUSE 0F}… {PAUSE 0F}… {PAUSE 0F}{PLAY_SE 38 00}Puf!\\p{STR_VAR_1} esqueceu como\\nusar {STR_VAR_2}.\\pE…{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0885FFF",
+  "en": "{STR_VAR_1} already knows\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} já conhece\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "0886016",
+  "en": "{STR_VAR_1}'s HP was restored\\nby {STR_VAR_2} point(s).{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} recuperou\\n{STR_VAR_2} ponto(s) de HP.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 146
+ },
+ {
+  "offset": "088603D",
+  "en": "{STR_VAR_1} was cured of its\\npoisoning.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} se curou do\\nenvenenamento.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "088605E",
+  "en": "{STR_VAR_1} was cured of\\nparalysis.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} se curou da\\nparalisia.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "088607B",
+  "en": "{STR_VAR_1} woke up.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} acordou.{PAUSE_UNTIL_PRESS}",
+  "max_width": 111
+ },
+ {
+  "offset": "0886089",
+  "en": "{STR_VAR_1}'s burn was healed.{PAUSE_UNTIL_PRESS}",
+  "pt": "A queimadura de {STR_VAR_1} sarou.{PAUSE_UNTIL_PRESS}",
+  "max_width": 162
+ },
+ {
+  "offset": "08860A1",
+  "en": "{STR_VAR_1}'s frostbite was healed.{PAUSE_UNTIL_PRESS}",
+  "pt": "A geladura de {STR_VAR_1} sarou.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "08860BE",
+  "en": "{STR_VAR_1} was thawed out.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} descongelou.{PAUSE_UNTIL_PRESS}",
+  "max_width": 150
+ },
+ {
+  "offset": "08860D3",
+  "en": "PP was restored.{PAUSE_UNTIL_PRESS}",
+  "pt": "O PP foi restaurado.{PAUSE_UNTIL_PRESS}",
+  "max_width": 109
+ },
+ {
+  "offset": "08860FC",
+  "en": "{STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} ficou saudável.{PAUSE_UNTIL_PRESS}",
+  "max_width": 151
+ },
+ {
+  "offset": "0886111",
+  "en": "{STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}",
+  "pt": "O PP de {STR_VAR_1} aumentou.{PAUSE_UNTIL_PRESS}",
+  "max_width": 147
+ },
+ {
+  "offset": "0886126",
+  "en": "{STR_VAR_1} was elevated to\\nLv. {STR_VAR_2}.",
+  "pt": "{STR_VAR_1} subiu para o\\nNv. {STR_VAR_2}.",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "0886141",
+  "en": "{STR_VAR_1} gained {STR_VAR_2} Exp. Points!{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} ganhou {STR_VAR_2} Pontos de Exp.!{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "088615D",
+  "en": "{STR_VAR_1} gained {STR_VAR_2} Exp. Points\\nand was elevated to Lv. {STR_VAR_3}!",
+  "pt": "{STR_VAR_1} ganhou {STR_VAR_2} Pts. de Exp.\\ne subiu para o Nv. {STR_VAR_3}!",
+  "max_lines": 2,
+  "max_width": 195
+ },
+ {
+  "offset": "0886192",
+  "en": "{STR_VAR_1}'s base {STR_VAR_2}\\nstat was raised.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_2} base de {STR_VAR_1}\\naumentou.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 133
+ },
+ {
+  "offset": "08861B2",
+  "en": "{STR_VAR_1} turned friendly.\\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} ficou amigável.\\n{STR_VAR_2} base caiu!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "08861DA",
+  "en": "{STR_VAR_1} adores you!\\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} adora você!\\n{STR_VAR_2} base caiu!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "08861FD",
+  "en": "{STR_VAR_1} turned friendly.\\nThe base {STR_VAR_2} can't fall!{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} ficou amigável.\\n{STR_VAR_2} base não pode cair!{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 157
+ },
+ {
+  "offset": "088622B",
+  "en": "{STR_VAR_1} snapped out of its\\nconfusion.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} saiu da\\nconfusão.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "088624E",
+  "en": "{STR_VAR_1} got over its\\ninfatuation.{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} superou a\\npaixão.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 118
+ },
+ {
+  "offset": "088626D",
+  "en": "{STR_VAR_1} transformed!{PAUSE_UNTIL_PRESS}",
+  "pt": "{STR_VAR_1} se transformou!{PAUSE_UNTIL_PRESS}",
+  "max_width": 137
+ },
+ {
+  "offset": "088627F",
+  "en": "Throw away this\\n{STR_VAR_1}?",
+  "pt": "Jogar fora\\n{STR_VAR_1}?",
+  "max_lines": 2,
+  "max_width": 91
+ },
+ {
+  "offset": "0886293",
+  "en": "The {STR_VAR_1}\\nwas thrown away.{PAUSE_UNTIL_PRESS}",
+  "pt": "Você jogou fora\\n{STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 96
+ },
+ {
+  "offset": "08862C2",
+  "en": "Choose a CAPTURE.",
+  "pt": "Escolha uma CAPTURA.",
+  "max_width": 117
+ },
+ {
+  "offset": "08862D4",
+  "en": "Move to where?",
+  "pt": "Mover para onde?",
+  "max_width": 101
+ },
+ {
+  "offset": "08862E3",
+  "en": "Teach which CAPTURE?",
+  "pt": "Ensinar qual CAPTURA?",
+  "max_width": 136
+ },
+ {
+  "offset": "08862F8",
+  "en": "Use on which CAPTURE?",
+  "pt": "Usar em qual CAPTURA?",
+  "max_width": 139
+ },
+ {
+  "offset": "088630E",
+  "en": "Give to which CAPTURE?",
+  "pt": "Dar a qual CAPTURA?",
+  "max_width": 143
+ },
+ {
+  "offset": "0886325",
+  "en": "Do what with this {PK}{MN}?",
+  "pt": "O que fazer com {PK}{MN}?",
+  "max_width": 138
+ },
+ {
+  "offset": "088633B",
+  "en": "There's nothing to CUT.",
+  "pt": "Não há nada para CORTAR.",
+  "max_width": 144
+ },
+ {
+  "offset": "0886353",
+  "en": "You can't SURF here.",
+  "pt": "Não pode SURFAR aqui.",
+  "max_width": 128
+ },
+ {
+  "offset": "0886368",
+  "en": "You're already SURFING.",
+  "pt": "Você já está SURFANDO.",
+  "max_width": 146
+ },
+ {
+  "offset": "0886380",
+  "en": "Can't use that here.",
+  "pt": "Não dá para usar aqui.",
+  "max_width": 128
+ },
+ {
+  "offset": "0886395",
+  "en": "Restore which move?",
+  "pt": "Restaurar qual golpe?",
+  "max_width": 129
+ },
+ {
+  "offset": "08863A9",
+  "en": "Boost PP of which move?",
+  "pt": "Aumentar PP de qual golpe?",
+  "max_width": 148
+ },
+ {
+  "offset": "08863C1",
+  "en": "Do what with an item?",
+  "pt": "O que fazer com o item?",
+  "max_width": 134
+ },
+ {
+  "offset": "08863D7",
+  "en": "No CAPTURE for battle!",
+  "pt": "Sem CAPTURAS para batalha!",
+  "max_width": 142
+ },
+ {
+  "offset": "08863EE",
+  "en": "Choose a CAPTURE.",
+  "pt": "Escolha uma CAPTURA.",
+  "max_width": 117
+ },
+ {
+  "offset": "0886400",
+  "en": "Not enough HP…",
+  "pt": "HP insuficiente…",
+  "max_width": 102
+ },
+ {
+  "offset": "088640F",
+  "en": "{STR_VAR_1} CAPTURE are needed.",
+  "pt": "É preciso ter {STR_VAR_1} CAPTURAS.",
+  "max_width": 173
+ },
+ {
+  "offset": "0886426",
+  "en": "CAPTURE can't be the same.",
+  "pt": "CAPTURAS não podem se repetir.",
+  "max_width": 162
+ },
+ {
+  "offset": "0886441",
+  "en": "No identical hold items.",
+  "pt": "Sem itens segurados iguais.",
+  "max_width": 146
+ },
+ {
+  "offset": "088645A",
+  "en": "GEMS are not allowed.",
+  "pt": "JOIAS não são aceitas.",
+  "max_width": 133
+ },
+ {
+  "offset": "0886470",
+  "en": "The current is much too fast!",
+  "pt": "A correnteza é forte demais!"
+ },
+ {
+  "offset": "088648E",
+  "en": "Do what with the MAIL?",
+  "pt": "O que fazer com a CARTA?",
+  "max_width": 142
+ },
+ {
+  "offset": "08864A5",
+  "en": "Choose CAPTURE or CANCEL.",
+  "pt": "Escolha a CAPTURA ou cancele.",
+  "max_width": 161
+ },
+ {
+  "offset": "08864BF",
+  "en": "Choose CAPTURE and confirm.",
+  "pt": "Escolha a CAPTURA e confirme.",
+  "max_width": 171
+ },
+ {
+  "offset": "08864DB",
+  "en": "Let's enjoy cycling!",
+  "pt": "Vamos pedalar!",
+  "max_width": 128
+ },
+ {
+  "offset": "08864F0",
+  "en": "This is in use already.",
+  "pt": "Isto já está em uso.",
+  "max_width": 138
+ },
+ {
+  "offset": "0886508",
+  "en": "{STR_VAR_1} is already holding\\none {STR_VAR_2}.",
+  "pt": "{STR_VAR_1} já está segurando\\n{STR_VAR_2}.",
+  "max_lines": 2,
+  "max_width": 148
+ },
+ {
+  "offset": "0886526",
+  "en": "No use.",
+  "pt": "Inútil.",
+  "max_width": 60
+ },
+ {
+  "offset": "088652E",
+  "en": "ABLE",
+  "pt": "PODE",
+  "max_width": 30
+ },
+ {
+  "offset": "0886533",
+  "en": "FIRST",
+  "pt": "PRIM.",
+  "max_width": 36
+ },
+ {
+  "offset": "0886539",
+  "en": "SECOND",
+  "pt": "SEG.",
+  "max_width": 42
+ },
+ {
+  "offset": "0886540",
+  "en": "THIRD",
+  "pt": "TERC.",
+  "max_width": 36
+ },
+ {
+  "offset": "0886546",
+  "en": "ABLE",
+  "pt": "PODE",
+  "max_width": 30
+ },
+ {
+  "offset": "088654B",
+  "en": "NOT ABLE",
+  "pt": "NÃO PODE",
+  "max_width": 51
+ },
+ {
+  "offset": "0886554",
+  "en": "ABLE!",
+  "pt": "PODE!",
+  "max_width": 34
+ },
+ {
+  "offset": "088655A",
+  "en": "NOT ABLE!",
+  "pt": "NÃO PODE!",
+  "max_width": 55
+ },
+ {
+  "offset": "0886564",
+  "en": "LEARNED",
+  "pt": "JÁ SABE",
+  "max_width": 48
+ },
+ {
+  "offset": "088656C",
+  "en": "HAVE",
+  "pt": "TEM",
+  "max_width": 30
+ },
+ {
+  "offset": "0886571",
+  "en": "DON'T HAVE",
+  "pt": "NÃO TEM",
+  "max_width": 60
+ },
+ {
+  "offset": "088657C",
+  "en": "FOURTH",
+  "pt": "QUARTO",
+  "max_width": 42
+ },
+ {
+  "offset": "0886583",
+  "en": "That CAPTURE can't participate.{PAUSE_UNTIL_PRESS}",
+  "pt": "Essa CAPTURA não pode participar.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "08865A5",
+  "en": "Cancel participation?",
+  "pt": "Cancelar participação?",
+  "max_width": 138
+ },
+ {
+  "offset": "08865BB",
+  "en": "Cancel the battle?",
+  "pt": "Cancelar a batalha?",
+  "max_width": 122
+ },
+ {
+  "offset": "08865CE",
+  "en": "Return to the WAITING ROOM?",
+  "pt": "Voltar à SALA DE ESPERA?",
+  "max_width": 173
+ },
+ {
+  "offset": "08865EA",
+  "en": "Cancel the challenge?",
+  "pt": "Cancelar o desafio?",
+  "max_width": 138
+ },
+ {
+  "offset": "0886600",
+  "en": "Want to escape from here and return\\nto {STR_VAR_1}?",
+  "pt": "Quer escapar daqui e voltar\\npara {STR_VAR_1}?",
+  "max_lines": 2,
+  "max_width": 198
+ },
+ {
+  "offset": "088662B",
+  "en": "Want to return to the healing spot\\nused last in {STR_VAR_1}?",
+  "pt": "Quer voltar ao último ponto de\\ncura usado em {STR_VAR_1}?",
+  "max_lines": 2,
+  "max_width": 190
+ },
+ {
+  "offset": "0886680",
+  "en": "That's your only\\nCAPTURE for battle.",
+  "pt": "Essa é sua única\\nCAPTURA de batalha.",
+  "max_lines": 2,
+  "max_width": 112
+ },
+ {
+  "offset": "08866A5",
+  "en": "   That CAPTURE can't be traded\\nnow.",
+  "pt": "   Essa CAPTURA não pode ser\\ntrocada agora.",
+  "max_lines": 2,
+  "max_width": 171
+ },
+ {
+  "offset": "08866A8",
+  "en": "That CAPTURE can't be traded\\nnow.",
+  "pt": "Essa CAPTURA não pode ser\\ntrocada agora.",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "08866CC",
+  "en": "That CAPTURE can't be traded.",
+  "pt": "Essa CAPTURA não pode ser trocada."
+ },
+ {
+  "offset": "08866EC",
+  "en": "An EGG can't be traded now.",
+  "pt": "Não dá para trocar OVOS agora.",
+  "max_width": 164
+ },
+ {
+  "offset": "0886708",
+  "en": "The other TRAINER's CAPTURE\\ncan't be traded now.",
+  "pt": "A CAPTURA do outro TREINADOR\\nnão pode ser trocada agora.",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "088673C",
+  "en": "The other TRAINER can't accept\\nthat CAPTURE now.",
+  "pt": "O outro TREINADOR não pode\\naceitar essa CAPTURA agora.",
+  "max_lines": 2,
+  "max_width": 174
+ },
+ {
+  "offset": "0886770",
+  "en": "You can't trade with that\\nTRAINER now.",
+  "pt": "Não pode trocar com esse\\nTREINADOR agora.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "0886798",
+  "en": "That isn't the type of CAPTURE\\nthat the other TRAINER wants.",
+  "pt": "Essa não é a CAPTURA que o\\noutro TREINADOR quer.",
+  "max_lines": 2,
+  "max_width": 170
+ },
+ {
+  "offset": "08867D8",
+  "en": "That isn't an EGG.",
+  "pt": "Isso não é um OVO.",
+  "max_width": 115
+ },
+ {
+  "offset": "08867EB",
+  "en": "REGISTER",
+  "pt": "REGISTRAR",
+  "max_width": 54
+ },
+ {
+  "offset": "08867F4",
+  "en": "ATTACK",
+  "pt": "ATAQUE",
+  "max_width": 42
+ },
+ {
+  "offset": "08867FB",
+  "en": "DEFENSE",
+  "pt": "DEFESA",
+  "max_width": 48
+ },
+ {
+  "offset": "0886803",
+  "en": "SP. ATK",
+  "pt": "AT.ESP.",
+  "max_width": 42
+ },
+ {
+  "offset": "088680B",
+  "en": "SP. DEF",
+  "pt": "DEF.ESP.",
+  "max_width": 42
+ },
+ {
+  "offset": "0886813",
+  "en": "SPEED",
+  "pt": "VELOC.",
+  "max_width": 36
+ },
+ {
+  "offset": "0886819",
+  "en": "HP",
+  "pt": "HP",
+  "max_width": 18
+ },
+ {
+  "offset": "088681D",
+  "en": "OT/",
+  "pt": "TO/",
+  "max_width": 24
+ },
+ {
+  "offset": "0886821",
+  "en": "RENTAL CAPTURE",
+  "pt": "CAPTURA ALUGADA",
+  "max_width": 87
+ },
+ {
+  "offset": "0886830",
+  "en": "TYPE/",
+  "pt": "TIPO/",
+  "max_width": 36
+ },
+ {
+  "offset": "0886836",
+  "en": "POWER",
+  "pt": "PODER",
+  "max_width": 36
+ },
+ {
+  "offset": "088683C",
+  "en": "ACCURACY",
+  "pt": "PRECISÃO",
+  "max_width": 54
+ },
+ {
+  "offset": "0886845",
+  "en": "APPEAL",
+  "pt": "APELO",
+  "max_width": 42
+ },
+ {
+  "offset": "088684C",
+  "en": "JAM",
+  "pt": "ATR.",
+  "max_width": 24
+ },
+ {
+  "offset": "0886850",
+  "en": "STATUS",
+  "pt": "ESTADO",
+  "max_width": 42
+ },
+ {
+  "offset": "0886857",
+  "en": "EXP. POINTS",
+  "pt": "PTS. EXP.",
+  "max_width": 66
+ },
+ {
+  "offset": "0886863",
+  "en": "NEXT LV.",
+  "pt": "PRÓX. NV.",
+  "max_width": 48
+ },
+ {
+  "offset": "088686C",
+  "en": "RIBBONS: {STR_VAR_1}",
+  "pt": "FITAS: {STR_VAR_1}",
+  "max_width": 96
+ },
+ {
+  "offset": "0886880",
+  "en": "SWITCH",
+  "pt": "TROCAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0886887",
+  "en": "CAPTURE INFO",
+  "pt": "INFORMAÇÕES",
+  "max_width": 75
+ },
+ {
+  "offset": "0886894",
+  "en": "CAPTURE SKILLS",
+  "pt": "ATRIBUTOS",
+  "max_width": 87
+ },
+ {
+  "offset": "08868A3",
+  "en": "BATTLE MOVES",
+  "pt": "GOLPES BAT.",
+  "max_width": 75
+ },
+ {
+  "offset": "08868B0",
+  "en": "C0NTEST MOVES",
+  "pt": "GOLPES CONC.",
+  "max_width": 81
+ },
+ {
+  "offset": "08868BE",
+  "en": "INFO",
+  "pt": "INFO",
+  "max_width": 30
+ },
+ {
+  "offset": "08868C3",
+  "en": "It looks like this EGG will\\ntake a long time to hatch.",
+  "pt": "Parece que este OVO vai\\ndemorar muito para chocar.",
+  "max_lines": 2,
+  "max_width": 144
+ },
+ {
+  "offset": "08868FA",
+  "en": "What will hatch from this?\\nIt will take some time.",
+  "pt": "O que vai sair daqui?\\nVai demorar um pouco.",
+  "max_lines": 2,
+  "max_width": 145
+ },
+ {
+  "offset": "088692D",
+  "en": "It moves occasionally.\\nIt should hatch soon.",
+  "pt": "Ele se mexe às vezes.\\nDeve chocar logo.",
+  "max_lines": 2,
+  "max_width": 127
+ },
+ {
+  "offset": "088695A",
+  "en": "It's making sounds.\\nIt's about to hatch!",
+  "pt": "Está fazendo barulho.\\nVai chocar já, já!",
+  "max_lines": 2,
+  "max_width": 116
+ },
+ {
+  "offset": "0886983",
+  "en": "Ready to hatch, but blocked\\nby Nuzlocke encounter!",
+  "pt": "Pronto, mas barrado pelo\\nencontro do Nuzlocke!",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "08869B6",
+  "en": "HM moves can't be\\nforgotten now.",
+  "pt": "Não pode esquecer\\ngolpes de HM agora.",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "08869D7",
+  "en": "{F7 00}{F7 02}{F7 01}{F7 05} nature,\\nmet at {F9 05}{F7 00}{F7 03}{F7 01},\\n{F7 00}{F7 04}{F7 01}.",
+  "pt": "Natureza {F7 00}{F7 02}{F7 01}{F7 05}\\nvista no {F9 05}{F7 00}{F7 03}{F7 01},\\n{F7 00}{F7 04}{F7 01}.",
+  "max_lines": 3,
+  "max_width": 99
+ },
+ {
+  "offset": "0886A01",
+  "en": "{F7 00}{F7 02}{F7 01}{F7 05} nature,\\nhatched at {F9 05}{F7 00}{F7 03}{F7 01},\\n{F7 00}{F7 04}{F7 01}.",
+  "pt": "Natureza {F7 00}{F7 02}{F7 01}{F7 05},\\nchocada no {F9 05}{F7 00}{F7 03}{F7 01},\\n{F7 00}{F7 04}{F7 01}.",
+  "max_lines": 3,
+  "max_width": 121
+ },
+ {
+  "offset": "0886A2F",
+  "en": "{F7 00}{F7 02}{F7 01}{F7 05} nature,\\nobtained in a trade.",
+  "pt": "Natureza {F7 00}{F7 02}{F7 01}{F7 05},\\nobtida numa troca.",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "0886A55",
+  "en": "{F7 00}{F7 02}{F7 01}{F7 05} nature,\\nobtained in a fateful\\nencounter at {F9 05}{F7 00}{F7 03}{F7 01}.",
+  "pt": "Natureza {F7 00}{F7 02}{F7 01}{F7 05},\\nobtida num encontro\\ndo destino no {F9 05}{F7 00}{F7 03}{F7 01}.",
+  "max_lines": 3,
+  "max_width": 132
+ },
+ {
+  "offset": "0886A93",
+  "en": "{F7 00}{F7 02}{F7 01}{F7 05} nature,\\nprobably met at {F9 05}{F7 00}{F7 03}{F7 01},\\n{F7 00}{F7 04}{F7 01}.",
+  "pt": "Natureza {F7 00}{F7 02}{F7 01}{F7 05},\\ntalvez vista no {F9 05}{F7 00}{F7 03}{F7 01},\\n{F7 00}{F7 04}{F7 01}.",
+  "max_lines": 3,
+  "max_width": 145
+ },
+ {
+  "offset": "0886AC6",
+  "en": "{F7 00}{F7 02}{F7 01}{F7 05} nature",
+  "pt": "Natureza {F7 00}{F7 02}{F7 01}{F7 05}",
+  "max_width": 110
+ },
+ {
+  "offset": "0886AD6",
+  "en": "{F7 00}{F7 02}{F7 01}{F7 05} nature,\\nmet somewhere at {F9 05}{F7 00}{F7 03}{F7 01}.",
+  "pt": "Natureza {F7 00}{F7 02}{F7 01}{F7 05}, vista\\nem algum lugar no {F9 05}{F7 00}{F7 03}{F7 01}.",
+  "max_lines": 2,
+  "max_width": 153
+ },
+ {
+  "offset": "0886B02",
+  "en": "{F7 00}{F7 02}{F7 01}{F7 05} nature,\\nhatched somewhere at {F9 05}{F7 00}{F7 03}{F7 01}.",
+  "pt": "Natureza {F7 00}{F7 02}{F7 01}{F7 05}, chocada\\nem algum lugar no {F9 05}{F7 00}{F7 03}{F7 01}.",
+  "max_lines": 2,
+  "max_width": 177
+ },
+ {
+  "offset": "0886B32",
+  "en": "An odd CAPTURE EGG found\\nby the DAY CARE couple.",
+  "pt": "Um OVO estranho achado\\npelo casal da CRECHE.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "0886B63",
+  "en": "A peculiar CAPTURE EGG\\nobtained at the nice place.",
+  "pt": "Um OVO de CAPTURA peculiar\\nobtido num lugar legal.",
+  "max_lines": 2,
+  "max_width": 151
+ },
+ {
+  "offset": "0886B96",
+  "en": "A peculiar CAPTURE EGG\\nobtained in a trade.",
+  "pt": "OVO de CAPTURA peculiar\\nobtido numa troca.",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "0886BC2",
+  "en": "A YOSHI EGG obtained\\nfrom PRINCESS PEACH.",
+  "pt": "Um OVO de YOSHI dado\\npela PRINCESA PEACH.",
+  "max_lines": 2,
+  "max_width": 120
+ },
+ {
+  "offset": "0886BEC",
+  "en": "An odd CAPTURE EGG\\nobtained from a traveler.",
+  "pt": "OVO de CAPTURA estranho\\nobtido de um viajante.",
+  "max_lines": 2,
+  "max_width": 141
+ },
+ {
+  "offset": "0886C19",
+  "en": "'s BASE",
+  "pt": ": BASE",
+  "max_width": 60
+ },
+ {
+  "offset": "0886C21",
+  "en": "Is it okay to delete {STR_VAR_1}\\nfrom the REGISTRY?",
+  "pt": "Apagar {STR_VAR_1}\\ndo REGISTRO?",
+  "max_lines": 2,
+  "max_width": 159
+ },
+ {
+  "offset": "0886C4C",
+  "en": "The registered data was deleted.{PAUSE_UNTIL_PRESS}",
+  "pt": "Os dados registrados foram apagados.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0886C6F",
+  "en": "There is no REGISTRY.{PAUSE_UNTIL_PRESS}",
+  "pt": "Não há REGISTRO.{PAUSE_UNTIL_PRESS}",
+  "max_width": 135
+ },
+ {
+  "offset": "0886C87",
+  "en": "DEL REGIST.",
+  "pt": "APAG. REG.",
+  "max_width": 66
+ },
+ {
+  "offset": "0886C9B",
+  "en": "DECORATE",
+  "pt": "DECORAR",
+  "max_width": 54
+ },
+ {
+  "offset": "0886CA4",
+  "en": "PUT AWAY",
+  "pt": "GUARDAR",
+  "max_width": 51
+ },
+ {
+  "offset": "0886CAD",
+  "en": "TOSS",
+  "pt": "JOGAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0886CB9",
+  "en": "Put out the selected decoration item.",
+  "pt": "Coloque a decoração escolhida."
+ },
+ {
+  "offset": "0886CDF",
+  "en": "Store the chosen decoration in the PC.",
+  "pt": "Guarde a decoração escolhida no PC."
+ },
+ {
+  "offset": "0886D06",
+  "en": "Throw away unwanted decorations.",
+  "pt": "Jogue fora decorações indesejadas."
+ },
+ {
+  "offset": "0886D27",
+  "en": "There are no decorations.{PAUSE_UNTIL_PRESS}",
+  "pt": "Não há decorações.{PAUSE_UNTIL_PRESS}",
+  "max_width": 157
+ },
+ {
+  "offset": "0886D43",
+  "en": "DESK",
+  "pt": "MESA",
+  "max_width": 30
+ },
+ {
+  "offset": "0886D48",
+  "en": "CHAIR",
+  "pt": "CAD.",
+  "max_width": 36
+ },
+ {
+  "offset": "0886D4E",
+  "en": "PLANT",
+  "pt": "PLANTA",
+  "max_width": 36
+ },
+ {
+  "offset": "0886D54",
+  "en": "ORNAMENT",
+  "pt": "ENFEITE",
+  "max_width": 54
+ },
+ {
+  "offset": "0886D5D",
+  "en": "MAT",
+  "pt": "PISO",
+  "max_width": 24
+ },
+ {
+  "offset": "0886D61",
+  "en": "POSTER",
+  "pt": "PÔSTER",
+  "max_width": 42
+ },
+ {
+  "offset": "0886D68",
+  "en": "DOLL",
+  "pt": "BON.",
+  "max_width": 30
+ },
+ {
+  "offset": "0886D6D",
+  "en": "CUSHION",
+  "pt": "ALMOFADA",
+  "max_width": 48
+ },
+ {
+  "offset": "0886D75",
+  "en": "GOLD",
+  "pt": "OURO",
+  "max_width": 30
+ },
+ {
+  "offset": "0886D7A",
+  "en": "SILVER",
+  "pt": "PRATA",
+  "max_width": 42
+ },
+ {
+  "offset": "0886D81",
+  "en": "Place it here?",
+  "pt": "Colocar aqui?",
+  "max_width": 97
+ },
+ {
+  "offset": "0886D90",
+  "en": "It can't be placed here.",
+  "pt": "Não dá para colocar aqui.",
+  "max_width": 147
+ },
+ {
+  "offset": "0886DA9",
+  "en": "Cancel decorating?",
+  "pt": "Parar de decorar?",
+  "max_width": 124
+ },
+ {
+  "offset": "0886DBC",
+  "en": "This is in use already.",
+  "pt": "Isto já está em uso.",
+  "max_width": 138
+ },
+ {
+  "offset": "0886DD4",
+  "en": "No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}.",
+  "pt": "Não cabem mais decorações.\\nO máximo permitido é {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "0886E1B",
+  "en": "No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}.",
+  "pt": "Não cabem mais decorações.\\nO máximo permitido é {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "0886E98",
+  "en": "This decoration can't be placed in\\nyour own room.",
+  "pt": "Esta decoração não pode ficar\\nno seu próprio quarto.",
+  "max_lines": 2,
+  "max_width": 187
+ },
+ {
+  "offset": "0886ECA",
+  "en": "This decoration is in use.\\nIt can't be thrown away.",
+  "pt": "A decoração está em uso.\\nNão pode ser jogada fora.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "0886EFE",
+  "en": "This {STR_VAR_1} will be discarded.\\nIs that okay?",
+  "pt": "Vai descartar {STR_VAR_1}.\\nTudo bem?",
+  "max_lines": 2,
+  "max_width": 170
+ },
+ {
+  "offset": "0886F27",
+  "en": "The decoration item was thrown away.",
+  "pt": "A decoração foi jogada fora."
+ },
+ {
+  "offset": "0886F4C",
+  "en": "Stop putting away decorations?",
+  "pt": "Parar de guardar decorações?"
+ },
+ {
+  "offset": "0886F6B",
+  "en": "There is no decoration item here.",
+  "pt": "Não há decoração aqui."
+ },
+ {
+  "offset": "0886F8D",
+  "en": "Return this decoration to the PC?",
+  "pt": "Devolver esta decoração ao PC?"
+ },
+ {
+  "offset": "0886FAF",
+  "en": "The decoration was returned to the PC.",
+  "pt": "A decoração voltou para o PC."
+ },
+ {
+  "offset": "0886FD6",
+  "en": "There are no decorations in use.{PAUSE_UNTIL_PRESS}",
+  "pt": "Não há decorações em uso.{PAUSE_UNTIL_PRESS}"
+ },
+ {
+  "offset": "0886FF9",
+  "en": "TRISTAN",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0887001",
+  "en": "PHILIP",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0887008",
+  "en": "DENNIS",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088700F",
+  "en": "ROBERTO",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0887017",
+  "en": "TURN OFF",
+  "pt": "DESLIGAR",
+  "max_width": 51
+ },
+ {
+  "offset": "0887020",
+  "en": "DECORATION",
+  "pt": "DECORAÇÃO",
+  "max_width": 66
+ },
+ {
+  "offset": "088702B",
+  "en": "ITEM STORAGE",
+  "pt": "DEPÓSITO",
+  "max_width": 75
+ },
+ {
+  "offset": "0887038",
+  "en": "MAILBOX",
+  "pt": "CORREIO",
+  "max_width": 48
+ },
+ {
+  "offset": "0887040",
+  "en": "DEPOSIT ITEM",
+  "pt": "GUARDAR ITEM",
+  "max_width": 75
+ },
+ {
+  "offset": "088704D",
+  "en": "WITHDRAW ITEM",
+  "pt": "RETIRAR ITEM",
+  "max_width": 81
+ },
+ {
+  "offset": "088705B",
+  "en": "TOSS ITEM",
+  "pt": "DESCARTAR",
+  "max_width": 57
+ },
+ {
+  "offset": "0887065",
+  "en": "Store items in the PC.",
+  "pt": "Guarde itens no PC.",
+  "max_width": 136
+ },
+ {
+  "offset": "088707C",
+  "en": "Take out items from the PC.",
+  "pt": "Retire itens do PC.",
+  "max_width": 165
+ },
+ {
+  "offset": "0887098",
+  "en": "Throw away items stored in the PC.",
+  "pt": "Jogue fora itens guardados no PC."
+ },
+ {
+  "offset": "08870BB",
+  "en": "There are no items.{PAUSE_UNTIL_PRESS}",
+  "pt": "Não há itens.{PAUSE_UNTIL_PRESS}",
+  "max_width": 122
+ },
+ {
+  "offset": "08870D1",
+  "en": "There is no more\\nroom in the BAG.",
+  "pt": "A BOLSA não tem\\nmais espaço.",
+  "max_lines": 2,
+  "max_width": 93
+ },
+ {
+  "offset": "08870F3",
+  "en": "Withdraw how many\\n{STR_VAR_1}(s)?",
+  "pt": "Quantidade de\\n{STR_VAR_1} a retirar?",
+  "max_lines": 2,
+  "max_width": 103
+ },
+ {
+  "offset": "088710C",
+  "en": "Withdrew {STR_VAR_2}\\n{STR_VAR_1}(s).",
+  "pt": "Retirou {STR_VAR_2}\\nunid. de {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 100
+ },
+ {
+  "offset": "088711F",
+  "en": "READ",
+  "pt": "LER",
+  "max_width": 30
+ },
+ {
+  "offset": "0887124",
+  "en": "MOVE TO BAG",
+  "pt": "PARA BOLSA",
+  "max_width": 66
+ },
+ {
+  "offset": "0887130",
+  "en": "GIVE",
+  "pt": "DAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0887135",
+  "en": "There's no MAIL here.{PAUSE_UNTIL_PRESS}",
+  "pt": "Não há CARTAS aqui.{PAUSE_UNTIL_PRESS}",
+  "max_width": 133
+ },
+ {
+  "offset": "088714D",
+  "en": "What would you like to do with\\n{STR_VAR_1}'s MAIL?",
+  "pt": "O que deseja fazer com\\na CARTA de {STR_VAR_1}?",
+  "max_lines": 2,
+  "max_width": 164
+ },
+ {
+  "offset": "0887177",
+  "en": "The message will be lost.\\nIs that okay?",
+  "pt": "A mensagem será perdida.\\nTudo bem?",
+  "max_lines": 2,
+  "max_width": 137
+ },
+ {
+  "offset": "088719F",
+  "en": "The BAG is full.{PAUSE_UNTIL_PRESS}",
+  "pt": "A BOLSA está cheia.{PAUSE_UNTIL_PRESS}",
+  "max_width": 102
+ },
+ {
+  "offset": "08871B2",
+  "en": "The MAIL was returned to the BAG\\nwith its message erased.{PAUSE_UNTIL_PRESS}",
+  "pt": "A CARTA voltou para a BOLSA\\ncom a mensagem apagada.{PAUSE_UNTIL_PRESS}",
+  "max_lines": 2,
+  "max_width": 182
+ },
+ {
+  "offset": "08871EE",
+  "en": "LUIGI",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08871F4",
+  "en": "LUIGI",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08871FA",
+  "en": "WALLACE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0887202",
+  "en": "STEVEN",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0887209",
+  "en": "BRAWLY",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0887210",
+  "en": "WINONA",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0887217",
+  "en": "PHOEBE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088721E",
+  "en": "GLACIA",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0887225",
+  "en": "PETALBURG",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "088722F",
+  "en": "SLATEPORT",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "088724D",
+  "en": "DEWFORD",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0887255",
+  "en": "ENTER",
+  "pt": "ENTRAR",
+  "max_width": 36
+ },
+ {
+  "offset": "088725B",
+  "en": "INFO",
+  "pt": "INFO",
+  "max_width": 30
+ },
+ {
+  "offset": "0887260",
+  "en": "What's a CONTEST?",
+  "pt": "O que é um CONCURSO?",
+  "max_width": 117
+ },
+ {
+  "offset": "0887272",
+  "en": "Types of CONTESTS",
+  "pt": "Tipos de CONCURSO",
+  "max_width": 120
+ },
+ {
+  "offset": "0887284",
+  "en": "Ranks",
+  "pt": "Níveis",
+  "max_width": 54
+ },
+ {
+  "offset": "0887292",
+  "en": "COOLNESS CONTEST",
+  "pt": "CONCURSO ESTILO",
+  "max_width": 99
+ },
+ {
+  "offset": "08872A3",
+  "en": "BEAUTY CONTEST",
+  "pt": "CONC. BELEZA",
+  "max_width": 87
+ },
+ {
+  "offset": "08872B2",
+  "en": "CUTENESS CONTEST",
+  "pt": "CONCURSO FOFURA",
+  "max_width": 99
+ },
+ {
+  "offset": "08872C3",
+  "en": "SMARTNESS CONTEST",
+  "pt": "CONCURSO INTELIGÊNCIA",
+  "max_width": 123
+ },
+ {
+  "offset": "08872D5",
+  "en": "TOUGHNESS CONTEST",
+  "pt": "CONCURSO GARRA",
+  "max_width": 123
+ },
+ {
+  "offset": "08872E7",
+  "en": "DECORATION",
+  "pt": "DECORAÇÃO",
+  "max_width": 66
+ },
+ {
+  "offset": "08872F2",
+  "en": "PACK UP",
+  "pt": "GUARDAR",
+  "max_width": 45
+ },
+ {
+  "offset": "0887300",
+  "en": "REGISTRY",
+  "pt": "REGISTRO",
+  "max_width": 54
+ },
+ {
+  "offset": "0887309",
+  "en": "INFORMATION",
+  "pt": "INFORMAÇÕES",
+  "max_width": 72
+ },
+ {
+  "offset": "0887315",
+  "en": "MACH",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088731A",
+  "en": "ACRO",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088731F",
+  "en": "PSN",
+  "pt": "ENV",
+  "max_width": 24
+ },
+ {
+  "offset": "0887323",
+  "en": "PAR",
+  "pt": "PAR",
+  "max_width": 24
+ },
+ {
+  "offset": "0887327",
+  "en": "SLP",
+  "pt": "DOR",
+  "max_width": 24
+ },
+ {
+  "offset": "088732B",
+  "en": "BRN",
+  "pt": "QUE",
+  "max_width": 24
+ },
+ {
+  "offset": "088732F",
+  "en": "FRZ",
+  "pt": "CON",
+  "max_width": 24
+ },
+ {
+  "offset": "0887341",
+  "en": "Saw it",
+  "pt": "Já vi",
+  "max_width": 55
+ },
+ {
+  "offset": "0887348",
+  "en": "Not yet",
+  "pt": "Ainda não",
+  "max_width": 63
+ },
+ {
+  "offset": "088735C",
+  "en": "SINGLE BATTLE",
+  "pt": "BATALHA INDIV.",
+  "max_width": 81
+ },
+ {
+  "offset": "088736A",
+  "en": "DOUBLE BATTLE",
+  "pt": "BATALHA DUPLA",
+  "max_width": 81
+ },
+ {
+  "offset": "0887378",
+  "en": "MULTI BATTLE",
+  "pt": "BAT. MÚLTIPLA",
+  "max_width": 75
+ },
+ {
+  "offset": "0887390",
+  "en": "CHALLENGE",
+  "pt": "DESAFIO",
+  "max_width": 60
+ },
+ {
+  "offset": "088739A",
+  "en": "INFO",
+  "pt": "INFO",
+  "max_width": 30
+ },
+ {
+  "offset": "08873A6",
+  "en": "OPEN LEVEL",
+  "pt": "NÍVEL LIVRE",
+  "max_width": 63
+ },
+ {
+  "offset": "08873BC",
+  "en": "SUPER NUT{CLEAR_TO 48}¥300",
+  "pt": "SUPERNOZ{CLEAR_TO 48}¥300",
+  "max_width": 81
+ },
+ {
+  "offset": "08873CD",
+  "en": "ULTRA NUT{CLEAR_TO 48}¥350",
+  "pt": "ULTRANOZ{CLEAR_TO 48}¥350",
+  "max_width": 81
+ },
+ {
+  "offset": "08873DE",
+  "en": "HOW TO RIDE",
+  "pt": "COMO ANDAR",
+  "max_width": 66
+ },
+ {
+  "offset": "08873EA",
+  "en": "HOW TO TURN",
+  "pt": "COMO VIRAR",
+  "max_width": 66
+ },
+ {
+  "offset": "08873F6",
+  "en": "SANDY SLOPES",
+  "pt": "DUNAS",
+  "max_width": 75
+ },
+ {
+  "offset": "0887403",
+  "en": "WHEELIES",
+  "pt": "EMPINAR",
+  "max_width": 54
+ },
+ {
+  "offset": "088740C",
+  "en": "BUNNY-HOPS",
+  "pt": "PULINHOS",
+  "max_width": 66
+ },
+ {
+  "offset": "0887417",
+  "en": "JUMP",
+  "pt": "PULO",
+  "max_width": 30
+ },
+ {
+  "offset": "088741C",
+  "en": "Satisfied",
+  "pt": "Gostei",
+  "max_width": 74
+ },
+ {
+  "offset": "0887426",
+  "en": "Dissatisfied",
+  "pt": "Não gostei",
+  "max_width": 90
+ },
+ {
+  "offset": "0887433",
+  "en": "DEEPSEATOOTH",
+  "pt": "DENTE ABISSAL",
+  "max_width": 78
+ },
+ {
+  "offset": "0887440",
+  "en": "DEEPSEASCALE",
+  "pt": "ESC. ABISSAL",
+  "max_width": 78
+ },
+ {
+  "offset": "088744D",
+  "en": "BLUE FLUTE",
+  "pt": "FL. AZUL",
+  "max_width": 63
+ },
+ {
+  "offset": "0887458",
+  "en": "YELLOW FLUTE",
+  "pt": "FL. AMARELA",
+  "max_width": 75
+ },
+ {
+  "offset": "0887465",
+  "en": "RED FLUTE",
+  "pt": "FL. VERM.",
+  "max_width": 57
+ },
+ {
+  "offset": "088746F",
+  "en": "WHITE FLUTE",
+  "pt": "FL. BRANCA",
+  "max_width": 69
+ },
+ {
+  "offset": "088747B",
+  "en": "BLACK FLUTE",
+  "pt": "FL. PRETA",
+  "max_width": 69
+ },
+ {
+  "offset": "0887487",
+  "en": "GLASS CHAIR",
+  "pt": "CAD. DE VIDRO",
+  "max_width": 69
+ },
+ {
+  "offset": "0887493",
+  "en": "GLASS DESK",
+  "pt": "MESA VIDRO",
+  "max_width": 63
+ },
+ {
+  "offset": "088749E",
+  "en": "TREECKO DOLL 1,000 COINS",
+  "pt": "BONECO TREECKO 1.000 MOEDAS",
+  "max_width": 156
+ },
+ {
+  "offset": "08874B7",
+  "en": "TORCHIC DOLL 1,000 COINS",
+  "pt": "BONECO TORCHIC 1.000 MOEDAS",
+  "max_width": 156
+ },
+ {
+  "offset": "08874D0",
+  "en": "MUDKIP DOLL   1,000 COINS",
+  "pt": "BONECO MUDKIP   1.000 MOEDAS",
+  "max_width": 156
+ },
+ {
+  "offset": "0887512",
+  "en": "Excellent",
+  "pt": "Excelente",
+  "max_width": 74
+ },
+ {
+  "offset": "088751C",
+  "en": "Not so good",
+  "pt": "Não tão bom",
+  "max_width": 84
+ },
+ {
+  "offset": "0887528",
+  "en": "RED SHARD",
+  "pt": "CACO VERM.",
+  "max_width": 57
+ },
+ {
+  "offset": "0887532",
+  "en": "YELLOW SHARD",
+  "pt": "CACO AMARELO",
+  "max_width": 75
+ },
+ {
+  "offset": "088753F",
+  "en": "BLUE SHARD",
+  "pt": "CACO AZUL",
+  "max_width": 63
+ },
+ {
+  "offset": "088754A",
+  "en": "GREEN SHARD",
+  "pt": "CACO VERDE",
+  "max_width": 69
+ },
+ {
+  "offset": "0887556",
+  "en": "BATTLE FRONTIER",
+  "pt": "FRONTEIRA BAT.",
+  "max_width": 93
+ },
+ {
+  "offset": "0887566",
+  "en": "Right",
+  "pt": "Direita",
+  "max_width": 52
+ },
+ {
+  "offset": "088756C",
+  "en": "Left",
+  "pt": "Esquerda",
+  "max_width": 48
+ },
+ {
+  "offset": "08875D0",
+  "en": "COOL",
+  "pt": "EST.",
+  "max_width": 30
+ },
+ {
+  "offset": "08875D5",
+  "en": "BEAUTY",
+  "pt": "BELEZA",
+  "max_width": 42
+ },
+ {
+  "offset": "08875DC",
+  "en": "CUTE",
+  "pt": "FOF.",
+  "max_width": 30
+ },
+ {
+  "offset": "08875E1",
+  "en": "SMART",
+  "pt": "INT.",
+  "max_width": 36
+ },
+ {
+  "offset": "08875E7",
+  "en": "TOUGH",
+  "pt": "GARRA",
+  "max_width": 36
+ },
+ {
+  "offset": "08875ED",
+  "en": "NORMAL",
+  "pt": "NORMAL",
+  "max_width": 42
+ },
+ {
+  "offset": "08875F4",
+  "en": "SUPER",
+  "pt": "SUPER",
+  "max_width": 36
+ },
+ {
+  "offset": "08875FA",
+  "en": "HYPER",
+  "pt": "HIPER",
+  "max_width": 36
+ },
+ {
+  "offset": "0887600",
+  "en": "MASTER",
+  "pt": "MESTRE",
+  "max_width": 42
+ },
+ {
+  "offset": "0887607",
+  "en": "COOL",
+  "pt": "EST.",
+  "max_width": 30
+ },
+ {
+  "offset": "088760C",
+  "en": "BEAUTY",
+  "pt": "BELEZA",
+  "max_width": 42
+ },
+ {
+  "offset": "0887613",
+  "en": "CUTE",
+  "pt": "FOF.",
+  "max_width": 30
+ },
+ {
+  "offset": "0887618",
+  "en": "SMART",
+  "pt": "INT.",
+  "max_width": 36
+ },
+ {
+  "offset": "088761E",
+  "en": "TOUGH",
+  "pt": "GARRA",
+  "max_width": 36
+ },
+ {
+  "offset": "0887624",
+  "en": "ITEMS",
+  "pt": "ITENS",
+  "max_width": 36
+ },
+ {
+  "offset": "088762A",
+  "en": "KEY ITEMS",
+  "pt": "IT. CHAVE",
+  "max_width": 57
+ },
+ {
+  "offset": "0887634",
+  "en": "CAPS",
+  "pt": "CAPS",
+  "max_width": 30
+ },
+ {
+  "offset": "0887639",
+  "en": "TMs & HMs",
+  "pt": "TMs e HMs",
+  "max_width": 73
+ },
+ {
+  "offset": "0887643",
+  "en": "BERRIES",
+  "pt": "FRUTAS",
+  "max_width": 48
+ },
+ {
+  "offset": "088764B",
+  "en": "SOMEONE'S PC",
+  "pt": "PC DE ALGUÉM",
+  "max_width": 72
+ },
+ {
+  "offset": "0887658",
+  "en": "E. GADD'S PC",
+  "pt": "PC DO E. GADD",
+  "max_width": 66
+ },
+ {
+  "offset": "0887665",
+  "en": "MARIO's PC",
+  "pt": "PC DO MARIO",
+  "max_width": 78
+ },
+ {
+  "offset": "0887670",
+  "en": "HALL OF FAME",
+  "pt": "HALL DA FAMA",
+  "max_width": 72
+ },
+ {
+  "offset": "088767D",
+  "en": "LOG OFF",
+  "pt": "SAIR",
+  "max_width": 45
+ },
+ {
+  "offset": "0887685",
+  "en": "OPPONENT",
+  "pt": "OPONENTE",
+  "max_width": 54
+ },
+ {
+  "offset": "088768E",
+  "en": "TOURNEY TREE",
+  "pt": "CHAVEAMENTO",
+  "max_width": 75
+ },
+ {
+  "offset": "088769B",
+  "en": "READY TO START",
+  "pt": "INICIAR",
+  "max_width": 84
+ },
+ {
+  "offset": "08876AA",
+  "en": "NORMAL RANK",
+  "pt": "NÍVEL NORMAL",
+  "max_width": 69
+ },
+ {
+  "offset": "08876B6",
+  "en": "SUPER RANK",
+  "pt": "NÍVEL SUPER",
+  "max_width": 63
+ },
+ {
+  "offset": "08876C1",
+  "en": "HYPER RANK",
+  "pt": "NÍVEL HIPER",
+  "max_width": 63
+ },
+ {
+  "offset": "08876CC",
+  "en": "MASTER RANK",
+  "pt": "NÍVEL MESTRE",
+  "max_width": 69
+ },
+ {
+  "offset": "08876D8",
+  "en": "SINGLE",
+  "pt": "INDIV.",
+  "max_width": 42
+ },
+ {
+  "offset": "08876DF",
+  "en": "DOUBLE",
+  "pt": "DUPLA",
+  "max_width": 42
+ },
+ {
+  "offset": "08876E6",
+  "en": "MULTI",
+  "pt": "MÚLT.",
+  "max_width": 36
+ },
+ {
+  "offset": "08876EC",
+  "en": "MULTI-LINK",
+  "pt": "MÚLT. LINK",
+  "max_width": 66
+ },
+ {
+  "offset": "08876F7",
+  "en": "BATTLE BAG",
+  "pt": "BOLSA BAT.",
+  "max_width": 63
+ },
+ {
+  "offset": "0887702",
+  "en": "HELD ITEM",
+  "pt": "ITEM SEG.",
+  "max_width": 57
+ },
+ {
+  "offset": "088770C",
+  "en": "LINK CONTEST",
+  "pt": "CONCURSO LINK",
+  "max_width": 75
+ },
+ {
+  "offset": "0887719",
+  "en": "ABOUT E-MODE",
+  "pt": "SOBRE E-MODE",
+  "max_width": 75
+ },
+ {
+  "offset": "0887726",
+  "en": "ABOUT G-MODE",
+  "pt": "SOBRE G-MODE",
+  "max_width": 75
+ },
+ {
+  "offset": "0887733",
+  "en": "E-MODE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088773A",
+  "en": "G-MODE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "0887741",
+  "en": "TATTLEDEX",
+  "pt": "",
+  "max_width": 60
+ },
+ {
+  "offset": "088774B",
+  "en": "CAPTURE",
+  "pt": "CAPTURA",
+  "max_width": 48
+ },
+ {
+  "offset": "0887753",
+  "en": "POCKETS",
+  "pt": "BOLSOS",
+  "max_width": 48
+ },
+ {
+  "offset": "088775B",
+  "en": "POKéNAV",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "0887764",
+  "en": "SAVE",
+  "pt": "SALVAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0887769",
+  "en": "OPTION",
+  "pt": "OPÇÕES",
+  "max_width": 42
+ },
+ {
+  "offset": "0887770",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "0887775",
+  "en": "  5BP",
+  "pt": "  5PB",
+  "max_width": 30
+ },
+ {
+  "offset": "0887777",
+  "en": "5BP",
+  "pt": "5PB",
+  "max_width": 24
+ },
+ {
+  "offset": "0887785",
+  "en": "RED TENT",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "088778E",
+  "en": "BLUE TENT",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "0887798",
+  "en": "SOUTHERN ISLAND",
+  "pt": "",
+  "max_width": 93
+ },
+ {
+  "offset": "08877A8",
+  "en": "BIRTH ISLAND",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "08877B5",
+  "en": "FARAWAY ISLAND",
+  "pt": "",
+  "max_width": 87
+ },
+ {
+  "offset": "08877C4",
+  "en": "NAVEL ROCK",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "08877CF",
+  "en": "CLAW FOSSIL",
+  "pt": "FÓSSIL GARRA",
+  "max_width": 69
+ },
+ {
+  "offset": "08877DB",
+  "en": "ROOT FOSSIL",
+  "pt": "FÓSSIL RAIZ",
+  "max_width": 69
+ },
+ {
+  "offset": "08877E7",
+  "en": "NO",
+  "pt": "NÃO",
+  "max_width": 18
+ },
+ {
+  "offset": "08877EA",
+  "en": "I'll battle now!",
+  "pt": "Vou batalhar!",
+  "max_width": 103
+ },
+ {
+  "offset": "08877FB",
+  "en": "I won!",
+  "pt": "Venci!",
+  "max_width": 55
+ },
+ {
+  "offset": "0887802",
+  "en": "I lost!",
+  "pt": "Perdi!",
+  "max_width": 59
+ },
+ {
+  "offset": "088780A",
+  "en": "I won't tell.",
+  "pt": "Não vou contar.",
+  "max_width": 86
+ },
+ {
+  "offset": "0887818",
+  "en": "NORMAL TAG MATCH",
+  "pt": "DUPLA NORMAL",
+  "max_width": 96
+ },
+ {
+  "offset": "0887829",
+  "en": "VARIETY TAG MATCH",
+  "pt": "DUPLA VARIADA",
+  "max_width": 120
+ },
+ {
+  "offset": "088783B",
+  "en": "UNIQUE TAG MATCH",
+  "pt": "DUPLA ÚNICA",
+  "max_width": 96
+ },
+ {
+  "offset": "088784C",
+  "en": "EXPERT TAG MATCH",
+  "pt": "DUPLA EXPERIENTE",
+  "max_width": 96
+ },
+ {
+  "offset": "088785D",
+  "en": "TRADE CENTER",
+  "pt": "CENTRO TROCAS",
+  "max_width": 75
+ },
+ {
+  "offset": "088786A",
+  "en": "COLOSSEUM",
+  "pt": "COLISEU",
+  "max_width": 60
+ },
+ {
+  "offset": "0887874",
+  "en": "RECORD CORNER",
+  "pt": "CANTO RECORDES",
+  "max_width": 81
+ },
+ {
+  "offset": "0887882",
+  "en": "BERRY CRUSH",
+  "pt": "ESMAGA-FRUT.",
+  "max_width": 69
+ },
+ {
+  "offset": "088788F",
+  "en": "POKéMON JUMP",
+  "pt": "PULO CAPTURAS",
+  "max_width": 93
+ },
+ {
+  "offset": "088789C",
+  "en": "DODRIO BERRY-PICKING",
+  "pt": "COLHEITA DE FRUTAS DODRIO",
+  "max_width": 141
+ },
+ {
+  "offset": "08878B1",
+  "en": "BECOME LEADER",
+  "pt": "VIRAR LÍDER",
+  "max_width": 81
+ },
+ {
+  "offset": "08878BF",
+  "en": "JOIN GROUP",
+  "pt": "ENTRAR",
+  "max_width": 63
+ },
+ {
+  "offset": "08878CA",
+  "en": "TWO STYLES",
+  "pt": "2 ESTILOS",
+  "max_width": 63
+ },
+ {
+  "offset": "08878DC",
+  "en": "OPEN LEVEL",
+  "pt": "NÍVEL LIVRE",
+  "max_width": 63
+ },
+ {
+  "offset": "08878E7",
+  "en": "{PK}{MN} TYPE & NO.",
+  "pt": "TIPO E QTD. {PK}{MN}",
+  "max_width": 77
+ },
+ {
+  "offset": "08878F5",
+  "en": "HOLD ITEMS",
+  "pt": "ITENS SEG.",
+  "max_width": 63
+ },
+ {
+  "offset": "0887900",
+  "en": "SYMBOLS",
+  "pt": "SÍMBOLOS",
+  "max_width": 48
+ },
+ {
+  "offset": "0887908",
+  "en": "RECORD",
+  "pt": "RECORDE",
+  "max_width": 42
+ },
+ {
+  "offset": "088790F",
+  "en": "BATTLE PTS",
+  "pt": "PONTOS BAT.",
+  "max_width": 63
+ },
+ {
+  "offset": "088791A",
+  "en": "TOWER INFO",
+  "pt": "INFO. TORRE",
+  "max_width": 63
+ },
+ {
+  "offset": "0887925",
+  "en": "BATTLE {PK}{MN}",
+  "pt": "{PK}{MN} BAT.",
+  "max_width": 61
+ },
+ {
+  "offset": "088792F",
+  "en": "BATTLE SALON",
+  "pt": "SALÃO BATALHA",
+  "max_width": 75
+ },
+ {
+  "offset": "088793C",
+  "en": "MULTI-LINK",
+  "pt": "MÚLT. LINK",
+  "max_width": 66
+ },
+ {
+  "offset": "0887947",
+  "en": "BATTLE RULES",
+  "pt": "REGRAS",
+  "max_width": 75
+ },
+ {
+  "offset": "0887954",
+  "en": "JUDGE: MIND",
+  "pt": "JUIZ: MENTE",
+  "max_width": 66
+ },
+ {
+  "offset": "0887960",
+  "en": "JUDGE: SKILL",
+  "pt": "JUIZ: TÉCNICA",
+  "max_width": 72
+ },
+ {
+  "offset": "088796D",
+  "en": "JUDGE: BODY",
+  "pt": "JUIZ: CORPO",
+  "max_width": 66
+ },
+ {
+  "offset": "0887979",
+  "en": "MATCHUP",
+  "pt": "DUELOS",
+  "max_width": 48
+ },
+ {
+  "offset": "0887981",
+  "en": "TOURNEY TREE",
+  "pt": "CHAVEAMENTO",
+  "max_width": 75
+ },
+ {
+  "offset": "088798E",
+  "en": "DOUBLE KO",
+  "pt": "KO DUPLO",
+  "max_width": 57
+ },
+ {
+  "offset": "0887998",
+  "en": "BASIC RULES",
+  "pt": "O BÁSICO",
+  "max_width": 69
+ },
+ {
+  "offset": "08879A4",
+  "en": "SWAP: PARTNER",
+  "pt": "TROCA: ALIADO",
+  "max_width": 78
+ },
+ {
+  "offset": "08879B2",
+  "en": "SWAP: NUMBER",
+  "pt": "TROCA: NÚMERO",
+  "max_width": 72
+ },
+ {
+  "offset": "08879BF",
+  "en": "SWAP: NOTES",
+  "pt": "TROCA: DICAS",
+  "max_width": 66
+ },
+ {
+  "offset": "08879CB",
+  "en": "OPEN LEVEL",
+  "pt": "NÍVEL LIVRE",
+  "max_width": 63
+ },
+ {
+  "offset": "08879D6",
+  "en": "BATTLE BASICS",
+  "pt": "NOÇÕES BÁSICAS",
+  "max_width": 81
+ },
+ {
+  "offset": "08879E4",
+  "en": "CAPTURE NATURE",
+  "pt": "NATUREZA",
+  "max_width": 87
+ },
+ {
+  "offset": "08879F3",
+  "en": "CAPTURE MOVES",
+  "pt": "GOLPES",
+  "max_width": 81
+ },
+ {
+  "offset": "0887A01",
+  "en": "UNDERPOWERED",
+  "pt": "SEM FORÇA",
+  "max_width": 78
+ },
+ {
+  "offset": "0887A0E",
+  "en": "WHEN IN DANGER",
+  "pt": "EM PERIGO",
+  "max_width": 84
+ },
+ {
+  "offset": "0887A1D",
+  "en": "PIT: CAPTURE",
+  "pt": "PIT: CAPTURA",
+  "max_width": 72
+ },
+ {
+  "offset": "0887A2A",
+  "en": "PIT: EXPLORERS",
+  "pt": "PIT: EXPLORAÇÃO",
+  "max_width": 84
+ },
+ {
+  "offset": "0887A39",
+  "en": "PIT: MAZE",
+  "pt": "PIT: MAPA",
+  "max_width": 54
+ },
+ {
+  "offset": "0887A43",
+  "en": "EXPLORERS PACK",
+  "pt": "KIT EXPLORADOR",
+  "max_width": 87
+ },
+ {
+  "offset": "0887A52",
+  "en": "POKéNAV AND BAG",
+  "pt": "POKéNAV E BOLSA",
+  "max_width": 108
+ },
+ {
+  "offset": "0887A62",
+  "en": "HELD ITEMS",
+  "pt": "ITENS SEG.",
+  "max_width": 63
+ },
+ {
+  "offset": "0887A6D",
+  "en": "CAPTURE ORDER",
+  "pt": "ORDEM CAPTURAS",
+  "max_width": 81
+ },
+ {
+  "offset": "0887A7B",
+  "en": "BATTLE CAPTURE",
+  "pt": "CAPTURAS BAT.",
+  "max_width": 87
+ },
+ {
+  "offset": "0887A8A",
+  "en": "BATTLE TRAINERS",
+  "pt": "TREINADORES",
+  "max_width": 93
+ },
+ {
+  "offset": "0887A9A",
+  "en": "GO ON",
+  "pt": "SIGA",
+  "max_width": 33
+ },
+ {
+  "offset": "0887AA0",
+  "en": "RECORD",
+  "pt": "RECORDE",
+  "max_width": 42
+ },
+ {
+  "offset": "0887AA7",
+  "en": "REST",
+  "pt": "DESC.",
+  "max_width": 30
+ },
+ {
+  "offset": "0887AAC",
+  "en": "RETIRE",
+  "pt": "DESIST.",
+  "max_width": 42
+ },
+ {
+  "offset": "0887AB3",
+  "en": "99 times +",
+  "pt": "99 vezes +",
+  "max_width": 76
+ },
+ {
+  "offset": "0887ABE",
+  "en": "1 minute +",
+  "pt": "1 minuto +",
+  "max_width": 76
+ },
+ {
+  "offset": "0887AC9",
+  "en": " seconds",
+  "pt": " segundos",
+  "max_width": 69
+ },
+ {
+  "offset": "0887AD2",
+  "en": " time(s)",
+  "pt": " vez(es)",
+  "max_width": 63
+ },
+ {
+  "offset": "0887ADD",
+  "en": "Big guy",
+  "pt": "Grandão",
+  "max_width": 61
+ },
+ {
+  "offset": "0887AE5",
+  "en": "Big girl",
+  "pt": "Grandona",
+  "max_width": 62
+ },
+ {
+  "offset": "0887AEE",
+  "en": "son",
+  "pt": "filho",
+  "max_width": 42
+ },
+ {
+  "offset": "0887AF2",
+  "en": "daughter",
+  "pt": "filha",
+  "max_width": 71
+ },
+ {
+  "offset": "0887AFB",
+  "en": "BLUE FLUTE",
+  "pt": "FL. AZUL",
+  "max_width": 63
+ },
+ {
+  "offset": "0887B06",
+  "en": "YELLOW FLUTE",
+  "pt": "FL. AMARELA",
+  "max_width": 75
+ },
+ {
+  "offset": "0887B13",
+  "en": "RED FLUTE",
+  "pt": "FL. VERM.",
+  "max_width": 57
+ },
+ {
+  "offset": "0887B1D",
+  "en": "WHITE FLUTE",
+  "pt": "FL. BRANCA",
+  "max_width": 69
+ },
+ {
+  "offset": "0887B29",
+  "en": "BLACK FLUTE",
+  "pt": "FL. PRETA",
+  "max_width": 69
+ },
+ {
+  "offset": "0887B35",
+  "en": "PRETTY CHAIR",
+  "pt": "CAD. BONITA",
+  "max_width": 75
+ },
+ {
+  "offset": "0887B42",
+  "en": "PRETTY DESK",
+  "pt": "MESA BONITA",
+  "max_width": 69
+ },
+ {
+  "offset": "0887B71",
+  "en": "B1F",
+  "pt": "S1",
+  "max_width": 24
+ },
+ {
+  "offset": "0887B75",
+  "en": "B2F",
+  "pt": "S2",
+  "max_width": 24
+ },
+ {
+  "offset": "0887B79",
+  "en": "B3F",
+  "pt": "S3",
+  "max_width": 24
+ },
+ {
+  "offset": "0887B7D",
+  "en": "B4F",
+  "pt": "S4",
+  "max_width": 24
+ },
+ {
+  "offset": "0887B81",
+  "en": "ROOFTOP",
+  "pt": "TERRAÇO",
+  "max_width": 48
+ },
+ {
+  "offset": "0887B89",
+  "en": "Now on:",
+  "pt": "Agora:",
+  "max_width": 60
+ },
+ {
+  "offset": "0887B91",
+  "en": "BP",
+  "pt": "PB",
+  "max_width": 18
+ },
+ {
+  "offset": "0887B94",
+  "en": "ENERGYPOWDER{CLEAR_TO 72}{FONT 00}50",
+  "pt": "PÓ ENERGÉTICO{CLEAR_TO 72}{FONT 00}50",
+  "max_width": 90
+ },
+ {
+  "offset": "0887BA9",
+  "en": "ENERGY ROOT{CLEAR_TO 72}{FONT 00}80",
+  "pt": "RAIZ ENERGIA{CLEAR_TO 72}{FONT 00}80",
+  "max_width": 81
+ },
+ {
+  "offset": "0887BBD",
+  "en": "HEAL POWDER{CLEAR_TO 72}{FONT 00}50",
+  "pt": "PÓ CURATIVO{CLEAR_TO 72}{FONT 00}50",
+  "max_width": 81
+ },
+ {
+  "offset": "0887BD1",
+  "en": "REVIVAL HERB{CLEAR_TO 6C}{FONT 00}300",
+  "pt": "ERVA REVIVER{CLEAR_TO 6C}{FONT 00}300",
+  "max_width": 93
+ },
+ {
+  "offset": "0887C61",
+  "en": "RANKING HALL",
+  "pt": "SALÃO RANKING",
+  "max_width": 75
+ },
+ {
+  "offset": "0887C6E",
+  "en": "EXCHANGE SERVICE",
+  "pt": "BALCÃO DE TROCAS",
+  "max_width": 99
+ },
+ {
+  "offset": "0887C7F",
+  "en": "LILYCOVE CITY",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "0887C8D",
+  "en": "SLATEPORT CITY",
+  "pt": "",
+  "max_width": 87
+ },
+ {
+  "offset": "0887C9C",
+  "en": "CAVE OF ORIGIN",
+  "pt": "",
+  "max_width": 84
+ },
+ {
+  "offset": "0887CAB",
+  "en": "MT. PYRE",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "0887CB4",
+  "en": "SKY PILLAR",
+  "pt": "",
+  "max_width": 63
+ },
+ {
+  "offset": "0887CBF",
+  "en": "Don't remember",
+  "pt": "Não lembro",
+  "max_width": 100
+ },
+ {
+  "offset": "0887CCE",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "0887CD3",
+  "en": "Exit from the BOX?",
+  "pt": "Sair da CAIXA?",
+  "max_width": 120
+ },
+ {
+  "offset": "0887CE6",
+  "en": "What do you want to do?",
+  "pt": "O que você quer fazer?",
+  "max_width": 147
+ },
+ {
+  "offset": "0887CFE",
+  "en": "Please pick a theme.",
+  "pt": "Escolha um tema.",
+  "max_width": 128
+ },
+ {
+  "offset": "0887D13",
+  "en": "Pick the wallpaper.",
+  "pt": "Escolha o fundo.",
+  "max_width": 122
+ },
+ {
+  "offset": "0887D27",
+  "en": "{F7 00} is selected.",
+  "pt": "Você escolheu {F7 00}.",
+  "max_width": 101
+ },
+ {
+  "offset": "0887D37",
+  "en": "Jump to which BOX?",
+  "pt": "Ir para qual CAIXA?",
+  "max_width": 121
+ },
+ {
+  "offset": "0887D4A",
+  "en": "Deposit in which BOX?",
+  "pt": "Guardar em qual CAIXA?",
+  "max_width": 135
+ },
+ {
+  "offset": "0887D60",
+  "en": "{F7 00} was deposited.",
+  "pt": "Você guardou {F7 00}.",
+  "max_width": 115
+ },
+ {
+  "offset": "0887D72",
+  "en": "The BOX is full.",
+  "pt": "A CAIXA está cheia.",
+  "max_width": 102
+ },
+ {
+  "offset": "0887D83",
+  "en": "Release this CAPTURE?",
+  "pt": "Soltar esta CAPTURA?",
+  "max_width": 140
+ },
+ {
+  "offset": "0887D99",
+  "en": "{F7 00} was released.",
+  "pt": "Você soltou {F7 00}.",
+  "max_width": 108
+ },
+ {
+  "offset": "0887DAA",
+  "en": "Bye-bye, {F7 00}!",
+  "pt": "Tchau, {F7 00}!",
+  "max_width": 88
+ },
+ {
+  "offset": "0887DB7",
+  "en": "Mark your CAPTURE.",
+  "pt": "Marque sua CAPTURA.",
+  "max_width": 121
+ },
+ {
+  "offset": "0887DCA",
+  "en": "That's your last CAPTURE!",
+  "pt": "É a sua última CAPTURA!",
+  "max_width": 157
+ },
+ {
+  "offset": "0887DE4",
+  "en": "Your party's full!",
+  "pt": "A equipe está cheia!",
+  "max_width": 115
+ },
+ {
+  "offset": "0887DF7",
+  "en": "You're holding a CAPTURE!",
+  "pt": "Você está com uma CAPTURA!",
+  "max_width": 155
+ },
+ {
+  "offset": "0887E11",
+  "en": "Which one will you take?",
+  "pt": "Qual delas você vai levar?",
+  "max_width": 148
+ },
+ {
+  "offset": "0887E2A",
+  "en": "You can't release an EGG.",
+  "pt": "Você não pode soltar um OVO.",
+  "max_width": 153
+ },
+ {
+  "offset": "0887E44",
+  "en": "Continue BOX operations?",
+  "pt": "Continuar usando a CAIXA?",
+  "max_width": 157
+ },
+ {
+  "offset": "0887E5D",
+  "en": "{F7 00} came back!",
+  "pt": "{F7 00} voltou!",
+  "max_width": 94
+ },
+ {
+  "offset": "0887E6B",
+  "en": "Was it worried about you?",
+  "pt": "Ficou com saudade de você?",
+  "max_width": 156
+ },
+ {
+  "offset": "0887E8F",
+  "en": "Please remove the MAIL.",
+  "pt": "Retire a CARTA, por favor.",
+  "max_width": 147
+ },
+ {
+  "offset": "0887EA7",
+  "en": "GIVE to a CAPTURE?",
+  "pt": "DAR a uma CAPTURA?",
+  "max_width": 123
+ },
+ {
+  "offset": "0887EBA",
+  "en": "Placed item in the BAG.",
+  "pt": "Item colocado na BOLSA.",
+  "max_width": 141
+ },
+ {
+  "offset": "0887ED2",
+  "en": "The BAG is full.",
+  "pt": "A BOLSA está cheia.",
+  "max_width": 102
+ },
+ {
+  "offset": "0887EE3",
+  "en": "Put this item in the BAG?",
+  "pt": "Pôr este item na BOLSA?",
+  "max_width": 153
+ },
+ {
+  "offset": "0887EFD",
+  "en": "{F7 00} is now held.",
+  "pt": "Agora segura {F7 00}.",
+  "max_width": 98
+ },
+ {
+  "offset": "0887F0D",
+  "en": "Changed to {F7 00}.",
+  "pt": "Trocou para {F7 00}.",
+  "max_width": 99
+ },
+ {
+  "offset": "0887F1C",
+  "en": "MAIL can't be stored!",
+  "pt": "CARTAS não vão na CAIXA!",
+  "max_width": 135
+ },
+ {
+  "offset": "0887F32",
+  "en": "{PK}{MN} fainted in Nuzlocke!",
+  "pt": "{PK}{MN} desmaiou no Nuzlocke!",
+  "max_width": 149
+ },
+ {
+  "offset": "0887F4A",
+  "en": "TOAD can't use this feature.",
+  "pt": "TOAD não pode usar isto.",
+  "max_width": 171
+ },
+ {
+  "offset": "0887F67",
+  "en": "Can't place in active party!",
+  "pt": "Não pode pôr na equipe ativa!",
+  "max_width": 168
+ },
+ {
+  "offset": "0887F84",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0887F8B",
+  "en": "STORE",
+  "pt": "GUARDA",
+  "max_width": 36
+ },
+ {
+  "offset": "0887F91",
+  "en": "WITHDRAW",
+  "pt": "RETIRAR",
+  "max_width": 54
+ },
+ {
+  "offset": "0887F9A",
+  "en": "SHIFT",
+  "pt": "TROCAR",
+  "max_width": 36
+ },
+ {
+  "offset": "0887FA0",
+  "en": "MOVE",
+  "pt": "MOVER",
+  "max_width": 30
+ },
+ {
+  "offset": "0887FA5",
+  "en": "PLACE",
+  "pt": "PÔR",
+  "max_width": 36
+ },
+ {
+  "offset": "0887FAB",
+  "en": "SUMMARY",
+  "pt": "RESUMO",
+  "max_width": 48
+ },
+ {
+  "offset": "0887FB3",
+  "en": "RELEASE",
+  "pt": "SOLTAR",
+  "max_width": 48
+ },
+ {
+  "offset": "0887FBB",
+  "en": "MARK",
+  "pt": "MARCA",
+  "max_width": 30
+ },
+ {
+  "offset": "0887FC0",
+  "en": "NAME",
+  "pt": "NOME",
+  "max_width": 30
+ },
+ {
+  "offset": "0887FC5",
+  "en": "JUMP",
+  "pt": "PULO",
+  "max_width": 30
+ },
+ {
+  "offset": "0887FCA",
+  "en": "WALLPAPER",
+  "pt": "FUNDO",
+  "max_width": 60
+ },
+ {
+  "offset": "0887FD4",
+  "en": "TAKE",
+  "pt": "PEGAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0887FD9",
+  "en": "GIVE",
+  "pt": "DAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0887FDE",
+  "en": "SWITCH",
+  "pt": "TROCAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0887FE5",
+  "en": "POCKETS",
+  "pt": "BOLSOS",
+  "max_width": 48
+ },
+ {
+  "offset": "0887FED",
+  "en": "INFO",
+  "pt": "INFO",
+  "max_width": 30
+ },
+ {
+  "offset": "0887FF2",
+  "en": "SCENERY 1",
+  "pt": "CENÁRIO 1",
+  "max_width": 57
+ },
+ {
+  "offset": "0887FFC",
+  "en": "SCENERY 2",
+  "pt": "CENÁRIO 2",
+  "max_width": 57
+ },
+ {
+  "offset": "0888006",
+  "en": "SCENERY 3",
+  "pt": "CENÁRIO 3",
+  "max_width": 57
+ },
+ {
+  "offset": "0888010",
+  "en": "ETCETERA",
+  "pt": "DIVERSOS",
+  "max_width": 54
+ },
+ {
+  "offset": "0888019",
+  "en": "FRIENDS",
+  "pt": "AMIGOS",
+  "max_width": 48
+ },
+ {
+  "offset": "0888021",
+  "en": "PLAINS",
+  "pt": "CAMPO",
+  "max_width": 42
+ },
+ {
+  "offset": "0888028",
+  "en": "NEW DONK",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "0888031",
+  "en": "DESERT",
+  "pt": "DESERTO",
+  "max_width": 42
+ },
+ {
+  "offset": "0888038",
+  "en": "JUNGLE",
+  "pt": "SELVA",
+  "max_width": 42
+ },
+ {
+  "offset": "088803F",
+  "en": "CAVE WATER",
+  "pt": "GRUTA ÁGUA",
+  "max_width": 63
+ },
+ {
+  "offset": "088804A",
+  "en": "BOWSER's CASTLE",
+  "pt": "CASTELO DO BOWSER",
+  "max_width": 108
+ },
+ {
+  "offset": "088805A",
+  "en": "SNOW",
+  "pt": "NEVE",
+  "max_width": 30
+ },
+ {
+  "offset": "088805F",
+  "en": "CAVE",
+  "pt": "GRUTA",
+  "max_width": 30
+ },
+ {
+  "offset": "0888064",
+  "en": "BEACH",
+  "pt": "PRAIA",
+  "max_width": 36
+ },
+ {
+  "offset": "088806A",
+  "en": "SEA FLOOR",
+  "pt": "MAR FUNDO",
+  "max_width": 57
+ },
+ {
+  "offset": "0888074",
+  "en": "RIVER",
+  "pt": "RIO",
+  "max_width": 36
+ },
+ {
+  "offset": "088807A",
+  "en": "SKY",
+  "pt": "CÉU",
+  "max_width": 24
+ },
+ {
+  "offset": "088807E",
+  "en": "POLKA DOT",
+  "pt": "BOLINHAS",
+  "max_width": 57
+ },
+ {
+  "offset": "0888088",
+  "en": "POKéCENTER",
+  "pt": "CENTRO CAPTURA",
+  "max_width": 84
+ },
+ {
+  "offset": "0888093",
+  "en": "MACHINE",
+  "pt": "MÁQUINA",
+  "max_width": 48
+ },
+ {
+  "offset": "088809B",
+  "en": "SIMPLE",
+  "pt": "SIMPLES",
+  "max_width": 42
+ },
+ {
+  "offset": "08880BD",
+  "en": "WITHDRAW CAPTURE",
+  "pt": "RETIRAR CAPTURA",
+  "max_width": 99
+ },
+ {
+  "offset": "08880CE",
+  "en": "DEPOSIT CAPTURE",
+  "pt": "GUARDAR CAPTURA",
+  "max_width": 93
+ },
+ {
+  "offset": "08880DE",
+  "en": "MOVE CAPTURE",
+  "pt": "MOVER CAPTURA",
+  "max_width": 75
+ },
+ {
+  "offset": "08880EB",
+  "en": "MOVE ITEMS",
+  "pt": "MOVER ITENS",
+  "max_width": 63
+ },
+ {
+  "offset": "08880F6",
+  "en": "SEE YA!",
+  "pt": "TCHAU!",
+  "max_width": 43
+ },
+ {
+  "offset": "08880FE",
+  "en": "Move CAPTURES stored in BOXES to\\nyour party.",
+  "pt": "Mova CAPTURAS das CAIXAS para\\na sua equipe.",
+  "max_lines": 2,
+  "max_width": 184
+ },
+ {
+  "offset": "088812B",
+  "en": "Store CAPTURES in your party in BOXES.",
+  "pt": "Guarde CAPTURAS da equipe nas CAIXAS."
+ },
+ {
+  "offset": "0888152",
+  "en": "Organize the CAPTURES in BOXES and\\nin your party.",
+  "pt": "Organize as CAPTURAS nas CAIXAS e\\nna sua equipe.",
+  "max_lines": 2,
+  "max_width": 194
+ },
+ {
+  "offset": "0888184",
+  "en": "Move items held by any CAPTURES\\nin a BOX or your party.",
+  "pt": "Mova os itens das CAPTURAS de\\numa CAIXA ou da sua equipe.",
+  "max_lines": 2,
+  "max_width": 177
+ },
+ {
+  "offset": "08881BC",
+  "en": "Return to the previous menu.",
+  "pt": "Voltar ao menu anterior.",
+  "max_width": 173
+ },
+ {
+  "offset": "08881D9",
+  "en": "There is just one CAPTURE with you.",
+  "pt": "Só há uma CAPTURA com você."
+ },
+ {
+  "offset": "08881FD",
+  "en": "Your party is full!",
+  "pt": "Sua equipe está cheia!",
+  "max_width": 119
+ },
+ {
+  "offset": "0888211",
+  "en": "BOX",
+  "pt": "CX.",
+  "max_width": 24
+ },
+ {
+  "offset": "0888215",
+  "en": "CPT BOX",
+  "pt": "CAIXA",
+  "max_width": 45
+ },
+ {
+  "offset": "088821D",
+  "en": "Check the map of the HOENN region.",
+  "pt": "Veja o mapa da região de HOENN."
+ },
+ {
+  "offset": "0888240",
+  "en": "Check CAPTURES in detail.",
+  "pt": "Veja detalhes das CAPTURAS.",
+  "max_width": 156
+ },
+ {
+  "offset": "088825A",
+  "en": "Call a registered TRAINER.",
+  "pt": "Ligue para um TREINADOR.",
+  "max_width": 160
+ },
+ {
+  "offset": "0888275",
+  "en": "Check obtained RIBBONS.",
+  "pt": "Veja as FITAS obtidas.",
+  "max_width": 151
+ },
+ {
+  "offset": "088828D",
+  "en": "Put away the POKéNAV.",
+  "pt": "Guardar o POKéNAV.",
+  "max_width": 138
+ },
+ {
+  "offset": "08882A3",
+  "en": "There are no RIBBON winners.",
+  "pt": "Não há vencedores de FITAS.",
+  "max_width": 172
+ },
+ {
+  "offset": "08882DC",
+  "en": "Check party CAPTURE in detail.",
+  "pt": "Veja detalhes da CAPTURA da equipe."
+ },
+ {
+  "offset": "08882FB",
+  "en": "Check all CAPTURES in detail.",
+  "pt": "Veja detalhes de cada CAPTURA.",
+  "max_width": 173
+ },
+ {
+  "offset": "0888319",
+  "en": "Return to the POKéNAV menu.",
+  "pt": "Voltar ao menu do POKéNAV.",
+  "max_width": 170
+ },
+ {
+  "offset": "0888335",
+  "en": "Find cool POKéMON.",
+  "pt": "CAPTURAS estilosas.",
+  "max_width": 119
+ },
+ {
+  "offset": "0888348",
+  "en": "Find beautiful POKéMON.",
+  "pt": "CAPTURAS belas.",
+  "max_width": 147
+ },
+ {
+  "offset": "0888360",
+  "en": "Find cute POKéMON.",
+  "pt": "CAPTURAS fofas.",
+  "max_width": 121
+ },
+ {
+  "offset": "0888373",
+  "en": "Find smart POKéMON.",
+  "pt": "CAPTURAS inteligentes.",
+  "max_width": 126
+ },
+ {
+  "offset": "0888387",
+  "en": "Find tough POKéMON.",
+  "pt": "CAPTURAS fortes.",
+  "max_width": 127
+ },
+ {
+  "offset": "088839B",
+  "en": "Return to the CONDITION menu.",
+  "pt": "Voltar ao menu de CONDIÇÃO."
+ },
+ {
+  "offset": "08883B9",
+  "en": "No. registered",
+  "pt": "Registrados",
+  "max_width": 98
+ },
+ {
+  "offset": "08883C8",
+  "en": "No. of battles",
+  "pt": "Batalhas",
+  "max_width": 97
+ },
+ {
+  "offset": "0888402",
+  "en": "STRATEGY",
+  "pt": "TÁTICA",
+  "max_width": 54
+ },
+ {
+  "offset": "088840B",
+  "en": "TRAINER'S POKéMON",
+  "pt": "EQUIPE DO TREINADOR",
+  "max_width": 120
+ },
+ {
+  "offset": "088841D",
+  "en": "SELF-INTRODUCTION",
+  "pt": "APRESENTAÇÃO",
+  "max_width": 126
+ },
+ {
+  "offset": "0888433",
+  "en": "{F8 00}ZOOM {F8 01}CANCEL",
+  "pt": "{F8 00}ZOOM {F8 01}VOLTAR",
+  "max_width": 93
+ },
+ {
+  "offset": "0888443",
+  "en": "{F8 00}FULL {F8 01}CANCEL",
+  "pt": "{F8 00}TUDO {F8 01}VOLTAR",
+  "max_width": 93
+ },
+ {
+  "offset": "0888453",
+  "en": "{F8 00}CONDITION {F8 01}CANCEL",
+  "pt": "{F8 00}CONDIÇÃO {F8 01}VOLTAR",
+  "max_width": 123
+ },
+ {
+  "offset": "0888468",
+  "en": "{F8 00}MARKINGS {F8 01}CANCEL",
+  "pt": "{F8 00}MARCAS {F8 01}VOLTAR",
+  "max_width": 117
+ },
+ {
+  "offset": "088847C",
+  "en": "{F8 00}SELECT MARK {F8 01}CANCEL",
+  "pt": "{F8 00}MARCAR {F8 01}VOLTAR",
+  "max_width": 150
+ },
+ {
+  "offset": "0888493",
+  "en": "{F8 00}MENU {F8 01}CANCEL",
+  "pt": "{F8 00}MENU {F8 01}VOLTAR",
+  "max_width": 93
+ },
+ {
+  "offset": "08884A3",
+  "en": "{F8 00}OK {F8 01}CANCEL",
+  "pt": "{F8 00}OK {F8 01}VOLTAR",
+  "max_width": 81
+ },
+ {
+  "offset": "08884B1",
+  "en": "{F8 01}CANCEL",
+  "pt": "{F8 01}SAIR",
+  "max_width": 54
+ },
+ {
+  "offset": "08884BA",
+  "en": "{F8 00}RIBBONS {F8 01}CANCEL",
+  "pt": "{F8 00}FITAS {F8 01}VOLTAR",
+  "max_width": 111
+ },
+ {
+  "offset": "08884CD",
+  "en": "{F8 00}CHECK {F8 01}CANCEL",
+  "pt": "{F8 00}VER {F8 01}VOLTAR",
+  "max_width": 99
+ },
+ {
+  "offset": "08884DE",
+  "en": "{F8 01}CANCEL",
+  "pt": "{F8 01}SAIR",
+  "max_width": 54
+ },
+ {
+  "offset": "08884E7",
+  "en": "NATURE/",
+  "pt": "NATUR./",
+  "max_width": 48
+ },
+ {
+  "offset": "08884EF",
+  "en": "That TRAINER is close by.\\nTalk to the TRAINER in person!",
+  "pt": "Esse TREINADOR está por perto.\\nConverse pessoalmente!",
+  "max_lines": 2,
+  "max_width": 168
+ },
+ {
+  "offset": "0888528",
+  "en": "IN PARTY",
+  "pt": "NA EQUIPE",
+  "max_width": 51
+ },
+ {
+  "offset": "0888531",
+  "en": "No. ",
+  "pt": "Núm. ",
+  "max_width": 42
+ },
+ {
+  "offset": "0888569",
+  "en": "UNKNOWN",
+  "pt": "DESCONH.",
+  "max_width": 48
+ },
+ {
+  "offset": "0888571",
+  "en": "CALL",
+  "pt": "LIGAR",
+  "max_width": 30
+ },
+ {
+  "offset": "0888576",
+  "en": "CHECK",
+  "pt": "VER",
+  "max_width": 36
+ },
+ {
+  "offset": "088857C",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0888583",
+  "en": "No. {F7 00}",
+  "pt": "Núm. {F7 00}",
+  "max_width": 54
+ },
+ {
+  "offset": "088858A",
+  "en": "RIBBONS {F7 00}",
+  "pt": "FITAS {F7 00}",
+  "max_width": 63
+ },
+ {
+  "offset": "08885C6",
+  "en": "Combine four words or phrases",
+  "pt": "Combine quatro palavras ou frases"
+ },
+ {
+  "offset": "08885E4",
+  "en": "and make your profile.",
+  "pt": "e monte o seu perfil.",
+  "max_width": 138
+ },
+ {
+  "offset": "08885FB",
+  "en": "Combine six words or phrases",
+  "pt": "Combine seis palavras ou frases",
+  "max_width": 173
+ },
+ {
+  "offset": "0888618",
+  "en": "and make a message.",
+  "pt": "e crie uma mensagem.",
+  "max_width": 126
+ },
+ {
+  "offset": "088862C",
+  "en": "Find words that describe your",
+  "pt": "Ache palavras que descrevam"
+ },
+ {
+  "offset": "088864A",
+  "en": "feelings right now.",
+  "pt": "o que você sente agora.",
+  "max_width": 122
+ },
+ {
+  "offset": "0888671",
+  "en": "Combine nine words or phrases",
+  "pt": "Combine nove palavras ou frases"
+ },
+ {
+  "offset": "088868F",
+  "en": "and make a message.",
+  "pt": "e crie uma mensagem.",
+  "max_width": 126
+ },
+ {
+  "offset": "08886A3",
+  "en": "Change just one word or phrase",
+  "pt": "Mude só uma palavra ou frase"
+ },
+ {
+  "offset": "08886C2",
+  "en": "and improve the BARD's song.",
+  "pt": "e melhore a canção do BARDO.",
+  "max_width": 171
+ },
+ {
+  "offset": "08886DF",
+  "en": "Your profile",
+  "pt": "Seu perfil",
+  "max_width": 87
+ },
+ {
+  "offset": "08886EC",
+  "en": "Your feeling at the battle's start",
+  "pt": "Seu ânimo no início da batalha"
+ },
+ {
+  "offset": "088870F",
+  "en": "What you say if you win a battle",
+  "pt": "O que você diz ao vencer"
+ },
+ {
+  "offset": "0888730",
+  "en": "What you say if you lose a battle",
+  "pt": "O que você diz ao perder"
+ },
+ {
+  "offset": "0888752",
+  "en": "The answer",
+  "pt": "A resposta",
+  "max_width": 80
+ },
+ {
+  "offset": "088875D",
+  "en": "The MAIL message",
+  "pt": "A mensagem da CARTA",
+  "max_width": 114
+ },
+ {
+  "offset": "0888782",
+  "en": "The new song",
+  "pt": "A nova canção",
+  "max_width": 90
+ },
+ {
+  "offset": "088878F",
+  "en": "Combine two words or phrases",
+  "pt": "Combine duas palavras ou frases"
+ },
+ {
+  "offset": "08887AC",
+  "en": "and make a trendy saying.",
+  "pt": "e crie uma frase da moda.",
+  "max_width": 156
+ },
+ {
+  "offset": "08887C6",
+  "en": "The trendy saying",
+  "pt": "A frase da moda",
+  "max_width": 117
+ },
+ {
+  "offset": "08887D8",
+  "en": "is as shown. Okay?",
+  "pt": "é esta. Tudo bem?",
+  "max_width": 118
+ },
+ {
+  "offset": "08887EB",
+  "en": "Combine two words or phrases",
+  "pt": "Combine duas palavras ou frases"
+ },
+ {
+  "offset": "0888808",
+  "en": "to teach her a good saying.",
+  "pt": "e ensine um bom ditado a ela.",
+  "max_width": 165
+ },
+ {
+  "offset": "0888824",
+  "en": "Find words which fit",
+  "pt": "Ache palavras que casem",
+  "max_width": 128
+ },
+ {
+  "offset": "0888839",
+  "en": "the TRAINER's image.",
+  "pt": "com a cara do TREINADOR.",
+  "max_width": 130
+ },
+ {
+  "offset": "088884E",
+  "en": "The image:",
+  "pt": "A imagem:",
+  "max_width": 76
+ },
+ {
+  "offset": "0888859",
+  "en": "Out of the listed choices,",
+  "pt": "Das opções listadas,",
+  "max_width": 159
+ },
+ {
+  "offset": "0888874",
+  "en": "select the answer to the quiz!",
+  "pt": "escolha a resposta do quiz!"
+ },
+ {
+  "offset": "0888893",
+  "en": "and create a quiz!",
+  "pt": "e crie um quiz!",
+  "max_width": 118
+ },
+ {
+  "offset": "08888A6",
+  "en": "Pick a word or phrase and",
+  "pt": "Escolha uma palavra ou frase",
+  "max_width": 154
+ },
+ {
+  "offset": "08888C0",
+  "en": "set the quiz answer.",
+  "pt": "como resposta do quiz.",
+  "max_width": 129
+ },
+ {
+  "offset": "08888D5",
+  "en": "The answer:",
+  "pt": "Resposta:",
+  "max_width": 83
+ },
+ {
+  "offset": "08888EB",
+  "en": "Apprentice's phrase:",
+  "pt": "Frase do aprendiz:",
+  "max_width": 131
+ },
+ {
+  "offset": "0888900",
+  "en": "Quit editing?",
+  "pt": "Parar de editar?",
+  "max_width": 93
+ },
+ {
+  "offset": "088890E",
+  "en": "Stop giving the POKéMON MAIL?",
+  "pt": "Parar de dar a CARTA à CAPTURA?"
+ },
+ {
+  "offset": "088892C",
+  "en": "and fill out the questionnaire.",
+  "pt": "e preencha o questionário."
+ },
+ {
+  "offset": "088894C",
+  "en": "Let's reply to the interview!",
+  "pt": "Vamos responder à entrevista!",
+  "max_width": 173
+ },
+ {
+  "offset": "088896A",
+  "en": "All the text being edited will",
+  "pt": "Todo o texto em edição será"
+ },
+ {
+  "offset": "0888989",
+  "en": "be deleted. Is that okay?",
+  "pt": "apagado. Tudo bem?",
+  "max_width": 157
+ },
+ {
+  "offset": "0888A23",
+  "en": "Only one phrase may be changed.",
+  "pt": "Só uma frase pode ser mudada."
+ },
+ {
+  "offset": "0888A43",
+  "en": "The original song will be used.",
+  "pt": "A canção original será usada."
+ },
+ {
+  "offset": "0888A7A",
+  "en": "Combine two words or phrases.",
+  "pt": "Combine duas palavras ou frases."
+ },
+ {
+  "offset": "0888B04",
+  "en": "PROFILE",
+  "pt": "PERFIL",
+  "max_width": 48
+ },
+ {
+  "offset": "0888B0C",
+  "en": "At the battle's start:",
+  "pt": "No início da batalha:",
+  "max_width": 138
+ },
+ {
+  "offset": "0888B23",
+  "en": "Upon winning a battle:",
+  "pt": "Ao vencer uma batalha:",
+  "max_width": 138
+ },
+ {
+  "offset": "0888B3A",
+  "en": "Upon losing a battle:",
+  "pt": "Ao perder uma batalha:",
+  "max_width": 132
+ },
+ {
+  "offset": "0888B50",
+  "en": "The BARD's Song",
+  "pt": "A canção do BARDO",
+  "max_width": 105
+ },
+ {
+  "offset": "0888B60",
+  "en": "What's hip and happening?",
+  "pt": "O que está na moda?",
+  "max_width": 158
+ },
+ {
+  "offset": "0888B7A",
+  "en": "Interview",
+  "pt": "Entrevista",
+  "max_width": 75
+ },
+ {
+  "offset": "0888B84",
+  "en": "Good saying",
+  "pt": "Bom ditado",
+  "max_width": 85
+ },
+ {
+  "offset": "0888B90",
+  "en": "Fan's question",
+  "pt": "Pergunta do fã",
+  "max_width": 100
+ },
+ {
+  "offset": "0888BAA",
+  "en": "Apprentice's phrase",
+  "pt": "Frase do aprendiz",
+  "max_width": 128
+ },
+ {
+  "offset": "0888BBE",
+  "en": "QUESTIONNAIRE",
+  "pt": "QUESTIONÁRIO",
+  "max_width": 84
+ },
+ {
+  "offset": "0888BCC",
+  "en": "You cannot quit here.",
+  "pt": "Não dá para sair aqui.",
+  "max_width": 135
+ },
+ {
+  "offset": "0888BE2",
+  "en": "This section must be completed.",
+  "pt": "Esta seção precisa ser preenchida."
+ },
+ {
+  "offset": "0888C02",
+  "en": "{F7 00}'s quiz",
+  "pt": "Quiz de {F7 00}",
+  "max_width": 70
+ },
+ {
+  "offset": "0888C0C",
+  "en": "Lady",
+  "pt": "Dama",
+  "max_width": 48
+ },
+ {
+  "offset": "0888C11",
+  "en": "After you have read the quiz",
+  "pt": "Depois de ler a pergunta",
+  "max_width": 173
+ },
+ {
+  "offset": "0888C2E",
+  "en": "question, press the A Button.",
+  "pt": "do quiz, aperte o Botão A."
+ },
+ {
+  "offset": "0888C4C",
+  "en": "The quiz answer is?",
+  "pt": "Qual é a resposta?",
+  "max_width": 124
+ },
+ {
+  "offset": "0888C60",
+  "en": "Would you like to quit this quiz",
+  "pt": "Quer desistir deste desafio"
+ },
+ {
+  "offset": "0888C81",
+  "en": "challenge?",
+  "pt": "de quiz?",
+  "max_width": 80
+ },
+ {
+  "offset": "0888C8C",
+  "en": "Is this quiz OK?",
+  "pt": "Esse quiz está OK?",
+  "max_width": 107
+ },
+ {
+  "offset": "0888C9D",
+  "en": "Create a quiz!",
+  "pt": "Crie um quiz!",
+  "max_width": 97
+ },
+ {
+  "offset": "0888CAC",
+  "en": "Select the answer!",
+  "pt": "Escolha a resposta!",
+  "max_width": 121
+ },
+ {
+  "offset": "0888CBF",
+  "en": "The lyrics can't be deleted.",
+  "pt": "A letra não pode ser apagada.",
+  "max_width": 167
+ },
+ {
+  "offset": "0888CDC",
+  "en": "DOWNTOWN",
+  "pt": "CENTRO",
+  "max_width": 54
+ },
+ {
+  "offset": "0888CE5",
+  "en": "SUBURBS",
+  "pt": "SUBÚRBIO",
+  "max_width": 48
+ },
+ {
+  "offset": "0888CFC",
+  "en": "Coolness ",
+  "pt": "Estilo ",
+  "max_width": 73
+ },
+ {
+  "offset": "0888D06",
+  "en": "Beauty ",
+  "pt": "Beleza ",
+  "max_width": 63
+ },
+ {
+  "offset": "0888D0E",
+  "en": "Cuteness ",
+  "pt": "Fofura ",
+  "max_width": 75
+ },
+ {
+  "offset": "0888D18",
+  "en": "Smartness ",
+  "pt": "Inteligência ",
+  "max_width": 80
+ },
+ {
+  "offset": "0888D23",
+  "en": "Toughness ",
+  "pt": "Garra ",
+  "max_width": 81
+ },
+ {
+  "offset": "0888D2E",
+  "en": "was enhanced!",
+  "pt": "aumentou!",
+  "max_width": 97
+ },
+ {
+  "offset": "0888D3C",
+  "en": "Nothing changed!",
+  "pt": "Nada mudou!",
+  "max_width": 113
+ },
+ {
+  "offset": "0888D4D",
+  "en": "It won't eat anymore…",
+  "pt": "Não quer comer mais…",
+  "max_width": 137
+ },
+ {
+  "offset": "0888D63",
+  "en": "Save failed. Checking the backup\\nmemory… Please wait.\\n{COLOR 04}“Time required: about 1 minute”",
+  "pt": "Falha ao salvar. Verificando a\\nmemória de backup… Aguarde.\\n{COLOR 04}“Duração: cerca de 1 minuto”",
+  "max_lines": 3,
+  "max_width": 181
+ },
+ {
+  "offset": "0888DBC",
+  "en": "The backup memory is damaged, or\\nthe internal battery has run dry.\\nYou can still play, but not save.",
+  "pt": "A memória de backup está com\\ndefeito ou a bateria acabou.\\nVocê pode jogar, mas não salvar.",
+  "max_lines": 3,
+  "max_width": 182
+ },
+ {
+  "offset": "0888E21",
+  "en": "{COLOR 04}“Game play cannot be continued.\\nReturning to the title screen…”",
+  "pt": "{COLOR 04}“O jogo não pode continuar.\\nVoltando à tela de título…”",
+  "max_lines": 2,
+  "max_width": 177
+ },
+ {
+  "offset": "0888E64",
+  "en": "Check completed.\\nAttempting to save again.\\nPlease wait.",
+  "pt": "Verificação concluída.\\nTentando salvar de novo.\\nAguarde.",
+  "max_lines": 3,
+  "max_width": 144
+ },
+ {
+  "offset": "0888E9C",
+  "en": "Save completed.\\n{COLOR 04}“Game play cannot be continued.\\nReturning to the title screen.”",
+  "pt": "Jogo salvo.\\n{COLOR 04}“O jogo não pode continuar.\\nVoltando à tela de título.”",
+  "max_lines": 3,
+  "max_width": 177
+ },
+ {
+  "offset": "0888EEF",
+  "en": "Save completed.\\n{COLOR 04}“Please press the A Button.”",
+  "pt": "Jogo salvo.\\n{COLOR 04}“Aperte o Botão A.”",
+  "max_lines": 2,
+  "max_width": 160
+ },
+ {
+  "offset": "0888F1F",
+  "en": "FERRY",
+  "pt": "BALSA",
+  "max_width": 36
+ },
+ {
+  "offset": "0888F25",
+  "en": "SECRET BASE",
+  "pt": "BASE SECRETA",
+  "max_width": 69
+ },
+ {
+  "offset": "0888F31",
+  "en": "HIDEOUT",
+  "pt": "REFÚGIO",
+  "max_width": 48
+ },
+ {
+  "offset": "0888F39",
+  "en": "Reset RTC?\\nA: Confirm, B: Cancel",
+  "pt": "Zerar o RTC?\\nA: OK, B: Cancelar",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "0888F5A",
+  "en": "Present time in game",
+  "pt": "Hora atual no jogo",
+  "max_width": 130
+ },
+ {
+  "offset": "0888F6F",
+  "en": "Previous time in game",
+  "pt": "Hora anterior no jogo",
+  "max_width": 134
+ },
+ {
+  "offset": "0888F85",
+  "en": "Please reset the time.",
+  "pt": "Por favor, acerte a hora.",
+  "max_width": 139
+ },
+ {
+  "offset": "0888F9C",
+  "en": "The clock has been reset.\\nData will be saved. Please wait.",
+  "pt": "O relógio foi zerado.\\nO jogo será salvo. Aguarde.",
+  "max_lines": 2,
+  "max_width": 171
+ },
+ {
+  "offset": "0888FD7",
+  "en": "Save completed.",
+  "pt": "Jogo salvo.",
+  "max_width": 106
+ },
+ {
+  "offset": "0888FE7",
+  "en": "Save failed…",
+  "pt": "Falha ao salvar…",
+  "max_width": 89
+ },
+ {
+  "offset": "0888FF4",
+  "en": "There is no save file, so the time\\ncan't be set.",
+  "pt": "Não há arquivo salvo, então não dá\\npara acertar a hora.",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "0889025",
+  "en": "The in-game clock adjustment system\\nis now useable.",
+  "pt": "O sistema de ajuste do relógio\\nagora pode ser usado.",
+  "max_lines": 2,
+  "max_width": 203
+ },
+ {
+  "offset": "0889059",
+  "en": "SLOTS",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088905F",
+  "en": "ROULETTE",
+  "pt": "ROLETA",
+  "max_width": 54
+ },
+ {
+  "offset": "0889068",
+  "en": "Good",
+  "pt": "Bom",
+  "max_width": 48
+ },
+ {
+  "offset": "088906D",
+  "en": "Very good",
+  "pt": "Muito bom",
+  "max_width": 74
+ },
+ {
+  "offset": "0889077",
+  "en": "Excellent",
+  "pt": "Excelente",
+  "max_width": 74
+ },
+ {
+  "offset": "0889081",
+  "en": "So-so",
+  "pt": "Razoável",
+  "max_width": 54
+ },
+ {
+  "offset": "0889087",
+  "en": "Bad",
+  "pt": "Ruim",
+  "max_width": 42
+ },
+ {
+  "offset": "088908B",
+  "en": "The worst",
+  "pt": "Péssimo",
+  "max_width": 74
+ },
+ {
+  "offset": "0889095",
+  "en": "spicy",
+  "pt": "picante",
+  "max_width": 52
+ },
+ {
+  "offset": "088909B",
+  "en": "dry",
+  "pt": "seco",
+  "max_width": 41
+ },
+ {
+  "offset": "088909F",
+  "en": "sweet",
+  "pt": "doce",
+  "max_width": 54
+ },
+ {
+  "offset": "08890A5",
+  "en": "bitter",
+  "pt": "amargo",
+  "max_width": 57
+ },
+ {
+  "offset": "08890AC",
+  "en": "sour",
+  "pt": "azedo",
+  "max_width": 47
+ },
+ {
+  "offset": "08890B1",
+  "en": "SINGLE",
+  "pt": "INDIV.",
+  "max_width": 42
+ },
+ {
+  "offset": "08890B8",
+  "en": "DOUBLE",
+  "pt": "DUPLA",
+  "max_width": 42
+ },
+ {
+  "offset": "08890BF",
+  "en": "jackpot",
+  "pt": "bolada",
+  "max_width": 65
+ },
+ {
+  "offset": "08890C7",
+  "en": "first",
+  "pt": "primeiro",
+  "max_width": 51
+ },
+ {
+  "offset": "08890CD",
+  "en": "second",
+  "pt": "segundo",
+  "max_width": 60
+ },
+ {
+  "offset": "08890D4",
+  "en": "third",
+  "pt": "terceiro",
+  "max_width": 51
+ },
+ {
+  "offset": "08890DA",
+  "en": "0 pts",
+  "pt": "",
+  "max_width": 51
+ },
+ {
+  "offset": "08890E0",
+  "en": "10 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "08890E7",
+  "en": "20 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "08890EE",
+  "en": "30 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "08890F5",
+  "en": "40 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "08890FC",
+  "en": "50 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "0889103",
+  "en": "60 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "088910A",
+  "en": "70 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "0889111",
+  "en": "80 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "0889118",
+  "en": "90 pts",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "0889129",
+  "en": "KISS POSTER{CLEAR_TO 5E}16BP",
+  "pt": "PÔSTER KISS{CLEAR_TO 5E}16PB",
+  "max_width": 93
+ },
+ {
+  "offset": "088913C",
+  "en": "KISS CUSHION{CLEAR_TO 5E}32BP",
+  "pt": "ALMOFADA KISS{CLEAR_TO 5E}32PB",
+  "max_width": 99
+ },
+ {
+  "offset": "0889150",
+  "en": "SMOOCHUM DOLL{CLEAR_TO 5E}32BP",
+  "pt": "BON. SMOOCHUM{CLEAR_TO 5E}32PB",
+  "max_width": 123
+ },
+ {
+  "offset": "0889165",
+  "en": "TOGEPI DOLL{CLEAR_TO 5E}48BP",
+  "pt": "BON. TOGEPI{CLEAR_TO 5E}48PB",
+  "max_width": 93
+ },
+ {
+  "offset": "0889178",
+  "en": "MEOWTH DOLL{CLEAR_TO 5E}48BP",
+  "pt": "BON. MEOWTH{CLEAR_TO 5E}48PB",
+  "max_width": 93
+ },
+ {
+  "offset": "088918B",
+  "en": "CLEFAIRY DOLL{CLEAR_TO 5E}48BP",
+  "pt": "BON. CLEFAIRY{CLEAR_TO 5E}48PB",
+  "max_width": 123
+ },
+ {
+  "offset": "08891A0",
+  "en": "DITTO DOLL{CLEAR_TO 5E}48BP",
+  "pt": "BON. DITTO{CLEAR_TO 5E}48PB",
+  "max_width": 87
+ },
+ {
+  "offset": "08891B2",
+  "en": "CYNDAQUIL DOLL{CLEAR_TO 5E}80BP",
+  "pt": "BON. CYNDAQUIL{CLEAR_TO 5E}80PB",
+  "max_width": 129
+ },
+ {
+  "offset": "08891C8",
+  "en": "CHIKORITA DOLL{CLEAR_TO 5E}80BP",
+  "pt": "BON. CHIKORITA{CLEAR_TO 5E}80PB",
+  "max_width": 129
+ },
+ {
+  "offset": "08891DE",
+  "en": "TOTODILE DOLL{CLEAR_TO 5E}80BP",
+  "pt": "BON. TOTODILE{CLEAR_TO 5E}80PB",
+  "max_width": 123
+ },
+ {
+  "offset": "08891F3",
+  "en": "LAPRAS DOLL{CLEAR_TO 58}128BP",
+  "pt": "BON. LAPRAS{CLEAR_TO 58}128PB",
+  "max_width": 99
+ },
+ {
+  "offset": "0889207",
+  "en": "SNORLAX DOLL{CLEAR_TO 58}128BP",
+  "pt": "BON. SNORLAX{CLEAR_TO 58}128PB",
+  "max_width": 123
+ },
+ {
+  "offset": "088921C",
+  "en": "VENUSAUR DOLL{CLEAR_TO 58}256BP",
+  "pt": "BON. VENUSAUR{CLEAR_TO 58}256PB",
+  "max_width": 129
+ },
+ {
+  "offset": "0889232",
+  "en": "CHARIZARD DOLL{CLEAR_TO 58}256BP",
+  "pt": "BON. CHARIZARD{CLEAR_TO 58}256PB",
+  "max_width": 135
+ },
+ {
+  "offset": "0889249",
+  "en": "BLASTOISE DOLL{CLEAR_TO 58}256BP",
+  "pt": "BON. BLASTOISE{CLEAR_TO 58}256PB",
+  "max_width": 135
+ },
+ {
+  "offset": "0889260",
+  "en": "PROTEIN{CLEAR_TO 64}1BP",
+  "pt": "PROTEÍNA{CLEAR_TO 64}1PB",
+  "max_width": 66
+ },
+ {
+  "offset": "088926E",
+  "en": "CALCIUM{CLEAR_TO 64}1BP",
+  "pt": "CÁLCIO{CLEAR_TO 64}1PB",
+  "max_width": 66
+ },
+ {
+  "offset": "088927C",
+  "en": "IRON{CLEAR_TO 64}1BP",
+  "pt": "FERRO{CLEAR_TO 64}1PB",
+  "max_width": 48
+ },
+ {
+  "offset": "0889287",
+  "en": "ZINC{CLEAR_TO 64}1BP",
+  "pt": "ZINCO{CLEAR_TO 64}1PB",
+  "max_width": 48
+ },
+ {
+  "offset": "0889292",
+  "en": "CARBOS{CLEAR_TO 64}1BP",
+  "pt": "CARBOS{CLEAR_TO 64}1PB",
+  "max_width": 60
+ },
+ {
+  "offset": "088929F",
+  "en": "HP UP{CLEAR_TO 64}1BP",
+  "pt": "HP UP{CLEAR_TO 64}1PB",
+  "max_width": 51
+ },
+ {
+  "offset": "08892AB",
+  "en": "LEFTOVERS{CLEAR_TO 5E}48BP",
+  "pt": "RESTOS{CLEAR_TO 5E}48PB",
+  "max_width": 84
+ },
+ {
+  "offset": "08892BC",
+  "en": "WHITE HERB{CLEAR_TO 5E}48BP",
+  "pt": "ERVA BRANCA{CLEAR_TO 5E}48PB",
+  "max_width": 87
+ },
+ {
+  "offset": "08892CE",
+  "en": "QUICK CLAW{CLEAR_TO 5E}48BP",
+  "pt": "GARRA RÁP.{CLEAR_TO 5E}48PB",
+  "max_width": 87
+ },
+ {
+  "offset": "08892E0",
+  "en": "MENTAL HERB{CLEAR_TO 5E}48BP",
+  "pt": "ERVA MENTAL{CLEAR_TO 5E}48PB",
+  "max_width": 93
+ },
+ {
+  "offset": "08892F3",
+  "en": "BRIGHTPOWDER{CLEAR_TO 5E}64BP",
+  "pt": "PÓ BRILHANTE{CLEAR_TO 5E}64PB",
+  "max_width": 102
+ },
+ {
+  "offset": "0889307",
+  "en": "CHOICE BAND{CLEAR_TO 5E}64BP",
+  "pt": "FAIXA ESCOL.{CLEAR_TO 5E}64PB",
+  "max_width": 93
+ },
+ {
+  "offset": "088931A",
+  "en": "KING'S ROCK{CLEAR_TO 5E}64BP",
+  "pt": "PEDRA DO REI{CLEAR_TO 5E}64PB",
+  "max_width": 90
+ },
+ {
+  "offset": "088932D",
+  "en": "FOCUS BAND{CLEAR_TO 5E}64BP",
+  "pt": "FAIXA FOCO{CLEAR_TO 5E}64PB",
+  "max_width": 87
+ },
+ {
+  "offset": "088933F",
+  "en": "SCOPE LENS{CLEAR_TO 5E}64BP",
+  "pt": "LENTE MIRA{CLEAR_TO 5E}64PB",
+  "max_width": 87
+ },
+ {
+  "offset": "0889351",
+  "en": "SOFTBOILED{CLEAR_TO 4E}16BP",
+  "pt": "OVO COZIDO{CLEAR_TO 4E}16PB",
+  "max_width": 90
+ },
+ {
+  "offset": "0889363",
+  "en": "SEISMIC TOSS{CLEAR_TO 4E}24BP",
+  "pt": "ARREM. SÍSM.{CLEAR_TO 4E}24PB",
+  "max_width": 99
+ },
+ {
+  "offset": "0889377",
+  "en": "DREAM EATER{CLEAR_TO 4E}24BP",
+  "pt": "DEVORA-SON.{CLEAR_TO 4E}24PB",
+  "max_width": 93
+ },
+ {
+  "offset": "088938A",
+  "en": "MEGA PUNCH{CLEAR_TO 4E}24BP",
+  "pt": "MEGASSOCO{CLEAR_TO 4E}24PB",
+  "max_width": 87
+ },
+ {
+  "offset": "088939C",
+  "en": "MEGA KICK{CLEAR_TO 4E}48BP",
+  "pt": "MEGACHUTE{CLEAR_TO 4E}48PB",
+  "max_width": 81
+ },
+ {
+  "offset": "08893AD",
+  "en": "BODY SLAM{CLEAR_TO 4E}48BP",
+  "pt": "PANC. CORP.{CLEAR_TO 4E}48PB",
+  "max_width": 81
+ },
+ {
+  "offset": "08893BE",
+  "en": "ROCK SLIDE{CLEAR_TO 4E}48BP",
+  "pt": "DESL.PEDRAS{CLEAR_TO 4E}48PB",
+  "max_width": 87
+ },
+ {
+  "offset": "08893D0",
+  "en": "COUNTER{CLEAR_TO 4E}48BP",
+  "pt": "CONTRA{CLEAR_TO 4E}48PB",
+  "max_width": 72
+ },
+ {
+  "offset": "08893DF",
+  "en": "THUNDER WAVE{CLEAR_TO 4E}48BP",
+  "pt": "ONDA TROVÃO{CLEAR_TO 4E}48PB",
+  "max_width": 99
+ },
+ {
+  "offset": "08893F3",
+  "en": "SWORDS DANCE{CLEAR_TO 4E}48BP",
+  "pt": "DANÇA ESPADAS{CLEAR_TO 4E}48PB",
+  "max_width": 99
+ },
+ {
+  "offset": "0889407",
+  "en": "DEFENSE CURL{CLEAR_TO 4E}16BP",
+  "pt": "ENROLAR-SE{CLEAR_TO 4E}16PB",
+  "max_width": 99
+ },
+ {
+  "offset": "088941B",
+  "en": "SNORE{CLEAR_TO 4E}24BP",
+  "pt": "RONCO{CLEAR_TO 4E}24PB",
+  "max_width": 60
+ },
+ {
+  "offset": "0889428",
+  "en": "MUD-SLAP{CLEAR_TO 4E}24BP",
+  "pt": "TAPA LAMA{CLEAR_TO 4E}24PB",
+  "max_width": 78
+ },
+ {
+  "offset": "0889438",
+  "en": "SWIFT{CLEAR_TO 4E}24BP",
+  "pt": "AT.VEL.{CLEAR_TO 4E}24PB",
+  "max_width": 60
+ },
+ {
+  "offset": "0889445",
+  "en": "ICY WIND{CLEAR_TO 4E}24BP",
+  "pt": "V.CONGEL.{CLEAR_TO 4E}24PB",
+  "max_width": 75
+ },
+ {
+  "offset": "0889455",
+  "en": "ENDURE{CLEAR_TO 4E}48BP",
+  "pt": "AGUENT.{CLEAR_TO 4E}48PB",
+  "max_width": 66
+ },
+ {
+  "offset": "0889463",
+  "en": "PSYCH UP{CLEAR_TO 4E}48BP",
+  "pt": "SINTONIA{CLEAR_TO 4E}48PB",
+  "max_width": 75
+ },
+ {
+  "offset": "0889473",
+  "en": "ICE PUNCH{CLEAR_TO 4E}48BP",
+  "pt": "SOCO GELO{CLEAR_TO 4E}48PB",
+  "max_width": 81
+ },
+ {
+  "offset": "0889484",
+  "en": "THUNDERPUNCH{CLEAR_TO 4E}48BP",
+  "pt": "SOCO TROVOADA{CLEAR_TO 4E}48PB",
+  "max_width": 102
+ },
+ {
+  "offset": "0889498",
+  "en": "FIRE PUNCH{CLEAR_TO 4E}48BP",
+  "pt": "SOCO FOGO{CLEAR_TO 4E}48PB",
+  "max_width": 87
+ },
+ {
+  "offset": "08894AA",
+  "en": "{STR_VAR_1} survived the poisoning.\\nThe poison faded away!\\p",
+  "pt": "{STR_VAR_1} sobreviveu ao veneno.\\nO veneno passou!\\p"
+ },
+ {
+  "offset": "08894DD",
+  "en": "MARCO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "08894E3",
+  "en": "NAME: ",
+  "pt": "NOME: ",
+  "max_width": 36
+ },
+ {
+  "offset": "08894EA",
+  "en": "IDNo.",
+  "pt": "ID",
+  "max_width": 51
+ },
+ {
+  "offset": "08894F0",
+  "en": "MONEY",
+  "pt": "DINH.",
+  "max_width": 36
+ },
+ {
+  "offset": "08894F8",
+  "en": "TATTLEDEX",
+  "pt": "TATTLEDEX",
+  "max_width": 60
+ },
+ {
+  "offset": "088950D",
+  "en": "TIME",
+  "pt": "TEMPO",
+  "max_width": 30
+ },
+ {
+  "offset": "088951A",
+  "en": "{STR_VAR_1}'s STATS",
+  "pt": "DADOS DE {STR_VAR_1}",
+  "max_width": 108
+ },
+ {
+  "offset": "0889525",
+  "en": "HALL OF FAME DEBUT  ",
+  "pt": "ESTREIA HALL DA FAMA  ",
+  "max_width": 129
+ },
+ {
+  "offset": "088953A",
+  "en": "LINK BATTLES",
+  "pt": "BATALHAS LINK",
+  "max_width": 75
+ },
+ {
+  "offset": "0889547",
+  "en": "LINK CABLE BATTLES",
+  "pt": "BATALHAS POR CABO",
+  "max_width": 126
+ },
+ {
+  "offset": "088957D",
+  "en": "POKéMON TRADES",
+  "pt": "TROCA CAPTURAS",
+  "max_width": 105
+ },
+ {
+  "offset": "088958C",
+  "en": "CURRENT SWEET SCENT CHAIN",
+  "pt": "SEQUÊNCIA ATUAL DE AROMA DOCE",
+  "max_width": 165
+ },
+ {
+  "offset": "08895A6",
+  "en": "BERRY CRUSH",
+  "pt": "ESMAGA-FRUT.",
+  "max_width": 69
+ },
+ {
+  "offset": "08895B2",
+  "en": "Waiting for the other TRAINER to\\nfinish reading your TRAINER CARD.",
+  "pt": "Aguardando o outro TREINADOR\\nterminar de ler o seu CARTÃO.",
+  "max_lines": 2,
+  "max_width": 185
+ },
+ {
+  "offset": "08895F5",
+  "en": "{FONT 07}SHINY CAPTURES CAUGHT",
+  "pt": "{FONT 07}CAPTURAS SHINY PEGAS",
+  "max_width": 144
+ },
+ {
+  "offset": "0889617",
+  "en": "{FONT 07}DISCUSSED SUPER MARIO BROS. 3",
+  "pt": "{FONT 07}FALOU DE SUPER MARIO BROS. 3"
+ },
+ {
+  "offset": "0889638",
+  "en": "{FONT 07}DISCUSSED SUPER MARIO BROS. 3 {COLOR 00}{COLOR 04}TOO MANY TIMES",
+  "pt": "{FONT 07}FALOU DE SUPER MARIO BROS. 3 {COLOR 00}{COLOR 04}DEMAIS"
+ },
+ {
+  "offset": "088968B",
+  "en": "BATTLE TOWER",
+  "pt": "TORRE BAT.",
+  "max_width": 75
+ },
+ {
+  "offset": "0889698",
+  "en": "{FONT 07}SINGLES/{COLOR 04}{SHADOW 05}{STR_VAR_1}{COLOR 02}{SHADOW 03}  DOUBLES/{COLOR 04}{SHADOW 05}{STR_VAR_2}",
+  "pt": "{FONT 07}INDIV./{COLOR 04}{SHADOW 05}{STR_VAR_1}{COLOR 02}{SHADOW 03}  DUPLAS/{COLOR 04}{SHADOW 05}{STR_VAR_2}"
+ },
+ {
+  "offset": "08896C4",
+  "en": "{FONT 07}SINGLES/{COLOR 04}{SHADOW 05}{STR_VAR_3}{COLOR 02}{SHADOW 03}  DOUBLES/{COLOR 04}{SHADOW 05}{FD 0E}",
+  "pt": "{FONT 07}INDIV./{COLOR 04}{SHADOW 05}{STR_VAR_3}{COLOR 02}{SHADOW 03}  DUPLAS/{COLOR 04}{SHADOW 05}{FD 0E}"
+ },
+ {
+  "offset": "08896F0",
+  "en": "BATTLE TOWER",
+  "pt": "TORRE BAT.",
+  "max_width": 75
+ },
+ {
+  "offset": "08896FD",
+  "en": "BATTLE DOME",
+  "pt": "DOMO BAT.",
+  "max_width": 69
+ },
+ {
+  "offset": "0889709",
+  "en": "BATTLE PALACE",
+  "pt": "PALÁCIO BAT.",
+  "max_width": 81
+ },
+ {
+  "offset": "0889717",
+  "en": "BATTLE FACTORY",
+  "pt": "FÁBRICA BAT.",
+  "max_width": 87
+ },
+ {
+  "offset": "0889726",
+  "en": "{FONT 07}FACTORY",
+  "pt": "{FONT 07}FÁBRICA",
+  "max_width": 48
+ },
+ {
+  "offset": "0889731",
+  "en": "BATTLE ARENA",
+  "pt": "ARENA BAT.",
+  "max_width": 75
+ },
+ {
+  "offset": "088973E",
+  "en": "BATTLE PIKE",
+  "pt": "TRILHA BAT.",
+  "max_width": 69
+ },
+ {
+  "offset": "088974A",
+  "en": "PIT",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "0889750",
+  "en": "{STR_VAR_1} SINGLE",
+  "pt": "{STR_VAR_1} INDIV.",
+  "max_width": 87
+ },
+ {
+  "offset": "088975C",
+  "en": "{STR_VAR_1} DOUBLE",
+  "pt": "{STR_VAR_1} DUPLA",
+  "max_width": 87
+ },
+ {
+  "offset": "0889768",
+  "en": "{STR_VAR_1} MULTI",
+  "pt": "{STR_VAR_1} MÚLT.",
+  "max_width": 81
+ },
+ {
+  "offset": "0889774",
+  "en": "{STR_VAR_1} LINK",
+  "pt": "",
+  "max_width": 75
+ },
+ {
+  "offset": "088977F",
+  "en": "Give",
+  "pt": "Dar",
+  "max_width": 46
+ },
+ {
+  "offset": "0889784",
+  "en": "No need",
+  "pt": "Não precisa",
+  "max_width": 63
+ },
+ {
+  "offset": "08897A4",
+  "en": "Announcing the results!",
+  "pt": "Anunciando os resultados!",
+  "max_width": 149
+ },
+ {
+  "offset": "08897BC",
+  "en": "The preliminary results!",
+  "pt": "Os resultados preliminares!",
+  "max_width": 149
+ },
+ {
+  "offset": "08897D5",
+  "en": "Round 2 results!",
+  "pt": "Placar da rodada 2!",
+  "max_width": 109
+ },
+ {
+  "offset": "08897E6",
+  "en": "{STR_VAR_1}'s {STR_VAR_2} won!",
+  "pt": "{STR_VAR_2} de {STR_VAR_1} venceu!",
+  "max_width": 145
+ },
+ {
+  "offset": "08897F3",
+  "en": "Communication standby…",
+  "pt": "Aguardando comunicação…",
+  "max_width": 149
+ },
+ {
+  "offset": "0889828",
+  "en": "UPPER",
+  "pt": "ABC",
+  "max_width": 36
+ },
+ {
+  "offset": "088982E",
+  "en": "lower",
+  "pt": "abc",
+  "max_width": 51
+ },
+ {
+  "offset": "088983B",
+  "en": "SYMBOLS",
+  "pt": "SÍMBOLOS",
+  "max_width": 48
+ },
+ {
+  "offset": "0889843",
+  "en": "REGISTER",
+  "pt": "REGISTRAR",
+  "max_width": 54
+ },
+ {
+  "offset": "088984C",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "0889851",
+  "en": "Quit chatting?",
+  "pt": "Sair do chat?",
+  "max_width": 101
+ },
+ {
+  "offset": "0889860",
+  "en": "Register text where?",
+  "pt": "Registrar o texto onde?",
+  "max_width": 134
+ },
+ {
+  "offset": "0889875",
+  "en": "Register text here?",
+  "pt": "Registrar o texto aqui?",
+  "max_width": 128
+ },
+ {
+  "offset": "0889889",
+  "en": "Input text.",
+  "pt": "Digite o texto.",
+  "max_width": 84
+ },
+ {
+  "offset": "0889895",
+  "en": "{F7 00} joined the chat!",
+  "pt": "{F7 00} entrou no chat!",
+  "max_width": 124
+ },
+ {
+  "offset": "08898A9",
+  "en": "{F7 00} left the chat.",
+  "pt": "{F7 00} saiu do chat.",
+  "max_width": 112
+ },
+ {
+  "offset": "08898D4",
+  "en": "Exiting the chat…",
+  "pt": "Saindo do chat…",
+  "max_width": 116
+ },
+ {
+  "offset": "08898E6",
+  "en": "The LEADER, {F7 00}, has\\nleft, ending the chat.",
+  "pt": "O LÍDER, {F7 00}, saiu\\ne o chat acabou.",
+  "max_lines": 2,
+  "max_width": 123
+ },
+ {
+  "offset": "0889911",
+  "en": "The registered text has been changed.\\nIs it okay to save the game?",
+  "pt": "O texto registrado foi alterado.\\nPode salvar o jogo?",
+  "max_lines": 2,
+  "max_width": 208
+ },
+ {
+  "offset": "0889954",
+  "en": "There is already a saved file.\\nIs it okay to overwrite it?",
+  "pt": "Já existe um arquivo salvo. Tudo bem substituí-lo?",
+  "max_lines": 2,
+  "max_width": 162
+ },
+ {
+  "offset": "088998F",
+  "en": "SAVING…\\nDON'T TURN OFF THE POWER.",
+  "pt": "SALVANDO…\\nNÃO DESLIGUE O APARELHO.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "08899B1",
+  "en": "{F7 00} saved the game.",
+  "pt": "{F7 00} salvou o jogo.",
+  "max_width": 120
+ },
+ {
+  "offset": "08899C4",
+  "en": "If the LEADER leaves, the chat\\nwill end. Is that okay?",
+  "pt": "Se o LÍDER sair, o chat\\nvai acabar. Tudo bem?",
+  "max_lines": 2,
+  "max_width": 170
+ },
+ {
+  "offset": "08899FB",
+  "en": "HELLO",
+  "pt": "OLÁ",
+  "max_width": 36
+ },
+ {
+  "offset": "0889A01",
+  "en": "CAPTURE",
+  "pt": "CAPTURA",
+  "max_width": 48
+ },
+ {
+  "offset": "0889A09",
+  "en": "TRADE",
+  "pt": "TROCA",
+  "max_width": 36
+ },
+ {
+  "offset": "0889A0F",
+  "en": "BATTLE",
+  "pt": "LUTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "0889A16",
+  "en": "LET'S",
+  "pt": "VAMOS",
+  "max_width": 33
+ },
+ {
+  "offset": "0889A1C",
+  "en": "OK!",
+  "pt": "",
+  "max_width": 22
+ },
+ {
+  "offset": "0889A20",
+  "en": "SORRY",
+  "pt": "PERDÃO",
+  "max_width": 36
+ },
+ {
+  "offset": "0889A26",
+  "en": "YAY{F9 F9}",
+  "pt": "EBA{F9 F9}",
+  "max_width": 36
+ },
+ {
+  "offset": "0889A2C",
+  "en": "THANK YOU",
+  "pt": "OBRIGADO",
+  "max_width": 57
+ },
+ {
+  "offset": "0889A36",
+  "en": "BYE-BYE!",
+  "pt": "TCHAU!",
+  "max_width": 52
+ },
+ {
+  "offset": "0889A3F",
+  "en": "Attack the weak points!",
+  "pt": "Ataque os pontos fracos!",
+  "max_width": 149
+ },
+ {
+  "offset": "0889A57",
+  "en": "Ultimate STEEL POKéMON.",
+  "pt": "CAPTURAS de AÇO supremas.",
+  "max_width": 149
+ },
+ {
+  "offset": "0889A6F",
+  "en": "I'd climb even waterfalls",
+  "pt": "Eu subiria até cachoeiras",
+  "max_width": 153
+ },
+ {
+  "offset": "0889A89",
+  "en": "to find a rare stone!",
+  "pt": "por uma pedra rara!",
+  "max_width": 132
+ },
+ {
+  "offset": "0889A9F",
+  "en": "I'm the strongest and most",
+  "pt": "Afinal, ninguém tem mais força",
+  "max_width": 164
+ },
+ {
+  "offset": "0889ABA",
+  "en": "energetic after all!",
+  "pt": "e energia do que eu!",
+  "max_width": 128
+ },
+ {
+  "offset": "0889ACF",
+  "en": "Battle with knowledge!",
+  "pt": "Lute com conhecimento!",
+  "max_width": 142
+ },
+ {
+  "offset": "0889AE6",
+  "en": "I will use various POKéMON.",
+  "pt": "Vou usar várias CAPTURAS.",
+  "max_width": 162
+ },
+ {
+  "offset": "0889B02",
+  "en": "I'll be a better POKéMON",
+  "pt": "Vou ser um prof. de CAPTURAS",
+  "max_width": 148
+ },
+ {
+  "offset": "0889B1B",
+  "en": "prof than my father is!",
+  "pt": "melhor que o meu pai!",
+  "max_width": 144
+ },
+ {
+  "offset": "0889B33",
+  "en": "I'm not so good at battles.",
+  "pt": "Batalhar não é o meu forte.",
+  "max_width": 163
+ },
+ {
+  "offset": "0889B4F",
+  "en": "I'll use any POKéMON!",
+  "pt": "Uso qualquer CAPTURA!",
+  "max_width": 132
+ },
+ {
+  "offset": "0889B65",
+  "en": "My POKéMON and I help",
+  "pt": "Eu e minhas CAPTURAS",
+  "max_width": 136
+ },
+ {
+  "offset": "0889B7B",
+  "en": "my father's research.",
+  "pt": "ajudamos o meu pai.",
+  "max_width": 135
+ },
+ {
+  "offset": "0889B91",
+  "en": "{STR_VAR_1} hatched from the EGG!",
+  "pt": "{STR_VAR_1} saiu do OVO!"
+ },
+ {
+  "offset": "0889BAA",
+  "en": "Would you like to nickname the newly\\nhatched {STR_VAR_1}?",
+  "pt": "Quer dar um apelido para\\n{STR_VAR_1}, que acabou de nascer?",
+  "max_lines": 2,
+  "max_width": 198
+ },
+ {
+  "offset": "0889BDC",
+  "en": "Are you ready to BERRY-CRUSH?\\nPlease pick a BERRY for use.\\p",
+  "pt": "Pronto para o ESMAGA-FRUTAS?\\nEscolha uma FRUTA para usar.\\p"
+ },
+ {
+  "offset": "0889C18",
+  "en": "Please wait while each member\\nchooses a BERRY.",
+  "pt": "Aguarde enquanto cada membro\\nescolhe uma FRUTA.",
+  "max_lines": 2,
+  "max_width": 163
+ },
+ {
+  "offset": "0889C48",
+  "en": "{PAUSE_MUSIC}{PLAY_BGM 6F 01}You ended up with {STR_VAR_1} units of\\nsilky-smooth BERRY POWDER.{RESUME_MUSIC}\\pYour total amount of BERRY POWDER\\nis {STR_VAR_2}.\\p",
+  "pt": "{PAUSE_MUSIC}{PLAY_BGM 6F 01}Você conseguiu {STR_VAR_1} unidades de\\nPÓ DE FRUTA bem fininho.{RESUME_MUSIC}\\pO seu total de PÓ DE FRUTA\\né {STR_VAR_2}.\\p"
+ },
+ {
+  "offset": "0889CB4",
+  "en": "Recording your game results in the\\nsave file.\\lPlease wait.",
+  "pt": "Gravando os resultados do jogo\\nno arquivo salvo.\\lAguarde.",
+  "max_lines": 3,
+  "max_width": 190
+ },
+ {
+  "offset": "0889CF0",
+  "en": "Want to play BERRY CRUSH again?",
+  "pt": "Quer jogar ESMAGA-FRUTAS de novo?"
+ },
+ {
+  "offset": "0889D10",
+  "en": "You have no BERRIES.\\nThe game will be canceled.",
+  "pt": "Você não tem FRUTAS.\\nO jogo será cancelado.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "0889D40",
+  "en": "A member dropped out.\\nThe game will be canceled.",
+  "pt": "Um membro saiu.\\nO jogo será cancelado.",
+  "max_lines": 2,
+  "max_width": 143
+ },
+ {
+  "offset": "0889D74",
+  "en": "Time's up.\\pGood BERRY POWDER could not be\\nmade…\\p",
+  "pt": "Acabou o tempo.\\pNão deu para fazer PÓ DE FRUTA\\nbom…\\p"
+ },
+ {
+  "offset": "0889DA8",
+  "en": "Communication standby…",
+  "pt": "Aguardando comunicação…",
+  "max_width": 149
+ },
+ {
+  "offset": "0889DD4",
+  "en": " time(s)",
+  "pt": " vez(es)",
+  "max_width": 63
+ },
+ {
+  "offset": "0889DE8",
+  "en": "{STR_VAR_1} BERRY",
+  "pt": "FRUTA {STR_VAR_1}",
+  "max_width": 81
+ },
+ {
+  "offset": "0889DF4",
+  "en": "Time:",
+  "pt": "Tempo:",
+  "max_width": 49
+ },
+ {
+  "offset": "0889DFC",
+  "en": "Pressing Speed:",
+  "pt": "Velocidade:",
+  "max_width": 105
+ },
+ {
+  "offset": "0889E0C",
+  "en": "Silkiness:",
+  "pt": "Maciez:",
+  "max_width": 75
+ },
+ {
+  "offset": "0889E1C",
+  "en": " min. ",
+  "pt": "",
+  "max_width": 49
+ },
+ {
+  "offset": "0889E2C",
+  "en": " sec.",
+  "pt": " seg.",
+  "max_width": 48
+ },
+ {
+  "offset": "0889E3C",
+  "en": " Times/sec.",
+  "pt": " vezes/seg.",
+  "max_width": 82
+ },
+ {
+  "offset": "0889E4C",
+  "en": "No. of Presses Rankings",
+  "pt": "Ranking de Apertos",
+  "max_width": 147
+ },
+ {
+  "offset": "0889E64",
+  "en": "Crushing Results",
+  "pt": "Resultados",
+  "max_width": 112
+ },
+ {
+  "offset": "0889E78",
+  "en": "Neatness Rankings",
+  "pt": "Ranking de Precisão",
+  "max_width": 121
+ },
+ {
+  "offset": "0889E8C",
+  "en": "Cooperative Rankings",
+  "pt": "Ranking de Cooperação",
+  "max_width": 136
+ },
+ {
+  "offset": "0889EA4",
+  "en": "Pressing-Power Rankings",
+  "pt": "Ranking de Força",
+  "max_width": 153
+ },
+ {
+  "offset": "0889EBC",
+  "en": "BERRY CRUSH",
+  "pt": "ESMAGA-FRUT.",
+  "max_width": 69
+ },
+ {
+  "offset": "0889EC8",
+  "en": "Pressing-Speed Rankings",
+  "pt": "Ranking de Velocidade",
+  "max_width": 154
+ },
+ {
+  "offset": "0889EE0",
+  "en": "{STR_VAR_1} PLAYERS",
+  "pt": "{STR_VAR_1} PESSOAS",
+  "max_width": 93
+ },
+ {
+  "offset": "0889EEB",
+  "en": "Symbols Earned",
+  "pt": "Símbolos obtidos",
+  "max_width": 102
+ },
+ {
+  "offset": "0889EFA",
+  "en": "Battle Record",
+  "pt": "Batalha Gravada",
+  "max_width": 96
+ },
+ {
+  "offset": "0889F08",
+  "en": "Battle Points",
+  "pt": "Pontos de Batalha",
+  "max_width": 95
+ },
+ {
+  "offset": "0889F1E",
+  "en": "Check BATTLE FRONTIER MAP.",
+  "pt": "Ver o mapa da FRONTEIRA.",
+  "max_width": 168
+ },
+ {
+  "offset": "0889F39",
+  "en": "Check TRAINER CARD.",
+  "pt": "Ver o seu CARTÃO.",
+  "max_width": 129
+ },
+ {
+  "offset": "0889F4D",
+  "en": "View recorded battle.",
+  "pt": "Ver batalha gravada.",
+  "max_width": 135
+ },
+ {
+  "offset": "0889F63",
+  "en": "Put away the FRONTIER PASS.",
+  "pt": "Guardar o PASSE DA FRONTEIRA.",
+  "max_width": 171
+ },
+ {
+  "offset": "0889F7F",
+  "en": "Your current Battle Points.",
+  "pt": "Seus Pontos de Batalha atuais.",
+  "max_width": 167
+ },
+ {
+  "offset": "0889F9B",
+  "en": "Your collected Symbols.",
+  "pt": "Seus Símbolos obtidos.",
+  "max_width": 146
+ },
+ {
+  "offset": "0889FB3",
+  "en": "Battle Tower - Ability Symbol",
+  "pt": "Símbolo da Habilidade da TORRE"
+ },
+ {
+  "offset": "0889FD1",
+  "en": "Battle Dome - Tactics Symbol",
+  "pt": "Símbolo da Tática do DOMO"
+ },
+ {
+  "offset": "0889FEE",
+  "en": "Battle Palace - Spirits Symbol",
+  "pt": "Símbolo do Espírito do PALÁCIO"
+ },
+ {
+  "offset": "088A00D",
+  "en": "Battle Arena - Guts Symbol",
+  "pt": "Símbolo da Garra da ARENA",
+  "max_width": 163
+ },
+ {
+  "offset": "088A028",
+  "en": "Battle Factory - Knowledge Symbol",
+  "pt": "Símbolo do Saber da FÁBRICA"
+ },
+ {
+  "offset": "088A04A",
+  "en": "Battle Pike - Luck Symbol",
+  "pt": "Símbolo da Sorte da TRILHA",
+  "max_width": 156
+ },
+ {
+  "offset": "088A064",
+  "en": "Battle Pyramid - Brave Symbol",
+  "pt": "Símbolo da Bravura da PIRÂMIDE"
+ },
+ {
+  "offset": "088A082",
+  "en": "There is no Battle Record.",
+  "pt": "Não há batalha gravada.",
+  "max_width": 159
+ },
+ {
+  "offset": "088A09D",
+  "en": "BATTLE TOWER",
+  "pt": "TORRE BAT.",
+  "max_width": 75
+ },
+ {
+  "offset": "088A0AA",
+  "en": "BATTLE DOME",
+  "pt": "DOMO BAT.",
+  "max_width": 69
+ },
+ {
+  "offset": "088A0B6",
+  "en": "BATTLE PALACE",
+  "pt": "PALÁCIO BAT.",
+  "max_width": 81
+ },
+ {
+  "offset": "088A0C4",
+  "en": "BATTLE ARENA",
+  "pt": "ARENA BAT.",
+  "max_width": 75
+ },
+ {
+  "offset": "088A0D1",
+  "en": "BATTLE FACTORY",
+  "pt": "FÁBRICA BAT.",
+  "max_width": 87
+ },
+ {
+  "offset": "088A0E0",
+  "en": "BATTLE PIKE",
+  "pt": "TRILHA BAT.",
+  "max_width": 69
+ },
+ {
+  "offset": "088A0EC",
+  "en": "PIT",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "088A0F0",
+  "en": "KO opponents and aim for the top!\\nYour ability will be tested.",
+  "pt": "Derrote todos e chegue ao topo!\\nSua habilidade será testada.",
+  "max_lines": 2,
+  "max_width": 185
+ },
+ {
+  "offset": "088A12F",
+  "en": "Keep winning at the tournament!\\nYour tactics will be tested.",
+  "pt": "Vença sem parar no torneio!\\nSuas táticas serão testadas.",
+  "max_lines": 2,
+  "max_width": 177
+ },
+ {
+  "offset": "088A16C",
+  "en": "Watch your POKéMON battle!\\nYour spirit will be tested.",
+  "pt": "Veja as CAPTURAS em ação!\\nSeu espírito será testado.",
+  "max_lines": 2,
+  "max_width": 152
+ },
+ {
+  "offset": "088A1A3",
+  "en": "Win battles with teamed-up POKéMON!\\nYour guts will be tested.",
+  "pt": "Vença com CAPTURAS em equipe!\\nSua garra será testada.",
+  "max_lines": 2,
+  "max_width": 200
+ },
+ {
+  "offset": "088A1E1",
+  "en": "Aim for victory using rental POKéMON!\\nYour knowledge will be tested.",
+  "pt": "Vença usando CAPTURAS de aluguel!\\nSeu saber será testado.",
+  "max_lines": 2,
+  "max_width": 204
+ },
+ {
+  "offset": "088A226",
+  "en": "Select one of three paths to battle!\\nYour luck will be tested.",
+  "pt": "Escolha um de três caminhos!\\nSua sorte será testada.",
+  "max_lines": 2,
+  "max_width": 201
+ },
+ {
+  "offset": "088A265",
+  "en": "Aim for the top with exploration!\\nYour bravery will be tested.",
+  "pt": "Chegue ao topo explorando!\\nSua bravura será testada.",
+  "max_lines": 2,
+  "max_width": 181
+ },
+ {
+  "offset": "088A2B0",
+  "en": "TATTLEDEX",
+  "pt": "TATTLEDEX",
+  "max_width": 60
+ },
+ {
+  "offset": "088A2C0",
+  "en": "POWDER",
+  "pt": "PÓ",
+  "max_width": 42
+ },
+ {
+  "offset": "088A2C7",
+  "en": "DODRIO BERRY-PICKING RECORDS",
+  "pt": "RECORDES DA COLHEITA DE FRUTAS DODRIO"
+ },
+ {
+  "offset": "088A2E4",
+  "en": "BERRIES picked:",
+  "pt": "FRUTAS colhidas:",
+  "max_width": 106
+ },
+ {
+  "offset": "088A2F4",
+  "en": "Best score:",
+  "pt": "Recorde:",
+  "max_width": 83
+ },
+ {
+  "offset": "088A300",
+  "en": "BERRIES picked in a row with\\nfive players:",
+  "pt": "FRUTAS colhidas em sequência\\ncom cinco jogadores:",
+  "max_lines": 2,
+  "max_width": 156
+ },
+ {
+  "offset": "088A32B",
+  "en": "Announcing BERRY-PICKING results!",
+  "pt": "Resultados da COLHEITA DE FRUTAS!"
+ },
+ {
+  "offset": "088A368",
+  "en": "Announcing rankings!",
+  "pt": "Anunciando o ranking!",
+  "max_width": 134
+ },
+ {
+  "offset": "088A37D",
+  "en": "Announcing prizes!",
+  "pt": "Anunciando os prêmios!",
+  "max_width": 122
+ },
+ {
+  "offset": "088A39F",
+  "en": "The first-place winner gets\\nthis {F7 00}!",
+  "pt": "Quem ficar em primeiro\\nganha {F7 00}!",
+  "max_lines": 2,
+  "max_width": 155
+ },
+ {
+  "offset": "088A3C4",
+  "en": "You can't hold any more!",
+  "pt": "Não dá para carregar mais!",
+  "max_width": 148
+ },
+ {
+  "offset": "088A3DD",
+  "en": "It filled its storage space.",
+  "pt": "O armazenamento lotou.",
+  "max_width": 168
+ },
+ {
+  "offset": "088A3FA",
+  "en": "Want to play again?",
+  "pt": "Quer jogar de novo?",
+  "max_width": 125
+ },
+ {
+  "offset": "088A40E",
+  "en": "Somebody dropped out.\\nThe link will be canceled.",
+  "pt": "Alguém saiu.\\nO link será cancelado.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "088A43F",
+  "en": " points",
+  "pt": " pontos",
+  "max_width": 61
+ },
+ {
+  "offset": "088A447",
+  "en": "Communication standby…",
+  "pt": "Aguardando comunicação…",
+  "max_width": 149
+ },
+ {
+  "offset": "088A45E",
+  "en": " points",
+  "pt": " pontos",
+  "max_width": 61
+ },
+ {
+  "offset": "088A466",
+  "en": " time(s)",
+  "pt": " vez(es)",
+  "max_width": 63
+ },
+ {
+  "offset": "088A46F",
+  "en": "POKéMON JUMP RECORDS",
+  "pt": "RECORDES DO PULO",
+  "max_width": 138
+ },
+ {
+  "offset": "088A484",
+  "en": "Jumps in a row:",
+  "pt": "Pulos seguidos:",
+  "max_width": 99
+ },
+ {
+  "offset": "088A494",
+  "en": "Best score:",
+  "pt": "Recorde:",
+  "max_width": 83
+ },
+ {
+  "offset": "088A4A0",
+  "en": "EXCELLENTS in a row:",
+  "pt": "EXCELENTES seguidos:",
+  "max_width": 129
+ },
+ {
+  "offset": "088A4B5",
+  "en": "Awesome score! You've\\nwon {F7 01} {F7 00}!",
+  "pt": "Placar incrível! Você\\nganhou {F7 01} {F7 00}!",
+  "max_lines": 2,
+  "max_width": 124
+ },
+ {
+  "offset": "088A4D6",
+  "en": "It filled its storage space.",
+  "pt": "O armazenamento lotou.",
+  "max_width": 168
+ },
+ {
+  "offset": "088A4F3",
+  "en": "You can't hold any more!",
+  "pt": "Não dá para carregar mais!",
+  "max_width": 148
+ },
+ {
+  "offset": "088A50C",
+  "en": "Want to play again?",
+  "pt": "Quer jogar de novo?",
+  "max_width": 125
+ },
+ {
+  "offset": "088A520",
+  "en": "Somebody dropped out.\\nThe link will be canceled.",
+  "pt": "Alguém saiu.\\nO link será cancelado.",
+  "max_lines": 2,
+  "max_width": 139
+ },
+ {
+  "offset": "088A551",
+  "en": "Communication standby…",
+  "pt": "Aguardando comunicação…",
+  "max_width": 149
+ },
+ {
+  "offset": "088A568",
+  "en": "{PLAYER}'s Link Contest Results",
+  "pt": "Resultados de Concurso Link de {PLAYER}"
+ },
+ {
+  "offset": "088A582",
+  "en": "1st",
+  "pt": "1º",
+  "max_width": 42
+ },
+ {
+  "offset": "088A586",
+  "en": "2nd",
+  "pt": "2º",
+  "max_width": 42
+ },
+ {
+  "offset": "088A58A",
+  "en": "3rd",
+  "pt": "3º",
+  "max_width": 41
+ },
+ {
+  "offset": "088A58E",
+  "en": "4th",
+  "pt": "4º",
+  "max_width": 42
+ },
+ {
+  "offset": "088A592",
+  "en": "Friend",
+  "pt": "Amigo",
+  "max_width": 57
+ },
+ {
+  "offset": "088A72D",
+  "en": "RED",
+  "pt": "",
+  "max_width": 24
+ },
+ {
+  "offset": "088A731",
+  "en": "BLUE",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088A73A",
+  "en": "{PLAYER}'s Single Battle Arena Results",
+  "pt": "Placar de {PLAYER}: Arena Individual"
+ },
+ {
+  "offset": "088A75B",
+  "en": "{PLAYER}'s Double Battle Arena Results",
+  "pt": "Placar de {PLAYER}: Arena Dupla"
+ },
+ {
+  "offset": "088A77C",
+  "en": "{PLAYER}'s Multi Battle Room Results",
+  "pt": "Placar de {PLAYER}: Sala Múltipla"
+ },
+ {
+  "offset": "088A79B",
+  "en": "{PLAYER}'s Link Multi Battle Room Results",
+  "pt": "Placar de {PLAYER}: Sala Múltipla Link"
+ },
+ {
+  "offset": "088A7BF",
+  "en": "{PLAYER}'s Single Battle Tourney Results",
+  "pt": "Placar de {PLAYER}: Torneio Individual"
+ },
+ {
+  "offset": "088A7E2",
+  "en": "{PLAYER}'s Double Battle Tourney Results",
+  "pt": "Placar de {PLAYER}: Torneio Duplo"
+ },
+ {
+  "offset": "088A805",
+  "en": "{PLAYER}'s Single Battle Hall Results",
+  "pt": "Placar de {PLAYER}: Salão Individual"
+ },
+ {
+  "offset": "088A825",
+  "en": "{PLAYER}'s Double Battle Hall Results",
+  "pt": "Placar de {PLAYER}: Salão Duplo"
+ },
+ {
+  "offset": "088A845",
+  "en": "{PLAYER}'s Battle Choice Results",
+  "pt": "Placar de {PLAYER}: Escolha de Batalha"
+ },
+ {
+  "offset": "088A860",
+  "en": "{PLAYER}'s Set KO Tourney Results",
+  "pt": "Placar de {PLAYER}: Torneio Nocaute"
+ },
+ {
+  "offset": "088A87C",
+  "en": "{PLAYER}'s Battle Swap Single Results",
+  "pt": "Placar de {PLAYER}: Troca Individual"
+ },
+ {
+  "offset": "088A89C",
+  "en": "{PLAYER}'s Battle Swap Double Results",
+  "pt": "Placar de {PLAYER}: Troca Dupla"
+ },
+ {
+  "offset": "088A8BC",
+  "en": "{PLAYER}'s Trials Results",
+  "pt": "Placar de {PLAYER}: Provas",
+  "max_width": 152
+ },
+ {
+  "offset": "088A8D0",
+  "en": "PIT STATS",
+  "pt": "DADOS PIT",
+  "max_width": 57
+ },
+ {
+  "offset": "088A8DA",
+  "en": "N/A",
+  "pt": "N/D",
+  "max_width": 24
+ },
+ {
+  "offset": "088A8DE",
+  "en": "GLITZ PIT",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "088A8E8",
+  "en": "{FONT 07}GLITZ PIT",
+  "pt": "",
+  "max_width": 57
+ },
+ {
+  "offset": "088A8F5",
+  "en": "FACTORY STATS",
+  "pt": "DADOS FÁBRICA",
+  "max_width": 81
+ },
+ {
+  "offset": "088A903",
+  "en": "Win streak: {STR_VAR_1}",
+  "pt": "Seq. vitórias: {STR_VAR_1}",
+  "max_width": 126
+ },
+ {
+  "offset": "088A912",
+  "en": "CURRENT",
+  "pt": "ATUAL",
+  "max_width": 48
+ },
+ {
+  "offset": "088A91A",
+  "en": "RECORD",
+  "pt": "RECORDE",
+  "max_width": 42
+ },
+ {
+  "offset": "088A921",
+  "en": "PREV.",
+  "pt": "ANT.",
+  "max_width": 33
+ },
+ {
+  "offset": "088A927",
+  "en": "Rental/Swap",
+  "pt": "Aluguel/Troca",
+  "max_width": 88
+ },
+ {
+  "offset": "088A933",
+  "en": "Total",
+  "pt": "Total",
+  "max_width": 52
+ },
+ {
+  "offset": "088A939",
+  "en": "Clear streak: {STR_VAR_1}",
+  "pt": "Seq. conclusões: {STR_VAR_1}",
+  "max_width": 137
+ },
+ {
+  "offset": "088A94A",
+  "en": "Championships: {STR_VAR_1}",
+  "pt": "Títulos: {STR_VAR_1}",
+  "max_width": 146
+ },
+ {
+  "offset": "088A95C",
+  "en": "Rooms cleared: {STR_VAR_1}",
+  "pt": "Salas vencidas: {STR_VAR_1}",
+  "max_width": 144
+ },
+ {
+  "offset": "088A96E",
+  "en": "Times cleared:{CLEAR 05}{STR_VAR_1}",
+  "pt": "Conclusões:{CLEAR 05}{STR_VAR_1}",
+  "max_width": 139
+ },
+ {
+  "offset": "088A982",
+  "en": "KOs in a row: {STR_VAR_1}",
+  "pt": "KOs seguidos: {STR_VAR_1}",
+  "max_width": 132
+ },
+ {
+  "offset": "088A993",
+  "en": "Times: {STR_VAR_1}",
+  "pt": "Vezes: {STR_VAR_1}",
+  "max_width": 100
+ },
+ {
+  "offset": "088A99D",
+  "en": "Floors cleared: {STR_VAR_1}",
+  "pt": "Andares vencidos: {STR_VAR_1}",
+  "max_width": 147
+ },
+ {
+  "offset": "088A9B8",
+  "en": "OPEN LEVEL",
+  "pt": "NÍVEL LIVRE",
+  "max_width": 63
+ },
+ {
+  "offset": "088A9C4",
+  "en": "Win streak: {STR_VAR_2}",
+  "pt": "Seq. vitórias: {STR_VAR_2}",
+  "max_width": 126
+ },
+ {
+  "offset": "088A9D4",
+  "en": "Clear streak: {STR_VAR_2}",
+  "pt": "Seq. conclusões: {STR_VAR_2}",
+  "max_width": 137
+ },
+ {
+  "offset": "088A9E8",
+  "en": "Rooms cleared: {STR_VAR_2}",
+  "pt": "Salas vencidas: {STR_VAR_2}",
+  "max_width": 144
+ },
+ {
+  "offset": "088A9FC",
+  "en": "KOs in a row: {STR_VAR_2}",
+  "pt": "KOs seguidos: {STR_VAR_2}",
+  "max_width": 132
+ },
+ {
+  "offset": "088AA10",
+  "en": "Floors cleared: {STR_VAR_2}",
+  "pt": "Andares vencidos: {STR_VAR_2}",
+  "max_width": 147
+ },
+ {
+  "offset": "088AA2D",
+  "en": "SAVING…\\nDON'T TURN OFF THE POWER.",
+  "pt": "SALVANDO…\\nNÃO DESLIGUE O APARELHO.",
+  "max_lines": 2,
+  "max_width": 142
+ },
+ {
+  "offset": "088AA4F",
+  "en": "BERRY BLENDER\\nMAXIMUM SPEED RECORD!",
+  "pt": "LIQUIDIFICADOR\\nRECORDE DE VELOC. MÁX.!",
+  "max_lines": 2,
+  "max_width": 128
+ },
+ {
+  "offset": "088AA73",
+  "en": "2 PLAYERS\\n3 PLAYERS\\n4 PLAYERS",
+  "pt": "2 PESSOAS\\n3 PESSOAS\\n4 PESSOAS",
+  "max_lines": 3,
+  "max_width": 61
+ },
+ {
+  "offset": "088AA9A",
+  "en": "PEEKABOO!",
+  "pt": "ACHOU!",
+  "max_width": 58
+ },
+ {
+  "offset": "088AAA4",
+  "en": "Communication error…\\nPlease check all connections,\\nthen turn the power OFF and ON.",
+  "pt": "Erro de comunicação…\\nVerifique todas as conexões\\ne desligue e ligue o aparelho.",
+  "max_lines": 3,
+  "max_width": 173
+ },
+ {
+  "offset": "088AAF7",
+  "en": "Communication error…",
+  "pt": "Erro de comunicação…",
+  "max_width": 134
+ },
+ {
+  "offset": "088AB0C",
+  "en": "Move closer to your link partner(s).\\nAvoid obstacles between partners.",
+  "pt": "Fique perto do(s) parceiro(s) de link.\\nEvite obstáculos entre vocês.",
+  "max_lines": 2,
+  "max_width": 194
+ },
+ {
+  "offset": "088AB53",
+  "en": "A Button: Registration Counter",
+  "pt": "Botão A: Balcão de Inscrição"
+ },
+ {
+  "offset": "088AB72",
+  "en": "A Button: Title Screen",
+  "pt": "Botão A: Tela de título",
+  "max_width": 139
+ },
+ {
+  "offset": "088AB89",
+  "en": "OPTION",
+  "pt": "OPÇÕES",
+  "max_width": 42
+ },
+ {
+  "offset": "088AB90",
+  "en": "TEXT SPEED",
+  "pt": "VEL. TEXTO",
+  "max_width": 63
+ },
+ {
+  "offset": "088AB9B",
+  "en": "BATTLE SCENE",
+  "pt": "CENA BATALHA",
+  "max_width": 75
+ },
+ {
+  "offset": "088ABA8",
+  "en": "BATTLE STYLE",
+  "pt": "ESTILO BAT.",
+  "max_width": 75
+ },
+ {
+  "offset": "088ABB5",
+  "en": "TEXT SKIP",
+  "pt": "PULA TEXTO",
+  "max_width": 57
+ },
+ {
+  "offset": "088ABBF",
+  "en": "AUTOSAVE",
+  "pt": "AUTOSALVA",
+  "max_width": 54
+ },
+ {
+  "offset": "088ABC8",
+  "en": "SOUND",
+  "pt": "SOM",
+  "max_width": 36
+ },
+ {
+  "offset": "088ABCE",
+  "en": "FRAME",
+  "pt": "BORDA",
+  "max_width": 36
+ },
+ {
+  "offset": "088ABD4",
+  "en": "CANCEL",
+  "pt": "VOLTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "088ABDB",
+  "en": "FONT",
+  "pt": "FONTE",
+  "max_width": 30
+ },
+ {
+  "offset": "088ABE0",
+  "en": "TATTLEDEX EVOS",
+  "pt": "EVOL. TATTLEDEX",
+  "max_width": 87
+ },
+ {
+  "offset": "088ABEF",
+  "en": "SKIP MOVE LEARNING",
+  "pt": "PULAR NOVOS GOLPES",
+  "max_width": 126
+ },
+ {
+  "offset": "088AC12",
+  "en": "SAVE",
+  "pt": "SALVAR",
+  "max_width": 42
+ },
+ {
+  "offset": "088AC17",
+  "en": "BUTTON MODE",
+  "pt": "MODO BOTÕES",
+  "max_width": 69
+ },
+ {
+  "offset": "088AC23",
+  "en": "SLOW",
+  "pt": "LENTO",
+  "max_width": 30
+ },
+ {
+  "offset": "088AC28",
+  "en": "MID",
+  "pt": "MÉD.",
+  "max_width": 24
+ },
+ {
+  "offset": "088AC2C",
+  "en": "FAST",
+  "pt": "VELOZ",
+  "max_width": 30
+ },
+ {
+  "offset": "088AC31",
+  "en": "ON",
+  "pt": "SIM",
+  "max_width": 18
+ },
+ {
+  "offset": "088AC34",
+  "en": "OFF",
+  "pt": "NÃO",
+  "max_width": 24
+ },
+ {
+  "offset": "088AC38",
+  "en": "SHIFT",
+  "pt": "TROCAR",
+  "max_width": 36
+ },
+ {
+  "offset": "088AC3E",
+  "en": "SET",
+  "pt": "FIXO",
+  "max_width": 24
+ },
+ {
+  "offset": "088AC42",
+  "en": "METRIC",
+  "pt": "MÉTRICO",
+  "max_width": 42
+ },
+ {
+  "offset": "088AC49",
+  "en": "IMPERIAL",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "088AC52",
+  "en": "EMERALD",
+  "pt": "",
+  "max_width": 48
+ },
+ {
+  "offset": "088AC5A",
+  "en": "FRLG",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088AC5F",
+  "en": "MONO",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088AC64",
+  "en": "STEREO",
+  "pt": "ESTÉREO",
+  "max_width": 42
+ },
+ {
+  "offset": "088AC6B",
+  "en": "TYPE",
+  "pt": "TIPO",
+  "max_width": 30
+ },
+ {
+  "offset": "088AC71",
+  "en": "NORMAL",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088AC78",
+  "en": "LR",
+  "pt": "",
+  "max_width": 18
+ },
+ {
+  "offset": "088AC7B",
+  "en": "L=A",
+  "pt": "",
+  "max_width": 26
+ },
+ {
+  "offset": "088AC7F",
+  "en": "{STR_VAR_1}P LINK",
+  "pt": "",
+  "max_width": 81
+ },
+ {
+  "offset": "088AC88",
+  "en": "BRONZE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088AC8F",
+  "en": "COPPER",
+  "pt": "COBRE",
+  "max_width": 42
+ },
+ {
+  "offset": "088AC96",
+  "en": "SILVER",
+  "pt": "PRATA",
+  "max_width": 42
+ },
+ {
+  "offset": "088AC9D",
+  "en": "GOLD",
+  "pt": "OURO",
+  "max_width": 30
+ },
+ {
+  "offset": "088ACA2",
+  "en": "DAY",
+  "pt": "DIA",
+  "max_width": 24
+ },
+ {
+  "offset": "088ACA8",
+  "en": "CONFIRM",
+  "pt": "OK",
+  "max_width": 48
+ },
+ {
+  "offset": "088ACDB",
+  "en": "TATTLDEX",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "088ACE4",
+  "en": "CAPTURES",
+  "pt": "CAPTURAS",
+  "max_width": 54
+ },
+ {
+  "offset": "088ACED",
+  "en": "POCKETS",
+  "pt": "BOLSOS",
+  "max_width": 48
+ },
+ {
+  "offset": "088ACF5",
+  "en": "POKéNAV",
+  "pt": "",
+  "max_width": 66
+ },
+ {
+  "offset": "088ACFD",
+  "en": "MARIO",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088AD06",
+  "en": "TOAD",
+  "pt": "",
+  "max_width": 30
+ },
+ {
+  "offset": "088AD0B",
+  "en": "CPT. TO",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088AD13",
+  "en": "SAVE",
+  "pt": "SALVAR",
+  "max_width": 42
+ },
+ {
+  "offset": "088AD18",
+  "en": "OPTION",
+  "pt": "OPÇÕES",
+  "max_width": 42
+ },
+ {
+  "offset": "088AD1F",
+  "en": "EXIT",
+  "pt": "SAIR",
+  "max_width": 30
+ },
+ {
+  "offset": "088AD24",
+  "en": "RETIRE",
+  "pt": "DESIST.",
+  "max_width": 42
+ },
+ {
+  "offset": "088AD2B",
+  "en": "REST",
+  "pt": "DESC.",
+  "max_width": 30
+ },
+ {
+  "offset": "088AD30",
+  "en": "SAFARI BALLS\\nStock: {STR_VAR_1}",
+  "pt": "SAFARI BALLS\\nRestam: {STR_VAR_1}",
+  "max_lines": 2,
+  "max_width": 88
+ },
+ {
+  "offset": "088AD47",
+  "en": "PIT\\n{STR_VAR_1}",
+  "pt": "",
+  "max_lines": 2,
+  "max_width": 52
+ },
+ {
+  "offset": "088AD4E",
+  "en": "Floor 1",
+  "pt": "Andar 1",
+  "max_width": 60
+ },
+ {
+  "offset": "088AD56",
+  "en": "Floor 2",
+  "pt": "Andar 2",
+  "max_width": 60
+ },
+ {
+  "offset": "088AD5E",
+  "en": "Floor 3",
+  "pt": "Andar 3",
+  "max_width": 60
+ },
+ {
+  "offset": "088AD66",
+  "en": "Floor 4",
+  "pt": "Andar 4",
+  "max_width": 60
+ },
+ {
+  "offset": "088AD6E",
+  "en": "Floor 5",
+  "pt": "Andar 5",
+  "max_width": 60
+ },
+ {
+  "offset": "088AD76",
+  "en": "Floor 6",
+  "pt": "Andar 6",
+  "max_width": 60
+ },
+ {
+  "offset": "088AD7E",
+  "en": "Floor 7",
+  "pt": "Andar 7",
+  "max_width": 60
+ },
+ {
+  "offset": "088AD86",
+  "en": "Depths",
+  "pt": "Fundo",
+  "max_width": 60
+ },
+ {
+  "offset": "088AD8D",
+  "en": "Link standby…\\n… … B Button: Cancel",
+  "pt": "Aguardando link…\\n… … Botão B: Cancelar",
+  "max_lines": 2,
+  "max_width": 113
+ },
+ {
+  "offset": "088ADB0",
+  "en": "Press the A Button to load event.\\n… … B Button: Cancel",
+  "pt": "Botão A: carregar o evento.\\n… … Botão B: Cancelar",
+  "max_lines": 2,
+  "max_width": 184
+ },
+ {
+  "offset": "088ADE7",
+  "en": "Loading event…",
+  "pt": "Carregando evento…",
+  "max_width": 103
+ },
+ {
+  "offset": "088ADF6",
+  "en": "Don't remove the Game Link cable.\\nDon't turn off the power.",
+  "pt": "Não remova o Cabo Game Link.\\nNão desligue o aparelho.",
+  "max_lines": 2,
+  "max_width": 182
+ },
+ {
+  "offset": "088AE32",
+  "en": "The event was safely loaded.",
+  "pt": "Evento carregado com sucesso.",
+  "max_width": 173
+ },
+ {
+  "offset": "088AE4F",
+  "en": "Loading error.\\nEnding session.",
+  "pt": "Erro ao carregar.\\nFim da sessão.",
+  "max_lines": 2,
+  "max_width": 90
+ },
+ {
+  "offset": "088AE77",
+  "en": "MUSHROOM",
+  "pt": "COGUMELO",
+  "max_width": 54
+ },
+ {
+  "offset": "088AE80",
+  "en": "NATIONAL",
+  "pt": "NACIONAL",
+  "max_width": 54
+ },
+ {
+  "offset": "088AE89",
+  "en": "PLAYER: {CLEAR 10}{COLOR 04}{SHADOW 05}{PLAYER}{COLOR 02}{SHADOW 03}\\n\\nThis document certifies\\nthat you have successfully\\ncompleted the\\nSUPER MARIOMON TATTLEDEX.\\n\\n{CLEAR_TO 32}{COLOR 04}{SHADOW 05}TEAM SUPER MARIOMON",
+  "pt": "JOGADOR: {CLEAR 10}{COLOR 04}{SHADOW 05}{PLAYER}{COLOR 02}{SHADOW 03}\\n\\nEste documento certifica\\nque você completou com\\nsucesso a\\nTATTLEDEX SUPER MARIOMON.\\n\\n{CLEAR_TO 32}{COLOR 04}{SHADOW 05}TEAM SUPER MARIOMON",
+  "max_lines": 8,
+  "max_width": 153
+ },
+ {
+  "offset": "088AF38",
+  "en": "Oh! A bite!",
+  "pt": "Opa! Fisgou!",
+  "max_width": 78
+ },
+ {
+  "offset": "088AF44",
+  "en": "A CAPTURE's on the hook!{PAUSE_UNTIL_PRESS}",
+  "pt": "Uma CAPTURA mordeu a isca!{PAUSE_UNTIL_PRESS}",
+  "max_width": 151
+ },
+ {
+  "offset": "088AF5F",
+  "en": "Not even a nibble…{PAUSE_UNTIL_PRESS}",
+  "pt": "Nem uma beliscada…{PAUSE_UNTIL_PRESS}",
+  "max_width": 119
+ },
+ {
+  "offset": "088AF74",
+  "en": "It got away…{PAUSE_UNTIL_PRESS}",
+  "pt": "Escapou…{PAUSE_UNTIL_PRESS}",
+  "max_width": 90
+ },
+ {
+  "offset": "088AF83",
+  "en": "{STR_VAR_2} will be\\nsent to {STR_VAR_1}.",
+  "pt": "Enviando {STR_VAR_2}\\npara {STR_VAR_1}.",
+  "max_lines": 2,
+  "max_width": 97
+ },
+ {
+  "offset": "088AF9A",
+  "en": "Bye-bye, {STR_VAR_2}!",
+  "pt": "Tchau, {STR_VAR_2}!",
+  "max_width": 118
+ },
+ {
+  "offset": "088AFA7",
+  "en": "{STR_VAR_1} sent over {STR_VAR_3}.",
+  "pt": "{STR_VAR_1} enviou {STR_VAR_3}.",
+  "max_width": 167
+ },
+ {
+  "offset": "088AFB8",
+  "en": "Take good care of {STR_VAR_3}!",
+  "pt": "Cuide bem de {STR_VAR_3}!",
+  "max_width": 165
+ },
+ {
+  "offset": "088AFCE",
+  "en": "CAPTURE",
+  "pt": "CAPTURA",
+  "max_width": 48
+ },
+ {
+  "offset": "088AFD6",
+  "en": "TRAINER",
+  "pt": "TREINAD.",
+  "max_width": 48
+ },
+ {
+  "offset": "088AFDE",
+  "en": "STATUS",
+  "pt": "ESTADO",
+  "max_width": 42
+ },
+ {
+  "offset": "088AFE5",
+  "en": "BATTLE",
+  "pt": "LUTAR",
+  "max_width": 42
+ },
+ {
+  "offset": "088AFEC",
+  "en": "GREETINGS",
+  "pt": "SAUDAÇÃO",
+  "max_width": 60
+ },
+ {
+  "offset": "088AFF6",
+  "en": "PEOPLE",
+  "pt": "PESSOAS",
+  "max_width": 42
+ },
+ {
+  "offset": "088AFFD",
+  "en": "VOICES",
+  "pt": "VOZES",
+  "max_width": 42
+ },
+ {
+  "offset": "088B004",
+  "en": "SPEECH",
+  "pt": "FALA",
+  "max_width": 42
+ },
+ {
+  "offset": "088B00B",
+  "en": "ENDINGS",
+  "pt": "FINAIS",
+  "max_width": 48
+ },
+ {
+  "offset": "088B013",
+  "en": "FEELINGS",
+  "pt": "EMOÇÕES",
+  "max_width": 54
+ },
+ {
+  "offset": "088B01C",
+  "en": "CONDITIONS",
+  "pt": "CONDIÇÕES",
+  "max_width": 66
+ },
+ {
+  "offset": "088B027",
+  "en": "ACTIONS",
+  "pt": "AÇÕES",
+  "max_width": 48
+ },
+ {
+  "offset": "088B02F",
+  "en": "LIFESTYLE",
+  "pt": "COTIDIANO",
+  "max_width": 60
+ },
+ {
+  "offset": "088B039",
+  "en": "HOBBIES",
+  "pt": "LAZER",
+  "max_width": 48
+ },
+ {
+  "offset": "088B041",
+  "en": "TIME",
+  "pt": "TEMPO",
+  "max_width": 30
+ },
+ {
+  "offset": "088B046",
+  "en": "MISC.",
+  "pt": "",
+  "max_width": 33
+ },
+ {
+  "offset": "088B04C",
+  "en": "ADJECTIVES",
+  "pt": "ADJETIVOS",
+  "max_width": 66
+ },
+ {
+  "offset": "088B057",
+  "en": "EVENTS",
+  "pt": "EVENTOS",
+  "max_width": 42
+ },
+ {
+  "offset": "088B05E",
+  "en": "MOVE 1",
+  "pt": "GOLPE 1",
+  "max_width": 39
+ },
+ {
+  "offset": "088B065",
+  "en": "MOVE 2",
+  "pt": "GOLPE 2",
+  "max_width": 39
+ },
+ {
+  "offset": "088B06C",
+  "en": "TRENDY SAYING",
+  "pt": "FRASE DA MODA",
+  "max_width": 81
+ },
+ {
+  "offset": "088B07A",
+  "en": "POKéMON2",
+  "pt": "CAPTURAS 2",
+  "max_width": 72
+ },
+ {
+  "offset": "088B087",
+  "en": "MAX. HP",
+  "pt": "HP MÁX.",
+  "max_width": 42
+ },
+ {
+  "offset": "088B08F",
+  "en": "ATTACK",
+  "pt": "ATAQUE",
+  "max_width": 42
+ },
+ {
+  "offset": "088B096",
+  "en": "DEFENSE",
+  "pt": "DEFESA",
+  "max_width": 48
+ },
+ {
+  "offset": "088B09E",
+  "en": "SPEED",
+  "pt": "VELOC.",
+  "max_width": 36
+ },
+ {
+  "offset": "088B0A4",
+  "en": "SP. ATK",
+  "pt": "AT.ESP.",
+  "max_width": 42
+ },
+ {
+  "offset": "088B0AC",
+  "en": "SP. DEF",
+  "pt": "DEF.ESP.",
+  "max_width": 42
+ },
+ {
+  "offset": "088B0B9",
+  "en": "From ",
+  "pt": "De ",
+  "max_width": 50
+ },
+ {
+  "offset": "088B0BF",
+  "en": "Mixing records…",
+  "pt": "Misturando dados…",
+  "max_width": 105
+ },
+ {
+  "offset": "088B0CF",
+  "en": "Record mixing completed.\\nThank you for waiting.",
+  "pt": "Mistura concluída.\\nAgradecemos a espera.",
+  "max_lines": 2,
+  "max_width": 138
+ },
+ {
+  "offset": "088B10A",
+  "en": "BOX NAME?",
+  "pt": "NOME?",
+  "max_width": 57
+ },
+ {
+  "offset": "088B114",
+  "en": "{STR_VAR_1}'s nickname?",
+  "pt": "Apelido de {STR_VAR_1}?",
+  "max_width": 130
+ },
+ {
+  "offset": "088B123",
+  "en": "Tell him the words.",
+  "pt": "Diga as palavras a ele.",
+  "max_width": 119
+ },
+ {
+  "offset": "088B137",
+  "en": "{F8 0C}MOVE  {F8 00}OK  {F8 01}BACK",
+  "pt": "{F8 0C}MOVER  {F8 00}OK  {F8 01}SAIR",
+  "max_width": 114
+ },
+ {
+  "offset": "088B14C",
+  "en": "A call can't be made from here.",
+  "pt": "Não dá para ligar daqui."
+ },
+ {
+  "offset": "088B16C",
+  "en": "HANDSOME",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "088B175",
+  "en": "VINNY",
+  "pt": "",
+  "max_width": 36
+ },
+ {
+  "offset": "088B17B",
+  "en": "MOREME",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088B182",
+  "en": "IRONHARD",
+  "pt": "",
+  "max_width": 54
+ },
+ {
+  "offset": "088B18B",
+  "en": "MUSCLE",
+  "pt": "",
+  "max_width": 42
+ },
+ {
+  "offset": "088B192",
+  "en": "coolness",
+  "pt": "estilo",
+  "max_width": 70
+ },
+ {
+  "offset": "088B19B",
+  "en": "beauty",
+  "pt": "beleza",
+  "max_width": 60
+ },
+ {
+  "offset": "088B1A2",
+  "en": "cuteness",
+  "pt": "fofura",
+  "max_width": 72
+ },
+ {
+  "offset": "088B1AB",
+  "en": "smartness",
+  "pt": "inteligência",
+  "max_width": 77
+ },
+ {
+  "offset": "088B1B5",
+  "en": "toughness",
+  "pt": "garra",
+  "max_width": 78
+ },
+ {
+  "offset": "088B1BF",
+  "en": "Lady",
+  "pt": "Dama",
+  "max_width": 48
+ },
+ {
+  "offset": "088B1C4",
+  "en": "slippery",
+  "pt": "liso",
+  "max_width": 67
+ },
+ {
+  "offset": "088B1CD",
+  "en": "roundish",
+  "pt": "redondinho",
+  "max_width": 69
+ },
+ {
+  "offset": "088B1D6",
+  "en": "wham-ish",
+  "pt": "pancadão",
+  "max_width": 70
+ },
+ {
+  "offset": "088B1DF",
+  "en": "shiny",
+  "pt": "brilhante",
+  "max_width": 52
+ },
+ {
+  "offset": "088B1E5",
+  "en": "sticky",
+  "pt": "grudento",
+  "max_width": 58
+ },
+ {
+  "offset": "088B1EC",
+  "en": "pointy",
+  "pt": "pontudo",
+  "max_width": 58
+ },
+ {
+  "offset": "088B1F3",
+  "en": "RENTAL CAPTURE",
+  "pt": "CAPTURA ALUGADA",
+  "max_width": 87
+ },
+ {
+  "offset": "088B202",
+  "en": "Select the first CAPTURE.",
+  "pt": "Escolha a primeira CAPTURA.",
+  "max_width": 157
+ },
+ {
+  "offset": "088B21C",
+  "en": "Select the second CAPTURE.",
+  "pt": "Escolha a segunda CAPTURA.",
+  "max_width": 166
+ },
+ {
+  "offset": "088B237",
+  "en": "Select the third CAPTURE.",
+  "pt": "Escolha a terceira CAPTURA.",
+  "max_width": 157
+ },
+ {
+  "offset": "088B251",
+  "en": "RENT",
+  "pt": "PEGAR",
+  "max_width": 30
+ },
+ {
+  "offset": "088B256",
+  "en": "SUMMARY",
+  "pt": "RESUMO",
+  "max_width": 48
+ },
+ {
+  "offset": "088B25E",
+  "en": "OTHERS",
+  "pt": "OUTRAS",
+  "max_width": 42
+ },
+ {
+  "offset": "088B265",
+  "en": "DESELECT",
+  "pt": "DESMARCAR",
+  "max_width": 54
+ },
+ {
+  "offset": "088B26E",
+  "en": "Are these three CAPTURES OK?",
+  "pt": "Estas três CAPTURAS estão OK?"
+ },
+ {
+  "offset": "088B292",
+  "en": "Can't select same {PK}{MN}.",
+  "pt": "Não pode repetir {PK}{MN}.",
+  "max_width": 137
+ },
+ {
+  "offset": "088B2A8",
+  "en": "CAPTURE SWAP",
+  "pt": "TROCA CAPTURA",
+  "max_width": 75
+ },
+ {
+  "offset": "088B2B5",
+  "en": "Select CAPTURE to swap.",
+  "pt": "Qual CAPTURA trocar?",
+  "max_width": 148
+ }
+]
